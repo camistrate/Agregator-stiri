@@ -1,6 +1,4 @@
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
+import java.io.*;
 import java.util.*;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ConcurrentHashMap;
@@ -31,8 +29,8 @@ public class Tema1 {
     private static ConcurrentHashMap<String, Integer> keywordCount =  new ConcurrentHashMap<>();
 
     // uuid-urille puse pe categorie/limba
-    private static ConcurrentHashMap<String, List<String>> categoryToUUIDs =  new ConcurrentHashMap<>();
-    private static ConcurrentHashMap<String, List<String>> languageToUUIDs =  new ConcurrentHashMap<>();
+    private static ConcurrentHashMap<String, Set<String>> categoryToUUIDs =  new ConcurrentHashMap<>();
+    private static ConcurrentHashMap<String, Set<String>> languageToUUIDs =  new ConcurrentHashMap<>();
 
     // lista cu toate articolele unice
     private static List<ArticleInfo> allArticles = Collections.synchronizedList(new ArrayList<>());
@@ -45,6 +43,14 @@ public class Tema1 {
     static Object monitor;
 
     static Set<String> linkingWords = new HashSet<>();
+
+    // limbile si categoriile din fisierele de intrare
+    static List<String> languagesOrder =  new ArrayList<>();
+    static List<String> categoriesOrder =  new ArrayList<>();
+
+    // pentru membership rapid
+    static Set<String> languagesSet = new HashSet<>();
+    static Set<String> categoriesSet = new HashSet<>();
 
     static class ArticleInfo {
         String uuid;
@@ -112,6 +118,8 @@ public class Tema1 {
 
                 // iteram prin articole
                 for (Map<String, Object> article : articles) {
+                    totalArticles.incrementAndGet();
+
                     String uuid = (String) article.get("uuid");
                     String title = (String) article.get("title");
 
@@ -144,10 +152,14 @@ public class Tema1 {
                     String uuid = (String) article.get("uuid");
                     String title = (String) article.get("title");
 
+
                     // verificare duplicate
                     if (uuidCount.get(uuid) != 1 || titleCount.get(title) != 1) {
                         continue;
                     }
+
+                    // articol unic (dupa uuid si title)
+                    uniqueArticles.incrementAndGet();
 
                     // extragem campurile necesare
                     String author = (String) article.get("author");
@@ -161,30 +173,41 @@ public class Tema1 {
                     // update autori
                     authorCount.merge(author, 1, Integer::sum);
 
-                    //updat limbi
-                    languageCount.merge(language, 1, Integer::sum);
-
-                    // update categorii
-                    for (String cat : cats) {
-                        categoryCount.merge(cat, 1, Integer::sum);
-                    }
-
                     // uuid -> limba
-                    List<String> list = languageToUUIDs.get(language);
-                    if (list == null) {
-                        list = Collections.synchronizedList(new ArrayList<>());
-                        languageToUUIDs.put(language, list);
-                    }
-                    list.add(uuid);
+                    if (languagesSet.contains(language)) {
+                        //update limbi
+                        languageCount.merge(language, 1, Integer::sum);
 
-                    // uuid -> categorii
-                    for (String cat : cats) {
-                        List<String> list2 = categoryToUUIDs.get(cat);
-                        if (list2 == null) {
-                            list2 = Collections.synchronizedList(new ArrayList<>());
-                            categoryToUUIDs.put(cat, list2);
+                        languageToUUIDs
+                                .computeIfAbsent(language, k -> ConcurrentHashMap.newKeySet())
+                                .add(uuid);
+
+                    }
+
+                    // procesare categorii
+                    // extragem lista brută
+                    Object rawCats = article.get("categories");
+                    List<?> catsRaw = (rawCats instanceof List<?>) ? (List<?>) rawCats : Collections.emptyList();
+
+                    // eliminăm duplicatele interne + filtrăm categoriile invalide
+                    Set<String> uniqueCats = new HashSet<>();
+
+                    for (Object oc : catsRaw) {
+                        if (oc instanceof String s) {
+                            String cat = s.trim();
+                            if (!cat.isEmpty() && categoriesSet.contains(cat)) {
+                                uniqueCats.add(cat);     // elimina duplicate interne
+                            }
                         }
-                        list2.add(uuid);
+                    }
+
+                    // update categoryCount + mapare uuid -> categorie
+                    for (String cat : uniqueCats) {
+                        categoryCount.merge(cat, 1, Integer::sum);
+
+                        categoryToUUIDs
+                                .computeIfAbsent(cat, k -> ConcurrentHashMap.newKeySet())  // SET, nu List
+                                .add(uuid);   // set elimina duplicate complet
                     }
 
                     // lista allArticles
@@ -195,6 +218,7 @@ public class Tema1 {
                         String text = (String) article.get("text");
                         processEnglishKeywords(text);
                     }
+
                 }
             } catch (Exception e) {
                 System.err.println("Eroare la citirea fisierului " + filePath);
@@ -202,23 +226,344 @@ public class Tema1 {
             }
 
             // decrementam
-            if (tasksRemaining.decrementAndGet() == 0) {
-                synchronized (monitor) {
-                    monitor.notifyAll();
-                }
-            }
+//            if (tasksRemaining.decrementAndGet() == 0) {
+//                synchronized (monitor) {
+//                    monitor.notifyAll();
+//                }
+//            }
         }
     }
 
     static void processEnglishKeywords(String text) {
-        String[] tokens = text.toLowerCase().split("[^a-z]+");
+        if (text == null) return;
+
+        // lowercase
+        text = text.toLowerCase();
+
+        // split doar dupa spatiu
+        String[] tokens = text.split("\\s+");
+
+        Set<String> wordsInArticle = new HashSet<>();
+
         for (String token : tokens) {
+            if (token.isEmpty()) continue;
+
+            // eliminam tot ce nu e litera
+            token = token.replaceAll("[^a-z]", "");
+
             if (token.isEmpty()) continue;
             if (linkingWords.contains(token)) continue;
 
-            keywordCount.merge(token, 1, Integer::sum);
+            wordsInArticle.add(token);
+        }
+
+        // contorizam
+        for (String word : wordsInArticle) {
+            keywordCount.merge(word, 1, Integer::sum);
         }
     }
+
+    static void loadAuxFiles(String inputsFilePath) {
+        File inputsFile = new File(inputsFilePath);
+
+        if (!inputsFile.exists()) {
+            System.err.println("Input file " + inputsFilePath + " nu exista");
+            return;
+        }
+
+        try (BufferedReader br = new BufferedReader(new FileReader(inputsFile))) {
+            String line = br.readLine();
+            if (line == null) {
+                System.err.println("Input file " + inputsFilePath + " e gol");
+                return;
+            }
+
+            int n = Integer.parseInt(line.trim());
+
+            if (n < 3) {
+                System.err.println("Input file " + inputsFilePath + " nu e valid");
+                return;
+            }
+
+            String langPath = br.readLine().trim();
+            String catPath = br.readLine().trim();
+            String linkPath = br.readLine().trim();
+
+            File base = inputsFile.getParentFile();
+
+            loadLanguages(new File(base, langPath));
+            loadCategories(new File(base, catPath));
+            loadLinkingWords(new File(base, linkPath));
+        } catch (Exception e) {
+            System.err.println("Eroare la citirea fisierului " + inputsFilePath);
+            e.printStackTrace();
+        }
+    }
+
+    static void loadLanguages(File file) {
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            String line = br.readLine();
+            if (line == null) return;
+
+            int n = Integer.parseInt(line.trim());
+            for (int i = 0; i < n; i++) {
+                String lang = br.readLine();
+                if (lang == null) break;
+                lang = lang.trim();
+                if (lang.isEmpty()) continue;
+                languagesOrder.add(lang);
+                languagesSet.add(lang);
+            }
+        } catch (Exception e) {
+            System.err.println("Eroare la citirea fisierului de limbi: " + file.getAbsolutePath());
+            e.printStackTrace();
+        }
+    }
+
+    static void loadCategories(File file) {
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            String line = br.readLine();
+            if (line == null) return;
+
+            int n = Integer.parseInt(line.trim());
+            for (int i = 0; i < n; i++) {
+                String cat = br.readLine();
+                if (cat == null) break;
+                cat = cat.trim();
+                if (cat.isEmpty()) continue;
+                categoriesOrder.add(cat);
+                categoriesSet.add(cat);
+            }
+        } catch (Exception e) {
+            System.err.println("Eroare la citirea fisierului de categorii: " + file.getAbsolutePath());
+            e.printStackTrace();
+        }
+    }
+
+    static void loadLinkingWords(File file) {
+        try (BufferedReader br = new BufferedReader(new FileReader(file))) {
+            String line = br.readLine();
+            if (line == null) return;
+
+            int n = Integer.parseInt(line.trim());
+            for (int i = 0; i < n; i++) {
+                String w = br.readLine();
+                if (w == null) break;
+                w = w.trim().toLowerCase();
+                if (w.isEmpty()) continue;
+                linkingWords.add(w);
+            }
+        } catch (Exception e) {
+            System.err.println("Eroare la citirea fisierului de linking words: " + file.getAbsolutePath());
+            e.printStackTrace();
+        }
+    }
+
+    static String normalizeCategoryName(String categoryName) {
+        if (categoryName == null) return "";
+        String noCommas = categoryName.replace(",", "");
+        String trimmed = noCommas.trim();
+        return trimmed.replaceAll("\\s+", "_");
+    }
+
+    static void writeUuidList(String filename, List<String> uuids) {
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter(filename))) {
+            for (String u : uuids) {
+                bw.write(u);
+                bw.newLine();
+            }
+        } catch (IOException e) {
+            System.err.println("Eroare la scrierea fisierului " + filename);
+            e.printStackTrace();
+        }
+    }
+
+    static void generateAllArticlesFile() {
+        List<ArticleInfo> list = new ArrayList<>(allArticles);
+
+        // sortam descrescator dupa published, la egalitate dupa uuid
+        Collections.sort(list, (a, b) -> {
+            int cmp = b.published.compareTo(a.published);
+            if (cmp != 0) return cmp;
+            return a.uuid.compareTo(b.uuid);
+        });
+
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("all_articles.txt"))) {
+            for (ArticleInfo art : list) {
+                bw.write(art.uuid);
+                bw.write(" ");
+                bw.write(art.published);
+                bw.newLine();
+            }
+        } catch (IOException e) {
+            System.err.println("Eroare la scrierea all_articles.txt");
+            e.printStackTrace();
+        }
+    }
+
+    static void generateLanguageFiles() {
+        for (String lang : languagesOrder) {
+            Set<String> uuids = languageToUUIDs.get(lang);
+            if (uuids == null || uuids.isEmpty()) {
+                // PDF: daca nu exista articole pentru limba respectiva, nu generam fisier
+                continue;
+            }
+
+            List<String> copy = new ArrayList<>(uuids);
+            Collections.sort(copy); // lexicografic dupa uuid
+
+            String filename = lang + ".txt";
+            writeUuidList(filename, copy);
+        }
+    }
+
+    static void generateCategoryFiles() {
+        for (String cat : categoriesOrder) {
+            Set<String> uuids = categoryToUUIDs.get(cat);
+            if (uuids == null || uuids.isEmpty()) {
+                // daca nu exista articole pentru categoria respectiva, nu generam fisier
+                continue;
+            }
+
+            List<String> copy = new ArrayList<>(uuids);
+            Collections.sort(copy); // lexicografic dupa uuid
+
+            String filename = normalizeCategoryName(cat) + ".txt";
+            writeUuidList(filename, copy);
+        }
+    }
+
+    static void generateKeywordsFile() {
+        List<String> words = new ArrayList<>(keywordCount.keySet());
+        Collections.sort(words);
+        List<Map.Entry<String,Integer>> entries = new ArrayList<>();
+        for (String w : words) {
+            entries.add(Map.entry(w, keywordCount.get(w)));
+        }
+
+        Collections.sort(entries, (a, b) -> {
+            int cmp = Integer.compare(b.getValue(), a.getValue());  // count descrescător
+            if (cmp != 0) return cmp;
+            return a.getKey().compareTo(b.getKey()); // lexicografic crescător
+        });
+
+
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("keywords_count.txt"))) {
+            for (Map.Entry<String, Integer> e : entries) {
+                bw.write(e.getKey());
+                bw.write(" ");
+                bw.write(Integer.toString(e.getValue()));
+                bw.newLine();
+            }
+        } catch (IOException e) {
+            System.err.println("Eroare la scrierea keywords.txt");
+            e.printStackTrace();
+        }
+    }
+
+    static void generateReportsFile() {
+        int total = totalArticles.get();
+        int unique = uniqueArticles.get();
+        int duplicates = total - unique;
+
+        try (BufferedWriter bw = new BufferedWriter(new FileWriter("reports.txt"))) {
+
+            bw.write("duplicates_found - " + duplicates);
+            bw.newLine();
+
+            bw.write("unique_articles - " + unique);
+            bw.newLine();
+
+            // best_author
+            String bestAuthor = "-";
+            int bestAuthorCount = 0;
+            List<String> authors = new ArrayList<>(authorCount.keySet());
+            Collections.sort(authors);
+            for (String name : authors) {
+                int cnt = authorCount.get(name);
+                if (cnt > bestAuthorCount ||
+                        (cnt == bestAuthorCount && name.compareTo(bestAuthor) < 0)) {
+                    bestAuthorCount = cnt;
+                    bestAuthor = name;
+                }
+            }
+            bw.write("best_author - " + bestAuthor + " " + bestAuthorCount);
+            bw.newLine();
+
+            // top_language
+            String bestLang = "-";
+            int bestLangCount = 0;
+            for (String lang : languagesOrder) {
+                int cnt = languageCount.getOrDefault(lang, 0);
+                if (cnt > bestLangCount ||
+                        (cnt == bestLangCount && cnt > 0 && lang.compareTo(bestLang) < 0)) {
+                    bestLangCount = cnt;
+                    bestLang = lang;
+                }
+            }
+            bw.write("top_language - " + bestLang + " " + bestLangCount);
+            bw.newLine();
+
+            // top_category (folosim numele normalizat in output)
+            String bestCat = "-";
+            int bestCatCount = 0;
+            for (String cat : categoriesOrder) {
+                int cnt = categoryCount.getOrDefault(cat, 0);
+                if (cnt == 0) continue;
+
+                String norm = normalizeCategoryName(cat);
+                if (cnt > bestCatCount ||
+                        (cnt == bestCatCount &&
+                                norm.compareTo(normalizeCategoryName(bestCat)) < 0)) {
+                    bestCat = norm;
+                    bestCatCount = cnt;
+                }
+            }
+            String bestCatNorm = (bestCat == null) ? "-" : normalizeCategoryName(bestCat);
+            bw.write("top_category - " + bestCatNorm + " " + bestCatCount);
+            bw.newLine();
+
+            // most_recent_article
+            ArticleInfo mostRecent = null;
+            for (ArticleInfo art : allArticles) {
+                if (mostRecent == null) {
+                    mostRecent = art;
+                } else {
+                    int cmp = art.published.compareTo(mostRecent.published);
+                    if (cmp > 0 || (cmp == 0 && art.uuid.compareTo(mostRecent.uuid) < 0)) {
+                        mostRecent = art;
+                    }
+                }
+            }
+            if (mostRecent == null) {
+                bw.write("most_recent_article - - -");
+            } else {
+                bw.write("most_recent_article - " +
+                        mostRecent.published + " " + mostRecent.url);
+            }
+            bw.newLine();
+
+            // top_keyword_en
+            String bestWord = "-";
+            int bestWordCount = 0;
+            for (Map.Entry<String, Integer> e : keywordCount.entrySet()) {
+                String w = e.getKey();
+                int cnt = e.getValue();
+                if (cnt > bestWordCount ||
+                        (cnt == bestWordCount && w.compareTo(bestWord) < 0)) {
+                    bestWordCount = cnt;
+                    bestWord = w;
+                }
+            }
+            bw.write("top_keyword_en - " + bestWord + " " + bestWordCount);
+            bw.newLine();
+
+        } catch (IOException e) {
+            System.err.println("Eroare la scrierea reports.txt");
+            e.printStackTrace();
+        }
+    }
+
 
     public static void main(String[] args) {
         // PASLUL 1 - validarea argumentelor in linia de comanda
@@ -260,8 +605,7 @@ public class Tema1 {
                 String relPath = br.readLine().trim();
 
                 // Construim absolut calea pornind de la directorul lui articles.txt
-                File base = articlesListFile.getParentFile();
-                File resolved = new File(base, relPath);
+                File resolved = new File(articlesListFile.getParentFile(), relPath).getCanonicalFile();
 
                 if (!resolved.exists()) {
                     System.err.println("Fisier JSON inexistent: " + resolved.getAbsolutePath());
@@ -279,6 +623,8 @@ public class Tema1 {
         System.out.println("Fisiere JSON pentru test: " + jsonInputFiles.size());
         for (String f : jsonInputFiles) System.out.println(" - " + f);
 
+        String inputsPath = args[2];
+        loadAuxFiles(inputsPath);
 
         // PASUL 2 - infrastructura workerilor
 
@@ -329,6 +675,12 @@ public class Tema1 {
             }
         }
 
+        // FAZA 3 - generare fisiere de iesire
+        generateAllArticlesFile();
+        generateCategoryFiles();
+        generateLanguageFiles();
+        generateKeywordsFile();
+        generateReportsFile();
 
 
         shutdown = true;

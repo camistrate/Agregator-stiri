@@ -13,3 +13,4 @@ run:
 # Curățare
 clean:
 	rm -rf bin/*
+	rm -f *.txt

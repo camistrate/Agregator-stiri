@@ -1,0 +1,610 @@
+[
+  {
+    "uuid": "85248deab75d68d49a0e5a6f81161fa78a9bc373",
+    "url": "https://finance.sina.com.cn/roll/2025-07-31/doc-infiitzv2921670.shtml",
+    "ord_in_thread": 0,
+    "author": "中宏网官微",
+    "published": "2025-07-31T04:01:00Z",
+    "title": "云天励飞递交港股上市申请，加注AI推理芯片赛道_新浪财经_新浪网",
+    "text": "7月30日， 云天励飞 发布公告，公司已向香港联交所递交了发行境外上市股份（H股）并在港交所主板挂牌上市的申请。这意味着，继 2023 年登陆科创板之后，云天励飞正迈向 “A+H” 双重上市的新阶段，加快国际化资本布局。\n　　招股书显示，云天励飞是中国首家实现国产高算力AI推理芯片商业化的公司；同时，也是全球范围内第一批推出NPU驱动的AI推理芯片，并实现市场化落地的企业。\n　　根据灼识咨询报告，按2024年中国市场相关收入统计，云天励飞是中国排名前三的行业领先全场景AI推理芯片产品及服务提供商；在NPU驱动的AI推理芯片产品及服务提供商中，公司排名中国第二。\n　　云天励飞的AI推理芯片已在端、边、云三大领域布局，基于AI推理芯片相关产品及服务，公司推出了面向企业、消费、行业三大类应用场景的系列产品。\n　　企业级场景方面，主要涵盖了AI推理芯片及相关产品、算力服务以及IP授权服务，主要应用于SoC（系统级芯片）开发、大模型服务以及服务 机器人 等企业应用场景。消费级场景方面，公司研发了AI拍学机、AI眼镜、AI毛绒玩具等AI原生产品。行业及场景方面，基于自研IFMind大模型、Nova及AI推理芯片，研发了面向智慧城市等领域的软硬件一体化解决方案。\n　　2025年一季度，云天励飞企业级、消费级、行业级场景营收分别占公司总营收的47.3%、42.5%和10.2%。\n　　灼识咨询报告指出，中国AI推理芯片相关产品及服务行业正处于快速增长阶段。市场规模已从2020年的人民币113亿元增长至2024年的人民币1,626亿元，复合年增长率高达94.9%。预计2024年至2029年，该市场将以53.4%的复合年增长率持续增长，到2029年有望达到人民币13,830亿元。\n　　招股书显示，未来云天励飞将通过一系列战略举措进一步推动业务增长。公司计划针对端、边、云等关键应用场景，不断扩展其产品组合。同时，通过加强与产业链上下游伙伴的合作，公司将整合产业资源，全面提升整体竞争力。此外，公司也将审慎寻求战略合作、投资及并购机会，以期实现业务的跨越式发展。\n　　2025 WAIC期间，云天励飞宣布未来将进一步加大对AI推理芯片的投入，未来公司将围绕边缘计算、云端大模型推理、具身智能三大核心布局。\n　　在边缘计算领域，云天励飞历经十余年产品实践，已积累大量技术Know-how。目前公司在高密度视频智能分析、小规模边缘大模型推理等典型场景，已实现多个示范项目落地，并获得行业头部客户的高度认可。凭借在低功耗、高性能、模块化部署方面的优势，云天励飞的边缘芯片产品正持续拓展其在城市治理、智慧交通等场景的市场应用。\n　　在云端推理加速领域，云天励飞已经推出基于国产工艺打造的推理加速卡，采用“算力积木”架构：通过Chiplet封装多颗中小算力芯粒，实现模块化扩展与任务并行，配合自研软件栈和工具链，在算力调度、成本控制和封装灵活性方面实现突破。该架构不仅支持一次设计、多种封装，也显著提升了芯片的适配效率与产品迭代速度。\n　　在具身智能领域，云天励飞已与十余家机器人厂商建立合作关系，边缘芯片产品应用于服务型机器人已进入实际部署阶段。随着VLA（视觉-语言-动作）大模型的不断演进，3-5年内具身智能将成为机器人产业新的增长引擎。为此，公司也在这一领域进行了战略部署。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Politics"
+    ],
+    "topics": [
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->scientific innovation",
+      "Politics->economic policy",
+      "Politics->international organisation",
+      "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:03:24.153+03:00",
+    "updated": "2025-08-01T08:07:12.000+03:00"
+  },
+  {
+    "uuid": "31dd1fa6809be538ed48154aed894c10a433cfb1",
+    "url": "https://www.foxnews.com/lifestyle/wwii-veteran-100-finally-receives-college-diploma-60-years-graduation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Christine Rousselle",
+    "published": "2024-05-02T21:17:00Z",
+    "title": "WWII veteran, 100, finally receives his college diploma nearly 60 years after graduation | Fox News",
+    "text": "A 100-year-old veteran of World War II, the Korean War and the Vietnam War thought he was going to a celebration for his 100th birthday and to honor his contributions to the University of Maryland Global Campus, his alma mater. Instead, Jack Milton this week received the surprise of a lifetime : his long-overdue graduation ceremony.\"I’ve had many ceremonies throughout my life, fortunately, to celebrate many occasions, but this has to be the tops,\" Milton told Fox 5 DC . TEXAS 98-YEAR-OLD WWII VETERAN RECEIVES HIGH SCHOOL DIPLOMA \"I feel like this is the finale of a long journey in education — and again, I keep using the word appreciative, but I can’t think of any other word,\" he added. Milton, 100, enrolled at the University of Maryland Global Campus in the 1960s while he was working at the Pentagon . At the time, the school was called University of Maryland, University College. Jack Milton, front and center, finally had a graduation ceremony from the University of Maryland Global Campus on Tuesday, April 30. He missed his original ceremony in the 1960s because he was called to serve in Vietnam. (Fox 5 DC) Then, and now, the school caters to non-traditional college students, including veterans, and offers both in-person and distance learning. Milton was a military pilot for 31 years. He amassed more than 12,000 flying hours, said a 2021 article from Achiever, the University of Maryland Global Campus magazine.During his career in the Air Force, Milton was awarded a Distinguished Flying Cross and flew combat missions in Vietnam. TIKTOK STAR AND WWII VETERAN 'PAPA JAKE' TURNS 100, WANTS FUTURE GENERATIONS TO KNOW HIS STORIES Milton had earned enough credits for his bachelor of arts diploma, and was planning on walking the stage at graduation in 1966. But before that could happen, he was deployed to Vietnam.It had always irked him that he never formally received his diploma, he said. Milton earned his bachelor of arts degree in 1966 from the University of Maryland Global Campus, but he couldn't attend his graduation ceremony because he was called to serve in Vietnam. He spent 31 years in the Air Force before retiring from the military. (Fox 5 DC) \"On my way to Southeast Asia, I had many thoughts about not being there to see my fellow graduates,\" Milton said to Fox 5 DC. President Gregory Fowler, PhD, of the University of Maryland Global Campus said it was an honor to present Milton with his diploma and graduation cap — several decades after it was supposed to have happened. CALIFORNIA WWII VETERAN, 103, SHARES REMARKABLE LIFE STORY AND ADVICE FOR YOUNG PEOPLE: 'PRAY EVERY NIGHT' \"I hereby confer upon John L. Milton the degree of bachelor of arts with all the rights and privileges thereto and pertaining. Congratulations,\" said Fowler. Milton, age 100, said he's enjoyed \"a lot of ceremonies\" in his life, but this one was the best of all. (Fox 5 DC) After he returned from Vietnam, Milton, along with his wife, Symantha Milton, remained involved in the University of Maryland Global Campus community. CLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER They especially supported programs for active military and veterans enrolled at the school. In 2010, the Miltons established the John L. and Symantha Milton Scholarship Fund, which supports another University of Maryland Global Campus scholarship fund specifically for volunteer caregivers of injured military servicemembers, said Achiever. Fox News Digital reached out to the University of Maryland Global Campus for additional comment. For more Lifestyle articles, visit www.foxnews.com/lifestyle .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://fox5dc.com/news/umgc-honors-wwii-veteran-100-with-long-awaited-graduation-ceremony",
+      "https://www.fox5dc.com/news/umgc-honors-wwii-veteran-100-with-long-awaited-graduation-ceremony"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "milton",
+          "sentiment": "none"
+        },
+        {
+          "name": "fox",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack milton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fox news",
+          "sentiment": "positive"
+        },
+        {
+          "name": "university of maryland",
+          "sentiment": "none"
+        },
+        {
+          "name": "university college",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of maryland global campus",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pentagon",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-04T16:32:37.730+03:00",
+    "updated": "2024-05-06T10:19:49.701+03:00"
+  },
+  {
+    "uuid": "76526771354ff1f0897d9972eaad248f5c552d87",
+    "url": "https://amandala.com.bz/news/nazarene-girls-gwen-liz-boys-win-csssa-softball-championships",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deshan Swasey",
+    "published": "2025-03-19T22:01:00Z",
+    "title": "Nazarene girls & Gwen Liz boys win CSSSA softball championships",
+    "text": "Nazarene High School girls – CSSSA 2025 Female Softball Champions\nby William Ysaguirre (Freelance Writer)\nBELIZE CITY, Mon. Mar. 17, 2025\nThe defending national high school softball champions – the Nazarene High School girls and Gwen Lizarraga High School boys will represent the Central Zone at the National Secondary Schools Sports Association (NSSSA) softball championships, to be hosted by Toledo Community College at the Victor Sanchez Union Stadium in Punta Gorda Town on Friday and Saturday, March 21-22.\nThe Nazarene girls and the Gwen Li boys won the Central Secondary Schools Sports Association (CSSSA) softball championships at the Rogers Stadium in Belize City on Saturday morning, March 15.\nFEMALES\nBest pitcher Jaysha Weir struck out 8 batters as she led the Nazarene girls to a 19-12 win over the Edward P. Yorke girls by mercy rule in the 4th inning. The E.P. Yorke girls collected 2 hits off Weir, who walked 9 batters. The Nazarene diamond made 7 errors, which allowed Malesha Frazer to cross the plate 3 times, while Kayla Morris, Zyra Smith, and Hannah Perriot each scored twice. Tijae Robateau, Kennise Gabourel and Junita Benjamin each scored a run.\nNazarene’s (l to r) Jaysha Weir – Best Pitcher, and Helen\nCassasola – MVP\nThe Nazarene girls collected 3 hits off Hannah Perriot who struck out 5 batters and walked 8. The E.P. Yorke diamond made 13 errors, allowing MVP Helen Cassasola to round the bases 4 times, while Weir and Jamiah Rhaburn each crossed the plate thrice. Juliana Baldwin, Abriana Teck and Chayann Pollard each scored 2 runs, and Sharday Howard and Kaci Barrow each scored once.\nMALES\nBest pitcher Raymond Gentle, Jr. struck out 7 batters as he led the Gwen Liz boys to a 13-3 win over the Wesley College boys by mercy rule in 3 innings. Gentle gave up no hits, but walked 4 batters, and the Gwen Liz diamond made 5 errors, allowing Wesley’s Kirkland Davis, Daewyn Castillo and Devaun Myvett to score a run apiece.\nGwen Lizarraga High School boys – CSSSA 2025 Male Softball Champions\nWesley’s pitcher Tyrell Young struck out one batter and walked 4, but the diamond made 12 errors, allowing Milton Flores and Augustine Pitterson to each cross the plate thrice. MVP Shane Vernon scored twice, and Jauvann Morgan, Ryan Yorke, Ajere August, Kurt Coleman and Devin McCaulay scored a run each.\nGwen Liz’s (l to r) Raymond Gentle, Jr. – Best Pitcher, and Shane Vernon – MVP\nCSSSA president Melanie Williams presented team trophies and individual medals to the champions and sub-champions in the closing ceremonies. Nazarene’s Jaysha Weir and Gwen Liz’s Raymond Gentle received Best Pitcher awards, while Nazarene catcher Helen Cassasola and Gwen Liz catcher Shane Vernon won the Most Valuable Player awards.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->softball",
+      "Sport->sport achievement",
+      "Sport->sport event",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "William Ysaguirre",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gwen Liz",
+          "sentiment": "none"
+        },
+        {
+          "name": "Edward P. Yorke",
+          "sentiment": "none"
+        },
+        {
+          "name": "Malesha Frazer",
+          "sentiment": "none"
+        },
+        {
+          "name": "Hannah Perriot",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kayla Morris",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jaysha Weir",
+          "sentiment": "none"
+        },
+        {
+          "name": "Zyra Smith",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Central Zone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "Victor",
+          "sentiment": "none"
+        },
+        {
+          "name": "CITY",
+          "sentiment": "none"
+        },
+        {
+          "name": "Town",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Nazarene High School",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "National Secondary Schools Sports Association",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Central Secondary Schools Sports Association",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Toledo Community College",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:05:43.757+02:00",
+    "updated": "2025-03-20T01:05:43.757+02:00"
+  },
+  {
+    "uuid": "673eb48869845385cf66120d9f8a46c9ba85b780",
+    "url": "https://www.kulr8.com/weather/colder-temperatures-across-the-region-with-potential-winter-storm-impacts-in-the-eastern-plains-this/article_d52dd3e6-e7d3-11ee-ba92-6bf3c13c9b8e.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Meteorologist Tracy Smith",
+    "published": "2024-03-21T22:39:00Z",
+    "title": "Colder temperatures across the region with potential winter storm impacts in the eastern plains this weekend",
+    "text": "A strong winter storm is expected to impact much of the region starting Saturday evening through Sunday. Temperatures will drop from the upper 30s and 40s Saturday, to the low to upper 20s Sunday. Several inches of snow will also be possible across the forecast area, with 2 to 6 inches anticipated for our west-central counties, and 6 to 10 inches in the eastern plains. The highest chances for moderate impacts will be in the far east where strong winds (up to 35 mph) and heavy snow are expected. A Winter Storm Watch has been issued for Rosebud, Custer, Fallon, and Carter counties, Saturday at 6 pm, where difficult travel and low visibility will be possible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [
+      "https://bloxdigital.com/",
+      "https://bloxcms.com",
+      "https://bloxdigital.com",
+      "https://www.bloxcms.com",
+      "https://www.bloxdigital.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "fallon",
+          "sentiment": "none"
+        },
+        {
+          "name": "custer",
+          "sentiment": "none"
+        },
+        {
+          "name": "carter",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosebud",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "meteorologist tracy smith - - updated tags tracy smith nonstop",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-22T05:01:52.965+02:00",
+    "updated": "2024-03-29T06:59:31.369+03:00"
+  },
+  {
+    "uuid": "d15fc6f896ada93a75a913a6f6e03706a51621dc",
+    "url": "https://www.recorder.com/Judge-orders-suspect-in-Energy-Park-shooting-Bernardston-home-invasion-held-without-bail-53877714",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DOMENIC POLI",
+    "published": "2024-02-01T22:34:00Z",
+    "title": "Greenfield Recorder - Judge orders suspect in Energy Park shooting, Bernardston home invasion, held without bail",
+    "text": "Judge orders suspect in Energy Park shooting, Bernardston home invasion, held without bail |Published: 02-01-2024 5:34 PM| GREENFIELD — A local man facing 15 charges stemming from an alleged shooting at Energy Park and a separate alleged home invasion in Bernardston will remain held without bail, a Franklin County Superior Court judge ruled on Thursday. Gabe Adams, 21, has been deemed too dangerous to release on bail since his arrest and Judge Karen Goodwin opted to keep him locked up as the legal process plays out. A dangerousness ruling allows for a defendant to remain held without bail for 180 days. Assistant District Attorney Joseph Webber, who is prosecuting the cases, said he is prepared for trial at anytime. “The defense can pick the trial date,” he told Goodwin on Wednesday afternoon. In relation to a shooting at Greenfield’s Energy Park in July 2022, Adams has pleaded not guilty to two counts of attempted assault and battery by discharge of a firearm, and single counts of assault and battery by discharging a firearm, discharging a firearm within 500 feet of a building, unlawful possession of a firearm without a license to carry, unlawful possession of a loaded firearm, unlawful possession of ammunition without an FID card and tampering with evidence. In connection to an alleged home invasion in Bernardston two months prior, he has pleaded not guilty to home invasion, armed assault to rob, assault and battery, assault with a dangerous weapon, kidnapping, larceny from a building and intimidation of a witness. Adams had previously been arraigned in Greenfield District Court. His cases were transferred to Superior Court due to their severity. Defense attorney Nora Leovich argued that her client could safely be released on bail into the custody of his father and grandmother, who live in Colrain. Webber explained he unsuccessfully offered Adams a deal consisting of five to seven years in state prison in exchange for a guilty plea. He told Goodwin the home invasion involved Adams allegedly luring someone to a house under false pretenses, only to help assault that person and force them to drive back to their home to steal nicotine products and marijuana. According to Webber, Adams and others he was with then allegedly dropped the victim off on the side of a road in Greenfield and told them not to tell the police. Webber explained that two months later Adams was in Energy Park and allegedly shot a man in the foot following a verbal dispute. Adams allegedly ran from the scene, changed his clothes and tampered with evidence in an attempt to deceive authorities searching for him. Webber said a firearm was found in Adams’ backpack and a friend he was with at the time of the shooting corroborated eyewitnesses’ accounts. “I can’t emphasize enough how serious the commonwealth is taking this,” Webber told Goodwin. “It’s an overwhelmingly strong case against Gabe Adams.” Leovich said that as of Wednesday her client had been held without bail for 567 days. She also said the firearm in question was found in some brush, not a backpack. Leovich explained Adams was placed into the custody of his mother after his father was in a near-fatal car crash in 2005. However, she explained, his mother eventually lost custody and Adams was adopted by a social worker, which is why Adams has a different surname than his father. “He essentially grew up in the system, for one reason or another,” Leovich said, adding that Adams now “has a great deal of family support, and that’s important to him.” Reach Domenic Poli at: dpoli@recorder.com or 413-930-4120.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "goodwin",
+          "sentiment": "none"
+        },
+        {
+          "name": "gabe adams",
+          "sentiment": "none"
+        },
+        {
+          "name": "karen goodwin",
+          "sentiment": "none"
+        },
+        {
+          "name": "adams",
+          "sentiment": "none"
+        },
+        {
+          "name": "joseph webber",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "greenfield recorder",
+          "sentiment": "negative"
+        },
+        {
+          "name": "franklin county superior court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bernardston",
+          "sentiment": "none"
+        },
+        {
+          "name": "energy park",
+          "sentiment": "none"
+        },
+        {
+          "name": "greenfield’s energy park",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:13:02.661+02:00",
+    "updated": "2024-02-02T01:13:02.661+02:00"
+  },
+  {
+    "uuid": "1f197a844132414da4904422362220ea00df5215",
+    "url": "https://www.cnnbrasil.com.br/economia/negocios/chuvas-no-rs-coca-cola-femsa-suspende-operacoes-em-porto-alegre",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@CNNBrasil",
+    "published": "2024-05-10T12:59:00Z",
+    "title": "Chuvas no RS: Coca-Cola FEMSA suspende operações em Porto Alegre | CNN Brasil",
+    "text": "Chuvas no RS: Coca-Cola FEMSA suspende operações em Porto Alegre Desde o dia 29 de abril, 88% do Rio Grande do Sul foi afetado pelas chuvas A mexicana Coca-Cola FEMSA informou nesta sexta-feira (10) que suspendeu as operações em sua unidade de Porto Alegre devido às enchentes que têm atingido o Rio Grande do Sul. A empresa acrescentou em comunicado que está avaliando o tempo e os investimentos que serão necessários para reabrir a instalação e alternativas para fornecimento e receber apoio de outras operações no Brasil e territórios adjacentes. Catástrofe climática Em balanço divulgado no começo da tarde desta sexta-feira, o governo do Rio Grande do Sul contabilizava 116 mortes confirmadas em decorrência das chuvas no estado. Ainda há 143 pessoas desaparecidas e outras 756 feridas. Até às 12h, 337.346 estavam desabrigadas. Destas, 70.772 foram realocadas em abrigos. Desde o dia 29 de abril, quando as chuvas se intensificaram, 1.947.372 foram afetadas em 437 municípios – o que faz com que 88% do estado tenha sido atingido pelas chuvas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Economy, Business and Finance",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-10T19:55:56.656+03:00",
+    "updated": "2024-05-10T19:55:56.656+03:00"
+  },
+  {
+    "uuid": "946d3b1dbbe5371307e0b8f0dcafb0b2d63858f7",
+    "url": "https://www.franceinfo.fr/sante/drogue-addictions/pres-de-neuf-enseignes-sur-dix-continuent-de-vendre-de-l-alcool-aux-mineurs-selon-une-etude-d-addictions-france_7352466.html",
+    "ord_in_thread": 0,
+    "author": "franceinfo",
+    "published": "2025-07-03T04:44:00Z",
+    "title": "Près de neuf enseignes sur dix continuent de vendre de l'alcool aux mineurs, selon une étude d'Addictions France",
+    "text": "Près de neuf enseignes sur dix continuent de vendre de l'alcool aux mineurs, selon une étude d'Addictions France\nSelon l'étude, 86% des établissements de Nantes, Angers et Rennes ont vendu de l'alcool à des mineurs, ce qui constitue tout de même une baisse par rapport à 2021 (93%).\nPrès de neuf enseignes sur dix de la petite et grande distribution continuent de vendre de l'alcool aux mineurs, selon une étude d'Addictions France.) obtenue par France Inter et publiée jeudi 3 juillet au matin. Pour mener cette étude, 90 établissements des métropoles de Nantes, Angers et Rennes ont été testés par Addictions France en mai dernier, dont 28 font déjà l'objet de poursuites pénales pour vente d'alcool à des mineurs. Selon Addictions France, qui mène cette étude depuis 2021, 86% de ces enseignes ont vendu de l'alcool à des mineurs.\n\"Comparé à 2021, les chiffres montrent une baisse de la vente aux mineurs à hauteur de 7 points, passant de 93% à 86%, pointe Addictions France. Malgré cette sensible amélioration, en particulier dans les magasins visés par des actions judiciaires, les chiffres confirment que la vente illégale d'alcool aux mineurs reste encore largement répandue\". \"Pas moins de 80% des établissements concernés par une procédure réitèrent la vente, parfois même lorsque de multiples poursuites sont déjà engagées à leur encontre\", s'inquiète l'association.\n\"Parmi les établissements testés pour la première fois, le taux de vente d'alcool aux mineurs reste quasiment identique à celui de 2021 (93% contre 91% en 2025).\"\nAddictions Francefranceinfo\n\"La responsabilisation des débits de boissons est une condition nécessaire, mais manifestement insuffisante\", poursuit Addictions France, émettant plusieurs recommandations. La première est de systématiser les opérations de contrôles d'âge lors de la vente d'alcool. La deuxième est d'instaurer un \"régime de sanctions graduées en fonction du chiffre d'affaires des établissements\". Addictions France demande aussi de systématiser le recours aux sanctions administratives et de garantir la tenue rapide d'audiences judiciaires.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->ageism",
+      "Health->poisoning",
+      "Health->government health care",
+      "Health->public health"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://addictions-france.org/actualites/conference-inscription-quels-leviers-pour-agir-12025/#:~:text=Malgr%C3%A9%20l'interdiction%20de%20vente,bar%2C%20restaurant%20rapide%E2%80%A6",
+      "https://www.addictions-france.org/actualites/conference-inscription-quels-leviers-pour-agir-12025/#:~:text=Malgr%C3%A9%20l'interdiction%20de%20vente,bar%2C%20restaurant%20rapide%E2%80%A6"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:35:42.716+03:00",
+    "updated": "2025-07-03T05:39:02.000+00:00"
+  },
+  {
+    "uuid": "edfc006ff8eed429ac7715bfe0be453ad4cc2a96",
+    "url": "https://news.china.com/socialgd/10000169/20250731/48675944.html",
+    "ord_in_thread": 0,
+    "author": "#5434",
+    "published": "2025-07-31T00:00:00Z",
+    "title": "巴基斯坦遥感卫星01星发射成功 顺利入轨开启普查新篇章_新闻频道_中华网",
+    "text": "用微信扫描二维码分享至好友和朋友圈\n7月31日10时00分，我国在西昌卫星发射中心使用快舟一号甲运载火箭，成功将巴基斯坦遥感卫星01星发射升空。卫星顺利进入预定轨道，发射任务取得圆满成功。\n这颗卫星主要用于国土普查和防灾减灾领域。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business information",
+      "Environment->sustainability",
+      "Environment->environmental clean-up",
+      "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:46:59.096+03:00",
+    "updated": "2025-07-31T07:53:23.000+03:00"
+  },
+  {
+    "uuid": "053e63b2ab79e46c6fd7d589e3ae7de3c9715131",
+    "url": "https://bioengineer.org/study-finds-teens-with-elevated-pfas-levels-experience-greater-weight-regain-after-bariatric-surgery/",
+    "ord_in_thread": 0,
+    "author": "Bioengineer",
+    "published": "2025-08-14T07:34:51Z",
+    "title": "Study Finds Teens with Elevated PFAS Levels Experience Greater Weight",
+    "text": "A groundbreaking study from the University of Southern California has unveiled a concerning connection between higher blood levels of per- and polyfluoroalkyl substances (PFAS) in adolescents undergoing bariatric surgery and a significantly increased risk of postoperative weight regain. These environmental pollutants, ubiquitously present in various consumer products and known for their persistence in the environment and human body, appear to impair the long-term efficacy of surgical weight loss interventions in youth. Published recently in the peer-reviewed journal Obesity, the research elucidates a complex interplay between chemical exposure and metabolic health outcomes that could reshape clinical approaches to obesity management.\nBariatric surgery, an invasive procedure that reconfigures the digestive system to induce substantial weight loss, remains one of the most effective treatments for severe obesity, particularly in adolescents where obesity carries acute and chronic health risks. Despite its efficacy, a significant proportion of patients experience weight regain years after surgery, diluting the benefits of the procedure and elevating the risk for metabolic complications such as type 2 diabetes and cardiovascular disease. The new USC research implicates PFAS, a class of synthetic compounds that exert endocrine-disrupting effects, as potential contributors to these adverse outcomes.\nPFAS chemicals are notorious for their chemical stability and bioaccumulation tendencies, earning them the moniker “forever chemicals.” Over decades, human exposure primarily occurs via contaminated drinking water, food packaging, and consumer goods treated with these substances. Prior studies have linked PFAS exposure to detrimental effects on renal function, hepatic health, and carcinogenesis. However, their influence on metabolic regulation and weight dynamics, especially in the context of bariatric surgery recovery, remained largely unexplored until now.\n.adsslot_lkwHCd0rUG{width:728px !important;height:90px !important;}\n@media(max-width:1199px){ .adsslot_lkwHCd0rUG{width:468px !important;height:60px !important;}\n}\n@media(max-width:767px){ .adsslot_lkwHCd0rUG{width:320px !important;height:50px !important;}\n}\nADVERTISEMENT\nLed by Dr. Brittney Baumert, a postdoctoral fellow in population and public health sciences at the Keck School of Medicine of USC, the research team embarked on a longitudinal investigation tracking 186 adolescents enrolled in the Teen-Longitudinal Assessment of Bariatric Surgery (Teen-LABS) study. This cohort was rigorously monitored both preoperatively and for five years post-surgery, with periodic assessments of body mass index (BMI), weight, and waist circumference. Crucially, blood samples were analyzed to quantify PFAS concentrations, enabling researchers to stratify participants by exposure levels and evaluate differential postoperative outcomes.\nThe study unearthed a robust association between elevated PFAS blood concentrations—specifically within the sulfonic acid subclass comprising perfluorooctanesulfonate (PFOS), perfluorohexane sulfonic acid (PFHxS), and perfluoroheptanesulfonic acid (PFHpS)—and greater weight regain post-surgery. Adolescents in the highest exposure tertile not only regained significantly more absolute weight but also exhibited pronounced increases in waist circumference, a marker closely linked to metabolic risk. To illustrate, teens with initially comparable body weights but elevated PFOS levels regained on average nearly 11 pounds more by year five compared to their low-exposure counterparts.\nThese findings carry profound implications for clinical practice and public health policy. They highlight the need for preoperative screening for PFAS levels as part of personalized risk assessment for bariatric surgery candidates. Furthermore, the research underscores the urgency of regulatory interventions to limit PFAS contamination in public water systems, food processing, and packaging industries to mitigate exposure. Given the modifiable nature of PFAS exposure, environmental and behavioral strategies could prove integral to optimizing surgical outcomes and long-term weight management.\nThe biological mechanisms by which PFAS disrupt metabolic and endocrine homeostasis remain an active area of inquiry but are believed to involve modulation of nuclear receptors, interference with lipid metabolism, and inflammatory pathways. Such disruptions can alter energy balance and adipose tissue function, potentially explaining the observed postoperative weight regain. The USC study augments this emerging narrative by providing longitudinal human data linking chemical exposure directly to clinical outcomes in a vulnerable adolescent population.\nIn light of these revelations, Dr. Baumert and her team are expanding the scope of their research to investigate whether PFAS exposure influences responsiveness to other emerging weight loss interventions, including glucagon-like peptide-1 (GLP-1) receptor agonist medications like Ozempic. The potential for PFAS to attenuate pharmacological efficacy would present additional challenges in managing obesity, necessitating integrated approaches that consider environmental toxicology alongside metabolic therapeutics.\nMoreover, ongoing investigations seek to clarify how PFAS exposures correlate with the development of metabolic dysfunction-associated steatotic liver disease (MASLD) and insulin resistance, further unraveling the spectrum of metabolic perturbations triggered by these chemicals. The longitudinal Teen-LABS data repository offers a valuable framework for parsing these complex interrelations over extended follow-up periods, providing critical insights into how environmental exposures modulate chronic disease trajectories.\nAs the epidemic of obesity continues to escalate globally, with adolescent populations particularly affected, the discovery of environmental determinants like PFAS adds a new dimension to understanding why some patients fail to sustain surgical weight loss. This knowledge reinforces the need for multidisciplinary research marrying environmental health sciences, endocrinology, and surgery to design more effective, individualized treatments. It also galvanizes public health advocates and policymakers to intensify efforts in regulating and reducing PFAS exposure to safeguard metabolic health across the lifespan.\nUltimately, the USC study serves as a clarion call—environmental pollutants do not merely lurk in the periphery of metabolic disease; they actively shape clinical outcomes in profound and measurable ways. Addressing PFAS contamination and exposure represents both a challenge and an opportunity to enhance the durability of life-altering weight loss interventions and improve health trajectories for vulnerable adolescents confronting obesity.\nSubject of Research : People\nArticle Title : PFAS Exposure and Postoperative Weight Regain in Adolescents After Bariatric Surgery: Findings from the Teen-LABS Study\nNews Publication Date : 14-Aug-2025\nWeb References :\nObesity Journal Article\nTags: adolescent obesity treatment challengesbariatric surgery weight regainchemical exposure and weight managementendocrine disruptors and obesityenvironmental pollutants impact on healthlong-term effects of bariatric surgerymetabolic health in youthobesity management strategiesPFAS exposure in adolescentspostoperative complications in teenssynthetic compounds and health risksUSC obesity study findings",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->medical condition",
+      "Health->health care approach",
+      "Science and Technology->scientific publication",
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research",
+      "Social Issue->social services",
+      "Social Issue->teenagers",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "University of Southern California",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "053e63b2ab79e46c6fd7d589e3ae7de3c9715131",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:34:51.994+03:00",
+    "updated": "2025-08-14T11:08:09.990+03:00"
+  }
+]

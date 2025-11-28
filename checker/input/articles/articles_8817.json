@@ -1,0 +1,508 @@
+[
+  {
+    "uuid": "d7496892b7226b7fca15800ea8a643cb34e7953a",
+    "url": "https://avtorambler.com/roadaccidents/54997609-ostavshayasya-bez-igrushki-labubu-kitayanka-pokonchila-s-soboy-v-tts/",
+    "ord_in_thread": 0,
+    "author": "Vse42.ru",
+    "published": "2025-07-17T04:35:00Z",
+    "title": "Оставшаяся без игрушки Labubu китаянка покончила с собой в ТЦ",
+    "text": "Оставшаяся без игрушки Labubu китаянка покончила с собой в ТЦ\nВ одном из китайских ТЦ девушка лишила себя жизни после того, как не смогла купить популярную игрушку Labubu.\nБезрезультатная попытка приобретения популярной игрушки Labubu стала причиной суицида китаянки.\nКак пишет mk.ru со ссылкой на зарубежные источники, молодая девушка пришла в местный торговый центр с целью приобретения фигурки.\nОднако между ней и другими желающими совершить покупку данного атрибута произошел конфликт, который перерос в драку. В конечном итоге китаянка осталась без заветной игрушки.\nПо предварительным данным, после произошедшего девушка наложила на себя руки, не покидая территорию торгового центра.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Human Interest->human mishap",
+      "Social Issue->social problem",
+      "Social Issue->teenagers",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.mk.ru/",
+      "https://www.mk.ru",
+      "https://mk.ru/"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:03:22.013+03:00",
+    "updated": "2025-07-17T05:10:36.000+00:00"
+  },
+  {
+    "uuid": "84aa294cbfb5b3f6c2062b2797e62824aa3a75e4",
+    "url": "https://www.spglobal.com/commodityinsights/en/market-insights/latest-news/electric-power/021524-solar-battery-storage-to-dominate-new-electricity-generation-in-2024-eia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Weeks",
+    "published": "2024-02-16T02:30:00Z",
+    "title": "Solar, battery storage to dominate new electricity generation in 2024: EIA",
+    "text": "Solar and battery storage will make up a vast majority of new utility-scale electric-generating capacity projects expected this year, according to the latest US Energy Information Administration data.\n Developers and power plant owners plan to add 62.8 GW of capacity in 2024, the EIA said in a Feb. 15 report. This projection represents a 55% increase in added capacity compared to 2023, which saw 40.4 GW added, the most since 2003, according to the EIA.\n81% of the new capacity will be made up by solar and battery storage projects, according to the data. The breakdown is as follows\nNew Capacity Gigawatts Percent of total Solar 36.4 58% Battery Storage 14.3 23% Wind 8.2 13% Natural gas 2.5 4% Nuclear 1.1 2% Other 0.2 less than 1% Source: EIA\nEIA called the projected solar additions a record, saying projected additions in 2024 would nearly double last year's gains at 18.4 GW.\nBattery storage is also set to set a record for annual capacity additions. Total battery storage in the US is expected to nearly double , to the existing 15.5 GW.\nWind capacity additions have slowed in the past two years, according to EIA data. The expected addition of 8.2 GW is a decrease from the over 14 GW added in both 2020 and 2021.\nNatural gas capacity additions are at a 25-year low in 2024, the EIA said.\nFinally, the added nuclear capacity originates from the fourth reactor at Georgia's Vogtle nuclear power plant.\nLeading states\nTexas and California are expected to see the highest number of new projects this year. 35% and 10% of new solar projects are slated in Texas and California, respectively.\nThe two states will also be the main drivers of battery storage growth, making up a combined 82% of new capacity this year, or 6.4 GW in Texas and 5.2 GW in California.\nThe states are the top two in operating battery storage capacity, with California at 8.3 GW and Texas at 5.1 GW, as of fourth quarter 2023, according to government filings and company announcements that S&P Global compiled.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "external_links": [
+      "https://www.trinitymedia.ai/player/trinity/2900008129/?textSelector=",
+      "https://trinitymedia.ai/player/trinity/2900008129/?textSelector=",
+      "https://trinitymedia.ai/player/trinity/2900008129/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "eia solar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gw",
+          "sentiment": "none"
+        },
+        {
+          "name": "us energy information administration",
+          "sentiment": "none"
+        },
+        {
+          "name": "eia eia",
+          "sentiment": "none"
+        },
+        {
+          "name": "eia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T10:41:09.321+02:00",
+    "updated": "2024-02-16T10:41:09.321+02:00"
+  },
+  {
+    "uuid": "3ea79a89fcff4b1321424bf2711c7ba0a7f1136d",
+    "url": "https://news.knowledia.com/in/en/articles/cold-weather-temperatures-drop-as-arctic-air-sweeps-into-uk-50a00db0de25f5d8b2e7fdfdcb76b5c20ca051f6",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Simon King",
+    "published": "2025-01-03T05:49:00Z",
+    "title": "Cold weather: Temperatures drop as arctic air sweeps into UK",
+    "text": "The weekend is set to be bitterly cold, bringing \"significant snow\" and blizzard-like conditions, forecasters say. Temperatures drop across UK as arctic blast brings more snow\nPA Media Parts of the UK - including Northern Ireland - have already seen snow this week\nA cold arctic blast has swept into the UK, bringing widespread frost and more snow to parts of Scotland. Temperatures dropped overnight ahead of a bitterly cold weekend that could see \"significant snow\" and blizzard-like conditions. The whole of England is under amber health alerts - meaning there is a risk of a rise in deaths - with one local NHS service urging people to avoid going out early in the morning when the frost is thick. Yellow weather warnings for snow and ice are in place for most of England, Wales and Scotland between Saturday and Monday.\nSnow fell overnight in northern areas of Scotland, with pictures sent in to BBC Weather Watchers showing a blanket of white in the Highlands and the north-east of the country. Cold conditions are forecast to continue into next week. It comes after much of the UK was lashed by strong winds and heavy rain, which led to widespread flooding across the north-west of England. A number of flood warnings and alerts stay in place in north-west England as a major clean-up operation continues after hundreds were evacuated from their homes.\nAirthrey Princess/BBC Weather Watchers \"A wee mini snowman built just after midnight in case the snow is gone when I awake,\" one person in Nairn in the Highlands told BBC Weather Watchers\nJRDixon1984/BBC Weather Watchers Another photo from the outskirts of Aberdeen showed a thick layer of snowfall\nColder conditions bring to an end a run of unseasonably mild weather over the festive period, which saw highs of between 11C and 13C on Christmas Day. Temperatures are set to be around 5C below the early January average, with a wind chill making it feel even colder. The amber cold health alerts cover the whole of England but are not in place for the rest of the UK. The UK Health Security Agency (UKHSA) issues the alerts when temperatures are…\nSimon King",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bbc.com/news/articles/cp3104v552jo",
+      "https://bbc.com/news/articles/cp3104v552jo"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "BBC",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Northern",
+          "sentiment": "none"
+        },
+        {
+          "name": "Wales",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T08:10:21.482+02:00",
+    "updated": "2025-01-03T08:10:21.482+02:00"
+  },
+  {
+    "uuid": "1eb4b3ae3093ba8f645b9da0831b96d7d0b3bc02",
+    "url": "https://vnexplorer.net/z/771718.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-13T14:02:00Z",
+    "title": "'It’s a big mess:' Driving instructors say insurance rates are too high",
+    "text": "In our Speakers Quarter report, we&#039;re hearing from driving instructors who have a pretty important job teaching Canadians how to drive, but they say they can barely make ends meet After Imran Mubarak&#039;s long term job went bust. I had been working in a retail store for more than 15 years, but my job went off. He decided to get behind the wheel. Right now, as a driving instructor, I like to teach the new generation the proper way of driving. Like teaching them to avoid those bad habits that drive us all nuts. The left lanes for passing, yes, and right lane for driving. Right lane for driving. People don&#039;t understand that no, and that&#039;s another cause. Traffic jam. He loves what he does, but as a new instructor it&#039;s been a tough start. What are the challenges when it comes to cost of being a driving instructor? The bigger cost is the insurance. For him it&#039;s 900 bucks per month. They can&#039;t afford 900. Well, how much do you make in a month or just often driving? I&#039;m I&#039;m a brand new driver so right now I&#039;m making around $2400 and that includes $700.00 for my gas and $900.00 for insurance. He&#039;s calling on the government to pressure the insurance industry to give new instructors like him a break. He understands his risk is higher but says it doesn&#039;t justify the cost. Otherwise, eventually we&#039;re not going to survive. He also wants the government to crack down on illegal instructors who he says are taking away business from it. They&#039;re not paying insurance. They didn&#039;t go to even college. I just have a spent four, $500 to do the their extra break in the car and start teaching the driving instructions, which is not good. It&#039;s illegal, it&#039;s not safe, it&#039;s not fair. City News reached out to Ontario&#039;s insurance regulators. They&#039;re looking into the concerns. Mubarak is hopeful him speaking out leads to change. Allowing him to continue doing what he loves. Would you like it that much to stay in it? Because I&#039;m sure you could get a job and not have all those expenses. Yes, I&#039;m expecting the government should beep into it and reduce the amount of insurance money and check on the illegal driving instructors so the industry will be back in the good hand. As always, if you have an issue, story or question you&#039;d like us to look into, love to hear from you. Reach out by visiting the Speaker&#039;s Corner tab on the City News website. Pat Haney, City News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "imran mubarak",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:10:56.265+03:00",
+    "updated": "2024-06-14T01:10:56.265+03:00"
+  },
+  {
+    "uuid": "9bd57abcbce333c604701020bee301a5ff1c0396",
+    "url": "https://www.stripes.com/theaters/us/2023-12-28/america-life-expectancy-crisis-12490813.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan Diamond",
+    "published": "2023-12-28T05:00:00Z",
+    "title": "America has a life expectancy crisis. But it’s not a political priority. | Stars and Stripes",
+    "text": "[U.S.](https://www.stripes.com/theaters/us/) America has a life expectancy crisis. But it’s not a political priority. The Washington Post December 28, 2023 The commissioner of the Food and Drug Administration had an urgent message last winter for his colleagues, brandishing data that life expectancy in the United States had fallen again — the biggest two-year decline in a century. Robert Califf’s warning, summarized by three people with knowledge of the conversations, boiled down to this: Americans’ life expectancy is going the wrong way. We’re the top health officials in the country. If we don’t fix this, who will? A year after Califf’s dire warnings, Americans’ life expectancy decline remains a pressing public health problem — but not a political priority. President Biden has not mentioned it in his remarks, according to a review of public statements; his Republican challengers have scarcely invoked it, either. In a survey of all 100 sitting senators, fewer than half acknowledged it was a public health problem. While recent federal data suggests that life expectancy ticked up in 2022, a partial rebound from the ravages of the coronavirus pandemic, no national strategy exists to reverse a years-long slide that has left the United States trailing peers, such as Canada and Germany, and rivals, such as China. “I wish that life expectancy or health span were a fundamental political issue in the 2024 presidential campaign,” said Dave A. Chokshi, a physician and public health professor who formerly served as health commissioner of New York. “We’re not living the healthiest lives that we possibly could.” The Washington Post spoke with more than 100 public health experts, lawmakers and senior health officials, including 29 across the past three presidential administrations, who described the challenges of attempting to turn around the nation’s declining life expectancy. Those challenges include siloed operations that make it hard for public and private-sector officials to coordinate their efforts, a health-care payment system that does not reward preventive care and White House turnover that can interrupt national strategies. Many suggested the nation needed an effort that would transcend political administrations and inspire decades of commitment, with some comparing the goal of improving life expectancy to the United States’ original moonshot. “We’re no longer an America that talks about building a national highway system or sending a man to the moon, and yet it’s that kind of reach and ambition that we need to have to tackle the declining longevity problem,” said Sen. Elizabeth Warren (D-Mass.). Experts, officials and lawmakers acknowledged that a political pledge to reverse the nation’s life expectancy slide could quickly backfire, given the need to focus on long-term goals that might not be reflected in short-term progress reports. A politician attempting to improve life expectancy could be out of office by the time improvements were detected. “Politicians, in general, haven’t wanted to engage on this because it feels kind of squishy and the solutions don’t seem clear,” said Ashish Jha, the dean of Brown University’s public health school who this year stepped down as the White House’s coordinator of the national covid response. In an interview, Califf confirmed he’d urged colleagues in “so many” meetings to take action on America’s eroding life expectancy. The trend is “quite alarming,” the FDA commissioner said, sitting in his office in White Oak, Md., where he oversees the nearly $7 billion agency that regulates drugs, food and other common products used by Americans. “All of the leaders within the [Department of Health and Human Services] I’ve talked with about this.” White House officials said the president and his team were focused on combating the “drivers” of life expectancy declines, pointing to efforts to reduce drug overdoses, create an office to prevent gun violence and other initiatives. A senior health official in the Biden administration said pledging to improve life expectancy itself “would have to be viewed as something for a legacy.” “Maybe a second-term priority for Biden,” said the official, who spoke on the condition of anonymity to speak frankly about internal White House operations. No single reason explains why America’s life expectancy has declined, with chronic disease, poor nutrition, insufficient access to care and political decisions all linked to premature deaths. There also is no single strategy to turn it around — and no agreement on how to do it. Some public health leaders and policymakers have called for sweeping reforms to how the health-care system operates, while others home in on discrete factors such as lethal drug overdoses, which have spiked in recent years and received considerable attention but are not solely responsible for the decline in life expectancy. The paralysis over how to address the nation’s declining life expectancy extends to Congress, where a handful of lawmakers — mostly Democrats — have repeatedly portrayed the slide as a crisis, but most other lawmakers have said little or nothing. “We don’t talk about life expectancy, because it just makes it clear what kind of failed system we currently have,” said Sen. Bernie Sanders (I-Vt.), who has repeatedly warned about the rise in premature deaths, including organizing a July 2021 Senate hearing on the issue. Just 11 of the panel’s 18 senators attended, several only briefly; just five asked questions. “I talk to other senators about life expectancy data and watch their eyes glaze over,” Warren said. The Post submitted questions about life expectancy to all 100 sitting senators, sending emails, placing calls and making visits to their offices. Forty-eight senators — including 35 Democrats, 11 Republicans and two Independents — said they agreed that declining life expectancy was a problem. Many of those lawmakers pointed to their own legislation intended to combat opioid misuse and address conditions such as cancer and other factors linked to causes of premature death. All told, the 48 senators cited more than 130 separate bills focused on health-care issues. Despite the flurry of legislation, the nation’s progress on life expectancy has stalled, with the United States increasingly falling behind other nations well before the pandemic. No senator has crafted a bill specifically intended to improve life expectancy or create goals for health leaders to reach. Lawmakers have also worked at cross purposes, with Republicans fighting Democrats’ efforts to enact legislation linked to gains in life expectancy, including efforts to expand access to health coverage and curb access to guns. Sen. John Neely Kennedy (R-La.), whose state had the third-worst life expectancy in 2020, about 73 years, recently suggested that life expectancy would even go up for young Americans. “I mean, the life expectancy of the average American right now is about 77 years old. For people who are in their 20s, their life expectancy will probably be 85 to 90,” Kennedy said on “Fox News Sunday” in March. His office did not respond to requests for comment. Other Republican senators or their staff suggested they did not have a view on the issue because the senator did not sit on a relevant committee. Sen. Jerry Moran (R-Kan.) has “no jurisdiction over this issue,” his office wrote in response to questions about whether Moran had views on declining life expectancy. Moran, who sits on the Senate panel that determines funding for health agencies, has cast votes on numerous health-care matters, including repeatedly voting to repeal the Affordable Care Act. In the absence of national solutions, some officials pointed to local efforts such as a new initiative in New York, which has repeatedly pioneered public health improvements later copied across the country. City leaders in November pledged to raise New Yorkers’ life expectancy to a record 83 years, saying a coordinated approach could prevent premature deaths. Ashwin Vasan, the city’s health commissioner, testified in front of the city council, urging members to pass a law requiring the city’s health commissioner — including his successors — to work toward shared public health goals. “This is a test for government. And I really am hopeful that New York City can pass that test,” Vasan said after his testimony, standing outside New York’s city hall. ‘Further and further behind’ Life expectancy in the United States was once a source of national pride — a reflection of civic improvements, medical advances and other investments that set the nation apart from other countries. “The future of human longevity, especially for Americans, seems bright indeed,” then-Sen. Larry Craig (R-Idaho) proclaimed at a 2003 congressional hearing, where expert witnesses listed scientific and technological breakthroughs that they expected would soon push U.S. life expectancy past 80 years. But even the most optimistic expert at the panel warned that America’s prospects could dim. James Vaupel, director of the Max Planck Institute for Demographic Research, urged federal officials to immediately prioritize a “real mystery”: the emerging international gap in life expectancy. “The United States is doing so well on so many fronts, but it’s falling further and further behind on this critically important [measure], life itself,” Vaupel warned the Senate panel, imploring officials to “really start worrying about this.” It would take about a decade before Vaupel’s warning was heeded. Policymakers instead were focused on a more urgent political priority related to life expectancy: the growing cost of having so many older Americans seeking services through programs such as Medicare and Social Security. So when the Obama administration and congressional Democrats hammered out legislation that would become the Affordable Care Act — the sweeping 2010 law that expanded health coverage to millions of Americans and made other changes to the health system — there was little fear life expectancy would decline. Bob Kocher, a venture capitalist who worked in the Obama White House as a health-care and economic aide, said one reason the crafters of the Affordable Care Act were so intent on “bending the curve” on health spending “was our belief that life expectancy was going to keep going up for the foreseeable future.” By 2013, public health experts had begun issuing more prominent warnings about life expectancy, pointing to the rising number of opioid overdoses, suicides and other preventable deaths. Senior officials across the Obama, Trump and Biden administrations said they were aware of those concerns but that their focus was on improving discrete factors linked to life expectancy, not on the overall number. “Every meeting at the VA was about ‘life expectancy,’ but I can’t tell you we put charts on the wall of ‘what’s the life expectancy of a veteran,’” said Robert A. McDonald, secretary of veterans affairs under President Barack Obama. The nation’s current top health official, Health and Human Services Secretary Xavier Becerra, told The Post he’s acutely aware of the life expectancy decline, calling it the “byproduct of some very serious problems” such as gun violence and drug overdoses. But he downplayed the need for a national strategy, saying there was no reason to declare a public health emergency as he has done with the coronavirus and opioid deaths, adding his agency lacked the power to reverse the trend. “We are so disjointed as a health system in the country,” Becerra said, suggesting that the responsibility to address life expectancy fell on “many of us,” including state health directors. While Biden hasn’t directly addressed declining life expectancy, some of his rivals have invoked it on the campaign trail. “We used to think that life expectancy was just going to keep going up, and that’s just not been the case,” Florida Gov. Ron DeSantis (R) said in a CNBC interview in August, linking the decline to the pandemic, drug overdoses and other causes that began years ago. The DeSantis campaign did not respond to a request for comment about how the Florida governor would reverse the trend if elected president. “If we had regulatory agencies that were actually interested in looking at data, we would be trying to figure out why the all-cause mortality [for Americans] has increased,” Robert F. Kennedy Jr., running as an independent in the 2024 campaign, said in an interview with The Post this summer. “These aren’t covid deaths.” Political commentator Matthew Yglesias has repeatedly urged politicians to focus on life expectancy, saying that America’s decline reveals systemic problems that leave the country at risk. “Tackling America’s weirdly short life expectancy should be a priority,” Yglesias wrote in one 2022 post. Although Yglesias has fans within the Biden administration who have sought his counsel after he has written about traffic safety and crime, his appeals on life expectancy haven’t led to similar invitations. “I think it winds up being a harder topic for politicians to get their heads around,” he said, noting the array of factors that span agencies and administrations. Califf said he’s keenly aware of his agency’s limits when confronting life expectancy. FDA is one of the nation’s most powerful regulatory bodies — its staff often tout that they oversee about 20 cents of every dollar spent by U.S. consumers — and Califf is pursuing initiatives, such as banning menthol cigarettes and improving access to generic drugs, that fall in his agency’s purview. But FDA can’t control how hospitals and doctors get paid. It can’t craft legislation, such as curbing access to firearms. “The highest cause of death in children is guns. That’s a fact,” Califf said. “That’s not something FDA can do something about.” ‘It’s a hard sell’ In Congress, a handful of members have insisted that lawmakers must focus on life expectancy, saying it’s a core responsibility. “Sometimes, we may, in the midst of our work, lose sight of the big picture . . . to create a nation in which the people in the United States can live long, healthy, happy and productive life,” Sanders said at the 2021 Senate hearing he convened on lagging life expectancy. There is a notable partisan split in how members of Congress view life expectancy and whether they say urgent action is needed. Just 11 of the Senate’s 49 Republicans told The Post they believed that declining life expectancy was a public health problem. The lawmakers who portray the recent decline as a crisis are often Democrats from states with the highest life expectancy — such as Massachusetts (79 years in 2020, according to federal data) and Vermont (78.8 years). Meanwhile, GOP lawmakers representing some of the states with the lowest life expectancy — Mississippi (71.9 years), West Virginia (72.8 years) and Kentucky (73.5 years) — declined to comment or did not respond to repeated questions about whether the issue represents a public health problem. “It’s a hard sell with senators who live in some of the lowest longevity states. And it breaks my heart,” Warren said. A further complication: Senators concerned about declining life expectancy offer radically different prescriptions for fixing it. Alabama Sen. Tommy Tuberville — one of the few Republicans whose office said he was “deeply concerned about this trend” — linked America’s decline to drug overdoses, suicides and alcoholism. “The facts show clearly that this is being driven largely by an increase in deaths of despair, with fentanyl overdoses being the leading cause of death for Americans 18 to 45,” Tuberville spokesman Steven Stafford said in a statement, pointing to legislation to improve mental health funding and secure the Southern border. In comparison, Sanders has repeatedly called for sweeping reforms, insisting in an interview that “a failed health-care system is tied into a corrupt political system dominated by enormously powerful corporate interests.” Even Democrats in neighboring states offered significantly different diagnoses. In the eyes of Rhode Island Sen. Sheldon Whitehouse (D), the No. 1 cause of America’s life expectancy problem is clear: broken payment incentives for doctors and hospitals. But Sen. Chris Murphy (D-Conn.) traced the life expectancy decline to loneliness. “Americans are just much less physically and spiritually healthy than they have been in a long time,” said Murphy, who has proposed a bill to create a White House office of social connection. Ten senators singled out the burden of chronic disease, echoing The Post’s own review, which found that among people younger than 65, chronic illness erases more than twice as many years of life as all the overdoses, homicides, suicides and car accidents combined. New York’s state of mind In New York, officials are trying to put a framework around those often abstract challenges. Vasan urged the City Council in November to support HealthyNYC, his agency’s initiative backed by Mayor Eric Adams (D) that seeks to avert about 7,300 premature deaths by 2030. “We want New Yorkers to experience more birthdays, weddings and graduations, more holidays and holy days, more life lived,” Vasan told the lawmakers, citing targets for reducing chronic diseases, cancers and other drivers of premature death. Council members are considering legislation to ensure that future leaders stick to the commitments — a suddenly urgent need with Adams embroiled in a fundraising scandal. “We wanted this to be something that outlives us, that actually helps people,” said Lynn Schulman, chair of the City Council’s health committee. Vasan and Schulman said HealthyNYC can be a template for other cities — the latest effort in New York’s long history of trying to tackle life expectancy. Under former mayor Mike Bloomberg, the city raised cigarette taxes, banned smoking in workplaces and attempted to limit sale of large sugary drinks. When Bloomberg left office in 2013, New Yorkers’ projected life expectancy was 81.1 years — more than two years longer than the national average — compared with 77.9 years when he took office in 2001. “If you want to live longer, you could move to New York — or just vote for me,” Bloomberg said in a speech to Democratic voters during his short-lived 2020 presidential campaign. (Public health experts have cautioned that it may take decades to fully understand the link between Bloomberg’s initiatives and longer life expectancy.) But Bloomberg’s efforts provoked backlash from food-makers, industry groups and some elected officials. Even as New York took steps a decade ago to limit salt and soda consumption, GOP lawmakers in other states crafted legislation to prevent their own local leaders from taking similar steps. The Bloomberg legacy “is not a torch anyone has really wanted to carry,” said Yglesias, warning that the former mayor’s public heath agenda would be politically difficult to replicate elsewhere. “Conservatives really don’t like it. ... I think it’s fallen out of style on the left as well.” Sanders, who has spent years pushing for sweeping changes to America’s health system and economy, said Washington’s work to boost life expectancy could begin with a simple framing device. “The administration, the Congress should have upon their wall, a chart which says ... ‘What’s our life expectancy now [and] how do we get up to the rest of the world?’ ” Sanders said. He pointed to Norway’s life expectancy of more than 83 years. “That should be our goal.” Dan Keating contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Health",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "robert califf",
+          "sentiment": "none"
+        },
+        {
+          "name": "califf",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "washington post",
+          "sentiment": "none"
+        },
+        {
+          "name": "food and drug administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:03:29.108+02:00",
+    "updated": "2023-12-29T00:03:29.108+02:00"
+  },
+  {
+    "uuid": "7e3a2290d96bc2e092526dbe2f370ec44ba698ee",
+    "url": "https://www.meneame.net/story/estudiantes-oxford-cambridge-acampan-frente-universidades-gaza/c030",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MasterChof",
+    "published": "2024-05-06T22:55:00Z",
+    "title": "#30 Estudiantes de Oxford y Cambridge acampan frente a sus universidades en solidaridad con Gaza y prometen que 'no se moverán' hasta que se cumplan sus demandas [ENG]",
+    "text": "Portada\nmis comunidades\notras secciones\n[#8](c8#c-8) Eso dijeron del incidente protagonizado por una tal Rosa Parks, cuando se negó a cederle el asiento a otra señora en el autobús.\nYa tú sabe... 😏\n[#26](c26#c-26) bueno, el Mandela fue \"terrorista\" para el gobierno británico, ya tu sabeh (te respondo a ti, porque al sionista lo tengo bloqueado por motivos obvios)\nPor cierto, por mí genial que digan que los estudiantes que protestan en EEUU son hamas, porque eso significaría que israel tiene el derecho a bombardear las universidades de allí, y los americanos prosionistas deben aplaudirlo.\n[#6](c6#c-6) Todos mis respetos y consideración. Están haciendo lo que no se atreve a hacer ningún mandatario europeo, señalar la intolerable masacre y exterminio del pueblo palestino llevada a cabo por el régimen sionista de Israel.\n[#13](c13#c-13) de hecho están haciendo el puto trabajo de los políticos y medios occidentales. Están tomando la responsabilidad que estos no han tomado ya que pondrían en peligro su sillón. Son admirables.\n[#12](c12#c-12) tienen apoyo de los arabes algo que no puede decir los palestinos que solo les patrocinan los persas para hacer de carne de cañon",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-07T03:19:06.775+03:00",
+    "updated": "2024-05-07T03:19:06.775+03:00"
+  },
+  {
+    "uuid": "c7a37d8048ecaec9321a40f473984745f7251415",
+    "url": "https://www.thenews.com.pk/print/1234218-dr-shahnawaz-kunbhar-was-shot-dead-in-staged-encounter-inquiry-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Salis bin Perwaiz",
+    "published": "2024-09-26T22:00:00Z",
+    "title": "Dr Shahnawaz Kunbhar was shot dead in staged encounter: inquiry report",
+    "text": "The members of the inquiry committee formed to investigate Dr Shahnawaz Kunbhar’s death is of the unanimous opinion that the Mirpurkhas police had killed him in a staged encounter and failed to give it legal cover. They said that based on all the information already available as well as that was collected by the committee from different sources, they found that the Umerkot police had arrested Dr Kunbhar in Karachi and handed him over to the Mirpurkhas police the same day. They lamented that this illegal police action brought a very bad name to the Sindh police. They recommended that the victim’s family record their statements and lodge a murder FIR. They also recommended strict departmental action against all the officers involved. According to the committee’s findings, on September 17 the Umerkot police received reports about allegedly blasphemous social media activities of Dr Kunbhar, a resident of the Janhero village and a senior medical officer (BS-18) at the Umerkot District Headquarters Hospital (DHQ). As the news about the alleged blasphemy spread, a large number of people gathered in the Umerkot city to protest and riot. The main target of their aggression was the police because the alleged suspect was at large. The mob also set ablaze a police van and damaged other police vehicles. An FIR was later lodged against the doctor on the complaint of cleric Sabir Ali at the Umerkot Taluka police station, while another FIR was lodged against the rioters at the Umerkot City police station. The inquiry report states that pressure from clerics and the public was mounting on the police and an ultimatum of 48 hours had been given for arresting Dr Kunbhar. On the night of September 17 the Umerkot SSP received information that the doctor had been traced through his mobile phone to be in the Matiari district, following which the officer tasked his reader, SI Abdul Sattar, to arrest the man. Led by SI Sattar, an Umerkot police team comprising PCs Nawab Ali Samejo, Amanullah, Nadeem Khoso, Shah Muhammad, Irfan Shahani, Mashuq Ali and Atta Hussain (driver) left in the SSP’s escort van and a private car (a Cultus with registration No. BFK-404). Meanwhile, the mobile phone locator team of the Shaheed Benazirabad (SBA) Range was asked to assist the Umerkot police team. At 4:15am on September 18 SI Sattar reached Hyderabad and contacted the locator team, who joined them. The doctor’s mobile phone was switched off, so no action was taken. Later, they received information that the location of his phone was in Karachi. At 7:30am SI Sattar and the locator team proceeded to Karachi on the directions of the Umerkot SSP. They first reached the Garden area in Karachi and then the Saddar locality to trace the alleged suspect and a B-party number who was in contact with the doctor, but both their phones were switched off. At 11am SI Sattar received information about another mobile number of the doctor in the Tariq Road area, so they proceeded there with the locator team, but again the phone was switched off, so they returned to Lyari’s Baghdadi police station. Around 2pm a video clip of Dr Kunbhar surfaced on social media in which he claimed to be staying at a hotel. SI Sattar then checked the police app Hotel Eye to check the alleged suspect’s status. The app showed multiple entries going back many months of various hotels of Lyari where the doctor had stayed previously. Most of these hotels were around the Baghdadi police station. There was no current entry in Hotel Eye, so the SI went to the nearby Gul Balochistan hotel, where Dr Kunbhar had stayed in February. The hotel management recognised the doctor’s picture and confirmed his previous visits. SI Sattar showed the management the video clip to ascertain the hotel in it. An employee, Sanaullah Jamali, recognised the hotel as Pak-Qatar and an employee visible in the video. The police team went to the Pak-Qatar hotel, which was in the same neighbourhood, entering the establishment at 3:30pm. They started searching for him one room at a time. When SI Sattar reached room No. 304, Dr Kunbhar opened it. The officer recognised him and introduced himself. The alleged suspect had checked in at the hotel at 1:20pm that day. The SI talked to Dr Kunbhar and persuaded him to accompany the police, assuring him of secured transport to Umerkot. At 4:25pm the doctor was taken into police custody by SI Sattar with the team of the Umerkot police. They had covered the man’s face with a cloth. SI Sattar informed the Umerkot SSP about the detention. The senior officer ordered the SI to proceed back to Umerkot without any delay and without informing the Baghdadi police station. The Umerkot police team immediately left the area, and informed the locator team to go back to their district SBA because there was no further need of them. SI Sattar was in constant contact with the Umerkot SSP. At 7:45pm, when they were near Hyderabad, SI Sattar was directed by the Umerkot SSP to hand over the doctor’s custody to the Mirpurkhas police because the situation in Umerkot was tense. The SSP directed the SI to stay at the Jhamrao checkpoint to hand over the alleged suspect to the Mirpurkhas police. At 9:26pm the Umerkot police stopped near the checkpoint. A white police Vigo arrived to taken the doctor’s custody, then left. The Umerkot police team also left, took a tea break at the Madina Hotel on the Hyderabad-Mirpurkhas highway, then left for Umerkot. The Mirpurkhas Toll Plaza cameras show the Mirpurkhas SSP’s official white Vigo (No. SPF-851) going out at 9:19pm and returning at 9:30pm. The CCTV cameras do not show any other vehicle with such a description crossing that road in that particular time period. At 10:50pm the Mirpurkhas CIA police carrying the doctor left Mirpurkhas in a van (No. SPF-659) and at 12:18am on September 19 reached the Sabzal stop, in the jurisdiction of the Sindhri police station, where the SHO, Inspector Niaz Khoso, along with his staff, in police vehicle (No. SPB-671) joined them. At around 12:20am Dr Kunbhar was killed in a staged police encounter in the jurisdiction of the Sindhri police station, Mirpurkhas. Police found a mobile phone, a CNIC and Rs1,000 on the doctor. At 1:20am the deceased was shifted to the DHQ Civil Hospital Mirpurkhas by the Mirpurkhas CIA van. At 4:30am FIRs were registered at the Sindhri police station by the then SHO. After the completion of the post-mortem examination, the body was taken in an ambulance to Umerkot for the funeral, escorted by the Mirpurkhas CIA police and the Umerkot police. When the body reached Janhero, an angry prevented the ambulance from entering. The body was then shifted into a private car and taken to a secluded land of the Kunbhar family. Another mob gathered there and snatched the body in the presence of the police and the family. The mob set the body on fire. The family and the police took the half burnt body and shifted it to another remote place, where the burial took place. A large number of people gathered at the Mirpurkhas DIG and SSP’s office to celebrate Dr Kunbhar’s death. The police officers were hailed as heroes and praised for their action. Videos circulating on social media showed the police officers accepting compliments. This reaction caused an outrage and condemnation by liberal, secular and human rights activists on electronic and social media. Subsequently, the Sindh government ordered an inquiry committee to be formed. Meanwhile, the Mirpurkhas DIG and SSP, and other police officers concerned were suspended. On Thursday Home Minister Ziaul Hassan Lanjar held a press conference at the Directorate of Social Media’s office, where he said the Mirpurkhas DIG was removed from his post, and replaced by Zubair Dreshak. He said the Umerkot SSP and the Mirpurkhas SSP had also been removed from their positions. Lanjar said that a comprehensive 31-page report had been prepared after investigating all the aspects of the tragedy. “Based on the report, we’re ordering FIRs to be registered against the officers involved,” he added. “If the victim’s family doesn’t file a case, the Sindh government will pursue it. No matter how influential or senior an officer is, we’ll hold everybody accountable.” The minister made the assurance that legal action is being taken against the officers involved in the incident. He hoped that investigations into Dr Kunbhar’s social media posts would reveal more facts. JI chief Hafiz Naeem ur Rehman speaks during a sit-in protest demonstration outside the SSGCL headquarters on January... Representational image of a judge holding a gavel. — AFP/FileA civil court has ordered the owner and driver of a... Sindh Chief Minister Murad Ali Shah can be seen in this image. — Facebook/Syed Murad Ali Shah/FileThe 35-day World... Karachi Development Authority staffers demolishing the illegal constructions during anti-encroachment operation on... Representational image show a rescue worker waves to make way for an ambulance. — Reuters/FileFour people, including... A representational image showing an ambulance at an incident site. — AFP/FileA man was wounded in an explosion at a...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:11:22.803+03:00",
+    "updated": "2024-09-27T02:11:22.803+03:00"
+  },
+  {
+    "uuid": "463debc26496cfcb487068831a7a45876b45402e",
+    "url": "https://www.on3.com/pro/news/elijah-moore-browns-wr-evaluated-concussion-scary-injury-tnf-cleveland-new-york-jets/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nick Schultz",
+    "published": "2023-12-29T02:46:00Z",
+    "title": "Browns WR Elijah Moore evaluated for concussion after scary injury on TNF",
+    "text": "Cleveland Browns wide receiver Elijah Moore is being evaluated for a concussion after a scary injury in the second quarter Thursday night. He hit the turf hard after catching a pass from Joe Flacco , and he immediately headed the blue medical tent with some help. Moore was having a big game at the time of his injury, hauling in five receptions for 61 yards and a touchdown. After spending some time in the tent, he walked back to the Cleveland locker room for further evaluation. Moore is having a career year in his first season with the Browns. He had new career-highs in receptions (54) and yards (579), but only had one touchdown to his name. He spent the last two years with the Jets before making his way to Cleveland. The Browns were down a key playmaker for Thursday night’s matchup. Wide receiver Amari Cooper appeared to tweak his injury during warmups, and he was ruled out as a result. That meant Moore and others would have to step up. If he’s unable to go, though, it’ll be next man up for Cleveland. With Joe Flacco at QB, Browns are rolling with playoffs approaching The Browns have put together an impressive stretch lately since Flacco took the reins at quarterback. They entered Thursday’s game 3-1 with the former Baltimore Raven under center, and quickly took control against the struggling Jets. Cleveland struck first when Flacco found Jerome Ford for a 7-yard touchdown and found pay dirt again when Kareem Hunt ran in a score. After Hickman’s pick-six, the Browns added to their lead again when Flacco hit Elijah Moore for a touchdown to make it a 27-7 lead in the second quarter. It was all Cleveland in the first half as the Browns took a 34-17 lead into halftime — and, you could say, it was an elite start for Flacco. He completed 16 of 22 passes for 296 yards and three touchdowns through the first two quarters. Entering Thursday night, Flacco was averaging more than 325 yards per game and his only loss came against the Los Angeles Rams in his first game with the Browns. Then, Cleveland started its three-game win streak with a 31-26 victory over the Jacksonville Jaguars. The Browns followed that up with a 20-17 comeback victory over the Chicago Bears behind 374 yards from Flacco. With a talented defense, things are getting interesting in Cleveland as fans start to set their sights on a possible playoff appearance. The Browns entered TNF as the No. 5 seed in the AFC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Health"
+    ],
+    "external_links": [
+      "https://x.com/NFL_DovKleiman/status/1740562037330341938?s=20",
+      "https://www.x.com/NFL_DovKleiman/status/1740562037330341938?s=20",
+      "https://x.com/NFL_DovKleiman/status/1740562037330341938"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "elijah moore",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe f",
+          "sentiment": "none"
+        },
+        {
+          "name": "moore",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe flacco",
+          "sentiment": "none"
+        },
+        {
+          "name": "amari cooper",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "tnf browns",
+          "sentiment": "negative"
+        },
+        {
+          "name": "browns",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tnf cleveland browns",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cleveland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:00:43.643+02:00",
+    "updated": "2023-12-29T06:58:11.747+02:00"
+  },
+  {
+    "uuid": "f8730094e8f111502df92db7bf8d44a3739995b8",
+    "url": "https://finance.sina.com.cn/roll/2025-05-08/doc-inevvnkx2663329.shtml",
+    "ord_in_thread": 0,
+    "author": "中国新闻网",
+    "published": "2025-05-08T03:12:00Z",
+    "title": "最新气候变化研究：2020年出生人群或将更频繁遭遇极端气候事件|论文_新浪财经_新浪网",
+    "text": "中新网北京5月8日电 （记者 孙自法）国际知名学术期刊《自然》最新发表一篇气候变化研究论文称，分析显示，在1.5°C升温情景下，2020年出生的人群中约52%将面临前所未有的热浪暴露风险，而1960年出生的人群中这一比例仅为16%。\n这项研究结果表明，气候危机的负担将主要由年轻世代而非年长世代承担，强调了减缓温室气体排放以减轻气候变化对年轻世代影响的紧迫性。\n该论文介绍，随着气候持续变暖，人类面临的极端气候事件（包括热浪、作物减产和干旱）将日益加剧，年轻世代将比年长世代更频繁地遭遇此类极端事件。然而，在不同气候变暖路径下，不同年份出生且具有不同社会经济脆弱性的人群面临此类极端气候事件暴露风险的具体规模仍不明确。\n在本项研究中，论文第一作者兼通讯作者、比利时布鲁塞尔自由大学Luke Grant和同事及合作者一起，在全球范围内对不同气候变暖路径下一生中遭遇前所未有的极端事件的暴露情况进行了预测。“前所未有”的暴露定义为在没有人为导致气候变化的世界中，遭遇相同极端事件的概率小于万分之一。此次研究发现，与1960年出生的人相比，2020年出生的人在当前减缓政策下（目标为到2100年全球气温较工业革命前升高2.7°C）的暴露风险将翻倍。他们指出，全球1960年出生者中约16%（1300万人）将面临前所未有的终生热浪暴露风险。与此同时，如果全球变暖到2100年比工业革命前水平升高1.5°C，2020年出生的人中约52%（6200万人）将经历前所未有的热浪暴露风险，如果升温达到3.5°C，这一比例将升至92%。\n进一步将分析范围扩展至五个额外气候极端事件（作物减产、野火、干旱、河流洪水和热带气旋）以及热浪后，论文作者发现，在所有极端事件中，暴露程度均会随出生年份推移而明显升高。他们补充指出，在当前政策下，每个出生队列中社会经济地位最脆弱的群体比最不脆弱的群体，更可能面临更高程度的气候极端事件暴露。\n《自然》同期发表同行专家的“新闻与观点”文章认为，该研究虽然存在一些局限性，例如分析未考虑人口在国家边界内的流动以及生育率和死亡率的趋势。不过，其研究结果强调，制定有效策略以减少未来温室气体排放以保护未来世代的必要性。（完）\n责任编辑：蒋露瑶\nVIP课程推荐\nAPP专享直播\n热门推荐\n收起24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->global warming",
+      "Environment->sustainability",
+      "Environment->climate change",
+      "Health->government health care",
+      "Health->public health",
+      "Health->health organisation",
+      "Social Issue->demographics",
+      "Social Issue->social problem",
+      "Social Issue->children"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T07:00:09.857+03:00",
+    "updated": "2025-05-08T04:04:36.000+00:00"
+  },
+  {
+    "uuid": "a1e39efdd5057ae5118928469648f6a1ebabcaf8",
+    "url": "https://noticias.udec.cl/aplicacion-actuapp-lanzada-por-fundacion-iguales-con-apoyo-udec-permitira-denunciar-situaciones-de-discriminacion",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Loreto Aguilera",
+    "published": "2024-04-11T20:56:00Z",
+    "title": "Aplicación “Actuapp” lanzada por Fundación Iguales con apoyo UdeC permitirá denunciar situaciones de discriminación",
+    "text": "Aplicación “Actuapp” lanzada por Fundación Iguales con apoyo UdeC permitirá denunciar situaciones de discriminación\nCrédito: Esteban Paredes Drake / Dirección de Comunicaciones\nIniciativa pionera en la región busca contribuir a erradicar la discriminación, entregando información sobre denuncias y sitios seguros de contención. Todo esto en marco de un plan de acción regional contra la discriminación de Fundación Iguales.\n“Estudio Regional de Percepción de Discriminación LGBTIQ+” es el nombre del análisis, realizado por Fundación Iguales, implementado por la Universidad de Concepción y financiado por el Gobierno Regional del Biobío. La investigación consignó la opinión de alrededor de 1800 personas, quienes expresaron en su mayoría haber experimentado discriminación por motivos como su orientación sexual, de identidad o expresión de género.\nNo es la primera vez que Fundación Iguales realiza este tipo de medición, contó su Directora ejecutiva, María José Cumplido. “La región del Bíobío es la tercera región con más percepción de discriminación por orientación sexual e identidad de género. Es por eso que hemos tomado este desafío de seguridad regional y hemos venido a trabajar a la región para crear una app muy innovadora que busca facilitar los procesos de denuncia”, detalló Cumplido, argumentando que por medio de «Actuapp» las personas podrán denunciar si fueron víctimas o testigos de un hecho y el procedimiento pasará directamente a fiscalía. «Lo que estamos haciendo es llevar los procesos institucionales a tu bolsillo. Junto a eso estamos creando espacios seguros en toda la región para que las personas tengan un lugar a donde ir para hacer contenidos, para ser ayudados y muchas veces para ser salvados”, puntualizó.\nEsta iniciativa está alineada con los objetivos estratégicos de la Universidad de Concepción. Así lo analizó la Vicerrectora de Relaciones Institucionales y Vinculación con el Medio, Dra. Ximena Gauché Marchetti, identificándolos como “una cultura de derechos humanos, la promoción del respeto a todas las diversidades y, por supuesto, la erradicación de toda forma de discriminación y violencia”, entre otros. La académica destaca el trabajo riguroso de la Unidad de Data Science UdeC, quienes apoyaron el trabajo de la fundación con el análisis de los datos del estudio.\n“Actuapp”, junto con posibilitar la realización de denuncias a través del celular, entrega herramientas de apoyo, contención y guía frente a actos discriminatorios. Contempla la identificación de “espacios seguros” para las y los usuarios, donde encontrarán personas capacitadas para contener a las víctimas y guiarlas en su denuncia. “Nosotros lo que queremos es con esos datos llegar a los gobiernos locales y al gobierno central para hacer un plan de seguridad enfocado en la comunidad LGBTQ, que sea eficaz», adelantó Cumplido, destacando que la aplicación permitiría tener un catastro fidedigno de las situaciones que vivan sus usuarios.\nLa Dra. Gauché recalcó el trabajo pionero de la Universidad de Concepción, con la creación de la Dirección de Equidad de Género (Degyd) y la fiscalía especializada, además de la colaboración constante con iniciativas comprometidas con prevenir la discriminación. Según expresó, la UdeC trabaja en evitar, erradicar y sancionar estas actitudes dentro del quehacer universitario, pero destacó que “vivimos en una sociedad compleja, en tiempos muy cambiantes y por lo tanto debería ser un compromiso de toda la comunidad promover convivencias en todos los espacios públicos y privados”, puntualizó.\nLanzamiento de Actuapp en el auditorio Universidad de Concepción (Esteban Paredes Drake / Dirección de Comunicaciones)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:02:41.110+03:00",
+    "updated": "2024-04-12T00:02:41.110+03:00"
+  }
+]

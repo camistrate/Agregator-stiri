@@ -1,0 +1,234 @@
+[
+  {
+    "uuid": "a98c730ff14109c2793c4c1e7ecc211028ddf026",
+    "url": "https://www.surinenglish.com/lifestyle/food-drink/andrew-j-linn-weather-woes-20240802134459-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew J Linn",
+    "published": "2024-08-02T10:44:00Z",
+    "title": "Weather woes",
+    "text": "Climate change is causing the harvest to start earlier due to warmer temperatures and unpredictable weather, writes AJ Linn",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "aj linn andrew j linn",
+          "sentiment": "none"
+        },
+        {
+          "name": "rueda",
+          "sentiment": "none"
+        },
+        {
+          "name": "eresma sauvignon blanc",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "la rioja",
+          "sentiment": "none"
+        },
+        {
+          "name": "galicia",
+          "sentiment": "none"
+        },
+        {
+          "name": "andalucía",
+          "sentiment": "none"
+        },
+        {
+          "name": "malaga",
+          "sentiment": "none"
+        },
+        {
+          "name": "spain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T15:04:12.623+03:00",
+    "updated": "2024-08-02T22:12:33.557+03:00"
+  },
+  {
+    "uuid": "2966e6ff3f54181c6fdec9f56e580e514a25b27a",
+    "url": "https://www.newsbreak.com/news/3822325038822-woman-who-huffed-dust-off-duster-arrested-at-winn-dixie",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Report",
+    "published": "2025-02-20T22:00:00Z",
+    "title": "Woman who huffed Dust Off Duster arrested at Winn-Dixie - NewsBreak",
+    "text": "Woman who huffed Dust Off Duster arrested at Winn-Dixie - NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "topics": [
+      "Crime, Law and Justice->drug related crimes",
+      "Health->drug rehabilitation",
+      "Health->poisoning",
+      "Health->mental health and disorder"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Winn-Dixie",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:16:54.502+02:00",
+    "updated": "2025-02-21T01:16:54.502+02:00"
+  },
+  {
+    "uuid": "73849b64958486c147e6c4d5b6aa510482cb9171",
+    "url": "https://www.eldiario.es/cantabria/garabandal-milagro-cristiano-inexistente-salvado-pueblo-despoblacion_1_12045567.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olga Agüero",
+    "published": "2025-02-22T21:01:00Z",
+    "title": "Garabandal: un milagro cristiano inexistente que ha salvado a un pueblo de la despoblación",
+    "text": "Garabandal: un milagro cristiano inexistente que ha salvado a un pueblo de la despoblación\n0\nMientras otros pueblos del ámbito rural en Cantabria han sucumbido al silencio y al olvido, en San Sebastián de Garabandal todavía viven un centenar de vecinos y se mantiene abierto el bar del pueblo, un hotel, tres posadas y otras tantas tiendas de recuerdos. El peculiar antídoto contra la despoblación de este rincón de montaña es que se ha convertido en un lugar de peregrinaje religioso desde que en los años sesenta cuatro niñas dijeron que se les apareció la Virgen. El presunto milagro no está siquiera reconocido oficialmente por la Iglesia católica, pero eso no ha sido obstáculo para que lleguen autobuses repletos de peregrinos procedentes en su mayoría de países como Estados Unidos, México o Filipinas.\nCuriosamente todo esto sucede ante la indiferencia de los propios cántabros. En el pueblo hay un centro de atención al peregrino que el año pasado recibió a 9.000 personas en su mayoría extranjeros de los cinco continentes. Llegan muchos más, pero esta oficina solo contabiliza los que entran para pedir información. Una intensa afluencia de turistas religiosos y muchas excursiones organizadas que visitan además otros santuarios como Santo Toribio de Liébana provoca a diario atascos y problemas de aparcamiento.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "topics": [
+      "Religion and Belief->christianity",
+      "Religion and Belief->cult",
+      "Religion and Belief->religious conflict",
+      "Social Issue->demographics",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Cantabria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-22T23:40:18.185+02:00",
+    "updated": "2025-02-22T23:40:18.185+02:00"
+  },
+  {
+    "uuid": "822a90f1f0d76779f7d11741ae02314ca9f3704d",
+    "url": "https://eng.pressbee.net/show4074347.html?title=voices-my-friends-don-t-make-any-effort-with-me-now-they-have-kid",
+    "ord_in_thread": 0,
+    "author": "INDEPENDENT",
+    "published": "2025-07-17T05:13:54Z",
+    "title": "Voices: My friends don't make any effort with me now they have kids",
+    "text": "The Independent’s agony aunt Victoria Richards is here to help. Email [[email protected]](/cdn-cgi/l/email-protection) for advice on love, work, family and relationships\n Read More Details\nFinally We wish PressBee provided you with enough information of ( Voices: My friends don’t make any effort with me now they have kids )\nAlso on site :",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->parenting",
+      "Social Issue->social problem",
+      "Social Issue->family",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->mental wellbeing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.independent.co.uk/voices/dear-vix-friendship-breakups-fallout-arguments-kids-single-b2789207.html",
+      "https://independent.co.uk/voices/dear-vix-friendship-breakups-fallout-arguments-kids-single-b2789207.html"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Victoria Richards",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:13:54.379+03:00",
+    "updated": "2025-07-17T05:16:37.000+00:00"
+  }
+]

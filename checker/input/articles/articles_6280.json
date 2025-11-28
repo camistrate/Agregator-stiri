@@ -1,0 +1,488 @@
+[
+  {
+    "uuid": "56c2265bb0d7ed2cbdad70715fa9b4e00de108c4",
+    "url": "https://lexch.com/news/state-regional/weather/nebraska/winter-weather-advisory-for-nebraska-for-friday-and-saturday/article_60aee55d-b808-5b61-affb-696276c1cba2.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2024-12-12T05:00:00Z",
+    "title": "Winter weather advisory for Nebraska for Friday and Saturday",
+    "text": "A winter weather advisory was issued by the National Weather Service on Thursday at 2:08 p.m. valid from Friday 2 p.m. until Saturday 9 a.m. The advisory is for Grand Island Area as well as Greeley, Nance, Howard, Merrick, Polk, Hamilton, York, Adams, Clay, Fillmore, Webster, Nuckolls and Thayer counties.\nThe NWS states to anticipate, \"Freezing rain. Ice accumulations ranging from a light glaze up to one tenth of an inch.\"\n\"Roads, and especially bridges and overpasses, will likely become slick and hazardous,\" describes the NWS. \"Be prepared for slippery roads. Slow down and use caution while driving. If you are going outside, watch your first few steps taken on stairs, sidewalks, and driveways. These surfaces could become icy and slippery.\"\nWinter weather wisdom: Driving tips from the NWS for challenging conditions\nPeople are also reading…\nWinter's icy grip often turns roads treacherous, leading to over 6,000 weather-related vehicle fatalities and more than 480,000 injuries each year. When you find yourself on snowy or freezing rain-slicked roads, your top priority should be safety. Slow down and exercise caution. In temperatures near freezing, it's prudent to assume icy patches on the road and adjust your driving accordingly. Be on alert for ice accumulating on power lines and tree branches, as they may break and fall. If possible, avoid driving in these conditions altogether. But if you must venture out, choose routes with fewer trees and power lines, and never touch a downed power line. If you encounter one, dial 911 immediately. Here are additional winter driving tips from the NWS:\nShare your travel plans:\nWhen traveling out of town in hazardous winter weather, inform your family or friends of your destination, planned route, and estimated time of arrival.\nPrepare your vehicle:\nEnsure your gas tank is full and equip your vehicle with essential winter supplies, including a windshield scraper, jumper cables, a small shovel, flashlight, cell phone, blanket, extra warm clothing, drinking water, and high-calorie non-perishable food.\nStay calm when stranded:\nIf you become stranded, remain composed. Inform someone about your situation and location. Avoid attempting to walk to safety. Indicate that you need assistance by attaching a cloth to your car's antenna or mirror, and make your vehicle more visible by using the dome light and flashers\nBe mindful of snow plows:\nKeep an eye out for snow plows and provide them with ample room to pass. Only overtake a plow when you have a clear view of the road ahead.\nCheck road conditions:\nBefore embarking on your journey, check the latest road conditions to make informed travel decisions.\nThese winter driving tips from the NWS are your key to a safer journey on snow-covered roads. By following these guidelines, you can significantly reduce the risk of accidents and ensure your well-being during challenging winter weather.\nSource: The National Weather Service\nThis warning was produced by United Robots using National Weather Service data.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T00:24:50.727+02:00",
+    "updated": "2024-12-13T00:24:50.727+02:00"
+  },
+  {
+    "uuid": "a8ed5314f56333b4c4b578a9b0d98fdda4da7af1",
+    "url": "https://venturebeat.com/security/why-attackers-love-to-target-misconfigured-clouds-and-phones/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Louis Columbus",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Why attackers love to target misconfigured clouds and phones | VentureBeat",
+    "text": "Data breaches tripled between 2013 and 2022, exposing 2.6 billion personal records in the past two years, with 2023 on its way to being a record year. These findings are from a recent report written by Professor Stuart E. Madnick of MIT , and underwritten by Apple .\nThe report highlights a troubling trend of attackers becoming more proficient at finding and compromising misconfigured clouds and capitalizing on unsecured end-to-end phone encryption. Ransomware continues to grow as the attack strategy of choice.\nDespite Apple being incentivized to promote in-store purchases, transactions and Apple-specific end-to-end encryption through the research, the findings speak to broader threats to enterprises.\nMadnick found a nearly 50% increase in organizations suffering a ransomware attack in the first half of 2023 compared to the first half of 2022. Attackers also go after fleets of mobile devices during attacks to freeze all communications until victims pay up.\nVB Event The AI Impact Tour\nGetting to an AI Governance Blueprint – Request an invite for the Jan 10 event.\nLearn More Misconfigured clouds are the open-door attackers hope for Unencrypted identity data stored in unsecured or misconfigured clouds is an attackers’ goldmine. Misconfigured clouds are also proving to be an easy onramp to steal identity data that can be resold or spun into new synthetic identities used for fraud.\n“Microsoft AI’s research division exposed over 38 terabytes of sensitive information due to a cloud misconfiguration, including passwords to Microsoft services, secret keys, and more than 30,000 internal Microsoft Teams messages from hundreds of Microsoft employees,” writes Madnick, citing TechCrunch’s story from earlier this year. Attackers know that the quicker they can take control of identities, starting with Microsoft Active Directory (AD), the more successful a ransomware attack will be.\nIn a recent interview with VentureBeat, Merritt Baer, Field CISO at Lacework , says that bad actors look first for an easy front door to access misconfigured clouds, the identities and access to entire fleets of mobile devices. “Novel exploits (zero-days) or even new uses of existing exploits are expensive to research and discover. Why burn an expensive zero-day when you don’t need to? Most bad actors can find a way in through the “front door”– that is, using legitimate credentials (in unauthorized ways).”\nBaer added, “This avenue works because most permissions are overprovisioned (they aren’t pruned down/least privileged as much as they could be), and because with legitimate credentials, it’s hard to tell which calls are authorized/ done by a real user versus malicious/ done by a bad actor.”\nNearly 99% of cloud security failures are tracked back to manual controls not being set correctly, and up to 50% of organizations have mistakenly exposed applications, network segments, storage and APIs directly to the public. Data breaches that start because cloud infrastructure is misconfigured cost an average of $4 million to resolve, according to IBM’s Cost of a Data Breach Report 2023 .\nEnd-to-end encryption needs to be part of a broader security strategy Organizations need to think beyond end-to-end encryption if they’re going to harden their infrastructure and keep fleets of phones, endpoints and tablets secure. Identifying intrusion attempts that use legitimate access credentials to access resources or accounts they don’t have privileges for is often how a breach starts. That’s an order of magnitude higher than any encryption technology can provide – and why enterprises need to rethink reliance on encryption alone.\nLacework’s Baer says that “detecting an anomalous call to a metadata service, for example, is something that you would only be able to identify based on triangulating what is ‘known/expected’ and unexpected behavior.” She advises that security programs must include the ability to triangulate data to alert on insecure use of legitimate credentials, which you will only be able to do effectively if they can do heuristics at a granular level.\nBaer added, “Lacework does this– for example, rather than looking at a Kubernetes host behavior, we look at the pod (more granular) level and alarm on unexpected calls based on context. Without granularity, you’ll have too many alerts and won’t be able to distinguish between acceptable and anomalous behavior.”\nThink like a CISO when it comes to unifying endpoints CISOs tell VentureBeat that 2023 will be remembered as the year of consolidation, with endpoints being part of the effort to reduce overlapping agents, analytics and alerts aimed at streamlining analysts’ workloads. Unified endpoint management (UEM) has long proven effective in securing company- and employee-owned devices and endpoints across networks. Leading vendors include IBM, Ivanti, ManageEngine, Matrix42, Microsoft and VMWare.\nVentureBeat recently interviewed Srinivas Mukkamala, Chief Product Officer at Ivanti , to get his perspective on trends driving 2024. “In 2024, the continued convergence of 5G and IoT will redefine our digital experiences. Likewise, there will be heightened demand for more rigorous standards focused on security, privacy, device interaction, and making our society more interconnected. The expectation to connect everywhere, on any device, will only increase. Organizations need to make sure they have the right infrastructure in place to enable this everywhere connectedness that employees expect,” Mukkamala says.\nUEM has also become table stakes for pursuing passwordless authentication and mobile threat defense (MTD). Leading providers of passwordless authentication solutions include Microsoft Authenticator, Okta, Duo Security, Auth0, Yubico and Ivanti. Of these, Ivanti is noteworthy in how their solution combines UEM, passwordless multi-factor authentication (Zero Sign-On), mobile threat defense (MTD), and mobile device management (MDM) on a single platform. The National Institutes of Health (NIH) relies on Ivanti to identify and remediate mobile threats across their networks. They’re using Ivanti Zero Sign-On (ZSO) , Ivanti Neurons for Mobile Threat Defense and several other modules to secure their on-premise and remote workers’ devices.\nGartner predicts that by 2025, more than 50% of the workforce and more than 20% of customer authentication transactions will be passwordless, up from less than 10% today.\nAttackers turning breaches into business opportunities Attackers continually reinvent themselves to capitalize on new technologies while finding new ways to pressure victims to pay ransom fast. Gen AI is helping to upskill cybersecurity professionals with better insights; the same applies to attackers. Earlier this year FraudGPT , a starter kit for attackers, offered subscriptions over the dark web and on telegram. FraudGPT’s subscriber base jumped to 3,000 in weeks following its first announcement last July.\nCrowdStrike’s 2023 Global Threat Report discovered that the number of breaches involving “cloud-conscious” threat actors tripled year-over-year. Their research also found that more attackers aspire to become access brokers . There’s been a 20% increase in the number of adversaries pursuing cloud data theft and extortion campaigns and the largest-ever increase in the number of adversaries.\nAccess brokerages are one of the fastest-growing illegal businesses on the dark web. Access brokers rely on the “one-access one-auction” technique of offering bulk deals on hundreds to thousands of stolen identities and privileged-access credentials.\nBy attacking industries whose businesses are time-sensitive, attackers hope to extract larger ransoms faster. Madnick’s analysis found that healthcare is a prime target. Manufacturing is another. Attackers are quick to put the new Securities and Exchange Commission ruling announced on July 26 that went into effect on December 18 to their advantage.\nCrowdStrike’s president, CEO, and co-founder, George Kurtz, was interviewed on CNBC this week and observed that “now with the SEC disclosure laws, we’re actually seeing the ransomware gangs, if they’re not getting paid, they’re now reporting that to the SEC. And it used to be something we call double extortion, which was they would either encrypt the data, or they would leak the data. Now, we’re looking at triple extortion because they can encrypt it, they can leak it or they can go right to the SEC. And that is the choice that they’re giving to the victims,” Kurtz said.\nBuckle up for 2024 CISOs, CIOs and their teams are challenged with protecting the revenue-generating operations of their businesses and hardening security around new business initiatives – without becoming a roadblock to revenue growth. To excel in the role, VentureBeat believes more CISOs need to be active members of boards.\n“I’m seeing more and more CISOs joining boards. I think this is a great opportunity for everyone here [at Fal.Con] to understand what impact they can have on a company. From a career perspective, it’s great to be part of that boardroom and help them on the journey. To keep business resilient and secure,” Kurtz said during his keynote at his company’s annual event, Fal.Con. He continued, “Adding security should be a business enabler. It should be something that adds to your business resiliency, and it should be something that helps protect the productivity gains of digital transformation.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Weather",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/",
+      "https://www.lacework.com/",
+      "https://www.ivanti.com/products/mobile-threat-defense",
+      "https://www.crowdstrike.com/global-threat-report/",
+      "https://www.mit.edu/",
+      "https://www.crowdstrike.com/en-us/",
+      "https://www.ivanti.com/unified-endpoint-management",
+      "https://www.ivanti.com/",
+      "https://www.cnbc.com/video/2023/12/21/ransomware-gangs-are-now-reporting-to-the-sec-says-crowdstrike-ceo.html",
+      "https://www.gartner.com/smarterwithgartner/is-the-cloud-secure/",
+      "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMuEMCO7eENCirU8KlHDWJnQU_Dbfj3QMskjPuXdcUuDmx2-bvjs1OyA9hOwB3rm2OU1GimUVrjf13kPIRxCMHC_Oq9UjfDYqgUZ8YE5EuLcCBuo1Fp9ujJFERrYsGhAtrtNt7Y6D2aje_BRsnkb_NGHjUj6UwmKbLuiOGeOLMHH",
+      "https://www.ibm.com/reports/data-breach",
+      "https://www.ivanti.com/products/zero-sign-on",
+      "https://www.apple.com/",
+      "https://www.ibm.com/security/data-breach/threat-intelligence",
+      "https://www.gartner.com/document/code/745034?ref=authbody&refval=4021016",
+      "https://www.crowdstrike.com/blog/access-brokers-targets-and-worth/",
+      "https://www.gartner.com/document/3899373",
+      "https://www.ivanti.com/customers/national-institutes-of-health",
+      "https://www.sec.gov/news/press-release/2023-139",
+      "https://crowdstrike.com/blog/access-brokers-targets-and-worth/",
+      "https://cnbc.com/video/2023/12/21/ransomware-gangs-are-now-reporting-to-the-sec-says-crowdstrike-ceo.html",
+      "https://sec.gov/news/press-release/2023-139",
+      "https://www.apple.com",
+      "https://ivanti.com/",
+      "https://apple.com/",
+      "https://gartner.com/document/3899373",
+      "https://www.gartner.com/document/code/745034",
+      "https://gartner.com/smarterwithgartner/is-the-cloud-secure/",
+      "https://ivanti.com/products/zero-sign-on",
+      "https://www.gartner.com/smarterwithgartner/is-the-cloud-secure",
+      "https://lacework.com/",
+      "https://www.lacework.com",
+      "https://www.crowdstrike.com/global-threat-report",
+      "https://www.mit.edu",
+      "https://ivanti.com/customers/national-institutes-of-health",
+      "https://gartner.com/document/code/745034?ref=authbody&refval=4021016",
+      "https://crowdstrike.com/en-us/",
+      "https://ivanti.com/products/mobile-threat-defense",
+      "https://ibm.com/security/data-breach/threat-intelligence",
+      "https://techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/",
+      "https://www.ivanti.com",
+      "https://www.techcrunch.com/2023/09/18/microsoft-ai-researchers-accidentally-exposed-terabytes-of-internal-sensitive-data/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAMuEMCO7eENCirU8KlHDWJnQU_Dbfj3QMskjPuXdcUuDmx2-bvjs1OyA9hOwB3rm2OU1GimUVrjf13kPIRxCMHC_Oq9UjfDYqgUZ8YE5EuLcCBuo1Fp9ujJFERrYsGhAtrtNt7Y6D2aje_BRsnkb_NGHjUj6UwmKbLuiOGeOLMHH",
+      "https://mit.edu/",
+      "https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years",
+      "https://ibm.com/reports/data-breach",
+      "https://apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/",
+      "https://www.crowdstrike.com/blog/access-brokers-targets-and-worth",
+      "https://www.crowdstrike.com/en-us",
+      "https://crowdstrike.com/global-threat-report/",
+      "https://ivanti.com/unified-endpoint-management"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "madnick",
+          "sentiment": "none"
+        },
+        {
+          "name": "stuart e. madnick",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "none"
+        },
+        {
+          "name": "mit",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:53:15.994+02:00",
+    "updated": "2023-12-29T03:53:15.994+02:00"
+  },
+  {
+    "uuid": "ac87d0f30e883da1eb57201557bf275c7e5071a3",
+    "url": "https://ground.news/article/riding-against-the-odds-najiah-knights-quest-to-make-bull-riding-history",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-28T20:08:00Z",
+    "title": "Ground News - Riding against the odds: Najiah Knight's quest to make bull riding history",
+    "text": "Summary by Ground News Najiah Knight, 17, is the only woman to qualify in the 16-18 age division for this month's Junior World Finals in Las Vegas. The sport is dangerous, with riders frequently injured and even killed. Najiah: \"I wanted it to go perfectly, but it didn't always go that way\" Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nThe Christian Science Monitor Center High Factuality Other: The First Church of Christ, Scientist Riding against the odds: Najiah Knight's quest to make bull riding history Najiah Knight aspires to be the first woman in the Professional Bull Riders tour's top level. Najiah's fearless pursuit of her dream is supported by her family, who believe in her potential to make history in the male-dominated sport.\n2 hours ago · Boston, United States Read Full Article\nThe Christian Science Monitor Center High Factuality Other: The First Church of Christ, Scientist\nRiding against the odds: Najiah Knight's quest to make bull riding history Najiah Knight aspires to be the first woman in the Professional Bull Riders tour's top level. Najiah's fearless pursuit of her dream is supported by her family, who believe in her potential to make history in the male-dominated sport.\n2 hours ago · Boston, United States Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.csmonitor.com/USA/Society/2023/1228/Riding-against-the-odds-Najiah-Knight-s-quest-to-make-bull-riding-history?utm_source=ground.news&utm_medium=referral",
+      "https://csmonitor.com/USA/Society/2023/1228/Riding-against-the-odds-Najiah-Knight-s-quest-to-make-bull-riding-history?utm_source=ground.news&utm_medium=referral",
+      "https://www.csmonitor.com/USA/Society/2023/1228/Riding-against-the-odds-Najiah-Knight-s-quest-to-make-bull-riding-history"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "najiah knight",
+          "sentiment": "negative"
+        },
+        {
+          "name": "najiah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news najiah knight",
+          "sentiment": "negative"
+        },
+        {
+          "name": "first church of christ",
+          "sentiment": "none"
+        },
+        {
+          "name": "· boston",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian science monitor center",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:02:37.429+02:00",
+    "updated": "2023-12-29T00:02:37.429+02:00"
+  },
+  {
+    "uuid": "d56394962e55fb156d36954a532fa1d511ccb7ed",
+    "url": "https://www.cnnbrasil.com.br/internacional/com-a-guerra-na-faixa-de-gaza-o-natal-foi-cancelado-em-belem/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "tiagotortella",
+    "published": "2023-12-24T08:23:00Z",
+    "title": "Com a guerra na Faixa de Gaza, o Natal foi cancelado em Belém",
+    "text": "Com a guerra na Faixa de Gaza, o Natal foi cancelado em Belém\nDecorações que antes adornavam os bairros foram removidas, e desfiles e celebrações religiosas foram cancelados; além disso, a tradicional árvore de Natal da Praça da Manjedoura estáausente\nOs sinos das igrejas ecoam pelas ruas labirínticas de Belém. Com a aproximação do Natal, a cidade na Cisjordânia ocupada por Israel deveria estar repleta de visitantes. Mas este ano está quase deserta.\nOs líderes locais tomaram a decisão no mês passado de reduzir as festividades em solidariedade à população palestina, enquanto eram travados intensos combates entre Israel e o Hamas na devastada Faixa de Gaza.\nMais de 20 mil palestinos foram mortos durante a ofensiva aérea e terrestre de Israel, de acordo com o Ministério da Saúde controlado pelo Hamas em Gaza, e quase 85% da população total do território foi deslocada.\nA guerra foi desencadeada pelo ataque do Hamas, em 7 de outubro, no sul de Israel, no qual ao menos 1.200 pessoas foram mortas e mais de 240 foram feitas reféns.\nMuitos em Belém têm laços com Gaza através de entes queridos e amigos, e um sentimento de tristeza recaiu sobre a cidade reverenciada pelos cristãos como o local de nascimento de Jesus Cristo.\nSem árvore de Natal\nAs decorações que antes adornavam os bairros foram removidas. Os desfiles e celebrações religiosas foram cancelados. No centro da cidade, a tradicional enorme árvore de Natal da Praça da Manjedoura está visivelmente ausente.\nViajar para Belém, cerca de oito quilômetros a sul de Jerusalém, normalmente não é uma viagem fácil. A barreira construída por Israel na Cisjordânia restringe a circulação, assim como os vários postos de controle que entram e saem da cidade. A situação só piorou desde o ataque do Hamas.\nDesde 7 de outubro, Israel restringiu a circulação em Belém e outras cidades palestinas na Cisjordânia, com postos de controle militares que permitem o acesso e saída, afetando os palestinos que tentam chegar ao trabalho.\nO território ocupado também sofreu um aumento da violência, com ao menos 300 palestinos mortos em ataques israelenses, segundo o Ministério da Saúde palestino.\n“Meu filho me perguntou por que não há árvore de Natal este ano, não sei como explicar”, disse Ali Thabet à CNN.\nEle e a sua família vivem em Al Shawawra, uma aldeia palestina perto de Belém, e os visitam todos os anos no Natal, “porque a nossa relação com os nossos irmãos cristãos é uma relação forte.\nThabet explica: “Nós nos juntamos a eles em suas celebrações, e eles também se juntam a nós em nossas celebrações. Mas a temporada de férias deste ano é muito ruim”.\nHotéis, lojas e restaurantes fechados\nCaminhando pelas ruas de paralelepípedos, o impacto do conflito é evidente.\nAs empresas contavam com um período festivo movimentado, depois de sofrerem com as dificuldades e restrições da pandemia do coronavírus. Mas sem as habituais multidões de turistas e fiéis, muitos dos hotéis, lojas e restaurantes fecharam.\nA economia de Belém depende dos peregrinos e do turismo, explica Rony Tabash, proprietário de terceira geração de uma loja. O empresário fica do lado de fora da sua loja, à espera de clientes que nunca chegarão.\nLembranças e esculturas em madeira de oliveira do presépio estão nas prateleiras juntando poeira. A loja de Tabash é uma das poucas que permanece aberta, no desejo de apoiar os artesãos qualificados que confeccionam delicadamente suas mercadorias.\nTabash traz seu pai com ele à loja todos os dias para tirá-lo de casa. O avô abriu a vendinha em 1927, e este local, juntamente com a praça e a sua famosa igreja, tornaram-se “parte do nosso coração”.\n“Nunca vimos o Natal assim. Há três meses, honestamente, não temos uma venda. Não quero manter meu pai em casa. Não quero perder a esperança”, continua.\nAté a Igreja da Natividade, que se tornou o primeiro Patrimônio Mundial nos territórios palestinos em 2012, está praticamente vazia.\nEm um ano normal, enormes filas serpenteavam o estacionamento, com peregrinos à espera para entrar na gruta, considerada desde o século II como o local exato do nascimento de Cristo. Uma estrela prateada de 14 pontas incrustada no chão de mármore marca o local preciso onde Jesus teria nascido.\nNo século IV, o imperador Constantino fundou uma igreja no local, que foi destruída no ano 529, apenas para ser substituída por estruturas maiores, que hoje constituem a base da igreja.\nNo interior, normalmente seria apenas espaço para ficar em pé. Mas, este ano, os combates em Gaza mudaram tudo. Agora você pode praticamente ouvir um alfinete cair.\n“Nunca vi algo assim”, diz o padre Spiridon Sammour, sacerdote ortodoxo grego da Igreja da Natividade.\n“Natal é alegria, amor e paz. Não temos paz. Não temos alegria”, lamenta.\n“Está fora de nossas mãos e oramos pelos líderes que tomarão as decisões [em todo] o mundo para que Deus os ajude, dê-lhes sua luz para fazer a paz aqui e em todo o mundo.\n*Kareem El Damanhoury, Eyad Kourdi e Sugam Pokharel, da CNN, contribuíram para esta reportagem",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T10:26:15.203+02:00",
+    "updated": "2023-12-24T10:26:15.203+02:00"
+  },
+  {
+    "uuid": "7f6e4cf33d6860bbd49726c2463943e008cd24cf",
+    "url": "https://www.tampafp.com/boil-water-notice-pinellas-county-barrier-islands",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Rife - Local News Desk",
+    "published": "2024-10-03T16:26:00Z",
+    "title": "Boil Water Advisory Lifted For Most Of Pinellas County’s Southern Barrier Islands; Sunset Beach Facing Challenges",
+    "text": "Faucet Water (File) PINELLAS COUNTY, Fla. – Good news for most residents of Pinellas County’s southern barrier islands: Pinellas County Utilities has lifted the boil water advisory for St. Pete Beach, Treasure Island, and Tierra Verde. Water quality tests confirm that the water in these areas now meets all safety standards.\nThe advisory was issued after Hurricane Helene damaged the area’s water system. While most areas have recovered, Sunset Beach on Treasure Island remains without water due to sand and debris covering service valves.\nRead: St. Petersburg’s Northeast Sewer Treatment Plant Back Online At Midnight\nAdditionally, approximately 450 properties in the southern barrier islands are experiencing water service interruptions due to damage on their private property. Pinellas County Utilities will be assisting these property owners in coordinating repairs with licensed plumbers.\nAlthough the boil water advisory has been lifted for most residents, Pinellas County Utilities is still asking everyone in the affected areas to conserve water as crews work to fully restore the sanitary sewer system.\nResidents with questions can contact Utilities Customer Service at (727) 464-4000 or visit disaster.pinellas.gov for the latest recovery information.\nPlease make a small donation to the Tampa Free Press to help sustain independent journalism . Your contribution enables us to continue delivering high-quality, local, and national news coverage.\nAndroid Users: Download our free app to stay up-to-date on the latest news.\nConnect with us: Follow the Tampa Free Press on Facebook and Twitter for breaking news and updates.\nSign up: Subscribe to our free newsletter for a curated selection of top stories delivered straight to your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Environment",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.paypal.com/donate/?hosted_button_id=KWYEB8X3JQ2MY",
+      "https://www.facebook.com/tampafp/",
+      "https://play.google.com/store/apps/details?id=com.tampafpcom.myapp&hl=en_US&gl=US&pli=1",
+      "https://x.com/tampafreepress",
+      "https://facebook.com/tampafp/",
+      "https://www.x.com/tampafreepress",
+      "https://play.google.com/store/apps/details",
+      "https://www.paypal.com/donate/",
+      "https://paypal.com/donate/?hosted_button_id=KWYEB8X3JQ2MY",
+      "https://www.play.google.com/store/apps/details?id=com.tampafpcom.myapp&hl=en_US&gl=US&pli=1",
+      "https://www.facebook.com/tampafp"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T07:59:01.407+03:00",
+    "updated": "2024-10-04T07:59:01.407+03:00"
+  },
+  {
+    "uuid": "e091418708b5668030e25b4fd82f57f4b77b9875",
+    "url": "https://www.kwongwah.com.my/20250612/%e3%80%8a%e4%bb%a5%e8%b5%8f%e8%af%86%e6%9b%bf%e4%bb%a3%e5%90%bc%e5%8f%ab%e3%80%8b%e8%ae%b2%e5%ba%a7%e7%83%ad%e7%83%88%e4%b8%be%e8%a1%8c%e3%80%80%e5%ae%b6%e9%95%bf%e6%95%99%e8%82%b2%e8%a7%82%e5%bf%b5",
+    "ord_in_thread": 0,
+    "author": "Bluevy PLT",
+    "published": "2025-06-12T00:00:00Z",
+    "title": "《以赏识替代吼叫》讲座热烈举行　家长教育观念正悄悄改变光华日报 | 1910年创刊 创新每一天生活",
+    "text": "“赏识不是盲目的赞美，而是有智慧地看见孩子的优点，并在适当时机给予肯定与引导。”这是槟州社会发展、福利与非伊斯兰宗教事务行政议员林秀琴在《如何以赏识替代吼叫》主题讲座中传达的核心讯息。她强调，若家长能够正确实践赏识教育，孩子将感受到更多温暖与肯定，进而建立健康的自我认同。\n这场讲座由国际行知赏识学会（槟城分会）主办，于2025年5月23日（星期五）晚上，在槟城锺灵独中小讲堂顺利举行，吸引了约60位家长与教育工作者热情参与，现场气氛热烈。\n主讲人为国际行知赏识学会会长、崇正中学退休校长曾桂安。他指出，在AI时代快速发展的当下，社会对未来人才的期待不再只是学术优异，更需具备创新能力、情感教育基础、跨领域整合能力及道德责任感。然而，现实中许多孩子沉迷手机与电子屏幕，逐渐丧失专注力、想象力与创造力，这种被动刺激犹如“21世纪的鸦片战争”。\n- Advertisement -\n他呼吁家长从日常生活做起，协助孩子建立良好阅读习惯，全面发展左右脑功能，并特别强调抗挫能力的重要性。他说，赏识教育的精髓在于“允许失败”，因为失败本身就是成长的契机。与其责骂、吼叫，不如透过理解与引导，让孩子在每一次跌倒中学会爬起。\n林秀琴议员也分享了自身育儿的亲身经历。她提到，有一次孩子在车上唱歌时，因丈夫一句“你识咩？”而顿时沉默。她随即出声打圆场，鼓励孩子继续唱。这段小故事提醒在场听众：孩子往往只需要一句支持的话，而一句否定却可能扼杀他们追梦的勇气。\n- Advertisement -\n讲座最后，曾校长以“花苞心态”作结，他说：“每个孩子都是一朵等待绽放的花，每一朵花的开放时间不同。只要我们愿意耐心等待、细心照顾，他们终会在属于自己的时刻灿烂绽放。”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->social learning",
+      "Education->parents group",
+      "Education->educational grading"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:53:04.304+03:00",
+    "updated": "2025-06-13T08:04:21.000+00:00"
+  },
+  {
+    "uuid": "c9d80cdce508fffe7c448cafb456aabf82c43c3b",
+    "url": "https://www.tvanouvelles.ca/2024/11/28/mises-a-pied-chez-postes-canada",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marianne Langlois",
+    "published": "2024-11-28T23:55:00Z",
+    "title": "Mises à pied chez Postes Canada",
+    "text": "Le syndicat représentant les 55 000 travailleurs de Postes Canada estime que la mise à pied d’employés en grève est une « tactique d’intimidation ». « C’est assez particulier! Les salariés sont déjà en grève, donc je ne comprends pas les intentions de Postes Canada et ce qui se cache derrière, on pourrait conclure comme le syndicat l’avance qu’il s’agit d’une tactique d’intimidation », observe Finn Makela, professeur spécialisé en droit du travail à l’Université de Sherbrooke. Alors les employés de Postes Canada sont en grève depuis presque deux semaines, la société d’État a confirmé des mises à pied « temporaires » cette semaine, sans spécifier le nombre d'emplois touchés. « Notre entreprise a subi des répercussions importantes avant et depuis de début de cette grève. Nous avons pris des mesures pour adapter nos opérations », a répondu Phil Rogers, des relations avec les médias de Postes Canada par courriel. Dans un avis aux membres publié en début de semaine, le Syndicat des travailleurs et travailleuses des postes (STTP) a qualifié les mises à pied de « tactique d’intimidation » et a déclaré qu’il suivait de près la situation, rapportait La Presse canadienne. Mesures en place « Le Code canadien du travail fourni déjà un cadre qui permet de questionner la chose, mais en plus, depuis 2015, une décision de la Cour Suprême du Canada (Alinéa 2d) qui protège la liberté d’association, protège aussi le droit constitutionnel de faire la grève », ajoute le professeur titulaire. Postes Canada a par ailleurs informé ses 55 000 employés que « les conventions collectives expirées ne s’appliquent plus et que les conditions d’emploi des membres du personnel » et que les conditions d’emploi du personnel avaient changées comme le permet le Code canadien du travail. Rappelons les employés de la société d’État sont en grève et en lock-out depuis le 15 novembre dernier. Toujours selon la Presse canadienne, le Syndicat des travailleurs et travailleuses des postes (STTP) conteste les mises à pied et insiste que « Postes Canada aura besoin de preuves solides pour persuader la commission des relations de travail que les mises à pied ne sont absolument pas liées au fait que les travailleurs ont fait la grève. Le Journal a contacté le Syndicat des travailleurs et travailleuses des postes qui a confirmé que des mises à pieds étaient en cours, mais que personne n'était disponible afin de répondre à nos questions au moment de la publication.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T05:14:01.748+02:00",
+    "updated": "2024-11-29T05:14:01.748+02:00"
+  },
+  {
+    "uuid": "38d01a6e5f4d24ae88c2538c4203a302135e7b9c",
+    "url": "https://www.epochtimes.com/b5/25/7/3/n14543671.htm",
+    "ord_in_thread": 0,
+    "author": "djy",
+    "published": "2025-07-03T04:18:00Z",
+    "title": "美一架跳傘飛機在新澤西州失事 15人送院",
+    "text": "【大紀元2025年07月03日訊】（大紀元記者李馨綜合報導）週三（7月2日）晚間，一架單引擎跳傘飛機在美國新澤西州南部一個機場衝出跑道盡頭後撞入樹林中摧毀，機上15人被送往醫院。\n據美國聯邦航空局（FAA）發言人稱，這起事故發生在費城東南方向約21英里（34公里）處的克羅斯基斯機場（Cross Keys Airport），失事飛機為一架塞斯納208B飛機（Cessna 208B），機上載有15人。\n航拍畫面顯示，墜毀的飛機位於樹林中，附近散落著多塊殘骸。消防車和其它救援車輛包圍了事故現場。\n救援人員在當天下午5時25分左右接到了報警。\n據新澤西州格洛斯特縣（Gloucester County）應急管理辦公室人員安德魯‧哈爾特（Andrew Halter）說，救援人員抵達現場時發現，飛機損毀嚴重，許多傷者身上沾滿飛機上的燃料。\n他說：「受傷人員在被送往醫院前已完成去污處理。機上共有15人，包括飛行員。」\n新澤西州卡姆登市（Camden）庫珀大學醫院（Cooper University Hospital）發言人溫迪‧A‧馬拉諾（Wendy A. Marano）說，該院創傷中心正在對其中三名傷者進行評估，急診科正在為八名傷勢較輕的患者治療，另外四名「輕傷」患者正在等候進一步評估。她表示，目前無法提供傷勢的具體細節。\n格洛斯特縣應急管理辦公室在社交媒體臉書（Facebook）上警告公眾避免前往該區域，以便應急車輛能夠進入事故現場。\n航空追蹤平台FlightRadar24的飛行跟蹤數據顯示，失事飛機在跟蹤數據中斷前以每分鐘3,008英尺的速度迅速下降。\n這架飛機為弗吉尼亞州的一家公司所有，但尚不清楚飛行員是誰。該飛機租賃給了格洛斯特縣的一個跳傘運動中心。\n據調查人員稱，飛行員在事故發生前報告發現了發動機故障。\n哈爾特說：「據報告，飛行員當時正在爬升，並再次報告引擎出現了問題，並試圖盤旋返回地面著陸，但未能成功。」\n美國國家運輸安全委員會（National Transportation Safety Board）正在對這次事故進行調查。\n責任編輯：葉紫微#",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->accident and emergency incident",
+      "Disaster and Accident->transportation accident and incident",
+      "Health->injury",
+      "Health->hospital",
+      "Health->emergency care",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:56:14.942+03:00",
+    "updated": "2025-07-04T06:07:04.000+00:00"
+  },
+  {
+    "uuid": "e0d27403d28edec3a61a96d75bd5642341f1b858",
+    "url": "https://dnyuz.com/2024/11/29/amazon-workers-planning-strike-from-black-friday-through-cyber-monday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VICE",
+    "published": "2024-11-29T12:56:00Z",
+    "title": "Amazon Workers Planning Strike from Black Friday Through Cyber Monday",
+    "text": "Amazon workers in 20 countries are planning to strike from Black Friday through Cyber Monday, demanding accountability for alleged “labor abuses, environmental degradation and threats to democracy.”\nThe protests—held during the biggest shopping weekend of the year—are part of the ongoing “Make Amazon Pay” campaign, organized by UNI Global Union and Progressive International.\nStrikes and demonstrations are expected in major cities across the United States, United Kingdom, Germany, Japan, and Brazil. “Amazon is everywhere, but so are we,” said Varsha Gandikota-Nellutla, Co-General Coordinator of Progressive International. “By uniting our movements across borders, we can not only force Amazon to change its ways but lay the foundations of a world that prioritizes human dignity, not Jeff Bezos’ bank balance.”\nWhile it’s unclear how many workers will join, thousands in Germany alone are expected to participate. Experts told ABC News that customers, unsurprisingly, should expect some delays to their deliveries. The protest will also involve unions and advocacy groups focused on issues like tax justice, garment workers’ rights, and anti-poverty\nFor their part, Amazon has called the campaign’s allegations misleading. “This group […] continues to promote a false narrative,” an Amazon spokesperson told ABC News. “At Amazon, we provide great pay, great benefits, and great opportunities.”\nThis marks the fifth year of the “Make Amazon Pay” campaign, which has consistently criticized the tech giant’s business practices. Among various charges, organizers allege that Amazon underreported lobbying expenses in Europe. When Amazon refused to take part in public hearings on the issue, the European Parliament banned its lobbyists.\nIn the United States, they highlight Amazon’s legal challenge to the National Labor Relations Board, warning it could undermine worker protections. In countries like Germany, Canada, and the UK, Amazon has been accused of intimidating employees to deter unionization efforts\n“Amazon’s relentless pursuit of profit comes at a cost to workers, the environment and democracy,” said Christy Hoffman, General Secretary of UNI Global Union. “Bezos’s company has spent untold millions to stop workers from organizing, but the strikes and protests happening around the world show that workers’ desire for justice – for union representation – can’t be stopped.\nHoffman called for Amazon to treat its workers fairly, respect their rights, and stop undermining systems meant to safeguard workers and communities. ‘Make Amazon Pay Day’ is becoming a global act of resistance against Amazon’s abuse of power,” she said.\nThe post Amazon Workers Planning Strike from Black Friday Through Cyber Monday appeared first on VICE.\nThe post Amazon Workers Planning Strike from Black Friday Through Cyber Monday appeared first on https://www.vice.com/en/article/amazon-strike-black-friday-cyber-monday/.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Varsha Gandikota-Nellutla",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jeff Bezos",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Amazon Workers Planning Strike",
+          "sentiment": "negative"
+        },
+        {
+          "name": "UNI Global Union",
+          "sentiment": "none"
+        },
+        {
+          "name": "ABC News",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T16:57:35.198+02:00",
+    "updated": "2024-11-29T16:57:35.198+02:00"
+  }
+]

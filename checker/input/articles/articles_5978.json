@@ -1,0 +1,466 @@
+[
+  {
+    "uuid": "557b3f4fd821c4b8a087d5c542c43eeee7782102",
+    "url": "https://stackoverflow.com/questions/77883209/upgrade-a-pandas-program-to-python-3-12-now-a-lot-of-things-are-broken-stak-tr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kameron Cole Kameron Cole 1",
+    "published": "2024-01-25T22:10:00Z",
+    "title": "upgrade a pandas program to python 3.12. now a lot of things are broken. stak trace contains \"no module named 'six.moves' - but this is erroneous",
+    "text": "Facing this mess:\nTraceback (most recent call last): File \"/Users/kameronacole/PycharmProjects/pythonProject/main.py\", line 73, in <module> from tabula import read_pdf File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages /tabula/__init__.py\", line 3, in <module> from .io import convert_into, convert_into_by_batch, read_pdf, read_pdf_with_template File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages /tabula/io.py\", line 32, in <module> import pandas as pd File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/__init__.py\", line 49, in <module> from pandas.core.api import ( File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/core/api.py\", line 1, in <module> from pandas._libs import ( File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/_libs/__init__.py\", line 18, in <module> from pandas._libs.interval import Interval File \"interval.pyx\", line 1, in init pandas._libs.interval File \"hashtable.pyx\", line 1, in init pandas._libs.hashtable File \"missing.pyx\", line 1, in init pandas._libs.missing File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/pandas/_libs/tslibs/__init__.py\", line 40, in <module> from pandas._libs.tslibs.conversion import localize_pydatetime File \"conversion.pyx\", line 1, in init pandas._libs.tslibs.conversion File \"offsets.pyx\", line 1, in init pandas._libs.tslibs.offsets File \"timestamps.pyx\", line 1, in init pandas._libs.tslibs.timestamps File \"timedeltas.pyx\", line 1, in init pandas._libs.tslibs.timedeltas File \"timezones.pyx\", line 24, in init pandas._libs.tslibs.timezones File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/dateutil/tz/__init__.py\", line 2, in <module> from .tz import * File \"/Users/kameronacole/PycharmProjects/pythonProject/venv/lib/python3.12/site-packages/dateutil/tz/tz.py\", line 21, in <module> from six.moves import _thread ModuleNotFoundError: No module named 'six.moves'\nNot sure where to begin. This is the code block from line 21 to line 73:\nimport PyPDF2 import textract from nltk.tokenize import word_tokenize from nltk.corpus import stopwords filename = 'Dog_Breed.pdf' # open allows you to read the file.pdfFileObj = open(filename,'rb')#The pdfReader variable is a readable object that will be parsed.pdfReader = PyPDF2.PdfFileReader(pdfFileObj)#Discerning the number of pages will allow us to parse through all the pages.num_pages = pdfReader.numPages pdfFileObj = open(filename, 'rb') pdfReader = PyPDF2.PdfReader(pdfFileObj) num_pages = len(pdfReader.pages) count = 0 text = \"\" # The while loop will read each page. while count < num_pages: pageObj = pdfReader.pages[count] count += 1 text += pageObj.extract_text() # This if statement exists to check if the above library returned words. It's done because PyPDF2 cannot read scanned files. if text != \"\": text = text # If the above returns as False, we run the OCR library textract to #convert scanned/image based PDF files into text.else: # text = textract.process(fileurl, method='tesseract', language='eng') print('') print('Printing the whole pdf. Tabular format not retained with this method') print('') print(text) print('') ################################################################################################################# # # # Now we use tabula package to convert the pdf to csv. This retains the format, somewhat, but the reason for # # using it is because the standard python pdf packages don't do what I want (not because I really want a csv # ################################################################################################################# from tabula import read_pdf # reads table from pdf file df = read_pdf(\"Dog_Breed.pdf\", pages=1)[0] df.to_csv('Dog_Breed.csv') print('printing the rows from the csv') print()\nAll this worked in a previous python version - can't recall which. I had to get a new Mac, and re-install PyCharm. The old machine was erased. I still can't imagine that python is still so immature that it produces these errors with no hope of resolution - all because of packaging (dependency) inconsistencies. Reminds me of Java, like, 40 years ago.\nI could guess. What was last year's version of python? assuming if I just switch to that interpreter, my code will work.\nI see the stackoverflow suggestions all point to \"no module pandas found\". That is not my issue. I have all modules,including the correct version of six (there is a dependency between six 1.12.0 and textract - can't use 1.16",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:15:38.780+02:00",
+    "updated": "2024-01-26T00:15:38.780+02:00"
+  },
+  {
+    "uuid": "b4def1ccec417587bbb8d25459daa84fc64f8f84",
+    "url": "https://ground.news/article/calgarians-body-pulled-from-bow-river-after-falling-into-water-on-christmas-day-near-morley-bridge",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Global News",
+    "published": "2023-12-28T19:55:00Z",
+    "title": "Ground News - Calgarian’s body pulled from Bow River after falling into water on Christmas Day near Morley Bridge",
+    "text": "Summary by Global News A 61-year-old Calgary man is dead after falling into the Bow River near Mînî Thnî, formerly known as Morley, on Christmas Day. His body was recovered on Boxing Day. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nGlobal News Lean Left High Factuality Media Conglomerate: Corus Entertainment Calgarian’s body pulled from Bow River after falling into water on Christmas Day near Morley Bridge A 61-year-old Calgary man is dead after falling into the Bow River near Mînî Thnî, formerly known as Morley, on Christmas Day. His body was recovered on Boxing Day.\n3 hours ago · Toronto, Canada Read Full Article\nGlobal News Lean Left High Factuality Media Conglomerate: Corus Entertainment\nCalgarian’s body pulled from Bow River after falling into water on Christmas Day near Morley Bridge A 61-year-old Calgary man is dead after falling into the Bow River near Mînî Thnî, formerly known as Morley, on Christmas Day. His body was recovered on Boxing Day.\n3 hours ago · Toronto, Canada Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://globalnews.ca/news/10193871/calgarian-dead-bow-river-morley-bridge/?utm_source=ground.news&utm_medium=referral",
+      "https://www.globalnews.ca/news/10193871/calgarian-dead-bow-river-morley-bridge/?utm_source=ground.news&utm_medium=referral",
+      "https://globalnews.ca/news/10193871/calgarian-dead-bow-river-morley-bridge/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "morley",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "global news",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "canada read full",
+          "sentiment": "none"
+        },
+        {
+          "name": "· toronto",
+          "sentiment": "none"
+        },
+        {
+          "name": "ground news sub",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "morley bridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "calgary",
+          "sentiment": "none"
+        },
+        {
+          "name": "mînî",
+          "sentiment": "none"
+        },
+        {
+          "name": "bow river",
+          "sentiment": "none"
+        },
+        {
+          "name": "mînî thnî",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:07.039+02:00",
+    "updated": "2023-12-29T00:43:07.039+02:00"
+  },
+  {
+    "uuid": "db1c1e02c1d92b8f9a9fb37509f494d53cb1463d",
+    "url": "https://www.pulzo.com/vivir-bien/oracion-encontrar-mascota-perdida-pronto-estara-vuelta-casa-PP3195130A",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "robbybienestar@pulzo-hermes.com",
+    "published": "2023-12-29T16:21:00Z",
+    "title": "Oración para encontrar a una mascota perdida: pronto estará de vuelta en casa",
+    "text": "El [lazo especial entre las mascotas y sus dueños](https://www.pulzo.com/vivir-bien/como-saber-si-su-gato-considera-su-madre-le-tiene-confianza-amor-lealtad-PP2996748A) a menudo se convierte en un refugio de amor y compañía. Sin embargo, la inquietud y el dolor que conlleva la desaparición de una mascota perdida pueden ser desgarradores y preocupantes. Haga esta oración para pedir que vuelva a su hogar sana y salva. (Lea también: [Oraciones a San Pancracio: el santo del dinero que le ayudará a ganarse la lotería](https://www.pulzo.com/vivir-bien/san-pancracio-oraciones-pedir-dinero-suerte-juegos-azar-PP2996177A)) Oración para pedir por el regreso y encuentro de una mascota perdida “Padre celestial, en este momento de angustia y preocupación, nos acercamos a ti con humildes corazones, [pidiendo tu divina ayuda y guía](https://www.pulzo.com/vivir-bien/como-se-le-debe-orar-dios-claves-oraciones-que-escuche-PP3051802A). Sabemos que cuidas de todas tus criaturas y hoy te suplicamos por el regreso seguro de nuestra querida mascota que se ha perdido. En este momento de incertidumbre y ansiedad, te pedimos que pongas tu mano amorosa sobre ella y la guíes de regreso a casa. Dios misericordioso, sabemos que [tú eres el Señor de toda la creación](https://www.pulzo.com/vivir-bien/oracion-dia-hoy-agradecimientos-salud-bienestar-amor-bendiciones-PP3132330A), y que amas a cada ser vivo que has creado. Pedimos tu bendición sobre todos aquellos que están buscando a nuestra mascota. Dales fuerza y perseverancia en su búsqueda, y llénalos de paciencia y tranquilidad para esperar con fe el regreso de su amada compañera. Te pedimos que envíes a tus ángeles para protegerla mientras se encuentra lejos de su hogar. Guíala de regreso a un lugar seguro y a las manos de aquellos que la aman. Que la luz de tu amor la ilumine y la lleve de vuelta a nosotros. (Lea también: [Oraciones al Arcángel San Miguel: protéjase contra las fuerzas de la oscuridad y el mal](https://www.pulzo.com/vivir-bien/arcangel-san-miguel-oraciones-pedir-proteccion-salud-bienestar-ayuda-PP2947276A)) Señor, te pedimos que nos ayudes a confiar en tu plan y a mantener la calma. Concédenos la fortaleza para enfrentar esta prueba con fe y esperanza, sabiendo que estás cuidando de nuestra mascota y de nosotros. Te agradecemos, Señor, por escuchar nuestras oraciones y por tu amor infinito. Encomendamos a nuestra mascota a tu protección y guía. Confiando en tu voluntad pedimos que pronto regrese sana y salva a nuestro hogar para que podamos celebrar con gratitud tu bondad y generosidad. En el nombre de Jesús, nuestro Salvador, oramos. Amén.” *Este artículo fue escrito y curado por periodistas del equipo de [Robby Bienestar](https://www.pulzo.com/noticias/robby-bienestar), con apoyo de una inteligencia artificial que utiliza machine learning para producir texto. LO ÚLTIMO [Vivir Bien] Hace 58 días [Oración para recuperar a una mascota perdida: pronto estará en casa](/vivir-bien/oracion-encontrar-mascota-perdida-pronto-estara-vuelta-casa-PP3195130A) [Vivir Bien] Hace 1 hora [Cinco lugares pocos turísticos y llenos de magia para visitar en fin de año en Antioquia](/vivir-bien/que-lugares-antioquia-que-sean-pocos-turisticos-pero-lindos-visitar-PP3350226A) [Vivir Bien]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:38:10.943+02:00",
+    "updated": "2023-12-29T18:38:10.943+02:00"
+  },
+  {
+    "uuid": "8a82617ac8850d5acad66ce8a1603d76cefbc1c3",
+    "url": "https://flipboard.com/@healthdigest/shocking-factors-that-increase-your-risk-of-cancer-5inie3hnvvoheern",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Health Digest",
+    "published": "2025-02-20T21:30:00Z",
+    "title": "Shocking Factors That Increase Your Risk Of Cancer",
+    "text": "Cancer is one of the leading causes of death in the United States, with over two million new cases reported in 2024 alone. There are many factors …\nStoryboard\nShocking Factors That Increase Your Risk Of Cancer\nMany cancer advocacy groups host public awareness campaigns educating people about how to prevent different types of cancer. You'll most likely …\nMany brands market vitamins and supplements as healthy and preventative. And while many supplements can help support a healthy diet and lifestyle, …\nThere's no discounting the fact that waking up from quality sleep of 7-9 hours every day makes you feel energized and ready to tackle the day ahead. …\nWhatever your condition, Health Digest has you covered.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->medical condition",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T00:31:50.531+02:00",
+    "updated": "2025-02-21T00:31:50.531+02:00"
+  },
+  {
+    "uuid": "adebe8a0f82c4c481595c39cdb027de3572084b2",
+    "url": "https://nowtoronto.com/culture/one-more-time/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devon Banfield",
+    "published": "2023-12-28T21:13:00Z",
+    "title": "New Canadian workplace comedy brings heartfelt representation of hearing loss to our TV screens",
+    "text": "It’s a heartwarming new comedy that will have audiences laughing until their stomachs hurt. One More Time is a new CBC original series created by and starring award-winning Canadian comedian DJ Demers.\nThe show takes place in a second-hand sports store in the fictional town of Korverton, Ontario and follows Demers’ character (also named DJ), the hard-of-hearing manager of an eclectic team of employees. A feel-good series at its core, audiences are forced to look on the bright side of life while following the team’s challenges to keep their beloved store alive.\n“It’s just a straight-up comedy. It’s like Parks and Rec, or a Brooklyn Nine-Nine type thing, where I’m the manager of a huge sporting goods store and [it follows] the high jinks that I get up to with the whole ragtag team of employees,” Demers told Now Toronto.\nHe explained that there was a heavy focus on making sure that there was non-stop laughter packed into each 30-minute episode.\n“The showrunner and I really made a conscious effort to just pack in jokes. Like, if we’re going longer than 10 seconds without a joke, we would make sure we went back and rewrote it, because we really, really wanted this to be funny.”\nFrom intense rivalry with a local big box store to managing a bed bug outbreak to stolen hearing aids, there is no shortage of adventure for the characters of One More Time.\nDemers explained that the series was truly written from the heart, pulling from his own material. Many elements of the series mirror Demers’ own experiences. The comic grew up in Kitchener, Ontario, working at sporting goods store, Play It Again Sports, as a teenager. In real life and on-screen, DJ is hard of hearing and wears hearing aids, something that is a major component of the series.\n“I’ve had hearing aids since I was four years old. So, just made sense for the character to have them too,” the star explained.\n“A lot of material will be mine and there’s just a lot of stuff to pull from that makes the show different,” he continued. “And also makes it so anybody who has hearing loss that is watching will feel a sense of connection as well.”\nOther cast members include (but are not limited to) Nadine Bhabha and Geri Hall of This Hour Has 22 Minutes, Daniel Beirne of Ginny and Georgia, Dayton Sinkia and Elise Bauman of Letterkenny. One More Time will premiere on CBC on Jan. 9, 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "demers",
+          "sentiment": "none"
+        },
+        {
+          "name": "parks",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cbc",
+          "sentiment": "none"
+        },
+        {
+          "name": "now toronto",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "korverton",
+          "sentiment": "none"
+        },
+        {
+          "name": "brooklyn",
+          "sentiment": "none"
+        },
+        {
+          "name": "ontario",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:38:48.355+02:00",
+    "updated": "2023-12-29T00:38:48.355+02:00"
+  },
+  {
+    "uuid": "5297e4069487b9f71c439b41504914563c627d2b",
+    "url": "https://www.devdiscourse.com/article/politics/2782428-india-bloc-certain-to-disintegrate-in-bihar-good-development-to-follow-for-nda-union-minister-paras",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-01-20T06:27:00Z",
+    "title": "INDIA bloc certain to disintegrate in Bihar, good development to follow for NDA: Union minister Paras | Politics",
+    "text": "Amid the JDUs perceived unhappiness with the opposition INDIA bloc constituents, a key BJP-ally from Bihar Saturday claimed that the states ruling combine is 100 per cent certain to break and a good development for the NDA will follow the Ram temple consecration ceremony.Union minister and Rashtriya Lok Janshakti Party leader Pashupati Kumar Paras said differences between Bihar Chief Minister Nitish Kumar and RJD president Lalu Prasad have deepened.Their alliance is 100 per cent certain to break. [PTI](/pti-stories)| New Delhi | Updated: 20-01-2024 14:34 IST | Created: 20-01-2024 14:27 IST - Country: - India Amid the JD(U)'s perceived unhappiness with the opposition INDIA bloc constituents, a key BJP-ally from Bihar Saturday claimed that the state's ruling combine is ''100 per cent'' certain to break and a ''good development'' for the NDA will follow the Ram temple consecration ceremony. Union minister and Rashtriya Lok Janshakti Party leader Pashupati Kumar Paras said differences between Bihar Chief Minister Nitish Kumar and RJD president Lalu Prasad have deepened. ''Their alliance is 100 per cent certain to break. 'Kharmas' (a period considered inauspicious in Hindu belief) has ended. The idol of Lord Ram will be consecrated on January 22 in Ayodhya. An auspicious period has begun and whatever will happen will be good for the BJP-led NDA,'' he told PTI. The Dalit leader said the entire country, including Bihar, is immersed in the fervour surrounding the Ram temple, and the opposition has no hope in the elections. Asked if the issue will have an impact on Bihar, where the RJD-JD(U)-Congress-Left alliance is considered strong, Paras asserted that they would all be swept aside in the Lok Sabha polls, adding that the combine will soon collapse. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.) ALSO READ [US: Hindu Temple defaced with pro-Khalistan graffiti in California's Hayward](/article/international/2766435-us-hindu-temple-defaced-with-pro-khalistan-graffiti-in-californias-hayward) [\"Biggest win for all Hindus, Sanatani...,\" Bageshwar Dham's Dhirendra Shastri on Ram Mandir](/article/headlines/2766433-biggest-win-for-all-hindus-sanatani-bageshwar-dhams-dhirendra-shastri-on-ram-mandir) [Another Hindu temple ‘attacked’ with pro-Khalistan graffiti in California](/article/technology/2766529-another-hindu-temple-attacked-with-pro-khalistan-graffiti-in-california) [Varanasi court to decide Saturday on making ASI survey report on Gyanvapi mosque public: Hindu side counsel.](/article/agency-wire/2766803-varanasi-court-to-decide-saturday-on-making-asi-survey-report-on-gyanvapi-mosque-public-hindu-side-counsel) [Karnataka Court grants bail to Hindu activist arrested in connection with 31-year-old case](/article/politics/2766876-karnataka-court-grants-bail-to-hindu-activist-arrested-in-connection-with-31-year-old-case)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "para",
+          "sentiment": "negative"
+        },
+        {
+          "name": "paras",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nitish kumar",
+          "sentiment": "none"
+        },
+        {
+          "name": "lalu prasad",
+          "sentiment": "none"
+        },
+        {
+          "name": "pashupati kumar paras",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nda",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pti",
+          "sentiment": "none"
+        },
+        {
+          "name": "rashtriya lok janshakti party",
+          "sentiment": "none"
+        },
+        {
+          "name": "bjp",
+          "sentiment": "none"
+        },
+        {
+          "name": "rjd",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bihar",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T10:59:25.564+02:00",
+    "updated": "2024-01-20T12:15:42.783+02:00"
+  },
+  {
+    "uuid": "97aa652f328bf12e9e46d59a58c50378b0160ab8",
+    "url": "https://www.lavozdegalicia.es/noticia/deza/forcarei/2025/07/24/club-montanero-aromon-prepara-ruta-forcarei-as-pontes-do-lerez/0003_202507D24C6992.htm",
+    "ord_in_thread": 0,
+    "author": "lavozdegalicia",
+    "published": "2025-07-24T03:00:00Z",
+    "title": "El club montañero Aromon prepara una ruta hasta Forcarei por As Pontes do Lérez",
+    "text": "O domingo día 27 o club montañeiro Aromon organiza unha ruta por senllas pouco transitadas do carreiro As Pontes do Lérez. Desde Pontevedra, sairase ás 8.30 horas en coche do Pavillón Municipal. Chegando ata Cachofés, antes do cruzamento para Forcarei, punto no que comezará a ruta. A distancia aproximada acada os 8 quilómetros e a dificultade considérase baixa. A actividade ten un custo de 20 euros para aquelas persoas maiores de 18 anos que non sexan socias. Os menores de idade e os socios terán que abonar un total de 15 euros, menos os federados, cuxo prezo descende ata os 10. O custo inclúe o desprazamento en coches de participantes, a guía durante a actividade e seguros obrigatorios.\nPola tarde, unha vez chéguese a Forcarei, a actividade é libre. Con todo, seguramente se realice unha visita á Torre de Alarma de Barciela e descánsese tras a ruta nas piscinas fluviais de Cercedo. Ademais, para comer ofrécese un menú de 20 euros no restaurante Victoria, pero non é obrigatorio.\nÉ imprescindible acudir con roupa longa e unha mochila con comida para o xantar e bebida (hai fontes no camiño). Recoméndase levar botas e roupa impermeable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Human Interest->anniversary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Forcarei",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:37:32.777+03:00",
+    "updated": "2025-07-25T08:06:23.000+03:00"
+  },
+  {
+    "uuid": "0ed2424c435436111aa3bc31c260e62bd506669f",
+    "url": "https://wtop.com/local/2024/03/saturday-washout-heavy-rain-this-weekend-brings-flood-risk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jack Moore",
+    "published": "2024-03-22T15:45:00Z",
+    "title": "Saturday washout: Heavy rain this weekend brings flood risk",
+    "text": "A flood watch for most of the broader D.C. region goes into effect at 2 a.m. Saturday and lasts until 2 p.m., the National Weather Service said. The rain is expected to spread over most of the D.C. area some time after 9 p.m., according to 7News First Alert meteorologist Steve Rudin. On the plus side, “at least it’s going to be dry for the evening rush hour commute. The showers should hold off for the metro area at least until about 8 or 9 p.m.,” Rudin said. That rain is likely to intensify after midnight, bringing the threat of localized flooding. Rudin said the general guideline they’re using is between one and three inches of rain. The heaviest rainfall is anticipated to be along, and east, of the Interstate 95 corridor. The Flood Watch has been expanded to cover most locations east of the Blue Ridge. This is in effect on Sat 2 AM-2 PM where 1.50-2.50″ of rainfall is possible. In particular, rates could push up to 0.50-1.00″ per hour which would enhance the threat for flooding. [#MDwx] [#VAwx] [#DCwx] [pic.twitter.com/104KMUbPuZ] — NWS Baltimore-Washington (@NWS_BaltWash) [March 22, 2024] Once the rain ends, “winds are going to crank up,” Rudin said. Expect gusts between 35 and 40 mph. “If you have plans to check out the cherry blossoms this afternoon and evening, maybe your best bet is check them out at peak bloom Sunday,” Rudin said. Full 7News First Alert weekend forecast FRIDAY: Partly cloudy, breezy Highs: 52-58 degrees Winds: Southeast 5-15 mph, gusts to 20 mph Freezing temperatures are expected to start the day with wake-up temperatures in the upper 20s to low 30s. It will be seasonable by the afternoon with highs in the 50s. Clouds will increase late in the day ahead of our next weather maker. Wet weather will overspread the DMV tonight (after 9 p.m. for most). FRIDAY NIGHT: Showers, areas of rain Lows: 40s Winds: Southeast 10-20 mph A flood watch will begins at 2 a.m. Rain intensity will increase overnight with the potential for localized flooding. SATURDAY: FLOOD WATCH 2 A.M.-2 P.M. Moderate to heavy rain Highs: 50s Winds: Northeast 10-20 mph, gusts to 30 mph Areas of moderate to heavy rain during the morning will taper to showers during the afternoon. Rainfall totals are trending between 1 to 3 inches, with the heaviest rain falling east and along the I-95 corridor. A flood watch has been posted for all areas inside the beltway and surrounding counties. Localized flooding is possible. Northwesterly will increase during the afternoon with windy conditions expected at night. Wind gusts over 30 mph are likely after 7 p.m. SUNDAY: Mostly sunny, blustery Highs: Around 55 degrees Winds: North 10-20 mph, gusts to 35 mph You’ll wake up to wind chills in the 20s Sunday morning. Sunday will be blustery and brighter with sunshine and highs in the mid 50s. Northwesterly winds will gust over 30 mph during the first half of the day. The wind will decrease during the afternoon. Get breaking news and daily headlines delivered to your email inbox by signing up here . © 2024 WTOP. All Rights Reserved. This website is not intended for users located within the European Economic Area.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.weather.gov/lwx/",
+      "https://weather.gov/lwx/",
+      "https://www.weather.gov/lwx"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "eileen whelan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "nws",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "baltimore",
+          "sentiment": "none"
+        },
+        {
+          "name": "blue ridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c.",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T17:48:10.012+02:00",
+    "updated": "2024-03-23T02:22:25.847+02:00"
+  }
+]

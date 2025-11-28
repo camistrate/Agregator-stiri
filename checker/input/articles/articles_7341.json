@@ -1,0 +1,141 @@
+[
+  {
+    "uuid": "e44bb4b9cd0a053558400c4aa17087c8d78fa861",
+    "url": "https://dailyvoice.com/pa/whitehall-coplay/rajgion-davis-charged-with-stephen-fistners-murder",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Merriell Moyer",
+    "published": "2024-09-26T19:49:00Z",
+    "title": "Murder Charge For PA Man After 'Intentional' Hit-Run: DA",
+    "text": "Along with the Criminal Homicide charge, 55-year-old Davis is also charged with two counts of Attempted Murder and two counts each of Aggravated Assault relating to other pedestrians endangered in the incident, according to the Lehigh County District Attorney's Office. All charges are first-degree felonies. The charges were filed after police investigated the hit-and-run incident in the 1300 block of North 14th Street at 6:05 p.m. on Friday, Aug. 9 [that resulted in Fistner's death](https://dailyvoice.com/pa/allentown/stephen-fistner-struck-dead-in-what-coroner-calls-homicide/). Police began investigating after receiving a report of a crash in the area, but numerous eyewitnesses described what was determined to be an intentional act, according to the district attorney's office. Eyewitnesses told police that Davis was driving a grey sedan in the area of 1339 North 14th Street and crashed into an unoccupied vehicle owned by Francesca Washington before fleeing the scene, authorities said. Washington went out to check the damage to her vehicle where she was joined by Fistner and his wife. While they were standing together by Washington's vehicle, Davis returned and drove directly at them, the district attorney's office said. Fistner pushed his wife out of the way before the car struck him and Washington. Washington suffered severe bodily injuries and is still hospitalized, authorities said. Fistner succumbed to his injuries at Lehigh Valley Hospital. At the time, Coroner Daniel Buglio ruled the death a homicide with the cause of death ruled as Blunt Force Injuries due to Pedestrian/Motor Vehicle Collision. Davis walked away from the scene but numerous community members called 9-1-1 and followed Davis while recording him on their cellphones, the district attorney's office said. He was taken into custody by Allentown police officers and confessed that his intention was to harm and kill Washington. Davis was placed in Lehigh County Jail without bail per state law on the charges, and will be formally arraigned on Wednesday, Oct. 30, the district attorney's office said. [Click here] to follow Daily Voice Steelton-Highspire and receive free news updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Davis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Francesca Washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fistner",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Lehigh County District Attorney's Office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-09-27T00:10:26.030+03:00",
+    "updated": "2024-10-01T13:19:19.275+03:00"
+  },
+  {
+    "uuid": "0f0f9780a8cbe5ea5eebaf04e685e99be2d1e39f",
+    "url": "https://finance.sina.com.cn/tech/roll/2025-03-13/doc-inepniqt0919966.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "电子产品世界",
+    "published": "2025-03-13T01:08:00Z",
+    "title": "兆易创新推出GD25NE系列SPI NOR Flash_新浪科技_新浪网",
+    "text": "业界领先的半导体器件供应商兆易创新GigaDevice近日宣布推出专为1.2V SoC应用打造的双电压供电SPI NOR Flash产品——GD25NE系列。该系列产品无需借助外部升压电路即可与下一代1.2V SoC实现无缝兼容，此产品的面世将进一步强化兆易创新在双电压供电闪存解决方案领域的战略布局。凭借更高的性能和更低的功耗，GD25NE系列可充分满足市场对于先进嵌入式存储解决方案日益增长的需求，成为智能可穿戴设备、医疗健康、物联网、数据中心及边缘人工智能应用的理想选择。\n本文引用地址：\nGD25NE系列SPI NOR Flash的核心供电电压为1.8V，IO接口电压为1.2V，支持单通道、双通道、四通道、双沿四通道模式，最高时钟频率为STR 133MHz，DTR 104MHz。GD25NE系列的写入时间典型值为0.15ms，扇区擦除时间为30ms，其与常规1.2V单电压供电的Flash解决方案相比，数据读取性能提升了20%，写入速度提升60%，擦除时间缩短30%。凭借这些技术优势，GD25NE系列成为新兴嵌入式应用的卓越之选。\n为进一步满足能耗敏感型应用的需求，GD25NE系列采用超低功耗设计。其深度睡眠功耗电流低至0.2µA，在双沿四通道104MHz频率下的读取电流低至9mA，擦写电流低至8mA。与传统的1.8V Flash解决方案相比，GD25NE系列的1.2V IO接口设计可将功耗降低50%。这一优化的电源架构不仅显著提升了能效，还保持了Flash器件的高性能表现，同时简化了SoC的系统设计。\n“GD25NE系列作为双电源SPI NOR Flash品类的代表，实现了高性能与超低功耗的完美平衡，”兆易创新副总裁、存储事业部总经理苏如伟表示，“凭借显著降低的功耗、更快的读取速度以及更高的擦写效率，GD25NE系列能够满足新一代1.2V SoC持续演进的需求。未来，兆易创新还将不断拓展双电源SPI NOR Flash的产品组合，致力于为客户提供更高效、更可靠、更前沿的闪存解决方案，助力创新应用的发展。”\n目前，兆易创新GD25NE系列可提供从32Mb到256Mb的多种容量选择，并支持SOP16（300 mil）和BGA24（5×5 ball array）封装选项。该系列首款产品——256Mb的GD25NE256H现已开始提供样片。其余32Mb至128Mb容量的产品也将陆续推出。如需了解详细信息及产品定价，请联系当地销售代表。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business information",
+      "Environment->energy resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:16:46.102+02:00",
+    "updated": "2025-03-13T09:03:28.609+02:00"
+  },
+  {
+    "uuid": "45722704a1cd67dfb4cfcb2292e08e8a11152b51",
+    "url": "https://www.laregion.es/articulo/valdeorras/auroras-boreales-iluminan-cielo-trevinca/202410111402201334502.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Región",
+    "published": "2024-10-11T11:02:00Z",
+    "title": "Las auroras boreales iluminan el cielo en Trevinca",
+    "text": "El cielo de Galicia volvió a brillar esta madrugada por un fenómeno poco frecuente en nuestra comunidad, las auroras boreales. Aunque ya pudieron contemplarse en el mes de mayo por primera vez este año, este 11 de octubre este inusual fenómeno astronómico se repitió en los cielos de Ourense y del resto de la comunidad. ; Uno de los puntos perfectos para disfrutar de las auroras boreales, como en el mes de mayo, fue el Centro Astronómico de Trevinca. Allí pudieron captar las auroras boreales que se dieron la pasada madrugada en latitudes tan bajas como España. En esta ocasión fue una potente tormenta solar la que provocó que este fenómeno se pudiera ver en los cielos de Ourense, así como el resto de Galicia. En las imágenes de Trevinca Skies, desde el Centro Astronómico de Trevinca, se pudo ver la espectacular estampa que dejaron las auroras boreales sobre el cielo de la provincia. En las redes sociales se pudieron ver imágenes de las auroras boreales por toda Galicia, así como otros puntos de España. ; ;",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T15:22:30.431+03:00",
+    "updated": "2024-10-11T15:38:48.703+03:00"
+  }
+]

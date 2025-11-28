@@ -1,0 +1,227 @@
+[
+  {
+    "uuid": "17e8915553682590f4987475659f1e5753eb7b1c",
+    "url": "https://www.archyde.com/gpt-5-safety-flaws-slurs-ai-bias-persist/",
+    "ord_in_thread": 0,
+    "author": "Sophie Lin - Technology Editor",
+    "published": "2025-08-14T03:50:00Z",
+    "title": "GPT-5 Safety Flaws: Slurs & AI Bias Persist",
+    "text": "The GPT-5 Shift: Why AI Safety is Now About What Bots *Say*, Not Just What You Ask A surprising 78% of users report frustration with AI chatbots due to inappropriate or unhelpful responses, according to a recent study by the AI Ethics Institute. OpenAI’s release of GPT-5 isn’t about a flashy new personality – it’s a fundamental rethink of how AI safety works, moving from policing user prompts to scrutinizing the potential outputs. This isn’t just a tweak; it’s a potential turning point in the evolution of responsible AI.\nFrom Binary Rejection to Nuanced Harm Assessment Previously, ChatGPT operated on a relatively simple principle: analyze the user’s input and determine if it violated OpenAI’s content policies. A violation meant a curt refusal. Now, with GPT-5, the focus has shifted. The AI now prioritizes evaluating the potential harm of its response before generating anything. This means a more nuanced approach to content moderation, recognizing that not all policy breaches are created equal.\nOpenAI’s model specifications clearly outline these boundaries. While educational content about sensitive topics like reproductive anatomy is permissible, attempts to generate explicit erotica or graphic violence are heavily restricted. Saachi Jain, from OpenAI’s safety systems research team, explains that this shift allows for a more “conservative” approach to compliance, acknowledging that “some mistakes are truly worse than others.”\nThe “Safe Completions” Paradigm and Its Implications The core of this change lies in the concept of “safe completions.” Instead of asking “Is this question okay?”, GPT-5 asks “Is this answer okay?” This proactive approach is designed to prevent the AI from generating harmful content, even if the initial prompt isn’t overtly malicious. If a potentially unsafe output is detected, the chatbot now explains the violation and suggests alternative, acceptable topics.\nThis has significant implications for developers and users alike. For developers, it necessitates a deeper understanding of potential output risks and a more sophisticated approach to safety engineering. For users, it means a more informative and potentially less frustrating experience when encountering content restrictions. However, it also raises questions about the potential for over-censorship and the limitations it places on creative exploration.\nGPT-5 in Action: More of the Same…For Now? Initial user experiences with GPT-5 have been mixed. While the model demonstrates impressive capabilities in areas like interactive simulations – creating a functioning volcano model, for example – many users report that everyday tasks feel largely unchanged. This aligns with observations that the most noticeable differences lie in the AI’s handling of sensitive or potentially harmful requests.\nTesting the boundaries of GPT-5 reveals this shift in action. Attempts to engage the chatbot in explicit role-playing were met with firm refusals and suggestions for alternative, non-explicit scenarios. Interestingly, a deliberate misspelling (“horni” instead of “horny”) in custom instructions bypassed some safeguards, highlighting the ongoing challenges of robust content filtering. This underscores the importance of continuous refinement and the potential for users to discover loopholes.\nThe Custom Instructions Conundrum The custom instructions feature, while intended to personalize the chatbot’s responses, also presents a vulnerability. The ability to subtly manipulate the AI’s parameters, as demonstrated by the misspelling workaround, raises concerns about the potential for malicious actors to exploit these features. OpenAI will need to continually address these vulnerabilities to maintain the integrity of its safety systems.\nBeyond GPT-5: The Future of AI Safety The shift to output-focused safety isn’t limited to OpenAI. It represents a broader trend in the AI industry towards proactive risk mitigation. We can expect to see further developments in this area, including:\nReinforcement Learning from Human Feedback (RLHF) 2.0: More sophisticated RLHF techniques that prioritize safety and alignment with human values. Differential Privacy: Techniques to protect sensitive information while still allowing AI models to learn from data. Explainable AI (XAI): Tools that provide insights into the AI’s decision-making process, making it easier to identify and address potential biases or safety concerns. The evolution of AI safety is a continuous process, and GPT-5 is just one step along the way. As AI models become more powerful and integrated into our lives, the need for robust and adaptable safety mechanisms will only become more critical. The focus on “safe completions” signals a crucial move towards building AI systems that are not only intelligent but also responsible and trustworthy. The AI Ethics Institute provides further research and insights into these evolving challenges.\nWhat are your thoughts on the new approach to AI safety? Share your predictions for the future of responsible AI in the comments below!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Social Issue->diversity, equity and inclusion"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://aiethicsinstitute.org/",
+      "https://aiethicsinstitute.org",
+      "https://www.aiethicsinstitute.org/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:31:14.711+03:00",
+    "updated": "2025-08-14T08:36:56.000+03:00"
+  },
+  {
+    "uuid": "cfd2c1c4b2462caa0b5a2c807221854e54a846b7",
+    "url": "https://bnnbreaking.com/politics/duhok-governor-calls-for-border-security-urges-end-to-turkiye-pkk-conflict-in-iraqi-kurdistan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Momen Zellmi",
+    "published": "2024-03-10T15:59:00Z",
+    "title": "Duhok Governor Calls for Border Security, Urges End to Turkiye-PKK Conflict in Iraqi Kurdistan",
+    "text": "Duhok Governor Ali Tatar recently made a powerful plea for peace and stability in the Kurdistan Region of Iraq, amidst ongoing conflicts with significant implications for the area's security and development. Highlighting the legitimate rights of the Iraqi Border Guard forces to secure the borders, Tatar's statements underscore both the urgency and complexity of the situation facing this volatile region.\nAdvertisment Striving for Security Amidst Conflict In a press conference, Governor Tatar emphasized the critical need for securing the Kurdistan Region's borders with neighboring countries, asserting that Kurdish territories must not serve as a base for threatening these nations. His remarks come against the backdrop of a prolonged conflict between the Turkish army and PKK militants, a struggle that has inflicted significant damage on the Al-Amadiya district in Duhok, leading to the abandonment of 60% of its villages. Tatar's call to action is not just a plea for peace but a strategic move to allow for the displacement reversal and community rebuilding efforts to commence.\nThe Turkiye-PKK Conflict: A Historical Overview Advertisment The Turkish Armed Forces have been entangled in a cross-border military operation against the PKK in Northern Iraq since the 1980s, a conflict that has seen various phases and intensified after the breakdown of a ceasefire in July 2015. This ongoing strife has not only devastated communities within Turkiye's borders but has also extended into Iraqi Kurdistan, where the Turkish military has established bases, citing the expulsion of PKK militants as justification. The President of the Kurdistan Region, Nechirvan Barzani, has expressed a firm stance against the use of Kurdistan's land as a launching pad for threats against neighboring countries, highlighting the PKK's detrimental role in the region's stability.\nRegional Implications and the Path Forward The ongoing Turkiye-PKK conflict poses significant challenges for the Kurdistan Region, affecting its security, stability, and development prospects. Despite the Kurdistan Regional Government's efforts to mediate and offer solutions, the persistent presence of PKK militants and Turkish military operations within its borders complicates the path to peace. Ankara's demands for Baghdad to label the PKK as a 'terrorist' organization, coupled with Baghdad's calls for Turkiye to respect Iraq's sovereignty, underscore the intricate geopolitical dynamics at play.\nAs the Kurdistan Region of Iraq navigates these turbulent waters, Governor Tatar's recent statements serve as a crucial reminder of the need for a collective effort towards securing peace and stability in the area. The implications of the Turkiye-PKK conflict extend far beyond the immediate security concerns, affecting the socio-economic fabric of the Kurdistan Region and its relations with neighboring countries. While the path to resolution may be fraught with challenges, the pursuit of peace remains a paramount goal for all parties involved, promising a future where displaced residents can safely return and rebuild their lives.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ali tatar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tatar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pkk",
+          "sentiment": "none"
+        },
+        {
+          "name": "border guard",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "turkiye",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurdistan duhok",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurdistan regi",
+          "sentiment": "none"
+        },
+        {
+          "name": "duhok",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurdistan region",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-amadiya",
+          "sentiment": "none"
+        },
+        {
+          "name": "iraq",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-10T18:01:12.934+02:00",
+    "updated": "2024-03-10T18:01:12.934+02:00"
+  },
+  {
+    "uuid": "8e0e30ca81eb65861d9f6c228421b2467f3e90f5",
+    "url": "https://gulfnews.com/uae/weather/uae-set-to-welcome-wasmi-season-ushering-in-moderate-temperatures-1.1728715882139",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gulf News Report Follow us",
+    "published": "2024-10-12T06:29:00Z",
+    "title": "UAE set to welcome ‘Wasmi’ season, ushering in moderate temperatures | Weather – Gulf News",
+    "text": "Dubai: In mid-October, the UAE will transition into the ‘Wasmi’ season, a highly anticipated period characterised by moderate temperatures that will last until December 6.\nThis season, celebrated across the Arab world, is welcomed as a respite from the intense summer heat and a prelude to the chill of winter.\nAccording to Ibrahim Al Jarwan, Chairman of the Board of Directors of the Emirates Astronomical Society, the ‘Wasmi’ season follows the appearance of the ‘Suhail’ star, signalling the end of extreme heat. He explained that ‘Wasmi’ is the second phase of autumn, following the season known as ‘safari.’\"\nalso see UAE weather: Heavy rain and hail in parts of Dubai, Fujairah and Ras Al Khaimah During the ‘Wasmi’ period, daytime temperatures become more moderate while cooler temperatures gradually take hold at night.\nBy the end of the season in December, cold weather becomes more prominent, marking the onset of winter's first phase, known as the ‘Mirba`aniya,’ when the chill intensifies.\"\nThe season is also characterised by increased agricultural activity, as conditions favour plant growth. Average temperatures range from 30 to 34 degrees Celsius at their peak and from 12 to 18 degrees Celsius at their lowest.\"\nAl Jarwan highlighted that Bedouins observe the start of the ‘Wasmi’ season by noting the alignment of stars such as Suhail and Sirius in the southern dawn sky\nAdditionally, the rains during this period, known as ‘Wasam,’ are considered beneficial for replenishing underground water sources and supporting agriculture. Some rains even arrive in the ten days leading up to the season, a phenomenon referred to as ‘preceding Wasam.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T10:36:25.522+03:00",
+    "updated": "2024-10-20T09:09:34.223+03:00"
+  },
+  {
+    "uuid": "6bdc4f9a3f4abfdbd39a8ec1000eeec8c3654d07",
+    "url": "https://www.sport.fr/football/nouveau-leader-al-hilal-colle-un-9-0-a-al-fateh-1280546.shtm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hugo Bernabeu",
+    "published": "2025-01-16T16:15:00Z",
+    "title": "Nouveau leader, Al-Hilal colle un 9-0 à Al-Fateh !",
+    "text": "Al-Hilal a totalement écrasé Al-Fateh ce jeudi, et prend la tête de la Saudi Pro League. Al-Hilal a réalisé une démonstration impressionnante ce jeudi lors de la 15e journée de Saudi Pro League en infligeant une défaite humiliante de 9-0 à Al-Fateh. Le champion en titre, porté par Kalidou Koulibaly (1-0) et Renan Lodi (2-0), a dominé dès la première mi-temps. Dans un temps additionnel fou, Marcos Leonardo (3-0) et Milinkovic-Savic (4-0) ont également marqué. Après la pause, Leonardo a inscrit un doublé (5-0, 54e) puis un triplé (6-0, 65e), avant que Al-Hamdan (7-0, 90+1e) et Malcom (8-0, 90+5e) ne complètent ce carton.\nGrâce à cette victoire écrasante, Al-Hilal prend la tête du classement avec 40 points, surpassant Al-Ittihad (38 points), tandis qu’Al-Fateh reste bon dernier.\n9️⃣9️⃣9️⃣9️⃣9️⃣9️⃣ الآن pic.twitter.com/rTWYBySxRS\n— نادي الهلال السعودي (@Alhilal_FC) January 16, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sport event",
+      "Sport->sport achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/Alhilal_FC/status/1879940344068165866?ref_src=twsrc%5Etfw",
+      "https://t.co/rTWYBySxRS",
+      "https://twitter.com/Alhilal_FC/status/1879940344068165866",
+      "https://www.twitter.com/Alhilal_FC/status/1879940344068165866?ref_src=twsrc%5Etfw",
+      "https://www.t.co/rTWYBySxRS"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:40:06.350+02:00",
+    "updated": "2025-01-17T00:40:06.350+02:00"
+  }
+]

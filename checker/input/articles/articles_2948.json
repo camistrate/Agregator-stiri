@@ -1,0 +1,481 @@
+[
+  {
+    "uuid": "8286a1cb2786bbb7b1f55ba3725479ac3d05fc43",
+    "url": "https://vanguardia.com.mx/noticias/mexico/elementos-de-fuerza-civil-reparten-cena-navidena-en-hospitales-de-nuevo-leon-EI14496075",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "aracely chantaka",
+    "published": "2024-12-26T20:53:00Z",
+    "title": "Elementos de Fuerza Civil reparten cena navideña en hospitales de Nuevo León",
+    "text": "Elementos de Fuerza Civil reparten cena navideña en hospitales de Nuevo León\nCOMPARTIR\nLlevaron tamales y bolsitas de dulces, típicos de las fiestas; los menores que pasaron la Nochebuena en el hospital fueron visitados por El Grinch y Santa Claus\nMONTERREY, NL.- En el marco de la celebración de la Navidad, elementos de Fuerza Civil repartieron cena en hospitales de [Nuevo León](https://es.wikipedia.org/wiki/Nuevo_Le%C3%B3n).\nLa corporación estatal informó que visitaron el Hospital Universitario, Hospital de Zona número 33 y la Unidad Médica de Alta Especialidad número 25 del Instituto Mexicano del Seguro Social (IMSS) para compartir un momento de esperanza y solidaridad con las personas que tienen familiares internados en dichos nosocomios.\nTE PUEDE INTERESAR: [Mujer resulta lesionada al caer a las vías de la Línea 3 del Metro en Nuevo León; presuntamente se arrojó](https://vanguardia.com.mx/noticias/mexico/mujer-resulta-lesionada-al-caer-a-las-vias-de-la-linea-3-del-metro-en-nuevo-leon-presuntamente-se-arrojo-GI14496055)\nEl primer lugar que visitaron fue la Clínica 25 del IMSS a donde los elementos llevaron más de dos mil tamales y bolsitas de dulces, típicos de estas fiestas. Además, los menores que pasaron la Nochebuena en el hospital fueron visitados por los personajes del Grinch y Santa Claus.\nTambién incluyeron en estas mismas visitas y repartición de cena, al Hospital Universitario, ubicado en la avenida Gonzalitos y Madero, en el centro de Monterrey y la Clínica 33.\nTE PUEDE INTERESAR: [2024, el año más violento para Nuevo León en los últimos años: FGJNL](https://vanguardia.com.mx/noticias/mexico/2024-el-ano-mas-violento-para-nuevo-leon-en-los-ultimos-anos-fgjnl-OI14495821)\nCon estas acciones, Fuerza Civil refrendó la empatía que tiene con la comunidad.\n“Llevando un momento de alegría, ante las adversidades que los familiares de los convalecientes sobrellevan en esta temporada navideña”, indicó [Fuerza Civil](https://vanguardia.com.mx/noticias/mexico/volcadura-de-unidad-de-fuerza-civil-deja-un-oficial-herido-en-nuevo-leon-HA14369295) en un comunicado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->ceremony",
+      "Social Issue->social services",
+      "Social Issue->charity",
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Nuevo_Le%C3%B3n",
+      "https://www.es.wikipedia.org/wiki/Nuevo_Le%C3%B3n"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Instituto Mexicano del Seguro Social",
+          "sentiment": "none"
+        },
+        {
+          "name": "Unidad Médica de Alta Especialidad",
+          "sentiment": "none"
+        },
+        {
+          "name": "Santa Claus\nMONTERREY",
+          "sentiment": "none"
+        },
+        {
+          "name": "Fuerza Civil",
+          "sentiment": "none"
+        },
+        {
+          "name": "IMSS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:27:49.191+02:00",
+    "updated": "2024-12-27T00:27:49.191+02:00"
+  },
+  {
+    "uuid": "874291805f61618aeace8abcdefe4add0afac44e",
+    "url": "https://spectrum.ieee.org/math-ai",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Charles Q Choi",
+    "published": "2025-02-27T14:00:00Z",
+    "title": "AI Solves Million-Step Math Problems",
+    "text": "Artificial intelligence systems have made breakthrough after breakthrough mastering chess, in which games typically last about 40 moves. Now, to help solve the world’s toughest math problems, researchers have developed a new AI model that finds complex solutions requiring thousands to millions of steps. They suggest the new algorithms they built for the task might one day help detect events such as hurricanes and financial crashes that are rare but have disastrous impacts when they do happen.\nScientists are increasingly exploring how well AI can solve math problems. For example, Google DeepMind’s AlphaProof performed as well as a silver medalist in the 2024 International Mathematical Olympiad, a high-school level math competition, and OpenAI’s o3 system recently debuted with a strong showing on benchmark problems in math, science, and computer programming.\nIn a new study, which has not yet been peer reviewed, researchers at the California Institute of Technology and their colleagues tackled more challenging math problems, the kind that have perplexed professional mathematicians for decades.\n“When it comes to the kind of problems you might find in math olympiads, they’re typically proofs involving 30 or 40 steps, on the same order of magnitude as an average game of chess,” says Sergei Gukov, a professor of theoretical physics and mathematics at the California Institute of Technology, in Pasadena. “We’re focusing on sophisticated research-level math problems with solutions involving thousands or millions or even billions of steps.”\nUltimately, “I’m hoping that we’ll be able to solve Millennium Prize problems using AI,” Gukov says, referring to a contest involving the most difficult mathematical problems in the world. “This is probably too optimistic on my part, but it’s good to have some north stars. At the moment, we’re trying to focus on problems one level down instead, the kind that have remained open for many years.”\nAI Tackles the Andrews-Curtis Conjecture\nIn the new study, Gukov and his colleagues focused on the Andrews-Curtis conjecture, a combinatorial group theory problem first proposed 60 years ago. “Combinatorial group theory is about transformations of objects,” Gukov says. “Think about a Rubik’s cube. It’s a very simple group with basic operations and transformations—you can rotate different planes of a Rubik’s cube vertically and horizontally. The Andrews-Curtis conjecture is like a Rubik’s cube on steroids—instead of a 3 by 3 by 3 group, it’s more like a 100 by 100 by 100 group.”\nAlthough the researchers did not prove the main conjecture, their new system disproved related families of problems known as potential counterexamples that had remained open for about 25 years. These counterexamples are essentially mathematical cases that would disprove the conjecture. Ruling out these counterexamples increases the likelihood that the conjecture is true.\nTo attack these problems, Gukov and his colleagues adopted a strategy where they looked for unexpected, convoluted solutions. “If you were to ask DeepSeek or o3 or ChatGPT or similar models to solve any of the problems we studied, they wouldn’t be able find answers,” he says. “They’re good at producing solutions that are expected or typical, at parroting what’s seen before. They’re meant to be general-purpose models. We’re looking at long sequences of steps that are hard to find, that are outliers among the statistical distribution of solutions.”\nTo develop these “super-moves,” as the researchers call them, Gukov and his colleagues used the approach known as reinforcement learning. They first gave the AI easy problems to solve, and then gave it progressively more difficult problems. The scientists looked for strategies that didn’t require large amounts of computing power; Gukov says that all the training was done on a single [GPU](https://spectrum.ieee.org/frontier-exascale-supercomputer).\nGukov notes that in reinforcement learning research, people typically use the same 10 to 15 algorithms. “What I find most exciting is that by thinking about solving these problems with these very long horizons, we developed new algorithms for AI,” he says.\nPotential Applications Beyond Mathematics\nThese new algorithms “might have many applications for them outside of pure mathematics,” Gukov says. “They can find outliers, anomalies, black swans—events that are very, very rare, but can have very heavy price tags if they do happen.” The rarity of these events has made them difficult for AI to accurately forecast—their unusual nature means there is little historical data for predictive models to learn from. The ability to forecast the most likely and catastrophic of these scenarios could help societies prepare optimal mitigation strategies.\nGukov’s team is now investigating other longstanding math problems to help them develop the algorithms. They detailed [their findings](https://github.com/shehper/AC-Solver) 13 February in a [study](https://arxiv.org/abs/2408.15332v2) on the ArXiv preprint server.\n[MIT and IBM Find Clever AI Ways Around Brute-Force Math ›](https://spectrum.ieee.org/mathematical-model-ai)[AI Language Models Are Struggling to “Get” Math ›](https://spectrum.ieee.org/large-language-models-math)[Posits, a New Kind of Number, Improves the Math of AI ›](https://spectrum.ieee.org/floating-point-numbers-posits-processor)\n[Charles Q. Choi](https://spectrum.ieee.org/u/charles-q-choi)\n[Charles Q. Choi](https://www.linkedin.com/in/charlesqchoi) is a science reporter who contributes regularly to IEEE Spectrum. He has written for Scientific American, The New York Times, Wired, and Science, among others.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->mathematics",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->computing and information technology",
+      "Social Issue->social problem",
+      "Social Issue->communities",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "https://arxiv.org/abs/2408.15332v2",
+      "https://openai.com/index/openai-o3-mini/",
+      "https://www.nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
+      "https://en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
+      "https://www.claymath.org/millennium-problems/",
+      "https://github.com/shehper/AC-Solver",
+      "http://theory.caltech.edu/~gukov/",
+      "https://www.linkedin.com/in/charlesqchoi",
+      "https://claymath.org/millennium-problems/",
+      "https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level",
+      "https://openai.com/index/openai-o3-mini",
+      "https://www.en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture",
+      "https://www.deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/",
+      "https://www.github.com/shehper/AC-Solver",
+      "http://theory.caltech.edu/~gukov",
+      "https://www.openai.com/index/openai-o3-mini/",
+      "https://linkedin.com/in/charlesqchoi",
+      "https://nytimes.com/2024/12/20/technology/openai-new-ai-math-science.html",
+      "https://www.arxiv.org/abs/2408.15332v2",
+      "https://www.claymath.org/millennium-problems",
+      "http://www.theory.caltech.edu/~gukov/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "California Institute of Technology",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:24:40.784+02:00",
+    "updated": "2025-02-28T01:28:59.228+02:00"
+  },
+  {
+    "uuid": "358a1494c9d08499e9b69e8e4ba46a9a67c5028c",
+    "url": "https://www.wcjb.com/2024/04/25/peta-requests-state-attorney-charge-obs-over-horse-injury-euthanasia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wcjb20",
+    "published": "2024-04-25T20:51:00Z",
+    "title": "PETA requests State Attorney charge OBS over horse injury, euthanasia",
+    "text": "PETA requests State Attorney charge OBS over horse injury, euthanasia OCALA, Fla. (WCJB) - PETA, an animal rights organization, is trying to rein in [Ocala Breeders’ Sales (OBS) company](https://www.wcjb.com/2024/04/16/obs-spring-sale-kicks-off-marion-county/) after a horse was euthanized and an activist was robbed. [PETA shared a letter](https://www.peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/) sent to William Gladson, the 5th Judicial Circuit State Attorney, asking for animal cruelty charges forward against OBS. The letter accuses the company of pushing young horses too hard during the under tack show. Earlier this month, OBS director Tod Wojciechowski was arrested for taking a PETA employee’s backpack. The employee was filming when a horse got injured during the show and was euthanized. RELATED: [Director of Sales for the Ocala Breeders’ Sale is charged with robbery](https://www.wcjb.com/2024/04/13/director-sales-ocala-breeders-sale-is-charged-with-robbery/) April 25, 2024 Mr. William Gladson State Attorney, Fifth Judicial Circuit wgladson@sao5.org Dear Mr. Gladson: I am general counsel to People for the Ethical Treatment of Animals (PETA) and am writing to respectfully request that you pursue felony and misdemeanor cruelty to animals charges against those responsible for cruelly causing the deaths of a young colt this month and a young filly in April 2023 by recklessly overdriving them in speed trials for potential buyers. See Fla. Stat. §§ 828.12(1), 828.125. As thoroughly detailed below, at the Ocala Breeders’ Sales Company’s (“OBS”) facility, located at 1701 Southwest 60th Ave., Ocala, FL, OBS held “under tack” shows, in which young horses—some of whom are not even 24 months old yet—are pushed to sprint short distances (in “works” or “breezes”) at speeds faster than they will ever run in their future racing careers. Many of these horses are driven to break the ten-second barrier—faster than even elite, fully mature horses would run in any fraction of the Sprint at the Breeders’ Cup World Championship. There is a wealth of evidence establishing that intense, excessive speed works in short sprints at under tack shows are both dangerous and damaging to these juvenile horses, putting them at risk for serious injuries and catastrophic breakdowns. This conduct appears to violate Florida’s prohibition on overdriving horses, id. § 828.12(1), and, for the horses who have been seriously injured and killed at OBS’ under tack show, the prohibition on killing and aggravated abuse, id. § 828.125. PETA is prepared to assist your office in any way possible in furtherance of this investigation, including by providing additional video and other documentary evidence, and we welcome the opportunity to meet with you. Thank you for your attention to this matter. Jared Goodman Managing General Counsel Enclosures [Click here](https://www.wcjb.com/newsletter/) to subscribe to our newsletter. Copyright 2024 WCJB. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/)",
+      "https://peta.org/blog/frosten-dies-ocala-breeders-sales-under-tack-show/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "william gladson",
+          "sentiment": "none"
+        },
+        {
+          "name": "gla",
+          "sentiment": "none"
+        },
+        {
+          "name": "tod wojciechowski",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "obs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "peta",
+          "sentiment": "negative"
+        },
+        {
+          "name": "5th judicial circuit state",
+          "sentiment": "none"
+        },
+        {
+          "name": "ocala breeders",
+          "sentiment": "none"
+        },
+        {
+          "name": "fifth judicial circuit",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "fla.",
+          "sentiment": "none"
+        },
+        {
+          "name": "ocala",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:08:02.841+03:00",
+    "updated": "2024-04-26T00:08:02.841+03:00"
+  },
+  {
+    "uuid": "b6698794e87ff2126dec734c0849e6d651d44077",
+    "url": "https://www.eldiario.es/sociedad/humano-no-deja-clave-exito-no-hay-especie-invierta-esfuerzos-cuidado_1_11275794.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CENIEH",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "El ser humano no deja atrás a los suyos y esa es la clave de su éxito: \"No hay especie que invierta más esfuerzos en el cuidado\"",
+    "text": "Benjamina es una niña que padece una patología provocada por una deformación en el cráneo. Esto hace que la pequeña tenga dificultades psicomotoras y requiera de la ayuda de sus padres y familia para hacer su día a día. Como cualquier otra niña, es querida y es considerada valiosa dentro del grupo. “La más querida” , de hecho. Benjamina tiene aproximadamente medio millón de años. Y es uno de los fósiles preneandertales encontrados en Atapuerca que demuestran que nuestra especie ha llegado hasta aquí por el amor, el cariño y la tolerancia. Que persistimos porque nos cuidamos los unos a los otros. Nuestra especie se adentró en el territorio de los neandertales y se adaptó al frío extremo mucho antes de lo esperado\nAl ser humano le encanta preguntarse de dónde viene. Y en el camino, dejar una huella que perdure una vez que ya no estemos. Esa huella puede ser tangible, marcar nuestra mano en la pared de una cueva, escribir un libro, componer una canción. O puede no serlo: hacer amigos, mantener vínculos y crear recuerdos con personas que nos quieran. La paleoantropóloga María Martinón-Torres (Ourense, 1974), directora del Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), es una Homo sapiens que lleva años estudiando sobre la más pura esencia del comportamiento humano, esas improntas pasadas que nos han llevado hasta donde estamos ahora. Hasta lo que somos ahora. A pesar de la violencia, de las guerras, del mal causado, la experta lo tiene claro: “Lo que nos caracteriza como especie es nuestra fe ciega en que el otro nos va a respetar y tolerar”.\nEn Atapuerca (Burgos), el instituto que Martinón-Torres dirige se encarga de la “reconstrucción del pasado y de la evolución del ser humano” de una manera multidisciplinar, que abarca desde el estudio del comportamiento hasta la geología o el análisis de ADN antiguo, esta última línea actualmente en expansión en el centro. La doctora, autora de Homo imperfectus (Destino, 2022), incide en que lo que hoy consideramos como debilidades, desde un punto de vista evolutivo pueden no serlo: “Cuando uno está enfermo significa que está vivo. Es una paradoja que muchas veces tenemos la idea de que una enfermedad es un fracaso, pero lo que vemos son los intentos del cuerpo por responder ante una amenaza”. Homo sapiens es una especie que “no deja atrás a los suyos”, aunque sean dependientes, y que está donde está gracias a los que vinieron antes: “Para nuestra especie, que basa su supervivencia en el conocimiento y en la anticipación de los problemas, tener la posibilidad de coexistir con nuestros abuelos y bisabuelos es un lujo”.\nSuele incidir en que los dientes son muy importantes en el ámbito de la paleoantropología. ¿Qué pueden decir de nosotros?\nLos dientes son la joya de la corona del registro fósil. Son más abundantes, pero también por sus características físicas, porque el esmalte es el tejido más duro que tenemos en el cuerpo. Además, son una parte del esqueleto que a lo largo de la vida no se van a modificar, mientras que el resto sí lo hace. Nos sirven para caracterizar a qué especie pertenece y el parentesco con otras especies vivas o que se han extinguido, además de para conocer las adaptaciones de vida o la dieta. También pueden hablar de enfermedades o del estrés que haya podido sufrir una población.\n¿En qué sentido conocer las diferentes mutaciones y la historia reflejada en el ADN extraído de fósiles puede ayudarnos a tratar o al menos entender las enfermedades que padecemos hoy?\nLo más importante cuando estamos estudiando enfermedades es que cuando uno está enfermo significa que está vivo. Una paradoja del estudio de las enfermedades es que muchas veces tenemos la idea de que una enfermedad es un fracaso, una claudicación. Pero lo que vemos cuando vemos signos de enfermedades son los intentos del cuerpo por responder ante una amenaza. Si identificamos cuáles son los cambios que se producen a lo largo de la evolución del ser humano, podemos tener una idea de a qué estamos más o menos preparados. Ahora, si analizamos las principales causas de muerte o enfermedad de nuestra especie, vemos accidentes cerebrovasculares o cuadros relacionados con obesidad. Eso nos dice que hay un desajuste entre nuestro estilo de vida y nuestra biología o fisiología, que en origen estaba optimizada para la adaptación en un contexto completamente diferente. Es interesante e incluso esperanzador pensar que en su mayoría nos morimos de cosas que podrían prevenirse.\nLa directora del CENIEH, María Martinón-Torres, en un yacimiento arqueológico Cedida ¿Y respecto a la Covid-19? ¿Qué nos puede decir la evolución sobre la pandemia?\nCiertos cambios de vida pueden hacernos vulnerables como grupo a determinadas circunstancias, como con la pandemia. Si analizamos el registro fósil, es muy difícil encontrar ciertas enfermedades, como las infecciosas, que puedan desarrollar un carácter endémico. Porque esta vulnerabilidad que tenemos es una consecuencia directa de la eclosión de las civilizaciones.\nSomos una especie que se caracteriza por estar hecha de seres dependientes desde muy pronto hasta muy tarde, y lo que nos da, sobre todo, es fortaleza\nEs importante aplicar una visión evolutiva a la prevención o la anticipación o la modelización en el progreso de los virus y las bacterias. Porque la evolución no solo afecta a los humanos; cuando tenemos una enfermedad es como una carrera armamentística entre el humano y el patógeno. Las grandes amenazas de nuestra especie van a seguir siendo, a pesar del conocimiento, aquellas relacionadas con las enfermedades infecciosas. Cuando analizamos la evolución, uno de los principales cambios que vemos siempre es en el sistema inmunológico. De nuestra hibridación con neandertales nos hemos quedado sobre todo aquellos genes que nos proporcionaban defensa a la exposición de nuevos patógenos en nuevos territorios.\nEncontrar un signo de enfermedad en un fósil también puede indicar que ese individuo ha sido protegido de alguna manera. ¿Qué opina sobre esto?\nHay que recordarse que lo que como especie nos caracteriza es el carácter prosocial, nuestra preocupación y nuestra inversión diaria de esfuerzo hacia el otro. En nuestro sistema social, la manera en la que funcionamos siempre es descansando en el otro. Lo vemos en el día a día, cuando dejamos a los niños en el colegio, cuando subes a un avión o entras a un quirófano. Es fe, en muchos casos ciega, en que el otro, como tú, te va a respetar y tolerar. Eso es lo que nos caracteriza, tanto en el día a día como en la organización de la sociedad, creando instituciones para el cuidado. No hay especie que invierta más esfuerzos de tiempo, económicos y emocionales en el cuidado que la nuestra. Eso es lo que también nos permite ser una especie de individuos imperfectos, en la idea de que es aceptable –y además, a veces enriquecedor– que cada uno de nosotros seamos diferentes. Podemos permitirnos ser más vulnerables o menos fuertes en sentido físico, ya que el cuidado de los demás va a compensar esa debilidad.\nDe nuestra hibridación con neandertales, nos hemos quedado sobre todo aquellos genes que nos proporcionaban defensa a la exposición de nuevos patógenos en nuevos territorios\nPero a veces esa preocupación por el otro puede tener efectos secundarios.\nSí, el pasatiempo favorito del ser humano es la vida ajena y eso nos puede llevar al cotilleo o la crítica (risas), pero en realidad es una consecuencia de la empatía; nos encanta comprender las vidas ajenas, ponernos en el lugar del otro. Tenemos que pensar que en el fondo es consecuencia de algo bueno, nos interesan los demás y comprenderles. Incluso esa parte menos atractiva es consecuencia de nuestra preocupación por el otro.\nUn ejemplo de la importancia del cuidado para el ser humano es el de la niña Benjamina , conocida de manera cariñosa como “la más querida”. ¿Puede explicar este caso?\nProbablemente se haya convertido en uno de los más idiosincrásicos. Es un fósil preneandertal de una niña que falleció a los 9 o 10 años y que se ha encontrado en la Sima de los Huesos de Atapuerca . Tenía lo que se conoce como plagiocefalia, una deformación craneal por un cierre prematuro de una de las suturas craneales, lo que provoca una deformación física obvia, pero también se puede inferir que probablemente esa niña tuvo un retraso psicomotor considerable. Esto nos lleva a pensar que si sobrevivió hasta esa edad es porque fue tolerada y ayudada. De nuevo, la enfermedad no habla de debilidad, sino de fortaleza individual y de grupo; si no hubiera habido supervivencia y cuidado esa historia no se podría haber contado. Son los renglones torcidos de una especie resiliente. Es a la luz de la enfermedad, las amenazas y las batallas, como somos capaces de construir la historia de nuestra prosocialidad.\nOtro ejemplo es el de un enterramiento de niños con síndrome de Down hace 5.000 años\nEs otro ejemplo de que el cuidado y la tolerancia a la diversidad está profundamente enraizado con el desarrollo del ser humano. En este caso serían niños muy pequeños, recién nacidos, que recibieron un tratamiento especial y funerario. Habría que ver hasta qué punto serían conscientes de ese cuadro, pero es curiosa la coincidencia. Estos casos hablan de que somos un grupo que en principio no deja atrás a los suyos porque estén físicamente más o menos adaptados o sean más o menos autónomos. Somos una especie que se caracteriza por estar hecha de seres dependientes desde muy pronto hasta muy tarde, y lo que nos da, sobre todo, es fortaleza. No es algo negativo. Esa necesidad del cuidado que hemos tenido como especie para salir adelante es el motor de lo que somos a día de hoy. Es esa necesidad por la que vivimos muchos más años que cualquier otra especie de primate. Hemos nacido para cuidar en todas las edades, incluso a aquellos que ni siquiera tienen con nosotros un parentesco familiar.\nMaría Martinón-Torres CENIEH Precisamente sobre ese cuidado como clave para nuestra evolución trata la conocida como 'hipótesis de la abuela'. Pero, como nosotros, hay algunos chimpancés que también tienen la menopausia y son abuelas. ¿Qué nos hace diferentes?\nLa menopausia es un periodo fisiológicamente muy particular. Que, como tal, solo se ha identificado en muy poquitas especies . Significa que tu capacidad reproductiva se frena o cede considerablemente antes de lo que te queda por vivir. Aunque en chimpancés se ha visto que a algunos todavía les quedan unos años de vida, no es equivalente a los humanos, en los que hablamos de hasta 40 años más de vida activa, con vigor físico y capacidad intelectual. Además, esa longevidad aumentada después del periodo reproductivo afecta a mujeres y hombres, a diferencia de otras especies.\nA nivel reproductivo, tiene más probabilidad de salir adelante una cría de una madre joven que de una anciana. Por tanto, tiene más éxito que una abuela invierta esfuerzo en sacar adelante a la hija de su hija que a la suya propia. Pero en el caso de los humanos, esto afecta también a los abuelos, que también tienen esa longevidad aumentada.\nEs a la luz de la enfermedad, las amenazas y las batallas, como somos capaces de construir la historia de la prosocialidad de nuestra especie\n¿Por qué los hombres también tienen esa longevidad?\nEl éxito de una especie es el éxito reproductivo. Esto puede hacer que pensemos que la clave está en tener muchos hijos, pero no, el éxito es tener hijos que salgan adelante. Y ahí encaja el mal entendimiento de lo que es la masculinidad, con la falsa creencia de que los hombres tienen muchos hijos. No, el exitoso era el que tenía una descendencia y conseguía que sus hijos salieran adelante. Si tienen una implicación en la crianza de los hijos, es el más exitoso del grupo, el que va allí y se desentiende, y no hay inversión de esfuerzo, evolutivamente tiene poco de qué presumir. Para nuestra especie, que basa su supervivencia en el conocimiento y en la anticipación de los problemas, tener la posibilidad de coexistir con gente de una tercera edad o más, con nuestros abuelos y bisabuelos, es un lujo.\nTeniendo en cuenta que evolutivamente tanto hombres como mujeres son valiosos para el grupo aunque no estén en su período reproductivo, ¿qué sentido tiene vivir separados por edades? ¿Deberíamos valorar más a nuestros mayores?\nHubo un tiempo en que la estructura de la sociedad estaba formada por porciones de población de diferentes edades, y eso favorecía el desarrollo en la adolescencia, especialmente. Ahora tenemos una educación segregada, y aunque es complicado por los ritmos actuales, si pudiéramos volver a crecer de manera que tuviéramos menos diferencias por edades, todos mejoraríamos.\nEl éxito de la especie no es tener muchos hijos, es que salgan adelante. El hombre exitoso evolutivamente no es el que tenía muchos hijos, sino el que conseguía que salieran adelante implicándose en la crianza\nSe podría ejercitar la corresponsabilidad durante la adolescencia, que es un examen en el que desarrollas competencias que te harán falta cuando seas mayor. Se ha visto que son mucho menos violentos aquellos jóvenes que en un grupo tenían a su cargo a un menor que aquellos en los que no.\nMaría Martinón-Torres CENIEH Hemos hablado de que somos una especie que no deja a nadie atrás. ¿Y qué ocurre cuando nuestros seres queridos se van? ¿En parte somos quienes somos por nuestra relación con la muerte?\nSí, como causa y como consecuencia. Entendemos la muerte, sabemos lo que es desde muy pronto. Por lo tanto, somos una especie que vive bajo la sombra del ciprés sabiendo que se va a morir y por lo que dedica más recursos a retrasar ese momento, no solo en temas de cuidado, también espiritual. La manera de combatir esa angustia vital es hacer cosas que puedan permanecer o que nos puedan sobrevivir, a través de obras de arte, por ejemplo. Otros lo podemos intentar hacer en menor escala, haciéndonos un hueco en un recuerdo de la memoria de las personas que están a nuestro lado. Eso condiciona la manera en la que vivimos.\nPara nuestra especie, que basa su supervivencia en el conocimiento y en la anticipación de los problemas, tener la posibilidad de coexistir con nuestros abuelos y bisabuelos, es un lujo\nSaber que el mundo seguirá cuando nosotros no estemos y dedicarle tiempo a ese mundo es algo singular del ser humano. Somos una especie que no deja a los muertos atrás. Todos arrastramos muertos con nosotros y los mantenemos vivos, a través de los recuerdos, la morriña, los funerales, los aniversarios. Las personas que se mueren no dejan de ser alguien, incluso hay más respeto a veces por los muertos que por los vivos. La vida de los vivos va un poco marcada por la historia de nuestros muertos.\nCulturalmente y por la idea errónea que tenemos de ciertas especies como los neandertales, se puede pensar que el dolor de una pérdida era diferente entonces al que tiene Homo sapiens hoy en día. ¿Esto es así?\nEn absoluto es así. Una cosa es que tengamos un registro más detallado ahora de lo que nos sucede y la dificultad que tenemos de recabar esa información en el pasado. Ya hay especies como neandertales, y eso es hace casi 200.000 años, en los que tenemos enterramientos, lo que significa que ya hay gente que empieza a hacer cosas por los muertos que superan una necesidad práctica, higiénica o de salud. Cuando se hace algo que va más allá de lo práctico, hay un sentimiento de trascendencia. Si eso somos capaces de verlo a través de ajuares, por ejemplo, y se mantiene en el tiempo, la de cosas que habrá que no veamos.\nSi hay un sitio que nos ha dado licencia para soñar, ese es Atapuerca\nEl miedo a la pérdida y el dolor nos condiciona desde hace muchísimo tiempo, y no pensaría jamás, no se me ocurriría encontrar un argumento, para decir que el dolor que se sintió por la pérdida de un ser querido hace 100.000 años era menor que el que se tiene ahora. Y a través de los ritos y los símbolos se crean espacios con los que podemos volver a las personas.\nLa Sima de los Huesos de Atapuerca (Burgos) es un yacimiento de unos 430.000 años. Es internacionalmente reconocida, ¿qué la hace tan especial?\nEs una acumulación de cerca de una treintena de individuos preneandertales. La hipótesis más plausible, aunque se sigue testando, es que es una acumulación intencional de carácter mortuorio, quizá incluso funerario. Esos cuerpos habrían sido arrojados de manera intencional por parte de otros humanos, incluso se ha encontrado asociada una única herramienta de piedra que se ha llamado excalibur que podría ser una ofrenda. Además, en uno de los yacimientos se encontraron los restos de lo que se llamó como especie nueva: Homo antecessor . En este caso, es una acumulación derivada de canibalismo, con una decena de individuos que han sido consumidos. Tenemos todos los extremos del comportamiento humano. Atapuerca ha cubierto la historia de la evolución humana.\n¿Cree que a Atapuerca todavía le queda por explotar? ¿Qué hallazgos prevé en un futuro?\nSin duda, queda todavía mucho por contar en Atapuerca, creo que hay para generaciones y generaciones. Esto no es un brindis al sol, es porque ese trabajo continuado ya anticipa y explora otros terrenos, entendemos el patrón y podemos hacer predicciones de si habría humanos o no en otros periodos que aún no hemos explorado. Ya tenemos ideas de dónde puede haber otros depósitos, hay indicios claros de que todavía hay más lugares en los que puede seguir apareciendo información. Siempre hay un pie por delante de lo que la siguiente generación va a hacer. Me gustaría encontrar el Homo sapiens más antiguo. Yo creo que es posible, por qué no, si hay un sitio que nos ha dado licencia para soñar, ese es Atapuerca, donde han aparecido cosas que no me hubiera atrevido ni a imaginar.\nSiguiendo este positivismo esperanzador, una de las amenazas a las que el ser humano ya se enfrenta y sobre todo se enfrentará, es el cambio climático y sus consecuencias. ¿Nos adaptaremos como especie?\nSí. Yo digo que desde el punto de vista evolutivo, el pesimismo es un fracaso. La capacidad de ver lo que hay y lo que sucede, el miedo, la preocupación medida, es el punto fuerte, el no ver salida o solución, eso sí es un fracaso evolutivo porque además nos ciega y no nos deja ver. Igual que vemos los efectos negativos, también deberíamos ser capaces de ver las tendencias positivas a largo plazo. Queremos que la gente se motive y se conciencie, por eso tenemos que empezar a dejar los mensajes catastrofistas. Una cosa es avisar y otra es aplanar a la humanidad. Los adolescentes y las nuevas generaciones ya tienen otra conciencia social. Un aspecto positivo es pensar en el mérito que tiene que una especie dedique esfuerzos en intentar corregir problemas que ella no verá. Hay que darle un voto de confianza a Homo Sapiens.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:09:25.764+03:00",
+    "updated": "2024-04-20T06:29:36.777+03:00"
+  },
+  {
+    "uuid": "ecfa55bac42e4ae2e7016ac5d8ea3578637e090e",
+    "url": "https://www.medicine.wisc.edu/news/1262024-fellowship-match-day-2024-continues-tradition-excellence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Mallum; MFA",
+    "published": "2024-12-05T04:00:00Z",
+    "title": "Fellowship Match Day 2024 continues tradition of excellence | Department of Medicine, University of Wisconsin–Madison",
+    "text": "Fellowship Match Day 2024 continues tradition of excellence\nContinuing a tradition of excellence, this year’s Fellowship Match Day on December 4, 2024, proved a success for many of the Department of Medicine residents seeking subspecialty fellowships, as well as the department’s own fellowship programs.\n“We are all so very proud of our residents and future fellows,” says residency program director [Andy Coyle, MD,](https://www.medicine.wisc.edu/directory/coyle_andrew) associate professor, General Internal Medicine. \"This year's terrific fellowship match day is a well-deserved recognition of their hard work and commitment to both clinical and professional growth. We're also grateful to the many outstanding mentors in the department who have supported, challenged, and guided them throughout their residency experience.\"\nHere are all department residents who matched, listed with their subspecialties and fellowship institutions:\n- Anas Abed, MD; Cardiology; UW–Madison\n- Mazen Almasry, MBBS, chief resident; Gastroenterology; Cleveland Clinic\n- Paloma Cabral, MD; Hematology/Oncology; UW–Madison\n- Erik Ehlers, MD; Pulmonary/Critical Care; UW–Madison\n- Lucas Fass, MD, chief resident; Gastroenterology; UW–Madison\n- Nick Gallo, MD; Pulmonary/Critical Care; University of Illinois–Chicago\n- Mariana Garcia Arango, MD; Cardiology; UW–Madison\n- Allison Giuffre, MD; Infectious Disease; University of Chicago\n- Collin Goebel, MD; Cardiology; University of Minnesota\n- Alex Hoffman, MD; Cardiology; UW–Madison\n- Justine Hung, MD; Hematology/Oncology; UW–Madison\n- Mounica Konjeti, MD; Gastroenterology; University of Vermont\n- Brandon Leding, MD; Pulmonary/Critical Care; University of Alabama–Birmingham\n- Janki Mistry, MD; Geriatric Medicine; Icahn School of Medicine at Mount Sinai — The Mount Sinai Hospital\n- Joshua Morny, MD; Gastroenterology; Ohio State University\n- Sean Mortenson, MD; Pulmonary/Critical Care; UW–Madison\n- Raul Ocampo Landa, MD; Pulmonary/Critical Care; UW–Madison\n- Geralyn Palmer, MD, chief resident; Pulmonary / Critical Care; Vanderbilt University\n- Matthew Rabska, MD; Endocrinology; UW–Madison\n- Oscar Ramirez Ramirez, MD; Gastroenterology; UW–Madison\n- Palwinder Sodhi, MD; Cardiology; University of Indiana\n- Dalia Sriwi, MBBS; Rheumatology; University of Utah\n- Divya Vundamati, MD; Rheumatology; University of California–Los Angeles\n- Maggie Walker, MD; Hematology / Oncology; UW–Madison\n- Emma Williams, MD; Hematology / Oncology; UW–Madison\n- Jeremy Williams, MD; Cardiology; UW–Madison\n- Giovanna Zampierollo-Jaramillo, MD, MS; Cardiology; Corewell Health / Michigan State University\nDepartment welcomes 42 new fellows\nThe Department of Medicine also looks forward to welcoming 42 new trainees into its fellowship programs: 14 internal medicine residency alumni (including one current chief resident) and 28 trainees from other institutions.\n“I’m so proud of our fellowship leaders,” says fellowship programs coordinator, [Kara Westmas, MS](https://www.medicine.wisc.edu/directory/westmas_kara). “Without their hard work, we wouldn’t have such an amazing match. It is such an honor and a privilege to be part of it!”\nAbout the Match\nOrganized by the National Resident Matching Program® (NRMP®), the Medical Specialties Matching Program (MSMP) encompasses 14 internal medicine subspecialties and four sub-subspecialties.\nApplicants digitally submit their profiles and rank their preferences of available positions. After reviewing applications, program directors also submit their rank order of candidates, and then the NRMP algorithm “matches” applicants to fellowship programs.\nBanner: Matched residents show their pride at a celebratory luncheon. Credit: Clint Thayer/Department of Medicine.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T03:10:36.794+02:00",
+    "updated": "2024-12-06T03:10:36.794+02:00"
+  },
+  {
+    "uuid": "59e28fd9a8d71c91c5f30c5e77bf4423344705bf",
+    "url": "https://expose-news.com/2024/07/05/the-internet-of-living-things-is-close",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rhoda Wilson",
+    "published": "2024-07-05T07:30:00Z",
+    "title": "Oxford Nanopore: The Internet of Living Things is closer than you think",
+    "text": "During the covid era, Oxford Nanopore’s portable genomic sequencers were already used in 82 countries around the world. These devices are one of the methods that will be used to collect data for the Internet of Living Things.\nLet’s not lose touch…Your Government and Big Tech are actively trying to censor the information reported by The Exposé to serve their own needs. Subscribe now to make sure you receive the latest uncensored news in your inbox…\nSubscribe\nThe Internet of Living Things (“IoLT”) is a concept that connects living organisms, such as humans, animals and plants, to the Internet, enabling the exchange of data and information. This concept is an extension of the Internet of Things (“IoT”), which focuses on connecting devices and objects.\nIn short, the IoLT enables real-time monitoring of biological functions, such as vital signs, genetic data and environmental factors. The collected data is analysed to provide insights into the biological state of the organism, enabling early detection of diseases and personalised healthcare. The data is transmitted to the cloud, where it can be accessed and analysed by healthcare professionals, researchers and other people. The biological state of an organism becomes an extension of the internet, enabling the creation of new intelligence about natural systems.\nExamples of how the IoLT will collect data are:\nWearable sensors, such as fitness trackers, which can monitor vital signs and transmit data to the cloud for analysis. Smart contact lenses, contact lenses with embedded sensors that can monitor glucose levels and transmit data to the cloud for diabetes management. Portable genomic sequencers, portable devices that can sequence DNA and transmit data to the cloud for genetic analysis. Internet-enabled biocyber interfaces, biocyber interfaces which can connect living insects to the internet, enabling control of their behaviour and communication with the environment. The topic of this article is portable genomic sequencers; in particular Oxford Nanopore Technology devices.\nIn 2015, 9 years ago, when Clive Brown, Chief Technology Officer of Oxford Nanopore Technology was asked what the likelihood was of portable DNA sequencers becoming reality , he answered: “It is already a reality. The technology is now in the optimisation phase and will only get better. If you are asking how long before it reaches a clinic – then I think that is a different question, but it will be in many other non-clinical environments first.”\nThe DNA sequencer he was referring to was Oxford Nanopore’s MinION. Any living thing, or system of living things, can be connected to the internet via the MinION or by any similar real-time DNA sensing devices, Brown said.\n“Healthcare is just one application [ ]; equally, water sources, food supplies, hospital air and many other systems can be frequently sampled and sequenced – also allowing their state to be trended, tracked and predicted,” Brown said.\nA few years later, in 2019, an article published by International Defence, Security and Technology (“IDST”) described MinION as small as a USB stick and easy to use. “Oxford Nanopore has designed an intelligent cloud lab, Metrichor, to be used for genomics data storage in conjunction with smartphone apps that interpret the meaning of DNA sequences. Researchers around the world now use pocket-size genomic sequencers to rapidly detect resistant pathogenic strains in hospitals, and diagnose infectious agents in food supply and aboard spaceships ,” IDST wrote.\nIn early 2020 , Oxford Nanopore’s technology was put to use in the surveillance of the coronavirus outbreak .\nThe following year, the Financial Times published an article which said that the covid “pandemic” had put Oxford Nanopore “on the map.”\nIn September 2021, in the midst of the covid-19 pandemic, the company floated on the London Stock Exchange, achieving a market capitalisation of £3.5bn, which made it the third-largest biotechnology listing globally this year.\nNanopore sequencing had turned genomic sequencing into a real-time, decentralised community effort that could save lives. So, when the covid-19 outbreak was declared a pandemic last year, the Oxford-based company’s patented technology proved indispensable. The devices were essential in identifying and tracking the spread of covid variants in 85 countries, and have sequenced about 18 per cent of all coronavirus genomes globally.\nThe company’s core customers are universities and laboratories conducting scientific research, but it hopes the covid-19 bump it experienced will help the industry move towards applied genomics, or a “global Internet of Living Things” – real-time networks of biological sensors that can be used in hospitals, pharmaceuticals, food and water safety and agriculture – which it says could be valued in the tens of billions of pounds.\nPandemic puts Oxford Nanopore ‘on the map’ , Financial Times, 8 November 2021 The IoLT, also referred to as the Internet of Bodies, is a set of networks that includes wearable sensors like Fitbits, intelligent implants inside and outside our bodies, brain-computer interfaces and portable DNA sequencers that are connected to the internet and send information to the cloud, IDST wrote in its 2019 article. The article continued:\nAll Apple Watches can monitor heart rhythm, and the new Apple Watch Series 4 could also take an electrocardiogram – just like you would get at the hospital – to provide your doctor with detailed heart health information.\nIn the future, the computers will become so tiny they can be embedded under the skin, implanted inside the body, or integrated into a contact lens and stuck on top of your eyeball. The gadgets like smartphones, smartwatches, augmented glasses, virtual reality headgear and the myriad of other devices shall merge humans and the internet. These wi-fi enabled machines shall make it feasible that anything you can do with your phone now you could do with your gaze or gestures in a few decades.\n The embedded microchips shall monitor every body function keeping tabs on our personal health, prevent or treat disease, and maybe even live longer. Smart contact lenses are being developed to monitor glucose levels and could eliminate the daily blood sugar pinprick for people with diabetes.\nInternet of Living Things (IoLT), or “Internet of Bodies,” shall save lives and improve health while create new cybersecurity, and privacy concerns , International Defence, Security and Technology, 10 April 2019 IDST goes on to describe some of the privacy, safety and cyber security concerns relating to the melding of man with machine. You can read their full article HERE .\nAbout Oxford Nanopore Technology Oxford Nanopore Technologies is a UK-based company that develops and sells nanopore sequencing products for the direct, electronic analysis of single molecules. The company was founded in 2005 as a spin-out from the University of Oxford by Hagan Bayley, Gordon Sanghera, and Spike Willcocks, with seed funding from the IP Group.\nThe company’s technology uses nanopores to sequence DNA and RNA molecules in real-time, allowing for fast and portable sequencing. Its MinION and PromethION devices are portable and can be used in a variety of settings, including fieldwork and clinical settings, for genomics, synthetic biology, transcriptomics, and forensic and clinical diagnostic applications.\nGenomics is the sequencing of entire genomes. Transcriptomics is the sequencing of RNA molecules, enabling researchers to study gene expression and regulation. Synthetic biology is the designing and engineering of new biological systems, such as synthetic genomes. You can see a list of applications for Oxford’s Nanopore HERE .\nOxford Nanopore’s website boasts that its technology “enables analysis of anything, anywhere.” By “anything,” they are referring to almost the entire natural world.\n“The platform is used by scientific researchers to solve real-world challenges through answering questions about the biology of people, plants, animals, pathogens and environments. It is also increasingly being used in ‘applied’ settings such as healthcare and food safety,” Oxford Nanopore states .\nHow Does Oxford Nanopore Technology Work? Nanopore sequencing uses a unique method to read DNA or RNA sequences in real-time, without the need for amplification or preparation.\n“[Oxford Nanopore] is the only sequencing technology that offers real-time analysis (for rapid insights), in fully scalable formats from pocket to population scale, that can analyse native DNA or RNA and sequence any length of fragment to achieve short to ultra-long read lengths,” the Oxford Nanopore website states .\nThe process begins with a DNA or RNA molecule being inserted into a nanopore, a tiny hole in a membrane. The nanopore is attached to an electrically conductive molecule, which is sensitive to the changes in the electrical current as the DNA or RNA molecule passes through the pore.\nAs the DNA or RNA molecule passes through the nanopore, it causes changes in the electrical current, which are detected by the sensor. The changes in the current are unique to each nucleotide (A, C, G, or T) and are used to determine the sequence of the DNA or RNA molecule.\n“You can think of the current as water flowing through a pipe. When an object enters the pipe, the flow of water is disrupted, just as DNA disrupts the current as it passes through the nanopore,” Oxford Nanopore says.\nOxford Nanopore Technologies: How nanopore sequencing works, 29 May 2019 (2 mins) How do you feel about the Internet of Living Things? Would you like to be hooked up to it?\nThe Expose Urgently Needs Your Help…\nCan you please help power The Expose’s honest, reliable, powerful journalism for the years to come…\nYour Government & Big Tech organisations\nsuch as Google, Facebook, Twitter & PayPal\nare trying to silence & shut down The Expose.\nSo we need your help to ensure\nwe can continue to bring you the\nfacts the mainstream refuse to…\nWe’re not funded by the Government\nto publish lies & propaganda on their\nbehalf like the mainstream media.\nInstead, we rely solely on our support. So\nplease support us in our efforts to bring you\nhonest, reliable, investigative journalism\ntoday. It’s secure, quick and easy…\nJust choose your preferred method\nto show your support below support\n“Killer nurse” case: Is Lucy Letby guilty or has the evidence been skewed? How Gordon Brown’s Target Culture Destroyed Britain New study may have identified an “off switch” for spike proteins produced in the body caused by mRNA injections Here are the alarming signals that World War III is fast approaching",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://nanoporetech.com/applications/.",
+      "https://nanoporetech.com/platform/technology",
+      "https://pharmatimes.com/news/the_internet_of_living_things_is_just_around_the_corner_971299/",
+      "https://www.mpls.ox.ac.uk/research/impact-case-studies/oxford-nanopore-technologies",
+      "https://encycloreader.org/r/wikipedia.php?q=Oxford_Nanopore_Technologies",
+      "https://nanoporetech.com/about/history",
+      "https://idstch.com/technology/ict/internet-living-things-iolt-internet-bodies-shall-save-lives-improve-health-create-new-cybersecurity-privacy-concerns/",
+      "https://nanoporetech.com/covid-19/overview",
+      "https://nanoporetech.com/about",
+      "https://nanoporetech.com/",
+      "https://www.nanoporetech.com/platform/technology",
+      "https://www.pharmatimes.com/news/the_internet_of_living_things_is_just_around_the_corner_971299/",
+      "https://www.encycloreader.org/r/wikipedia.php?q=Oxford_Nanopore_Technologies",
+      "https://nanoporetech.com",
+      "https://www.nanoporetech.com/applications/.",
+      "https://encycloreader.org/r/wikipedia.php",
+      "https://www.nanoporetech.com/",
+      "https://www.nanoporetech.com/about/history",
+      "https://www.idstch.com/technology/ict/internet-living-things-iolt-internet-bodies-shall-save-lives-improve-health-create-new-cybersecurity-privacy-concerns/",
+      "https://mpls.ox.ac.uk/research/impact-case-studies/oxford-nanopore-technologies",
+      "https://www.nanoporetech.com/covid-19/overview",
+      "https://idstch.com/technology/ict/internet-living-things-iolt-internet-bodies-shall-save-lives-improve-health-create-new-cybersecurity-privacy-concerns",
+      "https://www.nanoporetech.com/about",
+      "https://pharmatimes.com/news/the_internet_of_living_things_is_just_around_the_corner_971299"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "oxford nanopore",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "big tech",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-05T15:19:24.537+03:00",
+    "updated": "2024-07-05T16:56:09.280+03:00"
+  },
+  {
+    "uuid": "82ddeabf16eb169eca004c0d65e69736025577b1",
+    "url": "https://www.eltribuno.com/policiales/2025-7-17-0-0-0-hacia-willy-y-mato-a-un-padre-de-familia",
+    "ord_in_thread": 0,
+    "author": "El Tribuno",
+    "published": "2025-07-17T04:23:00Z",
+    "title": "Hacía \"willy\" y mató a un padre de familia",
+    "text": "inicia sesión o regístrate.\nUn hombre de 49 años, que era padre de cuatro hijos y trabajaba en la construcción, el pasado 5 de julio salió de su casa, en la ciudad costera de Mar del Plata, para probar una moto que le habían dado en parte de pago, fue embestido por otro motociclista que hacía \"willy\" y, luego de estar tres días internado, murió en el hospital, por lo que la familia reclama justicia, busca testigos del siniestro y que el conductor sea detenido.\nSegún informó 0223, el choque ocurrió en avenida Colón entre Paraguay y Bayley, allí el hombre circulaba a baja velocidad cuando fue golpeado desde atrás por otra moto que circulaba a gran velocidad haciendo una pirueta peligrosa.\nA raíz del impacto, ambos rodados cayeron al asfalto y el conductor responsable se dio a la fuga, mientras que su acompañante —una mujer— fue retenida por dos empleadas de una panadería tras intentar escapar. Según la familia, la joven dejó un número de celular que resultó ser falso.\nEl martes 8 de julio, pocas horas antes del fallecimiento de Gabriel, los familiares recibieron una foto que les permitió identificar a la joven acompañante y, a partir de eso, supieron quién era el conductor.\nEl imputado permanece en libertad\nEl acusado, cuyo nombre no fue difundido oficialmente, está imputado en una causa penal pero permanece en libertad. La familia pide que se revise esa decisión y que se ordene su detención por el homicidio.\nPor el momento, el caso está siendo investigado por la fiscalía de Delitos Culposos. Mientras tanto, los Ponce apelan a la solidaridad de la comunidad para que cualquier persona que haya visto el choque o tenga información se acerque a declarar.\nEn febrero pasado ocurrió lo mismo pero con Walter Binaghi, quien fue embestido por Héctor Fabián Seijas cuando el primero circulaba por la intersección de calles Reconquista y Juan B. Justo. La víctima había salido de trabajar.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Gabriel",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bayley",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ar",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:07:47.890+03:00",
+    "updated": "2025-07-18T06:04:52.000+00:00"
+  },
+  {
+    "uuid": "1ba51d3d329f8f31f46898f10d977c121fbc6b9c",
+    "url": "https://www.ainvest.com/news/d2l-leading-ai-transformation-higher-education-policy-driven-innovation-2506",
+    "ord_in_thread": 0,
+    "author": "Charles Hayes",
+    "published": "2025-06-12T07:47:00Z",
+    "title": "D2L: Leading the AI Transformation in Higher Education Through Policy-Driven Innovation",
+    "text": "D2L: Leading the AI Transformation in Higher Education Through Policy-Driven Innovation\nThe higher education sector is undergoing a quiet revolution powered by generative AI, with institutions racing to balance innovation with ethical governance. Among the key players, D2L stands out as a strategic leader, leveraging its AI tool Lumi to address two critical challenges: the 28% adoption rate of formal generative AI policies and the 36% workload reduction AI delivers for educators. By aligning its technology with institutional needs, D2L is positioning itself to capitalize on a $1.85 trillion AI market poised for exponential growth.\nThe Policy Gap: A Catalyst for D2L's Strategic Advantage\nDespite rapid student and faculty adoption of AI tools, only 28% of higher education institutions had established formal generative AI policies as of early 2025, according to the EDUCAUSE AI Landscape Study. This gap creates a paradox: while students perceive policies as present (80% reported this in HEPI surveys), institutions struggle to coordinate fragmented efforts across departments like IT, teaching centers, and libraries. D2L's Lumi tool emerges as a solution, offering a compliance-aligned platform that simplifies policy implementation. By embedding AI governance into its learning platform, Lumi allows institutions to address ethical concerns—such as academic integrity and bias mitigation—without stifling innovation.\nThe 36% workload reduction reported by daily AI users (per a Tyton Partners/D2L study) underscores the operational efficiency gains D2L enables. Instructors using Lumi for tasks like course material generation, personalized feedback, and assessment management can reallocate time to high-impact activities like student engagement. This aligns with D2L's vision of “AI as a collaborator, not a disruptor”, where technology supports—not replaces—educators.\nThe Investment Case: D2L's Long-Term Edge\nD2L's dominance in AI-driven education hinges on three interlinked advantages:\nPolicy-First Design: Lumi's integration with institutional policies reduces the burden of fragmented governance. Unlike generic AI tools, Lumi is built to comply with evolving standards, making it attractive to institutions hesitant to adopt unregulated solutions.\nScalable Efficiency: The 36% workload reduction for educators translates to cost savings and improved retention rates. As universities face enrollment declines and budget pressures, tools that enhance productivity without sacrificing quality are critical.\nMarket Leadership in Higher Ed: With 1,300 institutions globally using its platforms, D2L already holds a robust customer base. Its early adoption of generative AI positions it to capture a disproportionate share of the growing market for educational technology.\nRisks and Considerations\nThe sector's challenges—digital divides, faculty resistance, and uneven policy adoption—remain significant. However, D2L's partnerships with institutions like the University of Michigan and Arizona State University demonstrate its ability to pilot scalable solutions. Additionally, its focus on equity-focused AI literacy programs (cited in HEPI surveys as a key student need) mitigates risks tied to accessibility gaps.\nConclusion: A Buy Signal for the AI-Driven Future of Education\nD2L's strategic focus on policy-aligned AI tools places it at the forefront of a sector in transition. With a 28% policy adoption rate creating a massive addressable market and 36% efficiency gains proving its value, the company is well-positioned to dominate as institutions prioritize compliance and innovation. Investors should view D2L as a long-term play on the AI transformation of education—a sector where D2L's early-mover advantage and institutional trust will pay dividends.\nIn a crowded edtech landscape, D2L's blend of compliance, efficiency, and scalability makes it a compelling investment for those betting on AI's role in reshaping higher education.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->college and university",
+      "Education->educational testing and examinations",
+      "Education->students",
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social problem",
+      "Social Issue->social services",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lumi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:55:17.313+03:00",
+    "updated": "2025-06-12T07:59:02.000+00:00"
+  }
+]

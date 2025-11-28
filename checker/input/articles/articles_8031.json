@@ -1,0 +1,226 @@
+[
+  {
+    "uuid": "3ded8e04cf2291fb463ee1ab3b1e67d6cc01da66",
+    "url": "https://techbullion.com/the-timeless-appeal-of-terracotta-brick-tiles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ethan Lee | Prime Star",
+    "published": "2024-10-04T05:27:00Z",
+    "title": "The Timeless Appeal of Terracotta Brick Tiles",
+    "text": "When it comes to enhancing the beauty of your space, few materials are as enduring and versatile as terracotta brick tiles. These tiles have been used for centuries in architecture, adding warmth, rustic charm, and a touch of elegance. Whether you’re designing a contemporary home or restoring a historical building, terracotta brick tiles from Bricks Street bring character and personality to any setting.\nWhat Are Terracotta Brick Tiles?\nTerracotta, derived from the Italian words “terra” (earth) and “cotta” (cooked), is a type of clay-based ceramic known for its rich, earthy tones. The color can range from warm oranges and reds to deep browns, offering a spectrum of options for different design preferences. Each tile is unique, with slight variations in hue and texture, adding to their natural appeal.\nTerracotta brick tiles are crafted from natural clay, which is shaped and baked at high temperatures. The result? A durable, hard-wearing material perfect for floors, walls, and even outdoor areas. The beauty of terracotta lies in its ability to age gracefully, developing a patina over time that enhances its character.\nThe Benefits of Terracotta Brick Tiles\nOne of the most significant advantages of terracotta brick tiles is their timeless aesthetic. Their warm, earthy tones create a welcoming atmosphere in any room, be it a cozy kitchen, a rustic patio, or a modern living room. They blend seamlessly with various design styles, from farmhouse to industrial to Mediterranean.\nBut it’s not just about looks. Terracotta brick tiles are incredibly durable and can withstand high foot traffic, making them ideal for both residential and commercial spaces. They are also low-maintenance—once sealed properly, they resist stains and moisture, ensuring longevity with minimal upkeep.\nAdditionally, terracotta tiles have natural insulating properties. This means they stay cool in the summer and warm in the winter, providing year-round comfort. Plus, because they are made from natural clay, they are an eco-friendly option, perfect for sustainable building projects.\nVersatility in Design\nTerracotta brick tiles are as versatile as they are beautiful. At Bricks Street, we offer a wide range of sizes, shapes, and finishes, allowing you to create the perfect look for your space. Whether you prefer the classic rectangular shape or something more unconventional like hexagons or herringbone patterns, terracotta offers endless design possibilities.\nYou can also play with different finishes. Want a polished, glossy surface for a sleek modern look? Or maybe a rougher, matte finish for a more rustic feel? The choice is yours. With terracotta brick tiles, you can mix and match to create a unique, custom design tailored to your style.\nWhere to Use Terracotta Brick Tiles\nTerracotta tiles are incredibly versatile in their application. In outdoor areas, they can be used for garden paths, patios, and even poolside surrounds, offering both beauty and durability. Indoors, they are perfect for kitchen backsplashes, bathroom floors, and feature walls. Their natural look\ncomplements wood, stone, and other natural materials, creating a cohesive, organic feel throughout your space.\nAt Bricks Street, we understand that every space has unique needs. That’s why we offer a variety of terracotta brick tile options to suit different environments. Whether you need tiles for an outdoor renovation project or for an indoor feature wall, we’ve got you covered.\nCaring for Your Terracotta Brick Tiles\nTo keep your terracotta brick tiles looking their best, it’s important to seal them properly after installation. This will protect the tiles from stains and moisture. Over time, you may need to reseal the tiles to maintain their finish, but with the right care, terracotta tiles can last a lifetime.\nRegular sweeping and mopping with a mild cleaner will help preserve the tiles’ natural beauty. Avoid using harsh chemicals, as these can damage the surface of the tiles. For outdoor installations, periodic cleaning is essential to remove dirt and prevent moss or algae growth.\nBricks Street offers the finest selection of terracotta brick tiles, ensuring quality and durability for every project. Whether you’re renovating your home or embarking on a new design venture, terracotta brick tiles provide a rich, timeless charm that’s hard to match.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://bricksstreet.in/",
+      "https://bricksstreet.in/terracotta-tiles/",
+      "https://bricksstreet.in/terracotta-tiles",
+      "https://www.bricksstreet.in/terracotta-tiles/",
+      "https://www.bricksstreet.in/",
+      "https://bricksstreet.in"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T08:37:00.175+03:00",
+    "updated": "2024-10-04T08:37:00.175+03:00"
+  },
+  {
+    "uuid": "382e7d128f7d3007ad6598d4350ea377bbdb6401",
+    "url": "https://borncity.com/win/2024/11/15/exchange-server-november-2024-security-updates-pulled",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "guenni",
+    "published": "2024-11-14T21:01:00Z",
+    "title": "Exchange Server: November 2024 security updates pulledBorn's Tech and Windows World",
+    "text": "[[German](https://www.borncity.com/blog/2024/11/15/exchange-server-november-2024-sicherheitsupdates-wegen-problemen-gestoppt/)]Disaster for administrators of Microsoft Exchange Server 2016 and 2019 systems who have installed the security updates from November 12, 2024. The transport rules no longer work after applying the November 2024 security update. Microsoft has now stopped the deployment of the November 2024 security updates as of November 14, 2024 to investigate the problems. Advertising The November 2024 Updates Microsoft had released security updates (SU) for Exchange Server 2016 and 2019 on November 12, 2024. These updates are intended to close vulnerabilities found by Microsoft or security partners in Exchange Server. In addition, some new features such as improvements to Exchange Server AMSI integration or warnings against spoofing emails will be introduced. I had reported in the blog post [Microsoft Exchange Server Updates November 12, 2024](https://borncity.com/win/2024/11/13/microsoft-exchange-server-updates-november-12-2024/). Transport rules no longer work There was [this German comment](https://www.borncity.com/blog/2024/11/13/microsoft-exchange-server-updates-12-november-2024/#comment-199073) in my German blog on November 14, 2024, which reported that the transport rules for marking emails no longer work after the installation of the security update KB5044062 from November 2024. The application of such rules for flagging emails is explained [here](https://schweigerstechblog.de/exchange-mails-von-extern-besonders-hervorheben/) using an example. In the comments section of the German blog post [Microsoft Exchange Server Updates 12. November 2024](https://www.borncity.com/blog/2024/11/13/microsoft-exchange-server-updates-12-november-2024/) many administrators confirm that the transport rules no longer work after installing the update. There was a tip to restart the MSExchangeTransport service. However, this only helps temporarily, the transport rules only work again for about 30 to 60 minutes. There is [this thread](https://old.reddit.com/r/exchangeserver/comments/1gqvlym/issues_with_rules_after_november_su/) on reddit.com that complains about the same problems with transport rules not working. Furthermore, [this comment](https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125/replies/4296881) on the Techcommunity post Released: November 2024 Exchange Server Security Updates also mentions broken transport rules. Advertising Microsoft temporarily suspends the updates In the afternoon (CET) of November 14, 2024, Microsoft announced in the tech community post [Released:](https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125) [November 2024 Exchange Server Security Updates](https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125) that the rollout of the November 2024 security updates had been stopped. The download of the SU packages has been temporarily removed from the Microsoft servers and the rollout has been stopped. Microsoft is investigating the problems described above and will release the SU packages again as soon as possible. Similar articles: [Microsoft Security Update Summary (November 12, 2024)](https://borncity.com/win/2024/11/13/microsoft-security-update-summary-november-12-2024/) [Patchday: Windows 10/Server Updates (November 12, 2024)](https://borncity.com/win/2024/11/13/patchday-windows-10-server-updates-november-12-2024/) [Patchday: Windows 11/Server 2022 Updates (November 12, 2024)](https://borncity.com/win/2024/11/13/patchday-windows-11-server-2022-updates-november-12-2024/) [Patchday: Windows Server 2012 / R2 and Windows 7 (November 12, 2024)](https://borncity.com/win/2024/11/13/patchday-windows-server-2012-r2-and-windows-7-november-12-2024/) [Patchday: Microsoft Office Updates (November 12, 2024)](https://borncity.com/win/2024/11/14/patchday-microsoft-office-updates-november-12-2024/) Advertising",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125)",
+      "https://old.reddit.com/r/exchangeserver/comments/1gqvlym/issues_with_rules_after_november_su/)",
+      "https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125/replies/4296881)",
+      "https://schweigerstechblog.de/exchange-mails-von-extern-besonders-hervorheben/)",
+      "https://www.old.reddit.com/r/exchangeserver/comments/1gqvlym/issues_with_rules_after_november_su/)",
+      "https://www.techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125)",
+      "https://www.techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125/replies/4296881)",
+      "https://www.schweigerstechblog.de/exchange-mails-von-extern-besonders-hervorheben/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T07:47:18.770+02:00",
+    "updated": "2024-11-15T07:47:18.770+02:00"
+  },
+  {
+    "uuid": "c8d61d55b3cabb69216f178f9bbfdb47d7b97141",
+    "url": "https://www.latestly.com/agency-news/latest-news-thick-fog-reduces-visibility-in-large-parts-of-punjab-haryana-5657804.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2023-12-29T02:48:00Z",
+    "title": "Latest News | Thick Fog Reduces Visibility in Large Parts of Punjab, Haryana | LatestLY",
+    "text": "Chandigarh, Dec 29 (PTI) A thick blanket of fog enveloped most parts of Punjab and Haryana on Friday morning, reducing visibility, meteorological department officials said. Fog also impacted visibility in Chandigarh, the common capital of the two states. Also Read | India&rsquo;s Remarkable Strides in 2023: A Year of Achievements Across Multiple Fronts. Minimum temperatures hovered close to normal limits at most places in Punjab and Haryana. In Punjab, Amritsar recorded a minimum temperature of 9.9 degrees Celsius, Ludhiana 9 degrees Celsius and Patiala 9.5 degrees Celsius. Also Read | Year Ender 2023: From Turkey-Syria Earthquake to Israel-Hamas War and Russia&rsquo;s Failed Moon Mission, Here Are Top Nine Global Events of The Year. Pathankot recorded a low of 8.8 degrees Celsius and Faridkot 8.6 degrees Celsius. In Haryana, the mercury settled at a low of 9.8 degrees Celsius in Ambala and at 8.2 degrees Celsius in Hisar. Karnal recorded a minimum temperature of 9.4 degrees Celsius, Rohtak 9.6 degrees Celsius and Sirsa 9.8 degrees Celsius. Chandigarh recorded a minimum temperature of 8 degrees Celsius. (This is an unedited and auto-generated story from Syndicated News feed, LatestLY Staff may not have modified or edited the content body)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "haryana",
+          "sentiment": "none"
+        },
+        {
+          "name": "chandigarh",
+          "sentiment": "none"
+        },
+        {
+          "name": "punjab",
+          "sentiment": "none"
+        },
+        {
+          "name": "amritsar",
+          "sentiment": "none"
+        },
+        {
+          "name": "rohtak",
+          "sentiment": "none"
+        },
+        {
+          "name": "sirsa",
+          "sentiment": "none"
+        },
+        {
+          "name": "failed moon mission",
+          "sentiment": "none"
+        },
+        {
+          "name": "syria",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "turkey",
+          "sentiment": "none"
+        },
+        {
+          "name": "pathankot",
+          "sentiment": "none"
+        },
+        {
+          "name": "ludhiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "ambala",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "patiala",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T07:23:26.062+02:00",
+    "updated": "2023-12-29T07:23:26.062+02:00"
+  },
+  {
+    "uuid": "452041bba785d446984dcca0c518f28a595c0080",
+    "url": "https://eldeber.com.bo/the-strongest/jeyson-chura-sufrimos-una-derrota-dolorosa-pero-ya-dimos-vuelta-a-la-pagina_378400",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@eldeber",
+    "published": "2024-07-26T00:58:00Z",
+    "title": "Jeyson Chura: “Sufrimos una derrota dolorosa, pero ya dimos vuelta a la página” | El Deber",
+    "text": "Jeyson Chura: “Sufrimos una derrota dolorosa, pero ya dimos vuelta a la página” The Strongest buscará reivindicarse de la derrota sufrida contra GV San José. El sábado recibirá la visita de Aurora, en el estadio Hernando Siles, desde las 17:30 The Strongest tiene la oportunidad de reencontrarse con el triunfo jugando en casa. El sábado, por la séptima fecha del torneo Clausura de la División Profesional, recibirá la visita de Aurora, en el estadio Hernando Siles de La Paz, a partir de las 17:30. El Tigre llega herido a este partido, porque perdió en la pasada fecha de visitante contra Gualberto Villarroel San José por 5-2. “Sufrimos una derrota dolorosa, pero ya dimos vuelta a la página y se nos presenta un partido importante en la siguiente fecha. Creo que ya arreglamos, el profe (Ismael Rescalvo) ya solucionó los errores que tuvimos en el anterior encuentro y esperemos que se pueda notar en este partido”, expresó Jeyson Chura en la zona mixta. El volante ofensivo reconoció que una derrota como la que su equipo sufrió en Oruro afecta en el aspecto anímico, pero espera que el Tigre se vuelva a la senda del triunfo. “Creo que afecta en lo anímico, pero sabemos que en el futbol hay tres resultados, no siempre se puede ganar, aunque siempre dando lo mejor para que así sea, lastimosamente pasan cosas que no pensás, pero es lindo volver a jugar en casa con nuestra gente y esperemos regalarles un triunfo”, agregó Chura. También expresó sentirse bien físicamente para pelear un puesto en el equipo titular, pero respeta las decisiones del entrenador; sin embargo, más allá de quiénes serán los once titulares, lo importante es la victoria ante el equipo del pueblo. “Aurora es un rival complicado, creo que los últimos años nos ha complicado mucho en La Paz. Es un equipo muy vertical y el profe lo manejará a su manera, sabrá cómo plantear el partido y ojalá se de una victoria ante nuestra gente”, enfatizó. FECHA 7 Viernes 26 de julio San Antonio 15:00 Real Tomayapo Blooming 20:00 Independiente Sábado 27 de julio Real Santa Cruz 15:00 Oriente Petrolero The Strongest 17:30 Aurora Wilstermann 20:00 Royal Pari Domingo 28 de julio Guabirá 15:00 GV San José Nacional Potosí 17:30 Bolívar",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T04:49:09.820+03:00",
+    "updated": "2024-07-26T04:49:09.820+03:00"
+  }
+]

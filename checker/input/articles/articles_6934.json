@@ -1,0 +1,207 @@
+[
+  {
+    "uuid": "a038bf72f6316bb2ed216d45df244f56ce8d72fb",
+    "url": "https://sopuli.xyz/post/19383043",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "https://lemmy.world/u/return2ozma",
+    "published": "2024-11-21T19:46:00Z",
+    "title": "It's a cruel system",
+    "text": "[log in](/login)or # to comment.\nI work in IT, and we recently hired a new “Engineer” at my company. I noticed on the form that he claimed to have extensive knowledge of Python, so I decided to meet him. The first question I asked was what IDE he uses, and he replied, “Anaconda.” Before I knew it, he was referring to the entire computer as a “CPU” and struggled to solve simple issues on Windows. To top it off, he makes 30% more than I do.\n(I work as a Level 1 Service Technician, and my boss is aware that I have experience with coreboot and GNU/Linux. I just got approval to bring my own setup with it installed. Although we work in a Windows environment, I can make it work.\nI also funded and helped test a bunch of hardware for coreboot, with guidance from friends I have who are experienced in the field. However, I only make $55k per year, I’m hoping I can get a nice raise. It’s just my boss and I as the two IT guys, so maybe there is potential.)\nI work in IT. I usually call my job “IT support” but I’m also technically the system admin, and network admin.\nToday, I had someone ask me to delete a calendar for them in Outlook. It wasn’t a shared or special calendar, it was literally just a calendar in their normal outlook.\nBear in mind, they didn’t ask how to do it. They asked me to do it.\nThat’s a skill issue right there. I’m not in the business of doing other people’s work for them. Now and then I’ll entertain the odd request of “how do I do x” and show someone how to get something done, mainly because it’s a lot less effort than telling them that I didn’t go to university for teaching, and all three ensuing arguments thereafter, because there’s always arguments.\nBut this was straight up “do my job for me”.\nLol, no, I have my own shit to do.\n“skill issue” ticket closed\nThe number of people who think that IT is supposed to know how to use every program and fix everything within those programs is a lot. I’ve had several engineers, programmers, designers, accountants, executives of who knows what consistently ask to fix their work or how to do whatever it is. I always try to point them in the right direction or help but other people in my field hate even that because it sets a precedent that the next time they need help they think they can ask again.\nIf I knew all of their jobs thoroughly like they seem to think, I wouldn’t be getting paid half what they are. I would need to be paid twice what they are, to support all of those positions in that way.\nI’m a lot like you. For the most part, I try to look beyond the question being asked, and find the root cause. If the root cause is because of a skill issue, I’ll direct them to the next logical resource. If it’s not a skill issue, or I can’t determine that it’s a skill issue, then I’ll continue to test until I can make that determination.\n9 times out of 10, if I find a solution to make a thing work in a program, I’ll share that with them, and let them take it from there.\nA lot of the people I support are working in the finance space and my company has an entire support department for finance applications. I’ll either bounce the problem off of them, or just direct them to the finance support team for guidance.\nThis wasn’t either of those things. It wasn’t even asking how. It was straight up telling me to do a thing for them, in a program they should know how to use. It’s not a complex finance program or anything, it’s literally Outlook.\nYeah, Outlook has a lot of little things that throw people. Just getting people to find the view settings they want is tough sometimes, and font size in outlook doesn’t change with the character size of the OS being changed. Automatically disabling com add-ons that are supposed to not disable by group policy do to “slow start times” of outlook. Online calendars are a mess, sync issues, filter issues, spam issues, the spam blockers within the admin console of o365. Convincing people to get rid of .pst files. .pst files not being compatible with onedrive, importing .pst files to their online archive (which is really just a second email storage on the back end). Takes forever, then half don’t import properly, then you get them to re-run it and maybe it works but you have duplicates. Deleted emails that need recovery a month after they realized they needed it.\nSometimes it makes me realize why companies push users to just use the Webapp, but there’s always something.\nDidn’t even touch the distros or shared emails/calendars yet lol\nOutlook is a long list unto itself of random crap that’s probably going to go wrong.\nTo be fair, it’s not like word or Excel are any less complex, but people tend to know those apps way better for some reason.\nThe Web version is taking over. Just like they did with teams, they’re starting a webview version of Outlook. They’re very creative this time, calling it “new Outlook” 🤦♂️\nIt’s all very dumb.\nI completely agree on the view settings too. It’s like a world unto itself just to sort and organize a single view of Outlook. I helped one user the other day, who simply wanted to see everything as conversations. It’s an easy fix, and it wasn’t the reason they logged a ticket, but it took about 8 seconds and I was already connected to their system.\nDo office workers not have a requirement to learn basic MS office skills anymore?\nOne of the things I had to learn quick working in IT was when to amiably tell a user to go pound sand. I’m a professional with my own work to do, not your personal assistant.\nWhoa, I wonder how you worded that. Was it a straight up no? Lol\nThe short version is that I explained that we have a company policy that we are support, not education.\nThis is not a support issue because no technical issue is preventing the user from getting this completed.\nSorry if you need to learn this, but compensation has little to do with ability or merit in a lot of place that need to screen share.\nAlso, ability to screen-share has little to do with the competencies that pay the bills on most places.\nI’ve had corporate VPs ask me to PDF Excel files because they don’t know how.\nThe very concept of pdf’ing excel files makes my asshole pucker up\nIt’s a fine thing to do if you’re trying to show someone your data without inviting them to change it, intentionally or otherwise.\nEven in IT I find that with each consecutive job that I get, my wage increases while my workload decreases. I’m literally being paid more to do less. I don’t think it’s the same for all these professionals but I feel that once most people reach a certain level, they mentally retire from learning new things.\nAs someone who had to struggle in a meeting because I’d never shared my screen in Teams before and they put it in some weird place, I feel attacked\nMicrosoft: “Here, have some shitty arcane dysfunctional software.”\nMe: “Damn, this is hard to use.”\nIT Guy: “Damn, I can’t believe you get paid to work here.”\nAlso IT Guy: low whisper “Fuck, they moved the button again. This is going to take me a minute.”\nI have an ongoing theory that every time you locate what you’re looking for in a Microsoft project, a random number generator determines if it will be moved, and where to\nMy god all these admin centers and their old and new versions. Four places to do any one thing and maybe one of them has documentation that’s up to date.\nThere are at least three locations to disable user accounts. Two of them require a setting of “True” and the third one “False”. Drives me mad.\nIf you find it too fast you won’t see the ads they’ve imbedded in their menus.\nThe amount of people who spend 0.12 seconds trying to figure shit out before throwing their hands up and saying “this is impossible, I can’t find it” is wild. Every time I use a new program, I go through it with excruciating depth, changing settings and finding how to do things. It usually takes 5 minutes or less.\nThe people who are just immediately helpless are the ones being bitched about here.\nThis, when I’ve got a new program or a program has updated I take my time to familiarise myself with it, it takes me more than five minutes because I’m visually impaired and have a learning disability, but it doesn’t take that long and I have fun exploring the program without pressure.\nBut when a program updates the UI the morning I start work and I realise I’ve got 5 minutes to figure out where everything has moved? It’s overwhelming and unfortunately I have a “freeze” response to stress and it took me years of therapy to push through that gut instinct to freeze up and just stare at it feeling like it’s too much and I can’t.\nThat said, I do still really struggle to find the button mid-meeting. I can vamp, but I can’t vamp while properly searching my screen because with my visual impairment that takes too much concentration, so the result is “okay I’m going to share my screen, but my UI has updated so everyone go refresh your coffees while I hunt down the screen share button” and some helpful person will try to explain where the button is, not understanding that my screen doesn’t look like there’s because I have adaptive software making things larger.\nThough a few times I’ve logged a ticket to IT saying “I’m sorry, I know the issues exists between keyboard and chair on this one, I can’t for the life of me find the print button” and they’ll remote into my machine and say “oh, that’s because you’re enlarged font has pushed half your toolbar off the screen entirely. You’re missing a bunch of features” and suddenly it made sense why I felt like my co-workers were more efficient in these programs. Unfortunately they couldn’t fix it so I still have to work around only being able to see half the screen of this program they suggested “returning everything to the original aspect ratio and getting better glasses”\nMy boss seems to think our little 2 man IT department can fix Adobe’s bad adaptive UI.\nIt’s not hard to find the camera button\nIt would take less time than the bitching\nSame, always used Google Meet, was forced to use teams. It took me a second to find the right button while rambling about it. Being a Mac I also needed to enable the permission and restart.\nI haven’t used Zoom in a while either, it would probably take me a second as well if it’s not obvious.\nthe giant share button at the top was too obvious?\nMy company switched from webex to teams with no transition time, the first 10 minutes of most meetings for a few weeks was “Am I audible?”, “I’m not sure how to share my screen”, “I started recording, you’ll have to unmute yourself again.”\nIt was agony, but it wasn’t due to anyone’s incompetence.\nnah, thats normal lol\nThe sheer volume of people I’ve encountered through numerous jobs that are on high wages but lack basic skills astounds me.\nThey have other skills you don’t have, that are more important for those high paying jobs.\nLike faking genuine interest in the shit their higher-ups blather on about, convincingly laughing at racist and misogynist jokes, backstabbing their peers when a position opens up, and doing the most demeaning tasks with a smile and a “thank you”.\n“Soft skills”\nThey have other skills\nPress X to doubt\nDon’t forget rudely asking the flight attendant to bring another warm moist hand towel as I have spilled my pre-flight mojito.\nSome millionaire in my office: “Hey, Sanctus, what’s my password for my computer again?”\nMe, who can barely afford to fix my car: fights the urge to use a letter opener as a weapon\nThat’s a really long password no wonder they forgot it.\nWell, I know what my next password will be! (Please don’t hack me)\nSick entropy, though.\nDepends, if you treat the individual letters sure but if you look at the words as the atom of information most password crackers wouldn’t take long.\nThere are ~100 symbols on the US keyboard, many not permitted in a lot of online passwords (stupidly).\nThere are 11 words in the “passphrase”. Fight, letter, open, urge, weapon are not in the 100 most common English words. Urge is not in the 1000 most common English words (let alone fights vs fight, or opener vs open).\nI think it would be a fairly strong password. You can reduce the entropy a bit by predicting likely next words in a sequence, but that would be defeated by adding some non sequitur(s). “fights the urge to use a letter opener as a scooter” or something.\nCapitalization, intentional typos, spaces or not, ending punctuation? There a for sure ways to improve it as a password while still keeping the easy to remember, easy to type aspect. Overall it’s a great strategy to teach people for making passwords.\nHorse battery staple moment\nCorrect\nThose do make good passwords though. Had a company switch from 10 characters including special, caps, numbers lower upper requirements to 15+ with no requirements because it still would end up being harder to crack. Started using phrases where you could even put spaces, but in all lower case for me if was much quicker to type\nTangerine$45 is much harder for me to type than whatthefuckamidoinghere\nI think it’s because I have to pause to think shift 4, then hit 4 and remember if my fingers are still by the 4.\nAll just examples but the standard keys… Are all automatic for me because of use.\nGot me, haha. Thanks for the laugh.\n“Sorry, that’s above my pay-grade.”\nI don’t blame anyone for forgetting their password—it’s a dumb system, having to memorize 100 separate 16-digit randomly generated base64 codes that change once a month. However, I do blame them for not using a password manager, and I do blame them for making their problems other people’s problems.\nOurs isn’t like that at all. They dont even have to change it every three months. The insecurity is crazy here and they still can’t remember the same password they’ve had since before I started working here.\nForcing password changes too frequently is actually a security risk, as it encourages bad practices like re-use, iteration, keyboard walks and writing the passwords down.\nThere are reasonable limits to impose on this, and educating users with demonstrations such as haveibeenpwned have been highly effective in my experience.\nHowever, I do blame them for not using a password manager\nManaging the passwords in your password manager becomes a job in and of itself when you’ve got enough of them floating around. My office is on year two of trying to do automatic password rotation for the myriad of service accounts in our systems. Anything that’s not Active Directory integrates is a headache. And even the ones that are have to constantly stay ahead of the Microsoft Updates curve or run into security problems of all sorts.\nIt would be cool if everything could be SSO, but you need to have a certain amount of faith in your OS to accomplish that.\nI was against you until password manger. good save. I login to dozens of systems every day, I remember 2 passwords, all others are 16 character gibberish.\nYour password is “giveMeFuckingRaise!1!1”\n“Oh yeah, no wonder I keep forgetting it”\nI work on a team that teaches courses on how to use specific programs. I’m at job level 1. A job level 3 guy keeps asking me to schedule meetings with him so I can teach him how to use the specific programs so then he can do the job he was hired for and teach other people how to use these specific programs.\ntime to switch places.\nSounds like you’re doing a job level 4. Time to get paid, brother.\nIn my line of work your competence does not get you promotions, but who you know and how well you fill out standardized tests that haven’t been updated since the mid 90’s. I’d have to change industries haha\nBruh, I’m not one for office drama, but I would recommend keeping records of that if no-one else knows he’s doing that to you.\nOh no this isn’t unusual behaviour. In my time here I’ve found this is the norm on many teams. I’d say 60% of the teams I’ve worked on here are like this.\nThe people with the worst virtual meeting presences are the VPs and above. They expect us to shovel their shit. Like, buy a fucking mic and a light, pay for more than DSL broadband, and shut the fucking door so I can stop hearing whatever your teenage asshole kid is doing.\nEDIT: FWIW managers at most levels aren’t much better, they live by the example set by the superiors they so idolize.\nYes, networking skills are more valuable than service desk. It’s amazing how many service desk folks have a chip on their shoulder because they never moved on.\nnetworking skills are more valuable than service desk\nOnly true until you drop your laptop. Then the value of that service desk work skyrockets.\nWould be very cool and good if IT folks weren’t constantly in a dick-measuring contest and could see the forest for the trees. Maybe we’re all getting underpaid, relative to the suits six floors up, and we’d do well to stand by each other instead of bickering over who works the hardest.\nYou can tell you self whatever you need to hear. I can find a good service desk guy easy. Good execs are hard to come by despite the reddit/lemmy circle jerk.\nI dunno, having worked both sides of the fence i would say whilst network skills are more valuable because the barrier for entry is higher, in that you need apecialist knowledge, the general knowledge a service desk tech is not to be underestimated (im talking those techs that actually fix and attend jobs as opposed to those on the phones)\nThe number of problems a tech can fix and the amount of work they get through can be astounding. sure, it’s something anyone can be trained to do, but to say it has inherently less value, i dont agree. i do networks in a hospital, and the number of people who appreciated the work i did when i worked the desk is vastly larger than the number of people that even know i exist now.\nIt felt alot better getting a bit of software working or replacing hardware, or recovering someones emails etc that got a doctor or a nurse working again and lowered their stress levels and made them smile than it does to upgrade cisco call manager from version 1 to version 1.1…\nI agree to an extent that its not harder to work the service desk, but i dont think you should look down upon them. We all have an important role to play…\nExcept execs… they can fuck off.\nI had basically the same experience at my last job. I worked my way up on the service desk and after a few years basically everyone in the IT side of things new my name. I probably had more general knowledge of how to get things done in that place than just about anyone. Obviously I didn’t have access to do a lot beyond general troubleshooting myself but I’d assisted with enough issues to know who to talk to and what info they’d need. Eventually I moved to an app support team and I hated it because it was more meetings and talking to vendors and trying to coordinate shit with other teams. I went from basically a constant stream of doing shit for people and getting their gratitude in return to waiting weeks on end to even get simple tasks through. My self esteem nose dived because I felt like I wasn’t accomplishing anything and all I got from others was requests for updates on things I was waiting on other people to do.\nThis hurts how accurate it is.\nI am constantly worried i am not doing enough whilst simultaneously getting mad that i have to wait for vendors and review/approval meetings to make the tiniest change.\nWhen im most of the way through something and i just need someone in apps to make a small change, I’ve got all this steam and im almost done with the task but my priority is not their priority so it stops. And a user ibwas helping is now left hanging. And i can’t do anything.\nIf the pay was better i would go back to the desk.\nIf the pay was better i would go back to the desk.\nSame, what really pisses me off was our help desk had a “lead” position that was on the same pay scale as the app support role I moved into and was basically my dream job of handling escalations and more difficult issues and developing process (which I was pretty much already doing) but without the inbound calls, unfortunately the last time that position was open I was still in the “cooldown period” after getting promoted to a senior role so I wasn’t eligible. Then the next time one opened they just got rid of it. The only guy that was left was a massive POS too that never got anything done and the managers all acknowledged that I was working circles around him even with my normal responsibilities on top of it.\nI guarantee you they know nothing about setting up a home network much less configuring a router.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T04:06:45.981+02:00",
+    "updated": "2024-11-22T04:06:45.981+02:00"
+  },
+  {
+    "uuid": "c0c31799bacd5cb4ce1b83a3a01a85534c9388ff",
+    "url": "https://www.wwnytv.com/2024/08/01/north-country-rainfall-shatters-july-records",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@7NewsWatertown",
+    "published": "2024-08-01T21:13:00Z",
+    "title": "North country rainfall shatters July records",
+    "text": "North country rainfall shatters July records DEER RIVER, New York (WWNY) - With torrential downpours and flash flooding, we know July was a wet one. But just how wet was it? According to the Northeast Regional Climate Center: - As of July 30, Lowville had its wettest month since 1893 with 10.6 inches of rain. - More than half of the rain fell on July 10, when the village and Lewis County saw record-breaking flooding. - It was the village’s all-time wettest day at just over 6 inches. - As of July 30, the Watertown International Airport had more than six inches of rain, the second wettest July since 1949. So what did the wet weather mean for farmers in Lewis County? “I am cleaning up the mess in the gardens from all the rain we had,” said Loren Bush, co-owner of Bush Gardens in Deer River. Rows once filled with vegetables are now empty. “We lost thousands of heads of broccoli and cauliflower,” said Bush. It’s not a complete loss for Bush. He says his peppers and watermelon are looking great. His winter squash is about three weeks early. “Some things on high ground, they’re growing super fast,” he said. “The beets are the size of basketballs.” Take a drive to Natural Bridge and you’ll find dozens of mushrooms at Cogumelo Mushrooms Farm. Unlike some fruits and veggies, mushrooms thrive in moisture and humidity, which come with heavy rain. “As long as things are managed well it doesn’t hurt, and it does help to some extent, although really the humidity in the air goes a long way,” said Liam Carney, owner of the farm. It does take some preparation when heavy rains are in the forecast. “It’s a pain in the neck. I was down here in a rainstorm yesterday covering these guys so they wouldn’t get ruined and I got completely soaked,” said Carney. Copyright 2024 WWNY. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "loren bush",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "lewis county",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "lowville",
+          "sentiment": "none"
+        },
+        {
+          "name": "watertown international airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "deer river",
+          "sentiment": "none"
+        },
+        {
+          "name": "bush gardens",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T01:50:58.741+03:00",
+    "updated": "2024-08-02T01:50:58.741+03:00"
+  },
+  {
+    "uuid": "fa133c74ed670419a64e863af86babc87e622888",
+    "url": "https://www.brighteon.com/0489c2b8-b6eb-4c54-b848-1c3e479e6aa2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SJWellFire: Final Days Report",
+    "published": "2023-12-24T04:40:00Z",
+    "title": "Defiling the Temple of God - Beast Tech Review",
+    "text": "Save Souls with an OfGod Tshirt: https://sjwellfire.com/shop/\nJoin our newsletter: https://sjwellfire.com/\nGab: https://gab.com/sjwellfire\nSupport us to save souls via the news: https://sjwellfire.com/support/\nor [email protected] paypal\nPrepare: https://sjwellfire.com/partners/\nVCAst is about the MOTB infrastructure. How does X tie into this mind controlism optogenics soul trap system. What about ai the fake little god that is using real brain tissue to run. Artificial intelligence is starting to become a little less artificial… by using actual chunks of the human brain to improve what it’s capable of. Researchers at Indiana University Bloomington in the US have built brain-infused computers named ‘Brainoware’ following a first of its kind experiment. And it’s thought the new creation may even one day be capable of operating without any human supervision at all. Will the Anti-Christ have a fake resurrection to the AI quantum computer that ties to other dimensions.\nYou Don’t Need a Chip for the MOTB Implied by Elon and Other’s “Like, essentially, through the jugular vein, going through your neck. So it doesn’t involve, like, drilling holes in your skull. It’s, like, basically an angiogram (blood xray}. Because the thing about putting things in your veins and arteries is that’s how you are on a regular basis. You know, when you go to the hospital and they put a stent in your heart, how do they do that? They don’t, like, crack open your chest and, like, get a hammer and chisel and, like, put in a stent. They go through your veins and your arteries, because that’s a natural highway to all parts of your body. So if you can do that for the heart, and, you know, they’re starting to do it for some other things, like, why not the brain?“ Elon Musk\nBeast Tech is Here Defiling the Temple of God Neuromorphic computing is an approach to computing that is inspired by the structure and function of the human brain. A neuromorphic computer/chip is any device that uses physical artificial neurons to do computations. Neuromorphic computing could completely transform everything about the technology industry from programming languages to hardware.\nNeuralink aims to develop brain-computer interfaces (BCIs) that can connect humans and machines. Neuralink’s devices consist of implantable electrodes that can record and stimulate brain activity, and a wireless module that can transmit data to external devices. Neuralink’s goal is to enable humans to interact with artificial intelligence and enhance their cognitive abilities. Think X and the payment system / hive mind apparatus.\nNanotechnology is the manipulation of matter at the atomic or molecular scale. Nanotechnology can be used to create new materials, devices, and systems with novel properties and functions. Nanotechnology has applications in various fields, such as medicine, electronics, energy, and biotechnology. Seeds of Men will not Cleave.\nWireless body area network (WBAN) is a type of wireless network that uses wearable or implantable devices to monitor and communicate physiological data of a person. WBAN can be used for the beast system.\nLast, was Solomon’s temple he built for God really a human from a birds eye view.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://sjwellfire.com/",
+      "https://gab.com/sjwellfire",
+      "https://sjwellfire.com/support/",
+      "https://sjwellfire.com/partners/",
+      "https://sjwellfire.com/shop/",
+      "https://sjwellfire.com/partners",
+      "https://www.sjwellfire.com/shop/",
+      "https://sjwellfire.com",
+      "https://www.sjwellfire.com/partners/",
+      "https://www.gab.com/sjwellfire",
+      "https://sjwellfire.com/shop",
+      "https://www.sjwellfire.com/support/",
+      "https://sjwellfire.com/support",
+      "https://www.sjwellfire.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "elon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "indiana university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bloomington",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T07:20:48.911+02:00",
+    "updated": "2023-12-24T07:20:48.911+02:00"
+  },
+  {
+    "uuid": "6f80b7c7a0dccf43cd6505c95a606f8d8265b0da",
+    "url": "https://notalwaysright.com/hats-off-to-kind-words/326204",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Not Always Right",
+    "published": "2024-04-04T23:00:00Z",
+    "title": "Hats Off To Kind Words",
+    "text": "<a href=\"https://notalwaysright.com/hats-off-to-kind-words/326204/\">\n<!- Title: Unfiltered vs. regular stories —>\nHats Off To Kind Words</a>\nAwesome, Health & Body, Inspirational, Kiosk, Portugal, Public Transport, Retail| Right| April 4, 2024\nI work at a tiny kiosk that sells convenience items like snacks, magazines, drinks, etc. We’re located next to a bus stop that gets us a decent amount of traffic.\nFor the last few weeks, at specific times throughout the week, I have noticed two women at the bus stop at the same time. They’re a little older, wearing very nice coats and large puffy hats, even though it’s a little warm.\nSince in my part of the US, buses are unreliable and irregular, they can sometimes be sat there for over half an hour, so I decide to strike up a conversation with them.\nMe: “Wow, ladies, I just wanted to say that I love how you rock those fabulous hats! I’ve seen you here for a few weeks now, and every week it’s so impressive.”\nThey both smile at me and thank me for my kind words. They both start talking among themselves, keeping me included.\nOld Lady #1: “I’m lucky my husband bought me such nice hats on our travels. You see, I take this bus each week to go to the hospital because…”\nShe takes off her hat to reveal a bald head.\nOld Lady #1: “…I’m doing the chemo. I’m a bit self-conscious.”\nOld Lady #2: *Eyes go wide* “Oh, my God!”\nShe takes off her hat, also revealing a bald head.\nOld Lady #2: “Me, too! Are you with Dr. [Name]?”\nOld Lady #1: “Yes! I am! How have I not seen you before?”\nOld Lady #2: “I usually try to keep my head down when I go in. Some weeks I feel really terrible and I don’t really pay attention to my surroundings.”\nOld Lady #1: “Yes, it’s the same with me!”\nThey carry on like this, comparing “chemo notes” and chatting away, so intently involved in their conversation that I have to shout to them that their bus has arrived.\nThe next week, they’re both back, except they’ve arrived together and their conversation sounds like it hasn’t stopped since the previous week. They’re making in-jokes, talking about their late husbands, their children and grandchildren, etc. Finally, they remember I am there!\nOld Lady #1: “Oh, goodness! What’s your name, dear?”\nMe: “Oh, it’s Mary.”\nOld Lady #2: “Mary! Thank you for complimenting our hats! If you hadn’t said anything, we wouldn’t have made friends like we have!”\nOld Lady #1: “It makes so much difference having someone to go through this with together.”\nMe: “I’m so happy to hear that! I’m so sorry that you’re both going through what you’re going through. If there’s anything I can do for you, please do let me know.”\nEvery week they’re back, and every week they’re happily discussing all manner of subjects under the sun, keeping me included. Some weeks seem harder than others (chemo takes its toll on you), but they both always seem to have energy for each other.\nOne week, I don’t see either of them. The next week is the same, and I eventually start to fear the worst.\nAfter a couple of months, I see a car pull up, driven by a young man. Two old ladies get out of the back of the car and run over to me, full of smiles and energy, and showing hair!\nOld Lady #1: “We wanted to come by and let you know we’re both okay!\nOld Lady #2: “And we’re both off the chemo!”\nOld Lady #1: “Our doctor said we both showed remarkable improvement when we started to talk to each other!”\nOld Lady #2: “Those were his exact words! ‘Remarkable improvement.'”\nOld Lady #1: “We both went to each other’s appointment together! You should have seen the look on his face!”\nOld Lady #2: “They say a positive mindset can be a powerful healer! I’m not sure if that’s true, but it feels like it was with us!”\nOld Lady #1: “We’re both in remission! Together! We wanted to thank you!”\nMe: “Thank me? But I didn’t do anything!”\nOld Lady #1: “Have you not been paying attention? You introduced us to each other!”\nOld Lady #2: “You saved our lives!”\nOld Lady #1: “We wanted to let you know! We may not need to use the bus anymore, but we’ll never forget you! We beat cancer and got a new best friend because of you!”\nAnd with that, they both hand over a gift. It’s a new and beautiful hat, very similar to the one that [Old Lady #1] was wearing that day I started up a conversation.\nOld Lady #1: “Remember us every time you wear that hat!”\nThey drove off, as happy and as talkative as I have ever seen them, with a smile beaming from my face.\nEvery time I am having a bad day, I look at my lovely hat and remember what came out from just a simple compliment while working at a kiosk one day, and it never fails to lift me back up again.\nQuestion of the Week\nTell us your story about a customer who couldn't understand the most simple concept.\nI have a story to share!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://bit.ly/3IUaivQ",
+      "https://www.bit.ly/3IUaivQ"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "public transport",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "portugal",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:54:41.093+03:00",
+    "updated": "2024-04-05T02:54:41.093+03:00"
+  }
+]

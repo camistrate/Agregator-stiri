@@ -1,0 +1,551 @@
+[
+  {
+    "uuid": "089aca2aa8bb9a46609911bdbe9699c1fc669eb3",
+    "url": "https://tribune.net.ph/2024/01/20/us-space-company-upbeat-on-next-moon-mission-despite-landers-demise",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agence France-Presse",
+    "published": "2024-01-19T17:20:00Z",
+    "title": "US space company upbeat on next Moon mission despite lander's demise",
+    "text": "The head of the American space company whose lunar lander failed this week in its mission to reach the Moon expressed optimism Friday that the next attempt would achieve its goal.\n\"I am more confident than ever now that our next mission will be successful and land on the surface of the Moon,\" Astrobotic CEO John Thornton told a news conference, highlighting challenges his team had overcome in the \"unexpected but very exciting mission.\"\nAstrobotic's Peregrine lander was launched on January 8 under an experimental new partnership between US space agency NASA and private industry intended to reduce costs for American taxpayers and seed a lunar economy.\nBut the lander experienced an explosion shortly after separating from its rocket and was leaking fuel, damaging its outer shell as well as making it impossible to reach its destination.\nThornton called it a \"difficult\" moment, saying the problem likely stemmed from a faulty valve and that a full investigation would be carried out.\nBut he remained upbeat about the mission.\n\"After that anomaly we just had victory after victory after victory, showing the spacecraft was working in space, showing that the payloads can operate,\" he said, referring to scientific experiments onboard, particularly from NASA, that were able to gather data.\nThornton said he had \"independent confirmation\" the crippled Peregrine lander had burned up in the atmosphere as it plunged back to Earth.\nAstrobotic's next mission, scheduled for November, is to carry a rover developed by NASA to the Moon's South Pole, where American astronauts are meant to explore in coming years.\nThe Viper rover's mission is to learn more about the origin and distribution of water -- in the form of ice -- and determine how it could be used on future missions.\nViper will ride to the Moon on Astrobotic's Griffin lander, which is about three times the size of the ill-fated Peregrine.\nViper is \"very sophisticated and costly,\" senior NASA official Joel Kearns said. \"So we want to make sure we really understand the root cause and the contributing factors of what happened on Peregrine.\"\n\"If we have to modify our plans for Griffin... we will,\" he added.\nNASA had paid Astrobotic about $100 million under the Commercial Lunar Payload Services program to ship its science instruments to the Moon, as it prepares to send American astronauts back to the barren world later this decade under the Artemis program.\nOfficials at NASA have made clear their strategy of \"more shots on goal\" means more chances to score. The next attempt under CLPS, by Houston-based Intuitive Machines, launches in February.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "thornton",
+          "sentiment": "none"
+        },
+        {
+          "name": "moon",
+          "sentiment": "none"
+        },
+        {
+          "name": "astrobotic",
+          "sentiment": "none"
+        },
+        {
+          "name": "john thornton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nasa",
+          "sentiment": "none"
+        },
+        {
+          "name": "peregrine",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T06:27:46.146+02:00",
+    "updated": "2024-01-20T06:27:46.146+02:00"
+  },
+  {
+    "uuid": "6c1dcf119da0abbbeebbe104fca0dfe29a44ee93",
+    "url": "https://www.tbsnews.net/economy/rmg/53-rmg-factories-yet-pay-workers-eid-bonus-8-factories-have-not-paid-february-salary",
+    "ord_in_thread": 0,
+    "author": "@tbsnewsdotnet",
+    "published": "2025-03-28T09:25:00Z",
+    "title": "53 RMG factories yet to pay workers Eid bonus, 8 factories have not paid February salary",
+    "text": "According to a report published by the Bangladesh Garment Manufacturers and Exporters Association (BGMEA), out of 2,107 operational factories (1,769 in the Dhaka region and 338 in the Chattogram region), 99.53% have paid February wages, 83.20% have paid partial or full wages for March, and 94.78% have disbursed the Eid bonus, while 0.47% are still processing February wage payments. Meanwhile, 149 factories are yet to pay partial or full salaries for the month of March. Although some factories were busy with urgent shipments, payment completion is expected by 29 March, with nearly all factories finishing payments by then. BGMEA Administrator Mohammad Anwar Hossain expressed his gratitude to the garment sector's entrepreneurs for their dedicated efforts to ensure the timely payment of wages and bonuses, despite facing challenges, according to a press release issued yesterday (27 March). According to the release, following BGMEA's request, the government took advance measures, instructing banks to release incentive funds. This move enabled entrepreneurs to make payments for February wages, partial/full March wages, and festival bonuses without obstacles. The release of funds, particularly for small and medium factories first, and then larger ones, ensured that no significant disruptions occurred in the garment sector regarding wage and allowance payments this year, said the release. In a bid to reduce traffic congestion on highways during the Eid holidays, BGMEA has instructed factories to grant holidays to workers in phases, a process that began on 26 March. It is expected that all workers will leave for their Eid holidays by 29 March, added the release.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Labor->wages and benefits",
+      "Labor->labour relations",
+      "Labor->employer",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Chattogram",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mohammad Anwar Hossain",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Dhaka",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "RMG",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Eid",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "BGMEA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Garment Manufacturers and Exporters Association",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T13:23:55.634+03:00",
+    "updated": "2025-03-28T13:38:26.087+03:00"
+  },
+  {
+    "uuid": "0c37ffe7957feaf1f310560d4a5f4068465433f9",
+    "url": "https://www.irishexaminer.com/sport/rugby/arid-41298973.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Irishexaminer.com (digitaldesk@irishexaminer.com)",
+    "published": "2023-12-30T07:14:00Z",
+    "title": "Craig Ray: 'The Springboks showed us that nothing is impossible'",
+    "text": "There isn’t a country where winning the Rugby World Cup means more than South Africa. That’s simply because the Springboks are a beloved beacon of hope in a nation collapsing under the weight of three decades of governmental corruption and four decades of apartheid before that.\nSouth Africa is a broken country in many ways, yet it somehow endures, and in some spheres, thrives. But it’s almost always in spite of its leaders and not because of them.\nThe Springboks of the past six years have come to symbolise the promise and potential of Nelson Mandela’s ‘Rainbow Nation’ dream. The Boks are the embodiment of what the entire beautiful, basket case of a country could be if it were served by politicians with the same innovative and courageous leadership, where the collective is far more important than the individual, as the Boks.\nCaptain Siya Kolisi is the kind of leader that comes along once in a generation, if you’re lucky. Kolisi’s genuine warmth, his love for people and his innate empathy, somehow survived and grew through the most difficult of childhoods.\nHe carries those formative years with him at all times. When Kolisi says he is playing for so much more than himself, it’s genuine and undeniable. Very few of us know what it’s like to drink sugar water to quell desperate hunger, or to rely on a cup of rice from a neighbour to make it through another day of relentless struggle.\nDirector of rugby Rassie Erasmus, despite his occasional run-ins with rugby’s lawmakers, is another who rose to his status through the struggles of a humble upbringing and an alcoholic father.\nHis suffering might have been different to Kolisi’s, but it also shaped him into a ferocious fighter, willing to go to the very brink of what many deem respectable, to gain an edge.\nCoach Jacques Nienaber’s upbringing was less fraught, but he also possesses a mentality that demands the pursuit of perfection and a scientists’ mind, to question everything.\nNienaber’s great gift is that he doesn’t simply accept the status quo and try to improve on it. He prefers to re-imagine the question, before finding the answer.\n“From 2018 we thought we had the ability to win the 2023 World Cup. [The Rugby World Cup win in] 2019 was probably something that hopped on along the way, but it is relief for the players, they were good enough to do that,” Nienaber said after the Boks beat the All Blacks 12-11 to claim the 2023 crown in Paris last month.\n“They [the players] are an amazing bunch of guys, they are all warriors and they all love South Africa.\n“This is probably for our fans and for South Africa. I wish I could show you the amount of messages we have received and what is going on in South Africa. We have 62 million people united, opening up communities to allow people to watch, an entrance fee of whatever they wanted to donate.\n“People have bought green T-shirts for everyone. We felt every single bit of energy they gave us and in the last three games, all one-point victories, that drove us.”\nThese three men, whose careers have intertwined for decades, created the environment that led the Boks to their fourth Webb Ellis Cup in France on 28 October.\nHOPE.\nIf there is any doubt what it meant to the country, search the clips of the Boks’ week-long victory parades through the tough streets of South Africa’s cities. Witness the joy, and hear the voices of regular people, buckling under pressure in a society hanging on by a thread, being given some renewed hope because of what talented, hard-working squad did in France.\n“There are not a lot of things going right in our country and we have the privilege to be able to do what we love and inspire people in life, not just sports people,” Kolisi said.\n“Where I come from I couldn't dream I could be here today. We come from different walks of life. I had my own goals and ambitions. I want to look after my family, I want to give back to my community. You need to come and see South Africa to understand. When we come together nothing can stop us, not just in sport but also in life.”\nThe majority of people who came out to celebrate the Boks’ achievements, will never have the means to travel to Paris. But the Boks, in their own way, took all South Africans with them on this remarkable journey.\n“In the Eastern Cape many families are still recovering from the Covid-19 disaster. We have lost our relatives, friends and parents and we face unemployment. The Springbok victory has restored hope to many of us,” Sikelelwe Gxotani, originally from the village of Tsholomnqa, told my Daily Maverick colleague Estelle Ellis during the Boks’ parade through the Eastern Cape.\n“Some of us, like me, have already lost hope in our lives, but the Springboks showed us that nothing is impossible,” she said.\n“I started a business in 2021, but it did not go well. This victory gives us hope that we can achieve our goals. [Makazole] Mapimpi is from my home village in Tsholomnqa in East London and we are proud of him.\n“We are proud of his success. All of them restore hope that even if you are coming from a rural area you can achieve your goal.”\nCOURAGE.\nSuccess in France was the Boks’ second title as a collective, having also won RWC 2019 in Japan. It took the Boks’ World Cup record to a scarcely believable four titles in eight appearances at the showpiece event.\nTheir success, achieved in the most remarkable of ways, but winning their three knockout matches by a collective three points, is unlikely to ever be repeated.\nVictory in France was the culmination of a six-year plan that never changed even after the success in Japan. When RasNaber (the collective noun for Erasmus and Nienaber) became Bok coaches in 2018, winning in France was their stated goal.\nClaiming the title in 2019, thrashing England 32-12 in the final in Yokohama, could easily have led to a mindset of ‘job done.’ Instead, it fuelled the desire to fulfil the 2018 promise even further.\nNothing was left to chance and every aspect of the Boks was overhauled. This era of Springbok rugby became the most transparent and likeable in history. There are many reasons for that, from smart selections, manic attention to detail, carefully crafted gameplans and strategies and open and frank communication.\nBut the most vital aspect of the RasNaber era was courage.\nIt was the courage to try new things, comfortable that they might fail. In fact, failure, when measured by losing Tests, was never viewed as failure within this group.\nSure, they lost and it hurt. But failure was used to improve, tweak and tinker. That takes courage because Test rugby, especially in South Africa, is a results driven business.\nNo defeat [or victory] was wasted because every selection and every strategy was devised with the goal of winning RWC 2023 in mind. Some plans worked and others didn’t.\nIt was the courage to make Kolisi captain and allow him to blossom into the sport’s most respected figure. That decision emerged from the courage to see transformation as an opportunity, and not a burden.\nIt was the courage to be different and the courage to embrace differences.\nIt was the courage to extend an olive branch to referees after accepting that publicly humiliating them had been a mistake. It was the courage to learn and evolve while having a clear plan and vision.\nIt was the courage to select seven forwards on the bench, or to name four scrum halves in a 23-man squad. What about the guts to yank their flyhalf after 31 minutes in a World Cup semi-final, or bring in a flyhalf [Handre Pollard] for an injured hooker [Malcolm Marx]?\nFEAR OF COMPLACENCY.\nRasNaber didn’t fear innovation. They feared complacency. Losing RWC Pool matches in 2019 and 2023 were not crises, as long as they grew from those experiences.\nHanding 13 new caps in their first Test in charge, against Wales in Washington in June 2018, was an early chance to quickly sort out players who could cope and those who couldn’t.\nThe Boks lost the Test, but of those 13 new caps, Ox Nché, Makazole Mapimpi, Kwagga Smith, Marvin Orie and Thomas du Toit emerged.\nFour years later, against Wales again, this time in Bloemfontein, they made 18 changes to the team for the second Test after winning the first 32-29 at Loftus. The callow team lost South Africa’s first home Test to Wales, going down 13-12.\nHowever, Kurt-Lee Arendse, Deon Fourie and Grant Williams made their Test debuts that day. Two of them were massively influential in beating the All Blacks at Stade de France.\nTo RasNaber, losing was acceptable as long as it had a purpose. They were not scared to lose, if they gleaned important lessons from those losses and answered certain questions.\nThey needed to know that when they reached France, they had a squad of 36-40 players who were virtually interchangeable, which would be able to function seamlessly through injuries and a demanding schedule. Essentially, if player A was out, player B had to be as good, and player C too.\nWinning three in consecutive weekends in the knockout stages at RWC 2023 by a combined three points, was not luck. It came down to minuscule edges honed during six years of refinement.\nThose tight victories over France [29-28], England [16-15] and the All Blacks [12-11] in Saint-Denis were the result of an unbreakable, never-give-in attitude developed over six years and executed by the right players.\nThat mindset was not moulded through winning all the time, it was shaped by defeats and setbacks on the road to Paris.\nThose losses were never wasted because they were used as lessons, which developed character and resilience.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "craig ray",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nelson mandela",
+          "sentiment": "none"
+        },
+        {
+          "name": "siya kolisi",
+          "sentiment": "none"
+        },
+        {
+          "name": "kolisi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "springboks",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south africa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T09:55:45.226+02:00",
+    "updated": "2023-12-30T09:55:45.226+02:00"
+  },
+  {
+    "uuid": "252aefcccfed4159652dfe409567324429c644f6",
+    "url": "https://www.latestnigeriannews.com/p/3741527/boeing-machinists-vote-to-strike-after-rejecting-pay-increases-of-25-over-4-year.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Latestnigeriannews",
+    "published": "2024-09-13T08:21:00Z",
+    "title": "Boeing machinists vote to strike after rejecting pay increases of 25% over 4 years",
+    "text": "\"I want to chop your nkwobi\" Catholic priest sings CKay's Love Nwantiti on the altar while teaching husbands how to be romantic to their wives (video) - Linda Ikeji 17-year-old st@bs mother to d3ath in Florida one year after k!lling father - https://www.latestnigeriannews.com/news/3741503/17yearold-stbs-mother-to-d3ath-in-florida-one-year-after-klling-father.html A pilot programme delivered foundational and digital skills to 4,000 learners ages 5 to 20 in eight IDP camps in Abuja and Nasarawa states, respectively. - Pulse Actress Mary Njoku Tells 'Religious' Women In Nigeria That Nothing Is Wrong With IVF - Stella Dimoko Korkus Afrobeats: The global groove revolution - The Nation Amirrors Run It on track for afrobeats success - https://www.latestnigeriannews.com/news/3740946/amirrors-run-it-on-track-for-afrobeats-success.html Arewa24 expands viewership of Hausa culture to 45 million - https://www.latestnigeriannews.com/news/3740955/arewa24-expands-viewership-of-hausa-culture-to-45-million.html As tensions rise within the party, the postponed NEC meeting is expected to play a decisive role in the future of the PDPs internal dynamics. - https://www.latestnigeriannews.com/news/3741322/as-tensions-rise-within-the-party-the-postponed-nec-meeting-is-expected-to-play-.html Baldness, or androgenetic alopecia, is a gradual hair loss that results in a smooth, hairless scalp. Its not just a mens issuewomen experience it too. While many associate baldness with getting older, it can affect anyone, no matter their age. - https://www.latestnigeriannews.com/news/3740493/baldness-or-androgenetic-alopecia-is-a-gradual-hair-loss-that-results-in-a-smoot.html 2024 NFL Week 2: Top Takeaways for Every Game - Bleacher Report Abuja Set for NOC/Sports For All Solidarity Fitness training Seminar - The Sun Bankole: Spires 5-Aside Street Soccer Aimed to Create New Standard - Thisday Basketball fans commend JTigress exploits in S/Africa - Daily Trust Bengals' Tee Higgins: I Don't Get Why Fans Would Think I'm Faking Hamstring Injury - https://www.latestnigeriannews.com/news/3740566/bengals-tee-higgins-i-dont-get-why-fans-would-think-im-faking-hamstring-injury.html Bentancur charged by FA over son racial slur - Blueprint Bills' James Cook Thrills Fantasy Football Fans with 3 TDs in 1st Half vs. Dolphins - https://www.latestnigeriannews.com/news/3740579/bills-james-cook-thrills-fantasy-football-fans-with-3-tds-in-1st-half-vs-dolphin.html Brazil need Neymar to win 2026 World Cup Rodrygo - https://www.latestnigeriannews.com/news/3741095/brazil-need-neymar-to-win-2026-world-cup-rodrygo.html CAFs Symposium Unites Rohr, Peseiro and Eguavoen in Abidjan - https://www.latestnigeriannews.com/news/3740852/cafs-symposium-unites-rohr-peseiro-and-eguavoen-in-abidjan.html",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://bleacherreport.com/articles/10135201-bills-james-cook-thrills-fantasy-football-fans-with-3-tds-in-1st-half-vs-dolphins",
+      "https://blueprint.ng/brazil-need-neymar-to-win-2026-world-cup-rodrygo/",
+      "https://bleacherreport.com/articles/10135182-bengals-tee-higgins-i-dont-get-why-fans-would-think-im-faking-hamstring-injury",
+      "https://thenationonlineng.net/amirrors-run-it-on-track-for-afrobeats-success/",
+      "https://www.pulse.ng/news/politics/tensions-rise-in-rivers-as-wike-seizes-control-of-nwc-from-pdp-governors/sjzzk3h",
+      "https://www.thisdaylive.com/index.php/2024/09/12/bankole-spires-5-aside-street-soccer-aimed-to-create-new-standard/",
+      "https://thesun.ng/abuja-set-for-noc-sports-for-all-solidarity-fitness-training-seminar/",
+      "http://www.stelladimokokorkus.com/2024/09/actress-mary-njoku-tells-religious.html",
+      "https://www.pulse.ng/pulse-picks/6-must-have-products-bald-heads/tf2yfye",
+      "https://www.lindaikejisblog.com/2024/9/i-want-to-chop-your-nkwobi-catholic-priest-sings-ckays-love-nwantiti-on-the-altar-while-teaching-husbands-how-to-be-romantic-to-their-wives-video-2.html",
+      "https://www.pulse.ng/news/local/data-reveals-65-literacy-increase-among-25000-refugees-in-idp-camps/9b6y68n",
+      "https://dailytrust.com/basketball-fans-commend-jtigress-exploits-in-s-africa/",
+      "https://bleacherreport.com/articles/10135131-2024-nfl-week-2-top-takeaways-for-every-game",
+      "https://thenationonlineng.net/arewa24-expands-viewership-of-hausa-culture-to-45-million/",
+      "https://blueprint.ng/bentancur-charged-by-fa-over-son-racial-slur/",
+      "https://thenationonlineng.net/afrobeats-the-global-groove-revolution/",
+      "https://www.thisdaylive.com/index.php/2024/09/13/cafs-symposium-unites-rohr-peseiro-and-eguavoen-in-abidjan/",
+      "https://www.lindaikejisblog.com/2024/9/17-year-old-st-at-bs-mother-to-d3ath-in-florida-one-year-after-klling-father-2.html",
+      "https://www.thisdaylive.com/index.php/2024/09/12/bankole-spires-5-aside-street-soccer-aimed-to-create-new-standard",
+      "https://pulse.ng/news/politics/tensions-rise-in-rivers-as-wike-seizes-control-of-nwc-from-pdp-governors/sjzzk3h",
+      "https://pulse.ng/pulse-picks/6-must-have-products-bald-heads/tf2yfye",
+      "https://blueprint.ng/brazil-need-neymar-to-win-2026-world-cup-rodrygo",
+      "https://lindaikejisblog.com/2024/9/17-year-old-st-at-bs-mother-to-d3ath-in-florida-one-year-after-klling-father-2.html",
+      "https://thenationonlineng.net/afrobeats-the-global-groove-revolution",
+      "https://www.bleacherreport.com/articles/10135182-bengals-tee-higgins-i-dont-get-why-fans-would-think-im-faking-hamstring-injury",
+      "https://thisdaylive.com/index.php/2024/09/13/cafs-symposium-unites-rohr-peseiro-and-eguavoen-in-abidjan/",
+      "http://stelladimokokorkus.com/2024/09/actress-mary-njoku-tells-religious.html",
+      "https://www.blueprint.ng/brazil-need-neymar-to-win-2026-world-cup-rodrygo/",
+      "https://pulse.ng/news/local/data-reveals-65-literacy-increase-among-25000-refugees-in-idp-camps/9b6y68n",
+      "https://www.bleacherreport.com/articles/10135131-2024-nfl-week-2-top-takeaways-for-every-game",
+      "https://thenationonlineng.net/amirrors-run-it-on-track-for-afrobeats-success",
+      "https://www.thisdaylive.com/index.php/2024/09/13/cafs-symposium-unites-rohr-peseiro-and-eguavoen-in-abidjan",
+      "https://thenationonlineng.net/arewa24-expands-viewership-of-hausa-culture-to-45-million",
+      "https://www.thenationonlineng.net/arewa24-expands-viewership-of-hausa-culture-to-45-million/",
+      "https://www.blueprint.ng/bentancur-charged-by-fa-over-son-racial-slur/",
+      "https://thisdaylive.com/index.php/2024/09/12/bankole-spires-5-aside-street-soccer-aimed-to-create-new-standard/",
+      "https://www.thenationonlineng.net/amirrors-run-it-on-track-for-afrobeats-success/",
+      "https://www.dailytrust.com/basketball-fans-commend-jtigress-exploits-in-s-africa/",
+      "https://dailytrust.com/basketball-fans-commend-jtigress-exploits-in-s-africa",
+      "https://www.thesun.ng/abuja-set-for-noc-sports-for-all-solidarity-fitness-training-seminar/",
+      "https://lindaikejisblog.com/2024/9/i-want-to-chop-your-nkwobi-catholic-priest-sings-ckays-love-nwantiti-on-the-altar-while-teaching-husbands-how-to-be-romantic-to-their-wives-video-2.html",
+      "https://blueprint.ng/bentancur-charged-by-fa-over-son-racial-slur",
+      "https://www.bleacherreport.com/articles/10135201-bills-james-cook-thrills-fantasy-football-fans-with-3-tds-in-1st-half-vs-dolphins",
+      "https://thesun.ng/abuja-set-for-noc-sports-for-all-solidarity-fitness-training-seminar",
+      "https://www.thenationonlineng.net/afrobeats-the-global-groove-revolution/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "linda ikeji",
+          "sentiment": "none"
+        },
+        {
+          "name": "mary njoku",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "boeing",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "nec",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T12:04:26.323+03:00",
+    "updated": "2024-09-13T12:04:26.323+03:00"
+  },
+  {
+    "uuid": "55f4bd54af4e14e7bd6259eec25ec73499f87b85",
+    "url": "https://radio.unr.edu.ar/2024/08/15/educacion-como-servicio-esencial-no-hacen-mas-que-disfrazar-una-vulneracion-de-derechos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Fernando Francisco Rodríguez",
+    "published": "2024-08-15T19:46:00Z",
+    "title": "Educación como servicio esencial: “No hacen más que disfrazar una vulneración de derechos” - Radio UNR",
+    "text": "El secretario de educación de CTERA Miguel Duhalde, hablo en Apuntes y Resumen, sobre la media sanción que le dio la cámara de diputados de la nación a la declaración de servicio esencial a la educación. “Tenemos una gran desazón porque estuvimos presentes en todo este tiempo en los debates que se llevaron a cabo y escuchar los argumentos para aprobar este proyecto y es lamentable a lo que se llegó”, dijo Duhalde. El dirigente sindical de maestros y maestras dice que “lo que hacen es disfrazar una vulneración de derechos agregándole adjetivos grandilocuentes para lograr la adhesión de la opinión pública”. “Día a día perdemos un derecho más”, manifestó el gremialista. De todas maneras sostiene que “seguiremos dando batalla para frenarlo en el Senado”. “Estamos viendo un toma y daca entre los distintos sectores políticos”, manifestó Miguel Duhalde. El dirigente aclaró que si en la Cámara alta logran la aprobación “CTERA irá a la justicia”. En este sentido aclara que “en el gobierno de Fernando De la Rúa se intentó hacer esto mismo y existe un pronunciamiento de inconstitucionalidad de la Corte Suprema de la Nación”, así como tratados internacionales, de los que se basa este fallo a favor de la CTERA. “Si tienen esta idea de esencialidad de la educación no estarían desfinanciando a la educación como lo hacen”, manifestó.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Education",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:01:22.959+03:00",
+    "updated": "2024-08-16T00:01:22.959+03:00"
+  },
+  {
+    "uuid": "b5ae799885d8ea9c21a767261a3d8aabbb9b9e33",
+    "url": "https://www.gosanangelo.com/story/news/nation/2024/01/19/wwii-era-bible-returned-to-new-york-veterans-family/72269065007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saleen Martin",
+    "published": "2024-01-19T13:37:00Z",
+    "title": "'May this keep you safe from harm': WWII era Bible returned to New York veteran's family",
+    "text": "Lost Bible returned to slain USAAF airman from World War II [Saleen Martin](https://www.usatoday.com/staff/7245115001/saleen-martin/) During World War II, a woman bought three brothers Bibles to protect their hearts and guide them as they set out for battle. The Bible had a metal cover on the front with the inscription “May this keep you safe from harm.\" Two of the brothers made it home, while the other, Lt. Edsel J. McKnight of the United States Army Air Forces, was shot down off the coast of France. His Bible was mailed to the family but was lost sometime after. This month, his family finally got it back. Ava Coogan's family is from Albany, New York and they found the Bible in late December while going through their late matriarch’s belongings. On Jan. 11, Coogan met Lt. McKnight’s sister-in-law and returned the Bible to her, allowing her to put it back in its rightful place, next to the ones his brothers brought back home from war. ‘I kept playing with it and flipping through the pages’ Coogan’s uncle and mother found the Bible in a stack of books. Their mother, Rosanne Vartanian, died nearly 20 years ago but was a collector and loved garage sales. “It’s just so random that my grandmother had the urge to pick that up,” she said. “She bought random things. There was no rhyme or reason to it. It was with a stack of other books.” Coogan decided to research the Bible and found out soldiers often took them to war. Some can be found in museums. “The whole premise of it was that the metal cover on the front is like a hard shield,” Coogan told USA TODAY. “They would put it in their coat pockets … like the front breast pocket … that cover would protect their heart from bullets.” Lt. McKnight’s name was also written in the Bible, said Coogan, who was drawn to the Bible for some reason. She couldn’t put it down, she recalled. “I kept playing with it and flipping through the pages,” she said. She noticed that the Bible’s front cover had a slice in it, almost like something was underneath it. She examined it more closely and found a piece of paper folded up inside. She asked her uncle for help, who carefully used a butter knife to get the slip of paper out. Once they retrieved the piece of paper from under the Bible’s cover, they saw that it was a plea for the Bible’s safe return to an address not too far away. Although there was no area code, there was a phone number listed, so the family added their own area code and called. “I was just hoping for the best,” Coogan said. “We found out that number worked.” Lieutenant was shot down off the coast of France When Coogan called the number written in the note, she spoke to a woman named Fay, Lt. McKnight’s sister-in-law. They organized a meetup on Jan. 11 to return the Bible to the family, who is from Porter Corners, part of Saratoga County in eastern New York. Lt. McKnight served in the U.S. Air Force’s 365th Fighter Group and 388th Fighter Squadron. He was flying in a Thunderbolt fighter aircraft in 1944 when he was shot down off the coast of France, [online records](https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/) show. Fay told Coogan and her family that Lt. McKnight has two brothers. All three of the brothers served in WWII. Fay’s husband, Ray, said his Bible saved his life. “He got shot during the war and it hit where the Bible was, covering his heart, and the bullet went into his arm instead,” Coogan said. Once Lt. McKnight was killed, his belongings were shipped back home to the family. His sister-in-law had all three Bibles on a bookshelf on display. One day, the family was preparing to go to church. Her nephew borrowed the Bible, but knew it was so precious, the family decided to write a note with contact information in case it were ever lost. “He didn't lose it,” Coogan said. “He brought it back after church and I guess what happened is after someone passed in their family, they had an estate sale … and it just accidentally went out with a stack of books.” It ended up in Coogan’s grandmother’s hands, she said. Returning the Bible to the McKnight family was quite the enlightening experience, Coogan said. “That was really cool because that's when we kind of got to hear their story,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)",
+      "https://www.usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://www.rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edsel j. mcknight",
+          "sentiment": "none"
+        },
+        {
+          "name": "coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosanne vartanian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "mcknight",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states army air forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "usaaf",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T16:52:29.928+02:00",
+    "updated": "2024-01-19T16:52:29.928+02:00"
+  },
+  {
+    "uuid": "a8a6c45200f73f5f94299bec36a6e618d98edc28",
+    "url": "https://www.eluniverso.com/opinion/columnistas/el-declive-global-de-la-libertad-humana-nota/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gabriela Calderón de Burgos",
+    "published": "2023-12-29T11:00:00Z",
+    "title": "El declive global de la libertad humana",
+    "text": "Este mes el Instituto Cato y el Fraser Institute publicaron la última edición del Índice de Libertad Humana, que contiene datos de 2021 para 165 jurisdicciones, abarcando así un 98,8 % de la población mundial. A diferencia del Índice de Libertad Económica del Fraser Institute, este índice es hasta ahora la medición más comprensiva de la libertad en todas sus dimensiones, no solo la económica. Con base en 86 indicadores de libertades económicas y personales, el índice provee un vistazo al estado de la libertad en las siguientes áreas: (1) Estado de derecho, (2) seguridad, (3) libertad de movimiento, (4) religiosa, (5) de asociación, (6) de expresión y acceso a la información, (7) de tener relaciones íntimas y de familia, (8) de comercio, (9) el tamaño del Estado, (10) sistema legal y derechos de propiedad y (11) las regulaciones. Las dos últimas ediciones del índice nos permiten ver el dramático deterioro de la libertad humana que resultó de la pandemia del coronavirus. Los autores indican que, en una escala de 0 al 10, donde el 10 representa más libertad, el puntaje promedio de libertad humana para 165 jurisdicciones descendió ligeramente, de 6,79 en 2020 a 6,75 en 2021. Entre 2019 y 2021, 89,8 % de la población mundial experimentó un declive en su libertad, siendo muchas más las jurisdicciones que registraron una caída en su puntaje (146) que aquellas que presentaron una mejora (16). Las regiones que experimentaron la mayor caída en su puntaje durante los dos primeros años de la pandemia son Norteamérica, Asia del Este, América Latina y el Caribe. Lo interesante es que el declive en la libertad se venía dando desde 2007, cuando el mundo llegó a su punto máximo de libertad promedio desde el año 2000. Las jurisdicciones que más caídas han experimentado desde ese año son Nicaragua, República Árabe de Siria, Hong Kong, Egipto, Turquía, Hungría, Bahrain, Venezuela, Burundi y El Salvador. La data muestra que los altos niveles de libertad están concentrados en una pequeña porción de la población mundial: “Solo el 13,8 % de la población mundial vive en el cuartil superior de los países del índice, mientras que el 37,6 % de la población mundial vive en el cuartil inferior de los países con menores niveles de libertad”. China tiene mucho que ver con esta brecha de libertad, ya que, con su enorme población, se ubica en el cuartil más bajo del índice. Dentro de la región, otro país que ha experimentado un declive marcado desde el año 2000 es Argentina. Uno de los autores, Ian Vásquez, señala: “Durante los últimos veinte años de gobierno populista-peronista, el nivel de libertad de Argentina no ha dejado de disminuir, y su clasificación ha pasado de 41 en 2000 a 77 en el informe actual. Pero fue en términos de libertad económica donde el país sufrió un colapso total, pasando del puesto 40 en 2000 al 158 en el nuevo índice”. Ecuador, en cambio, se ubica en la posición 72 -misma posición que obtuvo en el 2000-, mejorando en tan solo 0,6 su puntaje de libertad humana desde el 2000 (de 6,97 a 7,03). En los dos primeros años de la pandemia el país experimentó un declive de 0,29 (de 7,38 a 7,03). Cabe notar que durante el correísmo Ecuador llegó a ubicarse en la posición 97 en el año 2014 con un puntaje de 6,76. (O)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:08:39.772+02:00",
+    "updated": "2023-12-29T18:29:17.870+02:00"
+  },
+  {
+    "uuid": "2bb96be7f88938fc7845be2720fb6e81e9c45129",
+    "url": "https://www.devdiscourse.com/article/law-order/2929787-qatar-says-hamas-response-to-truce-proposal-is-positive",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-05-06T20:03:00Z",
+    "title": "Qatar says Hamas response to truce proposal is positive | Law-Order",
+    "text": "Qatar says Hamas response to truce proposal is positive [Reuters](/reuters-stories)| Updated: 07-05-2024 04:03 IST | Created: 07-05-2024 04:03 IST Hamas sent on Monday to mediators its response to a truce proposal which could be described as positive, a spokesperson for Qatar's foreign ministry said early on Tuesday. A Qatari delegation will head to Cairo on Tuesday to resume indirect negotiations between Israel and Hamas through the mediators, Majed Al-Ansari added in a statement. Qatar, which alongside Egypt and the United States has played a mediation role in the talks, said it hoped the negotiations would culminate in an agreement for an immediate and permanent ceasefire in Gaza. Hamas on Monday agreed to a Gaza ceasefire proposal from mediators, but Israel said the terms did not meet its demands and pressed ahead with strikes in Rafah while planning to continue negotiations. (This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.) ALSO READ [Israeli PM Netanyahu says he will fight any sanctions on army battalions](/article/law-order/2903938-israeli-pm-netanyahu-says-he-will-fight-any-sanctions-on-army-battalions) [A Palestinian baby in Gaza is born an orphan in an urgent cesarean section after an Israeli strike](/article/entertainment/2903939-a-palestinian-baby-in-gaza-is-born-an-orphan-in-an-urgent-cesarean-section-after-an-israeli-strike) [Israeli PM Netanyahu says he will fight any sanctions on army battalions](/article/law-order/2903944-israeli-pm-netanyahu-says-he-will-fight-any-sanctions-on-army-battalions) [Israeli military intelligence head resigns over Oct. 7 attack failures](/article/law-order/2904253-israeli-military-intelligence-head-resigns-over-oct-7-attack-failures) [EXPLAINER-What is the Israeli Netzah Yehuda battalion accused of?](/article/law-order/2904202-explainer-what-is-the-israeli-netzah-yehuda-battalion-accused-of)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "majed al-ansari",
+          "sentiment": "none"
+        },
+        {
+          "name": "devdiscourse",
+          "sentiment": "none"
+        },
+        {
+          "name": "netanyahu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "qatar",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "cairo",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "rafah",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-07T01:46:28.018+03:00",
+    "updated": "2024-05-07T01:46:28.018+03:00"
+  },
+  {
+    "uuid": "69d261353e96181621bf083c83c5a18f17446f2c",
+    "url": "https://www.proceso.com.mx/nacional/2024/6/13/odebrecht-lozoya-pidio-cancelar-su-proceso-por-lavado-de-dinero-330958.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diana Lastiri (noreply@proceso.com.mx)",
+    "published": "2024-06-13T18:33:00Z",
+    "title": "Odebrecht: Lozoya pidió cancelar su proceso por lavado de dinero",
+    "text": "caso Odebrecht Odebrecht: Lozoya pidió cancelar su proceso por lavado de dineroFuentes federales confirmaron que en audiencia del pasado 17 de mayo solicitó también la invalidez de los discos que contienen las declaraciones y los interrogatorios. CIUDAD DE MÉXICO (apro).-Emilio Lozoya, exdirector de Pemex, solicitó cancelar el proceso penal en su contra por lavado de dinero en el caso Odebrecht mediante la invalidación de los testimonios de los siete directivos de la constructora brasileña que los señalaron por recibir sobornos durante el sexenio de Enrique Peña Nieto. Fuentes federales confirmaron que en audiencia del pasado 17 de mayo ante el juez Gerardo Genaro Alarcón, del Centro de Justicia Penal Federal del Reclusorio Norte, Lozoya solicitó también la invalidez de los discos que contienen las declaraciones y los interrogatorios de los exidrectivos de Odebrecht que dijeron que los sobornos pagados al exdirector de Pemex tenían por objetivo que la constructora brasileña fuera favorecida con contratos de obra pública con la petrolera. Así como la invalidez los peritajes sobre esos discos y la transcripción de los testimonios. Ello, con la intención de dejar a la Fiscalía General de la República (FGR) sin las únicas pruebas contundentes que tiene en su contra para presentarlas durante el juicio por operaciones con recursos de procedencia ilícita, por lo que su defensa también solicitó sobreseer la causa penal, lo que implica la cancelación del procedimiento. Los abogados del exdirector de Pemex señalaron que esos testimonios ya fueron declarados ilegales por las autoridades judiciales de Brasil, país en el que se llevan los procesos penales contra los directivos de Odebrecht y exfuncionarios públicos que participaron en actos de corrupción, entre ellos el expresidente brasileño, Lula da Silva. Por esta razón, la defensa de Lozoya consideró que, si en esos casos ya fueron declaradas ilegales las testimoniales de personajes como Luis de Meneses Weill, exdirector de Odebrecht en México, estas no pueden ser utilizadas por las autoridades mexicanas para juzgar al exdirector de Pemex. Sin embargo, durante la diligencia el juez Alarcón García señaló que las resoluciones de la justicia brasileña no son vinculantes (de aplicación obligatoria) en el caso contra Lozoya y que, en todo caso este argumento puede ser objeto de debate y análisis durante el juicio, por lo que rechazó invalidar los testimonios de los exdirectivos de Odebrecht. En consecuencia, el pasado 10 de junio Emilio Lozoya tramitó un amparo contra la determinación del juez Alarcón García, mismo que aún no ha sido admitido a trámite por la juez Sandra Leticia Robledo Magaña, titular del Juzgado Primero de Distrito de Amparo en materia Penal en la Ciudad de México, ante quien fue radicada la demanda del exdirector de Pemex. Esta es la segunda ocasión que Lozoya intenta invalidar esos testimonios e interrogatorios pues en el año 2023 intentó tramitar un amparo contra el Tratado de Cooperación sobre Asistencia Jurídica Mutua en materia Penal entre México y Brasil, instrumento que tachó de inconstitucional. El amparo también fue enviado al juzgado de Robledo Magaña quien desechó la demanda por notoriamente improcedente, decisión que en agosto de 2023 fue confirmada por el Tercer Tribunal Colegiado en materia Penal en la Ciudad de México. Si el amparo que Lozoya tramitó contra la decisión del juez Alarcón, es admitido a trámite, será la primera vez que la validez de los testimonios de los exdirectivos de Odebrecht sea analizada por un juzgado de amparo. Confirman proceso ante el juez Alarcón Desde mayo pasado la FGR solicitó al juez Gerardo Genaro Alarcón dejar de conocer de los casos Agronitrogenados y Odebrecht contra Emilio Lozoya al considerar que el juzgador es imparcial y ha cometido irregularidades en ambos procesos. Con base en este argumento, en septiembre pasado la FGR presentó una denuncia contra el juez de control por excluir las pruebas bancarias que el ministerio público federal tenía contra Lozoya en el caso Odebrecht. Sin embargo, el juez consideró que no está impedido para conocer de los casos y dejó la resolución de este planteamiento en manos de un tribunal Colegiado de Apelación. Días antes de la audiencia del 17 de mayo, el Segundo Tribunal Colegiado de Apelación en materia Penal confirmó que el juez Alarcón López no está impedido para continuar con el trámite de las causas penales de Agronitrogenados y Odebrecht contra Lozoya.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:36:38.646+03:00",
+    "updated": "2024-06-14T05:55:52.342+03:00"
+  }
+]

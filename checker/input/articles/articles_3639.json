@@ -1,0 +1,388 @@
+[
+  {
+    "uuid": "90ca15c31703888a9685c628634cb3081b76270d",
+    "url": "https://www.stheadline.com/realtime-world/3303764/風暴吹襲英格蘭北部及蘇格蘭-屋頂被掀飛數萬戶一度停電",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電",
+    "published": "2023-12-29T06:52:00Z",
+    "title": "風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { if(isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined)){ if(debug_mode) console.log(\"Resized? IsMobile=TRUE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits_m['billborad']){ var a = adUnits_m['billborad'][i]; if(debug_mode) console.log(\"Resize MWEB billborad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"][id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"][data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits_m['LREC']){ var a = adUnits_m['LREC'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"][id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"][data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footerm-index'); if(i in adUnits_m['footer']){ var a = adUnits_m['footer'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits_m['popup']){ var a = adUnits_m['popup'][i]; if(debug_mode) console.log(\"Resize MWEB Popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits_m['1x1']){ var a = adUnits_m['1x1'][i]; if(debug_mode) console.log(\"Resize MWEB 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_leaderboard']){ var a = adUnits_m['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_flipad']){ var a = adUnits_m['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits_m['inarticlebanner']){ var a = adUnits_m['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize MWEB inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else if (!isMobile() && typeof adUnits === 'object' && adUnits.length ===undefined){ if(debug_mode) console.log(\"Resized? IsMobile=FALSE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits['billborad']){ var a = adUnits['billborad'][i]; if(debug_mode) console.log(\"Resize WEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"]').not('[data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits['LREC']){ var a = adUnits['LREC'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"]').not('[data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footer-index'); if(i in adUnits['footer']){ var a = adUnits['footer'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits['popup']){ var a = adUnits['popup'][i]; if(debug_mode) console.log(\"Resize popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits['1x1']){ var a = adUnits['1x1'][i]; if(debug_mode) console.log(\"Resize 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_leaderboard']){ var a = adUnits['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_flipad']){ var a = adUnits['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits['inarticlebanner']){ var a = adUnits['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else{ if(debug_mode) console.log(\"Do Nothing during resize\"); } if(isMobile()){ $(\"#keyimg\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg_m\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1\").length >0 ){ $(\"#img_gallery_flipad1\").attr(\"id\", \"img_gallery_flipad1-m\"); } if( $(\"#img_gallery_flipad2\").length >0 ){ $(\"#img_gallery_flipad2\").attr(\"id\", \"img_gallery_flipad2-m\"); } if( $(\"#img_gallery_flipad3\").length >0 ){ $(\"#img_gallery_flipad3\").attr(\"id\", \"img_gallery_flipad3-m\"); } }else{ if( $(\".share-box\").hide() ){ $(\".share-box\").show(); } $(\"#keyimg_m\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1-m\").length >0 ){ $(\"#img_gallery_flipad1-m\").attr(\"id\", \"img_gallery_flipad1\"); } if( $(\"#img_gallery_flipad2-m\").length >0 ){ $(\"#img_gallery_flipad2-m\").attr(\"id\", \"img_gallery_flipad2\"); } if( $(\"#img_gallery_flipad3-m\").length >0 ){ $(\"#img_gallery_flipad3-m\").attr(\"id\", \"img_gallery_flipad3\"); } } gallerynumber_ad(); }; function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 生活 飲食 好去處 旅遊 時尚購物 生活百科 ArtCan 汽車 財經 投資理財 商業創科 股市 ESG 區塊鏈 地產 樓市資訊 新盤速遞 筍盤推介 海外置業 家居裝修 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 健康 食用安全 保健養生 減肥運動 醫生教室 體育 即時體育 足球世界 波盤王 專家點睇 申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 PLUS 專欄 企業 ST+ 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 財經台 生活台 直播Live 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2023 SingTao Ltd.All rights reserved. 主頁 國際 即時國際 風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電 即時國際 更新時間：14:52 2023-12-29\n發佈時間：14:52 2023-12-29 字體大小 英格蘭北部及蘇格蘭周四遭受風暴「格里特」（Gerrit）吹襲，颳起12級陣風，還出現迷你龍捲風，就連磚造民宅的屋頂都被強風吹垮，一度有3.5萬戶斷電。另外，部份地區並有暴雪及暴雨。倫敦希斯路機場有一架美國航空班機降落時遭遇強側風，在搖搖晃晃中驚險降落，所幸人機平安。\n英國從12月27日開始受到「格里特」影響，颳強風又降下大雨，海陸交通都受到影響；英格蘭北部及蘇格蘭有數萬戶停電，曼徹斯特還有房屋屋頂被掀飛，上百棟房屋受損。\n強風增添飛機降落難度，一架客機在倫敦希斯路機場降落時左右劇烈搖晃，讓連線的記者驚呼連連。\n驚恐的畫面還出現在曼徹斯特，受到格里特風暴帶來的強風大雨侵襲，不少房屋的屋頂被掀飛，有上百棟房屋受損。\n當地居民麥克卡佛說：「說真的跟一些鄰居相比，我們很幸運；一些鄰居的房子簡直是一場災難，屋頂被吹飛、牆壁不見了，汽車被山上落下的石頭壓扁。」\n英國氣象局表示，一場雷暴席捲大曼徹斯特，並產生強烈旋轉上升氣流，形成龍捲風，持續約1分半鐘。\n在「格里特」風暴影響下，從南到北包括倫敦、布里斯托、伯明罕，與蘇格蘭、威爾斯等地都傳出災情。最大陣風超過時速130公里，強風挾帶超大雨量，導致部分航班取消，地面交通也受到淹水影響。\n蘇格蘭一些地區颳起時速近130公里的暴風，掉落的樹枝和碎片擊中公用事業線路，並切斷了數千個家庭和企業的電力。雖然已有超過3.1萬戶家庭重新連接，但仍有約1.4萬戶家庭停電。\n風暴也擾亂了蘇格蘭的火車服務，一些線路的旅行暫停進行檢查。大雪也封鎖了蘇格蘭的道路。\n在曼徹斯特，有報告指出房屋被迷你龍捲風破壞，約100處房屋被疏散。由於國內航線的空中交通管制限制，希斯路機場不得不取消18個航班，也影響了飛往歐洲目的地的航班。\n---\n《星島頭條》APP經已推出最新版本，請立即更新，瀏覽更精彩內容： https://bit.ly/3yLrgYZ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://bit.ly/3yLrgYZ",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://www.bit.ly/3yLrgYZ",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T10:44:55.657+02:00",
+    "updated": "2023-12-29T10:44:55.657+02:00"
+  },
+  {
+    "uuid": "83198b57c47ec44fc5820bf1471e677d6193f4e8",
+    "url": "https://www.naiz.eus/eu/hemeroteca/gara/editions/2024-06-07/hemeroteca_articles/la-ue-se-juega-su-esencia-y-valores-y-la-competitividad-de-su-modelo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iker BIZKARGUENAGA BILBO",
+    "published": "2024-06-06T18:44:00Z",
+    "title": "«La UE se juega su esencia y valores, y la competitividad de su modelo» | Eguneko gaiak | GARA Euskal Herriko egunkaria",
+    "text": "(Marisol RAMÍREZ | FOKU) LEJOS «La política europea se siente lejana y no se conoce que el 80% de las normas que allí se aprueban afectan a nuestro día a día. Ahí tenemos un debe»\nMIGRACIÓN «El pueblo vasco fue acogido y debemos acoger. Siempre, también, garantizando preservar los valores de la esencia europea»\nISRAEL «Lo mismo que se llegó a un acuerdo sobre cómo actuar en Ucrania, esto (posibles sanciones a Israel) requiere una política común de la UE al respecto»\nTRANSICIÓN CLIMÁTICA E INDUSTRIA «La hoja de ruta (climática) debe ser consensuada, para preservar la esencia de la industria vasca, para que sirva para fortalecerla y para abrirle las puertas al mercado europeo y a un mundo global donde tenemos que competir»\nArtikulu hau irakurtzeko erregistratu doan edo harpidetu Dagoeneko erregistratuta edo harpideduna? Saioa hasi\n5 Premium artikulu doan hilean\nZure datuak bidaliz Lege Oharra onartzen duzu\nZerbitzarian hutsegitea gertatu da, barkatu eragozpenak Klikik gabe gelditu zara Harpidetu",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:59:08.899+03:00",
+    "updated": "2024-06-07T01:59:08.899+03:00"
+  },
+  {
+    "uuid": "03f1d8cc64952ccb967c97d35d1978511c97175c",
+    "url": "https://es.marketscreener.com/cotizacion/accion/PERRIGO-COMPANY-PLC-15809538/noticia/CVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-04-04T20:37:00Z",
+    "title": "CVS Caremark cubrirá la píldora anticonceptiva de Perrigo en EE.UU. a coste cero para los patrocinadores de planes -04 de abril 2024 a las 22:37 | MarketScreener",
+    "text": "CVS Caremark, la filial de gestión de beneficios de farmacia de CVS Health Corp, añadirá la píldora anticonceptiva de Perrigo a su lista de anticonceptivos orales de servicios preventivos y la pondrá a disposición de muchos patrocinadores de planes sin coste alguno, según una actualización de farmacia del 28 de marzo. La FDA estadounidense aprobó en julio el uso sin receta del fármaco Opill de Perrigo, convirtiéndolo en el primer anticonceptivo oral del país que puede adquirirse sin receta.\nOpill fue aprobado por primera vez para su uso con receta en 1973.\nEl mes pasado, Perrigo dijo que Opill estaría disponible en los principales minoristas a un precio de 19,99 $ y 49,99 $ para un suministro de un mes y tres meses, respectivamente.\nEl jueves, el operador de la cadena de farmacias Rite Aid dijo que Opill estaría disponible en todas sus farmacias. (Reportaje de Christy Santhosh y Aishwarya Jain en Bengaluru; Edición de Vijay Kishore)\nComparte Acceder al artículo original .\nAviso legal Aviso legal\nPóngase en contacto con nosotros para cualquier solicitud de corrección\nVolver © Reuters - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://www.wa.me/?text=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fes.marketscreener.com%2Fcotizacion%2Faccion%2FPERRIGO-COMPANY-PLC-15809538%2Fnoticia%2FCVS-Caremark-cubrir-la-p-ldora-anticonceptiva-de-Perrigo-en-EE-UU-a-coste-cero-para-los-patrocin-46366562%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T00:01:48.315+03:00",
+    "updated": "2024-04-05T00:01:48.315+03:00"
+  },
+  {
+    "uuid": "13dda3d91edb4e747ce712bd8d2f4189e1acdf10",
+    "url": "https://www.kivitv.com/backroads/brundage-gets-pummeled-with-snow-creating-excitement-for-skiers-and-snowboarders",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steve Dent",
+    "published": "2024-01-11T23:34:00Z",
+    "title": "Brundage gets pummeled with snow creating excitement for skiers and snowboarders",
+    "text": "MCCALL, Idaho — Finally, mother nature has turned on the faucet and the snow is arriving at ski resorts in Idaho after a dismal December. \"Any time we can talk about snow in terms of feet instead of inches we are in a happy place,\" said April Whitney of Brundage. Ski resorts like Brundage took a little bit of a hit during the holiday season when they had to rely on snowmaking to open the mountain, but that is changing as Brundage has received 25 inches in the last week and there's more on the way ahead of the Martin Luther King Jr. holiday weekend. \"We would have loved to have this snow for the winter break, but there is nothing we can do to change the past,\" said Whitney. \"Having all this snow come in right before the three day weekend is huge these are the kind of conditions people think of when they think of Brundage Mountain.\" The snow was fantastic on Wednesday with fresh powder to be had on every turn. The snow was soft making it easy to cruise because if you have been skiing this year you know icy conditions have been the norm. \"It finally came,\" said snowboarder Guy Jeppe. \"It’s just knee deep out here, it’s a lot of fun.\" Hopefully this will start an epic turnaround this winter as people still need to be aware of early season conditions, but the snow also gives the crew at Brundage a chance to get to work to groom runs and open the rest of the mountain. \"This storm is a game changer on the mountain for sure,\" said Whitney. \"This amount of snow makes it a more productive task to prep the slopes and it is really going to pay off with more terrain being open.\" It's going to be a good weekend up at Brundage as we could feel the stoke in the middle of the week from skiers and snowboarders. \"Brundage is the most beautiful place I’ve ever seen, I love Brundage,\" said Jade Root. \"The powder is just excellent here and the snow is amazing coming down the hill,\" responded Hunter Fitzgerald.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brundage",
+          "sentiment": "negative"
+        },
+        {
+          "name": "april whitney",
+          "sentiment": "none"
+        },
+        {
+          "name": "whitney",
+          "sentiment": "none"
+        },
+        {
+          "name": "guy jeppe",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "idaho",
+          "sentiment": "none"
+        },
+        {
+          "name": "brundage mountain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-12T03:47:14.007+02:00",
+    "updated": "2024-01-12T03:47:14.007+02:00"
+  },
+  {
+    "uuid": "19a331be24c1894e72543a3b222a03c191c62cec",
+    "url": "https://www.eitb.eus/es/noticias/sociedad/detalle/9601916/el-fin-de-semana-predominara-ambiente-otonal-agradable",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EITB",
+    "published": "2024-10-11T07:28:00Z",
+    "title": "El fin de semana predominará el ambiente otoñal agradable",
+    "text": "Sociedad - Predicción El fin de semana predominará el ambiente otoñal agradable El sábado abundarán las nubes, sobre todo en la mitad sur. El domingo el tiempo será apacible. EITB Media Euskaraz irakurri: [Udazken giro atsegina izango da nagusi asteburuan](/eu/albisteak/gizartea/osoa/9601919/udazken-giro-atsegina-izango-da-nagusi-asteburuan/) El fin de semana comenzará con ambiente tranquilo. Aunque la niebla persista en algunos puntos hasta este viernes al mediodía, el resto de la jornada predominarán los claros con nubes medias y altas. Por la tarde aumentará la nubosidad y es probable que se den algunos chubascos dispersos. El viento soplará flojo de componente sur y cogerá fuerza por la tarde. Las temperaturas máximas serán ligeramente más altas. El sábado abundarán las nubes, sobre todo en la mitad sur, donde lloverá de forma intermitente durante la tarde y la noche. En el norte las precipitaciones serán más ocasionales. El viento del sur soplará con algunas rachas fuertes e la costa y en las zonas altas. Las temperaturas mínimas serán más suaves y las máximas podrán alcanzar los 25 º C en la zona cantábrica. El domingo será apacible. Predominará el ambiente soleado, aunque por la tarde llegarán algunas nubes desde el sur. El viento soplará suave de componente sur y las temperaturas diurnas subirán un poco más.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T11:27:37.259+03:00",
+    "updated": "2024-10-11T11:27:37.259+03:00"
+  },
+  {
+    "uuid": "76a242e595a86621957730274f4aeb88d3230d12",
+    "url": "https://whyy.org/articles/mt-joy-food-drive-concert-mann-center",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cory Sharber",
+    "published": "2024-09-19T15:29:00Z",
+    "title": "Mt. Joy to perform at The Mann Center on Friday - WHYY",
+    "text": "From Philly and the Pa. suburbs to South Jersey and Delaware, what would you like WHYY News to cover? Let us know!\nA homecoming show Friday for Philadelphia-based indie rockers Mt. Joy will also serve as a food drive benefiting local families.\nThe band’s appearance at The Mann Center is in support of their latest live album, “ Live at the Salt Shed ,” released in June, and on the heels of performances to packed houses across the country .\n“We have a lot of people that are now coming to these shows,” said singer and guitarist Matt Quinn. “Let’s just make our shows as fun as possible, and make sure these people are seeing one of the best bands out. [We want] to make sure they’re leaving and feeling like that was one of the best shows they saw all year.” WHYY thanks our sponsors — become a WHYY sponsor Mt. Joy will be performing at the TD Pavilion at The Mann Center on Friday. In 2023, the band played two nights at the Skyline Stage, which doubled as a food drive for Sharing Excess which led to fans donating 3,000 pounds of non-perishable items. (Photo by Alana Swaringen)\nFriday’s show will also be a homecoming for lead guitarist Sam Cooper who, along with Quinn, grew up going to shows at the Mann.\n“For us to be able to play that stage, it is literally like a sixth, seventh grade dream come true,” Cooper said. “We play enough shows that they all do kind of blend together, but there are moments — like I’m sure on Friday — I’ll be on stage and say, ‘Whoa, this is different. This is amazing.’”\nThe food drive will be in partnership with Sharing Excess , a nonprofit that launched on Drexel University’s campus in 2018 to combat food insecurity. During Mt. Joy’s two-night run at The Mann Center last year , fans donated roughly 3,000 pounds of food to Sharing Excess , creating 2,500 meals to combat food insecurity in Philadelphia. Sharing Excess accepted food donations outside of The Mann Center on Aug. 12 and 13 ahead of Mt. Joy’s two-night stint at the venue. (Credit Cory Sharber/WHYY)\n“It’s been awesome,” said Victoria Wilson, Sharing Excess’ nonprofit operations director. “There have been so many people that have reached out to get involved and we have this really easy way of letting them do that. Everybody who brings a donation will be entered in to win a chance to watch the show side stage, which is a really awesome incentive for folks.” Related Content Community Mt. Joy’s concerts at The Mann doubled as a food drive. Fans donated roughly 3,000 pounds of food “Music speaks to the soul and so does food,” said Sharing Excess Director Evan Ehlers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://open.spotify.com/album/0MmL6xJbvjPOslsgTOypQ8",
+      "http://www.youtube.com/watch?v=8r-Iv5HZH4s",
+      "https://www.mtjoyband.com/",
+      "http://www.youtube.com/watch?v=dynv4hf2014",
+      "https://www.sharingexcess.com/",
+      "http://youtube.com/watch?v=8r-Iv5HZH4s",
+      "http://youtube.com/watch?v=dynv4hf2014",
+      "https://www.open.spotify.com/album/0MmL6xJbvjPOslsgTOypQ8",
+      "https://www.mtjoyband.com",
+      "https://www.sharingexcess.com",
+      "https://mtjoyband.com/",
+      "https://sharingexcess.com/",
+      "http://www.youtube.com/watch"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alana Swaringen",
+          "sentiment": "none"
+        },
+        {
+          "name": "Matt Quinn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "WHYY",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "South Jersey",
+          "sentiment": "none"
+        },
+        {
+          "name": "Philly",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:09:30.707+03:00",
+    "updated": "2024-09-20T00:09:30.707+03:00"
+  },
+  {
+    "uuid": "f9aa1f4d17e2e37c15862e61607c4ed097a4831f",
+    "url": "https://www.nouvelles-du-monde.com/hendrick-health-inaugure-la-construction-dune-nouvelle-clinique-de-gastro-enterologie-et-dun-centre-dendoscopie-a-abilene",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nouvelles",
+    "published": "2024-11-07T21:28:00Z",
+    "title": "Hendrick Health inaugure la construction d’une nouvelle clinique de gastro-entérologie et d’un centre d’endoscopie à Abilene",
+    "text": "Hendrick Health commencera la construction d’une nouvelle clinique de gastro-entérologie et d’un centre d’endoscopie dans le nord d’Abilene. Un immeuble de bureaux situé au 1750, rue Pine sera rénové et agrandi pour accueillir la clinique de gastroentérologie Hendrick et le centre d’endoscopie Hendrick.\n« Nous sommes ravis d’aller de l’avant dans notre vision du deuxième siècle consistant à élargir l’accès et la capacité avec le lancement de notre premier projet d’agrandissement du Centenaire », a déclaré Brad Holland, président et chef de la direction de Hendrick Health. «Cette nouvelle installation fournira un espace de bureau et d’intervention aux gastro-entérologues avancés de la clinique Hendrick.»\nL’immeuble de bureaux d’origine de 13 170 pieds carrés sera transformé pour fournir un espace pour la croissance indispensable de notre équipe de gastroentérologie avancée. La superficie en pieds carrés augmentera de 11 546 pieds carrés supplémentaires avec l’ajout d’un centre d’endoscopie.\nUne fois achevée, la nouvelle installation comprendra 24 700 pieds carrés d’espace pour les deux services, chacun avec sa propre entrée et son propre hall couvert d’un auvent. Hendrick Clinic Gastroenterology déménagera son bureau actuel dans cet espace beaucoup plus grand, qui comprend 21 salles d’examen, six cabinets de médecins et des bureaux supplémentaires pour les opérations de soutien.\nPour accueillir les patients subissant des procédures ambulatoires pour examiner le tube digestif, le centre d’endoscopie Hendrick comprendra quatre salles de procédures d’endoscopie/gastro-entérologie et\n19 baies préopératoires/récupération.\n« En 2023, Hendrick Health a vu plus de patients que jamais auparavant », a déclaré Holland. « Le déplacement des procédures d’endoscopie ambulatoire vers un nouvel établissement augmentera l’efficacité opérationnelle de plusieurs manières. Le premier concerne le flux de travail des gastro-entérologues les jours où ils ont prévu des procédures endoscopiques. Le deuxième avantage est que l’ajout de quatre salles d’endoscopie libère de l’espace chirurgical dans nos autres établissements.\nLa date d’achèvement est provisoirement prévue pour l’automne 2025. Une cérémonie d’inauguration des travaux a eu lieu le mercredi 6 novembre 2024.\nRendu artistique de la gastroentérologie de la clinique Hendrick\nRendu d’artiste du centre d’endoscopie Hendrick\n#Hendrick #Health #inaugure #construction #dune #nouvelle #clinique #gastroentérologie #dun #centre #dendoscopie #Abilene",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:20:17.169+02:00",
+    "updated": "2024-11-08T01:20:17.169+02:00"
+  }
+]

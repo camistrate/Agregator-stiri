@@ -1,0 +1,186 @@
+[
+  {
+    "uuid": "1fd48707afe000413ab7231a6dc99d2c3d41652c",
+    "url": "https://www.infosecurity-magazine.com/news/ransomware-groups-cloud-services",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kevin Poireault",
+    "published": "2024-11-15T10:00:00Z",
+    "title": "Ransomware Groups Use Cloud Services For Data Exfiltration - Infosecurity Magazine",
+    "text": "Cloud ransomware attacks have become a common approach from malicious actors to compromise the IT systems of their targets, according to SentinelOne.\nAttackers are increasingly leverage cloud providers’ services to directly compromise their victims or exfiltrate data, according to a new report by SentinelLabs.\nOn the one hand, they target cloud-based storage services to compromise and extort victims. On the other, they use cloud services to exfiltrate the data they intend to ransom.\nAlex Delamotte, a threat researcher at SentinelLabs, the cybersecurity provider’s research branch, published The State of Cloud Ransomware in 2024 on November 14.\nAmazon’s Simple Storage Service and Microsoft Azure Blob Storage Targeted Cloud services provide an advantage over endpoint and web server-based services by having a smaller attack surface.\nHowever, the ubiquitous use of cloud services makes them attractive to attackers, who have developed new approaches to compromise them.\nDespite being designed to securely store, manage, and retrieve large volumes of unstructured data at scale, cloud-based storage services, such as the Amazon Web Services (AWS) Simple Storage Service (S3) or Microsoft Azure Blob Storage, have become prime targets.\nS3 buckets are one of the most referenced targets of malicious activity.\n“The attacker takes advantage of an overly permissive S3 bucket where they have write-level access, which is often the result of misconfiguration or accessed in the targeted environment through other means, such as valid credentials,” Delamotte explained.\nOne technique exploits data retention measures implemented by cloud service providers (CSPs).\nFor example, AWS Key Management Service (KMS) defines a seven-day window between a key delete request and its permanent deletion, providing users with time to detect and rectify a cryptographic ransom attack against S3 instances.\nAttackers are able to schedule a KMS key for deletion and be subject to the seven-day window before the key is permanently deleted in the victim’s environment.\nThey can leverage this in order to threaten victims with data deletion.\nAnother technique targets Amazon Elastic Block Store (EBS) volumes, which are highly available, durable block storage devices that you can attach to Amazon EC2 (Elastic Compute Cloud) instances, through a similar approach.\nTypically, the attacker creates a new KMS key, creates a snapshot of the EBS volumes, encrypts the volumes and then deletes the original, unencrypted volume.\n“This technique is still subject to the seven-day key deletion policy, which provides a window of opportunity for the customer to remediate before the key is deleted forever,” Delamotte added.\nLeveraging Cloud Services to Exfiltrate Data Additionally, several security providers have observed threat actors using cloud services to exfiltrate the data they intend to ransom.\n“In September 2024, modePUSH reported that the BianLian and Rhysida ransomware groups are now using Azure Storage Explorer to exfiltrate data from victim environments instead of historically popular tools like MEGAsync and rclone,” reads the SentinelLabs report.\n“In October 2024, Trend Micro reported that a ransomware actor mimicking the notorious LockBit ransomware group used samples that leverage Amazon’s S3 storage to exfiltrate data stolen from the targeted Windows or macOS systems.”\nSentinelOne’s Mitigation Recommendations To mitigate cloud-focused ransomware attacks, SentinelOne recommends two essential security measures:\nUse a cloud security posture management (CSPM) solution to discover and assess cloud environments and alert of issues such as misconfiguration and overly permissive storage buckets Always enforce good identity management practices, such as requiring multifactor authentication (MFA) on all admin accounts and deploy runtime protection against all cloud workloads and resources Read now: Top 10 Infrastructure Elements of Ransomware-as-a-Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+      "https://x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+      "https://www.infosecurityeurope.com/en-gb/blog/threat-vectors/top-10-infrastructure-ransomware-raas.html",
+      "https://www.x.com/intent/tweet?url=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://x.com/intent/tweet",
+      "https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.infosecurity-magazine.com%2fnews%2fransomware-groups-cloud-services%2f",
+      "https://infosecurityeurope.com/en-gb/blog/threat-vectors/top-10-infrastructure-ransomware-raas.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Alex Delamotte",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "1fd48707afe000413ab7231a6dc99d2c3d41652c",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T14:05:32.564+02:00",
+    "updated": "2024-11-15T14:05:32.564+02:00"
+  },
+  {
+    "uuid": "aa1ff87bce2fefba5a2b75aed096ad12115e4397",
+    "url": "https://eburg.mk.ru/incident/2025/07/10/lesnoy-pozhar-potushili-v-kurganskoy-oblasti.html",
+    "ord_in_thread": 0,
+    "author": "ÐÐ²ÑÐ¾ÑÑ Ð¯Ð½Ð° Ð",
+    "published": "2025-07-10T15:45:00Z",
+    "title": "Лесной пожар потушили в Курганской области - МК Екатеринбург",
+    "text": "За последние сутки в Курганской области было потушено три пожара, один из них – лесной. Об этом сообщает пресс-служба ГУ МЧС России по региону.\nТак, в селе Пуктыш Щучанского округа загорелась баня. С огнем боролись 5 сотрудников МЧС и 2 единицы техники. По основной версии пожарного дознавателя, огонь вспыхнул из-за нарушения правил пожарной безопасности при эксплуатации печей.\nТакже за сутки огнеборцы потушили 1 возгорание мусора и лесной пожар.\nРанее сообщалось, что в селе Пепелино Куртамышского района вспыхнул жилой дом и надворные постройки на улице Центральной. Во время тушения пожарные обнаружили тело хозяйки дома 1940 года рождения.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "topics": [
+      "Environment->natural resources",
+      "Environment->environmental clean-up",
+      "Disaster and Accident->fire",
+      "Health->health organisation",
+      "Health->emergency care",
+      "Health->public health"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ru",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T20:13:12.615+03:00",
+    "updated": "2025-07-11T18:04:26.000+00:00"
+  },
+  {
+    "uuid": "e6edbdfee06efdd54589d5150cba17ad776c4aa8",
+    "url": "https://thedailyguardian.com/significant-reduction-in-violent-incidents-in-northeast-during-pm-modis-tenure-amit-shah",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TDG Network",
+    "published": "2024-01-19T17:40:00Z",
+    "title": "Significant reduction in violent incidents in Northeast during PM Modi’s tenure: Amit Shah - The Daily Guardian",
+    "text": "Union Home Minister and Minister of Cooperation Amit Shah on Friday said there was a 73 per cent reduction in violent incidents in the Northeast during Prime Minister Narendra Modi’s tenure. The Minister made the statement while addressing the 71st Plenary Session of the North Eastern Council in Meghalaya’s capital Shillong, pointing that “from 2004 to 2014, a total of 11,121 violent incidents took place in the Northeast.” “It declined by 73 per cent to 3,114 from 2014 to 2023,” Shah said. Deaths among security forces dropped by 71 per cent from 458 to 132, while civilian deaths declined by 86 per cent, the Minister mentioned. “The incidents of insurgency have come down because more than 8,900 cadres of militant groups have surrendered in the last five years and have joined the mainstream, giving a message to the entire country that peace and prosperity are interconnected and without them, the states cannot develop.” Shah added that to bring peace and stability to the Northeast, the Modi government has signed nine agreements and through these, many pending issues related to law and order have been successfully resolved. Except for some parts of Assam and Manipur, Shah also said 75 per cent of the areas covered under the Armed Forces Special Powers Act (AFSPA) in 2018 have been removed from it. In his address, Amit Shah said that the last 10 years under the leadership of Prime Minister Modi have been the most significant for the development of the Northeast in the 75 years since independence. He said that in these 10 years under the leadership of Modi ji, not only the distance from Northeast to Delhi and the rest of India has reduced due to the creation of infrastructure, but the difference of hearts has also reduced. He said that the Northeast, which was struggling with various ethnic, linguistic, and extremist groups related problems, has also reached the beginning of a fresh and durable era of peace in these 10 years. Shah said if these 10 years for the Northeast are compared with the 75 years after the country’s independence, then this decade will definitely be considered the Golden period of the Northeast. He said that we have always considered the Northeast as an important part of India. During the time of Atal ji, by giving it priority, a separate ministry was created for the Northeast and today under the leadership of Prime Minister Modi, the three mantras of Act East, Act Fast and Act First are being implemented. Along with this, impetus is being given to the Northeast by giving priority to it in all the ministries of the Government of India. The Union Home Minister said that in the 50 years of its establishment, the North Eastern Council (NEC) has increased the pace of development of the region by providing a policy-related platform to all the states and simplifying the solutions to their problems. He said that in these 50 years, more than 12,000 kilometres of roads have been constructed in this region, 700 MW power plants have been established and many institutes of national excellence have also been established under the guidance of NEC. Shah added that under the leadership of Modi Ji, the role and scope of NEC have been increased under the Act East Policy. He said that in the last few years, the Modi government has achieved significant success in solving the problems of law and order, insurgency and borders in this region. Along with this, work has also been done to promote the use of technology in administration by using the North-Eastern Space Applications Centre (NESAC). He said that the language, culture, food, attire and natural beauty of the Northeast will give a great boost to this region in global tourism. Shah said that when Prime Modi came to the Plenary session of NEC in 2016, it was for the first time after 40 years that the Prime Minister of the country was presiding over this meeting. He added that after this, Modi ji visited the Northeast more than 50 times in the last 10 years and made the priorities of the government very clear to the entire country. He said that Union Ministers have also visited the Northeast more than 500 times. The Central Government, with the ‘Whole of Government Approach’, has not only worked to enrich the pride, languages, culture, literature, music, costumes and food of the Northeast but has also worked towards giving entire India an opportunity to get acquainted with these features. The Union Home Minister said that the Modi government has also taken many steps in the last 10 years to establish peace and stability in the Northeast. He said that the NEC Year Book – 2024 has also been released today. Shah urged all the states to control the Gross Fiscal Deficit and said that Manipur, Assam, Nagaland and Tripura have made commendable efforts in this direction. He said that we will have to give thrust to create a flood-free and drug-free Northeast and strengthen water management by using NESAC. By creating big lakes to absorb rainwater, we can attract tourism and can also strengthen the drinking water and irrigation system. Shah said that to take our criminal justice system into the 21st century, three new laws have been brought under the leadership of Modi ji and after their notification, within three years our criminal justice system will become the most modern and scientific criminal justice system in the whole world.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "amit shah",
+          "sentiment": "negative"
+        },
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "narendra modi",
+          "sentiment": "none"
+        },
+        {
+          "name": "shah",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "north eastern council",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "meghalaya",
+          "sentiment": "none"
+        },
+        {
+          "name": "northeast",
+          "sentiment": "none"
+        },
+        {
+          "name": "shillong",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T00:52:52.959+02:00",
+    "updated": "2024-01-20T00:52:52.959+02:00"
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "uuid": "35790d682b5cfb2ff0dea00f14a41301fcfe85c8",
+    "url": "https://www.infoworld.com/article/3715244/net-maui-community-toolkit-adds-touchbehavior-support.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Krill",
+    "published": "2024-04-25T17:36:00Z",
+    "title": ".NET MAUI Community Toolkit adds TouchBehavior support | InfoWorld",
+    "text": "Microsoft has introduced version 8 of the .NET MAUI (Multi-platform App UI) Community Toolkit, featuring TouchBehavior, for interacting with visual elements in an application based on touch, mouse clicks, and hover events. The update was introduced April 24 . Instructions for getting started with the toolkit are available on GitHub . With the new release, the TouchBehavior implementation enables customization of different visual properties on the VisualElement it is attached to, such as the background color, opacity, scale, and rotation. TouchBehavior also makes it possible to implement long-press touch gestures and enables invoking of code whenever a user presses any visual element in an app. TouchBehavior formerly was known as TouchEffect in the Xamarin Community Toolkit in the Xamarin.Forms app. The upgraded toolkit also lets users color the Android navigation bar so an app will feel more immersive; the theme is integrated with whatever is seen on the screen. Additionally, users can control whether the navigation bar shows its light content or dark content, pertaining to icons in a light or dark color. This is intended to ensure that the navigation bar matches an app’s style. The .NET MAUI Community Tookit serves as a community-created library with .NET MAUI extensions, advanced UI/UX controls, and behaviors intended to help developers. .NET MAUI Community Toolkit 8 also comes with some breaking changes: - For TouchBehavior, the Community Tookit builders discovered that the binding context was not applied correctly. This applied to all other behaviors in the toolkit and a fix was applied, technically as a breaking change. - The implementation of the Snackbar timed alert on Windows was a complete rewrite. Some crashes have been fixed; the Windows app is no longer launching another instance of a Windows app when interacting with a Toast or Snackbar. For an upcoming edition of the toolkit, plans call for supporting CameraView , which now is being ported from Xamarin to .NET MAUI. This capability will be released as a separate package. Also for the future, improvements are being made to MediaElement to bring deeper integration with the operating system like playing media from the lock screen and showing relevant metadata.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://github.com/CommunityToolkit/Maui).",
+      "https://github.com/CommunityToolkit/Maui/pull/1758),",
+      "https://github.com/jfversluis/MauiToolkitSnackbarToastSample)timed",
+      "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement?tabs=android)",
+      "https://devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/).",
+      "https://www.devblogs.microsoft.com/dotnet/dotnet-maui-community-toolkit-touchbehavior/).",
+      "https://www.github.com/jfversluis/MauiToolkitSnackbarToastSample)timed",
+      "https://www.github.com/CommunityToolkit/Maui).",
+      "https://www.learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement?tabs=android)",
+      "https://www.github.com/CommunityToolkit/Maui/pull/1758),",
+      "https://learn.microsoft.com/en-us/dotnet/communitytoolkit/maui/views/mediaelement"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "touchbehavior",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maui community toolkit",
+          "sentiment": "negative"
+        },
+        {
+          "name": "infoworld microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "xamarin community toolkit",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:11:26.986+03:00",
+    "updated": "2024-04-26T01:10:31.180+03:00"
+  },
+  {
+    "uuid": "fc522828ba8f854670f1a0d39d5826af02b3c495",
+    "url": "https://new.cbssports.com/fantasy/basketball/news/knicks-mitchell-robinson-will-play-wednesday-488851",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RotoWire Staff",
+    "published": "2025-03-19T22:37:00Z",
+    "title": "Knicks' Mitchell Robinson: Will play Wednesday - CBSSports.com",
+    "text": "Now Playing Share Share Video Link copied! Robinson (ankle) is available for Wednesday's game against the Spurs, James L. Edwards III of The Athletic reports.\nRobinson made his 2024-25 regular-season debut Feb. 28 after recovering from left ankle surgery during the offseason. The Knicks are managing his injury by holding him out of one leg of back-to-back sets, which means he'll likely be held out of Thursday's game against Charlotte. Robinson will play Wednesday and will be limited to approximately 24 minutes of playing time, per Edwards.\nMore News Knicks' Mitchell Robinson: Questionable to face San Antonio 1D ago • by RotoWire Staff Knicks' Mitchell Robinson: Best outing in near double-double 2D ago • by RotoWire Staff Knicks' Mitchell Robinson: Records four steals 8D ago • by RotoWire Staff Knicks' Mitchell Robinson: Off injury report 10D ago • by RotoWire Staff Knicks' Mitchell Robinson: Ruled out Friday 12D ago • by RotoWire Staff Knicks' Mitchell Robinson: Available to play Thursday 13D ago • by RotoWire Staff Our Latest Fantasy Basketball Stories Iron men awards for 2025 Dan Bruno • 5 min read Week 22 start/sits Mike Barner • 4 min read Week 22 waiver wire Alex Rikleen • 6 min read Why the NBA's oldest stars thrive Dan Bruno • 7 min read Week 21 Start/Sits Adam King • 6 min read Week 21 waiver wire Alex Rikleen • 10 min read",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->basketball",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?text=highlights-bucks-at-warriors-318&url=https://www.cbssports.com/watch/general/video/highlights-bucks-at-warriors-318",
+      "https://www.facebook.com/dialog/share?app_id=297742330311988&display=popup&href=",
+      "https://sports.cbsimg.net/fly/images/team-logos/350.svg",
+      "https://www.facebook.com/dialog/share?app_id=297742330311988&display=popup&href=https://www.cbssports.com/watch/general/video/highlights-bucks-at-warriors-318",
+      "https://twitter.com/intent/tweet",
+      "https://www.sports.cbsimg.net/fly/images/team-logos/350.svg",
+      "https://www.facebook.com/dialog/share",
+      "https://facebook.com/dialog/share?app_id=297742330311988&display=popup&href=https://cbssports.com/watch/general/video/highlights-bucks-at-warriors-318",
+      "https://facebook.com/dialog/share?app_id=297742330311988&display=popup&href=",
+      "https://twitter.com/intent/tweet?text=highlights-bucks-at-warriors-318&url=https://cbssports.com/watch/general/video/highlights-bucks-at-warriors-318",
+      "https://twitter.com/intent/tweet",
+      "https://www.twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:02:57.663+02:00",
+    "updated": "2025-03-20T01:02:57.663+02:00"
+  },
+  {
+    "uuid": "75bd57a1ff9e45f3a65438cdea0393afc462c295",
+    "url": "https://www.9news.com/article/news/local/church-shelter-migrants-cold/73-c5f1e287-cb82-4c78-8682-25b6556adc69",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Janelle Finch",
+    "published": "2024-01-11T22:24:00Z",
+    "title": "Church provides shelter to migrants in extreme cold | 9news.com",
+    "text": "DENVER — Leadership at the Denver Friends Church said with an extreme-cold front set to settle on Denver, they wanted to do something to support those in need.\nSenior pastor Keith Reeser made it his mission to help migrants who are living on streets and need a warm place to spend the night.\n\"I could have never imagined this is how our gym would look on a Thursday morning, it doesn’t look like this, if you can imagine, but for today, it looks like this because we are trying to serve, we are trying to be available,\" Reeser said.\nDenver Friends Church converted its gym into a temporary, overnight warming shelter. Reeser said the city approved the space to accommodate 29 people with beds, hot water and most importantly, a place out of the cold.\n\"It’s the potential for death, the amount of extreme cold we’re about to experience and they know it’s cold, but they don’t know it’s going to get colder and I wasn’t even able to express that through my translation app,\" Reeser explained. \"It’s going to get worse tonight, tomorrow and the next day.\"\nCredit: 9News Wednesday night was the shelter's first night of operation. Reeser said everything was ready, from laid-out mats to a full staff of volunteers. The only thing missing: migrants.\n\"We kind of ran into this, 'What in the world?' 'What just happened?,'\" Reeser said.\nReeser said in the first, few hours of opening, no one came to the church. But he didn't wait — he knew there were people freezing on the streets of Denver and went out to find them.\nHe said a contact of his shared where a group of migrants were living out of their tents.\n\"A ping on a map is what was sent to me and I was able to get to them,\" Reeser said. \" They were living under a bridge. It was about 150 yards from the ping they had sent me. It’s an overwhelming experience I never would have imagined I would be walking under a bridge to engage with people.\"\nHe and his volunteers brought about 13 migrants from under Tower Road in Green Valley Ranch back to the church.\n\"The joy that was on their faces was beautiful,\" Reeser said.\nThe migrants were able to stay the night and get transportation back to their tents in the morning. Reeser said car service isn't going to be a daily offering, but as temperatures remain below freezing, the shelter will be open.\nCredit: 9News Reeser expects the first group of migrants will return for future nights in the shelter, but hopes word continues to spread that there are beds available.\n\"If you know someone, go to them and say 'Do you know how cold it’s going to get?' and 'Do you know where shelters are?' That’s really the main message that has to come out at this point,\" Reeser said.\nThe shelter is open from 8 p.m. to 8 a.m., as resources and volunteer staffing allow.\nYou can donate by clicking here and submitting donations under the 'Venezuelan Migrant Ministry' category. Donations sent in this category, Reeser said, will solely be used for the shelter and as an aid fund to help migrants. If you would like to volunteer, click here .\nReeser said at \"bare bones,\" the church can operate as a warming shelter, but with volunteers, people can stay overnight and get support.\n\"These are human beings that need a chance,\" Reeser said. \"And they need to be shown love and be dignified and have a life that’s worth pursuing. A life that is valued.\"\nCredit: 9News SUGGESTED VIDEOS : Latest from 9NEWS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.youtube.com/playlist?list=PLlV2Iuo79CuoOvxbeh8Ph2YyHE9Y-2PWx",
+      "https://www.youtube.com/embed/videoseries?list=PLlV2Iuo79CuoOvxbeh8Ph2YyHE9Y-2PWx",
+      "https://denverfriendschurch.churchcenter.com/giving",
+      "https://www.denverfriendschurch.com/",
+      "https://www.signupgenius.com/go/409094CA8AE29A0FE3-47070150-dfcemergency#/",
+      "https://youtube.com/embed/videoseries?list=PLlV2Iuo79CuoOvxbeh8Ph2YyHE9Y-2PWx",
+      "https://www.youtube.com/embed/videoseries",
+      "https://www.signupgenius.com/go/409094CA8AE29A0FE3-47070150-dfcemergency#",
+      "https://www.youtube.com/playlist",
+      "https://denverfriendschurch.com/",
+      "https://youtube.com/playlist?list=PLlV2Iuo79CuoOvxbeh8Ph2YyHE9Y-2PWx",
+      "https://www.denverfriendschurch.com",
+      "https://www.denverfriendschurch.churchcenter.com/giving",
+      "https://signupgenius.com/go/409094CA8AE29A0FE3-47070150-dfcemergency#/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "reeser",
+          "sentiment": "none"
+        },
+        {
+          "name": "keith reeser",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "denver friends church",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-12T04:01:01.199+02:00",
+    "updated": "2024-01-12T04:01:01.199+02:00"
+  },
+  {
+    "uuid": "c13112c71e5f7bcc51f2aac2d31bc0b81c495eda",
+    "url": "https://www.abc.net.au/news/2024-09-20/gp-shortage-regional-victoria-australia-avoca-medicare-tristar/104370390",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alexander Darling",
+    "published": "2024-09-19T00:00:00Z",
+    "title": "Avoca GP saves town from doctor drought amid 60 general practices closing across Australia - ABC News",
+    "text": "Avoca GP saves town from doctor drought amid 60 general practices closing across Australia Michael Veal never planned to be the only doctor in the regional Victorian community of Avoca. It was winter 2023, and the Ballarat and Creswick-based GP was watching his son playing at the town's football ground when there was an injury. He offered aid, and then discovered it had been more than a year since the community's GP clinic had a doctor. \"We had phone calls a year earlier when Tristar closed, from desperate people looking for medications and prescriptions and their medical records had been lost overnight,\" Dr Veal said. \"When I drove around the town and found the building, I thought it was less of an opportunity, more of a duty to do something about it. \"I grew up in country Victoria, my children are growing up in this community.\" Tristar Medical Group was one of Australia's largest medical operators before it [went into administration on May 24, 2022](/news/2022-08-09/tristar-clnics-sold-to-family-doctor/101313886). The closure affected 29 practices nationwide and, while 12 were bought, Avoca's wasn't, leaving the town without local consultations for 16 months. It's been a year since Dr Veal set up in town with a fellow doctor, who departed last December. But the relief may only be temporary for Avoca, as Dr Veal isn't planning to stay long-term. \"I've got a mob of children who are all going to get to the end of high school in four or five years, and then … I can't guarantee I'd continue to be in any one place.\" And while [this has happened to Avoca before](/news/2021-02-22/avoca-facing-another-gp-shortage-years-after-ensuring-services/13172084), the next doctor drought may be permanent. How much a local doctor means Rebecca Wardlaw was one of Dr Veal's first patients in Avoca. A local of 30 years, she has dealt with appendicitis, the removal of her gall bladder, and chronic ear infections. She said it was never harder to manage her health than when there was no local doctor. \"I was really confused and worried, it was really hard because you didn't have someone you could just talk to,\" she said. \"It's an hour's trip to Ballarat, plus the time there waiting. You need half a day to go to Ballarat doctors, which is just hard for anyone.\" The loss of Tristar led to Avoca locals trying to get into doctors in Maryborough, 20 minutes east. When that town's GPs became booked up, they went to emergency departments for their non-urgent conditions. Some Avoca residents are still seeing doctors out of town, after switching over following Tristar's departure. And Ms Wardlaw said she understood if some were reluctant to switch back to a local GP. \"We need confidence they're going to stay,\" she said. The absence of GPs from town is also still evident in Dr Veal's day-to-day work. \"Some people are starting medical care again after a hiatus of three years,\" he said. \"Because of that, I've [diagnosed] a large number of new cancers and diabetes, chronic conditions that have been out of control, severe eczema, severe hypertension. \"So there are very obvious effects when you look at the disease burden on the community.\" A profession under siege Dr Veal is practice manager, which means he is a small business owner as well as a GP, and has been hit with all the same cost increases other businesses have experienced in recent years. \"Doctors earn a good living … [but] the businesses are actually all going bankrupt,\" he said. \"You've seen that in multiple situations because the business entity only keeps a very small percentage of those doctors' fees.\" Last November the Commonwealth tripled the bulk-billing incentive for some people. This led to a 4.7 per cent increase in bulk-billing in regional Victoria, and 2.1 per cent nationwide. But Dr Veal said it had a negligible impact on his business. \"Inflation is running at six or seven per cent and Medicare was increased by three per cent this year, so even again this year it's gone backwards,\" he said. \"There have been significant pay and super increases for reception and nursing staff, but there has been no corresponding increase in the amount of Medicare funding flowing into those businesses.\" Dr Veal charges a $40 out-of-pocket fee for each appointment beyond what he receives from Medicare. Ms Wardlaw said she was happy to pay to guarantee a same-day appointment. \"A lot of the time if you ring and make an appointment elsewhere you've got to wait three weeks. How do I know I'm going to be sick in three weeks' time?\" she said. A wider problem Data from by the Royal Australian College of General Practitioners (RACGP) suggests at least 55 practices closed nationwide in the 12 months to September 2023, a period that began after the Tristar closures. There is no national database tracking practice closures, but the college has identified at least six other practices that have closed in the past year. Financial pressures and GP vacancies have been common reasons given for these closures. At the same time, the RACGP's latest Health of the Nation report suggests 29 per cent of GPs plan to retire from practising within 5 years, up from 18 per cent in 2021. There have also been fewer trainees going into general practice in recent years. \"People have said we are approaching a cliff and that there is a crisis in general practice,\" Dr Veal said. \"My argument is we've long since driven off a cliff, and I don't think it's easily repairable.\" Green shoots Dan Halliday, president of the Australian College of Rural and Remote Medicine, is himself a GP. He said there was reason for optimism despite much of Dr Veal's experience being replicated nationwide. \"We are actually really encouraged to see an increasing number of rural generalists — registrars — coming through,\" he said. \"We've had an almost 43 per cent increase in our training registrar numbers in the past 12 months.\" The Victorian government is currently trialling offering [15 Single Employer Model positions](https://www.health.vic.gov.au/news/a-single-employer-model-trial-for-victoria) at health services across Gippsland, western Victoria, and the Mallee for doctors undertaking training to be employed by a single health service while undertaking their primary care placements. Dr Halliday said while this was only happening in larger regional towns, small-town leaders could try to develop [similar initiatives](/news/2024-04-11/rural-medical-schools-placements-help-address-doctor-shortage/103645590). \"The opportunity is there, but it needs to be taken advantage of,\" he said.Loading... Dr Halliday said the loss of GPs was in nobody's interests, given their critical position in the health ecosystem. \"A lot of the major hospitals providing higher levels of care are located in our major cities,\" he said. \"If there is a higher burden of disease and care required in rural communities, that has a flow-on effect, which then in turn impacts the provision of access to care [elsewhere]. \"The better the care in the bush, the better the care in our major cities.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.health.vic.gov.au/news/a-single-employer-model-trial-for-victoria",
+      "https://health.vic.gov.au/news/a-single-employer-model-trial-for-victoria"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Tristar Medical Group",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Avoca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Creswick",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:10:59.203+03:00",
+    "updated": "2024-09-20T06:18:49.260+03:00"
+  },
+  {
+    "uuid": "28d095608356dfe7b365b9532d83d90fc5074e8a",
+    "url": "https://www.cope.es/emisoras/illes-balears/baleares/mallorca/noticias/sati-febt-alcanzan-preacuerdo-desconvoca-huelga-tib-mejora-condiciones-laborales-20250801_3193990.html",
+    "ord_in_thread": 0,
+    "author": "Juan Carlos Taura",
+    "published": "2025-08-01T09:17:00Z",
+    "title": "SATI y FEBT alcanzan preacuerdo que desconvoca la huelga del TIB y mejora las condiciones laborales",
+    "text": "SATI y FEBT alcanzan preacuerdo que desconvoca la huelga del TIB y mejora las condiciones laborales\nTanto el sindicato SATI como la FEBT han logrado avanzar en la resolución de un conflicto que amenazaba con paralizar el transporte público en Baleares\nMallorca - Publicado el\n3 min lectura\nEl sindicato SATI y la Federación Empresarial Balear de Transportes (FEBT) han alcanzado un preacuerdo para desconvocar la huelga indefinida que afectaba al transporte de viajeros en Baleares. El acuerdo incluye un aumento salarial del 8,5% más las subidas del IPC durante los próximos cuatro años, así como diversas mejoras en cuanto a vacaciones, descansos y jornada laboral para los trabajadores del TIB.\nUn acuerdo histórico tras intensas negociaciones\nAmbas partes han llegado a este entendimiento tras intensas negociaciones que han involucrado tanto a la organización sindical como a las ocho empresas concesionarias del transporte de viajeros en las islas. La FEBT ha expresado en un comunicado su satisfacción por el acuerdo alcanzado, destacando que refleja las principales demandas laborales y salariales planteadas por el sindicato.\nEl SATI, por su parte, ha manifestado su satisfacción con el preacuerdo, asegurando que este refleja los intereses de los trabajadores y satisface muchas de las reclamaciones planteadas en el conflicto. Debido a este avance, el sindicato ha decidido suspender temporalmente la huelga indefinida, a la espera de la decisión final de los trabajadores, quienes serán convocados a asambleas para ratificar el acuerdo.\nAsambleas para la ratificación del preacuerdo\nEste viernes, el SATI celebrará varias asambleas a las 09:30 y a las 17:30 horas en la sede de la Conselleria de Trabajo, Función Pública y Diálogo Social, situada en el polígono Son Castelló. Además, se llevarán a cabo asambleas en las islas de Menorca e Ibiza para trasladar el preacuerdo a los trabajadores y proceder con su ratificación.\nEl sindicato ha agradecido el apoyo incondicional de los trabajadores durante todo el proceso de negociación y ha expresado su reconocimiento a la consellera de Trabajo, Catalina Cabrer, por su mediación en el conflicto.\nDetalles clave del acuerdo\nEl acuerdo, que afectará a los trabajadores del transporte público en Baleares, contempla los siguientes puntos clave:\nAumento salarial: Un 5% en 2024, un 3% en 2026, un 0,5% más el IPC en 2027 y un incremento equivalente al IPC en 2028.\nMejoras en las vacaciones: Los días de vacaciones serán contabilizados como días hábiles, en lugar de días naturales, como ocurría hasta ahora. Además, se mejora el número de días de descanso.\nMejoras laborales: Se introducen ajustes en la jornada laboral y los periodos de descanso, buscando optimizar las condiciones de trabajo para los empleados.\nImpacto económico y responsabilidad social\nLa Agrupación Empresarial del Transporte Regular de Viajeros de Baleares (Aetrb), que agrupa a las empresas afectadas por el acuerdo, ha resaltado que, aunque las mejoras laborales suponen un incremento en los costes operativos, este acuerdo se adopta por \"responsabilidad social\" y en beneficio de los usuarios del transporte público.\nDesde la FEBT, la presidenta Mar Baleta y la gerente Petra Mut han explicado que, aunque el acuerdo afectará la rentabilidad de las empresas, el principal objetivo es mantener un equilibrio que permita seguir ofreciendo un servicio de calidad a los usuarios, a la vez que se mejoran las condiciones laborales de los trabajadores del sector.\nAVANCE\nCon este preacuerdo, tanto el sindicato SATI como la FEBT han logrado avanzar en la resolución de un conflicto que amenazaba con paralizar el transporte público en Baleares. Si el acuerdo es ratificado por los trabajadores en las próximas asambleas, se podrá evitar la huelga indefinida y mejorar de manera significativa las condiciones laborales de los empleados del TIB.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Politics"
+    ],
+    "topics": [
+      "Labor->labour relations",
+      "Labor->employee",
+      "Labor->collective agreements",
+      "Politics->civil rights",
+      "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Baleares\nMallorca",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Federación Empresarial Balear de Transportes",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "FEBT",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-09T00:46:28.029+03:00",
+    "updated": "2025-08-09T00:58:13.000+03:00"
+  },
+  {
+    "uuid": "a1343363d38b82f497422e6d7514347b8b900f69",
+    "url": "https://www.diariojaen.es/internacional/que-se-sabe-del-nuevo-virus-respiratorio-que-se-expande-en-china-DL10395600",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "redaccion",
+    "published": "2025-01-09T16:16:00Z",
+    "title": "¿Qué se sabe del nuevo virus respiratorio que se expande en China?",
+    "text": "En cuanto a las infecciones respiratorias en la Unión Europea y el Espacio Económico Europeo, el ECDC ha subrayado que su sistema de vigilancia ha detectado un aumento de la actividad de los virus que causan estas enfermedades, en particular de la gripe, pero que no muestra un patrón inusual o inesperado para esta época del año. A su vez, ha recordado las recomendaciones que ya comunicó a los Estados miembro junto a su última actualización epidemiológica sobre las infecciones respiratorias agudas, entre las que resalta que los países pongan en marcha estrategias de prevención y control ante el previsible aumento de casos de virus respiratorios.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->communicable disease",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:32:47.009+02:00",
+    "updated": "2025-01-10T00:32:47.009+02:00"
+  },
+  {
+    "uuid": "ce62d9c9cc4fc22fad9d89f0df2234f7fe16f7e5",
+    "url": "https://www.laprovincia.es/sociedad/2023/12/28/loteria-nacional-da-campanazo-jueves-96346973.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La pluma de la Fortuna",
+    "published": "2023-12-28T20:49:00Z",
+    "title": "La Lotería Nacional da el campanazo este jueves en Canarias: el primer premio cae en tres islas",
+    "text": "La fortuna sigue su idilio con\nCanarias. La Lotería Nacional no abandona las Islas después de la lluvia de millones que cayeron el pasado viernes con el Sorteo Extraordinario de Navidad. En esta ocasión el primer premio de la Lotería del Jueves se ha paseado por Canarias dejando miles de euros en tres islas, con 30.000 euros por décimo premiado. No se trata de una inocentada de este 28 de noviembre, día de los Santos Inocentes. Al menos, han caído 120.000 euros por cuatro décimos vendidos.\nGran Canaria, Fuerteventura y Tenerife han resultado agraciadas con el 03896, cuyos boletos han sido sellados en esas islas. En concreto, al menos uno de los décimos ha sido registrado en el Despacho Receptor Nº 43.390, situado en la calle Juan Rejón, 95, en Las Palmas de Gran Canaria.\nLa suerte también ha viajado hasta la capital de Fuerteventura,\nPuerto del Rosario. El Despacho Receptor 44.945 es el que ha dado hoy el primer premio de la Lotería del Jueves. Está situado en la calle Antonio Jorge, 8.\nPor partida doble en Tenerife\nPor último, en Tenerife, en Santa Cruz de Tenerife, el primer premio ha caído en Santa Cruz de Tenerife, en el Despacho Receptor 67.880 (Pasaje Tinizara Bloque 2, Local 26) y en\nSan Cristóbal de La Laguna, en el Despacho Receptor 67.265 (calle Doctor Olivera, 7).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.elperiodico.com/es/loteria-navidad/",
+      "https://www.elperiodico.com/es/loteria-navidad",
+      "https://elperiodico.com/es/loteria-navidad/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:32:08.551+02:00",
+    "updated": "2023-12-29T00:32:08.551+02:00"
+  },
+  {
+    "uuid": "13e4a60738c8435dae800427a2e3fc59fda6242d",
+    "url": "https://news.az/news/australia-refutes-elon-musk-s-allegations-about-internet-control",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mehman",
+    "published": "2024-11-22T08:45:00Z",
+    "title": "Australia refutes Elon Musk's allegations about internet control",
+    "text": "Australia refutes Elon Musk's allegations about internet control\nElon Musk, owner of X, speaks at the Milken Institute's Global Conference at the Beverly Hilton Hotel on May 6, 2024. Photo: Apu Gomes/Getty Images\nAn Australian Cabinet minister rejected Elon Musk’s claim on Friday that the government was attempting to control all Australians' access to the internet through new legislation aimed at banning young children from social media.\nTreasurer Jim Chalmers said Musk’s criticism was “unsurprising” after the government introduced to Parliament on Thursday legislation that would fine platforms including X up to 150 million Australian dollars ($133 million) if they allow children under age 16 to hold social media accounts,[News.Az](https://news.az)reports, citing\n[foreign media.](https://finance.yahoo.com/news/australia-rejects-elon-musks-claim-082627421.html)\n“The idea that Elon Musk is not delighted with our steps to try and protect kids online is not an especially big surprise to us, nor does it trouble us greatly,” Chalmers told reporters.\nThe spat continues months of open hostility between the Australian government and the tech billionaire over regulators’ efforts to reduce public harm from social media.\nParliament could pass legislation as soon as next week that would oblige X, TikTok, Facebook, Snapchat, Reddit and Instagram to ban young children from their platforms.\nThe legislation introduced on Thursday will be debated by lawmakers in Parliament on Monday.\nMusk responded to the legislation’s introduction by posting on his platform, “Seems like a backdoor way to control access to the Internet by all Australians.”\nAsked if that was the government’s intention, Chalmers replied, “Of course not.”\n“Elon Musk having that view about protecting kids online is entirely unsurprising to us. He’s expressed similar views before,” Chalmers said.\n“Our job is not to come up with a social media policy to please Elon Musk. Our job is to put in place the necessary protection for kids online,” Chalmers added.\nIn April, Musk accused Australia of censorship after an Australian judge temporarily ruled that X must block users worldwide from accessing a video of a bishop being stabbed in a Sydney church.\nPrime Minister Anthony Albanese responded by describing Musk as an “arrogant billionaire” who considered himself above the law and was out of touch with the public.\nAustralian eSafety Commissioner Julie Inman Grant, the online safety watchdog who brought the court case against X, has said the legal battle led to online attacks against her and her family, including the release online of personal information without her permission, known as doxxing.\nShe said Musk had “issued a dog whistle to 181 million users around the globe” which resulted in her receiving death threats.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.yahoo.com/news/australia-rejects-elon-musks-claim-082627421.html",
+      "https://www.finance.yahoo.com/news/australia-rejects-elon-musks-claim-082627421.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Elon Musk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Jim Chalmers",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Getty Images\nAn Australian Cabinet",
+          "sentiment": "none"
+        },
+        {
+          "name": "Parliament",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hilton Hotel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T12:04:59.873+02:00",
+    "updated": "2024-11-22T12:04:59.873+02:00"
+  }
+]

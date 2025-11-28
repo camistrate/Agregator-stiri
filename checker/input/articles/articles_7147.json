@@ -1,0 +1,480 @@
+[
+  {
+    "uuid": "fb435b9aa8cbd5f1a2c151680008a9f85c5eff91",
+    "url": "https://news.antiwar.com/2024/02/01/us-navy-ship-had-close-call-with-houthi-missile-in-the-red-sea",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dave DeCamp",
+    "published": "2024-02-01T21:09:00Z",
+    "title": "US Navy Ship Had Close Call With Houthi Missile in the Red Sea",
+    "text": "The US Navy destroyer USS Gravely had a close call with a Houthi missile in the Red Sea on Tuesday night,\nUS officials told CNN.\nThe officials said a cruise missile launched by the Houthis came within one mile of the Gravely, the closest one has come to a US warship. That means the missile got past the Gravely’s sophisticated Aegis defense system.\nThe missile was downed by the Gravely’s Close-In Weapon System (CWS), a machine gun that’s designed for close-range interceptions and is one of the ship’s last lines of defense.\nThe incident highlights the danger to US warships and Navy sailors deployed in the Red Sea to combat the Houthis. While a Houthi missile or drone has not successfully hit a US warship yet, it could just be a matter of time as the situation in the region continues to escalate.\nThe US launched\nmore strikes against the Houthis early Thursday morning Yemen time, marking at least the 12th time the US has bombed Yemen since President Biden started his new war against the Houthis on January 12. US Central Command claimed the strikes targeted a Houthi drone station.\nThe escalations continued throughout the day on Thursday as\nCENTCOM said it downed a Houthi drone and destroyed a drone boat. Later, the Houthis targeted a British-linked cargo vessel, but CENTCOM said the missiles impacted the water and did not hit the ship.\nSince the US and the UK launched their first round of strikes against the Houthis, the situation has escalated dramatically. The Houthis, officially known as Ansar Allah, began targeting American and British commercial shipping and have vowed their operations won’t stop until the US backs down and Israel’s slaughter in Gaza ends.\nThe US backed a Saudi/UAE-led coalition against the Houthis in a brutal war that\nkilled 377,000 people between 2015 and 2022. During that time, the Houthis only became a more formidable fighting force and developed missile and drone technology that gave them the ability to hit Saudi oil infrastructure. A ceasefire between the Saudis and Houthis has held relatively well since April 2022, but the new US bombing campaign threatens the fragile truce.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://x.com/CENTCOM/status/1752906404942197132?s=20",
+      "https://www.cnn.com/2024/01/31/politics/us-warship-close-call-houthi-missile/index.html",
+      "https://x.com/CENTCOM/status/1753129271420502417?s=20",
+      "https://cnn.com/2024/01/31/politics/us-warship-close-call-houthi-missile/index.html",
+      "https://www.x.com/CENTCOM/status/1752906404942197132?s=20",
+      "https://x.com/CENTCOM/status/1752906404942197132",
+      "https://www.x.com/CENTCOM/status/1753129271420502417?s=20",
+      "https://x.com/CENTCOM/status/1753129271420502417"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "houthis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "us navy ship had close call with houthi missile",
+          "sentiment": "negative"
+        },
+        {
+          "name": "us navy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "navy",
+          "sentiment": "none"
+        },
+        {
+          "name": "us central command",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "red sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "yemen",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:23:22.467+02:00",
+    "updated": "2024-02-02T00:23:22.467+02:00"
+  },
+  {
+    "uuid": "2f6cd24f0b10bc396d0e0e129f5a263c9a8d6b9b",
+    "url": "https://www.dignited.com/117334/how-to-setup-and-use-rcs-on-your-dual-sim-phone/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clinton Madegwa",
+    "published": "2024-01-05T21:50:00Z",
+    "title": "How to Setup and Use RCS on Your Dual SIM Phone",
+    "text": "RCS has made some decent strides over the past few years and today, a sizeable chunk of smartphone users worldwide have access to the new standard of messaging that replaces SMS. On Android, this has been made possible by Google Messages, an app that ships as the default for many new Android users.\nIn fact, any Android users can hop on board by simply downloading and installing the Google Messages app from the Google Play Store. However, there has been a limitation since this feature rolled out.\nRelated:\nHow to Enable RCS on Dual SIM\nThis feature is still in Beta and is rolling out slowly to users but I don’t feel patient enough so in this post I show you how to force-enable it.\n- Update to Google Messages version 20240102_00_RC01 from the Play Store. This is a beta build but any update newer than this should work.\n- Next, open Google Messages and enable debug. Here’s how. In the search bar type\n*xyzzy*(without any space)\n- After enabling debug menu, you might want to force close the app. Open the app again and click on the 3 dots menu.\n- Select your Profile photo and click on Debug. Select Toggle DSDR (Dual SIM/Dual RCS)\n- Open the Google Messages app, tap your profile picture, and go to Messages Settings > Chat features. If available, toggle on RCS chats.\n- While you earlier had a single SIM shown (your preferred SIM for messages), you should now see both SIM Cards.\nVerify your number: Depending on your app and carrier, you might need to verify your primary RCS number. This usually involves entering a code received via SMS. It should happen automatically in the background.\nAs mentioned, this feature is not rolled out officially to RCS users so it is probably still in the works. For me, my SIM 2 remains stuck at Setting up... and I am not sure how to nudge it along.\nHow to use RCS\nShould you get through the setup successfully and endup with both SIM Cards connected to RCS, using is as simple as sending a message to a contact with RCS Enabled and selecting your preferred SIM.\nYou know you’re using RCS when the typing field says Chat or RCS Message instead of Text message.\nConclusion\nThis year, we’re set to see\niMessage finally adopting support for RCS, probably the last remaining hurdle to fully phasing out SMS for good. It was about time Google addressed this limitation seeing as more and more smartphones now support eSIM, effectively allowing users to have 2 SIM cards on the same phone.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/",
+      "https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone",
+      "https://www.9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "sim phone rcs",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "google",
+          "sentiment": "none"
+        },
+        {
+          "name": "google messages",
+          "sentiment": "none"
+        },
+        {
+          "name": "google play store",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "beta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:07:29.747+02:00",
+    "updated": "2024-01-06T01:07:29.747+02:00"
+  },
+  {
+    "uuid": "3884bb266b424576d513ab72bb30aee65b596143",
+    "url": "https://vnexplorer.net/bispos-de-angola-e-sao-tome-determinam-que-nao-sejam-dadas-bencaos-a-casais-irregulares-s628397.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-24T11:23:00Z",
+    "title": "Bispos de Angola e São Tomé determinam que não sejam dadas bênçãos a \"casais irregulares\"",
+    "text": "ETTORE FERRARI /EPA\nLuanda, 24 dez 2023 (Lusa) – Os bispos da Conferência Episcopal de Angola e São Tomé (CEAST) manifestaram “perplexidade” com as bênçãos a “casais irregulares” e determinaram que não sejam realizadas nestes dois países porque “criariam um enorme escândalo e confusão entre os fiéis”.\n“A respeito das bênçãos informais a ‘casais irregulares’ (homossexuais), embora seja um sacramento diverso da bênção litúrgica, consideramos que, no nosso contexto cultural e eclesial, criariam um enorme escândalo e confusão entre os fiéis, pelo que determinamos que não sejam realizadas em Angola e São Tomé”, referem num comunicado.\nO comunicado da CEAST reage assim à recente sugestão do Papa Francisco de se de dar a bênção a casais do mesmo sexo, sem transmitir “a conceção errada do casamento”, afirmando ainda que os padres não se podem tornar juízes.\nSegundo a CEAST, a sua posição tem como suporte a declaração ‘Fiducia Supplicans’, que consideram suficiente para orientar o discernimento prudente e paterno dos ministros ordenados” no que respeita às bênçãos dos casais do mesmo sexo, argumentando ainda que “o documento não impõe qualquer linha uniforme”.\nOs bispos defendem que a resposta dada pela congregação para a doutrina da fé, no dia 22 de fevereiro de 2021, sobre o tema, é uma prudente opção, “pois ela orienta a acompanhar com caridade pastoral os fiéis que vivem nestas complexas situações e lembra que a igreja “não abençoa e nem pode abençoar o pecado”.\nPara os bispos da CEAST, o tema de maior incidência no contexto pastoral de Angola e São Tomé é o acesso aos sacramentos, “particularmente do batismo de pessoas adultas que, objetivamente, vivem em pecado e que não pretendem emendar-se ou mudar de vida, assim como os padrinhos”.\n“Nesse documento é indicado o caso dos homossexuais e dos transexuais. Entretanto, no nosso contexto poderíamos considerar também os polígamos, as pessoas seriamente envolvidas na feitiçaria, no sincretismo religioso e na violência”, sublinha o documento.\nO Papa Francisco sugeriu que poderia haver formas de abençoar as uniões entre pessoas do mesmo sexo, respondendo a cinco cardeais conservadores que o desafiaram a afirmar os ensinamentos da Igreja sobre a homossexualidade antes de uma grande reunião em que os católicos LGBTQ+ estão na ordem do dia.\nO Vaticano publicou na segunda-feira uma carta que Francisco escreveu aos cardeais em 11 de julho, onde sugere que as bênçãos poderiam ser estudadas se não confundissem a bênção com o casamento sacramental.\nNME // MCL\nLusa/Fim",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1lY55S.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1lY55S.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T13:36:59.727+02:00",
+    "updated": "2023-12-24T13:36:59.727+02:00"
+  },
+  {
+    "uuid": "b4c73181e1e19db703e7530a1e2ef5045646038c",
+    "url": "https://www.unotv.com/estados/ciudad-de-mexico/mala-calidad-del-aire-hoy-5-de-marzo-de-2025-en-cdmx-y-edomex",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Edwin Meza",
+    "published": "2025-03-05T22:46:00Z",
+    "title": "Alertan por mala calidad del aire en CDMX y Edomex: ve recomendaciones",
+    "text": "Alertan por mala calidad del aire en CDMX y Edomex: ve recomendaciones\nLa Dirección de Monitoreo Atmosférico alertó por mala calidad del aire en la Ciudad de México (CDMX) y algunas zonas del Estado de México (Edomex), por lo cual hizo un llamado a tomar precauciones.\nAlertan por mala calidad del aire en CDMX y Edomex\nEn su reporte de las 15:00 horas, el Sistema de Monitoreo Atmosférico (SIMAT) detalló que la calidad del aire es mala en la mayor parte de la capital.\nA las 15:00 horas, el\n— Calidad del Aire (@Aire_CDMX)[#ÍndiceAIREYSALUDreporta], en la mayor parte de la[#CDMX]y zona conurbada la[#CalidadDelAire]MALA lo cual indica un riesgo a ALTO a la salud.[#SIMAT_CDMX][pic.twitter.com/coIHF9RW75][March 5, 2025]\nAnte ello, el riesgo de salud es alto para la población, por lo que se recomienda no salir de casa ni realizar actividades al aire libre.\nLa siguiente tabla muestra la calidad del aire en las 16 alcaldías de la Ciudad de México (CDMX), de acuerdo con el mapa compartido por el SIMAT.\nAlcaldía | Calidad de aire |\nÁlvaro Obregón | Mala |\nAzcapotzalco | Mala |\nBenito Juárez | Mala |\nCuajimalpa | Mala |\nCoyoacán | Mala |\nCuauhtémoc | Mala |\nGustavo A. Madero | Mala |\nIztacalco | Mala |\nIztapalapa | Mala |\nMagdalena Contreras | Mala |\nMiguel Hidalgo | Mala |\nMilpa Alta | Mala |\nTlalpan | Mala |\nTláhuac | Aceptable |\nVenustiano Carranza | Mala |\nXochimilco | Mala |\nPor otro lado, según el reporte de las estaciones de monitoreo, la calidad del aire en los principales municipios del Estado de México (Edomex) es la siguiente:\n- Atizapán – Mala\n- Chalco – Mala\n- Cuautitlán Izcalli – Mala\n- Ecatepec – Mala\n- Naucalpan – Mala\n- Nezahualcóyotl – Mala\n- Tlalnepantla – Mala\n¿Qué se recomienda?\nLa Secretaría de Gestión Integral de Riesgos y Protección Civil (SGIRPC) señala que, ante la presencia de mala calidad del aire, los habitantes son propensos a padecer:\n- Irritación ocular\n- Ardor de garganta\n- Malestar en pulmones\n- Asma\n- Bronquitis\n- Infartos\nAnte ello, se recomienda no realizar actividades físicas vigorosas al aire libre. En población sensible hay riesgo de presentar síntomas respiratorios y/o disminución de la función pulmonar.\nAsimismo, es importante evitar el uso de limpiadores, aromatizante en aerosol, solventes, esmaltes y pinturas, ya que dañan el medio ambiente.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Environment->air pollution",
+      "Environment->environmental pollution",
+      "Social Issue->social services",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Health->public health",
+      "Health->health care approach",
+      "Health->communicable disease"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T01:15:18.426+02:00",
+    "updated": "2025-03-06T01:15:18.426+02:00"
+  },
+  {
+    "uuid": "87dafed19de38ec6545bbac2fe6387df53621b6d",
+    "url": "https://www.dailypioneer.com/2024/state-editions/ayodhya-taking-big-strides--towards-clean-energy.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Pioneer",
+    "published": "2024-01-05T19:00:00Z",
+    "title": "Ayodhya taking big strides towards clean energy",
+    "text": "Ayodhya is taking big strides towards clean energy solutions to address its energy requirements. Currently, the work on development and operation of a solar power plant capable of generating 40 megawatt electricity in Majha Rampur Halwara village of Navya Ayodhya, has reached the final stage. In line with Chief Minister Yogi Adityanath’s vision to harness solar energy for power generation, a solar power plant is currently under development and operation, spanning 165 acres at a cost of Rs 200 crore. It is worth highlighting that Vision 2047 places significant emphasis on solar energy within Ayodhya’s comprehensive development plan. Consequently, the establishment of this solar power plant is poised to play a pivotal role in steering Ayodhya towards becoming a city powered by solar energy. For the establishment of this plant, under the guidance of Chief Minister Yogi, the district administration has provided land on 30-year lease to Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA) at the rate of Re 1 per acre per year. UPNEDA, in turn, has engaged NTPC Green Energy Limited to operate the plant on this land. For the development and operation of the plant, Jackson Solar, a notable solar panel producer and a prominent player in the solar energy sector in the country, has been contracted by NTPC through a power purchase agreement (PPA). Ratan Singh, head of project and additional general manager of NTPC Green Energy Limited, said that the total generation capacity of this solar power plant would be 40 MW and it would produce 8.65 crore units of electricity per year. The total cost of this project is Rs 200 crore and the work of development of the plant located in 165 acres has been entrusted to Jakson Solar, which is a leader among the Indian companies working in the solar energy sector. A total of 1,04,580 solar panels with a power output of 550 watts and 555 watts are installed in this plant. The scheduled inauguration of the plant is set for January 22, initially operating at a capacity of 10 MW power generation. Following the inauguration, the plant is expected to quickly scale up to its full capacity. When operated at full capacity, this plant will be able to meet 10 per cent of the total electricity consumption of Ayodhya. The electrical energy generated from the plant will be transmitted to the Darshan Nagar sub-station through a 13233 kV overhead power line. At present, a workforce of about 300 people has been deployed in the plant for the ongoing work. Once completed, the plant will require only 15-20 people to operate, with technical and handling staff being the most important. UPNEDA Project Officer Praveen Nath Pandey said that apart from realising Chief Minister Yogi’s grand vision of Ayodhya, this project would also be economical and environment friendly. According to him, instead of power generation from coal, power generation here will help prevent 47,000 thousand tons of carbon dioxide emissions every year. This translates into a significant impact, preventing emissions equivalent to the carbon dioxide absorption capacity of 17 lakh trees. The initiative is poised to become a significant milestone in Ayodhya’s journey to establish itself as a model solar city. Furthermore, it will set the stage for transforming Ayodhya into a city powered by solar energy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yogi",
+          "sentiment": "none"
+        },
+        {
+          "name": "yogi adityanath",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ntpc green energy l",
+          "sentiment": "none"
+        },
+        {
+          "name": "uttar pradesh new and renewable energy development agency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "navya ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "majha rampur halwara",
+          "sentiment": "none"
+        },
+        {
+          "name": "upneda",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T04:31:13.713+02:00",
+    "updated": "2024-01-06T04:31:13.713+02:00"
+  },
+  {
+    "uuid": "41a1cf36c00f6b9cf0d7ac37c66d5e5f2389a137",
+    "url": "https://vnexplorer.net/el-ano-del-dragon-s708515.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T14:49:00Z",
+    "title": "El año del dragón",
+    "text": "Ariel González. Foto: EL UNIVERSAL\nDentro de la astrología, el zodiaco chino me parece el más fascinante y rico en símbolos. Está ligado, como se sabe, a 12 animales que representan diversos elementos y cualidades que se combinan, además, con un animal interno y otro secreto. Me interesa todo esto por cuanto tiene de carácter mítico y, para mí, también lúdico: no hay mejor divertimento que comparar lo pronosticado con lo ocurrido, lo que se supone nos deparaba el destino y lo que la realidad dispuso. Y precisamente porque la comparación entre una cosa y otra resulta no pocas veces deprimente, prefiero entenderla como un juego, por lo menos en lo que respecta al zodiaco.\n2024 será el año del dragón, única criatura fantástica en esta zoología zodiacal, de ahí su particular encanto. “En China –leo en la Wikipedia– la figura del dragón se asocia con la fuerza, con la salud, con la armonía y con la buena suerte; se coloca encima de las puertas o encima de los techos para desterrar a los demonios y a los espíritus malignos”.\nїSerГЎ un buen aГ±o para MГ©xico? El pensamiento mГЎgico, tan populista que es, se apresta fГЎcilmente a decir que sГ­, pero la realidad, terca y en ocasiones terrible, apunta a que no lo serГЎ y por una sencilla razГіn: arrastramos demasiados problemas como para que a estos les siga algo bueno. El 2023, finaliza вЂ“para quien quiera verlo y para quien no lo quiera tambiГ©nвЂ“ con datos alarmantes que, en el mejor de los casos, se mantendrГЎn igual. El punto de partida del 2024, siento decirlo, es muy poco favorable.\nNo se necesita ser astrólogo ni adivino para determinar que la violencia seguirá cobrando miles de víctimas mortales (llevamos más de 130 mil, como en ningún otro sexenio). Cada día 10 mujeres son asesinadas. Cada 15 minutos alguien pierde la vida. La tragedia ha roto a miles de familias y, desconsuela saberlo, nada de lo que sigue dependerá de la “buena suerte” y “armonía” que el año del dragón promete.\nFrente a la violencia criminal, el gobierno de Morena oscila entre la incapacidad, la simulación y la abierta complicidad. Los que se sientan a la mesa con el crimen organizado preparan ya, sin ningún rubor, sus candidaturas para diversos cargos. Los encargados de la seguridad nacional maquillan las cifras de los desaparecidos y, aun si estas fueran ciertas, no sabemos nada de 92 mil personas.\nLa crisis migratoria, que significa enorme dolor y sufrimiento para miles de personas procedentes de Centroamérica, Venezuela, Haití, Cuba y muchas otras partes del mundo, culmina este 2023 con cifras récord. La presión electoral en Estados Unidos no anuncia nada bueno para quienes cruzan nuestro territorio en busca del sueño americano. El gobierno de Biden seguirá apretando las tuercas de su frontera en respuesta a los republicanos, incapaces de deslindarse de un Trump cuya rabia discursiva, abiertamente neonazi, lo ha llevado a decir que los migrantes “envenenan la sangre de Estados Unidos”. Por su parte, la demagogia y corrupción de las autoridades mexicanas, así como la creciente actividad de los grupos criminales que trafican con seres humanos, harán de 2024 un año particularmente terrible en esta materia.\nPor lo que hace a la salud, otra buena promisión del dragón, mal terminamos 2023 y mal comenzaremos el año que sigue. En medio de recortes y reasignaciones presupuestales, la delirante megafarmacia no llega y, cuando lo haga, no parece que vaya a resolver, según todas las voces expertas, los problemas de abasto y distribución de medicamentos. En el terreno de la salud pública la única buena noticia es que por fin, luego de años, se pueden adquirir en las farmacias los biológicos más avanzados contra las nuevas variantes del Covid. Sin embargo, su costo hace que importantes segmentos de la población sigan dependiendo de las vacunas con que cuenta el gobierno (Abdala y Sputnik, de Cuba y Rusia, respectivamente), desautorizadas por la OMS e ineficaces contra las nuevas variantes del virus. Una verdadera canallada contra los más pobres.\nLa borrachera del gasto social desordenado y clientelar, lo mismo que los costosísimo elefantes blancos (y ahora hasta voladores, con Mexicana), llevan en la deuda pública una penitencia que por mucho que se esfuerce el gobierno no se va a poder ocultar. Hay que sumar a eso la inflación (cosmetizada, como puede constatar cualquiera), las altas tasas de interés y un incierto contexto internacional para dejar de hacer cuentas alegres.\nAdemás de mayor corrupción, opacidad y creciente militarización, el asedio a lo que queda de los organismos independientes y del Poder Judicial proseguirá. La captura de las instituciones que garantizan la vida democrática y el equilibrio de poderes sigue su marcha, y todo hace suponer que en 2024 estrenaremos un gobierno comprometido con la culminación de esta tarea en nombre, claro está, de la “izquierda”, el “progreso” y hasta la “democracia”.\nEl dragón, sin embargo, nos augura también fuerza y buena suerte. Ojalá las tengamos. Si como sociedad conseguimos superar el engaño y el velo propagandístico; si dejamos atrás la indiferencia que normaliza todos los males; si miramos más allá del rencor y las divisiones impuestas; si decidimos ser ciudadanos y no mendicantes de nuestros propios recursos y derechos;\nen fin, si ejercemos y razonamos nuestro voto, podremos en 2024 cambiar de ruta y evitar nuevos y más graves desastres.\nEn eso tengo depositadas todas mis esperanzas, pero francamente no las veo realizándose: no puedo ser optimista, no tengo motivos para serlo. Lo lamento y espero estar profundamente equivocado, pero por esta vez no me resta sino atenerme al realismo poético, triste, del gran Rafael Sánchez Ferlosio:\nVendrán más años malos\ny nos harán más ciegos;\nvendrán más años ciegos\ny nos harán más malos.\nVendrán más años tristes\ny nos harán más fríos\ny nos harán más secos\ny nos harán más torvos.\n@ArielGonzlez\nFB: Ariel González Jiménez\nÚnete a nuestro canal ¡EL UNIVERSAL ya está en Whatsapp!, desde tu dispositivo móvil entérate de las noticias más relevantes del día, artículos de opinión, entretenimiento, tendencias y más.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1a8ygK.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1a8ygK.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:57:52.448+02:00",
+    "updated": "2023-12-29T16:57:52.448+02:00"
+  },
+  {
+    "uuid": "6d0e69556d5e5c434153050922b7de3c123b43eb",
+    "url": "https://longisland.news12.com/suffolk-police-man-arrested-following-outburst-at-islamic-center-of-melville-over-israel-hamas-conflict",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News 12 Staff",
+    "published": "2024-02-23T10:15:00Z",
+    "title": "Suffolk police: Man arrested following outburst at Islamic Center of Melville over Israel-Hamas conflict",
+    "text": "Suffolk County police say they have arrested a man for trespassing and harassing congregants of a Melville mosque . Jordan Endler entered the Islamic Center of Melville, located at 118 East Old Neck Road, on Wednesday at 2:36 p.m. and made statements regarding the Israel-Hamas conflict, police say. Endler was asked to leave by members of the mosque but refused. Police were called and Endler left the location after police arrived. The incident was caught on camera. The man could be seen recording worshipers with his own phone, and positioning a baseball cap over his eyes. He shouted “free the Israeli hostages now,” and called the Muslim congregants “racist.” RELATED: Melville mosque members concerned for safety following outburst over Israel-Hamas conflict Mosque leaders say the outburst was initially not given enough attention by Suffolk County police. Islamic Center President Talaat Abdelmoneim says the man was released after speaking with officers. \"Why was he not locked up? If he did this in any other religion other than Muslims, would it be going like this? That’s really the concern,” Abdelmoneim said. Authorities say that following an investigation by hate crimes unit detectives, Endler, 46, was arrested at his East Northport home. Endler was charged with criminal trespass in the third degree and harassment in the second degree. He is scheduled to be arraigned today.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "endler",
+          "sentiment": "none"
+        },
+        {
+          "name": "jordan endler",
+          "sentiment": "none"
+        },
+        {
+          "name": "talaat abdelmoneim",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "islamic center",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "melville",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "suffolk county",
+          "sentiment": "none"
+        },
+        {
+          "name": "islamic center of melville",
+          "sentiment": "none"
+        },
+        {
+          "name": "east old neck road",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T13:05:14.625+02:00",
+    "updated": "2024-02-23T13:05:14.625+02:00"
+  },
+  {
+    "uuid": "571a15def365ce14a4c27db31e432e264e7e0e3d",
+    "url": "https://www.dailypost.co.uk/news/north-wales-news/met-office-issues-new-year-28362248",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "welshnews@dailypost.co.uk (Steve Bagnall)",
+    "published": "2023-12-29T10:57:00Z",
+    "title": "Met Office issues New Year weekend weather warnings with flooding and power cuts possible",
+    "text": "Fresh weather warnings for wind and rain have been issued for North Wales. The latest alerts come into effect tomorrow (Saturday). It comes hot on the heels of [ heavy downpours and gale force winds from Storm Gerrit](https://www.dailypost.co.uk/news/north-wales-news/met-office-extends-north-wales-28352827), which hit North Wales and the rest of the UK earlier this week. A yellow alert for rain begins at 10am on Saturday, and remains in place until 6pm that evening. A yellow alert for wind starts at 11am on Saturday and finishes at 3am on New Year's Eve. They both cover [Anglesey](https://www.dailypost.co.uk/all-about/anglesey), [Gwynedd](https://www.dailypost.co.uk/all-about/gwynedd) and [Conwy](https://www.dailypost.co.uk/all-about/conwy). READ MORE: [The flood warning and alerts in place in the wake of Storm Gerrit](https://www.dailypost.co.uk/news/north-wales-news/flood-warning-alerts-place-wake-28361647) READ MORE: ‘ [Insane’ Storm Gerrit lightning filmed over North Wales as 90mph gales leave people 'terrified'](https://www.dailypost.co.uk/news/north-wales-news/insane-storm-gerrit-lightning-filmed-28358157) The Met Office has warned the public of possible travel disruption, flooding, power cuts and potential impact to coastal communities from large waves and spray. A Met Office forecast said: \"An active cold front will move east across England and Wales during Saturday and into Sunday and will be characterised by strong winds and some heavy rain. \"Gusts of 45-50mph widely, but squally near the cold front with some gusts around 60mph, whilst the strongest gusts are likely near coasts in the west and south, with 65-75mph in places.\" In terms of rainfall, they said there could be 20-30mm of rain falling widely and as much as 40-50mm in the northwest. It added: \"If you are on the coast, stay safe during stormy [weather](https://www.dailypost.co.uk/all-about/north-wales-weather) by being aware of large waves. Even from the shore large breaking waves can sweep you off your feet and out to sea. \"Take care if walking near cliffs; know your route and keep dogs on a lead. In an emergency, call 999 and ask for the Coastguard. Be prepared for weather warnings to change quickly: when a weather warning is issued, the Met Office recommends staying up to date with the weather forecast in your area.\" Looking further ahead into 2024, Nick Silkstone, Met Office Deputy Chief Forecaster, said: “Through to mid-January, there is a signal for a shift in the pattern compared to the winter so far, with more settled and colder-than-average conditions becoming increasingly likely.” [Sign up now for the latest news on the North Wales Live Whatsapp community](https://www.dailypost.co.uk/news/north-wales-news/join-north-wales-live-whatsapp-27935216) Find out what the weather is up to near you",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "met office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "gwynedd",
+          "sentiment": "none"
+        },
+        {
+          "name": "wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "england",
+          "sentiment": "none"
+        },
+        {
+          "name": "anglesey",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:08:50.905+02:00",
+    "updated": "2023-12-29T13:24:52.190+02:00"
+  },
+  {
+    "uuid": "8717d4526444d6251bb85b4f6dbdac4669088e57",
+    "url": "https://elpais.com/deportes/2024-09-05/espana-suma-36-medallas-e-iguala-la-marca-de-los-paralimpicos-de-tokio.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EL PAÍS",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "España suma 36 medallas e iguala la marca de los Paralímpicos de Tokio | Deportes | EL PAÍS",
+    "text": "El equipo paralímpico español ha igualado este jueves, con 36 metales, el medallero de los Juegos de Tokio 2020, al conseguir cuatro podios. La natación continúa siendo una fuente de medallas para el equipo español, que ya acumula 17 metales solo en esta disciplina. Nuria Marqués ha logrado la plata en los 200m de natación combinada y Anastasiya Dmytriv ha conseguido el bronce en la misma categoría. Sergio Garrote se ha hecho con la medalla de plata en ciclismo en ruta, después de lograr el oro el miércoles en la contrarreloj. La medalla con la que el equipo español ha cerrado la jornada de este jueves fue el bronce conseguido por Álvaro del Amo en lanzamiento de disco. El presidente del Gobierno, Pedro Sánchez, acudió ayer a París junto a la ministra de Educación y Deportes, Pilar Alegría, para visitar a la delegación española y mostrarles su apoyo desde la grada. “Hemos venido a reivindicar el ejemplo de vida de superación y de competición que tienen”, señaló Sánchez. Nuria Marqués, que nació con una discapacidad en la pierna que derivó en la amputación de esta, ha conseguido este jueves la medalla de plata en los 200m de natación combinada en la categoría SM9 — para nadadores de estilos individuales que tienen una coordinación limitada de brazos y de piernas o la ausencia de extremidades —. La barcelonesa ha conseguido un tiempo de 2m 34,19s con el que se ha colocado segunda. Detrás de Marqués, otra española. A sus 16 años, la andaluza de origen ucranio Anastasiya Dmytriv, que tiene discapacidad en su brazo derecho, ha logrado la medalla de bronce en la misma categoría que Marqués con un tiempo de 2m 37,64s. Dmytriv acumula tres medallas en estos Juegos, dos bronces y un oro conseguido en la categoría de 100m braza, con la que abrió el medallero paralímpico español en los Juegos de París 2024 el pasado 30 de agosto. En ciclismo, Sergio Garrote ha alcanzado la plata en la categoría de ciclismo en ruta C1 (la categoría con la mayor discapacidad física), después de que el miércoles consiguiera el oro en la contrarreloj. El barcelonés de 45 años ha anotado un tiempo de 1h 20m 40s y ha mejorado el bronce que consiguió en los Paralímpicos de Tokio. Con esta medalla Garrote ya tiene cuatro, en los que son sus segundos Juegos. Tres días después de su bronce en lanzamiento de peso, Álvaro del Amo ha conseguido otro, esta vez en la categoría de disco tras batir su marca personal en su último intento con el que alcanzó los 39,60 metros. Un metal presenciado por Pedro Sánchez, que se encontraba en la grada antes de visitar la Villa Olímpica. A las 36 medallas conseguidas por ahora, hay que añadir la de Ander Cepas, que tiene asegurada una medalla tras haberse metido en las semifinales de tenis de mesa. El próximo sábado, el vasco de 16 años jugará contra el belga Laurens Devos. ¿Por qué estás viendo esto?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:51:45.484+03:00",
+    "updated": "2024-09-06T17:42:55.050+03:00"
+  }
+]

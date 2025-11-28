@@ -1,0 +1,333 @@
+[
+  {
+    "uuid": "97f113a52965ea1e8c2634f9e905177a35a8876b",
+    "url": "https://www.koreatimes.co.kr/www/nation/2024/11/281_387330.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yonhap",
+    "published": "2024-11-29T06:31:00Z",
+    "title": "Seoul Metro's No. 3 union threatens strike on Dec. 6 - The Korea Times",
+    "text": "Members of the No. 3 labor union of Seoul Metro hold a rally demanding better pay and welfare near City Hall in Seoul, Nov. 20. Yonhap\nThe No. 3 labor union of Seoul Metro, the operator of subway lines 1-8, threatened Friday to stage a full-scale strike next week in demand of better pay and new staff hiring.\nThe union, made up mostly of employees in their 20s and 30s, announced the plan during a press conference in front of City Hall, raising concerns of simultaneous strikes by two of the company's three labor unions, including the No. 1 union that represents 60 percent of the work force.\nBoth strikes are set to take place next Friday.\nOther unionized workers have also threatened collective action in recent days, including those of KTX and regular train operator Korea Railroad Corp. (KORAIL), who plan to launch an indefinite strike next Thursday.\nSome members of the Cargo Truckers Solidarity, the National Pension Service and Korea Gas Corp. have also said they are preparing to walk out. (Yonhap)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T13:03:22.377+02:00",
+    "updated": "2024-11-29T13:03:22.377+02:00"
+  },
+  {
+    "uuid": "063c59525e79e2ff9d40266bdeeccc2dbf240240",
+    "url": "https://www.informazione.it/n/A3CFFFAB-74B2-4341-A331-54BDFA31CE3B/Ucraina-attacca-base-aerea-russa-di-Marinovka",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infoitestero",
+    "published": "2024-08-23T01:19:00Z",
+    "title": "Ucraina attacca base aerea russa di Marinovka",
+    "text": "[ ](/a/315571B6-5C2C-4A75-B738-121083891A08/Ucraina-attacco-alla-base-aerea-militare-russa-di-Marinovka-le-immagini) [Leggi](https://stream24.ilsole24ore.com/video/italia/ucraina-attacco-base-aerea-militare-russa-marinovka-immagini/AFUlu5UD) Nella notte del 22 agosto 2024, le forze armate ucraine hanno lanciato un attacco con droni contro la base aerea militare russa di Marinovka, situata nella regione di Volgograd. Un video anonimo postato su Telegram mostra denso fumo nero alzarsi dalla base, segno evidente dell'impatto dell'attacco. Parallelamente, le forze ucraine hanno lanciato una dozzina di droni verso Mosca. La contraerea russa ha dovuto affrontare uno degli attacchi più massicci dall'inizio della guerra, con 45 droni lanciati dall'Ucraina, di cui 11 diretti sulla capitale russa. Secondo il sindaco di Mosca, Sergei Sobyanin, tutti i droni sono stati abbattuti, ma il messaggio di Kiev è chiaro: gli attacchi nel cuore della Russia non si fermeranno. Il vicepresidente del Consiglio di sicurezza russo, Dmitry Medvedev, ha dichiarato che i negoziati con l'Ucraina rimarranno sospesi fino alla sconfitta totale del nemico. Nel frattempo, il presidente ucraino Volodymyr Zelensky ha confermato che l'operazione nella regione di Kursk continua, con ulteriori misure prese per mantenere il controllo delle aree designate. Le tensioni tra Russia e Ucraina continuano a crescere, con entrambe le capitali sotto attacco. Mentre Kiev intensifica le sue operazioni nelle regioni russe di Rostov e Volgograd, le forze russe hanno impedito un'incursione di \"sabotatori\" ucraini nella regione di Bryansk, al confine con l'Ucraina. La situazione rimane critica, con nessuno dei due contendenti in grado di lanciare un assalto risolutivo, secondo Bloomberg.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://stream24.ilsole24ore.com/video/italia/ucraina-attacco-base-aerea-militare-russa-marinovka-immagini/AFUlu5UD)",
+      "https://www.stream24.ilsole24ore.com/video/italia/ucraina-attacco-base-aerea-militare-russa-marinovka-immagini/AFUlu5UD)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T06:44:15.563+03:00",
+    "updated": "2024-08-23T06:44:15.563+03:00"
+  },
+  {
+    "uuid": "bff5edb4f455d807461d613e2b41a774f7e40502",
+    "url": "https://vuldb.com/?id.320086",
+    "ord_in_thread": 0,
+    "author": "vuldb.com",
+    "published": "2025-08-14T07:09:00Z",
+    "title": "CVE-2025-9021 | SourceCodester Online Bank Management System up to 1.0 /bank/transfer.php email sql injection",
+    "text": "CVSS Meta Temp Score | Current Exploit Price (≈) | CTI Interest Score |\n---|---|---|\n6.6 | $0-$5k | 1.15+ |\nSummary\nA vulnerability, which was classified as critical, has been found in SourceCodester Online Bank Management System up to 1.0. This issue affects some unknown processing of the file /bank/transfer.php. The manipulation of the argument email leads to sql injection.\nThe identification of this vulnerability is CVE-2025-9021. The attack may be initiated remotely. Furthermore, there is an exploit available.\nDetails\nA vulnerability classified as critical was found in SourceCodester Online Bank Management System up to 1.0. This vulnerability affects an unknown code of the file /bank/transfer.php. The manipulation of the argument email\nwith an unknown input leads to a sql injection vulnerability. The CWE definition for the vulnerability is CWE-89. The product constructs all or part of an SQL command using externally-influenced input from an upstream component, but it does not neutralize or incorrectly neutralizes special elements that could modify the intended SQL command when it is sent to a downstream component. As an impact it is known to affect confidentiality, integrity, and availability.\nThis vulnerability was named CVE-2025-9021. The exploitation appears to be easy. The attack can be initiated remotely. No form of authentication is required for a successful exploitation. Technical details and also a exploit are known. The structure of the vulnerability defines a possible price range of USD $0-$5k at the moment (estimation calculated on 08/14/2025). This vulnerability is assigned to T1505 by the MITRE ATT&CK project.\nIt is declared as proof-of-concept. By approaching the search of inurl:bank/transfer.php it is possible to find vulnerable targets with Google Hacking.\nThere is no information about possible countermeasures known. It may be suggested to replace the affected object with an alternative product.\nEntries connected to this vulnerability are available at VDB-318292, VDB-318445, VDB-318465 and VDB-318516.\nProduct\nType\nVendor\nName\nVersion\nLicense\nCPE 2.3\nCPE 2.2\nCVSSv4\nVulDB Vector:🔒\nVulDB Reliability:\n🔍\nCVSSv3\nVulDB Meta Base Score: 7.3VulDB Meta Temp Score: 6.6\nVulDB Base Score:\n7.3\nVulDB Temp Score:\n6.6\nVulDB Vector:\n🔒\nVulDB Reliability:\n🔍\nCVSSv2\nAV | AC | Au | C | I | A |\n---|---|---|---|---|---|\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\n💳 | 💳 | 💳 | 💳 | 💳 | 💳 |\nVector | Complexity | Authentication | Confidentiality | Integrity | Availability |\n---|---|---|---|---|---|\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nUnlock | Unlock | Unlock | Unlock | Unlock | Unlock |\nVulDB Base Score:\n🔒\nVulDB Temp Score:\n🔒\nVulDB Reliability:\n🔍\nExploiting\nClass: Sql injectionCWE:\nCWE-89 / CWE-74 / CWE-707\nCAPEC:\n🔒\nATT&CK:\n🔒\nPhysical: No\nLocal: No\nRemote: Yes\nAvailability:\n🔒\nStatus: Proof-of-Concept\nGoogle Hack:\n🔒\nPrice Prediction:\n🔍\nCurrent Price Estimation:\n🔒\n0-Day | Unlock | Unlock | Unlock | Unlock |\n---|---|---|---|---|\nToday | Unlock | Unlock | Unlock | Unlock |\nThreat Intelligence\nInterest:🔍\nActive Actors:\n🔍\nActive APT Groups:\n🔍\nCountermeasures\nRecommended: no mitigation knownStatus:\n🔍\n0-Day Time:\n🔒\nTimeline\n08/14/2025 Advisory disclosed08/14/2025\nVulDB entry created\n08/14/2025\nVulDB entry last update\nSources\nVendor:sourcecodester.com\nStatus: Not defined\nCVE:\nCVE-2025-9021(\n🔒)\nGCVE (CVE):\nGCVE-0-2025-9021\nGCVE (VulDB):\nGCVE-100-320086\nscip Labs:\nhttps://www.scip.ch/en/?labs.20161013\nSee also:\n🔒\nEntry\nCreated: 08/14/2025 09:09 AMChanges:\n08/14/2025 09:09 AM (53)\nComplete:\n🔍\nSubmitter:\nfirewall\nCache ID: 212:AE5:113\nSubmit\nAccepted\nSubmit #631861: https://www.sourcecodester.com/php/15373 online-banking-management-system 1.0 SQL Injection (by firewall)\nDiscussion\nNo comments yet. Languages: en.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.first.org/cvss/v3.1/specification-document#Base-Metrics",
+      "https://www.sourcecodester.com/",
+      "https://www.first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+      "https://www.scip.ch/en/?labs.20161013",
+      "https://www.sourcecodester.com",
+      "https://scip.ch/en/?labs.20161013",
+      "https://sourcecodester.com/",
+      "https://first.org/cvss/v3.1/specification-document#Base-Metrics",
+      "https://first.org/cvss/v3.1/specification-document#Temporal-Metrics",
+      "https://www.scip.ch/en/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:54:22.719+03:00",
+    "updated": "2025-08-14T12:07:24.000+03:00"
+  },
+  {
+    "uuid": "8c65b0a60cd57fce05f30fdb0b8c3f17eb9c818d",
+    "url": "https://www.newsbreak.com/news/3280821968544-dogs-of-berlin-season-1-streaming-watch-stream-online-via-netflix",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-29T19:59:00Z",
+    "title": "Dogs of Berlin Season 1 Streaming: Watch & Stream Online via Netflix",
+    "text": "If you love investigation procedures, Dogs of Berlin Season 1 will be perfect for you. Created by Christian Alvart, this German series follows two police officers delving into a renowned Turkish-German soccer player’s homicide. However, complications arise when it is revealed that one of them harbors connections to the underworld, casting a shadow of controversy over the investigation. Here’s how you can watch and stream Dogs of Berlin Season 1 via streaming services such as Netflix. Yes, Dogs of Berlin Season 1 is available to watch via streaming on Netflix. Directed by Christian Alvart, the German series shows two police officers — Erol Birkan and Kurt Grimmer — investigating the murder of the fictional Turkish-German football star Orkan Erdem. Their homicide investigation unleashes a city-wide frenzy in Berlin. With a myriad of potential suspects, including Neo-Nazis, the Arab Mafia, Turkish nationalists, football fans, and the Berlin Mafia, the complex case seems to reach the highest offices of the capital. To unravel the truth, the two officers must navigate the underbelly of the Berlin underworld. The cast features Fahri Yardım as Erol Birkan and Felix Kramer as Kurt Grimmer. The rest of the supporting actors and actresses include Urs Rechn, Katharina Schüttler, Anna Maria Mühe, Kais Setti, Mohammed Issa, Deniz Orta, Katrin Sass, and Sebastian Zimmler. Dogs of Berlin Season 1 is available to watch on Netflix. Subscribe to Netflix and turn your screen into a movie hall with a vast library of blockbuster hits and exclusive content. You can watch the series via Netflix by following these steps: The cheapest Netflix Standard with Ads Plan provides all but a few of its movies and TV shows. However, it will show ads before or during most of its content. You can watch in Full HD and on two supported devices at a time. Its Standard Plan provides the same but is completely ad-free while also allowing users to download content on two supported devices with an additional option to add one extra member who doesn’t live in the same household. The Premium Plan provides the same as above, though for four supported devices at a time, with content displaying in Ultra HD. Users get to download content on up to six supported devices at a time and have the option to add up to two extra members who don’t live in the same household. Netflix spatial audio is also supported. The Dogs of Berlin Season 1 synopsis is as follows: “A politically sensitive murder forces two disparate detectives into a battle with the Berlin underworld and a confrontation with their own corruption.” NOTE: The streaming services listed above are subject to change. The information provided was correct at the time of writing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.comingsoon.net/tag/dogs-of-berlin",
+      "https://comingsoon.net/tag/dogs-of-berlin"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "erol birkan",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian alvart",
+          "sentiment": "none"
+        },
+        {
+          "name": "orkan erdem",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurt grimmer",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "netflix",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mafia",
+          "sentiment": "none"
+        },
+        {
+          "name": "arab mafia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "berlin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T00:02:26.030+02:00",
+    "updated": "2023-12-30T00:02:26.030+02:00"
+  },
+  {
+    "uuid": "c976c7eaff144e9820b4d1ef03c7f7e80acfdb96",
+    "url": "https://www.zazoom.it/2025-05-08/esplosione-allex-ilva-di-taranto-e-incendio-dopo-lo-scoppio-del-tubo-dellaltoforno-colonna-di-fumo-nero/16924595",
+    "ord_in_thread": 0,
+    "author": "@zazoomblog",
+    "published": "2025-05-07T23:15:00Z",
+    "title": "Esplosione all' ex Ilva di Taranto e incendio dopo lo scoppio del tubo dell' altoforno colonna di fumo nero",
+    "text": "Esplosione all' ex Ilva di Taranto e incendio dopo lo scoppio del tubo dell' altoforno colonna di fumo nero\nincendio all'altofornodell'ex Ilva di Taranto, con una colonna di fumo: nessun operatore coinvolto, ma resta la paura dei residenti per le emissioni 🔗Notizie.virgilio.it\nSe ne parla anche su altri siti\nEx Ilva, parla il giudice Del Coco: «Processo Ilva a Potenza? Atto d?amore per Taranto» - «Un atto d?amore verso la città che ha salvato il nucleo principale del processo». Cancellare la sentenza di primo grado di ?Ambiente svenduto? con il suo carico... 🔗quotidianodipuglia.it\nTaranto: Nuova Ilva Decarbonizzata per un Futuro Sostenibile, dice il Ministro Pichetto - \"A Taranto siamo impegnati su una nuova Ilva decarbonizzata e questo significa riavviare tutto un sistema di innovazione e modello di azione e salubrità, con particolare riferimento alla salute e alla sostenibilità\". Lo ha detto il ministro dell'Ambiente, Gilberto Pichetto, in un videomessaggio inviato all'assemblea di Confindustria Taranto \"Le rotte del cambiamento\". In questo contesto, ha aggiunto, è importante anche \"il porto di Taranto. 🔗quotidiano.net\nChiamato per intervento un anno dopo la morte per cancro, la rabbia della vedova di un operaio dell'Ilva di Taranto - \"Il medico gli curava il bruciore allo stomaco con i fermenti lattici, ma lui aveva un cancro ed è morto in poco tempo, prima di potersi operare. Siamo stati lasciati soli e, alla fine, anche la beffa: la telefonata per l'intervento è arrivata quando mio marito era morto da un anno\". Ha pensato a uno scherzo Cristina Galianni, vedova di Antonio Spinosa, operaio dell'Ilva di Taranto ucciso \"da un tumore ambientale\", come ricorda il sindacalista che ha seguito la vicenda. 🔗tgcom24.mediaset.it\nLe notizie più recenti da fonti esterne\nEsplosione all'ex Ilva di Taranto e incendio dopo lo scoppio del tubo dell'altoforno, colonna di fumo nero; Esplode una tubiera di Afo1, paura nell'ex Ilva. Non si registrano feriti; Scoppio e fiamme nell'ex Ilva, allarme in fabbrica; Taranto, esplosione in un reparto dell'ex Ilva: nessun ferito. 🔗Altre fonti ne stanno dando notizia\nEsplosione all'ex Ilva di Taranto e incendio dopo lo scoppio del tubo dell'altoforno, colonna di fumo nero - Incendio all'altoforno dell'ex Ilva di Taranto, con una colonna di fumo: nessun operatore coinvolto, ma resta la paura degli abitanti per le emissioni ... 🔗virgilio.it\nTaranto, scoppia tubiera nell'ex Ilva. Fumo visibile a chilometri: “Stop a questa fabbrica di morte” - Da quantificare i danni dell'incidente. A quanto si apprende in prima battuta, non ci sarebbero feriti, ma la fitta coltre di fumo allarma la città. Dai ... 🔗bari.repubblica.it\nScoppia tubiera nell’ex Ilva a Taranto. Fumo visibile e respirabile per chilometri - Nella mattinata di oggi, presso lo stabilimento ex Ilva di Taranto si è registrato Un incidente . Dal siderurgico tarantino si è innalzata una fittissima nube avvistata anche a diversi chilometri di d ... 🔗ilcorrieredelgiorno.it",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "topics": [
+      "Disaster and Accident->industrial accident and incident",
+      "Disaster and Accident->fire",
+      "Disaster and Accident->explosion accident and incident",
+      "Environment->hazardous materials",
+      "Environment->air pollution",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Gilberto Pichetto",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Taranto",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ilva",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T02:34:41.315+03:00",
+    "updated": "2025-05-07T23:39:52.000+00:00"
+  },
+  {
+    "uuid": "1c3addc7e703747ddd40e01be2492b15bd80a362",
+    "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=440497",
+    "ord_in_thread": 0,
+    "author": "www.lemanbleu.ch, Léman Bleu Télévision",
+    "published": "2025-06-26T05:34:00Z",
+    "title": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay",
+    "text": "Téléphones interdits dans les écoles valaisannes, annonce Darbellay\nChristophe Darbellay estime qu'une interdiction uniforme dans tout le canton soulage les enseignants et les parents (archives).\nPhoto: KEYSTONE/CYRIL ZINGAROLe Valais va interdire les téléphones mobiles dans toutes les écoles du canton, annonce le ministre valaisan de l'éducation Christophe Darbellay jeudi dans la presse. La mesure s'appliquera aussi pendant les pauses.\n'De plus en plus d'enfants présentent des difficultés d'apprentissage et de lecture. Leur capacité à se concentrer diminue', explique le conseiller d'Etat valaisan en charge de l'économie et de la formation dans un entretien diffusé par les journaux alémaniques du groupe Tamedia.\nL'interdiction des téléphones portables va s'appliquer pendant tout le temps passé dans l'enceinte de l'école, y compris les pauses et le temps de midi, précise M. Darbellay. 'Le chemin de l'école est de la responsabilité des parents'.\nLe ministre centriste estime que des règles uniformes dans tout le canton soulagent les enseignants et les parents. 'La pression du groupe est élevée chez les enfants et les adolescents'.\n/ATS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Education->teachers",
+      "Education->school",
+      "Education->students",
+      "Social Issue->social services",
+      "Politics->education policy",
+      "Politics->government",
+      "Politics->civil rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T08:46:56.966+03:00",
+    "updated": "2025-06-26T05:57:46.000+00:00"
+  }
+]

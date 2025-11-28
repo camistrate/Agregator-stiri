@@ -1,0 +1,302 @@
+[
+  {
+    "uuid": "8532e7adde2459e1b12b8ef77a8be2e329006f27",
+    "url": "https://www.timeslive.co.za/news/world/2025-03-06-us-withdrawing-from-plan-to-help-major-polluters-move-from-coal-sources-say",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tim Cocks",
+    "published": "2025-03-06T05:15:00Z",
+    "title": "US withdrawing from plan to help major polluters move from coal, sources say",
+    "text": "US withdrawing from plan to help major polluters move from coal, sources say\n06 March 2025 - 07:15\nJust R20 for the first month. Support independent journalism by subscribing to our digital news package.\nJust R20 for the first month. Support independent journalism by subscribing to our digital news package.\nWould you like to comment on this article?\nSign up (it's quick and free) or sign in now.\nPlease read our Comment Policy before commenting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "topics": [
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->environmental pollution",
+      "Economy, Business and Finance->energy and resource",
+      "Economy, Business and Finance->financial and economic news",
+      "Politics->environmental policy",
+      "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T07:21:24.654+02:00",
+    "updated": "2025-03-06T07:21:24.654+02:00"
+  },
+  {
+    "uuid": "bc8e6a6f43ee3aac412d64b4653623f743064117",
+    "url": "https://peoplesdispatch.org/2024/01/25/greek-students-hit-the-streets-for-another-round-of-protests-against-private-universities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peoples Dispatch",
+    "published": "2024-01-25T20:07:00Z",
+    "title": "Greek students hit the streets for another round of protests against private universities : Peoples Dispatch",
+    "text": "For the third consecutive week, Greek student and youth groups and other progressive sections hit the streets, denouncing the conservative New Democracy (ND) government’s bid to open private universities. On Thursday, January 25, massive protest rallies were held in more than 40 cities, including Athens. Tens of thousands of students from coordination committees, and members of the Students’ Struggle Front (MAS), Panspoudastiki KS, Communist Youth of Greece (KNE), parents’ associations, teachers’ unions, and university workers demanded that the government scrap the proposed bill. The protesting students also expressed solidarity with the people of Palestine who are reeling under the genocidal war waged by the Zionist state of Israel. The Communist Party of Greece (KKE) and All Workers’ Militant Front (PAME) expressed solidarity and support for the protests. The Kyriakos Mitsotakis-led government has been trying to circumvent a constitutional clause that bars the formation of private universities. Opponents of the move have said the private universities will be unaffordable for those from economically disadvantaged backgrounds. As part of the ongoing protests, students’ coordinating committees have occupied many schools and universities. On January 24, the Communist Youth of Greece (KNE) [stated](https://www.902.gr/eidisi/neolaia-paideia/353585/kataggellei-tin-prospatheia-tis-kyvernisis-na-spilosei-ton-dikaio) that the government’s proposal would lead to the downgrading of degrees and the abolition of the uniform path to admissions for all. Kyriakos Ioannidis, the head of the Education Department of the Communist Party of Greece (KKE), [alleged](https://www.902.gr/eidisi/politiki/353120/i-empeiria-deihnei-oti-i-yparxi-idiotikon-ypovathmise-ta-dimosia-panepistimia) that “The coexistence of the public and private sectors in areas such as health or education proves that the private sector not only did not upgrade the public sector through competition, as the government hypocritically claims, but rather downgraded it or led it to operate in terms of cost-benefit rather than satisfying the needs of the people.” Earlier, the New Democracy (ND) government pushed through the establishment of the University Police and increased surveillance of academic spaces, triggering widespread [protests](https://peoplesdispatch.org/2021/01/23/greek-students-and-teachers-protest-militarization-of-campuses/). The move was widely perceived as an attempt to thwart radical mobilizations from campuses against the anti-people policies of the government.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "external_links": [
+      "https://www.902.gr/eidisi/politiki/353120/i-empeiria-deihnei-oti-i-yparxi-idiotikon-ypovathmise-ta-dimosia-panepistimia)",
+      "https://www.902.gr/eidisi/neolaia-paideia/353585/kataggellei-tin-prospatheia-tis-kyvernisis-na-spilosei-ton-dikaio)",
+      "https://902.gr/eidisi/neolaia-paideia/353585/kataggellei-tin-prospatheia-tis-kyvernisis-na-spilosei-ton-dikaio)",
+      "https://902.gr/eidisi/politiki/353120/i-empeiria-deihnei-oti-i-yparxi-idiotikon-ypovathmise-ta-dimosia-panepistimia)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kyriakos mitsotakis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "peoples dispatch",
+          "sentiment": "negative"
+        },
+        {
+          "name": "communist party of greece",
+          "sentiment": "none"
+        },
+        {
+          "name": "panspoudastiki ks",
+          "sentiment": "none"
+        },
+        {
+          "name": "kke",
+          "sentiment": "none"
+        },
+        {
+          "name": "all workers’ militant front",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "greece",
+          "sentiment": "none"
+        },
+        {
+          "name": "athens",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:17:05.582+02:00",
+    "updated": "2024-01-26T00:17:05.582+02:00"
+  },
+  {
+    "uuid": "f43f340cb391a0a5527ab91604799a6613ca5d68",
+    "url": "https://303magazine.com/2024/01/denver-to-cabo-san-lucas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jessica Hughes",
+    "published": "2024-01-16T13:00:00Z",
+    "title": "Denver to Cabo San Lucas: Your Guide to Staying Warm This Winter",
+    "text": "Congratulations, you’ve just survived Colorado’s first Polar Vortex in 2024. Sub-zero temperatures, bitter cold winds, swirls of snow and jam-packed traffic along I-70 are all enough to make any Denverite want a break from the cold and reward themselves with a warm weekend getaway from Denver to Cabo San Lucas.\nDenver travels this week to the warm waters and sandy beaches of Cabo San Lucas, Mexico to one of the top-notch all-inclusive resorts that will make you want to trade in your ski boots for sandals – the\nGarza Blanca Resort & Spa Los Cabos.\nGarza Blanca’s beachfront location rests along the 20-mile corridor between Cabo San Lucas and San Jose Del Cabo, in Mexico’s vibrant hub of chic beach destinations. A tropical hot spot that is not like your average all-inclusive resort, Garza Blanca raises the bar with its exceptional world-class gourmet culinary offerings, lavish suites, eight heated pools, a variety of activities for all travelers and one of the most luxurious spas in the region.\n5-star treatment\nAnticipatory service that greets you and meets your every need is what makes Garza Blanca stand out from the crowd. From prepping your poolside lounge experience to the best 24-hour room service, the staff at Garza Blanca completes the package. Get the five-star treatment with personalized luxury service, including a dedicated Butler to cater to your every desire, in-room food service and plenty of room for rest and relaxation.\n303 Magazine readers get the ultimate 5-star treatment with a special offer of 5% off your\nbooking when you use PROMO Code: 303M. Now who doesn’t deserve that after surviving Colorado’s harsh winters?\nSit and Savor\nOftentimes the food and drink options at all-inclusive resorts leave much to be desired, but not at Garza Blanca. The all-inclusive packages include all you need for an exceptional dining experience with fine dining options at any of the signature restaurants, signature alcoholic and non-alcoholic beverages and first-class, 24-hour room service.\nIndulge in a world-class culinary scene that spans from fine dining to casual beach, poolside, and healthy fare – there’s no shortage of ways to taste your way through Mexico. From top to bottom, Garza Blanca offers exceptional cuisine that keeps it casual, yet sophisticated, with cool raw bites and street tacos at the Food Truck on the beach. Or try some barside bites and crafty cocktails at the rooftop bar and pool area.\nBreakfast comes easy at Blanca Blue Mexican restaurant with a grab-and-dine breakfast buffet. Soak up the views from the beachfront terrace and enjoy a taste of local flavors to start your day.\nFor dinner, feast your eyes on rooftop ocean views and the exceptional food at the hotel’s newest restaurant – Noi Terrazza Italiana. La Dolce Vita is experienced with breezy ocean views, and the savory aroma of chef-crafted classic flatbreads, pizzas and calzones made in the outdoor oven using only the freshest ingredients. Or, savor the fusion of Japanese and Mexican flavors at Hiroshi Restaurant where Japanese-style dishes, including O-toro sushi rolls, nigiri and sashimi, are just the beginning of what your taste buds will encounter.\nThe Suite Life\nOcean views chaperone almost every square inch of your suites. No matter where you’re standing, sitting or sleeping, you’ll carry the views with you. Choose from\njunior, one and two-bedroom suites equipped with spectacular ocean views of the Sea of Cortez, chic amenities, 24-hour room service and a full kitchen (in one and two-bedroom suites) with all the modern appliances and gourmet accessories you’d ever need for a luxurious beach vacation.\nLarger-than-life open-air patios with table seating, comfy hammocks and endless views are the highlight. And for larger group vacations, the expansive\nresidences with three and four-bedroom options are the epitome of space and luxury.\nMake a Splash\nFill your afternoons with some much-needed pool time, which is easy to do with eight heated pools. There’s a little play for everyone from the kid’s pool to sipping on a spicy margarita at the swim-up bar. Relax on dry land with the many lounge chairs and two-person cabanas with plenty of umbrellas to shade you from the sun.\nBeing a family-friendly resort, the adult-only rooftop pool is the perfect perk for adults with no children. The infinity rooftop pool is a dream with idyllic temperatures, endless views and poolside food and drink service.\nWellness Reimagined\nIt’s even easier to feel good on vacation with the resort’s array of wellness-oriented activities, from daily yoga and paddle boarding to a state-of-the-art gym and world-class spa. But the real good feels come with a trip to their world-class spa at\nSpa Imagine. Reimagine what it’s like to truly bask in relaxation and rejuvenation with a personalized treatment and little extras that will make you forget all your worries.\nComplement all your spa treatments with the hydrotherapy circuit featuring a 10-station vitality pool, Jacuzzi, steam room, sauna, ice-cold dipping pool, and a power plunge shower. And be sure to cap it all off with quiet time lounging in the 9th-floor open-air relaxation balcony. Comfortably lounge, sip on some hot tea and soak up the sites and sounds of Cabo San Lucas.\nChoose How You Chill\nThe best part is you can choose if you want to enjoy the all-inclusive benefits or not. You can find everything you need with Garza Blanca’s all-inclusive\npackages but if you don’t need it all, opt in for a room-only stay – made easy with gourmet full kitchens in every suite or residence, perfect for cooking all your meals.\nPrime location\nIt’s easy to get out and explore nearby with the resort’s ideal location. Situated between a 20-minute drive to the lively city of Cabo San Lucas and a 15-minute drive from the more relaxed and artsy town of San Jose del Cabo, you get the best of both worlds.\nThe resort is also well-situated for all your sand-to-sea adventures.\nThings to do in Cabo San Lucas\nIf you visit in winter, be sure to keep your eye out for migrating whales. Sightings of humpback whales happen from October through April, as well as the occasional sightings of orcas if you’re one of the lucky ones. The whales begin their trek in the Bering and Chukchi Sea and end in the warm water lagoons of Mexico’s Baja peninsula, making their round-trip journey roughly 12,500 miles, said to be the longest migration of any mammal. Keep your eyes peeled, as I saw a family of humpbacks moving down the coast while eating breakfast on the patio at Blanca Blue.\nSail the open waters on a luxury yacht tour to see the whales or take to the waters with a snorkeling expedition to see sea turtles and sea lions. Hop aboard a charter to explore the Sea of Cortez and snap a few photos of the famed arch of Cabo San Lucas, also called “El Arco.”\nFor those who want to stick to dry land, there are camel treks on the sand, yes camels, electric bike tours and horseback riding experiences provided by the resort.\nDenver to Cabo San Lucas\nBoth United and Southwest Airlines offer direct flights from Denver to Cabo San Lucas. Then it’s only a 20-minute drive from Los Cabos International Airport to Garza Blanca. The easy three-hour direct flights get you from the snow to the sand in no time. And with direct flights available every day, there is always a good time to escape the cold and find your warm weather getaway.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://cabo.garzablancaresort.com/spa-imagine",
+      "https://cabo.garzablancaresort.com/explore-the-resort",
+      "https://cabo.garzablancaresort.com/special-offers-and-packages",
+      "https://cabo.garzablancaresort.com/los-cabos-all-inclusive",
+      "https://cabo.garzablancaresort.com/luxury-residences",
+      "https://cabo.garzablancaresort.com/suites",
+      "https://www.cabo.garzablancaresort.com/suites",
+      "https://www.cabo.garzablancaresort.com/luxury-residences",
+      "https://www.cabo.garzablancaresort.com/explore-the-resort",
+      "https://www.cabo.garzablancaresort.com/spa-imagine",
+      "https://www.cabo.garzablancaresort.com/los-cabos-all-inclusive",
+      "https://www.cabo.garzablancaresort.com/special-offers-and-packages"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "garza blanca",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "garza blanca resort & spa los cabos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colorado",
+          "sentiment": "none"
+        },
+        {
+          "name": "denver",
+          "sentiment": "none"
+        },
+        {
+          "name": "cabo san lucas",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        },
+        {
+          "name": "san jose del cabo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T18:01:37.355+02:00",
+    "updated": "2024-01-16T18:01:37.355+02:00"
+  },
+  {
+    "uuid": "4ec0123cf7220c9da7bb03eae15038e345773f35",
+    "url": "https://mauinow.com/2024/01/07/ho%ca%bbola-maui-reaches-milestone-in-the-cleanup-of-lahaina/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wendy Osher",
+    "published": "2024-01-07T21:38:00Z",
+    "title": "Hoʻōla Maui reaches milestone in the cleanup of Lahaina",
+    "text": "Hoʻōla Maui reaches milestone in the cleanup of Lahaina Hoʻōla Maui, a coalition of Native Hawaiian Organizations, along with other Hawaiʻi businesses and organizations are actively collaborating to ensure the clean-up of the burn zones on Maui is efficient and thorough for the affected community. The partners reached a milestone in the cleanup of Lahaina recently with: 1,481 Tax Map Keys (TMKs) Fully Assessed; 168 Tons of Household Hazardous Materials (HHM) and Bulk Asbestos Material (BAM) Removed; 6,371 Samples Taken; 3,430 Vehicles Located; and 6,241 Trees Assessed with 202 Trees Marked as Protected and 4,678 Trees Tagged. Hoʻōla Maui partners have pledged to work together, share resources and expertise, and coordinate and collaborate for each phase of the recovery effort regardless of which individual companies are awarded contracts, in order to prioritize the people of Maui. Project Wrap-up | By the Numbers: Hazardous Site Assessments 1,481 Tax Map Keys (TMKs) Fully Assessed: Working under DAWSON, the prime contractor leading the Hazard Site Assessment scope of work under the US Army Corp of Engineers, Hoʻōla Maui crews assessed affected properties in West Maui. Each Hazard Site Assessment includes documentation of descriptions and the exact locations of: - Structural ash footprint: The area where ash is present from burnt buildings, plus an additional 3-foot perimeter around the ash - Hardscapes: Slabs, foundational structures, walkways, patios, standing walls, retaining walls, and driveways - Household hazardous materials (HHM): Chemical or physical hazards including paint, pool chemicals, fuel, etc. that were not immediately removed by EPA - Vehicles: Cars, boats, motorcycles, or any other titled vehicle - Trees: Trees within the structural ash footprint - Utilities: Location of underground and/or above ground utilities - Potential explosives: Unexploded ordnance (UXO), firearms, ammunition Of 1,649 total TMKs affected by the West Maui wildfires, 1,481 TMKs were assessed, 168 TMKs were deferred to Phase 2 or opted out of the program. 3,430 Vehicles Located: As crews inspected each property, they located over 3,000 cars, boats, motorcycles, and other titled vehicles. Household Hazardous Materials & Bulk Asbestos Material Removal 168 Tons of Household Hazardous Materials (HHM) and Bulk Asbestos Material (BAM) Removed: Working property by property, crews removed tons of HHM and BAM to ensure Phase 2 of the debris removal process is safe and efficient. 6,371 Samples Taken: As part of the HSA process, Hoʻōla Maui crews inspected the properties for household hazardous materials and contaminants like asbestos, with the purpose of identifying and removing materials that may pose a health risk during the Phase 2 debris removal process. Hazardous Tree Assessments 6,241 Trees Assessed: Arborists have played a critical role in completing Hazard Site Assessments in Phase 1 of the debris removal process. Lahaina-based Kane’s Legacy Tree Service and Haʻikū-based Climbing HI worked under Hoʻōla Maui member DAWSON, the prime contractor, to carefully examine each tree to determine whether it might pose a potential hazard in the future. 4,678 Trees Tagged: Of the 6,241 trees assessed by the arborists, 4,678 were tagged with colorful symbols to indicate the tree’s status to Phase 2 debris removal crews. For example, trees marked with a blue dot mean that the tree is unlikely to survive the next four to five years and should be removed to prevent it from falling and potentially harming people or property. A blue or yellow flag indicates that cultural monitors have identified a tree as culturally significant. 202 Trees Marked as Protected: During the hazardous tree assessment process, arborists and cultural monitors worked collaboratively to identify trees that are culturally significant or important. This significance could be due to the species of the tree, the history of the tree itself, or if the tree serves as a marker of cultural importance for the ground beneath or near it. Center of Operations In the Community Member Native Hawaiian Organization companies include DAWSON; Nakupuna Companies; Alakaʻina Foundation Family of Companies; The Hawaiʻi Pacific Foundation; Kinai ʻEha; Namauʻu Technological & Industrial; Makai, a Kekoa Company; Mālama Kai Technologies; and Krilla Kaleiwahea. Hoʻōla Maui partners include The Council for Native Hawaiian Advancement; Enterprise; Hawaiʻi News Now; Hawaiian Airlines; International Longshore & Warehouse Union; Kaiser Permanente; Native Hawaiian Organization Association; Westin Kāʻanapali and more. To join Hoʻōla Maui in its work or to learn more about the progress underway, visit [www.hoolamaui.com](https://www.hoolamaui.com). Sponsored Content Comments [View Comments](#)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.hoolamaui.com",
+      "https://hoolamaui.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dawson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "lahaina hoʻōla maui",
+          "sentiment": "none"
+        },
+        {
+          "name": "maui",
+          "sentiment": "none"
+        },
+        {
+          "name": "lahaina",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:17:41.887+02:00",
+    "updated": "2024-01-08T01:47:32.146+02:00"
+  },
+  {
+    "uuid": "73bac064168e5e4a321ddf943a50cc443368fda0",
+    "url": "https://actu.fr/occitanie/mijanes_09193/pyrenees-malgre-de-belles-quantites-de-neige-cette-station-n-ouvrira-pas-plus-tot_61994168.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@actuoccitanie",
+    "published": "2024-12-13T16:46:00Z",
+    "title": "Pyrénées. Malgré de belles quantités de neige, cette station n'ouvrira pas plus tôt",
+    "text": "Voir mon actu Suivre Actu Occitanie Malgré la neige , il n’y aura pas d’ouverture anticipée. Nichée sur les pentes de la montagne de Canrusc ( Ariège ) entre 1 500 et 2 000 mètres d’altitude, dans les Pyrénées , la station de Mijanès-Donezan a bénéficié d’importantes chutes ces derniers jours.\nLa neige est au rendez-vous. (©Mijanès) Les cumuls de neige damnés représentent actuellement « 25 centimètres en bas des pistes et 40 centimètres en haut de la station », indique à Actu Occitanie Julien, pour la station de Mijanès-Donezan. « Nous sommes en train de préparer les pistes. Toutefois, la date d’ouverture prévisionnelle demeure le samedi 21 décembre 2024. Il n’y aura pas d’ouverture anticipée. »\nCliquez ici pour visualiser le contenu À lire aussi\nPyrénées. L’espoir de retrouver le couple de randonneurs espagnols vivants est très mince\nDes recrutements en cours Au passage, la station communique sur sa campagne de recrutements pour des perchmans, des caissiers, des moniteurs,… Faut-il y voir une relation de cause à effet ?\nCliquez ici pour visualiser le contenu Dans les Pyrénées ariégeoises, deux stations ont pourtant créé la surprise en annonçant une ouverture anticipée. Guzet et les Monts d’Olmes ouvriront exceptionnellement les 14 et 15 décembre. « Les belles chutes de neige des derniers jours nous offrent un magnifique manteau blanc de plus de 80 cm de poudreuse au pied des pistes », communique la station des Monts d’Olmes.\nÀ lire aussi\nPyrénées. Cette petite station familiale crée la surprise en annonçant une ouverture anticipée\nAprès ce week-end de préouverture, la station fermera temporairement ses portes afin de préparer une ouverture continue pour le reste de la saison dès le samedi 21 décembre. Il en est de même pour la station de Guzet. De son côté, Ax-3-Domaines – le plus grand domaine skiable de l’Ariège – lance officiellement sa saison le 14 décembre.\nSuivez toute l’actualité de vos villes et médias favoris en vous inscrivant à Mon Actu .\n#Neige #Pyrénées #Ski",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8929.986256602084!2d1.9983751018699696!3d42.727699681603376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12af9173e6663faf%3A0x1b4b2bc667b637b5!2sStation%20de%20Ski%20de%20Mijan%C3%A8s-Donezan!5e1!3m2!1sfr!2sfr!4v1734088997387!5m2!1sfr!2sfr",
+      "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fskimijanes%2Fposts%2Fpfbid0zugoWW8jTZHVjBgE5Q4mzyiy5pFrGjjDDHPdQabsWN5yhU5WhovYH8k9nP2MQtdVl&show_text=true&width=350",
+      "https://facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fskimijanes%2Fposts%2Fpfbid0zugoWW8jTZHVjBgE5Q4mzyiy5pFrGjjDDHPdQabsWN5yhU5WhovYH8k9nP2MQtdVl&show_text=true&width=350",
+      "https://google.com/maps/embed?pb=!1m18!1m12!1m3!1d8929.986256602084!2d1.9983751018699696!3d42.727699681603376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12af9173e6663faf%3A0x1b4b2bc667b637b5!2sStation%20de%20Ski%20de%20Mijan%C3%A8s-Donezan!5e1!3m2!1sfr!2sfr!4v1734088997387!5m2!1sfr!2sfr",
+      "https://www.google.com/maps/embed",
+      "https://www.facebook.com/plugins/post.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T19:57:07.549+02:00",
+    "updated": "2024-12-13T19:57:07.549+02:00"
+  }
+]

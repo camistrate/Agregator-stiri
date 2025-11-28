@@ -1,0 +1,449 @@
+[
+  {
+    "uuid": "3ff9c435916aa501206561e6b099026c49224724",
+    "url": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-weather-updates-poor-aqi-recorded-in-several-areas-amid-diwali-celebrations-23421902",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mid-day online correspondent",
+    "published": "2024-11-02T01:52:00Z",
+    "title": "Mumbai weather updates: Several areas of city record ’poor’ AQI amid Diwali celebrations",
+    "text": "Following the Diwali celebrations, the air quality in Mumbai and its surrounding areas remained at a moderate level. On Saturday, a haze lingered over the city, obscuring its skyline, while the latest Mumbai weather updates from the Indian Meteorological Department indicated a rise in temperatures. According to the Mumbai weather updates of the Indian Meteorological Department (IMD), the Colaba observatory recorded a maximum temperature of 33.0 degrees Celcius. Santacruz observatory, the Met department data showed, recorded a temperature of 34.6 degrees. According to the latest Mumbai weather updates by the IMD, the maximum temperature will likely be around 36 degrees Celsius, and the minimum temperature will likely be around 25 degrees Celsius. The relative humidity is 66 percent. The sun rose at 06:29 AM and will set at 06:23 PM. The IMDs latest Mumbai weather updates have forecasted a partly cloudy sky for the city and its suburbs over the next 24 hours. Mumbai weather updates: Citys AQI in moderate category On November 2, the Central Pollution Control Boards SAMEER app reported in its latest Mumbai weather updates that the citys air quality remained in the moderate category, with an Air Quality Index (AQI) of 195 at 9:05 AM. Unlike its streak so far, many areas across Mumbaiper the SAMEER app dashboardshowed poor AQI. However, Bandra Kurla Complexs AQI slipped further into the poor category, at 251. Meanwhile, Chembur and Ghatkopar recorded poor air quality, with an AQI of 242 and 224, respectively. Borivali recorded good air quality, with an AQI of 81. Powai recorded an AQI of 77. According to data from the SAMEER app, Navi Mumbai recorded air quality in the moderate category with an AQI of 174, while Thane registered a poor AQI of 222. The air quality index from 0 to 100 is considered good, 100 to 200 moderate, 200 to 300 poor, 300 to 400 very poor and from 400 to 500 or above severe. Meanwhile, as air pollution levels continue to rise in Mumbai, the Brihanmumbai Municipal Corporation (BMC) has revised guidelines issued last year for construction sites. The civic body will also form squads at the ward level to visit construction sites and act if guidelines are flouted. Sensor-based air pollution monitoring systems will be installed at all construction project work sites and immediate action to be taken if pollution levels are detected above the limit.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Santacruz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Indian Meteorological Department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Colaba",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-02T06:25:23.464+02:00",
+    "updated": "2024-11-02T06:25:23.464+02:00"
+  },
+  {
+    "uuid": "60226ee861aab941fe46734ec2ff9776ac642891",
+    "url": "https://www.lavozdegalicia.es/noticia/arousa/2025/07/31/organizan-cortegada-unha-xornada-observacion-astronomica/0003_202507A31C3993.htm",
+    "ord_in_thread": 0,
+    "author": "lavozdegalicia",
+    "published": "2025-07-31T03:00:00Z",
+    "title": "Organizan en Cortegada una jornada de observación astronómica",
+    "text": "Este sábado por la noche, la isla de Cortegada se convertirá en plataforma para una observación astronómica. La actividad ha sido organizada por el Parque Nacional das Illas Atlánticas en colaboración con la Federación Galega de Astronomía e Radioastronomía (Fegar) . Así, el sábado, «e do mesmo xeito que se están a desenvolver este verán en Cíes e Ons, por parte de Fegar ofrecerase esta activdiade, que é de balde e non é necesaria inscripción previa» , explican desde el parque nacional. Señalan, además, que la actividad está dirigida a un público de todas las edades , que podrá llegar a la isla bien usando su propio barco, bien en las navieras habilitadas para ello. Desde las 20.30 horas habrá una observación solar y a partir de las 22.30 comenzará la del cielo nocturno , que durará hasta medianoche.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->astronomy",
+      "Science and Technology->scientific exploration",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->hobby"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Cíes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ons",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:13:32.040+03:00",
+    "updated": "2025-08-01T09:06:44.000+03:00"
+  },
+  {
+    "uuid": "5bef6cadd310a2c2f59c3d82ce466213996123dc",
+    "url": "https://www.newsbreak.com/tuscaloosa-al/3279950126672-alabama-alters-cfp-game-prep-after-michigan-s-sign-stealing-scandal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-28T23:02:00Z",
+    "title": "Alabama alters CFP game prep after Michigan’s sign-stealing scandal",
+    "text": "The lingering effects of the Michigan’s alleged sign stealing hasn’t seemed to dissipate, and it’s apparently changed the way that Alabama has been preparing for their New Year’s Day meeting with the Wolverines in the Rose Bowl. A number of Alabama players confirmed to reporters in California that the team has implemented new security precautions in how it has been handling its film study. Players have not been able to bring their iPads home with them to watch practice film, and they’ve only watched game clips as a team, per USA Today’s Dan Wolken . The added security measures come after Michigan became embroiled scandal that gripped college football. Former Michigan football staffer Connor Stalions was accused of devising an intricate sign-stealing and in-person advanced scouting scheme. Stalions resigned in the wake of the scandal and Harbaugh was suspended the final three Big Ten games of the season. Despite all of the allegations and staff changes, Stallions and Michigan were never accused of computer hacking to gather information. “We were able to watch film as a team, but like personally we can’t watch film because I don’t know, some reason Michigan stealing signs,” Alabama receiver Isaiah Bond told reporters, according to the Tuscaloosa News. “Our coaches told us that probably like a week ago, right before we left to come here.” Alabama offensive coordinator Tommy Rees wouldn’t elaborate as to why the football program has changed things up ahead of the Michigan matchup, USA Today reported . “I’m not gonna get into the whole film, sign-stealing. I’m not talking about it,” Rees said, per the outlet. “Our job is to give our players the best chance to have success on the field. We’re focused on what we’re trying to do and that’s really it.” While the Alabama players acknowledged that it was a notable departure from how the team usually does things, it hasn’t had any negative impact on their prep for the Rose Bowl. Despite the drama surrounding the Wolverines, Michigan went undefeated and captured a Big Ten title in the process. The winner of this semifinal will meet the victor of the Washington-Texas game for a shot at the national title.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0B9shc_0qSxfSDN00",
+      "https://nypost.com/2023/11/03/sports/michigan-fires-connor-stalions-amid-sign-stealing-scandal/",
+      "https://twitter.com/DanWolken/status/1740428606294372849?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1740428606294372849%7Ctwgr%5Ed9a45ba94bdfc83dd03a67bd5bbf8c7402592921%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Flarrybrownsports.com%2Fcollege-football%2Falabama-pregame-prep-michigan-sign-stealing%2F626211",
+      "https://www.usatoday.com/story/sports/ncaaf/2023/12/28/alabama-michigan-sign-stealing-limits-player-ipads/72050235007/",
+      "https://www.tuscaloosanews.com/story/sports/college/football/2023/12/28/alabama-football-michigan-sign-stealing-scandal-rose-bowl-film/72015580007/",
+      "https://img.particlenews.com/image.php?url=0B9shc_0qSxfSDN00",
+      "https://usatoday.com/story/sports/ncaaf/2023/12/28/alabama-michigan-sign-stealing-limits-player-ipads/72050235007/",
+      "https://www.twitter.com/DanWolken/status/1740428606294372849?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1740428606294372849%7Ctwgr%5Ed9a45ba94bdfc83dd03a67bd5bbf8c7402592921%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Flarrybrownsports.com%2Fcollege-football%2Falabama-pregame-prep-michigan-sign-stealing%2F626211",
+      "https://www.tuscaloosanews.com/story/sports/college/football/2023/12/28/alabama-football-michigan-sign-stealing-scandal-rose-bowl-film/72015580007",
+      "https://www.usatoday.com/story/sports/ncaaf/2023/12/28/alabama-michigan-sign-stealing-limits-player-ipads/72050235007",
+      "https://www.img.particlenews.com/image.php?url=0B9shc_0qSxfSDN00",
+      "https://tuscaloosanews.com/story/sports/college/football/2023/12/28/alabama-football-michigan-sign-stealing-scandal-rose-bowl-film/72015580007/",
+      "https://img.particlenews.com/image.php",
+      "https://www.nypost.com/2023/11/03/sports/michigan-fires-connor-stalions-amid-sign-stealing-scandal/",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0B9shc_0qSxfSDN00",
+      "https://nypost.com/2023/11/03/sports/michigan-fires-connor-stalions-amid-sign-stealing-scandal",
+      "https://twitter.com/DanWolken/status/1740428606294372849"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dan wolken",
+          "sentiment": "none"
+        },
+        {
+          "name": "harbaugh",
+          "sentiment": "none"
+        },
+        {
+          "name": "connor stalions",
+          "sentiment": "none"
+        },
+        {
+          "name": "stalions",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cfp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wolverines",
+          "sentiment": "none"
+        },
+        {
+          "name": "usa today",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "alabama",
+          "sentiment": "none"
+        },
+        {
+          "name": "michigan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rose bowl",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:29:50.837+02:00",
+    "updated": "2023-12-29T01:29:50.837+02:00"
+  },
+  {
+    "uuid": "f10b582b7acabc8e72d9f4df8c4b1dc49b45bd89",
+    "url": "https://www.republicain-lorrain.fr/economie/2025/07/10/apres-l-inondation-tout-rentre-peu-a-peu-dans-l-ordre-rue-taison",
+    "ord_in_thread": 0,
+    "author": "Grégory Ingelbert",
+    "published": "2025-07-10T16:50:00Z",
+    "title": "Metz. Après l'inondation, tout rentre peu à peu dans l'ordre rue Taison",
+    "text": "Metz Après l’inondation, tout rentre peu à peu dans l’ordre rue Taison\nLe calme après la tempête. Ou plutôt, après la grosse inondation. Celle qui a perturbé la vie de la rue Taison, mercredi 9 juillet. La canalisation principale d’eau potable avait cédé au petit matin, impactant pour le reste de la journée cette artère passante et commerçante du vieux Metz. La trentaine de magasins et restaurants était restée fermée, et les habitants de plusieurs immeubles anciens, soit une trentaine de personnes, ont dû passer la nuit ailleurs.\nEt pour cause : leurs bâtiments pouvaient présenter des risques d’effondrement. L’affaissement de terrain provoqué par la rupture de la conduite et l’humidité des sols représentaient en...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_fr",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T21:07:10.431+03:00",
+    "updated": "2025-07-11T19:08:15.000+00:00"
+  },
+  {
+    "uuid": "df849817111e0d4f286a60149f757ed319fbb683",
+    "url": "https://www.meneame.net/story/atentado-islamista-durante-misa-navidad-deja-mas-160-cristianos/c038",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CerdoJusticiero",
+    "published": "2023-12-28T21:52:00Z",
+    "title": "#38 Un atentado islamista durante la misa de Navidad deja más de 160 cristianos asesinados en Nigeria",
+    "text": "[Expat_Guinea_Ecuatorial](/user/Expat_Guinea_Ecuatorial)a [gaceta.es](/go/link/3891432) [#0](c0#c-0) Ese titular es tendencioso y confuso, y probablemente seas consciente. El ataque no fue durante una misa, como quiere dar a entender, si no que se atacó una serie de aldeas de manera coordinada. Y además, el factor religioso no es el único relevante, y tampoco está plenamente confirmado.\nHay fuentes mucho más serias, informadas y rigurosas que la que has mandado...\n[#10](c10#c-10) Resulta difícil creer que puedan existir fuentes más serias leyendo maravillas cosas como:\nLa reciente matanza sucedida en Navidad confirma lo que anuncian las estadísticas: el cristianismo es la religión más perseguida en el mundo. Y no se limita solamente a esta región de África, sino que ocurre en Asia y Medio Oriente. Hace poco a cristianos perseguidos por el régimen comunista chino se les negó asilo en la España de Pedro Sánchez y el PSOE. Solo una lo pudo obtener porque su salud le impedía subir al avión donde la deportaban.\nTodo ello, mientras las pateras siguen llegando a España, posiblemente con insurgentes tan radicales como los que masacran a los cristianos en Nigeria y sin el amparo para los cristianos que huyen de estos.\n[#9](c9#c-9) bueno. Entérate quién financio al valeroso pueblo de Afganistán y sus valerosos guerreros los muyahidines( les dedicaron Rambo iii y todo), o quien armó y financio a Irak, a estos que ves ahora este terrible atentado de la noticia, quien los organizo y financió, ... Después nos vuelves a contar estás cosas. Y si sigues pensando que está irán detrás de todo pq es omnipresente vale. Si ves q algún otro estado puede estar implicado, fijate quién lo arma y financia. Un saludo.\n[#13](c13#c-13) lo se y lo he criticado 100 millones de veces, dinero de EEUU y Arabia Saudita y Pakistán.\nPero eso no les importa para llamarlos partisanos, \"que en Europa les habría llamado partisanos y que habrían luchado contra los nazis\"\nEso es mierda, el fanatismo religioso no atiende a razones.\nAl menos tu comentario muestra algo de vergüenza de esa gente... Algo es algo.\n[#20](c20#c-20) pues mira otra vez la captura que mandas, pq es exactamente lo que estoy diciendo. Afganistán era un país más adelantado que España y las mujeres iban sin velo. El tío Sam puso a la derecha religiosa conservadora, o lo que viene a ser los fascistas de toda la vida, pero en musulmán, a levantarse en armas... Cómo en Irak, libia, Egipto, Ucrania... Mismo proceder en todos lados, mismo resultado en todos lados. Países de mierda con gobiernos autoritarios y la población paupérrima y reprimida. Eso es el tío Sam.\n[#30](c30#c-30) Claro, Afganistan era un paraiso...\nhttps://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992))\nTienes una vision de la historia bastante distorsionada. China tambien dio armas a los talibanes para luchar contra la URSS, entre otros tantos paises....\nClaaaaaaro, todo culpa del tio sam...\n[#31](c31#c-31) entérate lo que era Afganistán antes del 92.\nEra un estado laico. En el año 90 la mayoría del profesorado eran mujeres, por ejemplo, que estaba integrada en el mundo laboral.\nY la revolución hostigada por el tío Sam puso a los integristas islámicos. Los valerosos muyahidines, como dijeron en Rambo 3, que les dedicaron.\nInfórmate tú un poquito, antes de hablar sin saber.\n[#14](c14#c-14) Yo no apoyo yihadistas, eso es Israel que apoya a DAESH\nYo soy de izquierdas, no apoyo a la extrema derecha\nNo es muy dificil de entender, ánimo\n[#18](c18#c-18) otro comentario más de \"la culpa es de todos menos de la yihad y los países de mierda donde reina la sharia\"\nHoy te estás coronado máquina.\nQue lastima que estes aquí criticando a occidente para tapar mierdas de asesinos fanatizados y no allí al revés como los verdaderos mártires que si luchan por denunciar atrocidades de países islámicos, ahí veríamos lo valiente que eres con tu reinvidicacion de sofa y tu bandera nazi con la israelí en la foto de perfil.\n[#25](c25#c-25) Financiasteis a los talibanes para combatir a los rusos y ahora estamos pagando los platos\nFinanciar ISIS para destruir oriente medio\nFinanciar siempre lo peor para seguir con los genocidios, apartheid, limpieza étnica...\n[#26](c26#c-26) \"Financiasteis a los talibanes\"\nyo no financie a nadie, manipulador de pacotilla. Típico de esos de la bandera de tu perfil.\nMuestras muchos decíamos que la primavera árabe está plagado de fanáticos religiosos que apoyaban las reveliones, tantos otros decían que \"callate, hacen lo que deberíamos estar haciendo en Europa, es una revolución\". Ahora a gente como tú, si tu, que estás criticando a los críticos con el yihadismo de hamas se le avisa que apoyar grupos terroristas que hacen matanzas públicas es una barbaridad y que esto les embalentona y atrae a más fanáticos y que será la perdición de Palestina no escucháis. Dentro de 10 años saldrán muchos de Europa que han visto gritos de Allahu adbak y tontos en Internet diciendo que el único error de hamas es no haber actuado antes... Luego habrán chavales que pensarán que están siendo héroes en un Isis o unos talibanes dando su vida por puercos que vienen a cuerpo de rey con 4 mujeres y esclavas sexuales.\nMira, igual en que en Gaza, pero estos no lo llaman masacre.\nhttps://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html\nhttps://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/\n[#9](c9#c-9) ¿En qué parte de su comentario dice eso? \"no son culpables de sus actos\" y toda la mierda que sigue. O qué parte de su comentario te ha llevado a esa conclusión, si es que necesitas algo más de margen.\nAunque es posible que esa respuesta no tenga nada que ver con su comentario y simplemente sea una patética y lamentable pataleta porque no te ha gustado su respuesta.\n[#17](c17#c-17) \"por no sé que historia\".\n¿O por \"no quiero saber\"? Te dan la oportunidad de aprender, no la desperdicies.\n[#19](c19#c-19) tienes algún comentario de crítica o de repudio a esta atrocidad? O vienes aquí a adoctrinar me sobre lo malo que es eeuu?\nEs una noticia de 160 muertos a manos de yihadistas por ser infieles.\nEntre tu y yo? Es duro entrar aquí a un noticia tan trágica y ponerte a discutir sobre si la culpa es o no es de occidente o ya estás curado de eso?\nEntras aquí a recalcar que \"no quiero saber\" tu verdad... Que ascazo.\n[#21](c21#c-21) Eres tú quien ha introducido este tema. Igual esperabas otro tipo de respuestas y ahora te arrepientes de haberte puesto a chapotear con intención de salpicar a los demás.\n[#23](c23#c-23) en todo momento denunció:\n1* las atrocidades de grupos islamistas radicales, no como tantos aquí que aprendieron que eran los talibanes hace 2 meses y ahora los llaman partisanos. Asesinos es su nombre, como es el del gobierno de irán o Arabia Saudita ente otros.\n2* crítico a los que claramente ocultan y defienden a estos asesinos bajo un pretexto de victimismo en Palestina.\nUn terrorista es un terrorista y lo es con 0 muertos en Palestina y con un millón de muertos.\n[#27](c27#c-27) 1a parte todo bien. Segunda, ya no tanto ¿Cómo que terrorista se es y punto?\n¿Crees de verdad que si a esta gente nadie estuviera tocándole los huevos en su casa harían lo mismo?\nIr a la raíz del problema, a las causas, e intentar desenredar un tema complejo no es defender a nadie.\nEstos son los que en Francia, España e Italia eran llamados partisanos por que no se que mierdas de las circunstancias? O estos los podemos llamar terroristas?\nLa yihad se lleva a cabo con muerte de infieles y el miedo a serlo.\nNo se trata de liberar nada, cada ataque sirve para atraer radicales y causar estragos en los no creyetes.\nQuien apoya a yihadistas es tan asesino como ellos.\n[#3](c3#c-3) Estos son los que llevan EEUU y UK financiando más de un siglo\nA lo más fundamentalista y extremista\nAquí cuando iban a la casa blanca a recibir paguitas\nhttps://es.m.wikipedia.org/wiki/Archivo:Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg\n[#8](c8#c-8) bajo ninguna circunstancia son culpables de sus actos, siempre es otro, la culpa siempre será de EEUU, de UK, de la sociedad, de la Bernarda, pero nunca ellos y su fanatismo religioso serán los culpables para vosotros.\nVuestra fijación por defender o tapar cada asesino terrorista con escusas es repugnante y os rebaja como... Voy a decir seres humanos.\nEs decir para vosotros el fanatismo islámico viene de un supuesto apoyo de EEUU a hamas y no de irán...\nBoko haram es un paso de baile radicalizado por EEUU.\nLos talibanes son partisanos radicalizados por EEUU.\nLos hermanos musulmanes se radicalizado jugando call of duty.\nPero jamás lobbys, poderes y dinero de países radicales apoyan a estos grupos de mierda.\nAsí es vuestro mundo.\n[#12](c12#c-12) pero si tu pecas de lo mismo.\nA quien coño quieres dar lecciones?\nEEUU: apoyo yihadistas para quitarse de en medio a un enemigo común.\nTu: apoyas yihadistas para quitarte de en medio un enemigo común.\nEso que tienes ahí llamando nazis es la bandera de Israel no? Imagino que no eres simpatizante, pues eso.\nLa única deferencia entre EEUU y vosotros es que a EEUU sólo le movía la política, a vosotros os pierde el fanatismo.\nSabes lo que más me revienta de vosotros? Que no vais a ser vosotros quien caiga en esa oscuridad por vuestra culpa.\nHabrá niños de 15 que se sentirán libertadores, partisanos, defensores poniendo bombas para un estado islámico por vuestra culpa y vuestros comentarios.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992",
+      "https://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia",
+      "https://lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:04:16.055+02:00",
+    "updated": "2023-12-29T01:04:16.055+02:00"
+  },
+  {
+    "uuid": "f79acda07db94c1e940c32d9eaef37ca4cc10fa5",
+    "url": "https://www.latestnigeriannews.com/p/4353830/niger-government-shuts-down-ibb-university-indefinitely-after-students-protest.html",
+    "ord_in_thread": 0,
+    "author": "Latestnigeriannews",
+    "published": "2025-06-26T04:25:00Z",
+    "title": "Niger Government shuts down IBB University indefinitely after students protest",
+    "text": "-- External Links --\nPunch\nVanguard\nThisday\nGuardian\nDaily Sun\nThe Nation\nDaily Independent\nLeadership\nTribune\nNational Mirror\nDaily Trust\nDaily Times\nBusinessDay\nSahara Reporters\nPremium Times\nPM News\nTori\nLinda Ikeji\nBella Naija\nNairaland\nCNN\nBBC\nAljazeera\nGoal\nAfrican Football\nBleacher Report\n90min\nComplete Sports\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\n|\nViewing Mode:\nMedium\nVanguard\nPunch\nGuardian\nThisday\nDaily Sun\nLeadership\nTribune\nDaily Trust\nDaily Times\nDaily Independent\nThe Nation\nNational Mirror\nBusinessDay\nSahara Reporters\nSports\nEntertainment\nWorld\nTechnology\nBusiness\nPolitics\nFeatures\nColumns\nNigerian Jobs\nDay\n01\n02\n03\n04\n05\n06\n07\n08\n09\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\nMonth\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug\nSep\nOct\nNov\nDec\nYear\n2024\n2023\n2022\n2021\n2020\n2019\n2018\n2017\n2016\n2015\n2014\n2013\n2012\n2011\nArchive:\nEntertainment Headlines Today\n[Thu-26-Jun-2025]\n-\n-\n-\n-\n-\n-\n-\n-\n-\nClick to view all Entertainment headlines today\nSports Headlines Today\n[Thu-26-Jun-2025]\n-\n-\n-\n-\n-\n-\n-\n-\n-\nClick to view all Sports headlines today\nNiger Government shuts down IBB University indefinitely after students protest\nPublished by\nPremium Times\non Thu, 26 Jun 2025\nGovernor Mohammed Bago directed that the institution be shut down indefinitely with immediate effect to forestall further breakdown of law and order.The post Niger Government shuts down IBB University indefinitely after students protest appeared first on Premium Times Nigeria.\nClick here to read full news..\nAll Channels\nNigerian Dailies:\nPunch\n|\nVanguard\n|\nThe Nation\n|\nThisday\n|\nDaily Sun\n|\nGuardian\n|\nDaily Times\n|\nDaily Trust\n|\nDaily Independent\n|\nThe Herald\n|\nTribune\n|\nLeadership\n|\nNational Mirror\n|\nBusinessDay\n|\nNew Telegraph\n|\nPeoples Daily\n|\nBlueprint\n|\nNigerian Pilot\n|\nSahara Reporters\n|\nPremium Times\n|\nThe Cable\n|\nPM News\n|\nAPO Africa Newsroom\nCategories Today:\nWorld\n|\nSports\n|\nTechnology\n|\nEntertainment\n|\nBusiness\n|\nPolitics\n|\nColumns\n|\nAll Headlines Today\nEntertainment (Local):\nLinda Ikeji\n|\nBella Naija\n|\nTori\n|\nDaily News 24\n|\nPulse\n|\nThe NET\n|\nDailyPost\n|\nInformation Nigeria\n|\nGistlover\n|\nLailas Blog\n|\nMiss Petite\n|\nOlufamous\n|\nStella Dimoko Korkus Blog\n|\nYnaija\n|\nAll Entertainment News Today\nEntertainment (World):\nTMZ\n|\nDaily Mail\n|\nHuffington Post\nSports:\nGoal\n|\nAfrican Football\n|\nBleacher Report\n|\nFTBpro\n|\nKickoff\n|\nAll Sports Headlines Today\nBusiness & Finance:\nNairametrics\n|\nNigerian Tenders\n|\nBusiness Insider\n|\nForbes\n|\nEntrepreneur\n|\nThe Economist\n|\nBusinessTech\n|\nFinancial Watch\n|\nBusinessDay\n|\nAll Business News Headlines Today\nTechnology (Local):\nTechpoint\n|\nTechMoran\n|\nTechCity\n|\nInnovation Village\n|\nIT News Africa\n|\nTechnology Times\n|\nTechnext\n|\nTechcabal\n|\nAll Technology News Headlines Today\nTechnology (World):\nTechcrunch\n|\nTechmeme\n|\nSlashdot\n|\nWired\n|\nHackers News\n|\nEngadget\n|\nPocket Lint\n|\nThe Verge\nInternational Networks:\n|\nCNN\n|\nBBC\n|\nAl Jazeera\n|\nYahoo\nForum:\n|\nNairaland\n|\nNaij\nOther Links:\nHome\n|\nNigerian Jobs\nHome\n|\nAbout Us\n|\nContact Us\n|\nDisclaimer\n|\nPrivacy Policy\n|\nCopyright\n|\nSubscribe To News Alert\n|\nFacebook\n|\nTwitter\nAll trademarks and copyrights on this page are owned by their respective owners\nCopyright © 2025. latestnigeriannews.com - All rights reserved",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->college and university",
+      "Social Issue->demographics",
+      "Social Issue->social problem",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tori\nLinda Ikeji\nBella Naija\nNairaland",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "IBB University",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Tribune\nNational Mirror\nDaily Trust\nDaily Times",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:42:27.430+03:00",
+    "updated": "2025-06-26T05:10:44.000+00:00"
+  },
+  {
+    "uuid": "5432b03b0201e3e313c347561973c1dff06b40fb",
+    "url": "http://fromthetrenchesworldreport.com/31-workers-rescued-from-la-wastewater-tunnel-collapse-300-feet-underground/335687",
+    "ord_in_thread": 0,
+    "author": "Admin",
+    "published": "2025-07-10T14:08:00Z",
+    "title": "31 workers rescued from LA wastewater tunnel collapse 300 feet underground",
+    "text": "By Thomas Stevenson – The Postmillennial\n31 construction workers in California were rescued after a tunnel collapsed in Los Angeles, leaving them trapped 300 feet below ground level. The incident occured on Wednesday night.\nThe Los Angeles Fire Department posted in an alert on the rescue operation, “31 persons, all believed to be tunnel workers, have been safely removed from the tunnel alive without visible injury. None are missing. The collapse of the 18′ diameter tunnel, being constructed for municipal wastewater management, occurred at an underground (undetermined depth) horizontal excavation site about 5 to 6 miles south of the sole entry/rescue access portal.”\n“Preliminary reports are that the trapped workers were able to scramble with some effort over a 12-15′ tall (undetermined length) pile of loose soil, to meet several coworkers on the other side of the collapse, and be shuttled several at a time by tunnel vehicle to the entry/access point more than five miles distant,” the statement then added.\nOfficials were not sure of how the collapse occurred, per the New York Post, and a crane was used to pull workers out of the tunnel as they were shuttled to the access point. LA Mayor Karen Bass responded on X after all had been retrieved.\n“LAFD has just reported that all workers who were trapped in the tunnel in Wilmington are now out and accounted for. I just spoke with many of the workers who were trapped. Thank you to all of our brave first responders who acted immediately. You are L.A.’s true heroes,” Bass wrote, and posted a video of her shaking hands with the workers.\nThe project is part of the city’s waste management system and is part of the $630.5 million Los Angeles Effluent Outfall Tunnel. The shaft was first opened in 2020 and mining began in January 2022. The tunnel is planned to go for 7 miles underground from Carson to Royal Palms Beach.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://thepostmillennial.com/la-fire-department-officials-declined-to-pre-position-engines-in-the-palisades-despite-dire-warnings-report",
+      "https://nypost.com/2025/07/10/us-news/los-angeles-tunnel-collapse-leaves-at-least-15-trapped/",
+      "https://archive.is/qFQp1",
+      "https://thepostmillennial.com/31-workers-rescued-from-la-wastewater-tunnel-collapse-300-feet-underground",
+      "https://thepostmillennial.com/la-mayor-karen-bass-slammed-after-complaining-about-increased-ice-budget",
+      "https://thepostmillennial.com/la-mayor-karen-bass-says-city-will-not-stand-for-ice-terror-tactics-as-riots-erupt-during-federal-immigration-actions",
+      "https://www.archive.is/qFQp1",
+      "https://www.thepostmillennial.com/la-mayor-karen-bass-says-city-will-not-stand-for-ice-terror-tactics-as-riots-erupt-during-federal-immigration-actions",
+      "https://www.nypost.com/2025/07/10/us-news/los-angeles-tunnel-collapse-leaves-at-least-15-trapped/",
+      "https://www.thepostmillennial.com/la-mayor-karen-bass-slammed-after-complaining-about-increased-ice-budget",
+      "https://nypost.com/2025/07/10/us-news/los-angeles-tunnel-collapse-leaves-at-least-15-trapped",
+      "https://www.thepostmillennial.com/la-fire-department-officials-declined-to-pre-position-engines-in-the-palisades-despite-dire-warnings-report",
+      "https://www.thepostmillennial.com/31-workers-rescued-from-la-wastewater-tunnel-collapse-300-feet-underground"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-11T00:25:23.993+03:00",
+    "updated": "2025-07-10T21:29:17.000+00:00"
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "uuid": "e71b42af7578c26bd5afb3cf16d6d6b02d5a45e3",
+    "url": "https://www.piquenewsmagazine.com/ontario-news/snowfall-affects-evening-commute-in-gta-hamilton-parts-of-eastern-ontario-8494084",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-03-22T15:05:00Z",
+    "title": "Snowfall affects evening commute in GTA, Hamilton, parts of eastern Ontario",
+    "text": "TORONTO — Commuters across the Greater Toronto Area and parts of eastern Ontario had to contend with blowing snow and slippery sidewalks while heading home Friday evening as a blast of wintery weather hit parts of the province.\nEnvironment Canada has placed a region stretching from Hamilton all the way east past Kingston, Ont., under snowfall warnings, saying it was predicting up to 15 centimetres of snow.\nThe weather agency says the snow is expected to continue into the evening and then is set to taper off from west to east late in the night.\nIt warns the snowfall could have \"significant impact\" on the evening commute, making for low visibility and potentially slick roadways.\nEnvironment Canada has said peak snowfall rates of two centimetres per hour are possible.\nIt says surfaces such as highways, roads, walkways and parking lots may become difficult to navigate due to accumulating snow.\nThe agency says people should be ready to adjust their driving with changing road conditions.\nIt says drivers should turn on their lights and maintain a safe following distance if visibility is reduced while driving.\nOther parts of Ontario, including Windsor and London, are under a weather advisory, with between five and 10 centimetres of snow in the forecast.\nThis report by The Canadian Press was first published March. 22, 2024.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Weather",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "greater toronto area",
+          "sentiment": "negative"
+        },
+        {
+          "name": "environment canada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ontario toronto",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamilton",
+          "sentiment": "none"
+        },
+        {
+          "name": "ontario",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingston",
+          "sentiment": "none"
+        },
+        {
+          "name": "ont.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T22:44:41.431+02:00",
+    "updated": "2024-03-22T22:44:41.431+02:00"
+  },
+  {
+    "uuid": "e1cc910f26f88635a42acf127928c726a220c51c",
+    "url": "https://dev.to/ajones_codes/how-to-use-function-calling-with-openais-new-tools-feature-to-solve-word-problems-5146",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew Jones",
+    "published": "2024-01-05T21:45:00Z",
+    "title": "How to Use Function Calling with OpenAI's new Tools Feature to Solve Word Problems",
+    "text": "With the launch of OpenAI's Assistants, the Function Calling system previously built into the openai SDK was deprecated and replaced with tools. The tools parameter allows developers to call OpenAI hosted tools, like file retrieval and code interpreter, and allows us to define custom tools that our own code handles, using function calling. This allows us to add powerful functionality to our AI applications, because traditional code has different strengths from LLMs - such as mathematical operations, asynchronous requests for data, and more. However, the new Tools system has some different nuances from the old method of Function Calling. This guide shows how to use function calling with the Tools system. [ ](https://dev.to#goals) Goals As a demonstration, we'll make an AI tool that can solve word problems. The flow will look like this: - We'll use the GPT API to understand the word problems and output the needed mathematical expression as a function call, as well as units for the answer. LLMs are great for this purpose due to semantic understanding of natural language. - Our code will call a mathematical expression solver (JS library) using the output from step 1. - We'll ask the LLM to generate a complete sentence to solve the problem, given the answer from step 2 and units from step #1 (remember your middle school math teacher docking points when you didn't answer a word problem with a complete sentence?) [ ](https://dev.to#tutorial) Tutorial First, setup a project: mkdir word-problem-solver && cd word-problem-solver npm init npm i openai math-expression-evaluator Create a file such as solve.js in your project folder, and set up the API client and expression solver: const OpenAI = require(\"openai\"); const MathExp = require(\"math-expression-evaluator\"); const mathExp = new MathExp(); const openai = new OpenAI({ apiKey: \"sk-...\", //replace with your API key }); Next, we need to design our schema for function calling. I used [functioncalling.ai](https://www.functioncalling.ai), a tool I developed for this purpose, for this step - though this is entirely optional. You can run tests on sample word problems or even allow it to generate tests for you. In the end, my schema looked like this: [ { type: \"function\", function: { name: \"calculate\", description: \"Use math-expression-evaluator to simplify an expression to solve the word problem\", parameters: { type: \"object\", properties: { expression: { type: \"string\", description: \"the mathematical expression to simplify to solve the word problem. DO NOT include any units.\", }, answerUnit: { type: \"string\", description: \"unit for the answer to the word problem, if applicable\", }, }, required: [\"expression\", \"answerUnit\"], }, }, }, ] Paste that into your code as a constant: const GPT_TOOLS = [...] You could add additional tools by adding to the tools array, following [OpenAI's docs for other types of tools](https://platform.openai.com/docs/assistants/tools), or adding more functions with similar schemas. Next, we'll create a main async function and a messages array to track our conversation: const main = async () => { const messages = [ { role: \"user\", content: \"13 candy bars weigh 26 oz. How much would 35 candy bars weigh?\", }, ] } main(); Our first call is where gpt-4 will pick the function to call (which must be calculate or none, since we only have one function), and output the expression to simplify, and the units for our answer. Make sure to push all messages to the messages array to maintain context throughout the conversation. const chatCompletionForFunction = await openai.chat.completions.create({ messages, model: \"gpt-4\", // using gpt-4 for highest accuracy tools: GPT_TOOLS, tool_choice: \"auto\", temperature: 0.25, }); messages.push(chatCompletionForFunction.choices[0].message); Next we'll add handling for the output of the tool selection / function calling. We need to track the tool_call_id, which OpenAI uses to provide proper context for further messages - this is one of the key differences from the old function calling system. const tool_call_id = chatCompletionForFunction.choices[0].message.tool_calls[0].id; const function_to_call = chatCompletionForFunction.choices[0].message.tool_calls[0].function.name; if (function_to_call === \"calculate\") { const generatedParams = JSON.parse( chatCompletionForFunction.choices[0].message.tool_calls[0].function .arguments ); const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; } Finally, we'll actually simplify the expression, and use the LLM to write a people-friendly response: const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; const lexed = mathExp.lex(expression); const postfixed = mathExp.toPostfix(lexed); const answer = mathExp.postfixEval(postfixed); // Add two messages, one to tell the LLM the output of the tool, and one to prompt it to generate a complete answer. messages.push( { role: \"tool\", tool_call_id, name: function_to_call.name, content: `${answer} ${answerUnit}`, }, { role: \"user\", content: `Given the expression ${expression}, the answer is ${answer} ${answerUnit}. Write a complete sentence to answer the word problem.`, } ); const chatCompletion = await openai.chat.completions.create({ messages, model: \"gpt-3.5-turbo-1106\", // using GPT-3.5 for a lower cost since this is an \"easy\" step temperature: 0.4, }); messages.push(chatCompletion.choices[0].message); // only needed if we intent to continue the conversation, but included here for completeness console.log(chatCompletion.choices[0].message.content); } Now we can run the code, and you should see output like: 35 candy bars would weigh 70 oz. Voila! Next try different word problems in the prompt, or turn this into an interactive CLI with Node's readline, or try adding more functions, or try implementing function calling in your own projects! [ ](https://dev.to#complete-code) Complete code const OpenAI = require(\"openai\"); const MathExp = require(\"math-expression-evaluator\"); const mathExp = new MathExp(); const openai = new OpenAI({ apiKey: \"sk-...\", // YOUR API KEY }); const GPT_TOOLS = [ { type: \"function\", function: { name: \"calculate\", description: \"Use math-expression-evaluator to simplify an expression to solve the word problem\", parameters: { type: \"object\", properties: { expression: { type: \"string\", description: \"the mathematical expression to simplify to solve the word problem. DO NOT include any units.\", }, answerUnit: { type: \"string\", description: \"unit for the answer to the word problem, if applicable\", }, }, required: [\"expression\", \"answerUnit\"], }, }, }, ]; const main = async () => { const messages = [ { role: \"user\", content: \"13 candy bars weigh 26 oz. How much would 35 candy bars weigh?\", }, ]; const chatCompletionForFunction = await openai.chat.completions.create({ messages, model: \"gpt-4\", tools: GPT_TOOLS, tool_choice: \"auto\", temperature: 0.25, }); messages.push(chatCompletionForFunction.choices[0].message); const tool_call_id = chatCompletionForFunction.choices[0].message.tool_calls[0].id; const function_to_call = chatCompletionForFunction.choices[0].message.tool_calls[0].function.name; if (function_to_call === \"calculate\") { const generatedParams = JSON.parse( chatCompletionForFunction.choices[0].message.tool_calls[0].function .arguments ); const expression = generatedParams.expression; const answerUnit = generatedParams.answerUnit; const lexed = mathExp.lex(expression); const postfixed = mathExp.toPostfix(lexed); const answer = mathExp.postfixEval(postfixed); messages.push( { role: \"tool\", tool_call_id, name: function_to_call.name, content: `${answer} ${answerUnit}`, }, { role: \"user\", content: `Given the expression ${expression}, the answer is ${answer} ${answerUnit}. Write a complete sentence to answer the word problem.`, } ); const chatCompletion = await openai.chat.completions.create({ messages, model: \"gpt-3.5-turbo-1106\", temperature: 0.4, }); messages.push(chatCompletion.choices[0].message); // not needed in this use case but included for completeness console.log(chatCompletion.choices[0].message.content); } }; main();",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Education"
+    ],
+    "external_links": [
+      "https://platform.openai.com/docs/assistants/tools",
+      "https://www.functioncalling.ai",
+      "https://www.platform.openai.com/docs/assistants/tools",
+      "https://functioncalling.ai"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "sdk",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:28:08.644+02:00",
+    "updated": "2024-01-06T06:15:18.291+02:00"
+  },
+  {
+    "uuid": "d869edf3e353108b2e7f85fd4deb4970249012de",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7366874.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "中证500ETF景顺（159935）跌0.83%，半日成交额12.98万元_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，中证500ETF景顺（159935）跌0.83%，报1.789元，成交额12.98万元。中证500ETF景顺（159935）重仓股方面， 江淮汽车 截止午盘跌1.11%， 光启技术 跌0.39%， 胜宏科技 跌0.43%， 东山精密 涨1.47%， 润和软件 跌1.81%， 华工科技 跌1.07%， 赤峰黄金 跌1.95%， 四川长虹 跌1.36%， 芯原股份 跌2.79%， 苏州银行 跌0.69%。\n中证500ETF景顺（159935）业绩比较基准为中证500指数，管理人为景顺长城基金管理有限公司，基金经理为龚丽丽，成立（2013-12-26）以来回报为80.29%，近一个月回报为1.12%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Health"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Science and Technology->biotechnology",
+      "Science and Technology->technology and engineering",
+      "Health->medical condition",
+      "Health->health organisation",
+      "Health->health care approach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:11.730+03:00",
+    "updated": "2025-06-20T05:06:37.000+00:00"
+  },
+  {
+    "uuid": "e2c30052a827f6e0afcb18121aa98b0e4a29174d",
+    "url": "https://www.panorama.am/en/news/2023/12/29/weather-Armenia/2946010",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Helix Consulting LLC",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "Temperatures may hit 20C in Armenia in January, expert says - Panorama | Armenian news",
+    "text": "[Society](https://www.panorama.am/en/news/society)12:36 29/12/2023 Armenia Temperatures may hit 20C in Armenia in January, expert says December became Armenia’s warmest month in 100 years of recordkeeping, Deputy Director of the Hydrometeorology and Monitoring Center Gagik Surenyan said on Friday. “Temperatures will remain abnormally high and no precipitation is forecasted across the country in the next five days,\" Surenyan said. \"In case hot air masses flow into Armenia in January, temperatures may reach 16C-20C in Lori, Tavush and Syunik valleys,” he added. Տեքստում սխալ կամ վրիպակ նկատելու դեպքում, ուղարկեք խմբագրին հաղորդագրություն` նշելով տվյալ սխալը, այնուհետև սեղմելով Ctrl-Enter: Newsfeed 12:59 [Marianna Mkhitaryan quits as head of Russian Drama Theater](https://www.panorama.am/en/news/2023/12/29/Marianna-Mkhitaryan/2946041) Marianna Mkhitaryan has announced her decision to step down as director of Yerevan’s Russian Drama Theater after Konstantin Stanislavski.... 12:36 [Temperatures may hit 20C in Armenia in January, expert says](https://www.panorama.am/en/news/2023/12/29/weather-Armenia/2946010) December became Armenia’s warmest month in 100 years of recordkeeping, Deputy Director of the Hydrometeorology and Monitoring Center Gagik... 12:05 [Pashinyan: Armenia's banking system registers record-high deposit portfolio](https://www.panorama.am/en/news/2023/12/29/Pashinyan-banking-system/2945931) Armenian Prime Minister Nikol Pashinyan on Thursday visited the Central Bank to participate in the reception organized on the occasion... 11:45 [Trump blocked from Maine presidential ballot in 2024](https://www.panorama.am/en/news/2023/12/29/Trump-presidential-ballot/2946018) Maine's top election official has ruled that Donald Trump cannot run for president next year in the state, citing a constitutional... 11:30 [Armenia's Makunts attends holiday reception hosted by Blinken](https://www.panorama.am/en/news/2023/12/29/Makunts-reception/2945988) Armenia's Ambassador to the U.S. Lilit Makunts has attended a holiday reception hosted by Secretary of State Antony Blinken.... 11:06 [RFK Jr. urges U.S. to secure Artsakh Armenians' safe return to homeland](https://www.panorama.am/en/news/2023/12/29/RFK-Jr-Artsakh/2945943) U.S. Presidential candidate Robert F. Kennedy, Jr. pledged that his administration would mobilize the international community to sanction... 17:06 [Azeri FM reports positive results in peace process with Armenia](https://www.panorama.am/en/news/2023/12/28/Azeri-FM-talks-Armenia/2945720) Azerbaijani Foreign Minister Jeyhun Bayramov positively assesses the progress in negotiations with Armenia on a bilateral peace treaty.... 16:36 [Scientist fears 'Zombie deer disease' could spread to humans](https://www.panorama.am/en/news/2023/12/28/Zombie-deer-disease/2945533) Scientists have warned that a virus dubbed 'Zombie deer disease' could potentially spread to humans after the first-ever case was... 16:21 [Serzh Sargsyan comments on Artsakh dissolution decree](https://www.panorama.am/en/news/2023/12/28/Serzh-Sargsyan/2945697) Armenia’s third President Serzh Sargsyan has confirmed that he held meetings with Artsakh President Samvel Shahramanyan. Speaking to... 15:45 [Turkey seeks F-16 engines from US for domestic fighter](https://www.panorama.am/en/news/2023/12/28/Turkey-US-fighter/2945690) Turkey has asked the US for permission to co-produce GE Aerospace engines used in F-16 jets, with an aim to deploy them for its own domestically... 15:35 [Patrol police in Yerevan stop Artsakh president's car escorted by motorcade](https://www.panorama.am/en/news/2023/12/28/police-Artsakh-president/2945662) Patrol police officers in Yerevan stopped Artsakh President Samvel Shahramanyan’s car for being escorted by a motorcade and security... 15:05 [Serzh Sargsyan accuses Pashinyan of lying about Nagorno-Karabakh](https://www.panorama.am/en/news/2023/12/28/Serzh-Sargsyan/2945651) Armenia’s third President Serzh Sargsyan has accused Prime Minister Nikol Pashinyan of lying about the Nagorno-Karabakh conflict.... 14:32 ['Tornado' damages 100 homes during storm in UK](https://www.panorama.am/en/news/2023/12/28/tornado-UK/2945665) Roofs were torn off houses, trees blew down and walls collapsed as a small \"tornado\" tore through Greater Manchester during Storm... 14:15 [11 killed after multi-vehicle crash in northwestern Turkey](https://www.panorama.am/en/news/2023/12/28/road-accident-Turkey/2945589) Eleven people were killed and more than 50 injured in a road accident in northwestern Turkey on Thursday, Reuters reported, citing... 14:03 [Serzh Sargsyan: Armenia's leader admitted he 'deliberately sacrificed' Nagorno-Karabakh](https://www.panorama.am/en/news/2023/12/28/Serzh-Sargsyan/2945632) Armenian Prime Minister Nikol Pashinyan has acknowledged that he “deliberately sacrificed” Nagorno-Karabakh (Artsakh), former... 13:30 [Lavrov: Armenia enticed by West's vague promises](https://www.panorama.am/en/news/2023/12/28/Lavrov-Armenia/2945505) Yerevan, swayed by the West, is trying to replace the union with Moscow with vague promises, Russian Foreign Minister Sergey Lavrov said in an... 13:02 [Azerbaijan and Armenia close to peace agreement, official says](https://www.panorama.am/en/news/2023/12/28/Azerbaijan-Armenia/2945586) Azerbaijani officials have said the country could be closing in on a peace agreement with Armenia to end their decades-long conflict following... 12:36 [Armenian politician calls for close alliance with Russia and Iran](https://www.panorama.am/en/news/2023/12/28/politician-Russia-Iran/2945511) Opposition politician Eduard Sharmazanov, a senior member of the former ruling Republican Party of Armenia (RPA), calls for Armenia’s... 12:15 [EU monitors conduct patrol in Armenian border village](https://www.panorama.am/en/news/2023/12/28/EU-monitors-Armenia/2945545) Monitors of the European Union Mission in Armenia (EUMA) on Wednesday conducted a security situation awareness patrol in Khachik village on... 12:02 ['Aurora's Sunrise' among best animated movies of 2023 by MovieWeb](https://www.panorama.am/en/news/2023/12/28/Auroras-Sunrise/2945516) Aurora's Sunrise has been ranked among the 16 Best Animated Movies of 2023 by MovieWeb. \"The animated portions of Aurora's... 11:37 [Stepantsminda-Larsi road open only to passenger vehicles](https://www.panorama.am/en/news/2023/12/28/Stepantsminda-Larsi-road/2945460) The Rescue Service has warned drivers about closed roads in Armenia as of Thursday morning. In particular, the roads linking the Amberd... 11:25 [West does not want to bring peace to Armenia, Russia's Lavrov says](https://www.panorama.am/en/news/2023/12/28/West-Armenia-Lavrov/2945495) Western countries are not trying to bring peace and stability to Armenia and the South Caucasus as a whole, their task is to squeeze out Moscow,... 11:10 [France expels two Azeri diplomats](https://www.panorama.am/en/news/2023/12/28/France-Azerbaijan-diplomats/2945417) France has declared two employees of Azerbaijan's embassy persona non grata in a move of \"reciprocity\", Reuters reported on... 17:11 [Opposition MP: Artsakh issue like a 'lump in the throat' for Armenian and Azeri authorities](https://www.panorama.am/en/news/2023/12/27/Opposition-MP-Artsakh/2945064) In order to close Artsakh's page and finally remove the issue from the agenda, Azerbaijan first pushed the term concerning Artsakh out of... 16:23 [Russian diplomat: Armenia receives significant dividends from participation in EAEU](https://www.panorama.am/en/news/2023/12/27/Armenia-EAEU/2945181) Armenia's economic indicators continue to grow at a high rate, Yerevan receives significant dividends from participation in the Eurasian... 15:48 [Climate of impunity persists in Armenian army, lawyer claims](https://www.panorama.am/en/news/2023/12/27/impunity-army-lawyer/2945091) The number of non-combat deaths in the Armenian military increased in the past five years, human rights activist Zhanna Aleksanyan said on... 14:59 [Armenian, Iranian FMs hold enlarged meeting](https://www.panorama.am/en/news/2023/12/27/Armenian-Iranian-FMs/2945220) The enlarged meeting of Armenian Foreign Minister Ararat Mirzoyan and his Iranian counterpart Hossein Amir-Abdollahian has gotten underway in... 14:36 [Russia sees good prospects for Armenia-Azerbaijan normalization](https://www.panorama.am/en/news/2023/12/27/Russia-Armenia-Azerbaijan/2945187) Foreign forces are attempting to “drag Armenia into even more dangerous geopolitical games,” Russian Foreign Ministry spokesperson... 14:06 [Minister: Armenia making intense efforts to preserve Artsakh's cultural heritage](https://www.panorama.am/en/news/2023/12/27/Artsakh-cultural-heritage/2945141) Armenia is making intense efforts to preserve the cultural heritage of Azerbaijani-held Artsakh (Nagorno-Karabakh), Minister of Education,... 13:36 [Kim Kardashian shares photos from inside her Christmas Eve party](https://www.panorama.am/en/news/2023/12/27/Kim-Kardashian/2945163) Kim Kardashian sent the internet into a frenzy after sharing a handful of new photos from her family's annual Christmas Eve bash with her... [Interviews](https://www.panorama.am/en/news/interviews/) [](https://www.panorama.am/en/news/2023/12/28/Serzh-Sargsyan/2945651) 15:05 28/12/2023, Armenia [Serzh Sargsyan accuses Pashinyan of lying about Nagorno-Karabakh](https://www.panorama.am/en/news/2023/12/28/Serzh-Sargsyan/2945651) [](https://www.panorama.am/en/news/2023/12/27/impunity-army-lawyer/2945091) 15:48 27/12/2023, Armenia [Climate of impunity persists in Armenian army, lawyer claims](https://www.panorama.am/en/news/2023/12/27/impunity-army-lawyer/2945091) [](https://www.panorama.am/en/news/2023/12/25/Ruben-Vardanyan/2944157) 12:15 25/12/2023, Armenia [International lawyers not allowed to visit Ruben Vardanyan, wife says](https://www.panorama.am/en/news/2023/12/25/Ruben-Vardanyan/2944157) [Comments](https://www.panorama.am/en/news/comments/) [](https://www.panorama.am/en/news/2023/12/28/politician-Russia-Iran/2945511) 12:36 28/12/2023, Armenia [Armenian politician calls for close alliance with Russia and Iran](https://www.panorama.am/en/news/2023/12/28/politician-Russia-Iran/2945511) [](https://www.panorama.am/en/news/2023/12/27/MP-Azerbaijan-Artsakh/2945034) 12:47 27/12/2023, Armenia [Armenian MP: Azerbaijan proves it was never about Artsakh](https://www.panorama.am/en/news/2023/12/27/MP-Azerbaijan-Artsakh/2945034) [](https://www.panorama.am/en/news/2023/12/26/Yerevan-mayor/2944769) 15:36 26/12/2023, Armenia [Yerevan mayor defends proposed parking fee increase](https://www.panorama.am/en/news/2023/12/26/Yerevan-mayor/2944769) [Analysis](https://www.panorama.am/en/news/analytics/) [](https://www.panorama.am/en/news/2023/12/28/Azerbaijan-Armenia/2945586) 13:02 28/12/2023, Region [Azerbaijan and Armenia close to peace agreement, official says](https://www.panorama.am/en/news/2023/12/28/Azerbaijan-Armenia/2945586) [](https://www.panorama.am/en/news/2023/12/27/court-Pashinyan-critic/2945087) 11:30 27/12/2023, Armenia [Court convicts Pashinyan critic after his death…](https://www.panorama.am/en/news/2023/12/27/court-Pashinyan-critic/2945087) [](https://www.panorama.am/en/news/2023/12/25/Armenia-Russia/2944204) 15:06 25/12/2023, Armenia [Political analyst calls for 'new constructive level' of Armenian-Russian ties](https://www.panorama.am/en/news/2023/12/25/Armenia-Russia/2944204) [Topic of the day](https://www.panorama.am/en/news/current_topics/) [](https://www.panorama.am/en/news/2023/12/29/weather-Armenia/2946010) 12:36 29/12/2023, Armenia [Temperatures may hit 20C in Armenia in January, expert says](https://www.panorama.am/en/news/2023/12/29/weather-Armenia/2946010) [](https://www.panorama.am/en/news/2023/12/28/Stepantsminda-Larsi-road/2945460) 11:37 28/12/2023, Armenia [Stepantsminda-Larsi road open only to passenger vehicles](https://www.panorama.am/en/news/2023/12/28/Stepantsminda-Larsi-road/2945460) [](https://www.panorama.am/en/news/2023/12/27/Stepantsminda-Larsi-road/2945011) 11:45 27/12/2023, Armenia [Stepantsminda-Larsi road closed to all vehicles](https://www.panorama.am/en/news/2023/12/27/Stepantsminda-Larsi-road/2945011) [Lifestyle](https://www.panorama.am/en/news/household/) [](https://www.panorama.am/en/news/2023/12/28/Auroras-Sunrise/2945516) 12:02 28/12/2023, Armenia ['Aurora's Sunrise' among best animated movies of 2023 by MovieWeb](https://www.panorama.am/en/news/2023/12/28/Auroras-Sunrise/2945516) [](https://www.panorama.am/en/news/2023/12/27/Yerevan-subway/2945089) 13:10 27/12/2023, Armenia [Yerevan subway to extend working hours on holidays](https://www.panorama.am/en/news/2023/12/27/Yerevan-subway/2945089) [](https://www.panorama.am/en/news/2023/12/26/Milan-Mkhitaryan/2944742) 13:30 26/12/2023, World [Milan close to extending Henrikh Mkhitaryan's contract](https://www.panorama.am/en/news/2023/12/26/Milan-Mkhitaryan/2944742) [Videos](https://www.panorama.am/en/videos) [](https://www.panorama.am/en/video/2023/02/20/Armenian-expert/29832) 17:35 20/02/2023 [Armenian expert: U.S. stance on Karabakh remains unchanged](https://www.panorama.am/en/video/2023/02/20/Armenian-expert/29832) [](https://www.panorama.am/en/video/2023/02/14/Yerevan-s-St-Anna-Church/29768) [](https://www.panorama.am/en/video/2023/02/09/Premature-births-Artsakh/29734) 13:59 09/02/2023 [Premature births increase in Artsakh due to stress](https://www.panorama.am/en/video/2023/02/09/Premature-births-Artsakh/29734) [](https://www.panorama.am/en/video/2023/01/09/Snow-covered-Yerevan/29340) 12:43 09/01/2023 [Snow-covered Yerevan](https://www.panorama.am/en/video/2023/01/09/Snow-covered-Yerevan/29340) [](https://www.panorama.am/en/video/2022/12/15/Gegham-Stepanyan/29163) 15:41 15/12/2022 [Gegham Stepanyan calls for sanctions against criminal Azerbaijan](https://www.panorama.am/en/video/2022/12/15/Gegham-Stepanyan/29163) [](https://www.panorama.am/en/video/2022/12/13/peace-poll/29089) [](https://www.panorama.am/en/video/2022/12/13/Artsakh’s-Ombudsman/29088) [](https://www.panorama.am/en/video/2022/11/29/Yeghishe-Charents/28907) 11:45 29/11/2022 [Memorial plaque honoring Yeghishe Charents inaugurated in Yerevan](https://www.panorama.am/en/video/2022/11/29/Yeghishe-Charents/28907)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "konstantin stanislavski",
+          "sentiment": "none"
+        },
+        {
+          "name": "tavush",
+          "sentiment": "none"
+        },
+        {
+          "name": "gagik surenyan",
+          "sentiment": "none"
+        },
+        {
+          "name": "surenyan",
+          "sentiment": "none"
+        },
+        {
+          "name": "marianna mkhitaryan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "panorama",
+          "sentiment": "negative"
+        },
+        {
+          "name": "russian drama theater",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "armenia",
+          "sentiment": "none"
+        },
+        {
+          "name": "lori",
+          "sentiment": "none"
+        },
+        {
+          "name": "yerevan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:12:53.894+02:00",
+    "updated": "2023-12-29T11:12:53.894+02:00"
+  },
+  {
+    "uuid": "2badecacd1750298e6596142dd00869137cda509",
+    "url": "https://www.dailybulletin.com/2023/12/28/fireplace-wood-burning-ban-extended-for-southern-california/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "City News Service",
+    "published": "2023-12-28T14:45:00Z",
+    "title": "Fireplace wood-burning ban extended for Southern California",
+    "text": "LOS ANGELES — A\nban on indoor and outdoor wood burning in much of Southern California has been extended through Friday due to a forecast of high air pollution in the area, air quality regulators said.\nThe residential wood-burning ban, which began on Christmas Day, will be in effect until at least 11:59 p.m. Friday for all those in the South Coast Air Basin, including the non-desert portions of Los Angeles, Riverside and San Bernardino counties, and all of Orange County.\nThe order does not apply to mountain communities above 3,000 feet, the Coachella Valley or the high desert, according to the South Coast Air Quality Management District. Homes that rely on wood as a sole source of heat, low-income households and those without natural gas service also are exempt from the requirement.\nResidents in the affected areas are reminded that burning wood in their fireplaces or any indoor or outdoor wood-burning device is prohibited, as is burning manufactured fire logs, such as those made from wax or paper.\nFine particles in wood smoke, also known as particulate matter or PM2.5, can get deep into the lungs and cause respiratory problems such as asthma.\nResidents can receive no-burn day notifications by signing up for Air Alerts via email or text at www.AirAlerts.org.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Environment",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "southern california los angeles",
+          "sentiment": "negative"
+        },
+        {
+          "name": "south coast air quality management district",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "southern california",
+          "sentiment": "none"
+        },
+        {
+          "name": "coachella valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "san bernardino",
+          "sentiment": "none"
+        },
+        {
+          "name": "orange county",
+          "sentiment": "none"
+        },
+        {
+          "name": "south coast air basin",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        },
+        {
+          "name": "riverside",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:58:15.982+02:00",
+    "updated": "2023-12-29T00:58:15.982+02:00"
+  },
+  {
+    "uuid": "b2270109307123ba16c4628b385a4f89c858336f",
+    "url": "https://news.knowledia.com/GB/en/articles/global-sea-ice-hits-record-low-as-february-becomes-third-warmest-on-record-c7a08031fb9a1ec68191ae821ce850f7bf0bafc8?source=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sean Murray",
+    "published": "2025-03-06T05:01:07Z",
+    "title": "Global sea ice hits record low as February becomes third-warmest on record",
+    "text": "Global sea ice hit an all-time low in February as Ireland recorded its 15th warmest winter since 1900 Ice cover across the world's oceans plunged to an all-time low last month, as the third-warmest February ever was recorded globally, the EU's climate change service has said.\nAccording to the latest Copernicus update, daily global sea ice extent – which measures the ice at both poles – reached its all-time minimum last month.\n\"February 2025 continues the streak of record or near-record temperatures observed throughout the last two years,\" said Samantha Burgess, the strategic lead for climate at the European Centre for Medium-Range Weather Forecasts.\n\"One of the consequences of a warmer world is melting sea ice, and the record or near-record low sea ice cover at both poles has pushed global sea ice cover to an all-time minimum.\"\nArctic sea ice dropped to its lowest monthly extent ever recorded in February, the third month in a row that a new record was set compared to the same month previous year. Antarctic sea ice, meanwhile, reached its fourth-lowest monthly total.\nIt may have actually reached its lowest ever later in February, but Copernicus said its data has not…\nSean Murray",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->global warming",
+      "Environment->climate change",
+      "Environment->environmental pollution",
+      "Social Issue->social problem",
+      "Social Issue->mankind",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.irishexaminer.com/news/arid-41587183.html",
+      "https://irishexaminer.com/news/arid-41587183.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Samantha Burgess",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T07:01:07.425+02:00",
+    "updated": "2025-03-06T07:01:07.425+02:00"
+  }
+]

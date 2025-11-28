@@ -1,0 +1,450 @@
+[
+  {
+    "uuid": "058da208b627003efca9265a0955495f4e0e5cf6",
+    "url": "https://americanmilitarynews.com/2024/09/north-korea-says-its-satellite-spied-us-nuclear-submarine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Radio Free Asia",
+    "published": "2024-09-26T19:50:00Z",
+    "title": "North Korea says its satellite spied US nuclear submarine | American Military News",
+    "text": "This article was originally [published ](https://www.rfa.org/english/news/korea/us-south-korea-submarine-09242024234252.html)by Radio Free Asia and is reprinted with permission. North Korea’s space agency spotted a U.S. nuclear-powered submarine in South Korea, the North Korean leader’s powerful sister, Kim Yo Jong, said, in what would be the first confirmation that the North has a functioning spy satellite. Kim said the arrival of the submarine in South Korea’s Busan port demonstrated what she said was an “insane” U.S. strategy to impose its superiority on the world. “The Aerospace Reconnaissance Agency, an independent intelligence agency directly under the head of state of the Democratic People’s Republic of Korea, has reported that it detected an abnormal object at a pier in Busan Port, South Korea, on the 23rd,” said Kim on Tuesday, cited by the state-run Korean Central News Agency, or KCNA. The Democratic People’s Republic of Korea is North Korea’s official name. “A nuclear submarine has appeared in the harbor where a U.S. aircraft carrier is moored,” said Kim. “This is a clear demonstration of the insane military-strategic prayer of the United States, which is preoccupied with deliberately demonstrating its ‘power superiority’ in the face of the world.” The 7,800-ton USS Vermont submarine entered a major naval base in the South Korean city of Busan on Tuesday to replenish supplies and provide rest for crew members, South Korean media reported. KCNA did not carry photographs supporting Kim’s assertion. In November last year, North Korea successfully placed a spy satellite into orbit, and said it planned to launch three more such satellites in 2024. Its attempt to launch another satellite in May [ended](https://www.rfa.org/english/news/korea/nkorea-failed-launch-05282024021314.html) in failure. In February, however, South Korea’s National Security Advisor Shin Won-sik, who was then defense minister, said that the North’s Malligyong-1 spy satellite appeared to be orbiting Earth without activity. Kim said the submarine’s arrival was “proof that the U.S. ambition to often take up nuclear strategic assets, boast of its strength, increase its threat to the rival and enjoy its hegemonic privilege.,” She vowed to “continuously and limitlessly” bolster the country’s nuclear war deterrent against “U.S. threats.” “The DPRK’s nuclear war deterrent to cope with and contain various threats from outside is bound to be bolstered up both in quality and quantity continuously and limitlessly as the security of the state is constantly exposed to the U.S. nuclear threat and blackmail,” she said. “The U.S. strategic assets will never find their resting place in the region of the Korean peninsula,” Kim said, adding that such nuclear-powered submarines could never be an “object of fear.” Quad summit Separately, North Korea’s foreign ministry spokesperson criticized the U.S. for “violating” the North’s sovereign rights and trying to justify its hostile policy by hosting the Quad summit. After holding the fourth in-person summit in Wilmington, Delaware, the leaders of the United States, India, Japan and Australia on Saturday denounced North Korea’s “destabilizing” missile launches and its nuclear program, and reaffirmed their commitment to the “complete” denuclearization of the Korean Peninsula. “QUAD, the end product of the U.S. Cold War mentality and policy of inter-camp confrontation, has become a dangerous factor that deepens mistrust and antagonism between countries in the Asia-Pacific region and provokes international instability,” the spokesperson said in a statement carried by the KCNA on Wednesday. The North will never tolerate any hostile acts that encroach upon its national sovereign rights, security and interests and continue to make efforts to build a multipolar international order, the spokesperson added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.rfa.org/english/news/korea/us-south-korea-submarine-09242024234252.html)by",
+      "https://www.rfa.org/english/news/korea/nkorea-failed-launch-05282024021314.html)",
+      "https://rfa.org/english/news/korea/us-south-korea-submarine-09242024234252.html)by",
+      "https://rfa.org/english/news/korea/nkorea-failed-launch-05282024021314.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-09-27T00:09:49.604+03:00",
+    "updated": "2024-09-27T00:09:49.604+03:00"
+  },
+  {
+    "uuid": "88bb08ea3be54218e9f1ff897715beaf756e87b2",
+    "url": "https://www.theclintoncourier.net/2025/02/27/what-is-excel-solver-and-how-can-it-help-you-make-better-decisions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clinton Courier",
+    "published": "2025-02-27T16:51:00Z",
+    "title": "What Is Excel Solver and How Can It Help You Make Better Decisions?",
+    "text": "Microsoft Excel is a powerful tool used by businesses, analysts, and researchers for data management and decision-making. One of its most valuable yet often underutilized features is Excel Solver. Solver is an optimization tool that helps users find the best possible solutions for complex problems involving constraints and variables.\nWhether you’re managing budgets, optimizing supply chains, or solving complex equations, Excel Solver can improve your decision-making process.\nWhat Is Excel Solver? Excel Solver is an add-in that allows users to perform mathematical optimization within their spreadsheets. It helps determine the best solution for a problem by adjusting multiple variables while considering constraints and specific objectives. Solver works by finding the maximum, minimum, or optimal value for a formula, making it especially useful in business, engineering, and finance applications.\nKey Components of Solver Objective Cell – This is the cell containing the formula you want to optimize (maximize, minimize, or set to a specific value). Variable Cells – These are the values the Solver adjusts to find the best solution. Constraints – These are conditions that must be met, such as budget limits, resource availability, or production capacity. How Excel Solver Can Help You Make Better Decisions 1. Optimizing Business Operations Companies often deal with complex decision-making, such as determining the best way to allocate resources, minimize costs, or maximize profits. Solver helps by running multiple scenarios and providing data-driven insights to support better strategic decisions.\nExample: A company wants to determine the best product mix to maximize profits while considering raw material availability and labour costs. The solver can quickly generate an optimal production plan.\n2. Improving Financial Planning Budgeting and financial planning require careful analysis of expenses, investments, and expected revenues. Solver helps in portfolio optimization, cost minimization, and revenue maximization by adjusting various financial parameters.\nExample: An investor wants to allocate funds across different stocks to achieve the highest return while limiting risk. The solver can calculate the ideal distribution based on expected returns and risk constraints.\n3. Enhancing Supply Chain Management Efficient supply chain management is crucial for reducing costs and improving delivery times. Solver helps businesses optimize inventory levels, transportation routes, and supplier selection while considering cost and logistical constraints.\nExample: A retailer needs to determine the most cost-effective way to distribute products from multiple warehouses to stores while meeting customer demand. The solver can find the best delivery plan that minimizes expenses.\n4. Supporting Decision-Making in Project Management Managing project timelines and resource allocation can be challenging. Solver helps project managers balance workloads, minimize delays, and optimize scheduling by considering constraints like deadlines, manpower, and budget.\nExample: A construction project manager needs to assign workers to different tasks while minimizing overall project duration. The solver can determine the best workforce allocation to meet the deadline efficiently.\n5. Solving Complex Mathematical and Scientific Problems Excel Solver is widely used in engineering, scientific research, and data analysis for solving equations, optimizing models, and conducting sensitivity analysis.\nExample: An engineer needs to design a structure that meets safety standards while minimizing material usage. The solver can help find the best design parameters.\nHow to Use Excel Solver Step 1: Enable the Solver Add-in Open Excel and go to File > Options . Click on Add-ins and select Solver Add-in from the list. Click Go and check the box next to Solver Add-in , then click OK . Step 2: Set Up Your Problem Identify your Objective Cell (the target formula). Select the Variable Cells that Solver will adjust. Define any Constraints (limits or conditions). Step 3: Run Solver Go to Data > Solver in the ribbon. Enter the Objective Cell, Variable Cells, and Constraints. Choose whether you want to maximize, minimize, or set a specific value . Click Solve and let Solver find the optimal solution. Conclusion Excel Solver is a powerful yet often overlooked tool that can significantly enhance decision-making across various fields. Whether optimizing business operations, improving financial planning, or solving complex problems, Solver provides valuable insights that lead to better, data-driven decisions. By leveraging its capabilities, individuals and organizations can make more efficient and informed choices, ultimately improving performance and outcomes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->vocational education",
+      "Science and Technology->mathematics",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.solver.com/",
+      "https://www.solver.com",
+      "https://solver.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:21:34.745+02:00",
+    "updated": "2025-02-28T01:21:34.745+02:00"
+  },
+  {
+    "uuid": "c0d1d49f4c08ca56d076f637fa7ca2a7f1f000bb",
+    "url": "https://www.prnewswire.com/news-releases/iceye-supports-rio-grande-do-sul-government-in-mapping-flooded-areas-and-mobilizing-humanitarian-aid-302500763.html",
+    "ord_in_thread": 0,
+    "author": "ICEYE",
+    "published": "2025-07-10T12:00:00Z",
+    "title": "ICEYE supports Rio Grande do Sul government in mapping flooded areas and mobilizing humanitarian aid",
+    "text": "SAR-based ICEYE Flood Solutions enabled accurate identification of affected regions, ensuring the swift delivery of aid from the Volta por Cima program to the most vulnerable families\nPORTO ALEGRE, Brazil , July 10, 2025 /PRNewswire/ -- ICEYE, the global leader in Synthetic Aperture Radar (SAR) satellite monitoring technology, has played a crucial role in supporting the government of Rio Grande do Sul in its rapid response to the devastating floods that struck the state in June.\nContinue Reading\nICEYE supports Rio Grande do Sul government in mapping flooded areas and mobilizing humanitarian aid.\nBeyond providing high-precision SAR imagery captured even under heavy cloud cover, ICEYE delivered its Flood Solutions, a comprehensive service that combines near real-time flood observations with advanced intelligence analysis of SAR data and other geospatial sources. This enabled accurate and timely mapping of flood extent and depth across the affected areas.\nThanks to these actionable insights, the government was able to swiftly activate emergency protocols and ensure that aid from the Volta por Cima program reached vulnerable families without delay. The effectiveness of the response highlights the transformative impact of ICEYE Flood Solutions in disaster management and humanitarian relief.\nIn this new phase of the program, R$4 million is being allocated to support approximately 2,000 families impacted by the June storms. The funds are being disbursed immediately and without the need for prior registration. The process was completed in less than a week thanks to the integration of state databases with ICEYE's advanced geospatial intelligence.\nThe State Secretariats of Planning, Governance, and Management (SPGG) and of Social Development (SEDES) are leading this initiative through the coordination of the MUP – Mapa Único do Plano Rio Grande , a platform that ensures traceability, transparency, and agility in the allocation of public funds.\n\"The use of ICEYE data has been crucial in accurately identifying the hardest-hit areas, even in scenarios with cloud coverage — a common challenge during extreme weather events,\" said Danielle Calazans , Secretary of Planning, Governance and Management of Rio Grande do Sul. \"Thanks to our collaboration and response time, the State had the ability to react quickly and provide financial credits through the social cards, precisely to the families currently being affected.\"\nThe adoption of this technology in southern Brazil stems from a technical mission conducted by SPGG to Finland , where state officials were welcomed by ICEYE executives to explore solutions for dealing with increasingly frequent and severe climate disasters.\nUsing ICEYE Flood Solutions to Reduce Damage\nIn May 2024 , ICEYE played a pivotal role in responding to another major flood event in Rio Grande do Sul by deploying its satellite constellation to map affected areas with precision. The company directly supported rescue, mitigation, and reconstruction efforts.\nThanks to its unique ability to capture images regardless of weather or lighting conditions — even at night or under cloud cover — ICEYE Solutions provided high-resolution geospatial data to public authorities, civil defense teams, humanitarian organizations, and private companies.\nThis data gave public and private decision-makers a comprehensive view of the situation, helping identify critical zones, damaged infrastructure, flooded areas, and optimal shelter locations. Additionally, the data now serves as a historical record of the floods' progression, supporting both immediate response and long-term disaster prevention planning.\n\"Our mission is to provide timely and actionable geospatial intelligence that enables governments and organizations to respond swiftly and effectively in moments of crisis. In the case of Rio Grande do Sul, our Flood analysis was instrumental in accurately mapping the full extent of the flooding. This critical insight supported the rapid deployment of resources in record time within just one week,\" said Ariadna Gutierrez , Senior Manager, Latin America Government Solutions at ICEYE.\nAbout ICEYE\nICEYE delivers unmatched persistent monitoring capabilities to detect and respond to changes anywhere on Earth faster and more accurately than ever before. Operating the world's largest SAR satellite constellation, ICEYE provides near real-time, objective insights — day or night, in any weather.\nA trusted partner to governments and commercial industries, ICEYE supports sectors such as defense and intelligence, insurance, natural disaster response and recovery, security, maritime monitoring, and finance — enabling decision-making that strengthens community resilience and drives sustainable development.\nICEYE operates globally with offices in Finland , Poland , Spain , the UK, Australia , Japan , the UAE, Greece , and the United States . The company has over 700 employees, all united by a shared mission to improve life on Earth by becoming the global source of truth in Earth Observation.\nVisit www.iceye.com and follow ICEYE on LinkedIn and X for the latest updates and insights.\nPress Contacts: G&A Comunicação Karen Feldman – [email protected] +55 11 98296-9774 João Godoy – [email protected] +55 11 98354-0018\nSOURCE ICEYE\nWANT YOUR COMPANY'S NEWS FEATURED ON PRNEWSWIRE.COM? 440k+\nNewsrooms &\nInfluencers 9k+\nDigital Media\nOutlets 270k+\nJournalists\nOpted In GET STARTED",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->natural disaster",
+      "Disaster and Accident->disaster",
+      "Disaster and Accident->emergency response",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://c212.net/c/link/?t=0&l=en&o=4464310-1&h=1340854800&u=https%3A%2F%2Fwww.iceye.com%2F&a=www.iceye.com",
+      "https://c212.net/c/link/",
+      "https://www.c212.net/c/link/?t=0&l=en&o=4464310-1&h=1340854800&u=https%3A%2F%2Fwww.iceye.com%2F&a=www.iceye.com"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T16:12:26.154+03:00",
+    "updated": "2025-07-10T13:18:48.000+00:00"
+  },
+  {
+    "uuid": "0a2327a19febb90295b6b93da6627565b629c85b",
+    "url": "https://www.dailyexcelsior.com/development-in-jk-has-touched-new-heights-under-modi-raina",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daily Excelsior",
+    "published": "2024-07-11T19:30:00Z",
+    "title": "Development in J&K has touched new heights under Modi: Raina",
+    "text": "Excelsior Correspondent BASOHLI, July 11: Development in Jammu & Kashmir has touched new heights under the Bharatiya Janata Party (BJP) led Government at the Centre, stated Ravinder Raina, president J&K BJP, while addressing a workers’ convention here, today. Dr Nirmal Singh, former Dy Chief Minister and former BJP president along with other senior leaders also addressed the convention. Ravinder Raina, while addressing the convention, appreciated the party workers for their active role in taking the welfare schemes initiated by the Modi Government to the ground level. He said that the BJP is proud of its cadre, which works without any selfishness and always remains ahead of others in serving the society and the nation. He said that the Modi Government has ensued the all-round development in Jammu & Kashmir along with whole of the nation and it is the proud moment for every BJP worker that the people have voted for the Modi Government for third time in a row which is first of its type in the history of nation since independence in the presence of fully aware people and added that it testifies in itself the acceptance of BJP’s policies, ideology and working pattern in the nation. Dr. Nirmal Singh, in his address, spoke at length about the all round development in the whole region. He credited the BJP’s public representatives for their active role to initiate the stalled development works as well as to bring and start the new projects to make the people’s lives easier.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "raina excelsior correspondent basohli",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ravinder raina",
+          "sentiment": "none"
+        },
+        {
+          "name": "nirmal singh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "development in jammu & kashmir",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bharatiya janata party",
+          "sentiment": "none"
+        },
+        {
+          "name": "modi government",
+          "sentiment": "none"
+        },
+        {
+          "name": "bjp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kashmir",
+          "sentiment": "none"
+        },
+        {
+          "name": "jammu",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T03:51:46.237+03:00",
+    "updated": "2024-07-12T08:13:17.482+03:00"
+  },
+  {
+    "uuid": "612736482b5876b1794821e905fb2b679e699644",
+    "url": "https://www.rtbf.be/article/37-pigeons-secourus-a-leglise-de-moustier-sur-sambre-11306704",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Louis Matagne",
+    "published": "2023-12-29T16:13:00Z",
+    "title": "37 pigeons secourus à l’église de Moustier-sur-Sambre - rtbf.be",
+    "text": "C’est une opération de sauvetage pas comme les autres : 37 pigeons ont été extirpés de l’église de Moustier (Jemeppe-sur-Sambre), où ils étaient coincés, plus précisément dans la charpente au-dessus du chœur. Alertés par une paroissienne qui entendait les oiseaux s’agiter dans le plafond, plusieurs bénévoles d’associations spécialisées se sont rendus sur place pour sortir les oiseaux. \"Il y avait une fenêtre cassée, par laquelle les pigeons entraient, mais cette fenêtre a été condamnée et des dizaines de pigeons se sont retrouvés coincés\", explique Franck Lorigiola, de l’asbl Au Bonheur de Vica. Pour extraire les pigeons, les bénévoles se sont aventurés dans la charpente, à plus de 20 mètres de hauteur, munis de cordes, de filets et de cages. Ils ont sorti beaucoup de pigeons morts, mais aussi des survivants, notamment des jeunes. \"Nous rentrons dans la période de reproduction\", explique Frank Lorigiola. Pour lui, que cet enfermement soit accidentel ou volontaire, il éclaire sur le rapport que nous entretenons aux pigeons : \"Pour beaucoup de gens, ce sont des rats volants, et leur sort n’a aucune importance.\" Les pigeons sauvés ont été emmenés dans des pigeonniers urbains gérés par l’association, où les populations sont régulées.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T18:39:37.917+02:00",
+    "updated": "2023-12-29T18:39:37.917+02:00"
+  },
+  {
+    "uuid": "280cafe97ca91febcc38243156d530797dcd1743",
+    "url": "https://m.dailyhunt.in/news/india/english/pinkvillaenglish-epaper-dh1929de61278049158b6066f559e2044a/was+joe+jonas+out+on+a+date+with+his+new+alleged+girlfriend+see+the+duos+posts-newsid-n587615046",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-02-29T13:05:00Z",
+    "title": "Was Joe Jonas Out On A Date With His New Alleged Girlfriend? See The Duo's Posts",
+    "text": "Joe Jonas sure is having the time of his life with his band and his alleged new girlfriend in Sydney. Both Joe and Bree, who has been linked with him since last year after his divorce uploaded pictures and videos of their time on the water in Sydney. And even though neither’s posts featured the other, it was easy to see that both of them were having a lot of fun ahead of the Jonas Brothers’ Australia tour.\nBoth Joe and Stormi posted about their fun trip\nJoe Jonas, who has been seen out and about with model Stormi Bree ever since his public split from Sophie Turner shared a video on his Instagram story on Thursday 29th February. The video featured Trust’s Hot Flash Heat Wave in the background while showing a clip of a sea plane on blue waves. The second photo Joe posted was that of a BeReal which featured their band and the blue waves and sky.\nView this post on Instagram A post shared by @stormibree\n\\n Stormi, on the other hand, posted two clips on her story. One of them featured the Sydney Opera House, whereas the other one was taken at the Sydney Harbour Bridge. Before posting these videos, she also made a post where she uploaded a gorgeous selfie of her soaking up the sun, as well as her sipping on a drink, and a video of the water from the boat. The model captioned her post with emojis, which included waves, the beach and an anchor. This shows her having a great time with Joe and the rest of the band in Australia.\nThis is not the first time the two were spotted on a cute trip together as in January, Joe and Stormi were seen getting cozy in Aspen enjoying a ski trip together. The two of them posted some snowy snaps from the trip on their instagram. Before that, They were also spotted while boarding a private plane together in Los Cabos, Mexico after a private performance of the Jonas Brothers. It seems that their relationship is progressing really well.\nView this post on Instagram A post shared by Jonas Brothers (@jonasbrothers)\n\\n The Jonas Brothers are preparing for the band’s first Australia Tour\nThe Jonas Brothers’ are all geared up for their Australia tour which will start on Friday, 1st March. The tour, titled Five Albums. One Night. The World Tour will take place in Sydney’s Qudos Bank Arena on 1st and 2nd March and move on to Brisbane Entertainment Center On 5th March. After that, the band will perform in the Rod Laver Arena in Melbourne on 8th and 9th March.\nView this post on Instagram A post shared by Nick Jonas (@nickjonas)\n\\n Joe’s brother Nick Jonas was also active on his social media during their boat trip. He posted a video of himself enjoying a beer while getting splashed by the waves on the boat, with the caption, “Hello Australia. @deleasa.” The Jonas Brothers instagram account also reposted the video and Nick’s story where the singer was saying, \"Sydney, long overdue, so excited for the show tomorrow, our first time ever playing here! Yeah, wow, the Opera House, the Bridge.” He also added “Can’t wait, see you tomorrow,” and tagged the Jonas Brothers instagram account.\nWho is Joe Jonas&apos; alleged new boo, Stormi Bree? Exploring her life, career, and more as they&apos;re seen together amid the singer&apos;s divorce\nWas Joe Jonas Out On A Date With His New Alleged Girlfriend? See The Duo&apos;s Posts",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/p/C1-gVR1vSX4/?utm_source=ig_embed&utm_campaign=loading\\",
+      "https://www.instagram.com/p/C37IVlsLwEA/?utm_source=ig_embed&utm_campaign=loading\\",
+      "https://www.instagram.com/reel/C366xUzrE_1/?utm_source=ig_embed&utm_campaign=loading\\",
+      "https://www.instagram.com/p/C37IVlsLwEA/",
+      "https://www.instagram.com/reel/C366xUzrE_1/",
+      "https://instagram.com/p/C1-gVR1vSX4/?utm_source=ig_embed&utm_campaign=loading\\",
+      "https://instagram.com/reel/C366xUzrE_1/?utm_source=ig_embed&utm_campaign=loading\\",
+      "https://www.instagram.com/p/C1-gVR1vSX4/",
+      "https://instagram.com/p/C37IVlsLwEA/?utm_source=ig_embed&utm_campaign=loading\\"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe jonas",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "joe",
+          "sentiment": "none"
+        },
+        {
+          "name": "stormi bree",
+          "sentiment": "none"
+        },
+        {
+          "name": "sophie turner",
+          "sentiment": "none"
+        },
+        {
+          "name": "stormi",
+          "sentiment": "none"
+        },
+        {
+          "name": "bree",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jonas brothers’ australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney opera house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney harbour bridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T01:05:12.388+02:00",
+    "updated": "2024-03-01T01:05:12.388+02:00"
+  },
+  {
+    "uuid": "f6c368ded65414a6d517278c92c1b152305e5faf",
+    "url": "https://www.hellenicshippingnews.com/europe-gas-prices-ease-as-milder-outlook-and-storage-offset-qatari-lng-concerns",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "hellenicshippingnews...",
+    "published": "2024-01-16T00:00:00Z",
+    "title": "Europe Gas: Prices ease as milder outlook and storage offset Qatari LNG concerns | Hellenic Shipping News Worldwide",
+    "text": "Dutch and British wholesale gas contracts eased on Monday morning as milder forecasts and well-filled storage helped offset shipping concerns around liquefied natural gas (LNG) as tension in the Middle East remained high.\nThe benchmark front-month contract at the Dutch TTF hub was down 1.10 euros at 30.50 euros per megawatt hour (MWh) by 0949, LSEG data showed.\nIn Britain, the front-month contract shed 4.32 pence to 75.60 pence per therm.\nThe longer-dated weather forecast shows milder weather, with a current cold spell set to end at the end of the week, a trader said.\n“We are definitely going to make it out of the winter with good storage,” he added.\nTemperatures in north-west Europe will rise to 1-3 degrees Celsius above normal and potentially even more late next week, LSEG meteorologist Marcin Gorski said.\nEuropean gas storage sites were 79.7% full, dropping below 2023 levels but holding above the average of the last five years, after cold weather saw the strongest withdrawals so far this winter, latest data from Gas Infrastructure Europe showed.\nPrices eased despite news that QatarEnergy has paused shipments of LNG via the Red Sea as it awaits security advice amid further escalation in the region after U.S. and British forces launched dozens of air strikes against Houthi forces.\n“The current concern is escalation around the Red Sea and the impact on shipping costs which may in turn influence LNG prices,” consultancy Auxilione said in a morning report.\nHowever, Qatari supply is not impacted, which was the most important aspect, a trader said.\nOn the prompt, the Dutch day-ahead contract fell by 1.25 euros to 30.50 euros/MWh, LSEG data showed.\nThe British day-ahead contract TRGBNBPD1 was down 1.90 pence at 78.50 p/therm, while the within-day contract TRGBNBPWKD fell by 2.00 pence to 78.50 p/therm.\nIn the European carbon market, the benchmark contract CFI2Zc1 fell by 0.08 euros to 65.73 euros a metric ton.\nSource: Reuters (Reporting by Nora Buli in Oslo; editing by Nina Chestney)\n2024-01-16 hellenicshippingnews...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "marcin gorski",
+          "sentiment": "none"
+        },
+        {
+          "name": "qata",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hellenic shipping news worldwide dutch",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lseg",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "middle east",
+          "sentiment": "none"
+        },
+        {
+          "name": "britain",
+          "sentiment": "none"
+        },
+        {
+          "name": "north-west europe",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T03:03:16.657+02:00",
+    "updated": "2024-01-16T03:03:16.657+02:00"
+  },
+  {
+    "uuid": "2b2d5390737af9234278da8b5a7e51cea33496cd",
+    "url": "https://www.rtl.fr/actu/meteo/une-pluie-d-etoiles-filantes-attendue-jusqu-a-vendredi-7900336950",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marina Giraudeau",
+    "published": "2024-01-02T07:56:00Z",
+    "title": "Une pluie d'étoiles filantes attendue jusqu'à vendredi",
+    "text": "Avis aux amoureux d’étoiles filantes car c’est \"LA\" semaine à ne pas louper. Elles seront nombreuses à défiler dans le ciel jusqu'au vendredi 5 janvier. On les appelle les Quadrantides. Et c’est chaque année au même moment. Une étoile filante est un minuscule morceau de comète ou d’astéroïde, de moins d'1 mm. Il arrive dans l'atmosphère à une telle vitesse -50 000 à 250 000 km/h- qu'il chauffe et se désintègre provoquant une lumière fugace. L'orbite des comètes et celle de la Terre ne variant que très peu, le phénomène se produit aux mêmes périodes chaque année. Il y a moins d’un mois il y a eu les Géminides. Et les plus connues sont les Perséides car elles se produisent en août où la météo est plus adéquate pour les observer. Le pic d'intensité des Quadrantides est prévu dans la nuit de mercredi à jeudi avec 200 par heure à son maximum selon l’organisation météorologique mondiale. Mais il faudra trouver un endroit sans pluie et sans nuages, les habitants du quart sud-est seront donc privilégiés. Autre facteur réduisant la visibilité des étoiles filantes : la lune. Elle sera dans son dernier quartier donc pas pleine, mais sa lumière peut être gênante. Pour les observer : pas besoin de matériel, l'œil nu suffit. Allongez-vous pour avoir un plus grand champs de vision du ciel. Et si vous voyez une étoile filante, n'oubliez pas de faire un vœu ! Afin d'assurer la sécurité et la qualité de ce site, nous vous demandons de vous identifier pour laisser vos commentaires. Cette inscription sera valable sur le site RTL.fr. Bienvenue sur RTL Ne manquez rien de l'actualité en activant les notifications sur votre navigateur Cliquez sur “Autoriser” pour poursuivre votre navigation en recevant des notifications. Vous recevrez ponctuellement sous forme de notifciation des actualités RTL. Pour vous désabonner, modifier vos préférences, rendez-vous à tout moment dans le centre de notification de votre équipement. Bienvenue sur RTL Rejoignez la communauté RTL, RTL2 et Fun Radio pour profiter du meilleur de la radio",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-02T10:12:43.283+02:00",
+    "updated": "2024-01-02T10:12:43.283+02:00"
+  }
+]

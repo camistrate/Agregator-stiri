@@ -1,0 +1,586 @@
+[
+  {
+    "uuid": "9aadbfa904a120c6b4ae02457ecfff6f3c1c14cc",
+    "url": "https://www.elheraldo.co/mundo/video-entrenador-agredio-estudiante-en-una-escuela-de-michigan-por-negarse-hacer-flexiones",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción SEO",
+    "published": "2024-06-13T21:29:00Z",
+    "title": "Video: Entrenador agredió a estudiante en una escuela de",
+    "text": "Un entrenador de la escuela secundaria Ypsilanti, Michigan, Estados Unidos, agredió a un joven de 14 años identificado como Michael Moon, mientras caminaba por un pasillo de la escuela. Lea también: Exempleados de SpaceX demandan a Elon Musk por acoso sexual y discriminación De interés: Colombiano engañaba a jóvenes con promesa de hacerlos futbolistas en España Lea: Cae cartel responsable del 50 por ciento de la cocaína que llega a Europa El video que fue grabado por una cámara de seguridad , rápidamente se hizo viral y generó gran indignación entre los internautas.El entrenador coloca una camisa sobre la cabeza del adolescente , quien lucha frenéticamente por liberarse. Este acto de agresión, aunque duró menos de 20 segundos dejó una impresión duradera en quienes han visto el video.Asimismo, la Oficina del Fiscal del Condado de Washtenaw ha confirmado que el entrenador enfrenta dos cargos: uno por agresión con intención de causar grandes daños corporales mediante estrangulamiento y otro por agresión como delito menor. De interés: Video: una pareja se electrocutó dentro de un jacuzzi en México Según las autoridades escolares, el entrenador ya no está vinculado al distrito escolar y se le ha prohibido acercarse a la institución.Yolanda Ellis, la madre del adolescente, expresó al medio WXYZ su horror al ver el video. “ Estaba horrorizada por lo que vi en el video”. El origen de la agresión se remonta a una orden del entrenador, quien le exigió a Michael que hiciera flexiones por estar bromeando en el pasillo. Lea: Demandan la orden de Biden que restringe el asilo en la frontera con México El joven se negó debido a una lesión en la mano, lo que aparentemente desencadenó la violenta reacción del entrenador. El incidente sigue siendo objeto de investigaciones tanto por parte de las autoridades locales como por los organismos escolares, mientras la comunidad expresa su descontento y demanda justicia para el joven afectado.NEW: Michigan middle school coach has been fired for allegedly choking a student with a shirt\nThe coach allegedly took off a shirt, wound it around his wrists, and choked Michael from behind in the hallway last week\nThe teenager told his parents he coach told him to do pushups… pic.twitter.com/u09BxDyeFj",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.co/u09BxDyeFj",
+      "https://www.t.co/u09BxDyeFj"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:00:12.856+03:00",
+    "updated": "2024-06-14T01:00:12.856+03:00"
+  },
+  {
+    "uuid": "2a878a3aea45795404a4e6107f87e82999d5c434",
+    "url": "https://news-24.fr/des-pirates-chinois-ciblent-linux-avec-le-nouveau-malware-wolfsbane",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sumner Ferland",
+    "published": "2024-11-22T05:49:00Z",
+    "title": "Des pirates chinois ciblent Linux avec le nouveau malware WolfsBane",
+    "text": "Tech\nDes pirates chinois ciblent Linux avec le nouveau malware WolfsBane\nUne nouvelle porte dérobée Linux appelée « WolfsBane » a été découverte, probablement un portage d’un malware Windows utilisé par le groupe de piratage chinois « Gelsemium ».\nLes chercheurs en sécurité d’ESET qui ont analysé WolfsBane rapportent que WolfsBane est un outil malveillant complet comprenant un compte-gouttes, un lanceur et une porte dérobée, tout en utilisant également un rootkit open source modifié pour échapper à la détection.\nLes chercheurs ont également découvert « FireWood », un autre malware Linux qui semble lié au malware Windows « Project Wood ».\nCependant, FireWood est plus probablement un outil partagé utilisé par plusieurs groupes APT chinois plutôt qu’un outil exclusif/privé créé par Gelsemium.\nESET affirme que les deux familles de logiciels malveillants, toutes deux apparues sur VirusTotal au cours de l’année dernière, font partie d’une tendance plus large selon laquelle les groupes APT ciblent de plus en plus les plates-formes Linux en raison du renforcement de la sécurité de Windows.\n« La tendance des groupes APT à se concentrer sur les logiciels malveillants Linux est de plus en plus visible. Nous pensons que ce changement est dû aux améliorations de la sécurité de la messagerie Windows et des points de terminaison, telles que l’utilisation généralisée des outils de détection et de réponse des points de terminaison (EDR) et la décision de Microsoft de désactiver Visual Macros Basic for Applications (VBA) par défaut. Par conséquent, les auteurs de menaces explorent de nouvelles voies d’attaque, en se concentrant de plus en plus sur l’exploitation des vulnérabilités des systèmes connectés à Internet, dont la plupart fonctionnent sous Linux.\n❖ESET\nLe hurlement furtif de WolfsBane\nWolfsBane est présenté aux cibles via un compte-gouttes nommé « cron », qui supprime le composant de lancement déguisé en composant de bureau KDE.\nEn fonction des privilèges avec lesquels il s’exécute, il désactive SELinux, crée des fichiers de service système ou modifie les fichiers de configuration utilisateur pour établir la persistance.\nLe lanceur charge le composant malveillant de confidentialité, « udevd », qui charge trois bibliothèques cryptées contenant ses fonctionnalités de base et sa configuration de communication de commande et de contrôle (C2).\nEnfin, une version modifiée du rootkit utilisateur BEURK est chargée via « /etc/ld.so.preload » pour un accrochage à l’échelle du système afin de masquer les processus, les fichiers et le trafic réseau liés aux activités de WolfsBane.\n« Le rootkit WolfsBane Hider intègre de nombreuses fonctions de base de la bibliothèque C standard telles que ouvrir, statistique, répertoire de lectureet accéder, » explique ESET.\n« Bien que ces fonctions intégrées invoquent celles d’origine, elles filtrent tous les résultats liés au malware WolfsBane. »\nL’opération principale de WolfsBane consiste à exécuter les commandes reçues du serveur C2 à l’aide de mappages commande-fonction prédéfinis, qui est le même mécanisme que celui utilisé dans son homologue Windows.\nCes commandes incluent les opérations sur les fichiers, l’exfiltration de données et la manipulation du système, donnant à Gelsemium un contrôle total sur les systèmes compromis.\nBien que vaguement lié à Gelsemium, FireWood est une autre porte dérobée Linux qui pourrait permettre des campagnes d’espionnage polyvalentes et à long terme.\nSes capacités d’exécution de commandes permettent aux opérateurs d’effectuer des opérations sur les fichiers, l’exécution de commandes shell, le chargement/déchargement de bibliothèques et l’exfiltration de données.\nESET a identifié un fichier nommé « usbdev.ko », soupçonné de fonctionner comme un rootkit au niveau du noyau, offrant à FireWood la possibilité de masquer les processus.\nLe malware définit sa persistance sur l’hôte en créant un fichier de démarrage automatique (gnome-control.desktop) dans « .config/autostart/ », tandis qu’il peut également inclure des commandes dans ce fichier pour les exécuter automatiquement au démarrage du système.\nUne liste complète des indicateurs de compromission associés aux deux nouvelles familles de logiciels malveillants Linux et aux dernières campagnes de Gelsemium sont disponibles sur ce dépôt GitHub.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T07:56:06.667+02:00",
+    "updated": "2024-11-22T07:56:06.667+02:00"
+  },
+  {
+    "uuid": "c65f2262b9382b8126282912efb0fd421d284315",
+    "url": "https://www.thv11.com/article/news/local/arkansas-cowboy-horse-cars-stuck-snow/91-1bf9d8b2-adb4-4131-ab9a-201eab661031",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Horbacewicz",
+    "published": "2024-01-16T03:55:00Z",
+    "title": "Man on horse helps drivers stranded on snowy Arkansas roads",
+    "text": "LITTLE ROCK, Ark. — On Monday, the snow challenged some drivers in Central Arkansas. In some cases, the plows were enough, while others chose to just walk. Though one Arkansan had no trouble at all— on horseback. Starting at his ranch in North Little Rock, Doc Leavy and his trusty steed Champ put an Arkansas spin on their trip to the grocery store. \"Now this is what you call cowboy weather, and I love every minute of it,\" Leavy said, \"Some people do say it's wild but you know this is cowboy life. So doing it in the city ain't no different than doing it in the country.\" And a cowboy at Kroger definitely brought some attention. However, Leavy's real goal wasn't the commute but rather donating his horsepower to cars that might not have enough to make it up the hill. \"I mean his horse is just as strong as the tractor you know. If a car is trying to spin out but you ask them not to spin out, you tell him to just ease on the gas. So he eases on the gas and the horse pulls and they come right out.\" said Leavy as he explained the process. Leavy said he helped a few dozen stuck cars last year. and a handful today. He's a lone rider, in search of stuck ones he can help. \"I try not to charge them, somebody to come through that needs some help,\" Leavy said, \"But if I was in their shoes, I want some help instead of sitting out in the cold, especially if they got kids in the car.\" For now, he's riding the snowy trail home until flurries fall again.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "doc leavy",
+          "sentiment": "none"
+        },
+        {
+          "name": "leavy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kroger",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "little rock",
+          "sentiment": "none"
+        },
+        {
+          "name": "central arkansas",
+          "sentiment": "none"
+        },
+        {
+          "name": "ark.",
+          "sentiment": "none"
+        },
+        {
+          "name": "arkansas",
+          "sentiment": "none"
+        },
+        {
+          "name": "north little rock",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T07:25:12.868+02:00",
+    "updated": "2024-01-17T16:10:18.380+02:00"
+  },
+  {
+    "uuid": "a2fce98583cced5bf0c8a1b5c42f9f43c89a965b",
+    "url": "https://soaps.sheknows.com/soaps/news/665889/mark-harmon-come-back-ncis/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jason Pham",
+    "published": "2024-01-05T20:50:00Z",
+    "title": "Is Mark Harmon Coming Back to NCIS 2024? Is Gibbs Returning Season 20? | Soaps.com",
+    "text": "Mark Harmon Is Officially Returning to NCIS — But Not in the Way You Think Since he left DC for Alaska, fans have been awaiting [Mark Harmon coming back to NCIS](https://soaps.sheknows.com/tag/ncis/) and for Gibbs to return as the agency’s fearless leader. Well, more than a year after his exit, Harmon is officially returning to NCIS — but not in the way fans think. NCIS is CBS’ police procedural drama following the special agents of the Naval Criminal Investigation Service’s Major Case Response Team, the United States Navy’s primary federal law enforcement agency, which investigates criminal activity involving the Navy, the United States Marine Corps and their families. Harmon played Leroy Jethro Gibbs, a Supervisory Special Agent at the NCIS, from Seasons 1 to 19. After almost 20 years as a series regular on NCIS, Harmon left the series at the start of season 19. Now with news that [Mark Harmon is coming back to NCIS](https://soaps.sheknows.com/soaps/news/666723/eleanor-bishop-leave-ncis/), fans can’t help but wonder what his grand return will look like. Read on for what we know about Gibbs’ return to NCIS and how Mark Harmon is coming back. Is Mark Harmon coming back to NCIS? Is Mark Harmon coming back to NCIS? The answer is sort of. Deadline reported in January 2024 that an NCIS prequel titled NCIS: Origins about a younger version of Harmon’s character — Leroy Jethro Gibbs — is in the works at CBS. Harmon’s son, Sean Harmon, will play the younger version of Gibbs, while Harmon will narrate the series. Sean also played Gibbs in seven episodes of NCIS from 2008 to 2020. The series will also be produced by NCIS writers and producers NCIS writers-producers, Gina Lucita Monreal and David J. North, as well as CBS Studios, which produces the entire NCIS franchise. NCIS: Origins starts in 1991, years before the events of the original NCIS series. The prequel follows Gibbs as he starts his career as a new special agent at the NCIS Camp Pendleton office and finds his place on a team led by NCIS veteran Mike Franks. (On the original NCIS, Franks was a recurring character played by Muse Watson. He was stabbed to death in Season 8 but continued to appear on the series as a sounding board for Gibbs on difficult cases. The idea for an NCIS prequel originated with Sean Harmon, who approached Monreal, North, and CBS Studios with the idea for the series.“The character of Gibbs has been an important part of my life for 20 years, both in watching my father craft the role and previously having the honor to play young Gibbs myself,” Sean Harmon said in a statement at the time. “I always felt there was a tale worth telling about his earlier years, so I am thrilled to be stepping into a producing role alongside Gina, David and my dad as we tell this story and reveal a new side of this beloved character.” NCIS: Origins also follows another CBS prequel, Young Sheldon, which premiered in 2017 as a prequel of The Big Bang Theory. “We are elated and honored to continue the expansion of the NCIS universe in such a unique and unexpected way,” said Amy Reisenbach, president of CBS Entertainment in a statement. “Viewers can look forward to Mark Harmon returning to CBS to narrate the complex and mysterious backstory of Leroy Jethro Gibbs’ early years in NCIS: Origins, which will build on the rich legacy of this character while reintroducing fan-favorite characters and meeting new ones.” “We are elated and honored to continue the expansion of the NCIS universe in such a unique and unexpected way,” said Amy Reisenbach, president of CBS Entertainment. “Viewers can look forward to Mark Harmon returning to CBS to narrate the complex and mysterious backstory of Leroy Jethro Gibbs’ early years in NCIS: Origins, which will build on the rich legacy of this character while reintroducing fan-favorite characters and meeting new ones.” David Stapf, president of CBS Studios, added, “There’s no denying the cultural and global phenomenon of the NCIS franchise for the last 20 years. When Sean and Mark approached us all with this exciting expansion of the universe – exploring a young Gibbs – we knew it was the next story that needed to be told. We also couldn’t be luckier to have Gina and David at the helm as co-showrunners who are not only brilliant and adept writers but know this character and universe so well.” Before the news of NCIS: Origins, a source told [Closer Weekly](https://www.closerweekly.com/posts/mark-harmon-still-on-the-fence-about-ncis-return/) in July 2023 that Harmon was considering a return as Gibbs before he got sidetracked writing his upcoming book, [Ghosts of Honolulu](https://clicks.trx-hub.com/xid/pmc_0aaa4_soaps?q=https%3A%2F%2Fwww.amazon.com%2FGhosts-Honolulu-Japanese-American-Hunter%2Fdp%2F1400337011%2F%3Ftag%3Dsoaps0f6-20%26asc_source%3Dweb%26asc_campaign%3Dweb%26asc_refurl%3Dhttps%253A%252F%252Fsoaps.sheknows.com%252Fsoaps%252Fnews%252F665889%252Fmark-harmon-come-back-ncis%252F&p=https%3A%2F%2Fsoaps.sheknows.com%2Fsoaps%2Fnews%2F665889%2Fmark-harmon-come-back-ncis%2F&ref=pmcTrackonomicsReferrer&event_type=click). “Mark’s been teasing a return to the show and everyone wanted him back,” the insider said. “He’s still on the fence when it comes to going back to the grind. People wish he would stop getting them excited only to let them down.” The source also claimed that Harmon’s former co-star, Wilmer Valderrama, who has played NCIS Special Agent Nicholas Torres since Season 14, would have mixed feelings about his cast mate’s return. “Wilmer has nothing personal against Mark, but he wouldn’t mind if he never came back,” the insider said. “This has been Wilmer’s time to shine and he feels like he’s finally a main star, not a supporting player.” A source told [Radar Online](https://radaronline.com/p/ncis-star-mark-harmon-backtracking-rejoining-show/) in July 2023 that Harmon’s “fickle attitude” toward coming back to NCIS had stressed his co-stars, who were hoping he’d return to boost the series’ ratings. “Everyone wanted him back,” the insider said. The source also claimed that Harmon is less interested about returning to NCIS now that he’s written his book, Ghosts of Honolulu. “When he was bored, an NCIS return sounded like a good idea. Now he’s found something that’s interesting, he’s less enthused,” the insider said. The source added that Harmon’s cast mates “wish he would stop getting them excited only to let them down.” Rocky Carroll, who plays NCIS Director Leon Vance, also hinted in an interview with [TV Insider](https://www.tvinsider.com/1079341/ncis-episode-450-rocky-carroll-vance-memories-returning-characters/) in January 2023 that Harmon could return in the future. “I think as long as this show stays on the air, there will always be a little bit of a tease that we might see Gibbs again. First time I saw an episode of this show, I said, oh, it’s Gary Cooper from High Noon. Gibbs is the moral compass. He’s the moral compass that we all wish we had,” Carroll said. A source confirmed to [OK magazine](https://okmagazine.com/p/mark-harmon-return-ncis-part-time-save-show/) in September 2023 that Harmon was seriously planning to return to NCIS in a “part-time capacity” to “save the show.” “Mark has to work hard to find things to do at home,” the insider said. “Mark’s had a good long rest, but he’s a little bored doing the same thing day in and day out and would like to get back to the set in a part-time capacity at the very least.” The source continued, “Of course, bosses are thrilled. They’ve been trying to woo him back for some time and Mark can essentially name his price. If anyone can save the show, it’s Mark.” Gibbs left NCIS in Season 19, Episode 4, which saw Gibbs and NCIS Senior Field Agent Timothy McGee travel to Alaska for a case, where Gibbs decides to stay instead of returning to Washington D.C. and resume his career at the NCIS. “My gut’s telling me, I’ll know when I find it,” Gibbs told McGee of what he was looking for in his life. “This sense of peace, I have not had this since Shannon and Kelly died and I’m not ready to let it go.” He then offered his McGee his role at the NCIS. “I could not have hoped for anyone better to watch my back for the past 18 years than you,” he said. In a special featurette for the NCIS season 19 DVD, Harmon hinted that Gibbs was purposely written out of NCIS in a way that doesn’t kill him off so he could return. “I’m not retired… The character is living in Alaska as far as I know,” he said. In a statement to [Entertainment Tonight](https://www.etonline.com/mark-harmon-exits-ncis-in-season-19-173574) after Harmon’s exit in October 2021, NCIS executive producer and showrunner Steven D. Binder also hinted at Gibbs’ return in future seasons. “As an executive producer and dear friend, Mark continues to be an integral part of the fabric of the show. Our north star has always been staying true to our characters, and that truth has always guided the stories we tell and where those characters go,” he said. “So regarding the future of Gibbs, as longtime fans of the show may have noticed over the years… never count Leroy Jethro Gibbs out.” Why did Mark Harmon leave NCIS? Why did Mark Harmon leave NCIS? In a special featurette for the NCIS season 19 DVD, Harmon hinted that he left NCIS after 19 seasons to “keep it fresh” in his career. “What has always drawn me here is the character I play and to keep it fresh and to keep it challenging,” he said. “Plot-wise, this character has taken the path that it did. I thought it was honest and OK with.” Harmon — who was also an executive producer on NCIS from 2008 to 2021 — was officially removed from the NCIS opening credits in Season 20, Episode 1, in September 2022, almost a year after he left the series in season 19. Harmon hasn’t had any new acting roles since he left NCIS, according to his IMDb, which lists NCIS as his most recent acting credit. That could change, however. [The Hollywood Reporter](https://www.hollywoodreporter.com/business/business-news/mark-harmon-signs-with-gersh-1235319197/) reported in February 2023 that Harmon had signed with The Gersh Agency, a talent agency that has also represented actors like Brendan Fraser, Allison Janney, Patricia Arquette, Adam Driver and Mandy Moore. Though he’s left NCIS, Harmon is still remembered by his former co-stars. In an interview with [TV Insider](https://www.tvinsider.com/1088476/liza-lapira-ncis-michelle-twist-dead-mole-new-orleans/) in April 2023, Liza Lapira — who played lawyer Michelle Lee on NCIS Seasons 4 an 6 — looked back on a twist that her character was a mole within the agency. “It was great to have that twist. It was a surprise because I had just been written to be the lawyer. I was with the team for a tiny bit, and then I moved into the law portion of NCIS, and then I was going to be Brian [Dietzen]‘s love interest,” Lapira said. “I got a call in [the sixth] season telling me what it was going to be. And it was just really exciting to come back and to get to do a big arc like that.” Lapira also told TV Insider that looking back on NCIS “just brings back a lot of good memories.” She continued, Rocky Carroll is a gem. He’s just a gem. Mark Harmon is. I brought my mom to set, and as a birthday surprise for her, I just told her we were going somewhere, and Mark and Rocky said happy birthday to her and greeted her and just welcomed her with open arms.” She added, “Everyone was really kind. Brian Dietzen, I couldn’t have asked for a better first love interest. He was such a gentleman and very, very welcoming. I remember his wife was pregnant at the time, and it was just like, ‘Hi, nice to meet you. Congratulations. And now let’s pretend to be in love.'” Lapira also told TV Insider what it was like to star on NCIS‘ spinoff, NCIS: New Orleans, in which she played a different character. “I emailed Mark and said, ‘Hey, I’m back at work, kind of.’ That team was lovely, too, and shooting in New Orleans is great. I’m sad that it’s no longer,” she said. NCIS airs Mondays at 9 p.m. on CBS. For more on primetime shows, check out our photo gallery on the [best nighttime soaps ranked](https://soaps.sheknows.com/gallery/best-primetime-dramas-all-time-ranked-list-photos-soap-operas/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.etonline.com/mark-harmon-exits-ncis-in-season-19-173574)",
+      "https://radaronline.com/p/ncis-star-mark-harmon-backtracking-rejoining-show/)",
+      "https://www.tvinsider.com/1088476/liza-lapira-ncis-michelle-twist-dead-mole-new-orleans/)",
+      "https://www.hollywoodreporter.com/business/business-news/mark-harmon-signs-with-gersh-1235319197/)",
+      "https://www.tvinsider.com/1079341/ncis-episode-450-rocky-carroll-vance-memories-returning-characters/)",
+      "https://okmagazine.com/p/mark-harmon-return-ncis-part-time-save-show/)",
+      "https://clicks.trx-hub.com/xid/pmc_0aaa4_soaps?q=https%3A%2F%2Fwww.amazon.com%2FGhosts-Honolulu-Japanese-American-Hunter%2Fdp%2F1400337011%2F%3Ftag%3Dsoaps0f6-20%26asc_source%3Dweb%26asc_campaign%3Dweb%26asc_refurl%3Dhttps%253A%252F%252Fsoaps.sheknows.com%252Fsoaps%252Fnews%252F665889%252Fmark-harmon-come-back-ncis%252F&p=https%3A%2F%2Fsoaps.sheknows.com%2Fsoaps%2Fnews%2F665889%2Fmark-harmon-come-back-ncis%2F&ref=pmcTrackonomicsReferrer&event_type=click).",
+      "https://www.closerweekly.com/posts/mark-harmon-still-on-the-fence-about-ncis-return/)",
+      "https://www.radaronline.com/p/ncis-star-mark-harmon-backtracking-rejoining-show/)",
+      "https://clicks.trx-hub.com/xid/pmc_0aaa4_soaps",
+      "https://closerweekly.com/posts/mark-harmon-still-on-the-fence-about-ncis-return/)",
+      "https://etonline.com/mark-harmon-exits-ncis-in-season-19-173574)",
+      "https://www.okmagazine.com/p/mark-harmon-return-ncis-part-time-save-show/)",
+      "https://tvinsider.com/1079341/ncis-episode-450-rocky-carroll-vance-memories-returning-characters/)",
+      "https://hollywoodreporter.com/business/business-news/mark-harmon-signs-with-gersh-1235319197/)",
+      "https://www.clicks.trx-hub.com/xid/pmc_0aaa4_soaps?q=https%3A%2F%2Fwww.amazon.com%2FGhosts-Honolulu-Japanese-American-Hunter%2Fdp%2F1400337011%2F%3Ftag%3Dsoaps0f6-20%26asc_source%3Dweb%26asc_campaign%3Dweb%26asc_refurl%3Dhttps%253A%252F%252Fsoaps.sheknows.com%252Fsoaps%252Fnews%252F665889%252Fmark-harmon-come-back-ncis%252F&p=https%3A%2F%2Fsoaps.sheknows.com%2Fsoaps%2Fnews%2F665889%2Fmark-harmon-come-back-ncis%2F&ref=pmcTrackonomicsReferrer&event_type=click).",
+      "https://tvinsider.com/1088476/liza-lapira-ncis-michelle-twist-dead-mole-new-orleans/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mark harmon",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "gibbs",
+          "sentiment": "none"
+        },
+        {
+          "name": "harmon",
+          "sentiment": "none"
+        },
+        {
+          "name": "leroy jethro gibbs",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "navy",
+          "sentiment": "none"
+        },
+        {
+          "name": "cbs",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states navy",
+          "sentiment": "none"
+        },
+        {
+          "name": "ncis",
+          "sentiment": "none"
+        },
+        {
+          "name": "major case response team",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states marine corps",
+          "sentiment": "none"
+        },
+        {
+          "name": "naval criminal investigation service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:02:43.881+02:00",
+    "updated": "2024-01-06T00:02:43.881+02:00"
+  },
+  {
+    "uuid": "a9a519baf24a5323902496dd23af232238d2d383",
+    "url": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2024/08/22/confusao-torcedores-sao-paulo-nacional-policia.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eder Traskini;Renan Liskai",
+    "published": "2024-08-22T23:21:00Z",
+    "title": "Torcedores do Nacional brigam com policiais durante jogo com São Paulo",
+    "text": "Esporte Torcedores do Nacional atiram cadeiras em policiais, e jogo é paralisado Eder Traskini e Renan Liskai Do UOL, em São Paulo 22/08/2024 20h21 Atualizada em 22/08/2024 21h26\nTorcedores do Nacional (URU) se envolveram em uma confusão que paralisou o jogo na derrota para o São Paulo por 2 a 0 , nesta quinta-feira (22), no MorumBis, pela volta das oitavas de final da Libertadores.\nO que aconteceu Torcedores começaram a confusão após o segundo gol do São Paulo . Assentos do setor visitante foram quebrados e atirados em direção aos policiais que tentavam conter a confusão.\nOs torcedores se espalharam pela arquibancada . Enquanto alguns se dirigiram às extremidades do setor visitante, outros permaneceram no centro do local, confrontando os policiais.\nTales Faria\nNunes já não teme que Bolsonaro o abandone\nJosias de Souza\nMarçal consolida cercadinho sem Bolsonaro\nMariana Londres\nReforma do imposto sobre renda será o grande debate\nWálter Maierovitch\nPutin apela a mercenários para enfrentar ucranianos\nJogadores dos dois times tentaram pedir calma . Os atletas se dirigiram em direção ao setor onde estavam os torcedores do Nacional e pediram para que a confusão parasse.\nClassificação e jogos Libertadores O jogo ficou paralisado por cerca de sete minutos . A confusão começou aos dois minutos do segundo tempo, e o jogo foi retomado aos nove.\nComunicar erro Veja também Deixe seu comentário Só para assinantes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.portaleducacao.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-cursosonline&utm_term=submenu",
+      "https://online.pucrs.br/#cursosposmba?utm_source=uol&utm_medium=referral&utm_campaign=dynad-posgraduacao&utm_term=submenu",
+      "https://atriumcursos.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-OAB&utm_term=submenu",
+      "https://www.passeidireto.com/?utm_source=uol.com.br&utm_medium=barra-uol-home",
+      "https://www.portaleducacao.com.br/cursos?utm_source=uol&utm_medium=referral&utm_campaign=dynad-prof&utm_term=submenu",
+      "https://www.upfy.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-upfy&utm_term=submenu",
+      "https://pagbank.onelink.me/Dzpm?pid=midia-interna&c=26052023_uol_linkfixo&af_channel=uol&af_adset=home&af_ad=header&af_dp=psmyaccount%3A%2F%2Fhome&utm_source=appsflyer-midia-interna&utm_medium=uol&utm_campaign=26052023_uol_linkfixo&utm_term=header&utm_content=home&af_web_dp=https%3A%2F%2Fpagseguro.com.br&af_force_deeplink=true",
+      "https://www.passeidireto.com/",
+      "https://portaleducacao.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-cursosonline&utm_term=submenu",
+      "https://upfy.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-upfy&utm_term=submenu",
+      "https://www.atriumcursos.com.br/?utm_source=uol&utm_medium=referral&utm_campaign=dynad-OAB&utm_term=submenu",
+      "https://www.online.pucrs.br/#cursosposmba?utm_source=uol&utm_medium=referral&utm_campaign=dynad-posgraduacao&utm_term=submenu",
+      "https://www.portaleducacao.com.br/cursos",
+      "https://online.pucrs.br/#cursosposmba",
+      "https://www.upfy.com.br/",
+      "https://portaleducacao.com.br/cursos?utm_source=uol&utm_medium=referral&utm_campaign=dynad-prof&utm_term=submenu",
+      "https://passeidireto.com/?utm_source=uol.com.br&utm_medium=barra-uol-home",
+      "https://pagbank.onelink.me/Dzpm",
+      "https://www.pagbank.onelink.me/Dzpm?pid=midia-interna&c=26052023_uol_linkfixo&af_channel=uol&af_adset=home&af_ad=header&af_dp=psmyaccount%3A%2F%2Fhome&utm_source=appsflyer-midia-interna&utm_medium=uol&utm_campaign=26052023_uol_linkfixo&utm_term=header&utm_content=home&af_web_dp=https%3A%2F%2Fpagseguro.com.br&af_force_deeplink=true",
+      "https://atriumcursos.com.br/",
+      "https://www.portaleducacao.com.br/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T02:32:38.193+03:00",
+    "updated": "2024-08-23T03:53:02.647+03:00"
+  },
+  {
+    "uuid": "cd2bd4350a45c2b61f30646f8030ae97ef8704ee",
+    "url": "http://business.dailytimesleader.com/dailytimesleader/article/abnewswire-2024-1-5-introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AB Newswire",
+    "published": "2024-01-05T00:00:00Z",
+    "title": "Introducing the NCS eDSD Suite: Revolutionizing Direct Store Delivery (DSD) Software for Seamless Operations | dailytimesleader.com | Serving West Point & Clay County Since 1867",
+    "text": "NCS Solutions, a leader in innovative software solutions, proudly announces the launch of the NCS eDSD Suite, a comprehensive solution designed to transform the landscape of the Direct Store Delivery (DSD) industry. This cutting-edge software suite addresses the unique requirements of both back-office operations and mobile workers, providing a seamless and efficient solution for businesses involved in direct store delivery.\nThe NCS eDSD Suite is a result of extensive research and development, driven by a commitment to meeting the evolving needs of the DSD industry. With a user-friendly interface and powerful features, the suite empowers businesses to streamline their operations, enhance productivity, and stay ahead in a competitive market.\nKey Features of the NCS eDSD Suite:\nComprehensive Back-Office Management:\nThe suite includes robust back-office management tools that enable businesses to optimize their internal processes. From inventory management and order processing to invoicing and reporting, the NCS eDSD Suite offers a centralized platform for efficient back-office operations.\nMobile Workforce Empowerment:\nDesigned with the mobile worker in mind, the suite provides a user-friendly mobile application that facilitates seamless communication between field representatives and the back office. This empowers mobile workers to manage orders, update inventory, and complete transactions in real-time, ensuring accuracy and efficiency on the go.\nReal-Time Data Sync:\nThe NCS eDSD Suite ensures that data is synchronized in real-time between the back office and mobile devices. This not only reduces the risk of errors but also provides decision-makers with up-to-the-minute insights into their business, enabling proactive decision-making.\nCustomizable Solutions:\nRecognizing that every business has unique needs, the NCS eDSD Suite is highly customizable. Businesses can tailor the software to fit their specific requirements, ensuring a personalized solution that aligns with their workflow and goals.\nScalability for Growth:\nAs businesses grow, the NCS eDSD Suite grows with them. The scalable architecture allows companies to easily expand their operations without the need for significant software modifications. This ensures that the software remains a valuable asset as businesses evolve and adapt to changing market dynamics.\nCEO of NCS Solutions, expressed excitement about the launch, stating, \"The NCS eDSD Suite represents a significant leap forward in the DSD software landscape. We believe that businesses should have access to a solution that not only meets their current needs but also grows with them. This suite is a testament to our commitment to innovation and empowering businesses to thrive in an ever-changing environment.\"\nThe NCS eDSD Suite is now available for businesses looking to enhance their direct store delivery operations. For more information, visit https://ncssuite.com/direct-store-delivery-platform/\nAbout NCS Solutions:\nNCS Solutions is a leading provider of innovative software solutions, committed to empowering businesses with cutting-edge technologies. With a focus on delivering user-friendly and scalable solutions, NCS Solutions aims to drive efficiency and productivity across various industries.\nMedia Contact\nCompany Name: Numeric Computer Systems\nContact Person: Mark Hochberg\nEmail: Send Email\nPhone: +1(631)4869000\nCountry: United States\nWebsite: https://ncssuite.com/direct-store-delivery-platform\nData & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Education"
+    ],
+    "external_links": [
+      "https://ncssuite.com/direct-store-delivery-platform",
+      "https://www.cloudquote.io",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://tracking.newsrpm.com/pixel?slug=abnewswire-2024-1-5-introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://ncssuite.com/direct-store-delivery-platform/",
+      "https://www.abnewswire.com/press_stat.php?pr=introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "https://www.abnewswire.com/companyname/ncssuite.com_128030.html",
+      "https://www.abnewswire.com/email_contact_us.php?pr=introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://www.abnewswire.com/email_contact_us.php",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://cloudquote.io/article/5",
+      "https://cloudquote.io/article/6",
+      "https://tracking.newsrpm.com/pixel",
+      "https://abnewswire.com/press_stat.php?pr=introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://www.ncssuite.com/direct-store-delivery-platform/",
+      "https://cloudquote.io",
+      "https://www.abnewswire.com/press_stat.php",
+      "https://www.tracking.newsrpm.com/pixel?slug=abnewswire-2024-1-5-introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://abnewswire.com/email_contact_us.php?pr=introducing-the-ncs-edsd-suite-revolutionizing-direct-store-delivery-dsd-software-for-seamless-operations",
+      "https://abnewswire.com/companyname/ncssuite.com_128030.html",
+      "https://ncssuite.com/direct-store-delivery-platform",
+      "https://www.ncssuite.com/direct-store-delivery-platform"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ncs solutions",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "ncs",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:01:36.410+02:00",
+    "updated": "2024-01-06T00:01:36.410+02:00"
+  },
+  {
+    "uuid": "5b210e1dfe107e90fddb74544dee3dead04c0537",
+    "url": "https://www.newarab.com/features/has-disney-alienated-its-muslim-viewers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Swara Salih",
+    "published": "2023-12-29T13:19:00Z",
+    "title": "Has Disney alienated its Muslim viewers?",
+    "text": "Has Disney alienated its Muslim viewers with its pro-Israel stance? The Marvels, which co-stars Muslim superhero Ms. Marvel, was a financial failure at the box office, due to its inability to break even on its over $200 million budget. Analysts have given several reasons for this, ranging from the quality of the MCU lagging to the actors being unable to promote the film due to the actors’ strike, to other factors. What most of these analyses bely, however, is the potential of Muslim audiences who care about Palestine (that is to say [the broad majority of Muslims](https://apnews.com/article/israel-palestinians-hamas-war-friday-prayers-mideast-8474ed730294a1c2299bdaef58a17142)) worldwide feeling betrayed by Marvel’s parent company Disney, and [refusing to go support the film in theatres](https://www.instagram.com/p/CzmW7n3vwoT/). The silence the Disney company has had for the thousands of Palestinians killed and injured, including the thousands of children, has spoken volumes — especially after they found that same silence inappropriate in the wake of the October 7 attack, when [they voiced support for and pledged $1 million for Israel](https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/). \"The silence the Disney company has had for the thousands of Palestinians killed and injured, including the thousands of children, has spoken volumes\" To many Muslims, this shows that Disney does not care about Palestinian lives, and thus wants to boycott the company. Some still want to support Ms. Marvel, one of the extremely few brown and Muslim heroes we have in popular media, and her actress Iman Vellani, who was by far [the best part of The Marvels](https://www.newarab.com/features/kamala-khan-follow-marvels-marvellous-bore). We speak to five Muslims ranging from writers, podcasters, content creators, and activists on how they navigate Disney’s stance, and how they approach [BDS’s labelling of “pressure” and not “boycotting” Disney](https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide). | | 'I wasn't surprised' Bisma Parvez, a Pakistani-American Muslim social media creator and activist outspoken for Palestine, was [unsurprised](https://www.instagram.com/bismap/?hl=en) by Disney’s statement. “I wish I could say I was shocked,” she says. “I wasn't surprised honestly. Disappointed of course. But it's not shocking to see the unconditional support for Israel. And I'm not saying that the innocent [Israeli] people who were affected should be harmed in any way, of course. \"Any hostage should be returned, of course, but the fact that they are indiscriminately bombing children while Disney is saying ‘We are sad about children,’ is mind-boggling.\" | | Bisma noted that she is an ardent fan of Ms. Marvel/Kamala Khan and that in other circumstances, she would be supporting her and any media she appears in. “I feel like [Kamala Khan] is my daughter,” Bisma says. “She's a part of my family. I started getting more into Marvel [when I realised] there's this Pakistani Muslim girl. It was just like how you would support your child and we were ready before she even came out to support her unconditionally.” \"What representation is supposed to do is teach you to humanise the people that you see as an ‘other.’ It should actually lead to empathy for them\" However, after Disney’s statement, Bisma decided, along with her fellow mom friends, not to support the new film. “Active decisions were made to not watch this movie. And while some made a passive decision, a lot of us said ‘No, we will not watch this movie. We will not take our kids and we will go to the protest instead.’ And we took our kids to the protests.” For Bisma and her fellow Muslim mums, only representing Muslims is not enough. “I think representation only takes you so far,” she says. “What representation is supposed to do is teach you to humanise the people that you see as an ‘other.’ It should lead you to feel empathy for them. “I think people are starting to see past the whole, ‘We did celebrate the diversity and inclusion and the representation.’ But now it's like, ‘Well, what was the point? You're still killing our kids?’” | | 'We have to be vocal' Uneeb (“Neebz”) Khan and Mohammed Usman Aijaz (“Jazz”) are the co-hosts of the [Salaam Nerds Podcast](https://podcasts.apple.com/us/podcast/salaam-nerds-podcast/id1611494209?ign-itscg=30200&ign-itsct=lt_p), a Muslim-run podcast that covers various aspects of pop culture, including Marvel and Ms. Marvel, whom they have championed. While they know it may cost them opportunities, Neebz and Jazz have been consistently outspoken about Palestine on their podcast and in [their other efforts](https://x.com/muaijaz/status/1731015710359302496?s=20). Neebz has particularly felt the backlash to his activism. “I've lost about 2,000 followers on my Instagram alone and quite a few on my Tiktok,” he says. “I've had some opportunities to be on podcasts about The Marvels but then, conveniently, I was ghosted as soon as I started posting on Palestine.” Perhaps most shocking was how an organisation ghosted him on a joint effort to screen The Marvels for kids from Jersey City (where Ms. Marvel is from). “All of a sudden, when this popped off, they stopped replying to my emails, and I got the hint. I knew what it was about.” While they didn’t choose to boycott The Marvels themselves, the podcast hosts know of people in their Muslim communities who have. “I don't think it's the main cause for [it's flopping],” says Jazz, “but I know a lot of my friends, for example, refuse to go watch it in theatres. They've already cancelled their Disney+ subscriptions. It is a factor, but I don't believe it's the sole factor for why it flopped.” Neebz elaborated on why Disney’s statements may have contributed to The Marvels' lack of success among Muslim audiences. “So, it may not be the reason why it flopped but it's the reason why it's not getting traction” he says. “Sometimes a movie flops and then word of mouth gets out. And then it grows and grows and grows. There is a lot of traction that is potentially lost right now because there are so many great scenes in the movie that I think Muslims would have liked and shared with families — it's so family-oriented.” | | Jazz believes the reason why the Walt Disney Company was so quick to vocalise support for Israel, compared to other entertainment companies, is due to the infamy of [its founder's reputed antisemitism](https://www.vulture.com/2013/12/walt-disney-anti-semitism-racism-sexism-frozen-head.html), and [the antisemitism that was evident in its animation](https://www.heyalma.com/why-do-so-many-disney-villains-look-like-me/). Through the [misguided conflation of Zionism with Judaism](https://crooked.com/podcast/the-difference-between-antisemitism-and-anti-zionism/), Disney now seeks to make up for its founder’s abhorrent views. “I know someone at Disney and she says that Disney just has a way of doing things. In the past, Walt Disney was known to be incredibly antisemitic. So, a lot of what Disney does is a knee-jerk reaction to anything happening [in Israel]. \"But unfortunately, Palestinians don't have the same latitude there. So, they won’t step into anything for the Palestinian people, at least not publicly the way they did it for the Israeli side.\" \"If you can unionise all the Muslims in this, then you can be a little bit of a threat to people in terms of like, getting your way. You can say it in a way where it's politically correct. As the saying goes, speak even if your voice cracks\" On what they would say to Muslims working at Disney or Marvel, Neebz believes they have the power to shift change from within through unionisation efforts. “I think that they have to be unapologetically themselves there,” he says. “They know that Disney cannot fire all of them for just being who they are standing up for what they believe. I think we have to be vocal and I think there's strength in numbers. \"If you can unionise all the Muslims in this, then you can be a little bit of a threat to people in terms of like, getting your way. You can say it in a way where it's politically correct. As the saying goes, speak even if your voice cracks.” While they’re not boycotting Disney products, Neebz and Jazz hope that their platform provides an important perspective in entertainment media, educating audiences, and pressuring Disney and other companies to do better. “We talk about a lot of Disney shows, and I feel like that gives us a great position to critique these shows and films,” Neebz says. “And be the people who are bringing up some of the issues that the shows have. If nobody's watching, who is going to call out the bigotry in this show? If nobody watched Wonder Woman 1984, no one's going to know [how racist that movie was](https://slate.com/culture/2020/12/wonder-woman-1984-middle-east-arab-mena-racism.html). So, someone's got to be able to watch it and give people reasons why it is wrong.” 'Villianised and dehumanised in movies' [Tariq Ra’ouf](https://www.newarab.com/author/70945/tariq-raouf) is a Palestinian-American and Muslim freelance writer. “This has been an incredibly hard period,” Tariq said when asked about how they’re holding up through the onslaught on Gaza and having family there. \"It's extremely painful. For the first time, I felt like I had a tether to better the lives of outsiders when I found out that we had family affected by the airstrikes, including my cousin Tala. I asked my dad what I could do to help and he said, ‘Can you share dollars? Message people?’ And I said, ‘Yeah, absolutely.’\" \"Kamala Khan’s existence is just a reminder to the world that the stereotypes that we grew up on are not accurate and not fair. And it is very important to me to have characters like her” For Tariq and other Muslims, having Ms. Marvel as a prominent hero helps combat the systemic Islamophobia that helps enable atrocities like those in Palestine. “One of the reasons the world is so nonchalant about what's happening in Palestine right now is because we've been fed media and narratives that have furthered awful, horrific stereotypes that villainise and dehumanise us to the point where when you see something going on in Palestine, you go, ‘Oh, well, they're all terrorists. So that makes sense. “Kamala Khan’s existence is just a reminder to the world that the stereotypes that we grew up on are not accurate and not fair. And it is very important to me to have characters like her.” Referring to Disney's statement, Tariq said, “It was completely biased... It painted all Palestinians as terrorists, which is not acceptable by any means.” | | Tariq expressed worry that boycotting film and TV shows with Ms. Marvel would send the wrong message. “It’s a film that’s so important for Muslim storytelling.\" However, they believe that pressuring the company is a better option. \"You want to make sure they know that their stance is wrong. You need to be vocal about your discomfort and the way that this company is handling the situation. If it's not a boycott, the only thing I can think of is action.” Tariq also understands that Disney’s representation only goes so far. “You look at the statement that they just put out, it's very clear what side they're on. They're just trying to play up this idea of being inclusive when in actuality they are the opposite. They have a long way to go.” 'Disney's one-sided statement sends a loud message' [Jasmin](https://www.instagram.com/jasminjoestar/) is an Iraqi-American Muslim Ms. Marvel cosplayer, lauding her from day one for the representation she brought to various marginalised communities. “I can write a PhD level thesis of how important Ms. Marvel is and how much she means to me personally,” she says “I think it is the representation inclusivity and validation that we all need being Middle Eastern and South Asian, Muslim and as the children of immigrants. For me, Kamala is who I am.” Like many others, Disney’s one-sided statement dismayed Jasmin. “I like to be a very fair person when I look at things,” she says. “I don't ever condone violence. I feel like what happened on October 7 was not okay. But also I don't condone one-sided statements like Disney’s. “To donate to one side, to only recognise one side's suffering or struggle and leaving out the second is irresponsible,\" Jasmin says. “That is making an active choice and sending a loud message.” Jasmin described how she and other Ms. Marvel content creators went about organising their protest statement at The Marvels premiere. “Our presence at the premiere was not optional. It was mandatory for us,” she says. \"You cannot just use our stories and our people without taking our struggles into account” “We need to show love. And we need to show the fact that we support our girl and we're so happy and so grateful for this opportunity. While we're happy and appreciative of the opportunity and the positive representation she has, we're sad and disappointed at Disney’s stance, and we want to show solidarity for what the right thing is and for the Palestinian people in their suffering. \"So those of us that attended showed our solidarity by wearing Keffiyehs and wearing watermelon accessories to show that we support Palestine with all our heart while attending a Disney or Marvel event,\" Jasmin explains. \"We're happy for the positive representation, but do it right. You cannot just use our stories and our people without taking our struggles into account.” | | On what she would say to Muslims working at Disney or Marvel, Jasmin is optimistic that their presence is making a difference within. “ \"I am proud of them. I'm happy that they're there. I'm happy that they are representing us,” she says. “This is somewhere where your influence matters, that you are making an impact in the world.” Disney’s controversies involving Israel, however, do not end with their statement on the recent conflagration. In Captain America 4: Brave New World, Marvel Studios still plans to include the [highly controversial Zionist character Sabra,](https://variety.com/2022/film/news/sabra-controversy-marvel-captain-america-4-1235375138/) (played by Israeli actress Shira Haas) whose comics have regularly featured anti-Palestinian rhetoric and stereotypes. BDS has called for [an explicit boycott of Captain America 4: Brave New World](https://bdsmovement.net/boycott-captain-america) and called for [boycotting Marvel products outright during Black Friday weekend](https://bdsmovement.net/news/black-friday-boycott-genocide-enablers) in the US. While Marvel has said they’d do a “new approach” for “today’s audience,” that has done little to assuage audience concerns. Additionally, Israeli actress and [ardent IDF supporter Gal Gadot](https://www.wionews.com/entertainment/gal-gadot-plans-to-organise-screening-of-idf-footage-depicting-hamas-atrocities-on-israeli-civilians-655444) will be starring as the Evil Queen in Disney’s live-action Snow White. Unsurprisingly, these projects don’t engender confidence among audiences. “Tone deaf and insensitive,” says Bisma.” But once again, it goes to show you how disconnected [Disney is].” \"We can make sure a movie glorifying the IDF will never see the light of day or never make money off of us. We can easily do that” But Neebz still believes that pressure can force Marvel Studios to exclude Sabra from their media. “One of the things that is being discussed right now is reshoots for [Captain America 4](https://variety.com/2023/film/news/captain-america-4-new-writer-additional-photography-1235837136/),” he says. “That's because a lot of people are putting pressure on them to remove the character of Sabra, who is a [Mossad or IDF agent](https://nerdist.com/article/marvel-sabra-captain-america-new-world-order-anger-muslim-palestinian-arab-fans-problematic-comic-history-real-life-massacre/). That's how you're going to make a change. \"We can't boycott Disney because it's such a huge conglomerate. But we can boycott movies. There are certain movies that we can boycott. We can make sure a movie glorifying the IDF will never see the light of day or never make money off of us. We can easily do that.” Tariq did not mince words about their distaste. “It's naïve, it’s absolutely tone-deaf,” they say. “You cannot give Gal Gadot any more time and attention, because she's made it so abundantly clear where she stands on this issue multiple times and she has got her racism on a pedestal for the entire world to see at this point. We can't continue to support people that are so Zionist. They're just so racist. I hate it.” Tariq hopes, however, that audiences will strategically boycott Disney products with leads like Gadot or Sabra, and show up instead for projects with Muslim or SWANASA leads like Ms. Marvel, The Marvels, or Moon Knight (which stars Palestinian-Egyptian actress May Calamawy), to send a stronger message. “When you boycott Ms. Marvel or The Marvels you’re giving a message to Disney that “Oh, this like Muslim leading [project] isn't doing well. This Muslim character isn't doing well. We shouldn't include her in the rest of the MCU, and we shouldn't do a Season 2 of Ms. Marvel,” they say. \"Don't show up for the Zionists, show up for the Muslims. That's how you put pressure on this company” “You have to be very specific with what you choose to boycott because we need more stories like Ms. Marvel and The Marvels. And I think that's one of the reasons why the BDS campaign said ‘pressure’ not boycott because Disney is too massive to boycott. \"We have to figure it out at the centre of things and if anything, putting pressure on Disney means making an effort to send millions of people to the theatres to watch Ms. Marvel or The Marvels to show them that this movie has their support, and then simultaneously not giving them support to anything that they put Gal Gadot in. So, boycott Snow White. Don't show up for the Zionists, show up for the Muslims. That's how you put pressure on this company” Jasmin has a similar stance to Tariq and relayed an experience she had (or rather didn’t have) with Gal Gadot. “I'm not a fan of Gal Gadot,” she says. “I used to be in media myself and Wonder Woman came out a long time ago and I was slated to interview Gal Godot. I was told I could not ask her [about her IDF service] so, I declined the interview. \"If you're going to make public statements then and you're a public figure, you're going to be asked that question because you brought it upon yourself — I did not dig into your history. That's what you did. And you have a responsibility to answer to that.” Indeed, Disney and Marvel have active choices on what they want to say on a variety of sociopolitical issues and an active choice on whom they choose to see as human and worthy of compassion. With Israel's indiscriminate airstrikes and shelling killing more than 20,000 Palestinians, Disney has yet to condemn any of the occupation's actions the way they condemned Hamas’ killings on October 7. The double standard is glaring, and making vague references to a “state of conflict” and donating to only one side is insufficient. Disney risks even more audience loss if they don’t acknowledge the suffering of Palestinians. Swara Salih is a writer and podcaster who has written for [The Nerds of Color](https://thenerdsofcolor.org/) and [But Why Tho?](https://butwhythopodcast.com/) He co-hosts [The Middle Geeks](https://podcasts.apple.com/us/podcast/the-middle-geeks/id1465776107) podcast, which covers all things SWANA/MENA representation, and is a co-host of the Spider-Man/Spider-Verse podcast [Into The Spider-Cast](https://podcasts.apple.com/us/podcast/into-the-spider-cast/id1495426569) Follow him on Twitter: [@spiderswarz](https://twitter.com/spiderswarz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Arts, Culture and Entertainment",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.instagram.com/bismap/",
+      "https://variety.com/2022/film/news/sabra-controversy-marvel-captain-america-4-1235375138/)",
+      "https://www.heyalma.com/why-do-so-many-disney-villains-look-like-me/).",
+      "https://www.apnews.com/article/israel-palestinians-hamas-war-friday-prayers-mideast-8474ed730294a1c2299bdaef58a17142))",
+      "https://crooked.com/podcast/the-difference-between-antisemitism-and-anti-zionism/),",
+      "https://www.instagram.com/jasminjoestar/)",
+      "https://www.instagram.com/p/CzmW7n3vwoT/).",
+      "https://www.bdsmovement.net/news/black-friday-boycott-genocide-enablers)",
+      "https://apnews.com/article/israel-palestinians-hamas-war-friday-prayers-mideast-8474ed730294a1c2299bdaef58a17142))",
+      "https://www.podcasts.apple.com/us/podcast/salaam-nerds-podcast/id1611494209?ign-itscg=30200&ign-itsct=lt_p),",
+      "https://slate.com/culture/2020/12/wonder-woman-1984-middle-east-arab-mena-racism.html).",
+      "https://nerdist.com/article/marvel-sabra-captain-america-new-world-order-anger-muslim-palestinian-arab-fans-problematic-comic-history-real-life-massacre/).",
+      "https://podcasts.apple.com/us/podcast/into-the-spider-cast/id1495426569)",
+      "https://www.instagram.com/bismap/?hl=en)",
+      "https://podcasts.apple.com/us/podcast/the-middle-geeks/id1465776107)",
+      "https://www.butwhythopodcast.com/)",
+      "https://x.com/muaijaz/status/1731015710359302496?s=20).",
+      "https://heyalma.com/why-do-so-many-disney-villains-look-like-me/).",
+      "https://www.x.com/muaijaz/status/1731015710359302496?s=20).",
+      "https://www.vulture.com/2013/12/walt-disney-anti-semitism-racism-sexism-frozen-head.html),",
+      "https://www.variety.com/2022/film/news/sabra-controversy-marvel-captain-america-4-1235375138/)",
+      "https://instagram.com/p/CzmW7n3vwoT/).",
+      "https://twitter.com/spiderswarz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)",
+      "https://butwhythopodcast.com/)",
+      "https://podcasts.apple.com/us/podcast/salaam-nerds-podcast/id1611494209?ign-itscg=30200&ign-itsct=lt_p),",
+      "https://www.twitter.com/spiderswarz?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)",
+      "https://www.bdsmovement.net/boycott-captain-america)",
+      "https://www.thenerdsofcolor.org/)",
+      "https://www.slate.com/culture/2020/12/wonder-woman-1984-middle-east-arab-mena-racism.html).",
+      "https://www.nerdist.com/article/marvel-sabra-captain-america-new-world-order-anger-muslim-palestinian-arab-fans-problematic-comic-history-real-life-massacre/).",
+      "https://www.thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/).",
+      "https://www.variety.com/2023/film/news/captain-america-4-new-writer-additional-photography-1235837136/),”",
+      "https://thenerdsofcolor.org/)",
+      "https://www.wionews.com/entertainment/gal-gadot-plans-to-organise-screening-of-idf-footage-depicting-hamas-atrocities-on-israeli-civilians-655444)",
+      "https://bdsmovement.net/news/black-friday-boycott-genocide-enablers)",
+      "https://www.podcasts.apple.com/us/podcast/the-middle-geeks/id1465776107)",
+      "https://twitter.com/spiderswarz",
+      "https://instagram.com/bismap/?hl=en)",
+      "https://www.podcasts.apple.com/us/podcast/into-the-spider-cast/id1495426569)",
+      "https://podcasts.apple.com/us/podcast/salaam-nerds-podcast/id1611494209",
+      "https://thewaltdisneycompany.com/the-walt-disney-company-donates-to-support-humanitarian-relief-following-terrorist-attacks-in-israel-2/).",
+      "https://variety.com/2023/film/news/captain-america-4-new-writer-additional-photography-1235837136/),”",
+      "https://www.bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide).",
+      "https://vulture.com/2013/12/walt-disney-anti-semitism-racism-sexism-frozen-head.html),",
+      "https://x.com/muaijaz/status/1731015710359302496",
+      "https://www.crooked.com/podcast/the-difference-between-antisemitism-and-anti-zionism/),",
+      "https://bdsmovement.net/boycott-captain-america)",
+      "https://bdsmovement.net/Act-Now-Against-These-Companies-Profiting-From-Genocide).",
+      "https://wionews.com/entertainment/gal-gadot-plans-to-organise-screening-of-idf-footage-depicting-hamas-atrocities-on-israeli-civilians-655444)",
+      "https://instagram.com/jasminjoestar/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "musl",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "marvel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "disney",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "mcu",
+          "sentiment": "none"
+        },
+        {
+          "name": "marvel",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T15:32:02.399+02:00",
+    "updated": "2023-12-29T15:32:02.399+02:00"
+  },
+  {
+    "uuid": "1141b535fd158d4219e0b57a9713bf130cc2bc8d",
+    "url": "https://www.news4jax.com/news/local/2024/01/12/snapjax-sunsets-insiders-share-stunning-sunset-photos-after-severe-weather-week/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carianne Luter",
+    "published": "2024-01-12T17:08:00Z",
+    "title": "SnapJAX sunsets: Insiders share stunning sunset photos after severe weather week",
+    "text": "As the saying goes: Red sky in the morning, sailors take warning. Red sky at night, sailors delight.\nSnapJAX users captured the delight Wednesday and Thursday evening after severe weather blew through Florida and Georgia earlier in the week.\nThe sky seemed to gift us its beauty after enduring thunderstorms on Tuesday.\n📸 Upload your photos and videos to SnapJAX! Insiders captured deep orange and pink skies with stunning cloud formations.\nHere are some of our favorite sunset submissions.\nEmanuel40 Yesterday at 5:54pm\n3 hours ago\n0\n0\nHilliard ColibaseanuME Sunset 1/11/2023 Jacksonville Golf & Country Club neighborhood\n4 hours ago\n1\n0\nJacksonville VickiA Sunset last night in St. Mary’s GA\n4 hours ago\n2\n0\nSt. Marys Sarah Box Beautiful sunset on the outskirts of Lake Butler Florida!\n3 hours ago\n0\n0\nJacksonville Rich261030 Sunset last night Jax bch\n5 hours ago\n1\n0\nJacksonville La Luna Beautiful skies\n21 hours ago\n0\n1\nUnknown Leslie Lockwood Last night near my house the sky was so beautiful. This was in Southside near Tiger Hole Road.\n5 hours ago\n1\n1\nJacksonville DaveScott Sunset in I-10\n21 hours ago\n0\n0\nJacksonville Jim Bailey Was down at Lake Stella in Crescent City and this small seaplane did a water landing. It taxied around the lake a little and then decided it was time to leave. Just had to grab this shot of the pilot taking off into the sunset.\n6 hours ago\n0\n0\nCrescent City William Herndon Beautiful sunset taken by my friend Alex Collins!!\n18 hours ago\n1\n1\nJacksonville Dennis7020,dennis3958 Sunset in Callahan\n19 hours ago\n1\n0\nJacksonville Upload your content on SnapJAX and explain when and where you took the photo! Check out the video below as we explain how to upload your photos.\nCopyright 2024 by WJXT News4JAX - All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "leslie lockwood",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jacksonville vickia sunset",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville davescott sunset",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville la luna beautiful",
+          "sentiment": "none"
+        },
+        {
+          "name": "hilliard colibaseanume sunset 1/11/2023 jacksonville golf & country club",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville rich261030 sunset",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. marys sarah box beautiful",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. mary’s ga",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "southside",
+          "sentiment": "none"
+        },
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "lake butler florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "tiger hole road",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-12T19:21:41.416+02:00",
+    "updated": "2024-01-12T22:36:05.846+02:00"
+  },
+  {
+    "uuid": "c27bd6f5b17d950c3a42dd7c72a8b73f612b4ce4",
+    "url": "https://www.devdiscourse.com/article/science-environment/3220973-entering-the-15c-reality-worlds-new-climate-threshold",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2025-01-10T00:50:00Z",
+    "title": "Entering the 1.5°C Reality: World's New Climate Threshold | Science-Environment",
+    "text": "Entering the 1.5°C Reality: World's New Climate Threshold\nThe year 2024 has been confirmed as the hottest year on record, with an average temperature 1.5 degrees Celsius above pre-industrial levels. Scientists warn this marks a new climate reality with severe weather events. Urgent global efforts are required for adaptation and clean energy transitions.\n- Country:\n- India\nCopernicus, the European climate agency, confirmed on Friday that 2024 will be remembered as the hottest year on record, with the first global average temperature recorded at 1.5 degrees Celsius above pre-industrial levels.\nThis significant threshold was reached as every month from January to June 2024 marked the warmest ever, and notable temperature increases continued throughout the year.\nExperts are urging immediate climate adaptation and clean energy transitions, insisting that developed nations must significantly boost funding for climate action in the Global South to prevent further breaches of climate commitments.\n(With inputs from agencies.)\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->global warming",
+      "Environment->climate change",
+      "Science and Technology->meteorology",
+      "Science and Technology->natural science",
+      "Science and Technology->scientific research",
+      "Social Issue->mankind",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T06:00:57.226+02:00",
+    "updated": "2025-01-10T06:00:57.226+02:00"
+  }
+]

@@ -1,0 +1,478 @@
+[
+  {
+    "uuid": "eef12f40f9a6942f56944f2e385548f36f62043a",
+    "url": "https://www.canal26.com/agencias/australia-cierra-comercios-y-espera-lluvias-intensas-ante-la-proximidad-del-ciclon-alfred--414185",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canal 26",
+    "published": "2025-03-06T04:57:00Z",
+    "title": "Australia cierra comercios y espera lluvias intensas ante la proximidad del ciclón Alfred",
+    "text": "Por Canal26\nJueves 6 de Marzo de 2025 - 01:57\nBangkok, 6 mar (EFE).- Decenas de establecimientos comerciales cerraron sus puertas este jueves en Australia ante la proximidad del ciclón Alfred, que provocará intensas lluvias y vientos destructivos desde esta noche en los estados de Queensland y Nueva Gales del Sur, según informaron autoridades y medios públicos.\nAunque la Oficina de Meteorología retrasó para el sábado la llegada de este ciclón de categoría 2 (en una escala máxima de 5 que mide la velocidad de los vientos) que en principio se estimaba que impactaría el este del país desde esta noche, las autoridades mantienen las alertas por inminentes inundaciones en las próximas horas.\nEste jueves, según confirmó el propio Gobierno de Queensland, se registraron récords en las alturas de las olas, una de ellas de 12,3 metros, mientras que imágenes capturadas por medios locales mostraron que en horas de la mañana se registró un leve avance de las aguas en algunas playas.\nLa cadena pública ABC ha publicado imágenes de zonas turísticas o comerciales que habitualmente están congestionadas por el público y que hoy lucen desoladas, con calles vacías, negocios cerrados y casi ninguna persona.\nEl Gobierno ha activado refugios en Queensland y Nueva Gales del Sur, donde habitan más de 13 millones de personas, al tiempo que el primer ministro, Anthony Albanese, insiste en que todo el sistema de prevención y respuesta a emergencias está listo para hacer frente al ciclón.\nAerolíneas como Qantas y Virgin anunciaron que esta tarde comenzarán a suspender vuelos en Queensland -que sufrió en febrero unas inundaciones que se cobraron la vida de una persona- y Nueva Gales del Sur, que alberga a la ciudad de Sídney.\nEl fenómeno meteorológico podría además impactar en la fecha de las elecciones generales que según se especulaba se esperaba dar a conocer este domingo, un anuncio que podría retrasarse por la situación de ciclón.\nAustralia ha sufrido en los últimos años graves sequías, inundaciones e incendios forestales debido en parte al calentamiento global por el exceso de los gases de efecto invernadero en la atmósfera. EFE\nhp/raa/rrt\n(foto)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather"
+    ],
+    "topics": [
+      "Environment->natural resources",
+      "Environment->environmental clean-up",
+      "Environment->climate change",
+      "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Queensland",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "EFE",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Oficina de Meteorología",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "ABC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T07:16:44.303+02:00",
+    "updated": "2025-03-06T07:16:44.303+02:00"
+  },
+  {
+    "uuid": "1b61fd8d6e5e70669aae5ef85f868380241b9faf",
+    "url": "https://www.jsonline.com/story/news/2024/08/01/storm-system-milwaukee-area-delays-vampire-weekend-gabriel-iglesias-state-fair-show/74641911007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Journal Sentinel",
+    "published": "2024-08-02T00:00:00Z",
+    "title": "Storm system delays Milwaukee shows including Wisconsin State Fair",
+    "text": "Gabriel 'Fluffy' Iglesias at Wisconsin State Fair canceled due to storm; Vampire Weekend at BMO Pavilion delayed",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/wistatefair",
+      "https://facebook.com/wistatefair"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "iglesias",
+          "sentiment": "none"
+        },
+        {
+          "name": "gabriel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "milwaukee",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "milwaukee",
+          "sentiment": "none"
+        },
+        {
+          "name": "wisconsin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T04:46:05.052+03:00",
+    "updated": "2024-08-02T08:29:23.110+03:00"
+  },
+  {
+    "uuid": "e5f6df92f121d42410b090f72f050b69b57d916b",
+    "url": "https://actu.fr/normandie/mesnil-en-ouche_27049/pres-de-bernay-un-an-apres-lentreprise-daide-a-domicile-a-embauche-15-personnes_60500022.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rédaction Bernay",
+    "published": "2023-12-30T04:56:00Z",
+    "title": "Près de Bernay : un an après, l'entreprise d'aide à domicile a embauché 15 personnes | L'Éveil Normand",
+    "text": " L'Éveil Normand Le 3 février 2023, Emeline Le Mehaute, âgée de 24 ans et Justine Perrochon, 28 ans, recevaient leur agrément pour la société d’aides à domicile Bienvenue chez vous , dont les salariés devaient intervenir dans un rayon de 15 km autour de La Vieille-Lyre , notamment sur le secteur de la commune nouvelle de Mesnil-en-Ouche (Eure).\nLes deux associées travaillaient depuis un peu plus d’un an dans le même Etablissement hospitalier pour personnes âgées dépendantes (EHPAD). Elles s’étaient connues à la MFR de Bernay , où elles avaient passé un baccalauréat professionnel « Service aux personnes et aux territoires ».\nDes débuts compliqués Grâce à Bienvenue chez vous, Emeline et Justine proposaient de permettre aux personnes seules, âgées ou ayant tout simplement un besoin ponctuel , de se sentir bien chez soi grâce à une aide personnalisée à domicile disponible sept jours sur sept et vingt-quatre heures sur vingt-quatre.\nAu début, elles le concèdent, Emeline Le Mehaute et Justine Perrochon ont rencontré des difficultés pour trouver des personnes prêtes à travailler pour peu d’heures, en attendant que les demandes augmentent.\nCe n’était pas gagné. Certains, dans notre entourage, ne croyaient pas en nous. Ce n’était pas le cas, heureusement, de Monsieur Marc Morière, maire de La Vieille-Lyre, et de sa secrétaire Nadège, qui ont vraiment été présents et nous ont fait beaucoup de publicité.\nEmeline Le Mehaute et Justine Perrochon De bonnes conditions de travail Bienvenue chez vous a permis d’embaucher un certain nombre de salariés. Il s’agit pour la plupart, selon le s jeunes cheffes d’entreprise , « de personnes qui avaient déjà travaillé dans le secteur de l’emploi à domicile » à qui Bienvenue chez vous proposait « des conditions de travail bien meilleures que celles qu’elles avaient pu ont pu connaître par le passé. »\nAujourd’hui, à peine un an après la mise en place de l’entreprise, Bienvenue chez vous compte 15 intervenants « sectorisés », travaillent pour une quarantaine de personnes dans un périmètre allant de Rugles à Conches en passant par Mesnil-en-Ouche et Beaumont-le-Roger .\nLa « sectorisation » leur permet d’éviter de parcourir de grandes distances.\nVidéos : en ce moment sur Actu Emeline Le Mehaute et Justine Perrochon sont d’autre part à l’écoute de leur personnel, mais aussi des bénéficiaires.\nPreuve en est, une réunion a lieu tous les trimestres afin que les éventuels problèmes rencontrés aussi bien par les intervenants que par les bénéficiaires soient étudiés et réglés dans les meilleures conditions possibles. Leur force, selon elles, c’est leur réactivité et le suivi personnalisé .\nNotre force, c’est notre réactivité et le suivi personnalisé. On ne laisse pas les gens comme ça, on les accompagne aussi dans leurs dossiers administratifs. On essaie de travailler main dans la main avec l’HAD (Hospitalisation à domicile) et le SSIAD (Services de soins à domicile). Par exemple, nous faisons tout avec l’HAD pour le maintien à domicile en fin de vie. Actuellement, on développe la garde de nuit à domicile abordable.\nEmeline Le Mehaute et Justine Perrochon Les services proposés par Bienvenue chez vous sont divers : ménage, lessive, repassage et petit jardinage… aide au lever, coucher, toilette, prise de repas… accompagnement aux courses, préparation et aide aux repas.\nIl leur est aussi possible d’accompagner leurs clients à certains rendez-vous, pour leurs loisirs, les emmener se promener… sans oublier les soins aux animaux de compagnie et bien sûr l’assistance et la coordination administrative.\nLeurs objectifs en 2024 Bienvenue chez vous a deux objectifs importants pour l’année 2024 : tout d’abord étendre ses services dans des secteurs dans lesquels l’offre reste restreinte et étoffer la garde à domicile, pour laquelle elle cherche du personnel prêt à faire des nuits ponctuellement.\nDe notre correspondante Dominique Duvoux\nContacts : Emeline Le Mehaute : 06 34 08 73 62/Justine Perrochon 06 34 90 39 34. [email protected] #Seniors ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T08:02:55.857+02:00",
+    "updated": "2024-01-02T05:59:59.948+02:00"
+  },
+  {
+    "uuid": "9d1e7b8e3e8870bee42e90f4f084b2d86e3bfb31",
+    "url": "https://www.farodevigo.es/o-morrazo/2025/07/03/herida-mujer-caer-calle-centro-119301593.html",
+    "ord_in_thread": 0,
+    "author": "G.M.P.",
+    "published": "2025-07-03T04:00:00Z",
+    "title": "Herida una mujer tras caer en la calle en el centro de Cangas",
+    "text": "Tropezó en la acera y se precipitó contra un escaparate cuando paseaba por Méndez Núñez\nLos servicios de emergencias, atendiendo a la herida. | | / FdV\nG.M.P.\nCangas 03 JUL 2025 6:00 Paseaba tranquilamente por el centro urbano de Cangas cuando tropezó en la acera , probablemente por el desnivel de la entrada a un garaje, y se precipìtó contra el escaparate acristalado de un comercio de la calle Méndez Núñez. La mujer fue atendida por transeúntes hasta la inmediata llegada de efectivos de la Policía Local, del grupo municipal de Emerxencias-Protección Civil y de una ambulancia del 061 cuyo personal la atendió in situ y la trasladó al centro de salud de Cangas para valorar su estado y derivarla a un hospital de Vigo.\nLa accidentada, residente en el municipio, se mantuvo consciente en todo momento y se dolía de un hombro y una rodilla como consecuencia del golpe que sufrió en la caída.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->injury",
+      "Health->emergency care",
+      "Health->health care approach",
+      "Human Interest->human mishap",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->women"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Méndez Núñez",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Emerxencias-Protección Civil",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Policía Local",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:30:54.260+03:00",
+    "updated": "2025-07-04T06:06:27.000+00:00"
+  },
+  {
+    "uuid": "d6ff78667a9e2f76a4718c4be97c825aee34f2d5",
+    "url": "https://design.lsu.edu/landscape-architecture-students-map-trees-for-baton-rouge-community",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ah",
+    "published": "2024-10-03T21:18:00Z",
+    "title": "Landscape Architecture Students Map Trees for Baton Rouge Community",
+    "text": "Landscape Architecture Students Map Trees for Baton Rouge Community\nTrees create oxygen, cast shade, and also play a role in reducing air pollution, especially in major cities. Trees can even improve mental health, lower surface temperatures, and fight the effects of climate change.\nLSU landscape architecture students and alumni have teamed up on an innovative project: to collect data on the trees in the East Baton Rouge Parish’s public spaces, and share the information to help communities.\n“Trees are the first line of defense from flooding,” explained Warren Kron, (BLA YEAR), GIS Practice Lead at GISP.\nLSU landscape architecture students Taylor Williams (BLA 2024), BLA candidates Brock Efferson, Andrew English, and River Heath (MLA candidate) are working with Recreation and Park Commission for the Parish of East Baton Rouge (BREC) to catalog trees in Greater Baton Rouge area parks to provide meaningful data for a novel environmental database.\n“The students are collecting data such as stormwater runoff retention, measuring the gallons of water per year saved by the trees, pollution impacts, carbon storage, and even all the dust that trees can hold. The aim is to create an inventory of over 10,000 trees,” Kron said. “I don’t know of any other communities conducting such a widespread tree inventory of this kind, so this is a truly innovative project.”\nFellow LSU alumni involved in the project include Reed Richard and Brett Wallace with BREC, Andrew Milanes, the Es2 President, and professional land surveyor Brennon Albarez.\nThe project’s goals include collecting geographic positions and characteristics of trees throughout a variety of different BREC parks. A goal of the data is to objectively value the tree canopy in public spaces, and ultimately create a public inventory for East Baton Rouge. The plan is to publish the information to communicate the value of these trees to the Baton Rouge community, Kron said.\n“These parks have been spread out, which has allowed us to collect and provide a wide variety of data dependent on the areas of East Baton Rouge Parish (EBRP) each park is in and the unique microclimate and microecosystem each park has,” Heath said.\nParks where they have collected data so far include Anna T. Jordan Community Park, Blackwater Conservation Area, Howell Community Park, Jones Creek Nature Reserve, and Airline Highway Park, Zachary Community Park and Memorial Sports Complex.\nThe data collected by LSU students is then put into iTree, a collection of urban and rural forestry analysis and benefits assessment tools. Some of the important calculations iTree can put a number on include carbon sequestration, air filtration, urban cooling, stormwater management, property value added to a site and nearby sites, stress relief, and ecological benefits.\n“The students are getting hands-on experience in the field, learning about plant materials, and using emerging technology in new and interesting ways,” said Kron, LSU landscape architecture alum who previously worked with Baton Rouge City planning.\nThe students conducted both individual surveys on specimen/individual trees, and plot surveys of forested areas. Individual tree characteristics collected include: tree species, ground cover, trunk diameter, height, tree “crown,” light exposure, physical characteristics such as leaves/bark, etc., and geographic position.\nKron, who is assembling all the data collected in the field, has used geographic information systems (GIS) to place boundaries around the forested areas at these parks along with the guidance of BREC. “Using some GIS and some of our own judgment in the field, we have attempted to spread out the plots equally throughout the forested area at each park to collect the widest variety of different plot data that we can,” Heath said. “I believe this has allowed us to collect the most accurate overall average of what type of tree canopy is found in each park (even if there are a variety of microecosystems and/or forest types in each park).”\n“The most difficult part about this process, by far, is the number of invasive species that take up the forest floor blocking our sightlines and making moving throughout the plot nearly impossible at times,” Heath shared. “I knew invasive species were an issue in forests coming into this summer, but this job has made it glaringly evident.”\n“I would say a plot is typically around 30-40 trees collected, but we have collected plots with up to 75 trees!”\n“The project has been a lot of fun,” the students agreed. “Simply from a social standpoint, getting to hang out with Taylor, Brock, and Andrew and getting to know them better has been great. We were already familiar with one another because we are all in the landscape architecture program together but getting to know each other outside of the classroom and pick one another’s brain, especially while immersed in the local landscape, has been an enriching experience,” Heath said.\n“Getting the opportunity to explore BREC parks all throughout EBRP has also been interesting. It has truly put into perspective for me how many properties BREC owns and how valuable they are to the urban areas where they are located. Simply from a conservation standpoint, preventing these areas from being developed but instead be used as ‘third places’ as well as an overall benefit to the environment around them is awesome.”\n“I have learned a lot regarding the local ecology here in EBRP. I would say I can confidently name 90% or so of the trees I see on a day-to-day basis in the area now,” Heath said.\n“As someone with an interest in ecological design and restoration, this experience has been very rewarding and encouraging to me that I am on the right track regarding what I would like to do with my future using my landscape architecture degree,” he said. “I believe BREC’s potential next step with this data collected is identifying and establishing a plan for eliminating invasive species and planting beneficial native species using ecological design and restoration.”\nLearn more about the LSU Robert Reich School of Landscape Architecture.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T00:40:39.483+03:00",
+    "updated": "2024-10-04T00:40:39.483+03:00"
+  },
+  {
+    "uuid": "8a93c3dccf267ca7c696182caf87bbe95827eda7",
+    "url": "https://houston.culturemap.com/news/arts/best-houston-theater-2023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tarra Gaines",
+    "published": "2023-12-28T22:05:00Z",
+    "title": "Houston theater's baddest: Bad bosses, bad romances, MJ's 'Bad,' and more of 2023's best stage stars",
+    "text": "the best of the baddest Houston theater's baddest: Bad bosses, bad romances, MJ's 'Bad,' and more of 2023's best stage stars While live theater has taken a post-pandemic hit all over the country, Houston theater survived and thrived in 2023. This year was a particularly fun one for audiences thanks to one theatrical theme, characters behaving badly. Fundamentally comedy, drama, and every theatrical genre in between rely on onstage bad behavior to create a good story. But in 2023, we saw an unusual amount of deliciously bad acts. So as 2024 draws near, we thought we’d look back and celebrate the best of the bad that made for some truly good theater experiences. Best Bad Mom: Medea (Callina Anderson) in Classical Theatre’s Medea What if theater’s most infamous, murderous mother had a legion of social media followers? Classical Theatre’s stellar and streamlined production posed this question and Anderson responded with, a Medea that seemed to take directorial notes from Hamlet. With apologies to to both Shakespeare and Stoppard, in this production Medea was mad north-northwest. Between live-streaming episodes, she knows a hawk from a handbag. The tragedy, of course, resides in her need for revenge outweighing her love for her children, but under John Johnson’s direction, Anderson portrays a maternally calculating queen, who delivers the killing cut with love. Best Bad Dad: Salter (Shawn Hamilton) in A Number at Rec Room Using a sci-fi story about cloning, this Caryl Churchill play wrestled with that most ancient of questions: is it nature or nurture — or a lack thereof — that makes us who we are? Hamilton plays the dad who, failing one son, decides to have an exact copy made to begin again. (Many kudos to Philip Kershaw for making the original son and clones completely unique.) In a series of scenes between Salter and three different “sons” with the exact same genetic code, the father’s flawed love copies and mutates to create distinctly different lives for his sons. Best Bad (Puppet) Kids: Flora and Miles from Catastrophic Theatre’s The Turn of the Screw Houston theater went all in on child characters played by puppets, for great sympathy (Wolf Play at Rec Room, Medea) or even wisdom (The Oldest Boy at Main Street). But Catastrophic’s fantastic retelling of the Henry James classic Turn of the Screw brought us the wickedest puppet children of the year. Adding layers to the original take, the world premiere play was framed as a psychic society investigating strange historical occurrence and used projections, immersive seating, and yes, puppets. Designed by the production co-director Afsaneh Aayani, those small, simple faces and syrupy sweet voices provided by puppeteers John Dunn and Brittny Bush just upped the creepy kid factor and created one of the spookiest endings of the year. Best Bad Animals: the birds of Dirt Dog Theatre’s production of The Birds True, we only heard their cacophony caws and the beating of their wings from off stage. And the whole message of the play seemed to be that when the bird apocalypse comes, it’s the humans who are the real murderous animals. Still, those were some scary bad birds. Best Bad Boss: Clyde (Michelle Elaine) in Clyde’s at Ensemble Theatre Elaine has a devilish good time playing the wrathful truck stop diner owner and supervisor of a kitchen workers in their first employment after time served in prison. The budding chefs find purpose and redemption trying to create the perfect sandwich. As they strive for sandwich high art, Clyde daily crushes their spirit tempting them ever back to mediocrity. We root for the hopes and dreams of this motley kitchen crew, but we also just have to admire that bad, bad boss queen, Clyde. Best Murderous Twist: Stages’ Switzerland Honorable mention goes to the narrative sleight of hand of the Alley’s excellent production of Agatha Christie’s Murder of Roger Ackroyd. But, we have to yodel “bravo!” to Switzerland, which layered about three dark twists with one genre-defying twist before the end. Some extra, thrilling goodness: The show starred Stages favorite Sally Edmundson as Patricia Highsmith, the real-life, Texan author of the Talented Mr. Ripley books. And the production was the last show Kenn McLaughlin would direct as Stages artistic director. Best Existential, Dread-Inducing Set: Rec Room’s Heroes of the Fourth Turning On the surface, this show about a reunion of old friends reminiscing about their time attending a conservative Catholic college looked to be a fascinating exploration of political ideas not often discussed onstage. Yet amid the clashing rhetoric, Heroes walked the edge of almost every cinematic horror motif, from a lone cabin in the woods to characters who seems of the verge of needing a cleansing exorcism. Strong performances abound, but it was Rec’s resident set designer Stefan Azizi’s dark, deep woods set that we couldn’t take our eyes from. Azizi has learned to make every inch of stage count at Rec Room, one of the smallest theater spaces in Houston. Yet, this set seemed to require dark magic indeed to create what looked like an infinite void in the world, where neither light nor hope could escape. We’re still shivering. Best Bad Romance: Sweeney Todd (Danny Rothman) and Mrs. Lovett (Sally Wilfert) in Theatre Under the Stars’ Sweeney Todd TUTS played bloody tribute to the late, great Stephen Sondheim with a killer production of the macabre classic — and brought us a fine romance made-in-hell for the ages. She’d kill for him, and while he’s codependent, in the end, he just really wasn’t into her — as much as seeking revenge on the whole of London for the loss of his wife and daughter. We’re also bestowing Best Bad Small Business Owner award to Mrs. Lovett. Sure for a time she becomes the queen of meat pies, but it’s never a smart business decision to rely on a serial killer as your sole meat vender. Best Past Imperfect: What the Constitution Means to Me at Main Street Theatre Houston theater mined the past for superb drama, but also to make connections to our very imperfect present. We have to give bravos to two standout touring shows in particular: Broadway at the Hobby Center brought us a still-timely To Kill a Mockingbird, with television and film star Richard Thomas as Atticus Finch. While early in the year, the Alley Theater presented Cambodian Rock Band, which rocked the line between music and drama for a sometimes harrowing sometimes joyful night of theater. But our favorite homegrown journey into the past took the form of a theatrical lecture about how the U.S. Constitution affects our daily lives at Main Street Theatre. Playwright Heidi Schreck turned her personal, moving — and sometimes truly funny — stories about how the Constitution has touched generations of women in her family into a Tony-nominated play, What the Constitution Means to Me. Directed by Sophia Watt, this local production starred MST regular Shannon Emerick as Heidi, a role she seemed born to play. Having seen the production on Broadway, we can say the intimacy of the MST stage and Emerick’s performance took us on a sometimes divesting, sometimes hopeful journey into the past — and through the Constitutional amendments — to see what the Constitution means to, and for, us all. Best “Bad”: MJ The Musical Honorable mention goes to 4th Wall Theatre’s hilarious production of Sense and Sensibility for the particularly apt use of the song “Bad Reputation” during one couple’s scandalous, unchaperoned, buggy ride of a doomed romance. But the best “Bad” of the year, of course, must go to MJ, which manages to stuff most of Michael Jackson’s hits into one show. While the story doesn’t look all that deep into the man in the mirror, the musical numbers, including “Bad,” did help to portray an artist fighting past demons while giving Houston audiences some of the baddest, thriller live theater.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "medea",
+          "sentiment": "none"
+        },
+        {
+          "name": "shakespeare",
+          "sentiment": "none"
+        },
+        {
+          "name": "stoppard",
+          "sentiment": "none"
+        },
+        {
+          "name": "anderson",
+          "sentiment": "none"
+        },
+        {
+          "name": "callina anderson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "mj",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "houston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:29:22.210+02:00",
+    "updated": "2023-12-29T03:59:16.821+02:00"
+  },
+  {
+    "uuid": "17038ef67b785140beea21514a20533e7be16f36",
+    "url": "https://ground.news/article/selena-gomez-packs-on-pda-with-boyfriend-benny-blanco-on-artsy-date-night",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-28T17:42:00Z",
+    "title": "Ground News - Come and Get a Look at Selena Gomez's Photos of Her Date With Benny Blanco",
+    "text": "Summary by Ground News Selena Gomez and Benny Blanco were spotted on an artsy date. The pair were at Luna Luna: Forgotten Fantasy, an art exhibit in Los Angeles. Gomez and Blanco have been dating for about six months. They co-produced Blanco's most recent song, Single Soon. Share menu More\nFilters 8 Articles 8 Articles All Left Center Right\nHindustan Times Center Low Factuality Independent: HT Media Selena Gomez's boyfriend Benny Blanco can't keep ‘hands to himself’ in art exhibit date pictures Selena Gomez and Benny Blanco share a romantic moment at an art exhibit.\n5 hours ago · New Delhi, India Read Full Article\nHindustan Times Center Low Factuality Independent: HT Media\nSelena Gomez's boyfriend Benny Blanco can't keep ‘hands to himself’ in art exhibit date pictures Selena Gomez and Benny Blanco share a romantic moment at an art exhibit.\n5 hours ago · New Delhi, India Read Full Article E! News Center Mixed Factuality Individual: Roberts Family Come and Get a Look at Selena Gomez's Photos of Her Date With Benny Blanco Look at them now: Three weeks after Selena Gomez confirmed her relationship with Benny Blanco, the singer gave fans a glimpse at her romance with the producer through some sweet photos.\n6 hours ago · United States Read Full Article\nE! News Center Mixed Factuality Individual: Roberts Family\nCome and Get a Look at Selena Gomez's Photos of Her Date With Benny Blanco Look at them now: Three weeks after Selena Gomez confirmed her relationship with Benny Blanco, the singer gave fans a glimpse at her romance with the producer through some sweet photos.\n6 hours ago · United States Read Full Article US Magazine Center Mixed Factuality Individual: Leon Cooperman Selena Gomez Packs on PDA With Boyfriend Benny Blanco on Artsy Date Night Selena Gomez and boyfriend Benny Blanco are in their honeymoon phase, and they want Us to know it. The singer, 31, took to her Instagram Stories on Wednesday, December 27, to share several photos from the couple’s recent visit to an art exhibit. In one snap, Blanco, 35, embraced Gomez from behind as she smiled for the camera. Gomez also posted a photo of herself and a shot of Blanco looking at the artwork. Gomez has given fans an inside look int…\n8 hours ago · United States Read Full Article\nUS Magazine Center Mixed Factuality Individual: Leon Cooperman\nSelena Gomez Packs on PDA With Boyfriend Benny Blanco on Artsy Date Night Selena Gomez and boyfriend Benny Blanco are in their honeymoon phase, and they want Us to know it. The singer, 31, took to her Instagram Stories on Wednesday, December 27, to share several photos from the couple’s recent visit to an art exhibit. In one snap, Blanco, 35, embraced Gomez from behind as she smiled for the camera. Gomez also posted a photo of herself and a shot of Blanco looking at the artwork. Gomez has given fans an inside look int…\n8 hours ago · United States Read Full Article Page Six Center Mixed Factuality Media Conglomerate: Murdoch Family Selena Gomez cozies up to boyfriend Benny Blanco on date at art... The music producer wrapped his arms around the pop star while exploring the Luna Luna: Forgotten Fantasy fair in Los Angeles.\n5 hours ago Read Full Article\nPage Six Center Mixed Factuality Media Conglomerate: Murdoch Family\nSelena Gomez cozies up to boyfriend Benny Blanco on date at art... The music producer wrapped his arms around the pop star while exploring the Luna Luna: Forgotten Fantasy fair in Los Angeles.\n5 hours ago Read Full Article Billboard Center High Factuality Private Equity: Eldridge Industries Selena Gomez Cuddles Up With Benny Blanco in New Date Photos Selena Gomez and Benny Blanco cuddled up in newly shared date photos. Details here.\n6 hours ago · United States Read Full Article\nBillboard Center High Factuality Private Equity: Eldridge Industries\nSelena Gomez Cuddles Up With Benny Blanco in New Date Photos Selena Gomez and Benny Blanco cuddled up in newly shared date photos. Details here.\n6 hours ago · United States Read Full Article ELLE Lean Left Mixed Factuality Selena Gomez Shares New Pictures With Boyfriend Benny Blanco Selena Gomez shared some shots on her Instagram Stories showing with her boyfriend, producer Benny Blanco, at an art exhibit.\n4 hours ago · United States Read Full Article\nELLE Lean Left Mixed Factuality\nSelena Gomez Shares New Pictures With Boyfriend Benny Blanco Selena Gomez shared some shots on her Instagram Stories showing with her boyfriend, producer Benny Blanco, at an art exhibit.\n4 hours ago · United States Read Full Article More articles Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.billboard.com/music/music-news/selena-gomez-benny-blanco-date-photos-1235572918/?utm_source=ground.news&utm_medium=referral",
+      "https://www.eonline.com/news/1392132/come-and-get-a-look-at-selena-gomezs-photos-of-her-date-with-benny-blanco?utm_source=ground.news&utm_medium=referral",
+      "https://www.hindustantimes.com/entertainment/music/selena-gomezs-boyfriend-benny-blanco-cant-keep-hands-to-himself-in-art-exhibit-date-pictures-101703782516290.html?utm_source=ground.news&utm_medium=referral",
+      "https://pagesix.com/2023/12/28/entertainment/selena-gomez-cozies-up-to-boyfriend-benny-blanco-at-art-exhibit/?utm_source=ground.news&utm_medium=referral",
+      "https://www.elle.com/culture/celebrities/a46243535/selena-gomez-benny-blanco-new-pictures-art-exhibit/?utm_source=ground.news&utm_medium=referral",
+      "https://www.usmagazine.com/celebrity-news/news/selena-gomez-packs-on-pda-with-boyfriend-benny-blanco-on-date-night/?utm_source=ground.news&utm_medium=referral",
+      "https://billboard.com/music/music-news/selena-gomez-benny-blanco-date-photos-1235572918/?utm_source=ground.news&utm_medium=referral",
+      "https://www.hindustantimes.com/entertainment/music/selena-gomezs-boyfriend-benny-blanco-cant-keep-hands-to-himself-in-art-exhibit-date-pictures-101703782516290.html",
+      "https://www.eonline.com/news/1392132/come-and-get-a-look-at-selena-gomezs-photos-of-her-date-with-benny-blanco",
+      "https://www.elle.com/culture/celebrities/a46243535/selena-gomez-benny-blanco-new-pictures-art-exhibit/",
+      "https://elle.com/culture/celebrities/a46243535/selena-gomez-benny-blanco-new-pictures-art-exhibit/?utm_source=ground.news&utm_medium=referral",
+      "https://eonline.com/news/1392132/come-and-get-a-look-at-selena-gomezs-photos-of-her-date-with-benny-blanco?utm_source=ground.news&utm_medium=referral",
+      "https://hindustantimes.com/entertainment/music/selena-gomezs-boyfriend-benny-blanco-cant-keep-hands-to-himself-in-art-exhibit-date-pictures-101703782516290.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.pagesix.com/2023/12/28/entertainment/selena-gomez-cozies-up-to-boyfriend-benny-blanco-at-art-exhibit/?utm_source=ground.news&utm_medium=referral",
+      "https://pagesix.com/2023/12/28/entertainment/selena-gomez-cozies-up-to-boyfriend-benny-blanco-at-art-exhibit/",
+      "https://usmagazine.com/celebrity-news/news/selena-gomez-packs-on-pda-with-boyfriend-benny-blanco-on-date-night/?utm_source=ground.news&utm_medium=referral",
+      "https://www.usmagazine.com/celebrity-news/news/selena-gomez-packs-on-pda-with-boyfriend-benny-blanco-on-date-night/",
+      "https://www.billboard.com/music/music-news/selena-gomez-benny-blanco-date-photos-1235572918/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "selena gomez",
+          "sentiment": "negative"
+        },
+        {
+          "name": "benny blanco",
+          "sentiment": "negative"
+        },
+        {
+          "name": "luna luna",
+          "sentiment": "none"
+        },
+        {
+          "name": "gomez",
+          "sentiment": "none"
+        },
+        {
+          "name": "benny blanco look",
+          "sentiment": "none"
+        },
+        {
+          "name": "blanco",
+          "sentiment": "none"
+        },
+        {
+          "name": "roberts",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "articles all left center right hindustan times center low factuality independent",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:14.934+02:00",
+    "updated": "2023-12-29T00:43:14.934+02:00"
+  },
+  {
+    "uuid": "33a03ae2d419a64ae088603631b50af1089bf1f9",
+    "url": "https://www.musictimes.com/articles/107657/20250130/kanye-wests-new-explicit-verses-allegedly-infuse-diddy-jabs-open-marriage-allusions.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rovelyn Barba",
+    "published": "2025-01-31T04:46:00Z",
+    "title": "Kanye West's New Explicit Verses Allegedly Infuse Diddy Jabs, Open Marriage Allusions",
+    "text": "Kanye West is back on social media after teaser clips have surfaced from his unreleased Future collab album Mixtape Pluto.\nThe provocative lyrics of the Chicago rapper have set off a frenzy of discussions online, and fans and critics have been analyzing his verses for insights into his personal life and purported shots at fellow music moguls.\nThe leaked previews, from an impromptu session at a Tokyo dive bar, show West rapping over songs like \"DON MAGIC JUAN\" and \"LIL DEMON.\"\nIn the former, he seemingly takes a dig at jailed music mogul Sean \"Diddy\" Combs. In the lyrics, West mentions showing up at the Met Gala in pieces from Diddy's former fashion line, Sean John.\nBut it is his verse on \"LIL DEMON\" that has received the most attention.\nWest cryptically refers to \"opening\" his marriage, rapping: \"My whip a what the f***/ Her friend don't wanna leave/ Temptations, David Ruffin/ Come f*** my wife with me.\"\nMany theories have surfaced on the internet about West's personal life and the explicit nature of these lines.\nUsers on social media were quick to react, with some interpreting the lyrics as an admission of having had a threesome.\nREAD MORE:\nWhy Kanye West Finds Life In Japan Easier Than In The US Revealed: 'Gives Him A Lot Of Peace'\nAccording to AllHipHop, some have even given him a new X-rated nickname, as it throws into question his past relationships and current lifestyle.\n\"Bro lost Kim K, Donda, his family, his billionaire status for some time just to be a cuck,\" one user on Twitter said.\nSome fans defended West, suggesting the lyrics could be read in different ways.\nOne user said the line was about a possible threesome with another woman and was not a jab at West's marriage dynamics.\nDespite the political nature of his lyrics, not all responses to his Tokyo visit have been negative.\nHis new partnership with rapper Jim Jones was also met with positive reception online, occurring as tensions between Dipset members Cam'ron and Jim Jones were at an all-time high.\n© 2025 MusicTimes.com All rights reserved. Do not reproduce without permission.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->music",
+      "Arts, Culture and Entertainment->social media",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->leisure",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://allhiphop.com/rumors/kanye-wests-unreleased-verses-for-futures-mixtape-pluto-spawns-his-new-nsfw-nickname/",
+      "https://www.allhiphop.com/rumors/kanye-wests-unreleased-verses-for-futures-mixtape-pluto-spawns-his-new-nsfw-nickname/",
+      "https://allhiphop.com/rumors/kanye-wests-unreleased-verses-for-futures-mixtape-pluto-spawns-his-new-nsfw-nickname"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kanye West",
+          "sentiment": "negative"
+        },
+        {
+          "name": "David Ruffin",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sean John",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T08:06:27.462+02:00",
+    "updated": "2025-01-31T08:06:27.462+02:00"
+  }
+]

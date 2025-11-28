@@ -1,0 +1,365 @@
+[
+  {
+    "uuid": "06faed0ee8a6a2cb32f5130e789a8371b6069f06",
+    "url": "https://www.burnabynow.com/national-news/warming-trend-forecast-for-west-after-record-freeze-snow-in-forecast-for-vancouver-8109197",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-01-15T09:20:00Z",
+    "title": "Warming trend forecast for West after record freeze, snow in forecast for Vancouver",
+    "text": "A warming trend is in the forecast for much of British Columbia after several days of record-breaking temperatures, but the cold weather on the Prairies will continue. Environment Canada says temperatures are rising but snow flurries are in the forecast for the Metro Vancouver area, followed by rain later this week and temperatures well above zero degrees Celsius. Temperatures in Alberta are forecast to start to moderate today and through the week, but it will remain cold. Calgary and Edmonton have been experiencing wind chills as high as -50 C over the weekend, but Environment Canada says the daily low temperatures will drop to -21 C. Environment Canada says despite the somewhat warmer temperatures in Alberta, frostbite warnings will remain in effect. B.C.'s public power utility, BC Hydro, says the extreme cold drove peak hourly electricity demand across the province to a record high on Friday night, reaching 11,300 megawatts. This report by The Canadian Press was first published Jan. 15, 2024. The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "columbia",
+          "sentiment": "negative"
+        },
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        },
+        {
+          "name": "environment canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "bc hydro",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "alberta",
+          "sentiment": "none"
+        },
+        {
+          "name": "calgary",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmonton",
+          "sentiment": "none"
+        },
+        {
+          "name": "metro vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "prairies",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-15T11:22:21.742+02:00",
+    "updated": "2024-01-15T12:05:32.686+02:00"
+  },
+  {
+    "uuid": "f824c3664045626052a115a70c8d8c3cc0a86a33",
+    "url": "https://wsau.com/2024/02/23/pakistani-islamist-parties-rally-against-top-judge-on-blasphemy-accusations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2024-02-23T11:57:00Z",
+    "title": "Pakistani Islamist parties rally against top judge on blasphemy accusations",
+    "text": "ISLAMABAD (Reuters) – Hundreds of supporters from Pakistani Islamist parties on Friday rallied to protest against what they say were blasphemous remarks by the country’s chief justice.\nThe protest call, by various religious and political groups led by hardline Tehreek-e-Labaik Pakistan (TLP) whose rallying cry is “death to blasphemers”, said that remarks by Chief Justice of Pakistan Qazi Faez Isa in a case against a member of the minority Ahmadi community were blasphemous.\nThe court had granted bail to an Ahmadi community member earlier this week, ruling that blasphemy charges against him did not stand. The man, accused of blasphemy for distributing Islamic literature, had been in jail for 13 months.\n“We (will) monitor the sermons and protests outside mosques,” said police official Abrar Hussain in southern city of Karahci, warning the protesters to remain peaceful.\nHundreds of the protesters took to streets in the northwestern city of Peshawar, chanting slogans against the chief justice, said police official Mubarak Khan.\nThe top court on Thursday issued a statement after the Islamist parties and some political groups launched a campaign accusing the chief justice of deviating in his ruling from the constitutional definition of a Muslim, which excludes Ahmadis.\n“This impression is absolutely wrong,” the court statement said, deploring what it called a “vicious campaign” against Isa.\nThe campaign against Isa was also joined by some supporters and aides of jailed former Prime Minister Imran Khan, who think a ruling by the chief justice stripping Khan’s party of its symbol on ballots cost them votes in an election on Feb. 8.\nKhan’s Pakistan Tehreek-e-Insaf (PTI) party’s information secretary Rauf Hasan did not respond to a request for a comment.\nHuman rights groups say Pakistan’s harsh blasphemy laws are often misused to settle personal scores, and just accusing someone of such a crime could lead to mob justice.\nJudges hesitate to take up such cases for fear of retribution, which leaves accused languishing in jail for years without cases being heard.\nBlasphemy is punishable by death in Pakistan. No one has been executed by the state for it, but numerous accused have been lynched by outraged mobs.\n(Reporting by Asif Shahzad in Islamabad, Ariba Shahid in Karachi and Mushtaq Ali in Peshawar; Editing by Peter Graff)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "qazi faez isa",
+          "sentiment": "none"
+        },
+        {
+          "name": "ahmadi",
+          "sentiment": "none"
+        },
+        {
+          "name": "abrar hussain",
+          "sentiment": "none"
+        },
+        {
+          "name": "mubarak khan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "islamabad",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "karahci",
+          "sentiment": "none"
+        },
+        {
+          "name": "peshawar",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T14:01:56.356+02:00",
+    "updated": "2024-02-23T14:01:56.356+02:00"
+  },
+  {
+    "uuid": "0d874fdac1205a708f21227c509fec7face760aa",
+    "url": "https://vancouver.citynews.ca/2025/01/23/chilliwack-lacrosse-logan-hinton-athlete-of-the-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Charlie Carey",
+    "published": "2025-01-23T20:53:00Z",
+    "title": "Next level: New chapter ahead for Chilliwack lacrosse star",
+    "text": "Next level: New chapter ahead for Chilliwack lacrosse star\nPosted January 23, 2025 12:53 pm.\nLast Updated January 23, 2025 12:55 pm.\nIn this week’s Athlete of the Week, CityNews Vancouver catches up with Chilliwack’s Logan Hinton, recently selected in the first round of the BC Junior A Lacrosse League draft.\nLogan Hinton — Lacrosse\nCatch exclusive glimpses into the lives of Vancouver’s top athletes and sports ambassadors with the CityNews Athlete of the Week. Nominate your star athlete or ambassador for their chance to be featured here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->lacrosse",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:25:19.831+02:00",
+    "updated": "2025-01-24T00:25:19.831+02:00"
+  },
+  {
+    "uuid": "196a03d68f9ff0e1f50046045cb1714040a5cc89",
+    "url": "https://kmph.com/news/local/its-snowing-china-peak-to-reopen-thursday-upper-dynamite-kaiser-lower-academy-sundown-ridge-skiing-snowboarding-carry-chains-lakeshore-california",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephen Hawkins",
+    "published": "2024-01-03T19:34:00Z",
+    "title": "chevron-right",
+    "text": "LAKESHORE, Calif. (FOX26) — The snow is falling on Wednesday and China Peak will be reopening on Thursday. The ski resort says it got 14\" to 16\" in the base area and even more up top. China Peak says Chair 1 will be serving Upper Dynamite, Chair 2 serving Kaiser, Chair 4 serving Lower Academy, and the new Chair 6 quad will be serving Sundown Ridge and Academy with fun terrain park features, plus the beginner hill. The trails are not yet full width so you are advised to ski and ride with care. [RELATED] [First snow in Shaver Lake, businesses prepare](https://kmph.com/news/local/first-snow-in-shaver-lake-businesses-preparing-shaver-lake-mountains-first-snostroms-powder-cabins-ski-snowboard-bussiness-resturaunts-shops-bars-rentals-inches-fun-play-family) Be prepared before you head up the mountain and make sure you dress warm and carry chains. China Peak will be open for skiing and riding from 9:00 a.m. to 4:00 p.m. Thursday through Monday for the season. [Click here](https://www.skichinapeak.com/) to visit China Peak online.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.skichinapeak.com/)",
+      "https://skichinapeak.com/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kaiser",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lower academy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "lakeshore",
+          "sentiment": "none"
+        },
+        {
+          "name": "calif.",
+          "sentiment": "none"
+        },
+        {
+          "name": "shaver lake",
+          "sentiment": "none"
+        },
+        {
+          "name": "sundown ridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-04T02:19:54.845+02:00",
+    "updated": "2024-01-04T02:19:54.845+02:00"
+  },
+  {
+    "uuid": "743ef1682cd0a15e1c7863ee8e3e84ab691ab299",
+    "url": "https://www.lapresse.it/esteri/2024/03/10/ucraina-il-vicario-della-custodia-di-terra-santa-condivido-parole-papa-sulla-pace",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LaPresse",
+    "published": "2024-03-10T12:12:00Z",
+    "title": "Ucraina, il vicario della Custodia di Terra Santa: “Condivido parole Papa sulla pace”",
+    "text": "Il commento alle parole di Bergoglio sulle negoziazioni con la Russia\n“Coraggio di negoziare? Chi cerca di negoziare non ha perso, chi cerca la mediazione di una terza parte per arrivare ad una soluzione del conflitto non è uno sconfitto. Condivido ogni sua parola e ho sempre affermato che solo Papa Francesco chiede la pace partendo dalla sola e unica strada: cessare il fuoco e dialogo”. Così a LaPresse il vicario della Custodia di Terra Santa, padre Ibrahim Faltas,\nin merito all’intervista di Papa Francesco alla Radiotelevisione svizzera sull’Ucraina. “Chi vede la distruzione del suo popolo deve avere il coraggio di trovare la via della pace attraverso ogni possibilità di negoziato – aggiunge padre Faltas-. Coloro che continuano a trascinare i popoli nel baratro sono irresponsabili che, dopo tante morti e tanta distruzione, dovrebbero fermare il tempo della guerra riportando l’umanità ad una vita dignitosa. Papa Francesco vuole la pace ma chiede l’equilibrio che nasce dalla responsabilità e il coraggio di scelte umane”.\n© Copyright LaPresse - Riproduzione Riservata",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-10T15:25:48.486+02:00",
+    "updated": "2024-03-10T15:25:48.486+02:00"
+  },
+  {
+    "uuid": "f44bea996916770121d5a5825066b788e209898a",
+    "url": "https://thethaiger.com/news/national/heavy-rain-and-flash-flood-warnings-for-northern-thailand",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Selman Demirdoven, Full Stack Web Developer, https://github.com/demirdoven, sdemirdoven35@gmail.com, selman@thethaiger.com",
+    "published": "2024-08-01T23:18:00Z",
+    "title": "Heavy rain and flash flood warnings for northern Thailand | Thaiger",
+    "text": "The Thai Meteorological Department (TMD) issued a weather warning today, indicating heavy rainfall across the northern regions , with 80% of the area expected to be affected. People are advised to be cautious of flash floods and sudden water surges. The TMD’s 24-hour forecast predicts moderate southwesterly monsoon winds over the upper Andaman Sea, Thailand, and the upper Gulf of Thailand. Additionally, a low-pressure area is present over northern Vietnam. These conditions are expected to result in heavy rain in the northern, upper northeastern, and eastern regions of Thailand. Residents in these areas are urged to be vigilant about potential heavy rain and accumulated rainfall, which could lead to flash floods and sudden water surges, particularly in foothill regions near waterways and low-lying areas. In the upper Andaman Sea and the upper Gulf of Thailand, moderate wind conditions with waves of 1 to 2 metres high are expected. In areas with thunderstorms, waves could exceed 2 metres. Mariners in these regions are advised to navigate cautiously and avoid sailing in stormy conditions during this period. Forecast for Thailand from 6am today to 6am tomorrow: Northern region Thunderstorms are expected in 80% of the area, with heavy rain in some parts, including Mae Hong Son, Chiang Mai , Chiang Rai, Lamphun, Lampang, Sukhothai, Phayao, Nan, Uttaradit, Tak, Phitsanulok, and Phetchabun provinces. Temperatures will range from 23 to 26 degrees Celsius at the lowest and 27 to 33°C at the highest. Southwesterly winds are expected at speeds of 5 to 15 kilometres per hour. Northeastern region Thunderstorms are expected in 70% of the area, with heavy rain in some parts, including Loei, Nong Khai, Bueng Kan, Udon Thani , Sakon Nakhon, and Nakhon Phanom provinces. Temperatures will range from 24 to 26°C at the lowest and 29 to 33°C at the highest. Southwesterly winds are expected at speeds of 10 to 20 kilometres per hour. Central region Thunderstorms are expected in 60% of the area, mainly in Nakhon Sawan, Chai Nat , Lopburi, Saraburi, Phra Nakhon Si Ayutthaya, Kanchanaburi, and Ratchaburi provinces. Temperatures will range from 24 to 27°C at the lowest and 31 to 34°C at the highest. Southwesterly winds are expected at speeds of 10 to 20 kilometres per hour. Eastern region Thunderstorms are expected in 60% of the area, with heavy rain in some parts, including Nakhon Nayok , Prachin Buri, Chon Buri, Rayong, Chanthaburi, and Trat provinces. Temperatures will range from 24 to 28°C at the lowest and 30 to 33°C at the highest. Southwesterly winds are expected at speeds of 15 to 35 kilometres per hour. The sea will have waves of 1 to 2 metres high, with waves exceeding 2 metres in areas with thunderstorms. Southern region (East Coast) Thunderstorms are expected in 60% of the area, mainly in Surat Thani , Nakhon Si Thammarat, Phatthalung, Songkhla, Pattani, Yala, and Narathiwat provinces. Temperatures will range from 24 to 26°C at the lowest and 32 to 36°C at the highest. Southwesterly winds are expected at speeds of 15 to 30 kilometres per hour. The sea will have waves about 1 metre high, with waves exceeding 2 metres in areas with thunderstorms. Southern region (West Coast) Thunderstorms are expected in 40% of the area, mainly in Ranong , Phang Nga, Trang, and Satun provinces. Temperatures will range from 23 to 26°C at the lowest and 32 to 34°C at the highest. From Phang Nga upwards, southwesterly winds are expected at speeds of 15 to 35 kilometres per hour, with waves of 1 to 2 metres high and exceeding 2 metres in areas with thunderstorms. From Phuket downwards, southwesterly winds are expected at speeds of 15 to 30 kilometres per hour, with waves about 1 metre high and exceeding 2 metres in areas with thunderstorms. Bangkok and surrounding areas Rain or thunderstorms are expected in 60% of the area. Temperatures will range from 26 to 28°C at the lowest and 32 to 34°C at the highest. Southwesterly winds are expected at speeds of 10 to 20 kilometres per hour, reported KhaoSod. Northern Thailand News Thailand News Thailand Weather Updates",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tmd.go.th/en/)",
+      "https://tmd.go.th/en/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "tmd",
+          "sentiment": "negative"
+        },
+        {
+          "name": "meteorological department",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "vietnam",
+          "sentiment": "none"
+        },
+        {
+          "name": "gulf of thailand",
+          "sentiment": "none"
+        },
+        {
+          "name": "andaman sea",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T09:22:25.341+03:00",
+    "updated": "2024-08-02T10:18:29.717+03:00"
+  },
+  {
+    "uuid": "23dcd7b7f97df86a70b81d4625eaffa33d6baa00",
+    "url": "https://www.pulzo.com/vivir-bien/oracion-despedir-ano-2023-recibir-2024-con-toda-PP3350856A",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "robbybienestar@pulzo-hermes.com",
+    "published": "2023-12-29T19:43:00Z",
+    "title": "Oración para despedir el año 2023 y recibir el 2024 con toda",
+    "text": "Orar por el año que pasó y el que llega es vital porque marca un tiempo de reflexión y proyección. Al agradecer por lo vivido se honran las lecciones aprendidas, se asimilan experiencias y se encuentra cierre emocional. Esta acción fomenta la gratitud y el crecimiento personal, al tiempo que se nutre la esperanza y la positividad para el futuro. Esto conecta con la espiritualidad, proporciona calma y claridad mental. (Vea también: [Virgen de Guadalupe: novena completa y por días para solicitar su ayuda](https://www.pulzo.com/vivir-bien/novena-virgen-guadalupe-oraciones-dias-peticiones-paso-paso-PP3229111A)) Oración para agradecer el 2023 y recibir el 2024 con la mejor energía “Al cerrar el capítulo del año 2023, agradezco profundamente a Dios y la vida por cada experiencia, ya sea de alegría o tristeza, que ha contribuido a mi crecimiento personal. Cada lágrima y sonrisa ha tejido el tapiz de mi vida, proporcionando valiosas lecciones. Agradezco por los logros alcanzados, por las amistades que se fortalecieron y por los desafíos que me hicieron más fuerte. En este momento de reflexión, [manifiesto mi gratitud por la salud que he mantenido](https://www.pulzo.com/vivir-bien/novena-jose-gregorio-hernandez-oraciones-dias-peticiones-pasos-PP3173338A) y por cada pequeño triunfo que ha iluminado mi camino. Al mirar hacia el futuro, pido al nuevo año que se avecina que traiga consigo prosperidad, estabilidad laboral, salud inquebrantable, éxitos continuos y abundancia en todas sus formas. Que el 2024 sea un capítulo repleto de nuevas oportunidades, amor y realización personal. Amén.” *Este artículo fue escrito y curado por periodistas del equipo de [Robby Bienestar](https://www.pulzo.com/noticias/robby-bienestar), con apoyo de una inteligencia artificial que utiliza machine learning para producir texto. LO ÚLTIMO [Vivir Bien] Hace 26 mins [Muñeco de año viejo: una tradición con muchos sentimientos de por medio](/vivir-bien/por-que-se-quema-muneco-ano-viejo-que-significa-PP3351359A) [Vivir Bien] Hace 1 hora [Las cabañuelas: el famoso método de los abuelos para predecir el clima del año](/vivir-bien/cabanuelas-ano-nuevo-que-son-como-predicen-clima-PP3351144A) [Vivir Bien]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T21:49:41.458+02:00",
+    "updated": "2023-12-30T00:43:44.097+02:00"
+  }
+]

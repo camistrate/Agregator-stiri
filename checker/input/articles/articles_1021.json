@@ -1,0 +1,548 @@
+[
+  {
+    "uuid": "bbc38a7a3b304e6dc48687737c1dcc3ae1c7612f",
+    "url": "https://m.dailyhunt.in/news/india/english/lokmattimes-epaper-dhfd5012174f5c4159918eaf51ebc42a19/pm+modi+helped+avert+potential+nuclear+attack+in+ukraine+report-newsid-n590432984",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-03-10T13:17:00Z",
+    "title": "PM Modi helped avert 'potential nuclear attack' in Ukraine: Report",
+    "text": "New Delhi, March 10 An intervention by Prime Minister Narendra Modi and other top leaders helped to prevent a &apos;potential Russian nuclear attack&apos;, CNN reported.\nAs the Russia-Ukraine war, which broke out in 2022, intensified, the report said, citing two senior officials, that the US started \"preparing rigorously\" for a potential nuclear strike by Moscow against Kiev.\nThe Joe Biden administration was \"specifically concerned\" that Russia might use a tactical or battlefield nuclear weapon, leading to the first nuclear attack since the US dropped bombs on Hiroshima and Nagasaki in 1945, officials said.\nIt was then that the US sought to enlist the help of India and China to discourage Russia from such an attack.\n\"US officials say that outreach and public statements from Chinese leader Xi Jinping and Indian Prime Minister Narendra Modi helped avert a crisis,\" the CNN report stated.\n\"One of the things we did was not only message them directly but strongly urge, press, encourage other countries, to whom they might be more attentive, to do the same thing,\" a senior administration official said.\n\"I think we believe showing the international community concern about this, particularly the concern from key countries for Russia and the Global South, was also a helpful, persuasive factor and showed them what the cost of all this could be,\" the report said, quoting the official.\nMeeting Russian President Vladimir Putin on the sidelines of the Shanghai Cooperation Organisation summit in Uzbekistan in 2022, PM Modi called for a peaceful solution to the conflict and told the Russian leader that \"this is not an era of war\".\nPM Modi had told President Putin that democracy, diplomacy, and dialogue have kept the world together.\nIn response, the Russian leader said that he understands India&apos;s \"concerns\" and promised PM Modi that he would try and end the conflict even as he blamed Ukraine for prolonging it.\nDisclaimer: This post has been auto-published from an agency feed without any modifications to the text and has not been reviewed by an editor",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "narendra modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "xi jinping",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "hiroshima",
+          "sentiment": "none"
+        },
+        {
+          "name": "kiev",
+          "sentiment": "none"
+        },
+        {
+          "name": "moscow",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "nagasaki",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-10T20:58:17.753+02:00",
+    "updated": "2024-03-10T20:58:17.753+02:00"
+  },
+  {
+    "uuid": "0b87b1b1961b0f8ccb1b088bd997d13425c3281b",
+    "url": "https://www.techzine.eu/news/data-management/127684/how-google-created-the-transformer-model-but-lost-the-ai-race",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mels Dees",
+    "published": "2025-01-10T09:36:00Z",
+    "title": "How Google created the transformer model but lost the AI race",
+    "text": "ChatGPT’s explosive success sent shockwaves through the tech world, especially at Google. The company saw the LLM chatbot as a potential threat to its dominance in the search market.\nIn recent years, especially since the launch of ChatGPT, some have seen Google as a sleeping giant. The influential article Attention Is All You Need, published under Google’s banner, introduced the Transformer model, the foundation underneath ChatGPT. This created a situation where Google developed a groundbreaking technology back in 2017 but did not (seemingly) fully utilize it and was surprised when a competitor built something revolutionary with it.\nThe transformer model\nIn response to the rapid advance of OpenAI, Google introduced features such as AI overviews, although these initially faced problems. Part of Google’s strategy to deal with the threat of OpenAI was to consolidate its AI efforts. In 2023, the Google Brain team merged with DeepMind, resulting in a new unit called Google DeepMind.\nExpansion of Google DeepMind\nThis team has since led the development of Gemini, Google’s answer to ChatGPT. Since its inception, Google DeepMind has released models such as Gemini 2.0 Flash, which supports multimodality, and features such as Gemini Live.\nNow it seems Google is ramping up its efforts further. And it is doing so by expanding the Google DeepMind unit. Google’s mission is clear – to build the best AI development platform in the world, offering Google’s latest models, tools and techniques to third-party developers.\nOpenAI bets on superintelligence\nMeanwhile, Sam Altman, Google’s prominent rival and CEO of OpenAI, recently highlighted OpenAI’s focus on what he calls superintelligence. In a blog post, he described it as a tool that could greatly accelerate scientific discoveries and innovations far beyond what we can achieve on our own.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->scientific innovation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:12:28.913+02:00",
+    "updated": "2025-01-10T12:12:28.913+02:00"
+  },
+  {
+    "uuid": "4968e3a69299f3028df000194360fac2d587abd4",
+    "url": "https://www.meneame.net/story/declaracion-oficial-iran-entidad-sionista-estados-unidos-deben/c056",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "pushakk3",
+    "published": "2023-12-24T06:28:00Z",
+    "title": "#56 Declaración Oficial de Irán: \"La entidad sionista y Estados Unidos deben ser castigados por genocidio en los tribunales internacionales\"",
+    "text": "Portada\nmis comunidades\notras secciones\nCuando un régimen como el de Irán te pinta la cara frente a todo el mundo es que la moralidad de tu país es un saco de mierda en el sótano del infierno, así, sin más. Y ya no engañas a nadie fuera de tus votantes más extremistas.\nMuchos deberían hacerse mirar a quién y qué cojones están apoyando y reflexionar en la intimidad de su dormitorio, en vez de ir negativizando noticias del Menéame y pidiendo que baneen a quienes denunciamos al Estado genocida, supremacista y expansionista de Israel.\n[#1](c1#c-1) Iran, que financia y entrena a Hammas, Hezbollah y los huties y uno de los principales actores de todo esto.\nClaro que se le puede reprochar siendo uno de los bandos del conflicto y quien seguramente está detrás del 7 de Octubre.\nEstados Unidos e Israel quieren y necesitan la guerra. El mundo debe evitar entrar en la espiral belicista en que pretenden hacernos caer y que sólo les beneficia a ellos. La legalidad internacional, los bloqueos y las sanciones son el único camino, o se habrá caído en su trampa y ellos se legitimarán en la infinidad de medios y parlamentos que controlan.\nEl apartheid debe acabar de una vez por todas y para siempre. Los palestinos están en su tierra y son los ocupados, tienen derecho a defenderse, Israel es la potencia ocupante y carece de ese derecho. Son los palestinos los que tienen derecho a quedarse y luchar por ello.\nNo lo digo yo, lo dicen los tratados internacionales.\n[#4](c4#c-4) Tienes toda la razón, pero no se si van a quedar palestinos, no es apartheid es genocidio y no hay presión suficiente para pararlo. Ya hay más de 20,000 muertos palestinos, no sabemos cuántos mutilados, cuantos traumatizados de por vida y que viabilidad le queda a Palestina con un mundo que deja que Israel los destruya sin poner límite.\n[#4](c4#c-4) Y que haces con esa gente que lleva 2000-3000 anios en Israel? Recuerda que hay judios que nunca se fueron.\nTambien... hay gente que lleva ahi desde que sus abuelos se defendierion de la invasion de los paises arabes en el 48. Los mandas a otro sitio? Recordemos que quien inicio esto no fueron los israelies, si no los paises musulmanes de alrededor por el precepto de \"tierra que fue musulmana hay que reconquistarla.\"\nLos acuerdos internacionales son de dos estados, y los paises arabes de alrededor nunca lo han aceptado. Tampoco la parte fachas de los sionistas, es verdad.\n[#30](c30#c-30) No hay necesidad de mandar a nadie a ningún lado (excepto a los colonos, claro), basta con que vivan en esas tierras pero bajo una autoridad que no sea la de un estado genocida y sin un derecho supremacista.\n[#31](c31#c-31) Ostias, pues eso es imposible. Si pones a los musulmanes a cargo, de facto todo el cuerpo legal de todos los paises musulames esta basado en la sharia (notese las minusculas) que es supremacista y genocida por definicion, ya que establece el principio de que solo los musulmanes son ciudadanos de pleno derecho y que hay cosas como la apostasia, que son penadas con la muerte.\n[#34](c34#c-34) Depende, si se constituye como república islámica sí, pero el hecho de que sea un país musulmán o de mayoría musulmana no implica que vayan a aplicar la sharia. Hay muchos países de mayoría musulmana que no la aplican a nivel estatal, aunque sí se aplica parcialmente a nivel privado/familiar:\nhttps://es.wikipedia.org/wiki/Shar%C3%ADa\nhttps://es.wikipedia.org/wiki/Shar%C3%ADa#/media/Archivo:Use_of_Sharia_by_country.svg\nY por ejemplo tienes Egipto, que es una República Árabe de mayoría musulmana (~94%) del islamismo suní, y que ha tenido un período islámico (el periodo de los Hermanos Musulmanes), pero luego se les acabó persiguiendo a los extremistas islamistas. Pero hasta los Hermanos Musulmanes se supone que tenían tolerancia por otras religiones:\n\"Creo que los cristianos coptos tienen derechos inherentes. Creo que son parte e integrantes de la estructura de la sociedad egipcia, y lo han sido durante más de 1400 años. Ellos son, sin duda, tan egipcios como yo lo soy, y tienen tanto derecho a esta patria como el que yo tengo...\"\nhttps://es.wikipedia.org/wiki/Mohamed_Morsi#Presidencia\nTodo depende de cómo se plantee, pero dados los países del entorno como Egipto o incluso Jordania (aunque estos sí meten la sharia por ahí, hacen mezcla) podría haber un país musulmán relativamente moderado, además de que cada país tiene su contexto y su coyuntura, en esas tierras han vivido las tres religiones abrahámicas durante miles de años, que se han pegado piñazos sí, pero no es lo mismo que un país donde solo ha habido musulmanes durante cientos de años.\nYo evidentemente pondría un estado totalmente ateo, pero soñar es gratis. Lo ideal sería un estado laico, pero en esas tierras unos y otros siguen con mentalidad un poco trasnochada. Pero es a lo que habría que aspirar, estado laico y que cada uno rece a Alá, Yahvé, el Oso Yogi o a Yoda, pero sin fliparse.\n[#36](c36#c-36) Los coptos estan relegados a ser los basureros que reciclan la mierda. Estas hablando de paises con unos mecanismos discriminatorios bestiales comparados con occidente.\nPor cierto, el mapa que has mandado, ya da miedo en si solo.\n[#38](c38#c-38) En casi cualquier país con escasa tradición democrática te encuentras unos mecanismos discriminatorios bestiales, de Occidente a veces uno habla como si fuésemos de otro planeta, pero hasta hace relativamente poco en muchos países hoy punteros había una gran discriminación hacia diversos grupos étnicos y religiosos, y en algunos sitios de hecho se sigue dando. Pero al final a fuerza de muchas protestas, participación de todo el mundo en la política sin excepciones (lo que implica tener que \"vender\" el voto a \"esos también\"), etc, se ha ido regulando. Y aun así hay bandazos a niveles legales cuando ciertos grupos políticos más extremistas llegan al poder. Aunque no lleguen al nivel de otros países más orientales, pero son los ramalazos de lo que hemos sido a lo largo de la historia las sociedades humanas.\nLa paz y la \"tolerancia\" son un fenómeno completamente reciente (que no nuevo, ojo, pero las civilizaciones pacíficas a lo largo de la historia acababan aplastadas por las belicosas), y ni siquiera es del todo permanente en los lugares más \"civilizados\", más bien intermitente, con avances y retrocesos dependiendo del momento.\nPues a mi me parece interesantisimo, y muy acertado, que les llamen \"entidad sionista\" y en ningún momento se refieran a ellos como Israel. Me parece que incluso estos. con todo y como son, ya también han aprendido bastante de como ganar la batalla mediática. Al gobierno sionista de Israel, y a USA les va a costar grandemente haberse quitado las caretas por completo durante esta masacre. No han dejado ni la menor duda que aunque haya más de un malo en esta película, ellos son los peores.\n[#23](c23#c-23) USA además con el viejo decrépito genocida de Biden (lo llamo así no solo por su apoyo al genocidio actual, es que ese señor ha apoyado hasta la guerra de Irak en su momento, y su apoyo fue muy importante*) es especialmente ridícula, da todo el rato la sensación de que el presidente representa a la perfección lo que es USA: un estado ya decrépito en un mundo que empieza a dejar de ser el suyo, manteniendo la mentalidad y las formas del siglo pasado.\n*Presidente del Comité de Relaciones Exteriores del Senado, tras los atentados del 11 de septiembre de 2001, apoyó las políticas del presidente George W. Bush,54 reclamando tropas terrestres adicionales para Afganistán. Aunque se opuso inicialmente a una acción unilateral, no sin antes agotar todas las vías diplomáticas, en octubre de 2002 votó a favor de la resolución que autorizaba al Gobierno a utilizar la fuerza contra Irak.2 Su apoyo fue crucial desde su condición de presidente del Comité de Relaciones Exteriores.\nhttps://es.wikipedia.org/wiki/Joe_Biden#Pol%C3%ADtica_internacional\n[#19](c19#c-19) El terrorismo Uyghur ha generado miles de muertos en atentados con bombas en China.\nEstoy en contra de los campos de reeducación para cualquiera que tenga relación cercana o remota con un terrorista Uygjur, pueblo que mayoritariamente vive en paz disfrutando de sus particularidades etnicas en libertad dentro de la propia China en la region de Xinjiang que es parte de China desde la dinastia Han. También estoy en contra la dispersion de presos en Espana y la ley antiterrorista utilizada casi para cualquier mierda, y también contra la detención sin garantias de espaldas mojadas en EE.UU. y la segregación en EEUU de ninos y sus familias.\nLee un poquito y deja de decir tanta chorrada por dios. Que no sabes nada.\n[#37](c37#c-37) El tibet?\ncuándo ocurrió lo del tibet? en qué contexto? En los últimos 50 anos?. En el contexto de la paz o el de una guerra civil dentro de un estado dictatorial gobernado con mano de hierro por el Kuomintang? Quién ocupo Tibet en primer término? Sabemos algo? o sólo has venido a repetir mantritas.\nlectura? para qué? saber uno de lo que habla? para qué?\nah si para justificar miles de ninos hombres y mujeres inocente espanzurrados en nombre del derecho de criminales racistas adoctrinados (no judios no israelies, sino CRIMINALES, a robar la casa de otro y a destrozar su vida por una paja mental.\nnegativo a la ignoracia hijo mío, A LA IGNORANCIA. ahí va el tuyo.\nChina no tiene un conflicto desde el conflicto de apenas dias con Vietnam por tierras fronterizas. Y de eso hace ya más de 50 anos! Aprende a leer cojona!\n[#41](c41#c-41) tú ya estás atragantado, comiendote doblada la propaganda para bobos e ignorantes, apenas te pasa ya por la garganta ni con abundante agua. Es que por no saber no sabes ni desarrollarla. Simplemente repetición papagaya es lo tuyo.\nQué pena das hijo.\n[#45](c45#c-45) que tu sepas? no sabes ni lo que has dicho ni sobre qué hablabas ni dónde te metías. Solo venías al y china qué que es lo mismo que ha hecho cognitiva. Todo en el contexto de un genocidio televisado. Tomas a todo el mundo por idiota? a ver si va a ser al revés.\nA cuidar esa comprension lectora. Para el 2024 más lectura.\nte vendrá muy bien y amueblarás mejor la mollera. Eso es cuidarse.\n[#47](c47#c-47) humildad es algo digno de pedir a quien viene aqui a hablar de lo que desconoce y como un meticón a criticar a otros sobre asuntos que le quedan muy grandes y sobre los que ignora todo. Es decir a ti.\nTienes que informarte primero, leer comprensivamente las cosas y luego opinar o criticar, no creo que sea yo el primero que te lo dice.\nEstas fiestas, como te he dicho, de felices no tienen nada.\n[#28](c28#c-28) Franco asesinó un montón de gente por considerarlos inferiores. Israel está asesinando a un montón de gente por considerarlos inferiores. Ambos son una mierda bastante parecida, con una diferencia: uno es del siglo pasado, el otro está cometiendo un genocidio a día de hoy.\n[#20](c20#c-20) Vaya tontería con el temita de China, que la sigues nombrando como si fuera el coco pero a dia de hoy China ha causado varios ordenes de magnitud menos muertos que EEUU y ciertamente también ha violado los derechos humanos menos que los uesei, incluso incluyendo en la historia reciente los momentos más salvajes de los gobiernos anteriores chinos. El problema de gente como tú es que se creen que EEUU es mejor que China en esos aspectos sólo porque desde tu posición muy cómoda nunca has sido objetivo de sus guerras, violaciones de derechos humanos, intervenciones y demás daños al mundo que han causado.\n[#28](c28#c-28) Rebate sus argumentos si es que puedes anda y deja de decir imbecilidades y de hacer el ridículo. En China los ciudadanos también votan y eligen a sus representantes dentro de un mismo partido, que no es tan diferente a un sistema con dos partidos financiados por los mismos grupos de poder, como en los EEUU.\n\" Lo que ocurrió el 7 de octubre se debe a las masacres cometidas contra el pueblo palestino antes de esa fecha. \"\nIrán justificando (y posiblemente más que eso) el despreciable y brutal ataque terrorista sobre civiles del 7 de octubre por Hamás.\nEstán los fundamentalistas de Irán para dar lecciones de nada.\nme recuerda a un viejo Skets de Faemino y Cansado, creo, \" tú quien quieres que te salve SuperZron o PlasticsMan o algo así. ¡ Pobres palestinos!\n[#6](c6#c-6) Tu afirmación parte de una falacia enorme. Los derechos humanos YA no valen nada. La única vía para implementarlos y estandarizarlos es que todo el mundo funcione bajo las mismas reglas, sin excepciones. Si no esos \"derechos\" son papel mojado.\nQue no hay que irse a China ni hostias, ¿los derechos humanos de Julian Assange dónde están?\n[#6](c6#c-6) cuanto valen los derechos humanos de un palestino masacrado entre cascotes?\nY la de 20.000 de ellos?\n[#10](c10#c-10) si a alguien le importara la vida de los palestinos más que su muerte como mártires contra Israel, preferiría verlos vivos y refugiados antes que masacrados entre cascotes.\nSólo Israel prefiere eso.\n[#6](c6#c-6) a quién dices que está mascarando china? Y en cuantas guerras ha participado China en el último medio siglo? Cuantos países ha invadido? Tienes siquiera pajolera idea de qué hablas? o solo repites mantras?\nEE.UU se cepilló 2 millones de iraquies, en base a una mentira además.\nIsrael ha matado en un par de meses más civiles que nadie en el ultimo medio siglo, en base a una paja mental equiparable al nazismo ya y mientras invade agrede y oprime desde hace más de medio siglo también.\nTu tara en cognición no es nueva, es el sesgo de toda la puta vida de quien picotea la propaganda que le sirve su patrón.\nLo que está claro es que este \"orden\" que vendes implica racismo a raudales, caos, crimen e injusticia en proporciones inaceptables y debe cambiar, Espana no puede ser cómplice de más mentiras y masacres derivadas y menos de los sionazis..",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Shar%C3%ADa#/media/Archivo:Use_of_Sharia_by_country.svg",
+      "https://es.wikipedia.org/wiki/Joe_Biden#Pol%C3%ADtica_internacional",
+      "https://es.wikipedia.org/wiki/Shar%C3%ADa",
+      "https://es.wikipedia.org/wiki/Mohamed_Morsi#Presidencia",
+      "https://www.es.wikipedia.org/wiki/Mohamed_Morsi#Presidencia",
+      "https://www.es.wikipedia.org/wiki/Shar%C3%ADa",
+      "https://www.es.wikipedia.org/wiki/Joe_Biden#Pol%C3%ADtica_internacional",
+      "https://www.es.wikipedia.org/wiki/Shar%C3%ADa#/media/Archivo:Use_of_Sharia_by_country.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T09:31:42.932+02:00",
+    "updated": "2023-12-24T09:31:42.932+02:00"
+  },
+  {
+    "uuid": "972e2de844abb93d118ad7b5c44543f74207e021",
+    "url": "https://ignitevisibility.com/programmatic-seo/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Seth Kluver",
+    "published": "2024-01-05T04:01:00Z",
+    "title": "Programmatic SEO: What Is It & How to Scale Your Webpages",
+    "text": "Are you looking for a way to scale your website’s SEO content on a large level?\nThat’s where programmatic SEO comes in.\nWhat You’ll Learn\n[Programmatic SEO vs. Traditional SEO](#programmatic-seo) [Programmatic SEO: Pros vs. Cons](#programmatic-seo-pros-cons) [3 Core Elements of Programmatic SEO](#core-elements-programmatic) [Develop a Programmatic SEO Strategy](#programmatic-seo-strategy) [Programmatic SEO Tools](#programmatic-seo-tools) [Examples of Programmatic SEO In Action](#programmatic-seo-examples)\nWhat is Programmatic SEO?\nAlso called pSEO, programmatic SEO entails creating and publishing a large volume of landing pages to maximize reach and dominate search engine results.\nIf you want to get the best results from your SEO strategy, implement programmatic SEO in combination with a traditional SEO approach.\nOur Expert Insights on Programmatic SEO\nOur Senior Director of SEO,\nSeth Kluver says, “I have found programmatic SEO to be an invaluable asset in this increasingly competitive digital environment. Also called pSEO, programmatic SEO entails creating and publishing a large volume of landing pages to maximize reach and dominate search engine results.”\nHe continues to say, “It can help streamline SEO strategies by automating and optimizing large-scale website content while working with traditional SEO to ensure your content gets in front of audiences. You will save a ton of time and energy in the process while maximizing your campaigns’ efficiency.”\nIn this guide, we dive into programmatic SEO and show you how you can use this type of strategy to supercharge your digital marketing.\nProgrammatic SEO vs. Traditional SEO\nProgrammatic SEO and traditional SEO both aim to improve search engine rankings and visibility. Traditional SEO focuses on crafting high-quality content for\n high-competition keywords, whereas programmatic SEO automates and targets a broader range of less competitive keywords, known as low-hanging fruit.\nThe key distinction is in their execution. Traditional SEO demands creating unique pages manually, while programmatic SEO uses templates and databases to generate numerous pages, potentially in the millions.\nEmploying both strategies can enhance search rankings. However, understanding programmatic SEO is crucial to avoid generating low-quality, spammy pages that could negatively impact your Google standing.\nProgrammatic SEO: Pros vs. Cons\nWhen considering programmatic SEO, it’s vital to balance its advantages and drawbacks. Proper implementation can significantly enhance your website’s search engine performance. However, it’s important to be aware of potential downsides to ensure the strategy aligns with your overall SEO goals.\nPros\nSome of the key benefits of programmatic SEO tools and strategies include:\n- Rank well for many low-competition keywords\n- Get faster results by publishing large amounts of quality content\n- Easily publish content using templates for\nlanding pages\n- Dramatically increase the number of\nhigh-quality backlinksfor your site\n- Reach more people at every stage of the buyer’s journey\nCons\nNow that you know about some of the advantages of pSEO, here are some potential drawbacks to consider:\n- Expect higher up-front costs for certain tools\n- Indexing can be a challenge for all pages\n- If you’re not careful, Google could consider your pages spam and punish your site accordingly\n- Like traditional SEO, this SEO tactic will require consistent monitoring and upkeep to get the results you want\nSure, programmatic SEO can come with some risks, but you’ll be able to get the most from it when you integrate it properly.\n3 Core Elements of Programmatic SEO\nThere are three primary components of programmatic SEO campaigns, including:\n1. Low-Competition Keywords\nVarious keyword tools such as SEMRush and\n ScreamingFrog can assess the competition level of keywords, aiding in identifying ideal targets. Using pSEO’s large-scale strategies, it’s generally easier to rank for these keywords.\n2. Search Intent\nSearch intent is crucial in programmatic SEO. It refers to the user’s goal when searching on Google and other platforms. For example, users at the top of the sales funnel, early on in the buyer’s journey, will likely search for broad information about a particular topic or problem. Moving down toward the bottom of the funnel, users will enter different keywords with the intent to make a decision or complete a purchase.\nUnderstanding the different stages of the buyer’s journey helps in targeting keywords effectively. There are four main types of search intent:\n- Informational — At this stage, users want more information about a particular topic, such as a problem they’re experiencing. An example of this would be something like “What causes [problem]?” or “What solutions are there to [problem]?”\n- Commercial —Users are weighing their options when they’re about to make a buying decision. For instance, a user at this stage might look for “what is the best solution to [problem]” or “top solutions to [problem].”\n- Transactional —Next, the user is ready to complete a transaction, whether that means making a purchase, requesting a quote, or performing another converting action. They may enter terms like “tool for sale” or “where to buy a solution to [problem].”\n- Navigational — When users are at this point, they’re simply looking for a particular web page, such as a login on an ecommerce site. To excel in programmatic SEO, focus on targeting commercial and transactional keywords with high-converting landing pages.\n3. User Experience\nEnsuring a positive user experience is essential to keep visitors engaged after they arrive from search engines. Key components of a good user experience include:\nA good user experience consists of multiple elements that capture and engage users, including:\n- An easy-to-navigate\nweb design\n- Visual appeal and readability\n- Fast loading speeds\n- High-quality content that informs and moves people down the funnel\n- Unique content that avoids duplication that might otherwise penalize your site\nDevelop a Programmatic SEO Strategy\nTo develop a successful programmatic SEO (pSEO) strategy, follow these steps to create well-optimized landing pages:\n1. Set Clear Goals and Expectations\nBegin by determining your objectives for the landing pages. What kinds of topics and keyword terms might encourage more people to\n convert into leads and customers?\nConsider the sales figures and other metrics you’ll use to track progress. Clear goals will guide your pSEO strategy effectively.\n2. Research Your Audience, Market Trends, and Competitors\nThe development of a programmatic SEO strategy involves several key phases:\nUnderstand Your Audience: Research what your audience is interested in, such as specific applications of your products or services and popular trends in your industry.\nCompetitor Strategies: Analyze your competitors’ programmatic SEO strategies. Look for the number of landing pages they have and the keywords they target, especially transactional and commercial ones. Learn from their successful tactics.\nIdentify Gaps: Spot opportunities where competitors might be lacking. For instance, targeting specific use cases they haven’t addressed could give you an edge.\n3. Conduct Keyword Research and Develop a Content Plan\nKeyword Research: Focus on identifying head terms (primary, broad keywords) and modifiers (contextual additions) for more specificity. For example, the head term “best programmatic SEO tools” can be combined with modifiers like “for novice coders” to\ntarget long-tail, low-competition keywords.\nContent Planning: Based on your keyword research,\ndevise a content plan for your landing pages. Determine the types of pages you need and start preparing them for templating to ensure they align with your identified keywords and audience interests.\n4. Design Your Page Template\nCreate a Landing Page Template: Create a template that targets specific locations, potentially going after thousands of states, cities, zip codes, counties, or even multiple countries.\nOffer Value: Make sure your content offers real value, too. Simply trying to target a term across thousands of pages could be a red flag to Google and result in a penalty. Your pages should delve deep into the topics you want to cover, but they should be unique and dynamic enough to function as individual pages.\nDifferentiate from Competitors: Also, make your pages as informative as possible to differentiate them from competitors. They should feature unique selling points and details, answer several questions, and expand on the information you cover in your traditional SEO strategy.\n5. Engage in UX Optimization\nFast Load Times: Ensure your pages load quickly, ideally within two seconds. This is crucial for user retention and SEO performance.\nDesign for Readability: Create pages with clear, easy-to-read sections. Use summaries, bullet points, and broken-up text to simplify and enhance the presentation of information.\n6. Launch, Test, Iterate\nOnce your template and database are set, launch your pages and start monitoring their performance.\nA/B Split Testing: Implement\nA/B testing to determine the most effective strategies. This could involve experimenting with different copy, layouts, or call-to-action variations. Track which versions yield higher traffic, engagement, and conversions.\nIterative Improvements: Use the insights gained from testing to continually refine and improve your pages. This iterative process is key to optimizing the effectiveness of your programmatic SEO strategy.\nProgrammatic SEO Tools\nAs you learn more about how to do programmatic SEO, you can get started with the following tools:\nGoogle Trends— This solution is a great way to look for trending topics in your niche, which can give you a start on finding the right keywords and modifiers for your campaigns. Python— Using this coding tool, you can code your pages and keywords, but you will need to learn the programming language to get the most from it. If needed, you can always outsource coding for your campaigns. Google Sheets— This tool can help you organize your primary keywords and modifiers in a dynamic database.\nExamples of Programmatic SEO In Action\nWant to see some companies that are excelling with programmatic SEO? Here are some key examples in multiple industries:\nTripAdvisor\nIn the travel industry,\nTripAdvisor dominates with Expedia and others using programmatic SEO. If people are seeking the best deals on hotel rooms across the globe, TripAdvisor is there with all the results people need.\nThis site comes second in search results for “best hotels in new york” alone.\nZapier\nIn the tech industry,\nZapier is among the top programmatic SEO examples with its massive website full of lists, tutorials, and other resources. This page came out on top for “best software for video editing,” for example.\nEater\nRestaurant database\nEater can recommend a range of restaurants and foods based on your tastes. Whatever you’re looking for in the restaurant industry, Eater has it listed. Here’s what I first found when searching “top Italian restaurants in Chicago,” complete with a convenient map of each location on the right.\nDevelop a Successful Programmatic SEO Campaign With Ignite Visibility\nIf you’re in need of programmatic SEO for your business, Ignite Visibility is happy to help with a complete strategy tailored to your needs. We can also help with\ntraditional SEO, along with everything from local and international search marketing to pay-per-click advertising.\nWhen you turn to us for programmatic campaigns, you’ll get help with:\n- Keyword, audience, market trend, and competitor research\n- Coding for your keywords, pages, and databases\n- Page template building and designs\n- UX optimization\n- Publishing, indexing, and monitoring\n- Continuous optimization\nIf this sounds like the right strategy for you,\nreach out to Ignite Visibility to get started with programmatic SEO and more today!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.tripadvisor.com/",
+      "https://trends.google.com/trends/",
+      "https://www.searchenginejournal.com/how-to-find-low-competition-keywords/481068/",
+      "https://zapier.com/",
+      "https://www.python.org/",
+      "https://www.screamingfrog.co.uk/seo-spider/",
+      "https://www.google.com/sheets/about/",
+      "https://www.eater.com/",
+      "https://www.eater.com",
+      "https://trends.google.com/trends",
+      "https://www.trends.google.com/trends/",
+      "https://screamingfrog.co.uk/seo-spider/",
+      "https://python.org/",
+      "https://www.searchenginejournal.com/how-to-find-low-competition-keywords/481068",
+      "https://eater.com/",
+      "https://searchenginejournal.com/how-to-find-low-competition-keywords/481068/",
+      "https://zapier.com",
+      "https://www.screamingfrog.co.uk/seo-spider",
+      "https://www.google.com/sheets/about",
+      "https://google.com/sheets/about/",
+      "https://www.python.org",
+      "https://tripadvisor.com/",
+      "https://www.tripadvisor.com",
+      "https://www.zapier.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "seo",
+          "sentiment": "none"
+        },
+        {
+          "name": "seth kluver",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "core elements of programmatic seo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T02:41:37.447+02:00",
+    "updated": "2024-01-06T02:41:37.447+02:00"
+  },
+  {
+    "uuid": "2966c36cdc2383c23e7e80a917828b7d68ee224f",
+    "url": "https://www.aciprensa.com/noticias/104596/destacado-jesuita-la-compania-de-jesus-esta-en-profunda-decadencia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ACI Prensa",
+    "published": "2024-05-24T06:00:00Z",
+    "title": "Destacado jesuita: La Compañía de Jesús está en “profunda decadencia”",
+    "text": "El P. Julio Fernández Techera, sacerdote jesuita y rector de la Universidad Católica de Uruguay (UCU), escribió un ensayo crítico sobre la Compañía de Jesús, advirtiendo que la orden, fundada por San Ignacio de Loyola en 1534, está en “profunda decadencia”.\nAsí lo indicó el sacerdote de 57 años en un texto titulado Ad usum Nostrorum III, dirigido a sus\nhermanos jesuitas. El documento, que originalmente habría circulado al interior de la Compañía de Jesús, fue publicado por el periodista español Francisco José Fernández de la Cigoña en su blog en Infovaticana.\nRecibe las principales noticias de ACI Prensa por WhatsApp y Telegram\nCada vez es más difícil ver noticias católicas en las redes sociales. Suscríbete a nuestros canales gratuitos hoy:\nEste es el tercer documento de una serie que el P. Fernández Techera inició el 22 de abril de 2022, cuando escribió su primer ensayo (Ad usum Nostrorum), resaltando que por largo tiempo se ha sentido insatisfecho con la situación de la Compañía de Jesús, precisando que no atraviesa por una crisis vocacional ni está pensando en irse.\nEl segundo ensayo lo difundió un año más tarde y tiene como fecha el 27 de abril de 2023. En este texto agradece las muchas respuestas que recibió, también de jesuitas jóvenes, e incluso de algunos que no estaban de acuerdo con él, pero le agradecían la oportunidad de debatir y de proponer una revisión.\nEl tercer ensayo del P. Fernández Techera está fechado el 22 de abril de 2024, “Fiesta de Santa María, Madre de la Compañía de Jesús”.\nEl nuevo escrito tiene como subtítulo “Algunas consideraciones acerca del De Statu Societatis 2023”, en referencia al\n informe general que ofrece el superior general de la Compañía de Jesús, en este caso el sacerdote venezolano Arturo Sosa, en colaboración con los procuradores, con quienes se reunió en mayo del año pasado en Loyola (España).\nEscándalos de abuso sexual en la comunidad jesuita: casos emblemáticos\n“La Compañía está viviendo situaciones muy preocupantes que parece que no se trataron en la Congregación de Procuradores y que no aparecen con claridad y asumidos en el informe De Statu. Por poner algunos ejemplos. En diciembre de 2022 nos enteramos de lo que un jesuita italiano llamó, el Tsunami Rupnik”, señala el P. Fernández Techera en su escrito.\nMarko Rupnik es un sacerdote expulsado de la Compañía de Jesús en 2023 —acusado desde 2018 de haber cometido\n graves abusos de índole sexual, espiritual y psicológico contra al menos 20 mujeres en la Comunidad Loyola que cofundó en Eslovenia— y quien sigue apareciendo como jesuita y consultor del Vaticano en el Anuario Pontificio de 2024.\nEl P. Fernández Techera se refiere luego al “escándalo” de “\nabusos contra menores cometidos por algunos jesuitas en Bolivia, y el presunto encubrimiento de varios provinciales que fueron acusados ante la Fiscalía de ese país. De todo nos hemos tenido que enterar a través de la prensa y no hemos recibido ni una declaración o carta de la Curia General explicando lo ocurrido o para pedir oraciones por la provincia de Bolivia”.\nEl principal acusado en este caso es el sacerdote\n Alfonso Pedrajas, conocido como “Padre Pica”, quien llevaba un diario sobre los abusos que perpetró contra más de 80 menores de edad en Bolivia, Perú y Ecuador.\nJesuitas y la caída en el número de vocaciones\nEl P. Fernández Techera señala en su escrito que “otros temas urgentes y que no se trataron con claridad y contundencia son: la caída del número de ingresos a la Compañía, que en Occidente se agudiza año a año, así como el alto número de abandonos de miembros de la orden”.\n“Hace poco un compañero me contó que en su provincia entraron en los últimos diez años 72 novicios. En el mismo período los jesuitas que abandonaron la Compañía en su provincia fueron 71”, agrega y refiere que “en 2023 ingresaron en toda la Compañía 314 novicios, y los fallecidos han sido 319”.\nEl sacerdote precisa asimismo que actualmente son 13.995 jesuitas, y lamenta que “en pocos años la Compañía habrá desaparecido de varios países europeos y se volverá insignificante en otros de Europa, América y Oceanía”, y resalta que sólo crecen en África.\nEn 2013, los jesuitas eran más de 17.200, lo que quiere decir que en poco más de 10 años, la Compañía de Jesús ha disminuido en más de tres mil miembros.\nPara el sacerdote uruguayo, “el problema no es sólo que se mueran muchos y entren pocos, sino que, además, no sabemos retener a muchos de los que entran”.\n“La razón por la que no tenemos vocaciones no es por la sociedad secularizada, el cambio de época y mil excusas más. La razón es que esas condiciones de nuestro tiempo nos han acobardado, nos abruman y no sabemos responder a los desafíos de hoy con el empuje y creatividad de ayer”, advierte.\nLos jesuitas se han convertido en una “ONG progresista”\nEn opinión del P. Fernández Techera, la “visión demasiado sesgada” del informe general sobre la Compañía de Jesús “podría ser perfectamente la mirada sobre el mundo de un think tank laico, vinculado a algún partido político de izquierda o a una ONG progresista”.\n“Uno no encuentra en esa contemplación nada de la mirada sobrenatural o trascendente que se esperaría de una orden religiosa, apostólica y sacerdotal”, lamenta.\n“Hay muchos signos en la vida actual de las obras jesuitas, de los documentos que se publican y de las orientaciones que se dan, que dan la impresión de que estamos en una ONG y no en una orden religiosa”, refiere el miembro de la Compañía de Jesús.\nEl problema de identidad jesuita: “Seguimos preguntándonos quiénes somos”\nEl sacerdote uruguayo comenta también que “este año hará cincuenta años desde que cada vez que nos reunimos los jesuitas nos ponemos a ver quiénes somos, para qué estamos”.\n“Si lo que señala el documento [De Societas Statu] es así, el problema de la Compañía es más grave de lo que podríamos pensar. Si los jesuitas de todas las generaciones y de todos los orígenes culturales tienen dudas sobre su identidad, estamos acabados. Claramente no es mi experiencia, y creo que no es la de muchos jesuitas que conozco”, resalta el rector de la UCU.\n“Hoy los jesuitas en muchos lugares somos sacerdotes vergonzantes, disimulados, tímidos, sin celo apostólico. Y así no se entusiasma a nadie”, afirma el sacerdote uruguayo.\nPara el rector de la UCU, “el problema está en que muchos en la Compañía, incluidos superiores mayores, tienen problemas para asumir lo propio de nuestra identidad religiosa, apostólica y sacerdotal, así como de los ministerios propios de la Compañía”.\nLa Compañía de Jesús “está en una profunda decadencia”\nEn opinión del jesuita uruguayo, la Compañía de Jesús “está en una profunda decadencia. No lo sabe, o no lo quiere saber, que es lo mismo. Quiere creer que así es la situación de todas las demás realidades de la Iglesia que la rodean y que por tanto es lo que debe ser”.\nEn su opinión, el gobierno de la Compañía “teme que si le habla claro al conjunto de la orden sus miembros sufran y se desalienten. Prefiere mantener la ficción de que las cosas van bien antes que arriesgarse a reconocer la decadencia religiosa y apostólica de la Compañía”.\nSobre el informe general de los jesuitas de 2023, el P. Fernández Techera resalta que “en todo este largo documento, de más de 24 mil palabras, no aparece nunca la palabra sacerdote y sólo dos veces sacerdocio, aunque para hacer una referencia distinguiendo entre el sacerdocio en la Compañía y el sacerdocio diocesano”.\n“Creo que nuestra actitud es suicida: queremos vocaciones para el sacerdocio en la Compañía, pero no queremos hablar de ser sacerdotes”.\nAl final de su texto, el presbítero uruguayo subraya que “tenemos un carisma maravilloso y necesario para la Iglesia, un carisma religioso, apostólico y sacerdotal. Tenemos que recuperarlo y vivirlo con pasión, arrojo y generosidad”.\n“Para lograr eso es necesario hablar con más libertad, expresar con claridad lo que vivimos y pensamos, dejar de ser políticamente correctos y de utilizar frases hechas y slogans”.\nPara concluir, el P. Fernández Techera ruega a Dios que “nos conceda en este tiempo una esperanza viva para creer que, si nos ponemos en sus manos y somos fieles, todavía podemos resurgir y volver a ser un gran servicio para su Iglesia”.\nACI Prensa se contactó con la Curia General de los Jesuitas en Roma para solicitar sus impresiones sobre el escrito del P. Fernández Techera. Hasta la publicación de esta noticia no ha recibido respuesta.\nVisita apostólica a los jesuitas\nEn un escrito publicado en marzo de 2022, el\nfallecido Cardenal George Pell, bajo el pseudónimo de Demos, sugirió realizar una visita apostólica o investigación a la Compañía de Jesús.\nEl cardenal explicó que consideraba esto necesario porque “la Orden está altamente centralizada, susceptible de ser reformada o arruinada desde arriba”.\nA inicios de la década de 1980 los jesuitas fueron investigados por última vez. Fue el Papa San Juan Pablo II quien intervino personalmente en el gobierno de la Compañía, retirando del cargo de superior general al P. Pedro Arrupe.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Education",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://infovaticana.com/blogs/cigona/un-documento-extraordinario-de-un-jesuita-que-tambien-lo-parece/",
+      "https://pastoral.ipl.edu.do/index.php/noticias/207-cuantos-jesuitas-hay-en-el-mundo",
+      "https://noticias.jesuitas.pe/2023/08/03/de-statu-societatis-informe-general-de-la-compania-en-el-mundo/",
+      "https://www.noticias.jesuitas.pe/2023/08/03/de-statu-societatis-informe-general-de-la-compania-en-el-mundo/",
+      "https://noticias.jesuitas.pe/2023/08/03/de-statu-societatis-informe-general-de-la-compania-en-el-mundo",
+      "https://www.infovaticana.com/blogs/cigona/un-documento-extraordinario-de-un-jesuita-que-tambien-lo-parece/",
+      "https://infovaticana.com/blogs/cigona/un-documento-extraordinario-de-un-jesuita-que-tambien-lo-parece",
+      "https://www.pastoral.ipl.edu.do/index.php/noticias/207-cuantos-jesuitas-hay-en-el-mundo"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T14:58:15.965+03:00",
+    "updated": "2024-05-24T14:58:15.965+03:00"
+  },
+  {
+    "uuid": "a3f35db523ea2d37f173b1261b74b668406b2e63",
+    "url": "https://menafn.com/1108533485/Israeli-Occupation-Forces-Displace-Thousands-To-West-Khan-Younis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-08-08T00:05:00Z",
+    "title": "Israeli Occupation Forces Displace Thousands To West Khan Younis",
+    "text": "( MENAFN - Kuwait News Agency (KUNA)) GAZA, Aug 8 (KUNA) - Thousands of Palestinian families were displaced on Thursday by the Israeli Occupation forces, from eastern Khan Younis to the western coastal part of the city.\nThe occupation forces reportedly dropped notices to people, asking them to leave their shelters once again and move to the western part of Khan Younis.\nThe already displaced families immediately packed the remainder of their belonging and headed to the new destination, the third this month.\nEyewitnesses told KUNA that only minutes after their notice, the Israeli occupation forces struck the eastern part of Khan Younis, which instilled terror in the Palestinian families, fearing another Israeli occupation massacre on the innocent Palestinian families.\nThe Israeli occupation forces withdrew from eastern Khan Younis just two weeks ago leaving it in a destroyed state, with hundreds of buildings flattened, and more than 300 Palestinians were killed and more than 700 injured. (end)\nwab\nMENAFN08082024000071011013ID1108533485",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "khan younis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kuwait news agency",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kuna",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:16:49.497+03:00",
+    "updated": "2024-08-09T00:16:49.497+03:00"
+  },
+  {
+    "uuid": "8b91d0abf28892b6d4fe66b962e479b1b5cd2d83",
+    "url": "https://www.tribunapr.com.br/noticias/curitiba-regiao/marginal-linha-verde-bloqueio-a-partir-quinta",
+    "ord_in_thread": 0,
+    "author": "tribuna-inmet-alerts-style-inline-css",
+    "published": "2025-04-09T21:20:00Z",
+    "title": "Marginal da Linha Verde vai ter bloqueio em Curitiba nesta quinta",
+    "text": "A obra do Complexo do Tarumã, na Avenida Victor Ferreira do Amaral, vai exigir uma pequena alteração no trânsito da região. A partir das 7 horas desta quinta-feira (10), será feito o bloqueio total de um trecho na via marginal direita Sul da Linha Verde (antiga BR-476), em Curitiba.\nO bloqueio será no trecho entre a Rua Doutor Heitor Valente até a Rua Coronel Irazê Paes Brasil, na Praça Cova da Iria. A interrupção é de apenas uma quadra e, de acordo com a prefeitura, não deverá causar grande impacto.\nA interrupção aos motoristas tem previsão de duração de 60 dias e é necessária para escavações e serviços de drenagem e para a execução da nova pavimentação do acesso ao Viaduto Tarumã. O desvio deverá ser feito pela Rua Suécia.\nBloqueio em marginal da Linha Verde: por onde desviar O motorista que estiver na marginal da Linha Verde e quiser acessar o bairro Tarumã ou seguir em direção a Pinhais ou Piraquara deve entrar à direita na Rua Suécia, seguir por duas quadras até a Rua General Poli Coelho, virar à esquerda e continuar até a Avenida Victor Ferreira do Amaral, que já está totalmente liberada ao trânsito após as obras.\nObras no Tarumã O viaduto está sendo ampliado e vai dobrar de tamanho, passando dos atuais 24 metros de largura para 50 metros – medida necessária para que a estrutura comporte três faixas de trânsito em cada sentido, além de uma canaleta exclusiva para o transporte coletivo, espaço para duas estações-tubo (uma em cima e outra em baixo) e calçadas com acessibilidade, além de iluminação e paisagismo.\nA duplicação do viaduto vai permitir a integração temporal entre as linhas de ônibus que circulam pela Linha Verde e aquelas que ligam o Centro de Curitiba aos municípios de Pinhais e Piraquara, na Região Metropolitana.\nA pavimentação da via marginal direita sul é uma etapa preparatória para que no final de maio seja liberado de forma permanente o trânsito em duas faixas na via marginal sul (no DNIT) e via marginal direita (próximo ao Colégio Militar).\nReceba Notícias no seu WhatsApp! Receba as notícias do seu bairro e do seu time pelo WhatsApp. Participe dos Grupos da Tribuna\nComunique erros\nVoltar ao topo\nComentários O conteúdo do comentário é de responsabilidade do autor da mensagem. Ao comentar na Tribuna você aceita automaticamente as Política de Privacidade e Termos de Uso da Tribuna e da Plataforma Facebook . Os usuários também podem denunciar comentários que desrespeitem os termos de uso usando as ferramentas da plataforma Facebook.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Crime, Law and Justice",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Social Issue->public housing",
+      "Social Issue->social services",
+      "Social Issue->communities",
+      "Economy, Business and Finance->transport",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/policies/",
+      "https://facebook.com/policies/",
+      "https://www.facebook.com/policies"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:38:33.435+03:00",
+    "updated": "2025-04-10T00:38:33.435+03:00"
+  },
+  {
+    "uuid": "0ea1123b7f0d5ef2ba03a2a8d943e57c68b00e99",
+    "url": "https://flipboard.com/topic/battlecreekmichigan/construction-to-begin-on-new-social-district-in-howell-michigan/f-6405d0b9f8%2Fcbsnews.com",
+    "ord_in_thread": 0,
+    "author": "CBS News",
+    "published": "2025-04-16T22:22:00Z",
+    "title": "Construction to begin on new social district in Howell, Michigan | Flipboard",
+    "text": "Construction to begin on new social district in Howell, Michigan An empty lot won't be empty for long after the city of Howell, Michigan, broke ground Wednesday on its new social district in the downtown area.\nCBS News • 34m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Economy, Business and Finance->construction and property",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->social services",
+      "Social Issue->communities",
+      "Politics->government policy",
+      "Politics->economic policy",
+      "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:59:03.749+03:00",
+    "updated": "2025-04-17T01:59:03.749+03:00"
+  },
+  {
+    "uuid": "e292bd728bbeb0d417a75e3224f19ea28b480a2b",
+    "url": "https://www.inaturalist.org/journal/sudenkorentoko/96960-another-day-2-trying-out-seek",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lutra lutra",
+    "published": "2024-07-18T23:10:00Z",
+    "title": "Another Day 2: Trying out Seek · iNaturalist",
+    "text": "I heard about Seek for the first time on Tuesday evening. I took it for a proper spin on Wednesday and started to immediately advertise it to everyone I came across. My first thought: Oh cool! It has achievements and challenges! Just what I wanted, more excuses to go find All The Things and do science to them! My third thought: Oh wow, now even my mother can just identify stuff by pointing the app at them, without the \"participate in citizen science\" effort of iNaturalist! In between, I had the app telling me the names of things it found in Latin instead of the Finnish localized names. It's been a Duolingo dive into the plants I already know, re-bioblitzing plants I somewhat already knew, and suddenly seeing relations between things that I wasn't aware of before, and laughing at silly names like \"a bramble with round head\". I think Seek is to plants (and to some degree even moving lifeforms, if tame enough to stay in the camera) what Merlin is to birding. Providing a real-time response for \"what's that?\" is a killer app. Though Plantnet is still better for ID that you can do more carefully, one tagged photo at a time, the capability being built with Seek is completely outrageous - you don't even need to take that picture now. And on top of that it's educational, designed kid-friendly (which also makes it grandma-friendly), and I must say, posting the IDs on iNaturalist is MUCH more encouraging and straightforward than trying to eBird annotations from Merlin (an equivalent from-local-observation-to-science situation) - not only is eBird much harder to use casually, to top it off it asks \"are you sure?\" when trying to submit a bird observation, which makes it impossible. I'm an amateur! Of course I'm not sure! The iNaturalist community is awesome and an important part of this friendliness, of course. One day I will be learned enough to help identify things beyond the very utterly most obvious. The main awkwardness I have about Seek is that it's not easy to add additional photos on ONE observation in it, so I first have to post it on iNat with the Latin name that I can't really review, then wait for the sync to happen, wait for iNat-end sync to happen, then open it to add additional pictures (particularly if the sole-picture is IMO hard for humans to provide an ID on), and while at it notice that it's identified a thing that eats a specific tree as a thing that eats a very different tree but looks similar and correct that. Apologies in advance and past to all who get to correct the IDs I'm getting from Seek. I've tagged the ones I'm aware of looking a bit off, but for many things I can't tell enough from the sample small picture if it's maybe accurate or completely off. I try to work with them in batches on the laptop and focus on the ones where we didn't get them right already by the time I got to sitting still. So far I've completed 13 challenges out of the approximately one bazillion there are. I'm struggling the most with the current challenge which requires getting a picture of two insects. Insects are not someting Seek is good at. Insects and hay plants (heinät). It can identify a large batch of reeds, but I can't get it to identify an individual rölli or a small group of them because of all the background noise it runs into - it can see it's one hay thingy but not what hay thingy it is. I managed to get one insect from camera-staring at an old nest of a tree-leaf-eating bug, which was friendly enough to sit still long enough to be stared at. The ID was slightly wrong, I found out later when I saw it in iNaturalist, but it was a species and it was an insect. I ended up spending one evening chasing different types of one partiular fly that I noticed were missing Finnish names, while trying to find the one it looked the most like. I couldn't get an exact ID, thanks to some wonderful people we narrowed it down to about 3 options, and concluded it can't get better than that. A day or few earlier I learned way more than I ever need about dandelions and discovered a missing scientific name for the common dandelion (the one used in Finland) but don't know how to help with that since only curators can add missing synonyms. Filling in taxonomy stuff is actually amazingly fun too. I love naming things and putting names on things! And I can help with that just by reading references, I don't need to turn into a great identifier. But speaking of that, I better go find a few easy things I can help identify. PS. Saw [https://forum.inaturalist.org/t/how-has-your-nature-knowledge-advanced-since-using-inat/52782/67](https://forum.inaturalist.org/t/how-has-your-nature-knowledge-advanced-since-using-inat/52782/67) in an iNaturalist news posting, with encouragement to go answer what iNaturalist has done for your nature knowledge. I don't have a forum account yet but it has been an amazing ride so far and I'm expecting it will only get more fun from here. :) I've already had wonderful people teach me wild things about fungi/lichen, actually go investigate weird fungi I found even, help me find a microphone for recording birds more productively, explain really elaborate things about pretty insects I've found, save some of my really obscure observations into project databases to help find identifiers for them, and not to mention turn a huge part of my 1229 observations so far into SCIENCE, which is incredibly motivating! PPS. Speaking of wonderful people and fungi, I have an observation I took a picture of because I thought it looked funny, thought it was completely impossible to actually identify as anything whatsoever, then someone came and taught me about a type of fungus that grows tentacles like that. [https://inaturalist.laji.fi/observations/174231023](https://inaturalist.laji.fi/observations/174231023) (Ok, scientists call them rhizomorphs. I say they are tentacles with a fancy name.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://inaturalist.laji.fi/observations/174231023)",
+      "https://inaturalist.laji.fi/observations/174231023",
+      "https://www.inaturalist.laji.fi/observations/174231023",
+      "https://www.inaturalist.laji.fi/observations/174231023)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "merlin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T05:11:29.141+03:00",
+    "updated": "2024-07-19T05:11:29.141+03:00"
+  },
+  {
+    "uuid": "5e7e827c0f361ecc5626d9ba9cff6bfe72e3abec",
+    "url": "http://www.taiwan.cn/local/dfkx/202503/t20250313_12689769.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "黄晓迪",
+    "published": "2025-03-13T01:10:00Z",
+    "title": "榕荫连两岸 春风渡福马--福马\"小三通\"航线首植\"同心榕\"_地方快讯_中国台湾网",
+    "text": "中国台湾网3月13日讯 三月春风暖，绿意正当时。3月12日，福州出入境边防检查站联合马尾区台办、口岸联检单位、船舶代理公司、台胞及相关企业代表等共同开展“共植闽台一脉榕荫，共筑两岸融合愿景”植树节主题活动。\n植树活动现场。（中国台湾网发）\n　　活动现场，各单位代表分工协作，挥锹挖土、扶苗定位、填土固基，各个环节衔接有序。在大家的共同努力下，福马“小三通”航线的第一棵“同心榕”正式扎根。共植一脉榕荫，不仅是践行“绿水青山就是金山银山”的理念，更是各方共守口岸，携手护航福马“小三通”的生动写照。\n活动合影。（中国台湾网发）\n　　福州出入境边防检查站相关领导介绍，此次活动选种榕树，不仅是因为榕树既是福州市树也是福建省树，更是因为要学习“榕树精神”：独木成林、坚韧不拔、造福一方。同时也希望这棵“同心榕”，可以成为福马“小三通”连接海峡亲情、共绘发展蓝图的新地标，为闽台往来旅客增添一抹旅途中的绿意。（中国台湾网、福州出入境边防检查站联合报道）\n[责任编辑：黄晓迪]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->conservation",
+      "Environment->nature",
+      "Environment->sustainability",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->communities",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:19:21.101+02:00",
+    "updated": "2025-03-13T03:19:21.101+02:00"
+  }
+]

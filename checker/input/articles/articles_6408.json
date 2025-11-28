@@ -1,0 +1,630 @@
+[
+  {
+    "uuid": "0cf0d20ae54344eb312af7d68f2550e04dcc7fde",
+    "url": "https://www.stheadline.com/breaking-news/3410569/%E5%85%83%E6%9C%97%E5%A4%A7%E6%A3%A0%E9%99%B7%E5%B1%B1%E7%81%AB-%E5%8C%97%E9%A2%A8%E6%AE%BA%E5%88%B0%E7%81%AB%E4%B9%98%E9%A2%A8%E5%8B%A2-%E6%9C%89%E5%B1%85%E6%B0%91%E7%A8%B1%E8%B6%8A%E7%87%92%E8%B6%8A%E9%AB%98",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "元朗大棠陷山火 北風殺到火乘風勢 有居民稱「越燒越高」",
+    "published": "2024-12-13T15:02:00Z",
+    "title": "元朗大棠陷山火 北風殺到火乘風勢 有居民稱「越燒越高」",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 我要讚佢 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 港聞 突發 元朗大棠陷山火 北風殺到火乘風勢 有居民稱「越燒越高」 突發 更新時間：23:02 2024-12-13\n發佈時間：23:02 2024-12-13 字體大小 元朗大棠近大棠騎術學校一帶山頭，今日（12月13日）晚上8時59分發生山火，消防處接報趕至滅火。網上圖片所見火勢離遠清晰可見，有當地居民甚至稱「越燒越高」。消防處呼籲當區市民受到隨風飄散的煙霧和異味影響，可關閉門窗及保持鎮定。\n天文台晚上10時45分表示，現時影響廣東的乾燥東北季候風正逐漸增強。預測今晚及明日（12月14日）天氣乾燥，吹和緩至清勁北風，離岸及高地間中吹強風。\n有當地居民稱火勢「越燒越高」。FB：錦上路之友 ↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T18:10:41.983+02:00",
+    "updated": "2024-12-13T18:10:41.983+02:00"
+  },
+  {
+    "uuid": "ef3ebcb43ffc217e38e2554b9f5758731f3ca8ad",
+    "url": "https://www.lokmattimes.com/national/mp-cold-wave-intensifies-in-most-parts-school-timings-rescheduled-in-several-districts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/author/ians/",
+    "published": "2024-12-13T03:09:00Z",
+    "title": "MP: Cold wave intensifies in most parts; school timings rescheduled in several districts",
+    "text": "MP: Cold wave intensifies in most parts; school timings rescheduled in several districts\nBy [IANS](/author/ians/) | Published: December 13, 2024 11:09 AM2024-12-13T11:09:01+5:302024-12-13T11:10:04+5:30\nBhopal, Dec 13 Bone-chilling cold with icy winds continues in Madhya Pradesh as night temperatures in several districts ...\nBhopal, Dec 13 Bone-chilling cold with icy winds continues in Madhya Pradesh as night temperatures in several districts dropped below 5 degrees Celsius on Thursday.\nPachmarhi, the only hill station in the state remained coldest at a minimum of 3.4 degrees Celsius, while the night temperatures in Raisen, Rajgarh and Umariya districts also remained between 4.4 and 4.8 degrees Celsius.\nSimilarly, the night temperature in the capital city of Bhopal remained at 6.8 degrees Celsius for the third consecutive day. Whereas, the minimum temperature in Indore was 10 degree Celsius on Thursday night.\nDue to extreme cold, school timing in several districts, including Bhopal and Raisen were rescheduled at 9 a.m. against 7:30 a.m. on Thursday.\nThe icy winds that have impacted Gwalior-Chambal and Malwa-Nimar regions most have also reached Bhopal and other adjoining districts on Friday morning. Despite clear skies, people are experiencing a tough time.\nIcy winds have also prompted zoo authorities to step up with protective measures for birds and other wild animals.\nUttam Yadav, in charge of the Zoological garden in Indore, said the department has started putting green nets in cages for birds and lamps are also being placed to protect them from cold.\nThe Meteorological Department has predicted a cold wave in Jabalpur, Niwari, Tikamgarh, Satna, Panna, Chhatarpur, Rewa, Umariya, Bhopal, Rajgarh, Shajapur, Sehore, Sheopur, Neemach, Vidisha and several other districts on Friday.\nUsually, cold waves are experienced in the last week of December, but the cold has increased due to snowfall in Jammu and Kashmir, Himachal Pradesh and Ladakh. There may be a drop in day and night temperature during the next 48 hours.\nAccording to IMD Bhopal’s senior meteorologist Divya E. Surendran, two factors are contributing to the extreme cold in Madhya Pradesh at present.\nFirstly, the high-speed winds at an altitude of 12.6 km in northwest India are bringing cold air to Madhya Pradesh. If these winds pick up speed or lower in altitude, the cold will intensify.\nSecond, a western disturbance over northern Pakistan, along with a cyclonic circulation, is causing snow to melt and cold winds to blow into the region.\nDisclaimer: This post has been auto-published from an agency feed without any modifications to the text and has not been reviewed by an editor\n[Open in app](https://www.lokmattimes.com/install_app.htm?utm_source=www.lokmattimes.com&utm_medium=open_in_app&launch_url=https://www.lokmattimes.com/national/mp-cold-wave-intensifies-in-most-parts-school-timings-rescheduled-in-several-districts/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Madhya Pradesh",
+          "sentiment": "none"
+        },
+        {
+          "name": "Umariya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T07:56:12.068+02:00",
+    "updated": "2024-12-13T07:56:12.068+02:00"
+  },
+  {
+    "uuid": "80af9dd766c92929422f606e73f05453ca67fba0",
+    "url": "https://www.tennessean.com/story/news/politics/elections/2024/03/14/tennessee-senator-london-lamar-new-parent-politics/72979253007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", The Tennessean",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "Tennessee senator London Lamar makes case for new parents in politics",
+    "text": "She is the first Tennessee state senator to give birth while serving in the legislature and a rarity in American politics where young mothers are underrepresented in elected office. In the Tennessee General Assembly, lawmakers will often gather papers, perhaps a briefcase and a coffee, before ambling up to the Senate or House chamber ahead of a floor session. In the Senate Minority Caucus chair’s office, Sen. London Lamar gathers bags. Multiple bags. Bags stuffed to the gills with the accouterments of infancy and motherhood — a pacifier, gripe water, a change of clothes, extra wipes and diapers. A gray backpack to sling over her shoulder. A bag or two stuffed into the undercarriage of a stroller. She juggles the bags like she juggles the roles in her life as a state senator, Democratic caucus chair, regional director at a national education nonprofit and now mother to Nylinn, her 7-month-old son. Lamar, D-Memphis, is the first lawmaker to give birth while actively serving in the Tennessee Senate, and the first state lawmaker in decades to give birth while in office. At 33, she is the youngest lawmaker in the upper chamber and, even as cultural and political norms shift, a rarity in American politics where women overall are underrepresented in elected office, with mothers of young children even further marginalized. “I love it, but it’s really, really hard,” Lamar said. “People get to see me go through this process and struggle in real time, and a lot of women have gone through these struggles behind closed doors at home.” “I’m in the public eye, doing this work and showing up here four days a week with my son,” she said. A single mother, Lamar has balanced her first full legislative session since giving birth with family help, but Nylinn also makes frequent trips to the Capitol often with his mother, earning the affectionate nickname of “Baby Senator” from fellow lawmakers and staff. Lamar has cradled Nylinn in her arms while passing bills out of committee, and he frequently naps in his stroller behind her desk on the Senate floor. Though record numbers of American women have been elected to office in recent political cycles, female representation in Tennessee remains among the lowest in the nation and has actually decreased from record highs in the early aughts. Women now makeup just over 15% of the General Assembly , less than half the national average and 49th in the country, ranked ahead of only West Virginia. In the Senate, there are eight women — five Democrats and three Republicans. It’s an underrepresentation that stands in stark contrast to Tennessee political participation, as Tennessee women consistently register to vote and cast ballots at higher rates than men . Meanwhile, Tennessee mothers have spearheaded and reshaped legislative advocacy in the state in recent years. Yet, female lawmakers raising young children remain an anomaly in the General Assembly. The representation is vital, lawmakers and political experts say, to both increase the pipeline of women in politics and bring topics to the fore that have more traditionally been relegated as “women’s issues.” “As women are in these spaces that they have not been in before, as women with younger kids are in these spaces, they’re raising questions just by being there that point to the challenges of serving with young children,” said Jean Sinzdak, associate director for the Center for American Women and Politics at Rutgers University. Lamar has frequently championed child care issues alongside colleague Sen. Charlane Oliver, D-Nashville, who has three children aged 4, 12 and 13. As Oliver notes, the two are in a “triple minority” — young, Black, and women in elected office — within a system that historically has not supported a framework to help women succeed. “I’m using those as superpowers because that’s what makes me unique in this building,” Oliver said. While motherhood has not changed Lamar’s policy priorities, it has sharpened them, bringing a new urgency and fierceness to her support for long-championed causes such as maternal health issues, pre-K expansion and lowering prescription drug costs. “I hope when people see me, it encourages more women like me to run for office because it is possible,” Lamar said. “I’m doing it, right? It isn’t easy, but I’m doing it, and I think that we need more young women with children in office to bring these issues to light.” The double standard How does she do it all? The question is, in and of itself, a double standard. Male candidates and legislators are far less likely to be asked how they juggle their legislative position outside career and family life, but things are changing slowly. In the U.S. Congress, a new group emerged last year: the Congressional Dads Caucus, created by Rep. Jimmy Gonzalez of California, seen in the House gallery—and C-SPAN—with his then 4-month-old son, Hodge, strapped to his chest while waiting to vote for a new House Speaker back in January 2023. The caucus is a group of about 20 Democrats, men and women, working to promote paid medical and family leave and expanded child tax credits. While at least ten women have given birth while serving in Congress, U.S. Sen. Tammy Duckworth of Illinois made history as the first senator to give birth to her second daughter, Maile Pearl Bowlsbey, while in office in 2018. (The senator gave birth to her first daughter, Abigail, in 2014 as a member of the House of Representatives.) Though legislator ages have historically skewed older, often when both men and women have established careers that allow flexibility for part-time legislative work, men have long held public office with young children at home. In fact, a wife and kids at home were the markers of stability and trustworthiness, a campaign asset, said Sinzdak. But, even as the daily tasks of child care and family life have inched toward equity, women are still far and away the primary caregivers in American families, particularly during children’s earliest year s, and the responsibility that conveyed stability for a male politician was regularly interpreted as a weakness for women. “The traditional advice campaign operatives gave to women would be, ‘Don’t highlight your children,’ in case voters wonder why you aren’t home to take care of them,” Sinzdak said. “It was common for male candidates to have campaign flyers with the whole family on it, but women with younger kids might not emphasize that part of their background.” It is a question Lamar wrestles with. On a recent Monday ahead of a Senate floor session, she squeezed in an interview in her office with Nylinn, sporting a black-and-white buffalo check button-down, resting in her lap as he was beset by hiccups. He later curled a fist into her hair, which Lamar gently detangled while speaking about the shift motherhood has taken on her political career. Nylinn is already well-accustomed to legislative meetings, with Lamar joking he was taking political meetings in the womb, but even he has his limit with a reporter’s questions. As he began to get fussy, Lamar began pacing her office to soothe him without missing a beat. “Now, this is what taking a meeting with Senator Lamar looks like,” she said wryly. Like many part-time state lawmakers, Lamar drives to Nashville during the legislative session. During this time, lawmakers often stay in local apartments to attend Capitol meetings between Monday and Thursday. Her mom helps out, but Lamar is loath to leave the baby three hours away in Memphis. Child care prices in Nashville were an ugly shock. Lamar acknowledged the “privilege” of being a state lawmaker with the flexibility to bring him to her office, committee meetings and floor sessions. Everybody “loves a baby,” which is evidenced by the smiles Nylinn elicits from passers-by when his mom walks him through the legislative tunnel connecting the Cordell Hull office building to the Capitol. “As privileged as I am, he’s with me also because I can’t afford day care,” Lamar said, though she’s already doing the numbers crunch for when Nylinn is a mobile toddler and not as easily corralled in meetings. Child care costs remain a large impediment for women running for office, experts say. Vote Mama, a left-leaning foundation studying gender equity and the political participation of mothers in the U.S., has tracked a rise in legislation allowing the use of campaign funds for child care. Thirty states now have similar laws. “This is the first time that anyone has looked at caregiving as a point of identity in terms of legislatures,” said Liuba Grechen Shirley, Vote Mama CEO. Shirley was the first candidate to receive federal approval to spend campaign funds on child care during a 2018 New York congressional campaign. Vote Mama tracked a more than 2,000% increase in state and local usage of campaign funds for child care between 2018 and 2022. “It’s a small structural change, but it completely transforms the landscape,” she said. “Seventy percent of the funds used at state legislatures were used by women of color.” Running for office in 2022 wasn’t on Oliver’s bingo card, but the progressive advocate in Nashville joined a crowded Democratic primary after the longtime incumbent stepped down and she was encouraged to run. She was the only woman in the primary, an “isolating” time for Oliver as she juggled the schedules of her three children and a first-time political campaign, but she felt she needed to step up to provide the best representation for her Nashville district. Now, by the time she arrives at the Capitol every day for an 8:30 a.m. floor session or committee meeting, she’s shuttled the kids to three different schools after her husband, a first responder, leaves for his early morning shift. Child care issues were at the top of Oliver’s priority list for her first session in 2023, when she attempted to pass legislation to codify campaign funds for child care expenses. The bill led to the ethics ruling clarifying Tennessee law, which already allows for it, a major win for Oliver. “We were able to get clarity that that is an allowable expense, being able to raise those funds not only for yourself as the candidate but for your campaign team,” Oliver said. “That’s gonna be a game changer.” Policy impacts At a weekly Democratic news conference in February, Nylinn cooed inside his stroller as his mom decried the recent shooting at a Kansas City Super Bowl celebration parade. As he began to cough, Sen. Raumesh Akbari, D-Memphis, snuck away from the line of Democratic lawmakers to pull him out of his stroller. Lamar soon pivoted to discuss her plan to expand Medicaid to fund gun violence prevention strategies as Nylinn looked on, perched on the knee of a caucus staffer. “I will say, since having him, my work is more meaningful,” Lamar said. “I had issues I knew were important, and I fought hard for those issues. But now I’m fighting because everything I vote on literally impacts him.” Nylinn has reiterated for Lamar the personal is political, though her journey to motherhood has been at the forefront of her policy for years. Lamar has publicly shared details of a previous, near-fatal pregnancy that ended in miscarriage. While pregnant with Nylinn last spring, Lamar pushed for broader exceptions to Tennessee’s near-total abortion ban, concerned expectant mothers would be forced to reach the brink of death before accessing medical care. This year, Lamar is carrying a bill that would create a board to review maternal health data and make state health policy recommendations. The legislation is expected to get a full Senate vote this month. Oliver this year backed a comprehensive child care policy slate, in part driven by concerns raised last fall over an impending funding “cliff” for day cares. “I just personally believe people who are directly impacted by problem are best at addressing the solution. As a working mother who actively is paying for daycare, I feel the sting of that every single week. I understand how it works,” Oliver said. More: Tennessee child care providers brace for funding 'cliff' that could leave parents with even fewer options Oliver has framed child care concerns as a “workforce development” issue, not just a mother’s or family issue. “Every time I’d talk about paid leave or child care, someone would say, ‘Ignore the women’s issues and stick to the bread and butter issues,’” Grechen Shirley said. “It’s the most basic bread and butter issue. It’s an absolute economic issue that people don’t focus on. The more moms who talk about, and the more we talk about the economic implications, the more people start to listen.” With a Republican supermajority in Tennessee, though, Democrats are fighting an uphill battle to often get their legislation heard in committee, let alone make it to a full chamber vote. Oliver’s bill to expand pre-K availability in the state, co-sponsored by Rep. Aftyn Behn, D-Nashville, failed to advance through the Senate Education Committee on March 13. “We miss out on the ability to connect the intersection between giving birth, having the choice, and then having the supports such as child care, paid family leave, living wages, and health care,” when mothers of young children are underrepresented in elected office, Oliver said. “All of those intersect and are issues that don’t get addressed up here. It’s economic justice, it puts people on a path to start their life in a way that’s thriving. We’re not having those conversations up here.” Change is slow in American politics, Sinzdak said, but the U.S. is seeing things shift “generationally” as more mothers with young children run for office. In Middle Tennessee, a handful of first-time political candidates and mothers are currently vying for legislative seats. Most are Democrats, which Sinzdak notes is common, a combination of party platform affiliation and preexisting national efforts on the left to better recruit and fund female candidates. And, Sinzdak notes, “the role model effect is a real thing, and it does have an impact.” “When we see more and more diverse groups of elected officials serving, it changes voter perception of what an elected official looks like,” Sinzdak said. “If she can do it, I can do it, too.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.usatoday.com/story/news/politics/onpolitics/2018/04/09/sen-tammy-duckworth-becomes-first-senator-give-birth-while-office/500078002/",
+      "https://www.votemamafoundation.org/reports/cfcc2024",
+      "https://cawp.rutgers.edu/facts/state-state-information/tennessee",
+      "https://statusofwomendata.org/explore-the-data/state-data/tennessee/",
+      "https://www.usnews.com/news/health-news/articles/2023-05-11/gender-reveals-data-shows-disparities-in-child-care-roles",
+      "https://statusofwomendata.org/explore-the-data/state-data/tennessee",
+      "https://www.cawp.rutgers.edu/facts/state-state-information/tennessee",
+      "https://usnews.com/news/health-news/articles/2023-05-11/gender-reveals-data-shows-disparities-in-child-care-roles",
+      "https://www.usatoday.com/story/news/politics/onpolitics/2018/04/09/sen-tammy-duckworth-becomes-first-senator-give-birth-while-office/500078002",
+      "https://usatoday.com/story/news/politics/onpolitics/2018/04/09/sen-tammy-duckworth-becomes-first-senator-give-birth-while-office/500078002/",
+      "https://www.statusofwomendata.org/explore-the-data/state-data/tennessee/",
+      "https://votemamafoundation.org/reports/cfcc2024"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "london lamar",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lamar",
+          "sentiment": "none"
+        },
+        {
+          "name": "nylinn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "senate minority caucus",
+          "sentiment": "none"
+        },
+        {
+          "name": "d",
+          "sentiment": "none"
+        },
+        {
+          "name": "general assembly",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tennessee",
+          "sentiment": "none"
+        },
+        {
+          "name": "memphis",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:05:47.850+02:00",
+    "updated": "2024-03-15T01:05:47.850+02:00"
+  },
+  {
+    "uuid": "8e0ec4bab18cdf9a229dac2f6097ceb098271373",
+    "url": "https://www.meneame.net/story/atentado-islamista-durante-misa-navidad-deja-mas-160-cristianos/c046",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mazepin",
+    "published": "2023-12-28T23:01:00Z",
+    "title": "#46 Un atentado islamista durante la misa de Navidad deja más de 160 cristianos asesinados en Nigeria",
+    "text": "Portada\nmis comunidades\notras secciones\n[#0](c0#c-0) Ese titular es tendencioso y confuso, y probablemente seas consciente. El ataque no fue durante una misa, como quiere dar a entender, si no que se atacó una serie de aldeas de manera coordinada. Y además, el factor religioso no es el único relevante, y tampoco está plenamente confirmado.\nHay fuentes mucho más serias, informadas y rigurosas que la que has mandado...\n[#10](c10#c-10) Resulta difícil creer que puedan existir fuentes más serias leyendo maravillas cosas como:\nLa reciente matanza sucedida en Navidad confirma lo que anuncian las estadísticas: el cristianismo es la religión más perseguida en el mundo. Y no se limita solamente a esta región de África, sino que ocurre en Asia y Medio Oriente. Hace poco a cristianos perseguidos por el régimen comunista chino se les negó asilo en la España de Pedro Sánchez y el PSOE. Solo una lo pudo obtener porque su salud le impedía subir al avión donde la deportaban.\nTodo ello, mientras las pateras siguen llegando a España, posiblemente con insurgentes tan radicales como los que masacran a los cristianos en Nigeria y sin el amparo para los cristianos que huyen de estos.\n[#9](c9#c-9) bueno. Entérate quién financio al valeroso pueblo de Afganistán y sus valerosos guerreros los muyahidines( les dedicaron Rambo iii y todo), o quien armó y financio a Irak, a estos que ves ahora este terrible atentado de la noticia, quien los organizo y financió, ... Después nos vuelves a contar estás cosas. Y si sigues pensando que está irán detrás de todo pq es omnipresente vale. Si ves q algún otro estado puede estar implicado, fijate quién lo arma y financia. Un saludo.\n[#13](c13#c-13) lo se y lo he criticado 100 millones de veces, dinero de EEUU y Arabia Saudita y Pakistán.\nPero eso no les importa para llamarlos partisanos, \"que en Europa les habría llamado partisanos y que habrían luchado contra los nazis\"\nEso es mierda, el fanatismo religioso no atiende a razones.\nAl menos tu comentario muestra algo de vergüenza de esa gente... Algo es algo.\n[#20](c20#c-20) pues mira otra vez la captura que mandas, pq es exactamente lo que estoy diciendo. Afganistán era un país más adelantado que España y las mujeres iban sin velo. El tío Sam puso a la derecha religiosa conservadora, o lo que viene a ser los fascistas de toda la vida, pero en musulmán, a levantarse en armas... Cómo en Irak, libia, Egipto, Ucrania... Mismo proceder en todos lados, mismo resultado en todos lados. Países de mierda con gobiernos autoritarios y la población paupérrima y reprimida. Eso es el tío Sam.\n[#30](c30#c-30) Claro, Afganistan era un paraiso...\nhttps://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992))\nTienes una vision de la historia bastante distorsionada. China tambien dio armas a los talibanes para luchar contra la URSS, entre otros tantos paises....\nClaaaaaaro, todo culpa del tio sam...\n[#31](c31#c-31) entérate lo que era Afganistán antes del 92.\nEra un estado laico. En el año 90 la mayoría del profesorado eran mujeres, por ejemplo, que estaba integrada en el mundo laboral.\nY la revolución hostigada por el tío Sam puso a los integristas islámicos. Los valerosos muyahidines, como dijeron en Rambo 3, que les dedicaron.\nInfórmate tú un poquito, antes de hablar sin saber.\n[#32](c32#c-32) tengo entendido dos cosas : Rambo III estaba dedicada a “the galant people of Afghanistan” , lo otro es un bulo . Pero la info en internet se contradice en todas partes acerca de esto , asi que no sé.\nSegundo:\nLo de que Afghanistan era laico , mujeres sin velo etc . se ha mostrado erróneo, solo era en Khabul . En las zonas agrarias (el resto del país) era anticuado respecto a esto .\nPero es un lío y al final no sabes lo que es verdad o no , internet está lleno de información contradictoria .\nMira, igual en que en Gaza, pero estos no lo llaman masacre.\nhttps://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html\nhttps://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/\n[#9](c9#c-9) ¿En qué parte de su comentario dice eso? \"no son culpables de sus actos\" y toda la mierda que sigue. O qué parte de su comentario te ha llevado a esa conclusión, si es que necesitas algo más de margen.\nAunque es posible que esa respuesta no tenga nada que ver con su comentario y simplemente sea una patética y lamentable pataleta porque no te ha gustado su respuesta.\n[#17](c17#c-17) \"por no sé que historia\".\n¿O por \"no quiero saber\"? Te dan la oportunidad de aprender, no la desperdicies.\n[#19](c19#c-19) tienes algún comentario de crítica o de repudio a esta atrocidad? O vienes aquí a adoctrinar me sobre lo malo que es eeuu?\nEs una noticia de 160 muertos a manos de yihadistas por ser infieles.\nEntre tu y yo? Es duro entrar aquí a un noticia tan trágica y ponerte a discutir sobre si la culpa es o no es de occidente o ya estás curado de eso?\nEntras aquí a recalcar que \"no quiero saber\" tu verdad... Que ascazo.\n[#21](c21#c-21) Eres tú quien ha introducido este tema. Igual esperabas otro tipo de respuestas y ahora te arrepientes de haberte puesto a chapotear con intención de salpicar a los demás.\n[#23](c23#c-23) en todo momento denunció:\n1* las atrocidades de grupos islamistas radicales, no como tantos aquí que aprendieron que eran los talibanes hace 2 meses y ahora los llaman partisanos. Asesinos es su nombre, como es el del gobierno de irán o Arabia Saudita ente otros.\n2* crítico a los que claramente ocultan y defienden a estos asesinos bajo un pretexto de victimismo en Palestina.\nUn terrorista es un terrorista y lo es con 0 muertos en Palestina y con un millón de muertos.\n[#27](c27#c-27) 1a parte todo bien. Segunda, ya no tanto ¿Cómo que terrorista se es y punto?\n¿Crees de verdad que si a esta gente nadie estuviera tocándole los huevos en su casa harían lo mismo?\nIr a la raíz del problema, a las causas, e intentar desenredar un tema complejo no es defender a nadie.\n[#14](c14#c-14) Yo no apoyo yihadistas, eso es Israel que apoya a DAESH\nYo soy de izquierdas, no apoyo a la extrema derecha\nNo es muy dificil de entender, ánimo\n[#18](c18#c-18) otro comentario más de \"la culpa es de todos menos de la yihad y los países de mierda donde reina la sharia\"\nHoy te estás coronado máquina.\nQue lastima que estes aquí criticando a occidente para tapar mierdas de asesinos fanatizados y no allí al revés como los verdaderos mártires que si luchan por denunciar atrocidades de países islámicos, ahí veríamos lo valiente que eres con tu reinvidicacion de sofa y tu bandera nazi con la israelí en la foto de perfil.\n[#25](c25#c-25) Financiasteis a los talibanes para combatir a los rusos y ahora estamos pagando los platos\nFinanciar ISIS para destruir oriente medio\nFinanciar siempre lo peor para seguir con los genocidios, apartheid, limpieza étnica...\n[#26](c26#c-26) \"Financiasteis a los talibanes\"\nyo no financie a nadie, manipulador de pacotilla. Típico de esos de la bandera de tu perfil.\nMuestras muchos decíamos que la primavera árabe está plagado de fanáticos religiosos que apoyaban las reveliones, tantos otros decían que \"callate, hacen lo que deberíamos estar haciendo en Europa, es una revolución\". Ahora a gente como tú, si tu, que estás criticando a los críticos con el yihadismo de hamas se le avisa que apoyar grupos terroristas que hacen matanzas públicas es una barbaridad y que esto les embalentona y atrae a más fanáticos y que será la perdición de Palestina no escucháis. Dentro de 10 años saldrán muchos de Europa que han visto gritos de Allahu adbak y tontos en Internet diciendo que el único error de hamas es no haber actuado antes... Luego habrán chavales que pensarán que están siendo héroes en un Isis o unos talibanes dando su vida por puercos que vienen a cuerpo de rey con 4 mujeres y esclavas sexuales.\n[#18](c18#c-18) para tí seguro que extrema derecha es alguien de izquierdas que no compre el pack correntista de turno.\nEstos son los que en Francia, España e Italia eran llamados partisanos por que no se que mierdas de las circunstancias? O estos los podemos llamar terroristas?\nLa yihad se lleva a cabo con muerte de infieles y el miedo a serlo.\nNo se trata de liberar nada, cada ataque sirve para atraer radicales y causar estragos en los no creyetes.\nQuien apoya a yihadistas es tan asesino como ellos.\n[#3](c3#c-3) Estos son los que llevan EEUU y UK financiando más de un siglo\nA lo más fundamentalista y extremista\nAquí cuando iban a la casa blanca a recibir paguitas\nhttps://es.m.wikipedia.org/wiki/Archivo:Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg\n[#8](c8#c-8) bajo ninguna circunstancia son culpables de sus actos, siempre es otro, la culpa siempre será de EEUU, de UK, de la sociedad, de la Bernarda, pero nunca ellos y su fanatismo religioso serán los culpables para vosotros.\nVuestra fijación por defender o tapar cada asesino terrorista con escusas es repugnante y os rebaja como... Voy a decir seres humanos.\nEs decir para vosotros el fanatismo islámico viene de un supuesto apoyo de EEUU a hamas y no de irán...\nBoko haram es un paso de baile radicalizado por EEUU.\nLos talibanes son partisanos radicalizados por EEUU.\nLos hermanos musulmanes se radicalizado jugando call of duty.\nPero jamás lobbys, poderes y dinero de países radicales apoyan a estos grupos de mierda.\nAsí es vuestro mundo.\n[#12](c12#c-12) pero si tu pecas de lo mismo.\nA quien coño quieres dar lecciones?\nEEUU: apoyo yihadistas para quitarse de en medio a un enemigo común.\nTu: apoyas yihadistas para quitarte de en medio un enemigo común.\nEso que tienes ahí llamando nazis es la bandera de Israel no? Imagino que no eres simpatizante, pues eso.\nLa única deferencia entre EEUU y vosotros es que a EEUU sólo le movía la política, a vosotros os pierde el fanatismo.\nSabes lo que más me revienta de vosotros? Que no vais a ser vosotros quien caiga en esa oscuridad por vuestra culpa.\nHabrá niños de 15 que se sentirán libertadores, partisanos, defensores poniendo bombas para un estado islámico por vuestra culpa y vuestros comentarios.\n[#8](c8#c-8) Reagan murió hace 20 años y dejó la presidencia hace 35... De verdad tu argumento más solido es usar una foto de hace 40 años? Alguna prueba que adjuntar a la afirmación de la financiación de EEUU y UK a los culpables de este atentado?\nAcaso guarda alguna relación Reagan reuniéndose con los muyahidines hace 40 años con este atentado en Nigeria y yo no me he enterado?\nAquí cuando iban a la casa blanca a recibir paguitas\nEstos terroristas de Nigeria? Un pelín racista por tu parte hacer un batiburrillo basándote únicamente en que son integristas musulmanes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992",
+      "https://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia",
+      "https://lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:09:56.406+02:00",
+    "updated": "2023-12-29T02:09:56.406+02:00"
+  },
+  {
+    "uuid": "cf41fe4c7884540d2c0befad93e7f691b760e753",
+    "url": "https://www.meneame.net/story/como-perder-alcaldia-pamplona-reputacion-sola-frase/c025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nebuchanezzar",
+    "published": "2023-12-28T21:19:00Z",
+    "title": "#25 Cómo perder la alcaldía de Pamplona y la reputación en una sola frase",
+    "text": "[Osdransky](/user/Osdransky)a [eldiario.es](/go/link/3891544)\nLa plaza consistorial de Pamplona parece sanfermines en esta moción pero el PP sigue sin entender absolutamente nada!!!!\nIdos a tomar por culo!!!!!!!\n[#1](c1#c-1) llevan así desde la recogida de firmas para derogar el estatut catalán. Pero que sigan, que sigan.\n[#10](c10#c-10) y eso que allí ponen todos los impedimentos posibles para que la gente no vote (sobre todo los grupos poblacionales que no suelen votar a los republicanos).\n[#1](c1#c-1) Positivo por el elefante uso del imperativo del verbo ir con el enclético \"os\". Aunque la real academia admite desde hace años \"iros\" y todos recordamos con cariño aquel \"si me queréis, irse\" de la gran Lola no es menos cierto que \"Idos a tomar por culo\" destila elegancia, clasicismo, ritmo, gracia y donaire en cada sílaba.\n[#9](c9#c-9) No hay ningún clasismo, todo lo contrario, está reconociendo la dureza de ese trabajo y el mérito que tiene hacerlo.\nEs como si dijera \"preferiría trabajar en la mina\". Se refiere a la dureza del trabajo.\nNo va a decir \"preferiría trabajar como CEO de un eléctrica\", lo cual no suena a trabajo físico duro.\nNingún clasismo, pero lo dice elpanfleto.es, manipulando, y os lo tragáis todo sin masticar. Qué pena. Un poquito de capacidad crítica no os vendría mal, deberíais intentarlo, aunque os cueste, debido a que hay que pensar y eso no es fácil para vosotros. Es más fácil formar parte del rebaño.\nCreo que les ha retratado muy bien. Estoy un poco cansado de eldiario pero este artículo es bastante adecuado.\n[#0](c0#c-0) gracias\n[#2](c2#c-2) Tranquilo, tienen todo el escudo mediático. No lo verás en el telediario de A3, salvo que esa misma frase la hubiera dicho una alcaldesa del PSOE o de SUMAR.\n[#5](c5#c-5) Al hilo de lo que dices, hoy he visto las noticias de la noche de A·, con Vicente Vallés, y, en algún momento creía que le iba a dar un infarto: los independentistas, Bildu, traición del PSOE, traición de Sánchez y así así... Uno, si sigue escuchando cree que va a llegar el final de la democracia y el apocalipsis, como mínimo.\n[#6](c6#c-6) es indecente lo de ese señor... verlo vomitar bilis de esa manera, da muchisima grima, no se como no le aconseja alguien que se modere un poco\nA mí el que me hace gracia es Feijó diciendo que el PSOE ya no es un partido constitucionalista.\nPues no sé, creo que debió quedarse dormido en el artículo 1 porque en el 140 ya te dice de forma general cómo se eligen los concejales y como son éstos los que eligen a un alcalde.\nEn fin, que habrá quien le compre el discurso, pero no hay por donde cogerlo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:10.447+02:00",
+    "updated": "2023-12-29T00:26:10.447+02:00"
+  },
+  {
+    "uuid": "16441fe0eb32b723a4fcf8246ff61f99aef83d6b",
+    "url": "https://www.iphoneincanada.ca/2024/10/17/google-pixel-9-pro-hands-on-whats-new",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Austin Blake",
+    "published": "2024-10-17T22:35:00Z",
+    "title": "Google Pixel 9 Pro Hands-On: What’s New",
+    "text": "We recently received the [6.3-inch Pixel 9 Pro from Google](https://www.iphoneincanada.ca/2024/08/13/google-pixel-9-pro-pro-xl-pro-fold/), and after spending some hands-on time with it, it’s clear that this is just another member of this year’s Pixel family that is making the case for the best choice for Android users. Let’s dive into what’s new for the Pixel 9 Pro this year. Display & Design The 6.3-inch OLED display is one of the brightest we’ve tested—it really shines, especially in direct sunlight. We’re talking 3,000 max nits brightness (iPhone 16 series is 2,000 max nits), which is incredibly bright. The resolution is sharp, offering QHD+ (1440 x 3120 at 495 ppi) quality with a smooth 120 Hz refresh rate. The Pixel 9 Pro feels just right in the hand—it’s not too large to manage one-handed. The Rose Quartz colour, available only in the [256GB storage option in Canada for $1,479](https://store.google.com/ca/product/pixel_9_pro?hl=en-GB), is a beautiful light creamy rose that adds a unique, stylish flair. It’s a refreshing change from the standard smartphone colours, with the matte finish adding a touch of sophistication. Power & Performance The Pixel 9 Pro is powered by Google’s new Tensor G3 chip, which is designed to optimize AI and machine learning tasks. It’s a powerhouse for everyday use, from multitasking to demanding apps and gaming. The phone also boasts 16GB of RAM, up from the 12GB in last year’s Pixel 8 Pro. Below is the Pixel 9 Pro in its matching silicone case, which is thin and offers full coverage even for the rear camera bump. Storage options start at 128GB, but as mentioned, the Rose Quartz model only comes in the 256GB version, giving you ample space for photos, videos, and apps, while there’s also a 512GB option for Hazel and Obsidian. The battery is a solid 4,700mAh (same as Pixel 9), which comfortably lasts a full day with regular use. Plus, with 30W wired fast charging and wireless charging support, you’ll spend less time tethered to a charger. Camera System Google’s Pixel phones are known for their camera performance, and the Pixel 9 Pro continues this tradition. It features a triple-camera setup with a 50MP main sensor, 48MP ultra-wide lens, and a 48MP telephoto lens offering 5x optical zoom. Night Sight, which has been refined over the years, continues to impress, producing clear, vivid photos in low light. On the front, there’s a 12MP selfie camera that handles well in various lighting conditions, and Google’s AI-powered image processing does wonders in enhancing photos with minimal effort. This front camera is wide enough for your selfies and is better than the wide angle on Apple’s iPhones. Pictures taken with the Pixel 9 Pro looked great, and photos were snapped quickly. There’s not much to say as we live in a time where all smartphone cameras are pretty darn good at the moment. Software & Features [Running on Android 14](https://www.iphoneincanada.ca/2023/10/30/google-fixing-android-14-storage-bug-pixel/), the Pixel 9 Pro offers the latest Android experience ([well, Android 15 is now rolling out](https://www.iphoneincanada.ca/2024/10/15/google-rolling-out-android-15-pixel-devices/)) with clean, fast software, free from bloat. The Pixel-exclusive features, like real-time translation, call screening, and adaptive battery management, are all enhanced by Google’s Tensor G3, making everyday tasks more seamless and efficient. One of the standout features is the phone’s advanced AI and machine learning capabilities. Google Assistant is snappier, real-time transcription is faster, and camera modes like Magic Eraser, which removes unwanted objects from photos, work effortlessly. Gemini is just so powerful on Pixel devices. The Add Me feature is so fun and easy to use, as it lets you get added to any photo, stitched in using AI. Family photos will never be the same—this time you’ll actually be a part of the picture (yes, you do matter!). Security is also a focus, with the Pixel 9 Pro featuring an under-display fingerprint sensor, along with Face Unlock, both of which are fast and reliable. Where’s our under-display fingerprint sensor for the iPhone? [Here are pictures of the Pixel 9](https://www.iphoneincanada.ca/2024/10/06/google-pixel-9-pixel-buds-pro-2-hands-on/) beside the Pixel 9 Pro. Both phones are essentially the same size, but the 9 Pro has three cameras on the back: Looking at the front it’s hard to tell which phone is which: Once you look at the sides, you’ll see a matte aluminum finish on the Pixel 9, while the Pixel 9 Pro is a polished metal frame. Both phones look pretty darn good: Final Thoughts With its super bright and crisp display, top-tier camera system, and the newest Tensor G3 chip, the Pixel 9 Pro is again one of the best Android phones to consider, since you get updates first directly from Google. The 6.3-inch version we tested is comfortable to use and incredibly bright, making it perfect for media and outdoor use. The Rose Quartz variant adds a unique, stylish touch. The phone feels well-made and premium. For anyone in the market for a premium smartphone with a powerful AI-driven experience, the Pixel 9 Pro is definitely one to consider, if you have $1,349 to spare (for starters anyways) for a premium device. You get 7 years of software updates guaranteed from Google for Pixel 9 series devices. Keep an eye out for Black Friday sales or wait six months and you’ll find these on discount ahead of next year’s models.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://store.google.com/ca/product/pixel_9_pro?hl=en-GB",
+      "https://www.store.google.com/ca/product/pixel_9_pro?hl=en-GB",
+      "https://store.google.com/ca/product/pixel_9_pro"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:32:23.896+03:00",
+    "updated": "2024-11-15T10:01:59.364+02:00"
+  },
+  {
+    "uuid": "66bcde020ea2feef3c1ec95bda0febcd67a3a155",
+    "url": "https://www.voiceofalexandria.com/news/national/in-el-salvador-a-river-without-fish-feeds-fear-of-mining/article_1da24aa2-991e-5539-abc4-311b04e0cb2a.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Marvin Recinos with Oscar Batres in San Salvador",
+    "published": "2025-03-06T01:18:00Z",
+    "title": "In El Salvador, a river without fish feeds fear of mining | National News | voiceofalexandria.com",
+    "text": "El Salvador's San Sebastian river has no fish. The runoff from a gold mine upstream, already shuttered two decades ago, has long killed them all.\nNow, residents fear the same fate for other rivers -- and the creatures and people depending on them -- after Congress, at President Nayib Bukele's request, reversed a ban on metal mining.\nBukele billed the move as a way of invigorating the Central American country's stagnant economy, but environmentalists and river-side communities fear the potential harms far outweigh any benefits.\nIn the community of Santa Rosa de Lima, a two-hour drive from the capital San Salvador, wastewater still flows directly into the San Sebastian river from a nearby hill where a gold mine operated for 100 years until 2006.\nThe site is still being illegally exploited by artisanal gold miners.\nOn a recent expedition to survey the river with a group of environmentalists, community leader Graciela Funes took a sample of the water and shook her head as she examined its unnatural copper color.\n\"We cannot allow this situation... We are human and we all need this vital liquid,\" the 67-year-old told AFP.\nIn 2016, a report by El Salvador's human rights ombudsman found that runoff from Santa Rosa de Lima's shuttered mine had \"severely impacted the quality and availability\" of water in the region.\nPeople who relied directly on the river had no option but to buy bottled water for drinking and cooking, it said.\nThe report contributed to El Salvador becoming the first country in the world, in 2017, to outlaw metal mining due to the harmful effects of chemicals such as cyanide and mercury used in the extraction process.\n- 'Pollution, poverty' - Last December, the mining ban was overturned after Bukele claimed El Salvador, a country of 6.6 million people, had \"potentially\" the largest gold deposits per square kilometer in the world.\nThe president mentioned a study -- written by unknown authors and which he did not share -- which found that mining a mere four percent of the country's gold deposits would bring in $131 billion.\nThis was equivalent to 380 percent of GDP, the president argued, and would \"change the economy of El Salvador overnight.\"\nBut activists point to the San Sebastian gold mine -- one of the most productive in Central America for much of the 20th century -- as a cautionary tale.\nThe mine was shuttered after US firm Commerce Group had its environmental license revoked over river pollution.\n\"The beneficiaries of mining here will be small groups of companies, whether national or transnational, powerful groups that will take the minerals and resources from our soil and leave behind... misfortune, pollution, poverty,\" said anti-mining activist Vidalina Morales, who joined Funes and others for the San Sebastian river analysis.\nEnvironmental defenders fear a return to metal extraction also threatens the Lempa river, which runs through several areas with mining potential and supplies water to 70 percent of the capital's inhabitants.\nWhile mining does have its supporters, including from Salvadorans who see it as a source of much-needed employment, others worry it could be a dangerous environmental gamble with paltry gains.\nFor economist Julia Martinez, it is hard to weigh the risks as \"we do not see a study that explains if that gold really exists.\"\nAnd Ricardo Navarro of the Salvadoran Center for Appropriate Technology, an environmental NGO, said gold in the country was found in small concentrations of one gram per ton of rock: \"much damage for little gold.\"\nmr-ob/fj/mar/mlr/mlm\nOriginally published on doc.afp.com , part of the BLOX Digital Content Exchange .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->sustainability",
+      "Environment->natural resources",
+      "Environment->environmental pollution",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bloxdigital.com/products_services/cen/",
+      "https://doc.afp.com",
+      "https://www.doc.afp.com",
+      "https://bloxdigital.com/products_services/cen/",
+      "https://www.bloxdigital.com/products_services/cen"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Graciela Funes",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nayib Bukele",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Congress",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T04:33:22.024+02:00",
+    "updated": "2025-03-06T04:33:22.024+02:00"
+  },
+  {
+    "uuid": "86601e8703dc2af4cd2d7867f2ad245bd6006ff1",
+    "url": "https://www.12news.com/article/news/i-would-want-someone-to-do-the-same-thing-real-estate-agent-saves-dog-from-burning-house-mesa-hero-caught-on-camera/75-063be9a8-eb50-4b00-8702-f4071a8790c3",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ": William Pitts",
+    "published": "2024-06-21T10:56:00Z",
+    "title": "Real estate agent rescues dog from burning Mesa home | 12news.com",
+    "text": "MESA, Ariz. — Nick Reeves was down the street, showing a house in a neighborhood near Guadalupe and Sossaman in Mesa when he saw smoke in the air. Smoke that quickly grew larger. \"I went closer to it,\" Reeves said. \"Then it started getting really hot.\" With his cell phone camera rolling, Nick ran down the block to find fire erupting from the garage of a home into the driveway. Another bystander was already pounding on the glass. \"The garage appeared to be open,\" he said, \"Which indicates to me that someone was either just walking out or still in the home.\" No one answered or called out when they pounded on the door and window, but Nick said he wasn't sure everyone was out. The video shows Nick running to the side of the house, climbing the fence (in a suit) and jumping into the yard on the other side. He jogs down the side yard and toward a sliding glass door. Reeves said he saw dog droppings in the yard and thought a dog might be trapped inside. He said he opened the sliding door and the dog ran out. \"Obviously, he was shaken, scared,\" Reeves said. \"The explosions you can hear in the video were very loud.\" By that time, firefighters were on scene and took care of the dog. \"Adrenaline will do some crazy things that's for sure.\" He posted the video to Instagram, where some commenters called him a hero. Reeves said the firefighters who took care of the fire were the real heroes. \"I figured, if this was my house, I would want someone to do the same thing,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nick reeves",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sossaman",
+          "sentiment": "none"
+        },
+        {
+          "name": "nick",
+          "sentiment": "none"
+        },
+        {
+          "name": "reeves",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "guadalupe",
+          "sentiment": "none"
+        },
+        {
+          "name": "mesa",
+          "sentiment": "none"
+        },
+        {
+          "name": "mesa",
+          "sentiment": "none"
+        },
+        {
+          "name": "ariz.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T04:06:39.461+03:00",
+    "updated": "2024-06-22T11:37:03.385+03:00"
+  },
+  {
+    "uuid": "ff67a027b40817ef6a02e5393f02b2e869db2fcc",
+    "url": "https://www.bradfordera.com/news/area-residents-graduate-from-jcc-programs/article_15dd9a12-c3d3-11ef-b9e6-3f18da5a9c9f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Provided",
+    "published": "2024-12-26T05:00:00Z",
+    "title": "Area residents graduate from JCC programs | News | bradfordera.com",
+    "text": "Dec 26, 2024 23 mins ago Facebook Twitter WhatsApp SMS Email Shown are some of the area residents who recently graduated from SUNY Jamestown Community College Workforce Development's Machining/CNC Operator program. Local students also graduated from JCC's Industrial Maintenance Technician and Welding Fundamentals Advanced Manufacturing programs.\nProvided Facebook Twitter WhatsApp SMS Email Print Copy article link Save",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Education->vocational education",
+      "Education->college and university",
+      "Education->students",
+      "Human Interest->graduation",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->club and association"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.sunyjcc.edu/workforce/manufacturing",
+      "https://sunyjcc.edu/workforce/manufacturing"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Christopher Jessie",
+          "sentiment": "none"
+        },
+        {
+          "name": "Scott Davenport",
+          "sentiment": "none"
+        },
+        {
+          "name": "Cameron Burdick",
+          "sentiment": "none"
+        },
+        {
+          "name": "Curtis Burnell",
+          "sentiment": "none"
+        },
+        {
+          "name": "Dario Peynado",
+          "sentiment": "none"
+        },
+        {
+          "name": "Marqus Singh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "SUNY Jamestown Community College Workforce Development",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Manufacturing Technology Institute",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Coudersport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:12:48.142+02:00",
+    "updated": "2024-12-27T03:03:05.731+02:00"
+  },
+  {
+    "uuid": "398d7e80078f6c0a48ad0803ee01a616335deb9e",
+    "url": "https://es.investing.com/news/world-news/biden-impone-sanciones-a-colonos-judios-acusados-de-violencia-en-cisjordania-2555508",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-02-01T00:00:00Z",
+    "title": "Biden impone sanciones a colonos judíos acusados de violencia en Cisjordania Por Reuters",
+    "text": "© Reuters. Foto del jueves de tropas israelíes hacen guardia cerca del lugar de un tiroteo en Hebron, Cisjordania Feb 1, 2024. REUTERS/Mussa Qawasma/ Por Steve Holland, Susan Heavey y Daphne Psaledakis\nWASHINGTON, 1 feb (Reuters) - El Gobierno de Joe Biden impuso el jueves sanciones a cuatro hombres israelíes a los que acusó de estar implicados en la violencia de los colonos en Cisjordania, señal del creciente descontento de Estados Unidos con la política del primer ministro israelí, Benjamín Netanyahu.\nBiden emitió un decreto con el que pretende castigar a los colonos israelíes en Cisjordania ocupada, donde los palestinos prevén un futuro Estado.\nEl decreto de Biden establece un sistema para imponer sanciones financieras y restricciones de visado contra individuos que se descubra que han atacado o intimidado a palestinos o se han apoderado de sus propiedades, dijo en un comunicado el asesor de seguridad nacional de la Casa Blanca, Jake Sullivan.\n\"Las acciones de hoy buscan promover la paz y la seguridad para israelíes y palestinos por igual\", añadió.\nLas cifras de Naciones Unidas muestran que los ataques diarios de colonos se han más que duplicado en los casi cuatro meses transcurridos desde el ataque de Hamás y la ofensiva de Israel a la Franja de Gaza, gobernada por el grupo militante.\nLa orden congela los activos estadounidenses de las personas afectadas y, en general, prohíbe a los estadounidenses tratar con ellas.\nBiden y otros altos funcionarios estadounidenses han advertido en repetidas ocasiones que Israel debe detener la violencia de los colonos israelíes contra los palestinos en Cisjordania.\n\"Estas acciones suponen una grave amenaza para la paz, la seguridad y la estabilidad en Cisjordania, Israel y la región de Oriente Medio, y también obstaculizan la realización, en última instancia, de un Estado palestino independiente que coexista con el Estado de Israel\", dijo uno de los altos funcionarios.\nBiden ha planteado la cuestión directamente al primer ministro israelí, Benjamin Netanyahu, según el funcionario, ya que busca un camino hacia una solución de dos Estados para Israel y los palestinos una vez que termine el conflicto de Gaza.\nEl ministro israelí de Finanzas, Bezalel Smotrich, jefe del partido de extrema derecha Sionismo Religioso, favorable a los asentamientos, se mostró desafiante en una declaración sobre el decreto de Biden:\n\"La campaña de la 'violencia de los colonos' es una mentira antisemita que los enemigos de Israel difunden con el objetivo de desprestigiar a los colonos pioneros y a la empresa de los asentamientos, y para perjudicarlos y desprestigiar así a todo el Estado de Israel\", dijo Smotrich.\n(Reporte de Steve Holland, Susan Heavey, Daphne Psaledakis y Doina Chiacu en Washington; contribución de Dan Williams en Jerusalén; edición en español de Javier López de Lérida)\nBiden impone sanciones a colonos judíos acusados de violencia en Cisjordania",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.investing.com%2Fnews%2Fworld-news%2Fbiden-impone-sanciones-a-colonos-judios-acusados-de-violencia-en-cisjordania-2555508&title=Biden+impone+sanciones+a+colonos+jud%C3%ADos+acusados+de+violencia+en+Cisjordania&summary=",
+      "https://www.facebook.com/sharer/sharer.php?app_id=179222828858436&u=https%3A%2F%2Fes.investing.com%2Fnews%2Fworld-news%2Fbiden-impone-sanciones-a-colonos-judios-acusados-de-violencia-en-cisjordania-2555508&display=popup&ref=plugin",
+      "https://invst.ly/13951h",
+      "http://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fes.investing.com%2Fnews%2Fworld-news%2Fbiden-impone-sanciones-a-colonos-judios-acusados-de-violencia-en-cisjordania-2555508&title=Biden+impone+sanciones+a+colonos+jud%C3%ADos+acusados+de+violencia+en+Cisjordania&summary=",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.invst.ly/13951h",
+      "http://www.linkedin.com/shareArticle",
+      "https://facebook.com/sharer/sharer.php?app_id=179222828858436&u=https%3A%2F%2Fes.investing.com%2Fnews%2Fworld-news%2Fbiden-impone-sanciones-a-colonos-judios-acusados-de-violencia-en-cisjordania-2555508&display=popup&ref=plugin"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:02:23.254+02:00",
+    "updated": "2024-02-02T01:02:23.254+02:00"
+  }
+]

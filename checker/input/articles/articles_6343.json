@@ -1,0 +1,396 @@
+[
+  {
+    "uuid": "c29bcf4c5c19df8d42acfb16e79a72871bf84432",
+    "url": "https://www.stheadline.com/breaking-news/3412493/%E5%85%A5%E5%86%AC%E6%9C%80%E4%BD%8E%E6%BA%AB-3%E5%B0%8F%E6%99%82%E5%85%A7%E8%87%B3%E5%B0%915%E5%AE%97%E9%95%B7%E8%80%85%E6%9A%88%E5%80%92%E7%8C%9D%E6%AD%BB",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "入冬最低溫 3小時內至少5宗長者暈倒猝死",
+    "published": "2024-12-20T02:32:00Z",
+    "title": "入冬最低溫 3小時內至少5宗長者暈倒猝死",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 我要讚佢 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 港聞 突發 入冬最低溫 3小時內至少5宗長者暈倒猝死 突發 更新時間：10:32 2024-12-20\n發佈時間：10:32 2024-12-20 字體大小 受冬季季候風影響，廣東天氣寒冷。本港方面，天文台今(20日)早上錄得最低氣溫11.9度，是入冬以來的最低紀錄，個別地區更錄得9度低溫。天氣嚴寒下，有長者疑難抵禦低溫在家出現不適需求助甚至暈倒猝死個案。由今日清晨5時許至8時許三小時內，警方至少接獲5宗長者在家或院舍暈倒後送院不治個案。\n清晨5時46分，香港仔惠福道4號一間復康中心，一名78歲女院友暈倒，院舍職員報案，救護員將她送往律敦治醫院後不治。至清晨6時09分，青山公路潭尾段新圍村上新圍，76歲女子在家暈倒，其丈夫報警，她被送往博愛醫院後搶救不治。\n至早上7時20分，大埔富善邨善群樓，一名婆婆在家中暈倒，保安報警求助，她送大埔那打素醫院後證實不治。7時55分，青山公路米埔段碧豪苑一單位，一名70歲男子在家中廁所暈倒，送往博愛醫院後不治。至早上8時54分，荃灣仁濟街18號仁濟醫院綜合服務大樓內，77歲女子暈倒，職員報案求助，事主送往仁濟醫院後搶救不治。\n↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->emergency care",
+      "Health->health care approach",
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:36:07.341+02:00",
+    "updated": "2024-12-20T04:36:07.341+02:00"
+  },
+  {
+    "uuid": "303b11f0fb7037012b637cebd74262a744549698",
+    "url": "https://www.mundodeportivo.com/us/actualidad/20250103/712131/poderosa-tormenta-invernal-amenaza-nueva-york-nws-advierte-poblacion-pronostico-preocupante.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ignacio Poggio",
+    "published": "2025-01-03T07:09:00Z",
+    "title": "Una poderosa tormenta invernal amenaza a Nueva York: el NWS advierte a la población con un pronóstico preocupante",
+    "text": "Una poderosa tormenta invernal, alimentada por una masa de aire ártico procedente de Canadá, se abalanzará sobre Nueva York y el noreste de Estados Unidos durante la primera semana entera de enero, según las últimas previsiones del Servicio Meteorológico Nacional.\nSe anticipa que la tormenta descargue copiosas nevadas y provoque un drástico descenso de las temperaturas, generando condiciones climáticas extremas que podrían paralizar la ciudad. Los expertos advierten sobre la posibilidad de fuertes vientos y heladas que dificultarán la movilidad y podrían ocasionar cortes de servicios básicos.\nCon el temporal previsto para iniciarse el 6 de enero y prolongarse hasta los primeros días de la semana posterior, las autoridades locales han activado protocolos de emergencia y exhortan a la población a tomar las precauciones necesarias para protegerse del frío y evitar riesgos innecesarios.\n¿Nieve en Nueva York? El pronóstico del NWS para la próxima semana\nEl Servicio Meteorológico Nacional ha lanzado una alerta roja ante la inminente llegada de un frente ártico que sumirá al noreste de Nueva York en un intenso congelamiento. Las temperaturas descenderán de manera abrupta, acompañadas de fuertes vientos que azotarán la región, creando condiciones climáticas extremas que pondrán a prueba la resistencia de la infraestructura y de sus habitantes.\nEste fenómeno meteorológico, de proporciones inusuales, no solo afectará a la Gran Manzana. Un vasto sistema de baja presión, originado en el Ártico, se desplazará hacia el sur y el este, engullendo gran parte del país en una gélida masa de aire. Las bajas temperaturas y las precipitaciones invernales se extenderán desde las llanuras del norte hasta la costa este, generando acumulaciones de nieve que podrían paralizar el transporte y aislar comunidades enteras.\nEl impacto en la vida cotidiana será significativo. Las autoridades locales advierten sobre la posibilidad de cortes de energía eléctrica, interrupciones en el suministro de agua y daños en las redes de comunicación. Además, las condiciones climáticas adversas podrían provocar accidentes de tránsito y dificultar las labores de rescate.\nPara hacer frente a esta situación, es fundamental que la población tome las precauciones necesarias. Se recomienda a los residentes:\n- Preparar un kit de supervivencia: Contar con alimentos no perecederos, agua potable, botiquín de primeros auxilios, linterna, radio a pilas y baterías adicionales.\n- Aislar sus hogares: Sellar puertas y ventanas, y utilizar mantas térmicas para conservar el calor.\n- Proteger a los más vulnerables: Prestar especial atención a los ancianos, niños y mascotas, quienes son más susceptibles a las bajas temperaturas.\n- Mantenerse informados: Estar atentos a las alertas y recomendaciones emitidas por las autoridades locales.\nNieve y frío extremo en Nueva York: ¿Cuántos días durará la tormenta invernal?\nLa llegada de la tormenta invernal no será un evento pasajero. Las bajas temperaturas y las condiciones climáticas adversas se prolongarán durante varios días, afectando significativamente la vida cotidiana de los neoyorquinos.\nSegún las últimas previsiones del NWS, la tormenta invernal podría mantenerse activa hasta el fin de semana del 11 y 12 de enero.\nAunque se espera que el sistema se debilite gradualmente a medida que avance la segunda semana del mes, las temperaturas continuarán por debajo de lo normal durante varios días más. Esto significa que el frío extremo se mantendrá presente en la región, generando una serie de desafíos para los habitantes de la Gran Manzana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Servicio Meteorológico Nacional",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T15:35:15.696+02:00",
+    "updated": "2025-01-03T15:35:15.696+02:00"
+  },
+  {
+    "uuid": "fbd8a60c1354993deead2b85aaa094438274242f",
+    "url": "https://www.elnuevodia.com/deportes/otros-deportes/notas/la-boricua-yaimillie-diaz-colon-establece-marca-personal-en-los-200-metros-de-los-juegos-paralimpicos-de-paris-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/autor/yolymar-de-jesus-perez/",
+    "published": "2024-09-05T20:18:00Z",
+    "title": "La boricua Yaimillie Díaz Colón establece marca personal en los 200 metros de los Juegos Paralímpicos de París 2024 - El Nuevo Día",
+    "text": "La velocista cronometró 13.62 en las semifinales, pero al igual que su compañera Amaris Vázquez Collazo, no logró el pase a la final del evento 5 de septiembre de 2024 - 4:16 PM La velocista cronometró 13.62 en las semifinales, pero al igual que su compañera Amaris Vázquez Collazo, no logró el pase a la final del evento 5 de septiembre de 2024 - 4:16 PM Las velocistas puertorriqueñas Yaimillie Díaz Colón y Amaris Vázquez Collazo dieron por culminada su participación en los [Juegos Paralímpicos de París 2024](https://www.elnuevodia.com/topicos/juegos-paralimpicos/) tras no adelantar a la final de los 100 metros categoría T64 (amputación transtibial). A pesar de no lograr la clasificación, Díaz Colón registró una marca personal al cronometrar 13.62 segundos. En el primer heat de las semifinales en la pista del Estadio de Francia, Díaz Colón concluyó en el sexto puesto, mejorando así su entonces mejor tiempo de 13.97, registrado en los Juegos Parapanamericanos Santiago 2023. En los pasados Paralímpicos de Tokio 2020, la boricua detuvo el reloj en 14.81 en dicha prueba. Por su parte, Vázquez Collazo, abanderada de la delegación boricua, cruzó la meta en 15.57 segundos para finalizar en la séptima posición de la segunda serie. El pasado martes, las boricuas corrieron en la primera ronda de los 200 metros, pero tampoco lograron adelantar a la final. En los 200 metros, Vázquez Collazo hizo su mejor tiempo de esta temporada con 33.02 segundos. Mientras, Díaz Colón paró el reloj en 29.55 para terminar quinta en la segunda serie. Ambas atletas son las únicas representantes de Puerto Rico en estos Juegos Paralímpicos, que terminan este próximo domingo. Las noticias explicadas de forma sencilla y directa para entender lo más importante del día. Te invitamos a descargar cualquiera de estos navegadores para ver nuestras noticias:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:22:09.446+03:00",
+    "updated": "2024-09-06T00:22:09.446+03:00"
+  },
+  {
+    "uuid": "fd4a63c35e7f73967e44931dcbadfc9dd5da8ca0",
+    "url": "https://finance.sina.com.cn/jjxw/2025-03-13/doc-inepnchv1024050.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sina.com.cn",
+    "published": "2025-03-12T23:50:00Z",
+    "title": "中国气象局批复抚远开展气象服务保障边疆高质量发展试点_新浪财经_新浪网",
+    "text": "3月5日，中国气象局批复同意黑龙江省抚远市开展气象服务保障边疆高质量发展试点工作。\n该试点立足抚远发展总体规划和区位优势，提出到2027年，气象服务保障全面融入边疆经济社会发展和对外开放需求，打造可复制可推广的气象服务保障抚远模式。\n根据方案，试点工作将优化中俄双边气象合作机制，探索边疆合作新模式；构建符合边疆需求的综合观测站网，提升黑龙江、乌苏里江流域防灾减灾应急处置能力；深度融入边疆旅游产业发展布局，提升界江和区域特色产业气象服务能力，建设边疆气象智慧应用服务平台，融入边疆发展新任务。\n为做好试点工作，抚远市政府将强化党建引领，建立健全市委领导、政府主导、部门协同、上下联动的工作机制，成立气象高质量发展试点工作领导小组，明确分工、细化任务，并加强对气象高质量发展政策、项目、资金、人才等要素保障，推进部门资源共建共享、数据信息融合共用，创新应急联动机制，多方协同、上下联动开展核心技术攻关和服务拓展，同时强化督察督办，协调解决工作中的重点、难点问题，推动试点任务全面落实。\n（作者： 韩志鹏 责任编辑：张林 ）",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "topics": [
+      "Environment->climate change"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T02:02:04.677+02:00",
+    "updated": "2025-03-13T02:02:04.677+02:00"
+  },
+  {
+    "uuid": "007bca333c5c781886aeaacbaa23ec3e8347af47",
+    "url": "https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Juana Martínez",
+    "published": "2024-12-01T04:00:00Z",
+    "title": "Los trabajadores del Parque de los Canales denuncian su crítica situación",
+    "text": "Laboral\nLos trabajadores del Parque de los Canales denuncian su crítica situación\nDicen que la empresa que se ha hecho cargo del mantenimiento solo ha subrogado a 6 de los 30\nLa nueva etapa del Parque Rafael de la Cerda, donde ya se puede acceder sin restricciones a la terraza superior, con zonas de juegos infantiles y otras áreas ajardinadas, sigue dando que hablar en los debates municipales.\nEn concreto, en el pasado pleno del jueves los portavoces de Vox, Gonzalo López Pretel, y de MC, Jesús Giménez Gallo, expusieron de forma conjunta una moción, que fue aprobada por unanimidad, para que el pleno del Ayuntamiento inste a la Mancomunidad de los Canales del Taibilla a la reapertura, con todos los servicios, del Parque Rafael de la Cerda y a que garantice de forma continuada y definitiva su gestión en beneficio de los cartageneros.\nEl concejal de Infraestructuras, Diego Ortega, hizo una distinción entre dos cuestiones, por un lado la situación de los trabajadores y sus problemas de continuidad laboral y derecho al paro, y por otro, la propia gestión que la Mancomunidad quiera hacer del Parque, sumándose desde el PP a que se le dé el uso habitual que se estaba dando hasta la fecha.\nCabe recordar que la Mancomunidad de los Canales del Taibilla, propietaria de las instalaciones, cerró sus puertas el pasado 29 de octubre para comenzar los trabajos de remodelación de las instalaciones con el objetivo de convertirlo en un «jardín para el libre uso y disfrute de la sociedad».\n«Cuando se fue a cerrar el parque, el día 28, nosotros terminamos en ese momento con Vectoris que es la empresa con la que estábamos, y nos comunicó que íbamos a entrar a un ERTE, el cual en teoría comenzó el 5 de noviembre y finalizó el 11, porque nos enviaron una carta donde nos subrogaban a la empresa Tragsa, pero ésta nunca se ha puesto en contacto con nosotros ni nada, solo con 6 de los 30 trabajadores que somos. Y, además, no tenemos derecho a paro, porque este hipotético ERTE tampoco aparece en el SEPE, por lo cual Vectoris no ha subido ni los certificados para nosotros para que podamos cobrar el paro, ni este ERTE que supuestamente nos manda, tampoco se ha pasado al SEPE», señaló uno de los trabajadores afectados, quien prefiere no desvelar su identidad. Según el extrabajador del parque, «entendemos que Tragsa debería de habernos subrogado a todos y no solo a seis y que, si no querían contar con los restantes, podían habernos indemnizado, darnos la carta de despido y ya está».\n«Nadie ha contactado con nosotros, aunque sí que hemos tratado de hablar con ellos; de hecho, a las personas subrogadas solo las llamaron para decirles que al día siguiente tenían que ir a trabajar», detalló.\nActo de conciliación\nTodos los trabajadores han denunciado a Vectoris, Tragsa y la MCT, pero «ya sabemos como son muchas veces los juicios y que no se celebran hasta dentro de ocho meses o un año y, claro, nosotros, por lo que hemos entendido, es que cuando salga el juicio, el juez mandará que todos estos meses que hemos estado sin cobrar una de las tres empresas nos los tendrá que pagar. Pero esto es a un año vista y hay gente que no se puede permitir estar un año sin trabajar». Este empleado mantiene que si comienzan a trabajar en otro lugar puede complicarse su situación judicial. El acto de conciliación con los demandados tendrá lugar en enero. Aseguran que, si se hubieran hecho las cosas bien, o habrían comenzado a estar a las órdenes de Tragsa o despedidos, pero « ahora estamos en un limbo porque no hemos cobrado ni indemnización», por lo que piden que se ejecute el ERTE de Vectoris. n\n[RRSS WhatsApp](https://api.whatsapp.com/send?text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[RRSS Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[RRSS Twitter](https://twitter.com/intent/tweet?original_referer=https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html&text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20%20https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40diariolaopinion)\n[RRSS email](mailto:?subject=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20&body=https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dmail%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[Copiar URL](javascript: void(0))\nNoticia guardada en tu perfil\n[Alerta por el cierre de siete restaurantes del centro de Cartagena en un año](https://www.laopiniondemurcia.es/cartagena/2024/11/23/alerta-cierre-siete-restaurantes-centro-111961650.html)[Cartagena ya tiene fecha para encender las luces de Navidad](https://www.laopiniondemurcia.es/cartagena/2024/11/22/cartagena-enciende-luces-navidad-5-111943091.html)[El Ayuntamiento de Cartagena subvencionará las catas arqueológicas a los constructores](https://www.laopiniondemurcia.es/cartagena/2024/11/27/ayuntamiento-cartagena-subvencionara-catas-arqueologicas-112075784.html)[La plantilla del hospital Perpetuo Socorro deja los paros y espera al Grupo Ribera](https://www.laopiniondemurcia.es/cartagena/2024/11/27/plantilla-hospital-perpetuo-socorro-deja-112075919.html)[Cartagena gastará en la decoración y luces navideñas 140.000 euros más](https://www.laopiniondemurcia.es/cartagena/2024/11/23/cartagena-gastara-decoracion-luces-navidenas-111960477.html)[Luz verde a la reapertura del Circuito de Velocidad de Cartagena con medidas correctoras](https://www.laopiniondemurcia.es/cartagena/2024/11/25/luz-verde-reapertura-circuito-velocidad-112006837.html)[Polémica por la llegada a Cartagena de un barco con armas procedentes de Israel](https://www.laopiniondemurcia.es/cartagena/2024/11/29/polemica-llegada-cartagena-barco-armas-112173693.html)[El Gobierno licita por casi 3 millones de euros la continuación de las obras de recuperación en el Anfiteatro Romano de Cartagena](https://www.laopiniondemurcia.es/cartagena/2024/11/27/gobierno-licita-3-millones-euros-112101923.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://api.whatsapp.com/send?text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://twitter.com/intent/tweet?original_referer=https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html&text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20%20https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40diariolaopinion",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://twitter.com/intent/tweet?original_referer=https://laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html&text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20%20https://laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40diariolaopinion",
+      "https://facebook.com/sharer/sharer.php?u=https://laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://api.whatsapp.com/send?text=Los%20trabajadores%20del%20Parque%20de%20los%20Canales%20denuncian%20su%20cr%C3%ADtica%20situaci%C3%B3n%20https://laopiniondemurcia.es/cartagena/2024/12/01/trabajadores-parque-canales-denuncian-critica-112213446.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-01T07:14:36.925+02:00",
+    "updated": "2024-12-01T07:14:36.925+02:00"
+  },
+  {
+    "uuid": "19beabeb1dba76cb6412dba4981381d3e823ad5a",
+    "url": "https://www.italpress.com/schlein-la-destra-vuole-una-sanita-a-misura-di-portafoglio",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agenzia di Stampa Italpress",
+    "published": "2024-10-24T18:50:00Z",
+    "title": "Schlein “La destra vuole una sanità a misura di portafoglio”",
+    "text": "ROMA (ITALPRESS) – “Meloni sono giorni che dà i numeri sulla sanità. Dice ‘abbiamo aumentato i fondì e in termini assoluti è vero, ma è quello che potrebbe dire qualsiasi premier perchè in termine assoluti è vero per tutti. Ma se si guarda la spesa sanitaria sul Pil è scesa. Meloni dice che le fa ridere che si calcoli la spesa in base al Pil ma si fa così in tutto il mondo, quelli che piangono però sono gli italiani. Siamo ai minimi storici degli ultimi 15 anni tanto che milioni di persone hanno rinunciato a curarsi. La destra abbia il coraggio di dire agli italiani che vuole una sanità a misura del portafoglio, in cui chi ha i soldi salta la lista d’attesa di un anno e mezzo e va dal privato. Il problema è che chi quei soldi non ce li ha sta rinunciando a curarsi. Il primo effetto della manovra presentata ieri è stato la proclamazione dello sciopero dei medici, noi saremo al loro fianco a sostenerli”. Così la segretaria del Pd, Elly Schlein, ospite a “Diritto e Rovescio” su Rete 4. Sull’aumento delle pensioni minime “al al di là degli annunci roboanti, ieri sono usciti i numeri: si tratta di un aumento di 3 euro. Allora, lo dico con rispetto, ma le persone che non riescono a pagare le bollette, che sono le più care d’Europa e su questo il governo non sta facendo nulla, cosa se ne fanno di 10 centesimi al giorno?”, ha aggiunto. Per la segretaria dem l’accordo con l’Albania “non sta in piedi dal punto di vista giuridico e politico. A nostro avviso è inumano perchè viola i diritti fondamentali delle persone. Hanno appena buttato 800 milioni degli italiani per costruire centri e deportarci delle persone, per poi scoprire di doverle riportare addirittura indietro. Basta con la propaganda, serve un approccio molto più serio”. (ITALPRESS). -Foto: Agenzia Fotogramma- [[email protected]](/cdn-cgi/l/email-protection#a3cacdc5cce3cad7c2cfd3d1c6d0d08dc0ccce)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Meloni",
+          "sentiment": "none"
+        },
+        {
+          "name": " Elly Schlei",
+          "sentiment": "none"
+        },
+        {
+          "name": " Melon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ITALPRESS",
+          "sentiment": "none"
+        },
+        {
+          "name": " Rovesci",
+          "sentiment": "none"
+        },
+        {
+          "name": " P",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:42:22.867+03:00",
+    "updated": "2024-10-25T04:08:33.462+03:00"
+  },
+  {
+    "uuid": "9bd89dd2e2617653e100c3183e5a48271792b29f",
+    "url": "https://ifp.nyu.edu/2024/journal-article-abstracts/tc-2022-057843v1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "gary",
+    "published": "2024-01-25T22:20:00Z",
+    "title": "Crowding-out effect of tobacco consumption in Indonesia",
+    "text": "Tobacco consumption is pervasive in Indonesia, with 6 out of 10 households in the country consuming tobacco. Smoking households, on average, divert a significant share (10.7%) of their monthly budget on tobacco products, which is higher than spending on staples, meat or vegetables. Nevertheless, evidence of the causal link between tobacco expenditure and spending on other commodities in Indonesia is limited.\nThis study aims to estimate the crowding-out effects of tobacco spending on the expenditure of other goods and services in Indonesia.\nThis research estimates the conditional Engel curve with three-stage least square regression, where the instrumental variable technique is applied to address the simultaneity of tobacco and total non-tobacco spending. The study employs a large-scale household budget survey from the Indonesian socioeconomic survey (Susenas) from 2017 to 2019, comprising over 900 000 households.\nTobacco spending crowds out the share of a household’s budget allocated for food, such as spending on staples, meat, dairy, vegetables and fruits. Moreover, tobacco spending also reduces the share of expenditure spent on non-food commodities, such as clothing, housing, utilities, durable and non-durable goods, education, healthcare and entertainment, although its effect is not as large as the crowding out on food. The analysis shows that the crowding-out effects of tobacco are observed across low-income, middle-income and high-income households. In addition, the simulation suggests that reducing tobacco expenditure will increase household spending on essential needs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "engel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "indonesia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:22:56.316+02:00",
+    "updated": "2024-01-26T00:22:56.316+02:00"
+  }
+]

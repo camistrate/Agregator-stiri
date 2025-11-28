@@ -1,0 +1,208 @@
+[
+  {
+    "uuid": "40b2e77d9a700d63080386b9000e42bfcbe09ef7",
+    "url": "https://www.clarin.com/sociedad/lanzaron-alertas-naranja-amarilla-nevadas-vientos-fuertes-16-provincias_0_kFrGkbfc42.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Clarín",
+    "published": "2024-08-02T04:24:00Z",
+    "title": "Lanzaron alertas naranja y amarilla por nevadas y vientos fuertes en 16 provincias",
+    "text": "El Servicio Meteorológico Nacional emitió alertas meteorológicas naranja y amarilla por nevadas y fuertes vientos de hasta 110 kilómetros por hora en distintas regiones del país. Seis provincias podrían verse afectadas este viernes por la presencia del Zonda que este jueves provocó algunos inconvenientes en Mendoza. Además de este fenómeno, se esperan fuertes vientos en un total de 16 provincias del territorio argentino, donde rige una alerta amarilla. El viento Zonda, que se caracteriza por ser cálido y seco , se hizo sentir durante la jornada, especialmente, en Mendoza. Allí ocasionó un importante corte de energía eléctrica en las localidades de Uspallata y Potrerillos. En esta última localidad, incluso, se generó un incendio en un basural , el miércoles por la noche, en el que Bomberos del Cuartel Central y Voluntarios de Luján de Cuyo trabajaron hasta este jueves por la mañana para evitar que se reactive mediante tareas de enfriamiento. Debido a este mismo fenómeno, la Dirección General de Escuelas (DGE) de esa provincia suspendió las clases en el distrito de Malargüe, en los turnos vespertino y nocturno. Por su parte, el diario Río Negro informó destrozos y voladuras de techos en viviendas situadas en el municipio de Zapala. En este lugar y en Chos Malal también se vio interrumpida la jornada escolar. Para este viernes, el SMN emitió un alerta naranja por nevadas en Mendoza y Neuquén. Según el organismo, esto representa \"fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente\". En tanto, elevó una advertencia de nivel amarillo por el viento Zonda, que podría manifestarse en Salta, Catamarca, Tucumán, La Rioja, San Juan y Mendoza. Por otra parte, el SMN alertó por fuertes vientos en Catamarca, Chaco, Chubut, Corrientes, Formosa, Entre Ríos, Jujuy, La Rioja, Neuquén, Salta, Río Negro, San Juan, Santa Fe, Santiago del Estero y también Mendoza. Se esperan fenómenos meteorológicos peligrosos para la sociedad, la vida, los bienes y el medio ambiente. Desde el Servicio Meteorológico Nacional difundieron una serie de recomendaciones publicadas en el sitio Argentina.ar, para saber cómo actuar en caso de que el viento Zonda azote tu localidad. ES",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T07:27:15.806+03:00",
+    "updated": "2024-08-02T07:27:15.806+03:00"
+  },
+  {
+    "uuid": "ab6e7639e13fce0c9f8b3686046a4a75f12bd6f3",
+    "url": "https://www.youtube.com/watch?v=5t-6sHoIYhw",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Corriere della Sera",
+    "published": "2025-02-23T02:41:00Z",
+    "title": "Papa Francesco, si aggravano le condizioni di salute: fedeli in preghiera al Gemelli",
+    "text": "Papa Francesco, si aggravano le condizioni di salute: fedeli in preghiera al GemelliPapa Francesco, si aggravano le condizioni di salute: fedeli in preghiera al Gemelli Alcuni fedeli si sono raccolti in preghiera ai piedi della statua di Giovanni Paolo II al Policlinico Gemelli di Roma. Poco prima, il bollettino medico di Papa Francesco che aveva parlato di condizioni di salute critiche. (Corriere Tv). Guarda il video su Corriere: https://video.corriere.it/papa-francesco-si-aggravano-le-condizioni-di-salute-fedeli-in-preghiera-al-gemelli/605eba9e-a73a-47aa-8359-0e462f91dxlk",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->health facility",
+      "Health->hospital",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->religious ritual",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://video.corriere.it/papa-francesco-si-aggravano-le-condizioni-di-salute-fedeli-in-preghiera-al-gemelli/605eba9e-a73a-47aa-8359-0e462f91dxlk",
+      "https://granatadaniele.blogspot.com/",
+      "https://www.video.corriere.it/papa-francesco-si-aggravano-le-condizioni-di-salute-fedeli-in-preghiera-al-gemelli/605eba9e-a73a-47aa-8359-0e462f91dxlk",
+      "https://www.granatadaniele.blogspot.com/",
+      "https://granatadaniele.blogspot.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Francesco",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Giovanni Paolo II",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Policlinico Gemelli",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gemelli Alcuni",
+          "sentiment": "none"
+        },
+        {
+          "name": "Roma",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-23T14:33:24.939+02:00",
+    "updated": "2025-02-23T14:33:24.939+02:00"
+  },
+  {
+    "uuid": "a7c2cae6269209da81d7c7d556dc389d855df53a",
+    "url": "https://www.tellerreport.com/news/2023-12-24-%22christmas-under-the-rubble%22--gaza-war-changes-christmas-celebrations.HJmoT5BD6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anonym",
+    "published": "2023-12-24T12:01:00Z",
+    "title": "\"Christmas under the rubble\". Gaza War Changes Christmas Celebrations - Teller Report",
+    "text": "Picture of the Christmas tree and the courtyard of the Church of the Nativity looks in limited numbers compared to previous years (Al Jazeera) Israel's war on the Gaza Strip for the third month in a row has cast a shadow over the atmosphere of Christmas celebrations in the West Bank city of Bethlehem, as it was decided not to light the Christmas tree in the courtyard of the Church of the Nativity as usual, and to replace it with a model of the scale of the destruction inflicted on the Strip. The sculpture, executed by Palestinian artist Tariq Sila, represents the Christmas Grotto amid what appeared to be a destroyed house, called \"Christmas under the rubble\" in a symbolic reference to the destruction in the Gaza Strip as a result of the continuous Israeli bombardment, in addition to statues of a Palestinian family during the Nakba. Candles were lit and prayers were held in the courtyard of the Church of the Nativity in the presence of a number of clerics, officials, members of the diplomatic corps accredited to the Palestinian Authority and citizens. Hanna Hanania, mayor of Bethlehem, said during the opening ceremony of the artwork, \"Here Gaza is present, the cave is not ordinary, it is destroyed by the bombing, between its walls embraces the Holy Family through its shape that resembles the map of Gaza, and the children who rose as martyrs like angels looking from the sky.\" Exceptional year \"The light of the cave here is very dimmed because of the shelling and death, and in the middle the Virgin Mary embraces the baby Jesus, announcing the new life of all humanity,\" he said. \"Everything is exceptional this year, as Christmas falls under very difficult circumstances, in which thousands have been killed and wounded and citizens in Gaza have been displaced,\" he said. \"Bethlehem, for the first time, does not light the Christmas tree, will not light the streets of Bethlehem, and the holiday will be limited to religious rites only, is a moral and national obligation, the failure of blood misses any possibility of joy,\" he added. Bethlehem residents used to start Christmas celebrations by lighting an 8-meter-high tree in the churchyard decorated with lamps. \"The world celebrates Christmas and the city of Christmas is sad, gloomy and painful, its children, youth, women and men are scared, sad and pained by what is happening, and they do not know where things will go,\" said Rola Maaya, Minister of Tourism and Antiquities, in a speech at the cave lighting ceremony. The road leading to the Church of the Nativity Square in the center of Bethlehem was previously crowded with tourist delegations and today it is almost empty (Al-Jazeera) Bethlehem without visitors \"The city of the nativity, like other Palestinian cities, is completely besieged. Closed and sad that no one can reach or get out of. Its people and people are without work and without hope, as a result of the disruption and cessation of incoming tourism, which is the backbone of its economy.\" George Kanawati, leader of the Terra Santa Scouts group, the organizer of religious rites at Christmas, said four groups would participate and advance the patriarch's procession with 4 scouts. George added that the scouts would raise the Palestinian flag and carry banners with phrases condemning the Israeli aggression on the Gaza Strip written in different languages. Celebrations for Christian denominations that adopt the Western calendar will be held on December 25, while denominations that adopt the Eastern calendar will celebrate on January 7. Since October 7, the Israeli army has been waging a devastating war on Gaza, which as of Saturday evening has left more than 20,53 dead, more than , wounded, mostly children and women, massive destruction of infrastructure and an unprecedented humanitarian catastrophe, according to the Gaza authorities and the United Nations. Source: Agencies",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hanna hanania",
+          "sentiment": "none"
+        },
+        {
+          "name": "tariq sila",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "al jazeera",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestinian authority",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "west bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "bethlehem",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T14:02:49.151+02:00",
+    "updated": "2023-12-24T14:02:49.151+02:00"
+  },
+  {
+    "uuid": "041c77b7ae81966d82333e27d7bf59736d96fb24",
+    "url": "https://www.eurosport.fr/football/ligue-des-nations/2024-2025/ligue-des-nations-avec-le-900e-but-de-ronaldo-le-portugal-s-offre-la-croatie-pour-debuter_sto10330896/story.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eurosport_FR",
+    "published": "2024-09-05T17:25:00Z",
+    "title": "Ligue des Nations - Avec le 900e but de Cristiano Ronaldo, le Portugal s'offre la Croatie pour débuter - Eurosport",
+    "text": "Ligue des Nations - Avec le 900e but de Cristiano Ronaldo, le Portugal s'offre la Croatie pour débuter Le Portugal a entamé cette campagne de Ligue des Nations par une victoire à domicile contre la Croatie (2-1), ce jeudi. Les Portugais, éliminés par la France en quart de finale de l'Euro 2024, ont notamment pu compter sur un but de Cristiano Ronaldo, son 900e but en carrière. Ils prennent la tête du groupe 1 de la Ligue A avec la Pologne qui a battu l’Écosse (3-2). Le Portugal réussit sa rentrée. Ce jeudi soir, les Portugais ont battu la Croatie (2-1), lors de la première journée de la Ligue A de la Ligue des Nations. A l'Estadio da Luz de Lisbonne, Diogo Dalot (7e) et Cristiano Ronaldo (34e) ont fait le bonheur de leurs nombreux supporters. Juste avant la pause, les Croates se sont relancés, grâce à un but contre son camp de Dalot (41e), mais la Seleção a tenu. Au classement du groupe 1, les hommes de Roberto Martinez sont deuxièmes derrière la Pologne qui a battu l’Écosse (3-2), tandis que les partenaires de Luka Modric ferment la marche. Son émotion était plus que palpable au moment de célébrer. Cristiano Ronaldo a officiellement inscrit le 900e but de son immense carrière. Pour marquer cette 131e réalisation en 213 sélections, la légende a profité d'un service parfait de Nuno Mendes, dans la profondeur, pour conclure, de près, d'un plat du pied droit (34e, 2-0). Quelques minutes avant, l'international portugais (39 ans), qui n'avait marqué que deux buts en 2024 avec son pays mais aucun à l'Euro, avait chauffé les gants de Dominik Livakovic, une première fois, d'une frappe du pied gauche en angle fermé, après avoir profité d'une belle remise en talonnade de Rafael Leão (22e). Dalot, buteur et auteur d'un csc A ses côtés, un autre de ses coéquipiers est également passé par toutes les émotions. Il s'agit de Diogo Dalot. Le latéral a trompé le portier adverse, d'une frappe du pied gauche à bout portant (7e, 1-0), pour l'ouverture du score des siens. Avant de rentrer au vestiaire, le pensionnaire de Manchester United est redescendu de son petit nuage, après avoir dévié, dans son propre but, une remise de Borna Sosa (41e, 2-1), pour relancer, involontairement, la Croatie. Passeur décisif sur le premier but, Bruno Fernandes avait été le premier à se distinguer, en cadrant la première frappe de sa sélection (6e), avant de se montrer à nouveau dans le second acte (66e). Décisif sur le second but, Nuno Mendes, quant à lui, n'a pas non plus réussi à trouver la faille (59e). Juste avant la pause, Pedro Neto, après un raid solitaire de 50 mètres, s'est infiltré dans la surface de réparation, avant de voir sa puissante frappe croisée du pied droit venir heurter la barre transversale (43e). La Croatie, finaliste de la dernière édition La Croatie n'avait pas attendu le cadeau de Dalot pour se montrer dangereuse, après avoir très rapidement encaissé un premier but. Mais ni Josko Gvardiol (15e) ni Andrej Kramaric (31e) n'avaient réussi à prendre Diogo Costa à défaut. Dans le second acte, le portier portugais, pas forcément toujours à son aise dans les airs, est également parvenu à se montrer impérial, encore une fois face à Gvardiol (49e) puis devant Igor Matanovic (80e), à son avantage pour sa toute première sélection. Le Portugal, premier vainqueur de l'histoire de cette compétition, en 2019, entame parfaitement cette nouvelle campagne. Sa prochaine sortie aura lieu ce dimanche soir (20h45) contre l’Écosse. De son côté, la Croatie, finaliste de la dernière édition, va déjà devoir réagir, dans le même temps, contre la Pologne. Sur le même sujet Partager cet article Plus de détails Publicité Publicité",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:44:18.240+03:00",
+    "updated": "2024-09-06T00:44:18.240+03:00"
+  }
+]

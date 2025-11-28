@@ -1,0 +1,690 @@
+[
+  {
+    "uuid": "4f8c659761902cd3536781f7f1fe2b68682813f8",
+    "url": "https://www.learncpp.com/cpp-tutorial/chapter-11-summary-and-quiz/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex",
+    "published": "2023-12-29T01:30:00Z",
+    "title": "11.x — Chapter 11 summary and quiz",
+    "text": "Nice work. Function templates may seem pretty complex, but they are a very powerful way to make your code work with objects of different types. We’ll see a lot more template stuff in future chapters, so hold on to your hat.\nChapter Review\nFunction overloading allows us to create multiple functions with the same name, so long as each identically named function has different set of parameter types (or the functions can be otherwise differentiated). Such a function is called an overloaded function (or overload for short). Return types are not considered for differentiation.\nWhen resolving overloaded functions, if an exact match isn’t found, the compiler will favor overloaded functions that can be matched via numeric promotions over those that require numeric conversions. When a function call is made to function that has been overloaded, the compiler will try to match the function call to the appropriate overload based on the arguments used in the function call. This is called overload resolution.\nAn ambiguous match occurs when the compiler finds two or more functions that can match a function call to an overloaded function and can’t determine which one is best.\nA default argument is a default value provided for a function parameter. Parameters with default arguments must always be the rightmost parameters, and they are not used to differentiate functions when resolving overloaded functions.\nFunction templates allow us to create a function-like definition that serves as a pattern for creating related functions. In a function template, we use type template parameters as placeholders for any types we want to be specified later. The syntax that tells the compiler we’re defining a template and declares the template types is called a template parameter declaration.\nThe process of creating functions (with specific types) from function templates (with template types) is called function template instantiation (or instantiation) for short. When this process happens due to a function call, it’s called implicit instantiation. An instantiated function is called a function instance (or instance for short, or sometimes a template function).\nTemplate argument deduction allows the compiler to deduce the actual type that should be used to instantiate a function from the arguments of the function call. Template argument deduction does not do type conversion.\nTemplate types are sometimes called generic types, and programming using templates is sometimes called generic programming.\nIn C++20, when the auto keyword is used as a parameter type in a normal function, the compiler will automatically convert the function into a function template with each auto parameter becoming an independent template type parameter. This method for creating a function template is called an abbreviated function template.\nA non-type template parameter is a template parameter with a fixed type that serves as a placeholder for a constexpr value passed in as a template argument.\nQuiz time\nQuestion #1\n> Step #1\nWrite a function template named\nadd() that allows the users to add 2 values of the same type. The following program should run:\n#include <iostream> // write your add function template here int main() { std::cout << add(2, 3) << '\\n'; std::cout << add(1.2, 3.4) << '\\n'; return 0; }\nand produce the following output:\n5 4.6\n> Step #2\nWrite a function template named\nmult()that allows the user to multiply one value of any type (first parameter) and an integer (second parameter). The function should return the same type as the first parameter. The following program should run:\n#include <iostream> // write your mult function template here int main() { std::cout << mult(2, 3) << '\\n'; std::cout << mult(1.2, 3) << '\\n'; return 0; }\nand produce the following output:\n6 3.6\n> Step #3\nWrite a function template named\nsub() that allows the user to subtract two values of different types. The following program should run:\n#include <iostream> // write your sub function template here int main() { std::cout << sub(3, 2) << '\\n'; std::cout << sub(3.5, 2) << '\\n'; std::cout << sub(4, 1.5) << '\\n'; return 0; }\nand produce the following output:\n1 1.5 2.5\nQuestion #2\nWhat is the output of this program and why?\n#include <iostream> template <typename T> int count(T) // This is the same as int count(T x), except we're not giving the parameter a name since we don't use the parameter { static int c { 0 }; return ++c; } int main() { std::cout << count(1) << '\\n'; std::cout << count(1) << '\\n'; std::cout << count(2.3) << '\\n'; std::cout << count<double>(1) << '\\n'; return 0; }\nQuestion #3\nWhat is the output of this program?\n#include <iostream> int foo(int n) { return n + 10; } template <typename T> int foo(T n) { return n; } int main() { std::cout << foo(1) << '\\n'; // #1 short s { 2 }; std::cout << foo(s) << '\\n'; // #2 std::cout << foo<int>(4) << '\\n'; // #3 std::cout << foo<int>(s) << '\\n'; // #4 std::cout << foo<>(6) << '\\n'; // #5 return 0; }",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:32:06.708+02:00",
+    "updated": "2023-12-29T04:32:06.708+02:00"
+  },
+  {
+    "uuid": "597d617ea84c9a1b1255d094623e1048082fe659",
+    "url": "https://vnexplorer.net/z/1856881.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-08-15T13:37:00Z",
+    "title": "Hardship: NBS reveals 3 most affordable states to live in Nigeria",
+    "text": "Hardship: NBS reveals 3 most affordable states to live in Nigeria The National Bureau of Statistics, NBS, said Benue, Delta, and Borno states are the least expensive states to live in Nigeria. NBS July’s Consumer Price Index and Inflation Data released on Thursday showed that Benue, Delta and Borno recorded the slowest rise in Headline Inflation on a year-on-year basis. Benue’s headline inflation stood at 27.28 percent, Delta, 28.06 percent and Borno 28.33 percent on a year-on-year basis. On a month-on-month basis, Taraba, 0.17 percent, Kwara, 0.62 percent and Ondo 0.91 percent recorded the slowest headline inflation rise. In contrast, Abuja 3.91 percent, Borno, 3.84 percent and Enugu 3.76 percent recorded the highest increases. DAILY POST earlier reported that, according to data released by NBS, Nigeria’s headline inflation fell to 33.90 percent in July, the first time a drop has been recorded since 2022, when it stood at 21.34 percent. Similarly, NBS reported that reduction in the prices of garri, fufu and others pushed food inflation to drop in July to 39.53 percent from 40.87 percent in June. Hardship: NBS reveals 3 most affordable states to live in Nigeria",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "national bureau of statistics",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nbs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "borno",
+          "sentiment": "none"
+        },
+        {
+          "name": "delta",
+          "sentiment": "none"
+        },
+        {
+          "name": "inflation data",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "borno",
+          "sentiment": "none"
+        },
+        {
+          "name": "taraba",
+          "sentiment": "none"
+        },
+        {
+          "name": "abuja",
+          "sentiment": "none"
+        },
+        {
+          "name": "enugu",
+          "sentiment": "none"
+        },
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        },
+        {
+          "name": "kwara",
+          "sentiment": "none"
+        },
+        {
+          "name": "ondo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:10:10.634+03:00",
+    "updated": "2024-08-16T01:10:10.634+03:00"
+  },
+  {
+    "uuid": "24c2e65fd7662a61018d1e9c3cf2e469093964ce",
+    "url": "https://newstral.com/en/article/en/1261486574/cosmetic-clinic-that-secretly-filmed-patients-is-not-safe-watchdog-finds",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newstral.com",
+    "published": "2024-12-20T00:00:00Z",
+    "title": "expressandstar.com: «Cosmetic clinic that secretly filmed patients is ‘not safe’, watchdog finds» - Related news - Newstral.com",
+    "text": "Newstral\nArticle\n[expressandstar.com](/en/sources/30252) on 2024-12-20 01:03\nCosmetic clinic that secretly filmed patients is ‘not safe’, watchdog finds\nRelated news\n[Cosmetic clinic that secretly filmed patients is ‘not safe’, watchdog finds](https://www.shropshirestar.com/news/uk-news/2024/12/20/cosmetic-clinic-that-secretly-filmed-patients-is-not-safe-watchdog-finds/)[Shropshire Star](/en/sources/30276)[M](https://www.mylondon.news)[Cosmetic surgery clinic offering nose jobs to kids 'put patients at risk'](https://www.walesonline.co.uk/news/uk-news/cosmetic-surgery-clinic-offering-nose-26796235)[mylondon.news](/en/sources/300529)[Teacher secretly filmed students](http://news.com.au.feedsportal.com/c/34564/f/632404/s/495acb58/sc/33/l/0L0Snews0N0Bau0Cworld0Ceurope0Cformer0Eteacher0Esentenced0Eto0Ethree0Eyears0Ejail0Efor0Eindecent0Eimages0Cstory0Efnh81p7g0E122750A20A894740Dfrom0Fpublic0Irss/story01.htm)[news.com.au](/en/sources/30336),,,[Cosmetic surgery check-list for patients](http://www.bbc.co.uk/news/health-37542542)[BBC](/en/sources/30)[Patients missing appointments because of travel cost fears, says watchdog](https://www.shropshirestar.com/news/uk-news/2023/01/09/patients-missing-appointments-because-of-travel-cost-fears-says-watchdog/)[Shropshire Star](/en/sources/30276)[Nurse filmed himself raping patients](http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11425788)[NZ Herald](/en/sources/229)[Dunedin Hospital in Reading that treats patients with \"compassion and kindness\" hailed by health watchdog](https://www.getreading.co.uk/news/reading-berkshire-news/dunedin-hospital-reading-treats-patients-24034483)[Get Reading](/en/sources/30251)[Staten Island dad secretly filmed live-in nanny: lawsuit](https://nypost.com/2021/09/25/staten-island-dad-secretly-filmed-live-in-nanny-lawsuit/)[New York Post](/en/sources/128)[B](http://www.bbc.co.uk)[Women secretly filmed on nights out 'feel unsafe'](https://www.bbc.co.uk/news/uk-england-manchester-68826423)[bbc.co.uk](/en/sources/227209),,,[Reading cosmetic surgery put patients at risk of Legionnaires' disease](https://www.getreading.co.uk/news/reading-berkshire-news/reading-cosmetic-surgery-put-patients-21870809)[Get Reading](/en/sources/30251)[Prince Andrew may have been secretly filmed with underage girl he is alleged to have abused](http://www.dailyrecord.co.uk/news/uk-world-news/prince-andrew-been-secretly-filmed-4915595)[The Daily Record](/en/sources/152)[Man. United chief executive secretly filmed saying club ‘burnt through cash’](https://timesofmalta.com/articles/view/man-united-chief-executive-secretly-filmed-saying-club-burnt-cash.962921)[timesofmalta.com](/en/sources/30226)[G](http://www.gazettelive.co.uk)[NORTH EAST NEWS: Public loos pervert secretly filmed boys and men using urinals at Metrocentre](https://www.gazettelive.co.uk/news/teesside-news/trevor-english-metrocentre-toilets-pervert-30360551)[gazettelive.co.uk](/en/sources/30265)[Clinic helps long-haul patients in London’s ‘COVID triangle’](https://www.abqjournal.com/2391806/clinic-helps-long-haul-patients-in-londons-covid-triangle.html)[abqjournal.com](/en/sources/29273)[Clinic helps long-haul patients in London’s “COVID triangle”](https://www.mercedsunstar.com/news/article251493418.html#storylink=rss)[Merced Sun-Star](/en/sources/29302)[B](http://www.bbc.co.uk)[Wigan Athletic: EFL chairman Rick Parry secretly filmed discussing Wigan rumours](https://www.bbc.co.uk/sport/football/53261368)[bbc.co.uk](/en/sources/227209)[Adam Johnson says he wish he'd raped schoolgirl victim in video secretly filmed in prison](http://www.dailyrecord.co.uk/news/uk-world-news/adam-johnson-says-wish-hed-10266869)[The Daily Record](/en/sources/152)[Patients must come first: regulate cosmetic surgeons like any other doctor](https://www.watoday.com.au/national/patients-must-come-first-regulate-cosmetic-surgeons-like-any-other-doctor-20211031-p594qb.html?ref=rss&utm_medium=rss&utm_source=rss_feed)[Sydney Morning Herald](/en/sources/228)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->health organisation",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bbc.co.uk/sport/football/53261368",
+      "http://www.gazettelive.co.uk",
+      "http://www.dailyrecord.co.uk/news/uk-world-news/adam-johnson-says-wish-hed-10266869",
+      "https://www.shropshirestar.com/news/uk-news/2023/01/09/patients-missing-appointments-because-of-travel-cost-fears-says-watchdog/",
+      "https://www.mercedsunstar.com/news/article251493418.html#storylink=rss",
+      "https://www.watoday.com.au/national/patients-must-come-first-regulate-cosmetic-surgeons-like-any-other-doctor-20211031-p594qb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "https://www.bbc.co.uk/news/uk-england-manchester-68826423",
+      "https://nypost.com/2021/09/25/staten-island-dad-secretly-filmed-live-in-nanny-lawsuit/",
+      "https://www.abqjournal.com/2391806/clinic-helps-long-haul-patients-in-londons-covid-triangle.html",
+      "https://www.getreading.co.uk/news/reading-berkshire-news/reading-cosmetic-surgery-put-patients-21870809",
+      "http://news.com.au.feedsportal.com/c/34564/f/632404/s/495acb58/sc/33/l/0L0Snews0N0Bau0Cworld0Ceurope0Cformer0Eteacher0Esentenced0Eto0Ethree0Eyears0Ejail0Efor0Eindecent0Eimages0Cstory0Efnh81p7g0E122750A20A894740Dfrom0Fpublic0Irss/story01.htm",
+      "https://www.getreading.co.uk/news/reading-berkshire-news/dunedin-hospital-reading-treats-patients-24034483",
+      "http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11425788",
+      "http://www.dailyrecord.co.uk/news/uk-world-news/prince-andrew-been-secretly-filmed-4915595",
+      "https://www.gazettelive.co.uk/news/teesside-news/trevor-english-metrocentre-toilets-pervert-30360551",
+      "https://www.shropshirestar.com/news/uk-news/2024/12/20/cosmetic-clinic-that-secretly-filmed-patients-is-not-safe-watchdog-finds/",
+      "https://www.walesonline.co.uk/news/uk-news/cosmetic-surgery-clinic-offering-nose-26796235",
+      "https://timesofmalta.com/articles/view/man-united-chief-executive-secretly-filmed-saying-club-burnt-cash.962921",
+      "http://www.bbc.co.uk/news/health-37542542",
+      "https://www.mylondon.news",
+      "http://www.bbc.co.uk",
+      "https://bbc.co.uk/sport/football/53261368",
+      "http://bbc.co.uk/news/health-37542542",
+      "https://walesonline.co.uk/news/uk-news/cosmetic-surgery-clinic-offering-nose-26796235",
+      "http://www.nzherald.co.nz/world/news/article.cfm",
+      "http://dailyrecord.co.uk/news/uk-world-news/prince-andrew-been-secretly-filmed-4915595",
+      "https://nypost.com/2021/09/25/staten-island-dad-secretly-filmed-live-in-nanny-lawsuit",
+      "http://gazettelive.co.uk",
+      "http://bbc.co.uk",
+      "https://shropshirestar.com/news/uk-news/2024/12/20/cosmetic-clinic-that-secretly-filmed-patients-is-not-safe-watchdog-finds/",
+      "https://www.watoday.com.au/national/patients-must-come-first-regulate-cosmetic-surgeons-like-any-other-doctor-20211031-p594qb.html",
+      "https://www.nypost.com/2021/09/25/staten-island-dad-secretly-filmed-live-in-nanny-lawsuit/",
+      "https://www.shropshirestar.com/news/uk-news/2023/01/09/patients-missing-appointments-because-of-travel-cost-fears-says-watchdog",
+      "http://dailyrecord.co.uk/news/uk-world-news/adam-johnson-says-wish-hed-10266869",
+      "https://www.timesofmalta.com/articles/view/man-united-chief-executive-secretly-filmed-saying-club-burnt-cash.962921",
+      "https://watoday.com.au/national/patients-must-come-first-regulate-cosmetic-surgeons-like-any-other-doctor-20211031-p594qb.html?ref=rss&utm_medium=rss&utm_source=rss_feed",
+      "https://mylondon.news",
+      "https://getreading.co.uk/news/reading-berkshire-news/reading-cosmetic-surgery-put-patients-21870809",
+      "http://nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11425788",
+      "https://abqjournal.com/2391806/clinic-helps-long-haul-patients-in-londons-covid-triangle.html",
+      "https://getreading.co.uk/news/reading-berkshire-news/dunedin-hospital-reading-treats-patients-24034483",
+      "https://shropshirestar.com/news/uk-news/2023/01/09/patients-missing-appointments-because-of-travel-cost-fears-says-watchdog/",
+      "https://bbc.co.uk/news/uk-england-manchester-68826423",
+      "https://gazettelive.co.uk/news/teesside-news/trevor-english-metrocentre-toilets-pervert-30360551",
+      "http://www.news.com.au.feedsportal.com/c/34564/f/632404/s/495acb58/sc/33/l/0L0Snews0N0Bau0Cworld0Ceurope0Cformer0Eteacher0Esentenced0Eto0Ethree0Eyears0Ejail0Efor0Eindecent0Eimages0Cstory0Efnh81p7g0E122750A20A894740Dfrom0Fpublic0Irss/story01.htm",
+      "https://mercedsunstar.com/news/article251493418.html#storylink=rss",
+      "https://www.shropshirestar.com/news/uk-news/2024/12/20/cosmetic-clinic-that-secretly-filmed-patients-is-not-safe-watchdog-finds"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T02:20:12.853+02:00",
+    "updated": "2024-12-20T02:20:12.853+02:00"
+  },
+  {
+    "uuid": "9d217bccefadb19de086e19359274fa547e8f3fb",
+    "url": "https://www.fox2detroit.com/news/oaklands-shocking-win-e280a2-snow-wreaking-havoc-in-detroit-e280a2-babysitter-charged-in-3-year-olds-murder",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Robin Murdoch",
+    "published": "2024-03-22T00:00:00Z",
+    "title": "Oakland's shocking win • Snow wreaking havoc in Detroit • Babysitter charged in 3-year-old's murder",
+    "text": "FRIDAY NEWS HIT - Not a lot of experts or brackets had Oakland University advancing past the Kentucky Wildcats. After all, Greg Kampe and the Golden Grizzlies have never advanced to the round of 32.\nYet here they are - ready to play in the round of 32 for the first time in the team&apos;s history.It&apos;s an unlikely story for the Bears and OU coach Greg Kampe, in his 40th season with the team as he led his team to an 80-76 win over the Kentucky Wildcats.\nIn the past four decades, OU has won just one NCAA tournament game – an opening-round win over Alabama A&M before losing in the round of 64 to North Carolina.\nHorizon League Player of the Year Trey Townsend had 17 points for Oakland. DQ Cole added 12, including a 3 from the corner with 28 seconds left that gave the Grizzlies a four-point lead. Oakland never trailed over the final 14:32 to send the Wildcats and coach John Calipari to another early tournament exit.\nBut they were largely propelled by Jack Gohlke – who drained ten 3-pointers and scored a career-high of 32 points.\n\"We’ve been a solid team all year,\" said Gohlke, who arrived at Oakland last fall after graduating from Hillsdale College. \"We’ve won close games all year.\"\nFeatured\nHe made 10 of 20 3-point attempts, seven in the first half, to fall one short of Jeff Fryer’s NCAA Tournament record, set in 1990 for Loyola Marymount. Gohlke’s only other points came after he was fouled — while attempting a 3. Just another night for a player who appropriately wears No. 3 and had taken 335 shots from the field coming in, 327 of them from beyond the arc.\n\"It’s definitely a special thing, watching him just (make) 3 after 3 after 3,\" Townsend said. \"It gives us momentum and excitement to keep playing hard.\"\nThe Golden Grizzlies (23-11, 15-5 HL) won its first-ever Horizon League Tournament title against Milwaukee, 83-76, for its fourth bid into the NCAA Tournament (2005, 2010 and 2011). The Golden Grizzlies were last a 14-seed during its run in 2010 as it fell in the first round against Pittsburgh. The Golden Grizzlies made its tournament debut as a 16-seed at the 2005 tournament, while its highest-seed coming in 2011 as a 13-seed.\nSnow brings advisory, school closings A winter weather advisory is in place for most of Metro Detroit as a snow system moves into Southeast Michigan\nThe flakes started flying around 5:15 Friday morning for most of Metro Detroit – and in the northern communities, it started to stick pretty quickly. It&apos;s leading to dozens of crashes reported across Metro Detroit – with freeways across the entire area slowing down.\nGet location-based weather alerts on your mobile device by downloading the FOX 2 weather app and allowing notifications.\nThe snow is also leading to a large amount of school closings coming in. These are mostly in central and northern counties. Check the list of closings here.\nDrivers should expect limited visibility for the commute to work with the heaviest stuff expected to be done by 8 a.m.\nBabysitter charged in abuse, murder of 3-year-old ***WARNING: This story includes details of child abuse***\nA 30-year-old woman was charged with felony murder and first-degree child abuse in connection to Harmoni Henderson&apos;s death.\nTheir parents, Paris England and Marquise Henderson, trusted the woman with their baby.\n\"I would never in one million years (think) she would do this to my baby,\" said Paris England, the victim’s mother. \"Even if you think you trust the person, you can&apos;t.\"\nHarmoni was just 3-years-old and had autism and was non-verbal.\nThis week, her dad Marquise Henderson had to read his daughter’s autopsy report.\n\"Blunt force trauma,\" Marquise said. \"Blunt force trauma. A three year-old autistic baby.\"\nFeatured\nEngland left Harmoni with Harris on Sunday at her home on Detroit’s west side. Harris reportedly locked Harmoni and her own 1-year-old in a bedroom so she could smoke weed with a friend for three hours, Harmony&apos;s parents said.\nThe suspect then allegedly got enraged after Harmoni threw up on herself, so she doused the child with scalding water on her face and head. Harris is also accused of violently killing the little girl .\nEngland said she video-called to check in and that Harmoni was still alive. Harris said the little girl fell down the stairs and bumped her head.\nBut when she got there the next morning, Harmoni was in bed, motionless.\n\"She was already dead from the moment that I got there,\" the mother said. \"She was gone.\"\nThe parents were told that Harmoni died sometime overnight; 911 was never called.\nDetroit police say Harris confessed to the crime.\nRashad Trice pleads guilty to kidnapping of Wynter Smith Eight months ago, Wynter Smith was taken from her home in Lansing and later found murdered in Detroit. This week, the man who took her pleaded guilty to a federal charge of kidnapping.\nRashad Trice, 27, is facing numerous charges for kidnapping and killing the 2-year-old girl in the summer of 2023. He is set to plead guilty to kidnapping resulting in death. He faces up to life in prison for the crime.\nHe&apos;s set to formally plead guilty during a hearing later on Friday.\n\"Wynter was just so bright. I talked about how smart she was for such a young age,\" said the child&apos;s grandmother, Sharen Eddings.\nThe last eight months, since her granddaughter was killed, have been an emotional roller coaster, she said.\nAuthorities said Trice sexually assaulted and stabbed Wynter&apos;s mother before kidnapping the child on July 2, 2023 in Lansing. The kidnapping prompted an Amber Alert for Wynter.\nTrice, who is not Wynter&apos;s father, was charged federally with kidnapping a minor and kidnapping resulting in death. After being charged federally, he could have faced the death penalty but the U.S. Attorney&apos;s Office did not seek this punishment.\nLive on FOX 2 Daily Forecast A snow system arrived in Metro Detroit Friday morning – but the good news is the snow won&apos;t last through the weekend.\nWhat else we're watching Wayne County formally gets keys to new Criminal Justice Complex (CJC) that was completed by Bedrock Detroit. $60,000 in drugs, 8 guns seized in raids in Macomb and Wayne Counties led by local and federal authorities The Judge who presided over the Larry DeLisle case says the man who killed his four kids by driving his station wagon into the Detroit River in 1989 is ‘basically a mass murderer’ and shouldn't be released . Medical experts sound alarm on teen vaping as stats show close to 20% of teens have vaped. Highland Park woman struggling with trash, pests due to neighbor's piling garbage and is asking for help in getting the city to get it cleaned up Justice Department sues Apple in antitrust suit over monopoly on smartphones The Justice Department is accusing Apple of engineering an illegal monopoly in smartphones that boxes out competitors and stifles innovation .\nThe lawsuit, filed in federal court in New Jersey, alleges that Apple has monopoly power in the smartphone market and uses its control over the iPhone to \"engage in a broad, sustained, and illegal course of conduct.\"\nThe lawsuit — which was also filed with 16 state attorneys general — is the latest example of the Justice Department’s approach to aggressive enforcement of federal antitrust law that officials say is aimed at ensuring a fair and competitive market, even as it has lost some significant anticompetition cases.\nPresident Joe Biden has called for the Justice Department and the Federal Trade Commission to vigorously enforce antitrust statutes. The increased policing of corporate mergers and business deals has been met with resistance from some business leaders who have said the Democratic administration is overreaching, but it’s been lauded by others as long overdue.\nFeatured",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Weather"
+    ],
+    "external_links": [
+      "https://wx5tu.app.link/Jfg6pRX6Peb",
+      "https://www.wx5tu.app.link/Jfg6pRX6Peb"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "greg kampe",
+          "sentiment": "none"
+        },
+        {
+          "name": "gohlke",
+          "sentiment": "none"
+        },
+        {
+          "name": "john calipari",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack gohlke",
+          "sentiment": "none"
+        },
+        {
+          "name": "trey townsend",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kentucky wildcats",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oakland",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oakland university",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alabama a&m",
+          "sentiment": "none"
+        },
+        {
+          "name": "ncaa",
+          "sentiment": "none"
+        },
+        {
+          "name": "grizzlies",
+          "sentiment": "none"
+        },
+        {
+          "name": "ou",
+          "sentiment": "none"
+        },
+        {
+          "name": "wildcats",
+          "sentiment": "none"
+        },
+        {
+          "name": "golden grizzlies",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "detroit",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "oakland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T14:34:33.145+02:00",
+    "updated": "2024-03-22T18:00:53.984+02:00"
+  },
+  {
+    "uuid": "e166ac1e26de337fb229f507430b1a68e2520c4e",
+    "url": "https://mtstandard.com/news/local/morin-sisters-emphasize-compassion-in-work-at-butte-salvation-army/article_9e49480e-d745-11ee-af15-eb4dee772d45.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "DUNCAN ADAMS duncan.adams@mtstandard.com",
+    "published": "2024-02-29T22:30:00Z",
+    "title": "Open doors, open hearts: Morin sisters emphasize compassion in work at Butte Salvation Army",
+    "text": "The Morin sisters approach their work guided by a fundamental principle: No judgment.\nThey encounter every day people who have been battered by life and living, people often daunted and desperate but deserving, the sisters believe, of dignity and a glimmer of hope.\nMany who are homeless or penniless, many who are seeking refuge or a warm coat, have walked tentatively through the door at the Butte Salvation Army Service Center. From experiences elsewhere, some anticipate the scorn, rejection or worse often accompanying interactions with the larger world.\nTracey, left, and her identical sister Tina Morin stand for a portrait on Tuesday, Feb. 27, 2024 at the Butte Salvation Army Service Center, where the sisters work as the director of social services and the director of the organization, respectively.\nJOSEPH SCHELLER, The Montana Standard Tina Morin is director of The Salvation Army’s service center in Butte.\n“Don’t judge. That’s The Salvation Army approach to things,” she said. “Give people as much help as you can.”\nHer sister, Tracey Morin, works as director of social services at the center, which occupies a building off Harrison Avenue.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "morin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "tracey morin",
+          "sentiment": "none"
+        },
+        {
+          "name": "tina morin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "butte salvation army",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "salvation army",
+          "sentiment": "none"
+        },
+        {
+          "name": "butte salvation army service center",
+          "sentiment": "none"
+        },
+        {
+          "name": "the salvation army",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "harrison avenue",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:43:51.143+02:00",
+    "updated": "2024-03-02T05:48:33.612+02:00"
+  },
+  {
+    "uuid": "292fc52bc5a2e1a41604dbd9c01ee51af088a0af",
+    "url": "https://www.niagara-gazette.com/news/delish/crumbl-cookies-open-on-military-road/article_b94a605e-abf1-11ee-9df8-f7aeda78b9a8.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Robert Creenan | robert.creenan@niagara-gazette.com",
+    "published": "2024-01-05T21:00:00Z",
+    "title": "Crumbl Cookies open on Military Road",
+    "text": "Crumbl Cookies has opened its first Niagara County store, giving residents the chance to try out its hearty treats. The new location is in the Wegmans plaza at 1575 Military Road. This is the third location for the cookie chain in Western New York, with the others on Transit Road in Clarence and Niagara Falls Boulevard in Amherst. Store manager Joe Smeal said that everything inside is made from scratch and done throughout the day so that people always get warm, fresh cookies. “They pride themselves on having the best cookies in the world,” Smeal said, with the large cookies being 4.5 inches in diameter. Each cookie is four servings, with cutters also sold inside. During Friday’s grand opening, customers who came with a promo code on the Cumbl Cookies app received a free chocolate chip cookie. The cookies available will rotate so that five different kinds are offered along with the flagship chocolate chip. There are at least 40 employees working this location in different shifts. The business is owned by Muhammad Shoaib, who owns more than 15 food franchise locations in Western New York and Southern Ontario. His other local operations include Papa John’s Pizza, Moe’s Southwest Grill and A&W in downtown Niagara Falls. Crumbl Cookies will be open from 8 a.m. to 10 p.m. Monday through Thursday and 8 a.m. to midnight Friday and Saturday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "smeal",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe smeal",
+          "sentiment": "none"
+        },
+        {
+          "name": "muhammad shoaib",
+          "sentiment": "none"
+        },
+        {
+          "name": "clarence",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "military road crumbl cookies",
+          "sentiment": "none"
+        },
+        {
+          "name": "niagara county",
+          "sentiment": "none"
+        },
+        {
+          "name": "western new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "niagara falls boulevard",
+          "sentiment": "none"
+        },
+        {
+          "name": "transit road",
+          "sentiment": "none"
+        },
+        {
+          "name": "amherst",
+          "sentiment": "none"
+        },
+        {
+          "name": "military road",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:01:48.246+02:00",
+    "updated": "2024-01-06T01:37:55.578+02:00"
+  },
+  {
+    "uuid": "09caef1de1a16080c1bac8073922d3efae0a151f",
+    "url": "https://www.lavozdegalicia.es/noticia/vigo/nigran/2025/02/21/adios-primer-parroco-san-paio-navia/0003_202502V21C4992.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "lavozdegalicia",
+    "published": "2025-02-21T04:00:00Z",
+    "title": "Adiós al primer párroco de San Paio de Navia",
+    "text": "Tras una larga vida de entrega a la Iglesia, el reverendo Manuel Otero Blanco falleció a los 97 años de edad en el municipio de Nigrán . Otero fue el primer párroco del templo de San Paio de Navia , obra del arquitecto vigués Desiderio Pernas. Se puso la primera piedra el 8 de abril de 1973 y bendijo el nuevo templo, el 2 de junio de 1974, el obispo José Delicado Baeza, que fue quien remodeló totalmente el mapa pastoral de la ciudad distribuida en 14 parroquias creadas a la vez el 31 de octubre de 1970.\nDurante sus años en activo, Otero Blanco desarrolló su ministerio sacerdotal en Lavadores, Vigo, Vilaza, Chaín y Mañufe, y fue también profesor de religión y misionero en México y Puerto Rico. Estando en este último país se cumplieron los 25 años de su sacerdocio.\nSus restos fueron velados ayer en el tanatorio de Cangas y sus restos mortales ya descansan en el cementerio municipal de O Hío.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Human Interest->funeral and memorial service",
+      "Religion and Belief->church",
+      "Religion and Belief->religious leader"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Manuel Otero Blanco",
+          "sentiment": "negative"
+        },
+        {
+          "name": "José Delicado Baeza",
+          "sentiment": "none"
+        },
+        {
+          "name": "Desiderio Pernas",
+          "sentiment": "none"
+        },
+        {
+          "name": "Chaín",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Iglesia",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Paio de Navia",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lavadores",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nigrán",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T06:19:23.096+02:00",
+    "updated": "2025-03-01T03:53:02.200+02:00"
+  },
+  {
+    "uuid": "d9a669a916986f0b275e8cc8ea20278ad5d5934e",
+    "url": "https://indianexpress.com/article/india/aviation-bill-mps-flag-soaring-airfares-no-low-cost-airlines-anymore-says-rudy-9503737",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-08-09T00:00:00Z",
+    "title": "Aviation Bill: MPs flag soaring airfares; no low-cost airlines anymore, says Rudy | India News - The Indian Express",
+    "text": "Advertisement News India Aviation Bill: MPs flag soaring airfares; no low-cost airlines anymore, says Rudy Aviation Bill: MPs flag soaring airfares; no low-cost airlines anymore, says Rudy The Bill, tabled by Civil Aviation Minister K Rammohan Naidu, aims to replace the Aircraft Act of 1934.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "k rammohan naidu",
+          "sentiment": "none"
+        },
+        {
+          "name": "adoor prakash",
+          "sentiment": "none"
+        },
+        {
+          "name": "sougata ray",
+          "sentiment": "none"
+        },
+        {
+          "name": "rajeev rai",
+          "sentiment": "none"
+        },
+        {
+          "name": "bill — bharatiya vayuyan vidhayak",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rudy | india news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "indian express members of parliament",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "samajwadi party",
+          "sentiment": "none"
+        },
+        {
+          "name": "‘hawai jahaz",
+          "sentiment": "none"
+        },
+        {
+          "name": "trinamool congress",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "middle east",
+          "sentiment": "none"
+        },
+        {
+          "name": "lok sabha",
+          "sentiment": "none"
+        },
+        {
+          "name": "kerala",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:35:33.241+03:00",
+    "updated": "2024-08-09T02:04:48.663+03:00"
+  },
+  {
+    "uuid": "e5459e14df97e73c4a0cf3e03830834be72cd579",
+    "url": "https://news.bloomberglaw.com/private-equity/openai-releases-gpt-4-5-model-aimed-at-better-writing-and-coding",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rachel Metz",
+    "published": "2025-02-27T20:00:00Z",
+    "title": "OpenAI Releases&#xa0;GPT-4.5 Model Aimed at&#xa0;Better Writing and Coding",
+    "text": "OpenAI is rolling out an early version of a long-awaited new artificial intelligence model called GPT-4.5 to select users after hitting stumbling blocks in developing the AI system last year.\nIn a blog post Thursday, the San Francisco-based AI startup said GPT-4.5 is better at picking up on and responding to subtle cues from users’ written prompts and is particularly adept at chatting, writing and coding. OpenAI also expects the new model to make things up less often than its prior software.\nAt first, OpenAI is offering the model as a “research preview” to a limited group of software developers and users who pay ...\nLearn more about Bloomberg Law or Log In to keep reading:\nLearn About Bloomberg Law\nAI-powered legal analytics, workflow tools and premium legal & business news.\nAlready a subscriber?\nLog in to keep reading or access research tools.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:55:40.003+02:00",
+    "updated": "2025-02-28T00:55:40.003+02:00"
+  },
+  {
+    "uuid": "614f85ea238166055952877967a89b1d8166a7da",
+    "url": "https://www.tvanouvelles.ca/2023/12/28/entente-de-principe--la-fae-met-fin-a-sa-greve",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agence QMI",
+    "published": "2023-12-28T23:09:00Z",
+    "title": "Entente de principe: la FAE met fin à sa grève | TVA Nouvelles",
+    "text": "Les écoliers pourront finalement bel et bien rentrer en classe à la fin des vacances des Fêtes, la FAE ayant confirmé jeudi être parvenue à une entente de principe avec le gouvernement qui lui permet de mettre fin à sa grève illimitée. • À lire aussi: [Négociations du secteur public: le Front commun conclut une entente de principe ](http://www.tvanouvelles.ca/2023/12/28/negociations-du-secteur-public-le-front-commun-conclut-une-entente-de-principe) • À lire aussi: [Grève générale illimitée de la FAE: le jeu en valait-il la chandelle?](http://www.tvanouvelles.ca/2023/12/28/greve-generale-illimitee-de-la-fae-le-jeu-en-valait-il-la-chandelle) • À lire aussi: [Grèves du secteur public: «on était sur le point d’une crise sociale»](http://www.tvanouvelles.ca/2023/12/28/on-etait-sur-le-point-dune-crise-sociale) Les neuf syndicats formant la Fédération autonome de l’enseignement (FAE), qui avait dévoilé mercredi avoir conclu une proposition globale de règlement avec Québec, ont convenu jeudi que celle-ci constitue bel et bien une entente de principe. Conséquemment, la FAE met fin à sa grève générale illimitée qui a paralysé les classes de 12 centres de services scolaires pendant 22 jours. «Toutefois, l’étape ultime consiste à présenter [l’entente de principe] aux 66 500 membres de la FAE, qui ont fait preuve d’un courage et d’une détermination exemplaires au cours des dernières semaines. Ce sont aux enseignantes et enseignants de répondre au gouvernement de François Legault et de dire s’ils estiment avoir été entendus», a tempéré la présidente de la FAE, Mélanie Hubert, par communiqué. Le contenu de l’entente de principe n’a pas été dévoilé pour le moment. Le regroupement syndical juge néanmoins que cette proposition «contient des particularités qui répondent aux priorités de négociation identifiées par les membres». L’entente de principe sera présentée aux professeurs au retour des vacances des Fêtes, a-t-on précisé. Plus militants que leurs collègues du Front commun, les enseignants de la FAE ont débrayé pendant des semaines, se privant de salaire. Leurs revendications allaient, entre autres, de la composition des classes à la question des salaires et de l’organisation du travail.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Education"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:47:59.557+02:00",
+    "updated": "2023-12-29T03:47:59.557+02:00"
+  }
+]

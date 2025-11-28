@@ -1,0 +1,195 @@
+[
+  {
+    "uuid": "9764fb69a0e30f5fa2971086ebf057f7da942ff1",
+    "url": "https://www.lemagit.fr/actualites/366616237/Ransomware-Hunters-International-decentralise-le-stockage",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valéry Rieß-Marchive",
+    "published": "2024-11-22T07:46:00Z",
+    "title": "Ransomware : Hunters International décentralise le stockage | LeMagIT",
+    "text": "Le fichier s’appelle « storage_linux_x64 ». Il s’agit d’un exécutable pour Linux. Il figure parmi les données de deux victimes d’affidés de la franchise de rançongiciel Hunters International. Il n’est pas anodin.\nSon descriptif explique que « Storage Software vous permet de partager l’accès aux données exfiltrées, catégoriser les documents et faire des révélations au travers de notre site Web sans avoir besoin de les uploader où que ce soit. Les données restent sur votre serveur ».\nAutrement dit, ce logiciel développé par Hunters International et mis à la disposition de ses affidés leur permet de divulguer les données volées à leurs victimes sur le site vitrine de l’enseigne, sans en perdre le contrôle.\nL’outil, tout juste découvert , permet de commander à distance la destruction des données en question – par la victime elle-même après paiement, dans l’interface de négociation . Mais ce logiciel permet aussi aux affidés de maintenir une infrastructure décentralisée de stockage des données de leurs victimes : « vous pouvez exécuter autant de copies, pointant vers différents dossiers, pour servir autant d’entreprises [victimes, N.D.L.R.] que vous en avez besoin ».\nL’utilisation de l’outil nécessite Tor, le point de terminaison de l’infrastructure de la franchise étant un nom de domaine en .onion. Un tel point de terminaison est codé en dur dans l’exécutable, mais celui-ci peut en accepter un autre. L’accès au point de terminaison est sécurisé par jeton.\nMessage d’aide de l’outil de stockage décentralisé de Hunters International. Le site vitrine de Hunters International a été découvert à l’automne dernier . Très vite, des liens avec Hive ont été repérés, par le chercheur rivitna , et à partir de l’analyse du code source du ransomware utilisé par Hunters International. Les équipes de Glimps ont fait les mêmes observations .\nLe 24 octobre dernier, Hunters International a toutefois réfuté toute affiliation directe avec Hive, assurant que « tous les codes sources de Hive ont été vendus, y compris le site Web et les anciennes versions Golang et C, et nous sommes ceux qui les ont achetés ». Le groupe a néanmoins récemment été surpris en plein recyclage de données issues de cyberattaques précédemment conduites sous bannière Hive .\nEt justement, fin janvier 2023, l’infrastructure de Hive avait été saisie à l’occasion d’une vaste opération judiciaire internationale . La décentralisation du stockage des données volées à ses victimes permet à Hunters International d’éviter que les forces de l’ordre ne mettent la main dessus, si une éventuelle compromission de son infrastructure devait advenir.\nL’examen des divulgations de données sous la bannière de Hunters International suggère que cet outil de décentralisation du stockage est utilisé depuis les débuts de l’enseigne : les données attribuées à plus de 70 de ses victimes – dont les 26 premières – sont inaccessibles à la vitrine de la franchise.\nCe chiffre suggère en outre une large adoption de l’outil parmi les affidés de Hunters International : l’enseigne a été utilisée pour la revendication de 242 victimes à cette date, dont près de 200 pour lesquelles des données ont été divulguées. Et en plus de celles dont les données apparaissent « déconnectées », il faut vraisemblablement compter avec celles pour lesquelles la latence de chargement des arborescences s’avère élevée.\nArticle initialement publié le 22 novembre 2024, mis à jour le 25 novembre 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.glimps.fr/hunters-international-un-nouvel-ancien-ransomware/",
+      "https://x.com/ValeryMarchive/status/1859944462652412170",
+      "https://www.x.com/ValeryMarchive/status/1859944462652412170",
+      "https://glimps.fr/hunters-international-un-nouvel-ancien-ransomware/",
+      "https://www.glimps.fr/hunters-international-un-nouvel-ancien-ransomware"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T16:16:51.714+02:00",
+    "updated": "2024-11-27T13:12:06.994+02:00"
+  },
+  {
+    "uuid": "f55f386b27a3fe2155b0c9f566b09557b0f652ae",
+    "url": "https://flipboard.com/topic/baileysmith/-/a-9hxFsapUTxecXK5otNN2pA%3Aa%3A2674861875-%2F0",
+    "ord_in_thread": 0,
+    "author": "nine.com.au - wwos",
+    "published": "2025-04-30T22:05:00Z",
+    "title": "'That's what Kane is': Biggest issue with TV star's sheds ban | Flipboard",
+    "text": "'That's what Kane is': Biggest issue with TV star's sheds ban AFL legend Matthew Lloyd says North Melbourne should have focused on winning a game of football rather than picking a fight with controversial …\nnine.com.au - wwos • 2h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sports coaching",
+      "Sport->australian rules football",
+      "Lifestyle and Leisure->leisure",
+      "Lifestyle and Leisure->club and association"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Matthew Lloyd",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kane",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "AFL",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T03:20:29.079+03:00",
+    "updated": "2025-05-01T00:24:43.000+00:00"
+  },
+  {
+    "uuid": "4c81ae3cb4baff8bef38b7623cd2af3e2f0c257a",
+    "url": "https://www.minutouno.com/sociedad/rio-la-plata/rige-alerta-crecida-del-posibles-anegamientos-la-ciudad-n5969461",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "minutounocom",
+    "published": "2024-03-21T22:13:00Z",
+    "title": "Rige alerta por crecida del Río de la Plata con posibles anegamientos en la Ciudad",
+    "text": "Rige alerta por crecida del Río de la Plata con posibles anegamientos en la Ciudad El Servicio de Hidrografía Naval (SHN) informó que la crecida sería de hasta 2,30 metros sobre los valores indicados en las tablas de marea. El Centro de Prevención de Crecidas del Servicio de Hidrografía Naval (SHN) emitió un alerta por la gran crecida del Río de la Plata en la zona ribereña de la Ciudad Autónoma de Buenos Aires (CABA). El organismo dependiente del Ministerio de Defensa de la Nación indicó que la crecida sería de hasta 2,30 metros sobre los valores indicados en las tablas de marea, produciéndose este jueves desde las 18. Por esa razón, el gobierno porteño advirtió que ante cualquier emergencia, comunicarse al 911 o 107, evitando circular por las calles y avenidas de la zona ribereña, como la Costanera, Figueroa Alcorta y la Avenida del Libertador, donde se podrían producir anegamientos. Alturas máximas en el AMBA El alerta emitido por el SHN estima las siguientes alturas máximas en el Área Metropolitana de Buenos Aires (AMBA): - Puerto de La Plata: 3,40 metros a las 16 - Puerto de Buenos Aires (Dársena F): 3,40 metros a las 18 - San Fernando: 3,50 metros a las 19 Temas Dejá tu comentario Te puede interesar Lo que se lee ahora",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-22T00:32:35.598+02:00",
+    "updated": "2024-03-22T00:32:35.598+02:00"
+  },
+  {
+    "uuid": "f8d97754a95d40d542c983d49f12f0afa3f352c7",
+    "url": "https://roughdraftatlanta.com/2024/08/30/film-review-incoming",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sammie Purcell",
+    "published": "2024-08-30T00:00:00Z",
+    "title": "'Incoming\" fails to deliver on the teen movie formula",
+    "text": "(L-R) Raphael Alejandro, Mason Thames, Ramon Reed, and Bardia Seiri in “Incoming.” (Photo Cr. Spyglass Media Group, LLC and Artists Road, LLC/Courtesy of Netflix) The high school movie is an important genre of film, and one with a multitude of formulas. One of those formulas – and perhaps the one that reigns supreme – is that of the high school party.\n“Can’t Hardly Wait.” “Superbad.” “Project X.” “Booksmart.” Plenty of teen movies have tackled the big party, following that tried and true formula all the way to classic, teen movie canonization. In a lot of ways, “Incoming” – a new Netflix film from Dave and John Chernin in their feature length debut – follows that same party movie structure to a T. Four incoming freshmen experience the first part of their high school careers. It has everything you’d expect – romance, drugs, alcohol, and plenty of hijinks. So, why does it fall so frightfully short?\nIt’s not that “Incoming” lacks originality, necessarily, but rather that it goes through the motions in a fairly lackluster fashion. And those motions are, more often than not, lazy and without even a modicum of the zeal and humor that gives the best of these movies such staying power. There’s a semblance of a spark in the film’s central romance, but that spark fizzles out pretty quickly when it’s propped up by a whole lot of nothing.\n“Incoming” starts out by briefly introducing us to each character and what they’re looking for out of their respective high school careers. Benj (Mason Thames) wants to pluck up the courage to tell his sister’s best friend Bailey (Isabella Ferreira) that he has feelings for her. Koosh (Bardia Seiri) wants to hook up with girls and prove he’s just as cool as his older brother. And Eddie (Ramon Reed) and Connor (Raphael Alejandro) are just trying to get by (I’m honestly not sure what their big high school goals are – the movie kind of treats them like an afterthought).\nBenj is the character that feels the most like a classic archetype of the high school movie – your typical gawky, but cute kid fumbling his way through his first big crush. Benj’s crush on Bailey fuels most of the film, and Thames and Ferreira are capable enough to imbue most of their scenes together with first love sweetness (with one glaring exception, an early uncomfortable scene that involves accidental flashing on Bailey’s part).\nOtherwise, two major questions arise throughout the majority of “Incoming,” and they’re not questions you necessarily want asked of your coming-of-age teen movie: why should I care, and why is this funny? Far be it from anyone to ask for a longer cut of this film, but perhaps we could have used the time. The relationships between the four main boys are so vague and thinly drawn, they might as well not exist at all. You get no real sense of why these four were ever friends. Defining character traits don’t go much further than “rich and misogynistic” or “hates his mom’s boyfriend,” and no one is funny enough to warrant the lack of depth. But what’s more than that is the lack of attention paid to why friendships form in the first place, and the strain that getting older can put on them.\nIf “Incoming” focused more on the evolution of friendship, or had real, tangible characters to latch onto, you might be able to forgive some of the film’s more juvenile humor – a staple in movies like this, whether it works for you or not. But the big comic set pieces feel out of touch at best, deeply uncomfortable at worst. Of course, teens behaving badly is par for the course in this type of movie, and part of the reason we return to them in the first place – to laugh and cringe at their misguided notions. But here, the jokes never land, and it’s often difficult to discern where the joke even is. In one storyline, Connor and Eddie try to infiltrate the party only to be mistaken as an Uber for the hottest girl in school, Katrina (Loren Gray). Katrina is stupendously drunk, and asks the boys to drive her to a Taco Bell. She downs a bunch of food and then promptly falls asleep and … relieves herself all over the car while passed out.\nAgain it begs the question, what’s the joke? That it’s gross when a conventionally attractive girl eats a bunch of food? That it’s funny when hot girls do something embarrassing? This does seem to be what “Incoming” is getting at, so maybe it’s not too hard to find the joke after all – just difficult to understand what’s so funny about it in the first place.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dave",
+          "sentiment": "none"
+        },
+        {
+          "name": "john chernin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "netflix",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T13:34:04.615+03:00",
+    "updated": "2024-08-30T22:19:10.289+03:00"
+  }
+]

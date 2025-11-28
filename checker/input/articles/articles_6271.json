@@ -1,0 +1,450 @@
+[
+  {
+    "uuid": "6c576ee2a35e2f72d03202f9c044075f2b731b7b",
+    "url": "https://www.onclive.com/view/pacritinib-elicits-early-responses-in-multi-refractory-chronic-graft-vs-host-disease",
+    "ord_in_thread": 0,
+    "author": "Kristi Rosa",
+    "published": "2025-04-02T21:15:00Z",
+    "title": "Pacritinib Elicits Early Responses in Multi-Refractory Chronic Graft-Vs-Host Disease",
+    "text": "Your AI-Trained Oncology Knowledge Connection!\nNews\nArticle\nPacritinib was active and safe in patients with multi-refractory chronic graft-vs-host disease.\nPacritinib (Vonjo) demonstrated preliminary efficacy with an acceptable toxicity profile in patients with multi-refractory chronic graft-vs-host disease (cGVHD), according to data from a phase 1 study (NCT05531786) presented at the 51st Annual EBMT Meeting.1\nAt a median follow-up of 15 months (range, 8-20.3), the agent elicited an overall response rate (ORR) of 67% at 6 months, with 4 patients experiencing partial responses (PRs) and 2 achieving stable disease (SD). The treatment was found to be tolerable with no dose-limiting toxicities (DLTs) reported. Only 1 patient experienced grade 3 or higher arthralgia, which was not determined to be related to study treatment.\n“Pacritinib, an oral CSF1R/JAK2/IRAK1 inhibitor, has shown a favorable safety profile with promising response rates in [patients with] multi-refractory severe cGVHD at the initial dose level,” Noa G. Holtzman, MD, of University of Miami Sylvester Cancer Center, in Florida, and colleagues, wrote in a poster. “Accrual for dose level 2 [DL2] is ongoing.”\nPacritinib targets CSF1R, JAK2, and IRAK1, which are important inflammatory and fibrotic pathways associated with GVHD pathophysiology. The agent received accelerated approval from the FDA in February 2022 for use in adult patients with intermediate- or high-risk primary or secondary myelofibrosis with a platelet count under 50 × 109/L.2 Investigators hypothesized that pacritinib could potentially be an effective option against severe cGVHD—one that would not lead to dose-limiting cytopenias.1 To this end, they launched a phase 1 study to further explore this agent in this population.\nThe modified dose-escalation study, which was sponsored by the National Cancer Institute, enrolled patients with moderate or severe cGVHD who did not respond to at least 2 prior lines of systemic therapy.3 Patients were required to be at least 18 years of age, have a Karnofsky performance status of at least 60%, and have acceptable organ and bone marrow function.\nStudy participants received pacritinib at 100 mg twice daily (dose level 1; DL1) or 200 mg twice daily (DL2) on days 1 to 28 of a 28-day treatment cycle.1 Treatment continued for up to 1 year if PR or SD was achieved. Accrual to DL1 has been completed, and accrual for DL2 is still underway. Investigators monitored adverse effects (AEs) and conducted clinical response assessments after 6 weeks, and then 3, 6, 9, and 12 months of treatment in accordance with the 2014 National Institutes of Health cGVHD Response Criteria.\nIn phase 1, the primary objective was to determine the maximum tolerated dose after DLT. Secondary efficacy end points comprised 6-month ORR. Investigators also examined patient-reported outcomes (PROs). At the time of data cutoff, half of patients had completed 12 months of treatment.\nAt the time of data cutoff, 7 patients had been enrolled to the trial and 6 had received treatment. The mean patient age was 44 years (range, 27-69), and most patients were male (83%) and Caucasian (67%). The median time from hematopoietic stem cell transplantation (HSCT) to study enrollment was 5.4 years (range, 4.1-12.3), and the median time from cGVHD diagnosis to study enrollment was 3.4 years (range, 2.2-7.5). All patients had severe cGVHD with a median of 3 organs involved. The median prior number of therapies received was 6 (range, 2-9); all patients had received steroids, and 83% received ruxolitinib (Jakafi)/belumosudil (Rezurock).\nWith regard to PROs, 60% of patients were noted to have a meaningful decrease of 7 or more points in the Lee Symptom Scale.\nIn terms of safety, the most common grade 2 or higher AEs experienced at DL1 were upper respiratory infection (n = 5), dyspepsia (n = 2), abdominal pain, increased alanine and aspartate aminotransferase levels, infective conjunctivitis, dysgeusia, decreased ejection fraction, eye disorders, hypokalemia, and hypophosphatemia (n = 1, each).\n“Treatment was tolerated well without any early treatment discontinuation or dose [reductions], and there have been no cases of relapse or death,” study authors concluded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health treatment and procedure",
+      "Health->health organisation",
+      "Health->cancer",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "GVHD",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Vonjo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ORR",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Karnofsky",
+          "sentiment": "negative"
+        },
+        {
+          "name": "CSF1R",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Noa G. Holtzman",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "MD",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Florida",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Jakafi)/belumosudil",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "dysgeusia",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pacritinib",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "IRAK1",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "the Lee Symptom Scale",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "NCT05531786",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "EBMT",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "the National Cancer Institute",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "University of Miami Sylvester Cancer Center",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "FDA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "DL2",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "SD",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "National Institutes of Health cGVHD Response Criteria",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "DLT",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "HSCT",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AEs",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:28:16.826+03:00",
+    "updated": "2025-04-03T00:28:16.826+03:00"
+  },
+  {
+    "uuid": "394ae86b52e10ce7329ac1ca007a5db16fb5d6c1",
+    "url": "https://cdn.com.do/nacionales/uasd-entrega-titulos-a-2432-nuevos-profesionales-en-grado-y-postgrado",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción",
+    "published": "2024-12-05T20:23:00Z",
+    "title": "UASD entrega títulos a 2,432 nuevos profesionales en grado y postgrado",
+    "text": "Santo Domingo, RD. – Este jueves, la [Universidad Autónoma de Santo Domingo](https://uasd.edu.do/) (UASD) celebró una emotiva ceremonia de investidura en la Plaza Héroes de Abril, donde entregó títulos a un total de 2,432 nuevos profesionales. De estos, 1,825 corresponden al nivel de grado y 609 al nivel de postgrado, en diversas áreas del conocimiento. Este evento marca el cierre de un año de logros académicos, destacando la importancia de la UASD como centro formador de profesionales para el país y el mundo.\nEl rector de la UASD, Editrudis Beltrán Crisóstomo, encabezó la investidura acompañado por miembros del Consejo Universitario. Durante su intervención, destacó que esta ceremonia es la mejor manera de culminar el año, al entregar a la sociedad profesionales altamente [capacitados](https://cdn.com.do/nacionales/cifras-de-discapacitados-en-rd-generan-mas-confusion/) que contribuirán al desarrollo del país y a la movilidad social.\n“Hoy la Primada de América inviste a 1,825 profesionales de grado y 609 de postgrado, de los cuales 9 recibirán el doctorado en Humanidades, Estudios Sociales y Culturales del Caribe, un programa exclusivo de nuestra universidad”, señaló Beltrán Crisóstomo.\nEn un gesto que resalta la globalización de la educación, el rector mencionó a Enmanuel Graciano Bonilla, bachiller de la UASD en Nueva York, quien se graduó como licenciado en Informática gracias a las facilidades de UASD Virtual. Esta iniciativa refuerza el compromiso de la universidad con los dominicanos en el exterior, brindando oportunidades de formación continua.\nInnovación y modernización de la UASD\nDurante la ceremonia, Beltrán Crisóstomo también hizo énfasis en los esfuerzos por modernizar la UASD, destacando la reciente implementación de una plataforma de postgrado innovadora. \"A través de esta plataforma en línea, los estudiantes pueden validar su elegibilidad para programas de especialización, maestría o doctorado, realizar pagos electrónicos y consultar calificaciones de manera ágil\", explicó el rector.\nPUEDES LEER:\nCon estas iniciativas, la UASD se posiciona como una universidad más competitiva, eficiente y accesible para estudiantes nacionales e internacionales, consolidando su papel como líder en la educación superior del país.\nReconocimiento a los mejores egresados\nEn el acto de investidura, se reconocieron a varios egresados por sus excelentes logros académicos. Stacey Heredia Sánchez, quien se graduó en la Licenciatura en Lenguas Modernas mención Francés, alcanzó la mayor calificación de la investidura de grado con un promedio de 96 puntos. También fueron destacados 719 profesionales por sus méritos académicos.\nEn el ámbito de posgrado, Luisa Massiel Salcie Montes de Oca, maestrante en Lingüística Aplicada a la Enseñanza del Idioma Inglés, fue reconocida por obtener el mayor índice académico de su promoción, con una calificación de 98.34.\nOferta académica diversificada\nLos nuevos graduados provienen de diversas facultades, incluyendo Humanidades, Ciencias de la Educación, Ciencias Económicas y Sociales, Ingeniería, Ciencias de la Salud, y más. Este año, la UASD invistió a profesionales en áreas clave para el desarrollo nacional, destacando la formación de nuevos médicos, ingenieros, educadores y especialistas en ciencias sociales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://uasd.edu.do/",
+      "https://www.uasd.edu.do/",
+      "https://uasd.edu.do"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T01:32:43.910+02:00",
+    "updated": "2024-12-06T01:32:43.910+02:00"
+  },
+  {
+    "uuid": "df258ff2792761483093f95908f9c2cd8841768e",
+    "url": "https://vnexplorer.net/man-and-woman-killed-after-crash-between-car-and-ambulance-transporting-elderly-patient-s698087.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T23:40:00Z",
+    "title": "Man and woman killed after crash between car and ambulance transporting elderly patient",
+    "text": "Both sustained injuries in the smash on the rural road near Newmarket, Suffolk\nA man and a woman have been killed in a crash between a car and a ambulance transporting an elderly patient.\nBoth sustained injuries in the smash on the rural road near Newmarket, Suffolk, at 7.30pm on December 19.\nThe marked transport ambulance had two passengers and a driver, while the blue Volkswagen Golf carried just the driver.\nTwo people in the ambulance, the female driver and male passenger, sustained serious injuries and were taken to Addenbrooke’s Hospital for treatment.\nThe second passenger, a woman, sustained minor injuries while the driver of the Golf also sustained serious injuries.\nThe marked transport ambulance had two passengers and a driver, while the blue Volkswagen Golf carried just the driver. Pictured: File photo\nTwo people in the ambulance, the female driver and male passenger, sustained serious injuries and were taken to Addenbrooke’s Hospital (pictured) for treatment\nBoth sustained injuries in the smash on the rural road (pictured) near Newmarket, Suffolk, at 7.30pm on December 19\nThe driver of the Golf, who was in her 70s, has since died.\nOne of the passengers in the ambulance, a man in his 90s, has also since died.\nFire engines and ambulances attended the incident in mid December alongside police.\nPolice are appealing for witnesses, who can call 101, quoting SC-19122023-302.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "volkswagen",
+          "sentiment": "none"
+        },
+        {
+          "name": "addenbrooke",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "suffolk",
+          "sentiment": "none"
+        },
+        {
+          "name": "newmarket",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:47:35.850+02:00",
+    "updated": "2023-12-29T01:47:35.850+02:00"
+  },
+  {
+    "uuid": "b3ea0bff18802ea78054fab681b9e2602a950c65",
+    "url": "https://abc13.com/drunk-driving-harris-county-no-refusal-dwi-initiative-hcso/14235025/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KTRK",
+    "published": "2023-12-28T23:06:00Z",
+    "title": "'No Refusal DWI Initiative' launched ahead of New Year's celebrations",
+    "text": "HOUSTON, Texas (KTRK) -- Authorities in Harris County are warning everyone not to drink and drive this New Year's holiday weekend. The Harris County Sheriff's Office announced its plans on Thursday to pull over intoxicated or impaired drivers under a \"No Refusal DWI Initiative\" ahead of the end-of-year celebrations. Drivers will not be allowed to refuse a blood alcohol test if they are suspected of being impaired. Checkpoints will be set up across Harris County starting Friday night. This is something officials do every year just in time for the holidays. Last year's efforts yielded 42 DWI arrests and 18 additional non-DWI arrests. SEE PREVIOUS REPORT: Houston police warn against DWI and celebratory gunfire ahead of New Year's Eve Harris County has one of the highest rates of deadly DWI crashes in the country. According to TxDOT, the county had 148 people killed in DUI crashes in 2022. Statewide, more than 1,000 people died in crashes that involved impaired drivers. During Thursday's press conference, the family of Deputy Jennifer Chavis, who was killed by a suspected drunk driver in 2022 , reminded everyone that each one of those is more than just a number. \"When we talk about realities, this is the reality of drunk driving that you see before you,\" Chavis' sister said. \"We and their family as well stand before you with pictures because that's all that we have left.\" HPD Chief Troy Finner also attended Thursday's meeting, saying these incidents are \"100% preventable.\" \"And that's what's so frustrating, because we come time and time again - and Harris County time and time again leads the nation in DWI-related deaths,\" he continued. \"Because you don't want to be in jail, but we're going to be out there. And most importantly - we don't want to see any more victims.\" SEE ALSO: House Bill 393 was passed earlier this year , which requires drunk drivers to pay child support if they kill a child's guardian. If the driver is convicted of intoxication manslaughter, they will have to make payments to the child until they turn 18 years old or graduate from high school. If you're celebrating this New Year's Eve, you are asked to plan ahead. Set up a ride home with a sober friend, family member, or rideshare service. Or, stay put until you're sober.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jennifer chavis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ktrk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "txdot",
+          "sentiment": "none"
+        },
+        {
+          "name": "harris county sheriff's office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "houston",
+          "sentiment": "none"
+        },
+        {
+          "name": "harris county",
+          "sentiment": "none"
+        },
+        {
+          "name": "eve harris county",
+          "sentiment": "none"
+        },
+        {
+          "name": "houston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:58:13.523+02:00",
+    "updated": "2023-12-29T18:33:05.586+02:00"
+  },
+  {
+    "uuid": "efc304bf3b21005b69f62a65aa8c2b2e6e7b16a9",
+    "url": "https://www.mydailyrecord.com/lifestyles/entertainment/south-park-to-stream-entire-series-on-paramount-with-50-new-episodes/article_4660f458-a190-5742-933d-7d64720977ac.html",
+    "ord_in_thread": 0,
+    "author": "Erin Maxwell, TV Insider",
+    "published": "2025-07-23T18:28:00Z",
+    "title": "'South Park' to Stream Entire Series on Paramount+ With 50 New Episodes | Entertainment | mydailyrecord.com",
+    "text": "A deal was finally reached as South Park creators Trey Parker and Matt Stone extended their overall deal with Paramount Global for another five years, with the show receiving an order for 50 new episodes.\nIn addition to the order, all 26 seasons of South Park will become available on Paramount+ for the first time. New episodes of the animated comedy will continue to premiere on Comedy Central, the show’s longtime home, before becoming available to stream on Paramount+ the following day. This moves the show from HBO Max, where it was previously streaming, though Paramount+ has streamed the odd special.\nkAm“(6 2C6 8C2E67F= 7@C E9:D @AA@CEF?:EJ 2?5 566A=J 9@?@C65 3J E96 ECFDE A=2465 :? FD[” !2C<6C DE2E65] “%9:D :D 23@FE >@C6 E92? 2 4@?EC24E — :E’D 23@FE @FC 4@>>:E>6?E E@ E9:D @C82?:K2E:@?[ @FC E62>>2E6D[ 2?5 @FC 72?D] (6’C6 7@4FD65 @? 3F:=5:?8 D@>6E9:?8 DA64:2= 2?5 5@:?8 H92E6G6C :E E2<6D E@ 3C:?8 492>A:@?D9:AD E@ E9:D 4:EJ]”k^Am\nkAm“%C6J 2?5 x 2?5 E96 H9@=6 k6>m$@FE9 !2C<k^6>m 4C6H 2C6 8C2E67F= 7@C E9:D 6IE6?D:@? 2?5 E9:D 562=[” $E@?6 D2:5] “(6 H2?E E@ E92?< k2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^A6@A=6^49C:D\\>442CE9J^Qmr9C:D |4r2CE9Jk^2m 2?5 z6J6D w:==\\t582C 7@C J62CD @7 8C62E A2CE?6CD9:A 2?5 2C6 =@@<:?8 7@CH2C5 E@ 4@?E:?F:?8 E@ >2<6 k6>m$@FE9 !2C<k^6>m 7@C E96 ?6IE 7:G6 J62CD]”k^Am\nk5:G 4=2DDlQ:?=:?6\\42==@FEQmk5:G 4=2DDlQ:?=:?6\\42==@FE\\4@?E6?EQmk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a__cgh^D@FE9\\A2C<\\D62D@?\\af\\AC6>:6C6\\56=2J65\\4C62E@CD\\2?8CJ\\>6C86C^Qmk:>8 96:89ElQ`deQ H:5E9lQac_Q DC4lQ9EEADi^^HHH]EG:?D:56C]4@>^HA\\4@?E6?E^FA=@25D^a_ad^_f^$@FE!2C<0$af0z6JpCE\\`_`cIdf_]A?8Q 2=ElQUR_bhj$@FE9 !2C<UR_bhj rC62E@CD uFC:@FD ~G6C $62D@? af s6=2J[ q=2>6 |6C86CQ ^mk^2mk5:G 4=2DDlQ:?=:?6\\42==@FE\\=236=Qm#6=2E65k^5:Gmk9bmk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a__cgh^D@FE9\\A2C<\\D62D@?\\af\\AC6>:6C6\\56=2J65\\4C62E@CD\\2?8CJ\\>6C86C^QmV$@FE9 !2C<V rC62E@CD uFC:@FD ~G6C $62D@? af s6=2J[ q=2>6 |6C86Ck^2mk^9bmk^5:Gmk^5:Gm\nkAm%96 2??@F?46>6?E 7@==@HD ?6HD 7C@> yF=J a E92E E96 AC6>:6C6 @7 k6> 52E2\\DE2CElQ`caQ 52E2\\6?5lQ`deQm$@FE9 !2C<’Dk^6>m afE9 D62D@? 92D 366? A@DEA@?65 E@ yF=J ab[ EH@ H66<D =2E6C E92? A=2??65] pD 2 C6DF=E @7 E96 56=2J[ E96 4C62E@CD E@@< E@ k2 9C67lQ9EEADi^^I]4@>^$@FE9!2C<^DE2EFD^`hc_bhfgf`gdhbgccbaQ E2C86ElQ03=2?<Q C6=lQ?@@A6?6CQm) W7@C>6C=J %H:EE6CXk^2m E@ G6?E E96:C 7CFDEC2E:@?D :? 2 A@DEi “x? C6DA@?D6 E@ E96 AC6DD C6=62D6 7C@> r@>65J r6?EC2= 23@FE E96 492?86 :? E96 AC6>:6C6 52E6 7@C k6>m$@FE9 !2C<[k^6>m %C6J !2C<6C U2>Aj |2EE $E@?6 D2:5 — ‘%9:D >6C86C :D 2 DYYED9@H 2?5 :E’D 7YY<:?8 FA k6>m$@FE9 !2C<k^6>m] (6 2C6 2E E96 DEF5:@ H@C<:?8 @? ?6H 6A:D@56D 2?5 H6 9@A6 E96 72?D 86E E@ D66 E96> D@>69@H]’”k^Am\nkAm!2C<6C 2?5 $E@?6 244FD65 :?4@>:?8 !2C2>@F?E AC6D:56?E y677 $96== @7 :?E6C76C:?8 H:E9 E96:C 4@?EC24E ?68@E:2E:@?D H:E9 (2C?6C qC@D] s:D4@G6CJ 2?5 }6E7=:I]k^Am\nkAmkDEC@?8mk6>m$@FE9 !2C<k^6>m[ $62D@? af !C6>:6C6[ (65?6D52J[ yF=J ab[ `_^h4[ r@>65J r6?EC2=k^DEC@?8mk^Am\nkAmkDEC@?8m|@C6 w625=:?6Dik^DEC@?8mk^Am\nkF=mk=:mk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a_cadg^52C4:\\=J??6\\72C>6C\\?@H\\E@52J\\28E\\H:??6C^Qm(96C6 xD ‘pv%’ $62D@? `a (:??6C s2C4: {J??6 u2C>6C }@Hn w6C {:76 g *62CD {2E6Ck^2mk^=:mk=:mk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a_cade^D@FE9\\A2C<\\DEC62>:?8\\A2C2>@F?E\\A=FD\\?6H\\6A:D@56D^Qm‘$@FE9 !2C<’ E@ $EC62> t?E:C6 $6C:6D @? !2C2>@F?EZ (:E9 d_ }6H tA:D@56Dk^2mk^=:mk=:mk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a_caaa^H966=\\@7\\7@CEF?6\\4@?E6DE2?E\\H:?D\\`aa___\\H@CDE\\8F6DD\\6G6C^Qm‘(966= @7 u@CEF?6’ r@?E6DE2?E (:?D S`aa[___ p7E6C ‘(@CDE vF6DD tG6C’k^2mk^=:mk=:mk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a_ca_b^<6?\\;6??:?8D\\;6@A2C5J\\D<:==D\\42?5:5\\D4@EE\\C:442C5:\\6I4=FD:G6^Qmz6? y6??:?8D v6ED r2?5:5 p3@FE (96E96C w6’5 (:? ‘y6@A2C5JP’ %@52Jk^2mk^=:mk=:mk2 9C67lQ9EEADi^^HHH]EG:?D:56C]4@>^`a_c`gh^DE:4<\\D62D@?\\a\\ACJ46\\D2?E:\\4@>A6E:E:@?\\@H6?\\H:=D@?^Qm‘$E:4<’ %66D &A r@>A6E:E:@? !CJ46 U2>Aj $2?E: 7@C $62D@? a — %62> @? (92E r@F=5 w2AA6? }6IEk^2mk^=:mk^F=m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->online media outlet",
+      "Arts, Culture and Entertainment->series",
+      "Lifestyle and Leisure->gaming and lottery",
+      "Lifestyle and Leisure->game",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tvinsider.com/people/matt-stone/",
+      "https://www.tvinsider.com/people/trey-parker/",
+      "https://www.tvinsider.com/show/south-park/",
+      "https://tvinsider.com/people/trey-parker/",
+      "https://tvinsider.com/people/matt-stone/",
+      "https://www.tvinsider.com/people/trey-parker",
+      "https://tvinsider.com/show/south-park/",
+      "https://www.tvinsider.com/people/matt-stone",
+      "https://www.tvinsider.com/show/south-park"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Trey Parker",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "South Park",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Paramount Global",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "HBO Max",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "paramount global",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "PARA",
+              "exchange": "NASDAQ"
+            }
+          ]
+        },
+        {
+          "name": "hbo max",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Dunn",
+          "Linden",
+          "Coats",
+          "Buies Creek",
+          "Plain View",
+          "Erwin",
+          "Lillington",
+          "Mamers",
+          "Bunnlevel",
+          "Angier"
+        ],
+        "state": [
+          "North Carolina"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:36:00.996+03:00",
+    "updated": "2025-07-24T07:41:02.000+03:00"
+  }
+]

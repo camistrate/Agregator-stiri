@@ -1,0 +1,175 @@
+[
+  {
+    "uuid": "e3b02de66d6854dff681e8924380c5f577ffe703",
+    "url": "https://www.lavoz.com.ar:443/ciudadanos/la-tormenta-y-el-viento-causaron-destrozos-en-rio-cuarto-el-comunicado-de-la-municipalidad",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción LAVOZ",
+    "published": "2024-12-12T22:42:00Z",
+    "title": "La tormenta y el viento causaron destrozos en Río Cuarto: piden a lo vecinos permanecer en sus hogares",
+    "text": "La\n[tormenta que azota a Córdoba](https://www.lavoz.com.ar/servicios/se-viene-el-cambio-de-tiempo-en-cordoba-a-que-hora-ingresa-la-tormenta-que-traeria-granizo/) este jueves causó destrozos en la localidad de Río Cuarto: se registraron voladuras de techos, anegamiento de calles, árboles caídos y cortes en los servicios\nIncluso, durante la tarde y mientras la tormenta comenzaba a ganar terreno, en la ciudad se vivió un momento aterrador que algunos vecinos compartieron luego en redes sociales.\nEs que debido a las ráfagas de viento, que llegaron hasta los 110 kilómetros por hora según algunos expertos, una gran ola de polvo se levantó y dejó parte de la ciudad “a oscuras” en plena tarde.\nEn este marco, desde el Gobierno de Córdoba informaron que “se están haciendo los relevamientos en profundidad en cada localidad”.\n“En primera instancia hacemos un relevamiento comunicándonos con los intendentes y las defensa civil”, profundizaron, en diálogo con La Voz.\nSegún adelantaron, hasta el momento no hubo registro de ningún herido en Río Cuarto.\nEl comunicado de la Municipalidad de Río Cuarto\nDesde la Municipalidad de Río Cuarto emitieron un comunicado a la población ante el paso de la tormenta. “Ante las inclemencias climáticas actuales se recomienda mantener la calma y se solicita a todos los vecinos permanecer en sus hogares o lugares de trabajo”, apuntaron.\nEl director de Defensa Civil, Javier De Olmos, informó: “Tenemos muchas arterias que están obstaculizadas con árboles caídos, muchos cables cortados que algunos tienen energía (ya está Epec trabajando).”\nA su vez, apuntaron que se puso en marcha el Centro de Operaciones de Emergencia Municipal a los efectos de atender todo tipo de emergencia. En tanto, destacaron que las emergencias deben ser comunicadas al 911, mientras que los problemas de personas en situación de vulnerabilidad a la Guardia Social (3585480179)\nNoticia en desarrollo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Cuarto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T01:29:16.174+02:00",
+    "updated": "2024-12-13T01:29:16.174+02:00"
+  },
+  {
+    "uuid": "c008f400dcd1be48c860ac8fe113401cca13d390",
+    "url": "https://nybreaking.com/experts-warn-that-dna-sequencers-are-vulnerable-to-bootkit-attacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James",
+    "published": "2025-01-09T19:03:00Z",
+    "title": "Experts warn that DNA sequencers are vulnerable to bootkit attacks",
+    "text": "Eclypsium researchers find vulnerability in the way iSeq 100 starts up The bug allows threat actors to establish persistence, block the device, or tamper with the results A patch is now available, so update now A popular DNA sequencer has been found with a vulnerability that could allow threat actors to establish persistence on the device, destroy its hardware or even tamper with the results, experts claim.\nEclypsium researchers analyzed the BIOS firmware in iSeq 100, a DNA sequencer built by US biotechnology company Illumina, a benchtop sequencing system designed for small-scale genomic and targeted sequencing applications. It is used to read and analyze DNA, help researchers understand genetic information, study diseases, develop treatments, or investigate how organisms are related.\nEclypsium said the device boots an older version of the BIOS firmware, which even ran in Compatibility Support Mode (CSM), to support older devices. It did not boot with standard protections, including Secure Boot technology.\nManipulating outcomes All this left iSeq 100 vulnerable to nine different bugs, some of which were discovered in 2017, and with different severity scores. Threat actors could launch LogoFAIL, Specter 2 and Microarchitectural Data Sampling (MDS) attacks on these devices, it was claimed.\nTo make matters worse, Eclypsium said it only analyzed this specific model and it’s possible that other models also suffer from the same drawbacks, especially since the motherboards in these devices are built by a third party.\n“If the data is manipulated through an implant/backdoor in these devices, a threat actor could manipulate a wide range of outcomes, including mimicking the presence or absence of hereditary conditions, manipulating medical treatments or new vaccines, mimicking DNA -research of ancestors, etc.” Eclypsium said.\nSince the discovery, Eclypsium notified the iSeq 100 manufacturer, who responded with a patch. There was no word on how many devices are vulnerable, or how quickly the patch will be applied to all of them.\nSign up for the Ny Breaking newsletter and get all the best news, opinions, features and guidance your business needs to succeed!\n“Our initial assessment indicates that these issues do not pose a high risk,” an Illumina representative said BleepingComputer .\nVia BleepingComputer\nYou might also like it",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific research",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/",
+      "https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks",
+      "https://bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Illumina",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:25:14.559+02:00",
+    "updated": "2025-01-10T00:25:14.559+02:00"
+  },
+  {
+    "uuid": "59dd8569624984f13f56ca2a7c17ffc60cad3ae2",
+    "url": "https://www.thestar.com.my/lifestyle/living/2024/10/04/how-malaysian-tree-doctors-take-care-of-our-natural-heritage-in-cities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BEATRICE YONG",
+    "published": "2024-10-04T01:20:00Z",
+    "title": "How Malaysian tree doctors take care of our natural heritage in cities | The Star",
+    "text": "In addition to vegetables and shrubs, trees play a role in edible gardens as well. Usually a sign of mature soil and ecology, fruit trees are able to give us fruiting bounties, provide shade and also contribute to the local ecology and microbiomes of soils.\nBut often, trees are overlooked in the urban setting, and tree care is relatively uncommon.\nThe Energy and Natural Resources Ministry has set an ambitious goal to plant 100 million trees nationwide by 2025, with one million targeted for the Federal Territories alone.\nWhile these targets are promising, ensuring the long-term care of these trees is crucial for their success and the safety of urban spaces.\nArborists, foresters and conservationists are not just tree care professionals; they are protectors of biodiversity, climate resilience and sustainable urban growth. Puteri Noorlela (right) and her team using a resistograph at UUM Sintok in Kedah to assess the structural stability of two mature trees near the clubhouse.\nBut how can we inspire more Malaysians to step into these vital roles?\nIn this feature, we speak to an arborist and a conservation biologist – tree guardians of the modern age – on what their work is like.\nA sense of purpose\nPuteri Noorlela Bahrun, a certified arborist from the International Society of Arboriculture (ISA) and principal at Raintree Arborist, says being an arborist is a dream job – one in which she can say “no” to the unnecessary removal of trees and help ensure their preservation in urban development.\nPuteri Noorlela’s love for trees began long before she knew about arboriculture. Watching forests bulldozed and trees carelessly cut down ignited a desire in her to protect them.\nArborists often describe their work as deeply fulfilling. As Puteri Noorlela says, “Every day we go to work full of passion. We love the trees and the environment, and we’re always excited to check the health of trees before development begins.”\nThis passion drives many arborists, despite the physical demands and limited public understanding of their role. She adds, “Even on car journeys, we refresh our knowledge, studying the character of trees, assessing defects and determining the possibility of tree failure.” Puteri Noorlela (left) at Selangor Maritime Gateway’s mangroves, determining the bakau tree that will be removed to make way for a boardwalk. They will also identify the ‘mother tree’ to make sure it is protected.\nShe believes that caring for trees is more than just a job – it’s a mission to improve the health of communities and safeguard future generations.\n“When you save or care for a tree, you’re leaving a positive legacy that will last for decades. It’s always my dream to help save as many trees as I can, but of course, as an arborist, safety is always first.”\nA tree’s best friend\nArborists, often known as “tree doctors”, are specialists in tree cultivation, management and care. They assess tree health, conduct risk evaluations and tree inventories, and manage trees grown in places like eco-resorts, university campuses and urban districts. Using tools such as resistographs, they detect internal decay in trees to ensure safety.\nArborists consult on endangered species and work with developers and landscape architects to preserve and integrate the right trees into urban plans, balancing conservation with development.\nDespite its essential role, arboriculture remains underappreciated in Malaysia.\nArborists conducting an advanced assessment to check the structural integrity of a tree at Taman Tugu, Kuala Lumpur. Photo: Raintree Arborist\nPuteri Noorlela explains: “Twelve years ago, when we said we were arborists, people asked, ‘Arbor-what?’ Today, more people are realising it’s about preserving trees, not just cutting them down.”\nWith only around 150 certified arborists in Malaysia compared to Singapore’s 600 as of 2024, the profession is still relatively young, but it’s gaining traction in educational institutions.\nMalaysian Society of Arborists president Mohd Zailani Jamil stresses that trees are often an afterthought in development, but they are crucial for sustainable planning. Unfortunately, arboriculture is seen as less prestigious than other careers, contributing to the low number of certified arborists.\nCareer pathways\nFor those interested in becoming an arborist, the path is somewhat unconventional. Currently, there are no specific arboriculture degrees offered in Malaysia, but universities such as Universiti Putra Malaysia are beginning to offer courses related to urban forestry and arboriculture.\nAspiring arborists typically come from related fields such as horticulture, environmental science or landscape architecture. After gaining relevant experience, they can sit for the ISA certification exam, which is recognised globally.\n“The ISA certification is a stamp of credibility. Once you pass the exam, you can work anywhere in the world as an arborist,” explains Puteri Noorlela, who also consults in Cambodia, where there is a lack of certified arborists.\nThe practical aspects of arboriculture are the best way to learn, she adds.\nThis nesting lineated barbet, spotted in TTDI Park, which nests in holes bored out by other species on mature trees, is a perfect example of how tree biodiversity can support wildlife in urban environments given enough time and connectivity. Photo: Adam Kamal\n“Theory can only take you so far,” says Puteri Noorlela. “You need to work hands-on with trees in the field, understand their biology, and learn how to assess their health. Every tree is different, and you learn something new every day.”\nIt takes a village\nAccording to conservation biologist Adam Kamal, loving a tree goes beyond appreciating its beauty; it requires understanding its complexity. In the tropics, trees often host their own ecosystem with many insects potentially spending their entire lives on one tree.\n“Trees are one-part coral reef, one-part solar panel and one-part building,” Adam describes, illustrating how complex and important trees are to support life, harness energy and provide habitat.\nThis nesting lineated barbet, spotted in TTDI Park, which nests in holes bored out by other species on mature trees, is a perfect example of how tree biodiversity can support wildlife in urban environments given enough time and connectivity. Photo: Adam Kamal\nTree care is not an isolated field. Arborists today often collaborate with other professionals, including ecologists, urban planners and landscape architects. The future of tree care, especially in urban settings, relies on an interdisciplinary approach that takes into account biodiversity, climate change and human needs.\n“We need people who are not just passionate about trees but about the ecosystems they’re part of. Tree planting in general, with no consideration to the life history, can be detrimental and end up releasing more carbon than storing it,” says Adam.\nCitizens have a big role to play as well. Puteri Noorlela emphasises the need for respect: avoid littering or vandalising trees and give them space to grow. With climate change, planting the right trees in the right places is our simplest, most effective solution to reduce ground temperature and air pollution. If you can’t plant a tree, she advises, respect and protect the ones we already have.\nBuilding a culture of tree care\nTo protect Malaysia’s urban forests, we urgently need to cultivate a culture where trees are valued and seen as a vital part of our environment, society and economy. This requires better policies, greater public awareness and a stronger emphasis on careers in arboriculture, forestry and conservation as well as landscape architecture and urban planning.\nThe next generation must be inspired to take up these roles with a sense of purpose, ensuring that Malaysia’s forests thrive amid urbanisation and climate change. By embedding tree care into national planning and education, we can create a future where trees are recognised for their full value and safeguarded for generations to come.\nFor more info, visit www.parm.com.my or www.raintreearborist.com . Ready, Set, Grow! is a column brought to you by Eats, Shoots & Roots, a social enterprise with the aim of connecting people to nature through growing food. Follow them on Instagram and Facebook to stay updated on upcoming workshops and events.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/eatsshootsandroots",
+      "https://www.instagram.com/eatsshootsandroots/",
+      "https://www.parm.com.my/",
+      "https://www.raintreearborist.com",
+      "https://www.parm.com.my",
+      "https://www.instagram.com/eatsshootsandroots",
+      "https://instagram.com/eatsshootsandroots/",
+      "https://parm.com.my/",
+      "https://raintreearborist.com",
+      "https://facebook.com/eatsshootsandroots"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T06:00:07.030+03:00",
+    "updated": "2024-10-11T10:18:12.895+03:00"
+  },
+  {
+    "uuid": "ab832adcbc254d05ac6885787c89e84155176fb2",
+    "url": "https://videos.elmundo.es/v/0_wqcn6i0e-una-ola-gigante-golpea-a-varios-ciudadanos-en-ventura-california",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@elmundoes",
+    "published": "2023-12-29T10:56:00Z",
+    "title": "Una ola gigante golpea a varios ciudadanos en Ventura, California - ELMUNDOTV",
+    "text": "Actualidad - [Ucrania registra la oleada de ataques más masiva de los últimos meses, con al menos 17 muertos](https://videos.elmundo.es/v/0_v0t0enrx-ucrania-registra-la-oleada-de-ataques-mas-masiva-de-los-ultimos-meses-con-al-menos-17-muertos?uetv_pl=actualidad) - [Una ola gigante golpea a varios ciudadanos en Ventura, California](https://videos.elmundo.es/v/0_wqcn6i0e-una-ola-gigante-golpea-a-varios-ciudadanos-en-ventura-california?uetv_pl=actualidad) - [Sánchez nombra a Carlos Cuerpo ministro de Economía y refuerza a Montero como vicepresidenta primera](https://videos.elmundo.es/v/0_zm79fbcw-sanchez-nombra-a-carlos-cuerpo-ministro-de-economia-y-refuerza-a-montero-como-vicepresidenta-primera?uetv_pl=actualidad) - [Nace un 'lémur bailarín' típico de Madagascar en el zoo de Chester](https://videos.elmundo.es/v/0_vscg6ns3-nace-un-lemur-bailarin-tipico-de-madagascar-en-el-zoo-de-chester?uetv_pl=actualidad) - [Desarticulado un grupo criminal que secuestró en Portugal a un empresario que apareció amordazado en Barcelona](https://videos.elmundo.es/v/0_389157wp-desarticulado-un-grupo-criminal-que-secuestro-en-portugal-a-un-empresario-que-aparecio-amordazado-en-barcelona?uetv_pl=actualidad) - [La ex alcaldesa de Pamplona: \"Nunca sería alcaldesa con los votos de Bildu, prefiero fregar escaleras\"](https://videos.elmundo.es/v/0_hiutuucd-la-ex-alcaldesa-de-pamplona-nunca-seria-alcaldesa-con-los-votos-de-bildu-prefiero-fregar-escaleras?uetv_pl=actualidad) - [Juan Luis Cano desvela detalles del vídeo viral de la Reina Letizia con Gomaespuma](https://videos.elmundo.es/v/0_1q0ft8fg-juan-luis-cano-desvela-detalles-del-video-viral-de-la-reina-letizia-con-gomaespuma?uetv_pl=actualidad) - [Erdogan compara a Netanyahu con Hitler: \"Nos harán añorar a Hitler\"](https://videos.elmundo.es/v/0_lry5kshj-erdogan-compara-a-netanyahu-con-hitler-nos-haran-anorar-a-hitler?uetv_pl=actualidad) - [Pedro Sánchez pide el reconocimiento internacional del estado palestino durante su viaje a Irak](https://videos.elmundo.es/v/0_vt96r6yr-pedro-sanchez-pide-el-reconocimiento-internacional-del-estado-palestino-durante-su-viaje-a-irak?uetv_pl=actualidad) - [Los arroceros reclaman medidas ante la multiplicación de flamencos en la Albufera](https://videos.elmundo.es/v/0_cndz4hti-los-arroceros-reclaman-medidas-ante-la-multiplicacion-de-flamencos-en-la-albufera?uetv_pl=actualidad) - [Convierten a Shakira en un gran ídolo dorado de 6,5 metros](https://videos.elmundo.es/v/0_icbhvpim-convierten-a-shakira-en-un-gran-idolo-dorado-de-65-metros?uetv_pl=actualidad) - [Un ataque ruso deja varios muertos y la ciudad de Jersón sin luz](https://videos.elmundo.es/v/0_n44868g1-un-ataque-ruso-deja-varios-muertos-y-la-ciudad-de-jerson-sin-luz?uetv_pl=actualidad) [Más vídeos](#)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:31:15.143+02:00",
+    "updated": "2023-12-29T19:10:12.769+02:00"
+  }
+]

@@ -1,0 +1,383 @@
+[
+  {
+    "uuid": "99bb984ce7d3c840c150b1d41261104a98b26079",
+    "url": "https://www.neowin.net/news/chinese-hackers-exploit-linux-with-new-wolfsbane-malware",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@_rhamat",
+    "published": "2024-11-22T12:22:00Z",
+    "title": "Chinese hackers exploit Linux with new WolfsBane malware",
+    "text": "ESET researchers have recently discovered a new Linux backdoor, named WolfsBane, that is being used by the China-aligned Gelsemium APT group. This is the first known instance of Gelsemium using Linux malware. The backdoor is designed to steal sensitive data, including system information, user credentials, and specific files and directories.\nWolfsBane is a Linux version of Gelsevirine, a Windows backdoor that Gelsemium has been using since 2014. The backdoor is distributed with a dropper posing as a genuine command scheduling tool. Once executed, the dropper installs the WolfsBane launcher and backdoor on the target system. The launcher is disguised as a KDE desktop component, while the backdoor is hidden as a system service.\nThe WolfsBane backdoor communicates with a command and control (C&C) server via a custom network protocol. The backdoor can run commands, download files, and upload them to the C&C server. The backdoor can also hide its existence on the system by changing the system's configuration files.\nIn addition to WolfsBane, ESET researchers identified another Linux backdoor, called FireWood, which is linked to the Project Wood malware. In the past, Gelsemium employed the Windows backdoor, Project Wood. FireWood is the Linux version of Project Wood, and it is also designed to steal sensitive information.\nResearchers believe the shift to Linux malware is due to [improvements in Windows endpoint security](https://www.neowin.net/news/microsoft-is-adding-some-improved-security-features-to-windows-365/). As a result, threat actors are exploring new attack avenues, increasingly focusing on exploiting flaws in internet-facing systems, most of which run on Linux.\nThe discovery of WolfsBane and FireWood serves as a reminder that Linux systems are vulnerable to attacks. Organizations must understand the danger that Linux malware poses and adopt the necessary safety measures to protect their systems. This include using strong passwords, updating software, and exercising caution while downloading and running particular files.\nSource: [WeLiveSecurity](https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/",
+      "https://welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine/",
+      "https://www.welivesecurity.com/en/eset-research/unveiling-wolfsbane-gelsemiums-linux-counterpart-to-gelsevirine"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T14:36:15.770+02:00",
+    "updated": "2024-11-22T14:36:15.770+02:00"
+  },
+  {
+    "uuid": "891b0683c5903549c88fb8256e128c066014e3fa",
+    "url": "https://www.larazon.es/internacional/seis-golpes-israel-bastion-hizbula-beirut_2024092666f5cc6db3741e0001f5e344.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Antonio, Navarro",
+    "published": "2024-09-26T19:04:00Z",
+    "title": "Los seis golpes de Israel contra el bastión de Hizbulá en Beirut",
+    "text": "Líbano\nLos seis golpes de Israel contra el bastión de Hizbulá en Beirut\nEl Ejército israelí elimina en Dahiyeh al responsable de drones de la milicia chií, Mohammad Srour\nPor sexta vez desde que comenzó la guerra entre Hizbulá e Israel el 8 de octubre –horas después de que la milicia chií libanesa decidiera apoyar a Hamás–, Israel golpeó ayer a la organización liderada por Hasan Nasrallah en Dahiyeh, su bastión del sur de la capital libanesa, Beirut.\nEl jueves, le tocó el turno al responsable de la unidad de drones de Hizbulá, Mohammad Srour, más conocido como Abu Saleh, asesinado según Tel Aviv, aunque la organización chií no lo haya confirmado aún. En el ataque perdieron la vida otras dos personas y 15 más resultaron heridas.\nEl primero de los ataques contra el populoso bastión chií del sur de Beirut se produjo el 2 de enero, cuando Israel asesinó al «número dos» de la oficina política de Hamás, Saleh al Arouri. No atacaría Israel en la capital libanesa de nuevo hasta el 30 de julio, cuando acabó con la vida del «número dos» de Hizbulá, Fuad Shukr. El día siguiente, Tel Aviv acabaría con la vida del jefe de la oficina política de Hamás, Ismail Haniyeh, en Teherán.\nSin duda, el ataque más duro y audaz de la Inteligencia israelí se produjo en las jornadas del 17 y 18 de septiembre pasados, cuando en una operación organizada durante meses, Israel hizo explotar simultáneamente centenares de «buscas» y «walkie-talkies» en posesión de miembros de Hizbulá en su feudo del sur de Beirut, aunque una parte importante de los aparatos estallaron en los bastiones de la milicia en el sur y el valle de la Becá, también en Siria. El sabotaje israelí costó la vida a 37 personas y dejó heridas o con secuelas de por vida –muchas de ellas ciegas o con amputaciones– a miles más incluyendo miembros de Hizbulá y ciudadanos que se encontraban conviviendo o casualmente próximos a ellos.\nDos días después, el 20 de septiembre, Israel bombardeó el edificio donde se reunían –en un sótano– varios miembros de la fuerza Radwan de Hizbulá, y acabó, según sus responsables militares, con la vida de diez de sus integrantes, incluido el máximo responsable de la unidad de élite, Ibrahim Akil. El ataque costó la vida a al menos 50 personas, además de dejar decenas de heridos en una zona altamente poblada.\nEsta semana, y sin contar con el día de ayer, Israel dio dos nuevos zarpazos a la organización liderada por Nasrallah en el sur de Beirut al asesinar el lunes al comandante de Hizbulá para el frente sur, Ali Karake, y el martes al responsable de la milicia para el lanzamiento de cohetes Ibrahim Kobeissi.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T00:41:12.970+03:00",
+    "updated": "2024-09-27T00:41:12.970+03:00"
+  },
+  {
+    "uuid": "1f51a41d3f1db60978a5ffe3db394762f3b16fd2",
+    "url": "https://lasillarota.com/hidalgo/estado/2024/6/13/encuentran-pie-humano-en-parque-industrial-de-tepeji-del-rio-esto-se-sabe-487712.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JULIETA GUTIÉRREZ PÉREZ",
+    "published": "2024-06-13T20:57:00Z",
+    "title": "Encuentran pie humano en Parque Industrial de Tepeji del Río; esto se sabe | La Silla Rota",
+    "text": "TEPEJI DEL RÍO.- La mañana de este jueves 13 de junio alertaron a los números de emergencia sobre el hallazgo de un pie humano en las inmediaciones de una empresa ubicada en el Parque Industrial del municipio Tepeji del Río, en el estado de [Hidalgo](https://lasillarota.com/hidalgo/estado/2024/6/12/encuentran-cuerpo-decapitado-en-atotonilco-de-tula-esto-se-sabe-487457.html). La llamada movilizó al cuerpo de emergencias para confirmar los hechos y abrir la carpeta de investigación correspondiente. Agentes de Seguridad Pública del municipio Tepeji atendieron el reporte que realizaron alrededor de las 10 de la mañana, los trabajadores de la empresa Grupo Sánchez ubicada en el Parque Industrial. Al llegar al sitio, corroboraron habían hallado el [pie de una persona](https://lasillarota.com/hidalgo/estado/2024/6/10/localizan-cuerpo-de-joven-en-presa-de-hidalgo-esto-es-lo-que-se-sabe-487079.html). La extremidad presentaba ya un estado de descomposición avanzado. De manera preliminar se informó, los trabajadores se percataron los perros devoraban algo en el lugar. Al acercarse identificaron se trataba de un [pie humano ](https://lasillarota.com/hidalgo/local/2024/6/11/hallan-cadaver-de-mujer-en-maleta-abandonada-en-esta-colonia-de-pachuca-487202.html)y llamaron a los números de emergencias para las diligencias correspondientes. Te podría interesar [ÚNETE A NUESTRO CANAL DE WHATSAPP. EL PODER DE LA INFORMACIÓN EN LA PALMA DE TU MANO](https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B) A la policía municipal, el jefe de Seguridad de la empresa Grupo Sánchez relató que los trabajadores salieron a desayunar alrededor de las 10 de la mañana y al regresar encontraron a 4 perros jaloneando el pie humano. Posteriormente, alertaron a la dirección de la empresa y estos a su vez realizaron el reporte a las autoridades correspondientes. Te podría interesar Por los hechos fue necesario también la presencia del personal del Ministerio Público de Tepeji del Río para que realizaran el levantamiento de la extremidad humana. La zona quedó acordonada y se espera se lleven a cabo las pruebas necesarias para lograr identificar la temporalidad de muerte de la persona, la identidad y descartar algún delito. Las autoridades señalaron se procederán con las investigaciones necesarias. Localizan sin vida a hombre desaparecido Hace 5 días en las comunidades Cantera de Villagrán y San Buenaventura en este mismo municipio Tepeji fue hallado el cuerpo de un hombre a quien le habían desprendido el rostro. La situación movilizó al cuerpo de emergencias a la zona. En las primeras investigaciones se dio a conocer el cuerpo pertenecía al hombre identificado con el nombre de iniciales A.C.S., persona que contaba con una ficha de búsqueda del 3 de junio. El personal de la Procuraduría General de Justicia en el Estado de Hidalgo (PGJEH) se encargó de las diligencias correspondientes al levantamiento de pruebas, testimonios y traslado del cuerpo al Servicio Médico Forense (Semefo). Al momento, sigue sin haber información sobre los presuntos responsables de este acto violento. Se espera las autoridades continúen las investigaciones y esclarezcan los hechos. jgp",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B)",
+      "https://whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:57:13.117+03:00",
+    "updated": "2024-06-14T00:57:13.117+03:00"
+  },
+  {
+    "uuid": "99dc5bd372d80455283f324d7236fe51fe8b6306",
+    "url": "https://www.elespanol.com/invertia/disruptores-innovadores/innovadores/corporaciones/20240216/mary-wysocki-cisco-paises-digitalizados-probabilidades-avanzar-sostenibilidad/832417222_0.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Beatriz Aznar",
+    "published": "2024-02-16T00:00:00Z",
+    "title": "Mary de Wysocki (Cisco): \"Los países más digitalizados tienen más probabilidades de avanzar en sostenibilidad\"",
+    "text": "La transformación digital a escala global ha entrado en una fase madura en la que no será posible afrontar los retos de futuro de nuestra sociedad sin integrar en la ecuación la sostenibilidad.\nLa época del greenwashing ha terminado -al menos para las compañías con estrategias de futuro sólidas y ambiciosas- y las corporaciones se han percatado de que el futuro no será posible sin implementar la sostenibilidad de forma transversal en sus organizaciones.\nEl coste de no hacerlo sería demasiado elevado; en términos sociales, pero también económicos . Este mensaje está calando cada día más y se convierte, además, en un motor para generar nuevas áreas de negocio.\n[Identidad, piedra angular contra la sofisticación de las amenazas: el nuevo enfoque de la ciberseguridad con IA]\nLa tecnológica Cisco, un peso pesado dentro del sector de las redes de comunicaciones, ha mostrado en su último evento Cisco Live EMEA, celebrado este mes en Ámsterdam, cuán importante es para su estrategia de futuro la sostenibilidad, una visión que le llevó hace ya 18 meses a crear la figura del director (directora en este caso) de sostenibilidad.\nElla es Mary de Wysocki, directora de Sostenibilidad en Cisco , una directiva al máximo nivel dentro de la compañía que está convencida de las oportunidades para la generación de negocio que brinda la sostenibilidad y que aplicar prácticas respetuosas con el medioambiente no está reñido con desarrollar la última y más puntera tecnología.\n\"Poder hablar con el director financiero sobre cómo vemos las inversiones que se tienen que acometer es muy constructivo\"\nMary de Wysocki, directora de Sostenibilidad en Cisco\nD+I - EL ESPAÑOL conversa con ella durante el evento Cisco Live EMEA, celebrado en Ámsterdam, donde De Wysocki reconoce con orgullo que es \"muy afortunada\" porque \"tengo un director financiero apasionado por la sostenibilidad\" , asevera con una sonrisa cómplice.\n\"Poder hablar con él sobre cómo pensamos acerca de las inversiones que se tienen que acometer es muy constructivo\". Y revelador, sin duda, del nuevo tiempo en marcha un sector tecnológico que reacciona ante la emergencia climática.\nProyección exhibida a los medios de comunicación sobre los objetivos de sostenibilidad de Cisco en el evento en Ámsterdam.\nEn este profundo proceso de transformación de la economía sin marcha atrás, la estrategia de Cisco con la sostenibilidad no arranca ahora, sino que, según explica la directiva a D+I: \" comenzamos a informar y hablar sobre ella allá por 2005\".\nMucho ha llovido desde entonces y en su viaje hacia net zero , la reducción de las emisiones de carbono y la generación de energía renovable, Cisco ha puesto este 2024 a España y el proyecto anunciado recientemente con IGNIS en Teruel (Aragón) entre los grandes anuncios de su estrategia de sostenibilidad.\n[Cisco cierra un acuerdo de suministro de energía con la española Ignis desde un nuevo parque solar en Teruel]\n\"Nuestra mayor responsabilidad es la electricidad que utilizan nuestros clientes. Por lo tanto, nos corresponde a nosotros aprovechar al máximo la energía \", nos matiza la máxima responsable de sostenibilidad.\nY es que digitalización y sostenibilidad son las dos caras de una misma moneda. \"Ya hay estudios que confirman que los países que están más avanzados en digitalización también tienen mayor probabilidad de obtener mayores logros en sostenibilidad \", asegura Mary de Wysocki.\nVisita a la planta de Reconext en Zoetemeer (Países Bajos), 'partner' de Cisco en devolución, reacondicionamiento y reutilización de sus productos.\nReconext: la apuesta por la economía circular Gestionar de forma más eficiente el ciclo de la vida de sus productos electrónicos forma parte de la estrategia en sostenibilidad de Cisco.\nReconext, con una planta en Zoetemeer, a casi 60 kilómetros de Ámsterdam (Países Bajos), es un aliado de la tecnológica para alcanzar este objetivo.\nD+I - EL ESPAÑOL visita la planta donde la compañía aplica procesos y técnicas que le permiten salvar piezas y componentes de Cisco mediante la reparación o el reacondicionamiento en lugar de utilizar nuevos productos y materiales. Se trata de un ejemplo más de la estrategia global y sostenible de la tecnológica.\nLa directora de Sostenibilidad de Cisco está convencida del potencial que la sostenibilidad va a jugar a la hora de diseñar las estrategias de crecimiento e inversión de las compañías en el futuro, de la mano de socios y clientes.\n\"Para los negocios es muy positivo que se pueda realizar esta transición digital y verde . Y es realmente muy efectivo. Desde el principio, la tecnología siempre ha requerido electricidad. Por eso, la eficiencia energética ha sido parte del desafío de los ingenieros y lo primero es seguir ayudando a los ingenieros a comprender ese futuro\".\nPor otra parte, la sostenibilidad también es un aspecto clave en el nuevo modelo de trabajo del futuro, donde las soluciones de la tecnológica norteamericana están marcando las tendencias del trabajo híbrido del presente, y del futuro.\nPorque, en los próximos años, el trabajo será híbrido o no será . Así de convencida se muestra Mary de Wysocki: \"El trabajo del futuro será híbrido. Va a ser global. Si se puede hablar de un aspecto positivo de la Covid fue que nos enseñó a todos que podemos trabajar de forma remota\".\nDe hecho, la directiva de Cisco se muestra convencida de que en el futuro será muy difícil crear puestos de trabajo -sobre todo aquellos más codiciados por el talento que requieren los nuevos perfiles más demandados por la sociedad-, si no son híbridos.\n\"Puede que el talento que buscas no esté en tu área geográfica. O que, por intereses personales o familiares, esté en otro sitio. ¿Vas a renunciar a él? Siempre digo que mi equipo está en todo el mundo ; y podemos ser muy afortunados de poder acceder a los mejores en cada caso gracias a la tecnología\", concluye.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T03:27:32.803+02:00",
+    "updated": "2024-03-15T19:57:24.040+02:00"
+  },
+  {
+    "uuid": "a8b7594e176762b37461d0f38e4e352dfa78c220",
+    "url": "https://www.kalb.com:443/2023/12/28/basic-budgeting-tips-better-manage-your-finances/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rachel DePompa",
+    "published": "2023-12-28T20:02:00Z",
+    "title": "Basic budgeting tips to better manage your finances",
+    "text": "(InvestigateTV) — Consumer.gov recommends those who are looking to better manage their money in the new year to start by making a simple budget.\nYou can do so by first writing down all your monthly expenses to get a good picture of where the money goes.\nOnce your monthly needs are known, you can then choose a straightforward plan to stay on track.\nOne popular plan is called the 50/30/20 budget. It makes room for both needs and wants and is simple to understand and implement:\n50% of take-home pay covers needs like housing and groceries 30% covers wants, like dining and travel 20% covers savings and debt repayment With this plan, consumers know where their money is going plus it allows for a little fun.\nAny monies unspent or received unexpectedly, like a gift or a bonus, can be funneled into savings and investments.\nCopyright 2023 Gray Media Group, Inc. All rights reserved.\nMost Read Avoyelles Jail escapee arrested in Cottonport following hours-long standoff 16-year-old killed, another teen hurt in fiery crash after overnight police chase Plane traveling from Alexandria to Guatemala makes emergency landing in Lake Charles Water leak fixed in Pineville; boil advisory in effect VPSO seeking info concerning stolen skidsteer Latest News Pizza Hut to lay off more than 1,000 delivery drivers in California ahead of wage hike American-Canadian-Israeli woman believed to be held hostage in Gaza pronounced dead Endangered missing alert issued for 4-year-old and infant in Colorado Officers responding to car crash on Christmas find man dressed as the Grinch behind the wheel Deputy reporting for duty killed in Christmas Eve crash, sheriff’s office says",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "http://consumer.gov/",
+      "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg?auth=97fc9b15fd87142e3506fcc0c83737c9267535ad6dc3a511076582ff39ea4ac2&width=800&height=450&smart=true",
+      "https://www.bankrate.com/banking/what-is-the-50-30-20-rule/#thirty",
+      "https://consumer.gov/managing-your-money/making-budget",
+      "http://consumer.gov",
+      "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg",
+      "https://www.gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg?auth=97fc9b15fd87142e3506fcc0c83737c9267535ad6dc3a511076582ff39ea4ac2&width=800&height=450&smart=true",
+      "https://www.consumer.gov/managing-your-money/making-budget",
+      "http://www.consumer.gov/",
+      "https://bankrate.com/banking/what-is-the-50-30-20-rule/#thirty"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "gray media group, inc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cottonport",
+          "sentiment": "none"
+        },
+        {
+          "name": "guatemala",
+          "sentiment": "none"
+        },
+        {
+          "name": "alexandria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:14:33.525+02:00",
+    "updated": "2023-12-29T00:14:33.525+02:00"
+  },
+  {
+    "uuid": "f19f292168d57eb9044a1cce5902dfb0ec1d7734",
+    "url": "https://www.insidenova.com/news/national/body-of-us-israeli-woman-held-in-gaza-kibbutz/article_b7f4b537-0d71-542b-996b-6e62f9f108eb.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2023-12-28T22:02:00Z",
+    "title": "Body of US-Israeli woman held in Gaza: kibbutz",
+    "text": "A US-Israeli woman seized in the October 7 Hamas attack was killed on the same day and her body remains in the Gaza Strip, her kibbutz community said on Thursday.\nJudith Weinstein Haggai, 70, had been thought to be the oldest woman among the hostages still held in Gaza by the Palestinian militant group.\nHer kibbutz of Nir Oz said that Haggai was \"murdered in the massacre\", and that her body remains in the war-torn Palestinian territory.\nThursday's announcement by the community follows confirmation on December 23 that her husband, Gad Haggai, was also killed on October 7.\n\"The bodies of both are still in the custody of Hamas,\" the community said, without elaborating.\nThe couple were among some 250 people taken hostage from Israeli border communities and military posts.\nMore than 100 of those abducted have since been freed, many exchanged for Palestinian prisoners.\nIsrael says 129 captives are still missing in Gaza, including 23 believed to have been killed.\nThree hostages were mistakenly shot dead by soldiers in the Gaza Strip, according to the Israeli army.\n\"There are no words to describe the pain of losing our parents and grandparents to the massacre that took place on our kibbutz,\" the family of Haggai said in a statement.\n\"We pray that their bodies... will be soon returned to us, and that their murders are a reminder for leaders everywhere to bring the hostages home now before it is too late.\"\nIn Washington, President Joe Biden said he and first lady Jill Biden were \"devastated\" by the news.\nThe slain couple's family has been \"living through hell for weeks,\" he said, pledging that the United States will \"not stop working to bring\" remaining hostages home.\nCanadian Foreign Minister Melanie Joly said on X, formerly Twitter: \"Canada mourns her loss with her family and loved ones.\" Weinstein grew up in Toronto and also held Canadian citizenship.\nAhl Haggai, the couple's son, has said that in a final phone call on October 7, his mother had told a paramedic that she and her husband had both been wounded.\n\"The only evidence we have... is a video of my dad on the back of a truck, laying down injured,\" he told AFP earlier this month.\n\"She's nowhere to be found,\" he said, with only his mother's glasses recovered from the kibbutz.\nIsraelis have held frequent rallies to highlight the plight of the remaining hostages and put pressure on the authorities to secure their release, with hundreds marching to parliament on Thursday.\n\"Bring them home!\" they chanted outside the assembly in Jerusalem, an AFP journalist reported.\n\"All I can hope is that as many people (as possible) will remain alive,\" Nikki Littman, 55, who took part in the rally, told AFP.\n\"I don't trust the government. I don't trust Hamas. I fear Hamas. I fear our existence here,\" said Littman, who teaches Japanese at a university.\nThe October 7 Hamas attack resulted in the deaths of around 1,140 people in Israel, most of them civilians, according to an AFP tally based on the latest official Israeli figures.\nIsrael's relentless offensive on Gaza has since killed 21,320 people, mostly civilians, according to the latest toll from the health ministry in the Hamas-run territory.\nbur-rsc-mby-jd/fz/sms/acb/amc/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "judith weinstein haggai",
+          "sentiment": "none"
+        },
+        {
+          "name": "nir oz",
+          "sentiment": "none"
+        },
+        {
+          "name": "haggai",
+          "sentiment": "none"
+        },
+        {
+          "name": "gad haggai",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:14:09.839+02:00",
+    "updated": "2023-12-29T02:14:09.839+02:00"
+  },
+  {
+    "uuid": "5909f6a5cdbacaf2f851970abb5fc4eb8f4504f0",
+    "url": "http://www.laprensa.hn/espectaculos/torero-bombero-exigen-chayanne-nombre-cancion-peta-animales-FL25590858",
+    "ord_in_thread": 0,
+    "author": "/cronologia/-/meta/agencia-efe",
+    "published": "2025-04-30T21:56:00Z",
+    "title": "De 'Torero' a 'Bombero': exigen que Chayanne cambie el nombre de su canción",
+    "text": "\"Al asociar la palabra torero con la tauromaquia se corre el riesgo de dar legitimidad a una práctica que muchos quieren abolir\", dice la misiva que pide a Chayanne cambiar el título de la canción.\nLa organización internacional Personas por el Trato Ético de los Animales (PETA) ha enviado una carta al cantante puertorriqueño Chayanne pidiéndole que cambie el nombre de su canción 'Torero' por 'Bombero', \"en homenaje al valor y dedicación de los bomberos\".\nA través de una misiva, PETA -una organización por los derechos de los animales con base en Estados Unidos- pide a Chayanne que cambia el nombre de su canción, en defensa de los toros, \"ya que podría interpretarse como una exaltación de la tauromaquia\", ha informado este martes la organización, que destaca que siete de cada diez españoles se oponen a estos \"eventos sangrientos\".\nUna propuesta que le llega al cantante en vísperas de comenzar su gira 'Bailemos otra vez' por España, que comenzará el próximo día 16 de mayo.\n\"Glorificar a hombres que atormentan y matan animales por entretenimiento simplemente no está en sintonía con los valores modernos\", ha escrito la vicepresidenta de PETA para Europa, Mimi Bekhechi.\n\"En cambio, los bomberos representan el valor, la dedicación y la empatía, valores que la mayoría de nosotros admiramos. Los bomberos salvan vidas poniendo su vida en juego y por ello merecen ser celebrados\", añade.\n\"Al asociar la palabra Torero con la tauromaquia se corre el riesgo de dar legitimidad a una práctica que muchos quieren abolir. Un artista con tu influencia tiene el poder de impactar positivamente en la cultura y actualizar el nombre de la canción enviaría un poderoso mensaje de compasión\", prosigue Bekhechi en su escrito.\n\"Hay que ser torero/ Poner el alma en el ruedo/ No importa lo que se venga Pa que sepas que te quiero/ Como un buen torero (ole)/Me juego la vida por ti\", reza el estribillo de 'Torero', uno de los temas más populares de Chayanne.\nEs una agencia de noticias internacional española que distribuye información a más de dos mil medios de comunicación en todo el mundo en los soportes de prensa escrita, radio, televisión e internet. Cuenta con una red con más de tres mil periodistas de 60 nacionalidades.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->ethics",
+      "Social Issue->social problem",
+      "Social Issue->values",
+      "Lifestyle and Leisure->party",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T01:48:40.542+03:00",
+    "updated": "2025-04-30T22:55:25.000+00:00"
+  },
+  {
+    "uuid": "bb62936c4ab96c5efbe0d224e5bd9b105505681f",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367527.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "生物科技ETF（159837）跌1.29%，半日成交额1232.16万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，生物科技ETF（159837）跌1.29%，报0.460元，成交额1232.16万元。生物科技ETF（159837）重仓股方面， 药明康德 截止午盘跌1.02%， 恒瑞医药 跌0.66%， 迈瑞医疗 跌1.30%， 上海莱士 跌0.29%， 复星医药 跌1.08%， 长春高新 跌2.06%， 智飞生物 跌1.41%， 康龙化成 跌1.97%， 百济神州 跌1.21%， 泰格医药 跌1.21%。\n生物科技ETF（159837）业绩比较基准为中证生物科技主题指数收益率，管理人为易方达基金管理有限公司，基金经理为张湛，成立（2021-01-14）以来回报为-53.42%，近一个月回报为3.58%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->healthcare industry",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business reporting and performance",
+      "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:42:22.057+03:00",
+    "updated": "2025-06-20T05:08:16.000+00:00"
+  }
+]

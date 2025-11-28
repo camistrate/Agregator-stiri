@@ -1,0 +1,563 @@
+[
+  {
+    "uuid": "2f20759fb1a5532c3d8283dbd27107ee673a3dfe",
+    "url": "https://gazettetimes.com/news/nation-world/louisiana-dolphin-shooting-case-reward/article_e8d0d85a-d1c4-5605-a40d-35025009cd67.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amanda Musa, CNN",
+    "published": "2024-04-25T05:00:00Z",
+    "title": "NOAA offering $20,000 reward in dolphin shooting case",
+    "text": "The National Oceanic and Atmospheric Administration is offering a reward of up to $20,000 for information about a juvenile bottlenose dolphin that was found shot multiple times on a Louisiana beach last month. The animal was discovered March 13 on West Mae’s Beach in Cameron Parish – about four hours west of New Orleans – and had “injuries consistent with being shot with a firearm,” NOAA’s Office of Law Enforcement said in a [news release](https://www.fisheries.noaa.gov/feature-story/louisiana-dolphin-shot-dead) Tuesday. A necropsy conducted by the Audubon Nature Institute in New Orleans found multiple bullets lodged in the dolphin’s carcass, “including in the brain, spinal cord, and heart of the dolphin,” NOAA said. “The animal appeared to have died from the trauma, which occurred at or near the time of death.” Officials say they are seeking information that can lead to identification of a suspect, an arrest, or prosecution. People are also reading… Harassing, harming, killing, or feeding wild dolphins is prohibited under the [Marine Mammal Protection Act](https://www.fisheries.noaa.gov/topic/laws-policies), according to NOAA. Violators can be prosecuted civilly or criminally and can face up to $100,000 in fines and up to one year in jail per violation. ___ 25 animals most commonly struck by aircraft 25 animals most commonly struck by aircraft #25. Herring gull #24. Swainson's thrush #23. Eastern red bat #21. Microbats, exact species unknown #20. Common nighthawk #18. Gulls #17. Sparrows #16. Perching birds #15. Savannah sparrow #14. Brazilian free-tailed bat #13. Chimney swift #12. American robin #9. Cliff swallow #8. Red-tailed hawk #7. European starling #5. American kestrel #4. Killdeer #2. Barn swallow #1. Mourning dove #22. Ring-billed gull #19. Barn owl #11. Western meadowlark #10. Rock pigeon #6. Eastern meadowlark",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.fisheries.noaa.gov/feature-story/louisiana-dolphin-shot-dead)",
+      "https://www.fisheries.noaa.gov/topic/laws-policies),",
+      "https://fisheries.noaa.gov/topic/laws-policies),",
+      "https://fisheries.noaa.gov/feature-story/louisiana-dolphin-shot-dead)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "noaa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national oceanic and atmospheric administration",
+          "sentiment": "negative"
+        },
+        {
+          "name": "audubon nature institute",
+          "sentiment": "none"
+        },
+        {
+          "name": "office of law enforcement",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west mae’s beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "louisiana",
+          "sentiment": "none"
+        },
+        {
+          "name": "new orleans",
+          "sentiment": "none"
+        },
+        {
+          "name": "cameron parish",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:25:28.365+03:00",
+    "updated": "2024-04-26T00:25:28.365+03:00"
+  },
+  {
+    "uuid": "0d3e5db90a31ecb11ae5c5a2500bd66acbf17f71",
+    "url": "https://www.bolsamania.com/noticias/analisis-tecnico/grifols-es-un-tiro--20466022.html",
+    "ord_in_thread": 0,
+    "author": "bolsamania.com",
+    "published": "2025-07-31T04:00:00Z",
+    "title": "Grifols es un tiro - Bolsamania.com",
+    "text": "Ricardo Rubio - Europa Press - Archivo Impresionante comportamiento técnico el que hemos visto en Grifols desde los mínimos del mes de abril.\nGrifols-A 13,515€ 8,99% Análisis Técnico ROTURA RESISTENCIA S1 11,76 S2 10,75 R1 15,24 R2 15,92 Corto plazo Medio plazo Largo plazo En este tiempo la compañía se ha revalorizado más de un 80%. Estas fuertes subidas la han llevado a perforar el nivel clave de los 12 euros. Para las próximas sesiones parece muy probable que podamos ver una extensión de las subidas con el objetivo de cubrir el hueco bajista que venía condicionando su aspecto técnico y que presenta en los 14,24 euros . La anulación de este hueco sería un paso al frente. No obstante, para confirmar un cambio de tendencia a largo plazo deberíamos esperar a la superación de la resistencia de los 15,92 euros. Por debajo es importante que no pierda el soporte de los 11 euros, primer nivel de demanda.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->medical research",
+      "Science and Technology->biotechnology",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ricardo Rubio",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Europa Press",
+          "sentiment": "negative",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:04:59.760+03:00",
+    "updated": "2025-07-31T08:09:31.000+03:00"
+  },
+  {
+    "uuid": "d0224281432b8cb3e42d2219084dd3950fad1565",
+    "url": "https://www.dm.com.br/brasil/metrorio-fecha-11-estacoes-da-linha-2-apos-queda-de-muro-155486",
+    "ord_in_thread": 0,
+    "author": "Diario da Manhã",
+    "published": "2025-04-09T21:50:00Z",
+    "title": "MetrôRio fecha 11 estações da linha 2 após queda de muro | Diário da Manhã",
+    "text": "Os trens da linha 2 do metrô do Rio de Janeiro estão circulando provisoriamente entre Engenho de Rainha e Botafogo, na manhã desta quarta-feira (9). A via liga a zona norte à zona sul da cidade. .\nAs estações Pavuna, Engenheiro Rubens Paiva, Acari/Fazenda Botafogo, Coelho Neto, Colégio, Irajá, Vicente de Carvalho, Thomaz Coelho, Engenho da Rainha, Inhaúma e Del Castilho estão fechadas, de acordo com o MetrôRio.\nParte de um muro no entorno caiu sobre os trilhos da estação Engenho da Rainha. O problema foi causado durante o trabalho da equipe da concessionária Águas do Rio na área externa do sistema metroviário.\nPor conta disso, foi preciso desenergizar a via para atuação das equipes e os trens da linha 2 estão circulando provisoriamente entre Maria da Graça e Botafogo.\n\"A concessionária já está em contato com a Águas do Rio para que o problema seja solucionado e a operação restabelecida o quanto antes\", afirmou.\nNão há previsão para a solução do problema.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "topics": [
+      "Disaster and Accident->emergency response",
+      "Disaster and Accident->structural failure",
+      "Crime, Law and Justice->vandalism",
+      "Politics->government policy",
+      "Politics->local government and authority",
+      "Politics->safety of citizens"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:55:51.240+03:00",
+    "updated": "2025-04-10T00:55:51.240+03:00"
+  },
+  {
+    "uuid": "69779acf6132b461a4141faf07072317de567ed9",
+    "url": "https://istoedinheiro.com.br/stf-forma-maioria-para-negar-recurso-da-cnbb-em-acao-sobre-aborto",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação",
+    "published": "2024-08-08T20:05:00Z",
+    "title": "STF forma maioria para negar recurso da CNBB em ação sobre aborto",
+    "text": "08/08/2024 - 17:05\nO Supremo Tribunal Federal (STF) já formou maioria para rejeitar o recurso da Conferência Nacional dos Bispos do Brasil (CNBB), que busca anular o voto da ministra aposentada Rosa Weber favorável à descriminalização do aborto até a 12ª semana de gestação.\nJá votaram pela rejeição o relator, ministro Flávio Dino, e os ministros Alexandre de Moraes, Luís Roberto Barroso, Cármen Lúcia, Cristiano Zanin e Dias Toffoli, somando maioria de 6 votos entre 11 ministros. O caso é julgado no plenário virtual, e os demais ministros têm até o fim desta sexta-feira (9) para votar.\nNotícias relacionadas:\nJulgamento sobre aborto não será pautado no curto prazo, diz Barroso. Barroso diz que criminalização do aborto é uma “má política pública”.\nO tema é discutido em uma Ação de Descumprimento de Preceito Fundamental (ADPF) aberta pelo PSOL em 2017, cujo mérito começou a ser julgado em setembro do ano passado, quando a então relatora e presidente do Supremo, Rosa Weber, apresentou seu voto pela descriminalização. Ela tinha sido a única a votar até aquele o momento.\nO julgamento, contudo, não continuou porque o ministro Luís Roberto Barroso, que sucedeu Rosa na presidência do Supremo, pediu destaque do processo, ou seja, a remessa para discussão no plenário físico, em que há o debate ao vivo.\nEm recurso, a CNBB alegou que o voto de Rosa Weber deve agora ser desconsiderado, pois teria sido computado após o pedido de destaque de Barroso, o que o tornaria sem efeito.\nO atual relator da ação, ministro Flávio Dino, que assumiu a cadeira de Rosa Weber após sua aposentadoria, contudo, negou o recurso da CNBB.\nSem analisar em qual momento exato teria sido registrado o voto da ministra, Dino considerou que a CNBB não poderia ter ingressado com esse tipo de recurso, pois participa da ação como amicus curiae, ou seja, uma entidade amiga da corte, capaz de fornecer informações úteis para o julgamento, mas inapta a apresentar esse tipo de recurso numa ADPF.\nAinda não há data marcada para que o mérito da ação sobre a descriminalização do aborto até a 12ª semana volte à pauta de julgamentos do plenário do Supremo. Apesar de crítico aberto da criminalização do aborto como política pública, Roberto Barroso, atual presidente do Supremo, têm dito que o tema ainda não está maduro o bastante na sociedade para ser julgado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2024-03/barroso-diz-que-criminalizacao-do-aborto-e-uma-ma-politica-publica",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2023-12/julgamento-sobre-aborto-nao-sera-pautado-no-curto-prazo-diz-barroso",
+      "https://www.agenciabrasil.ebc.com.br/justica/noticia/2024-03/barroso-diz-que-criminalizacao-do-aborto-e-uma-ma-politica-publica",
+      "https://www.agenciabrasil.ebc.com.br/justica/noticia/2023-12/julgamento-sobre-aborto-nao-sera-pautado-no-curto-prazo-diz-barroso"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:01:01.317+03:00",
+    "updated": "2024-08-09T00:01:01.317+03:00"
+  },
+  {
+    "uuid": "be75b5bf5e992e6698d5645e2849803515c350b3",
+    "url": "https://qns.com/2024/06/victorias-secrets-life-moving-sorrow-joy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Victoria Schneps",
+    "published": "2024-06-02T14:00:00Z",
+    "title": "Victoria’s Secrets: A roller coaster life moving from sorrow to joy",
+    "text": "Memorial Day is the unofficial “launch” of summer and Dan’s Taste events, and the season began with a roar of a different kind: a celebration filled with laughter, dining, drinking and dancing at our annual Rose Soirée sponsored by Wilmington Trust at the prestigious Southampton Arts Center on Jobs Lane. Over 800 happy people joined us at the iconic event that my daughter Elizabeth Aloni and her talented team brought to life with great success! A bonus was when my other children, Josh and Samantha and their children joined me the next day to share a lobster bake and a day of togetherness! It doesn’t get better than this! Here’s to a great season of shared good times and memories! See more photos on Schneps Media’s Thought of the Week Happiness is a journey, not a destination. Work like you don’t need money. Love like you’ve never been hurt. And dance like no one’s looking. — Dalai Lama Love to you, my dear readers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.thehamptonsynagogue.org/",
+      "https://thehamptonsynagogue.org/",
+      "https://www.thehamptonsynagogue.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "victoria",
+          "sentiment": "negative"
+        },
+        {
+          "name": "marc schneier",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ariel bibas",
+          "sentiment": "none"
+        },
+        {
+          "name": "yossi schneider",
+          "sentiment": "none"
+        },
+        {
+          "name": "ofir akunis",
+          "sentiment": "none"
+        },
+        {
+          "name": "jimmy miller",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hampton synagogue",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kristelnacht",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T17:01:16.588+03:00",
+    "updated": "2024-06-02T17:51:32.362+03:00"
+  },
+  {
+    "uuid": "3df1bf974eebe0a1edb9473df4b3519a6264d814",
+    "url": "https://www.wndu.com/2024/01/05/bradley-5-charitable-fund-donates-more-than-20k-towards-blood-disorder-research/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WNDU",
+    "published": "2024-01-05T21:57:00Z",
+    "title": "Bradley 5 Charitable Fund donates more than $20K towards blood disorder research",
+    "text": "Bradley 5 Charitable Fund donates more than $20K towards blood disorder research SOUTH BEND, Ind. (WNDU) - Bradley Hollar tragically passed away almost 11 years ago from a rare blood clotting disorder known as Factor V Leiden. And to honor him, his family started the [Bradley 5 Charitable Fund](https://bradleyfive.org/planting-the-seed) for research and awareness into the disease. On Friday, the group presented three checks worth more than $20,000 to the [W.M. Keck Center for Transgene Research](https://transgene.nd.edu/) at the University of Notre Dame. Bradley 5 has a fellowship with the center, which has continued studying into the rare disorder. The center is using funds to help get necessary equipment to continue that research. It’s all being done in Bradley’s honor. “If you would have known him, you would’ve known his personality — he’s a mover and a shaker, and he would’ve made things happen,” says Dana Hollar, Bradley’s father and founder of the Bradley 5 Charitable Fund. “I try to follow in that, the footsteps. What I saw him in his early 20s accomplish in his short life, I use that as my motivation.” Bradley 5 says it will continue bringing awareness to Factor V Leiden and hopes to bring attention to blood disorders at a national level. Copyright 2024 WNDU. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://bradleyfive.org/planting-the-seed)",
+      "https://transgene.nd.edu/)",
+      "https://www.transgene.nd.edu/)",
+      "https://www.bradleyfive.org/planting-the-seed)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bradley hollar",
+          "sentiment": "none"
+        },
+        {
+          "name": "bradley",
+          "sentiment": "none"
+        },
+        {
+          "name": "dana hollar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "charitable fund",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bradley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "w.m. keck center for transgene research",
+          "sentiment": "none"
+        },
+        {
+          "name": "ndu",
+          "sentiment": "none"
+        },
+        {
+          "name": "university of notre dame",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south bend",
+          "sentiment": "none"
+        },
+        {
+          "name": "ind.",
+          "sentiment": "none"
+        },
+        {
+          "name": "bradley",
+          "sentiment": "none"
+        },
+        {
+          "name": "leiden",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:05:40.533+02:00",
+    "updated": "2024-01-06T00:05:40.533+02:00"
+  },
+  {
+    "uuid": "330735d0679fd42d6021360393818bfeadcb2942",
+    "url": "https://www.newsbreak.com/news/4086752309184-fire-on-choctaw-nation-capitol-grounds-injures-5",
+    "ord_in_thread": 0,
+    "author": "KXII.com",
+    "published": "2025-07-03T02:41:00Z",
+    "title": "Fire on Choctaw Nation capitol grounds injures 5 - NewsBreak",
+    "text": "KXII.com\nwebsite\nAda\nFire on Choctaw Nation capitol grounds injures 5\n6 hours ago\nChristine Pappas and Adrian Odhiambo with the Ada Sunrise Rotary Club joined Caroline to talk about the Fireball Classic Memorial Race. Donald Cole, or as many knew him in the Marshall County area, “Bass Bud” was the man killed in Saturday night’s shooting. Meals on Wheels Texoma...\nComments\nLoading editor...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->fire",
+      "Disaster and Accident->emergency response",
+      "Health->public health",
+      "Health->health facility",
+      "Health->injury",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Christine Pappas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Adrian Odhiambo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Cole",
+          "sentiment": "none"
+        },
+        {
+          "name": "Caroline",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ada Sunrise Rotary Club",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:05:44.616+03:00",
+    "updated": "2025-07-03T12:11:37.472+03:00"
+  },
+  {
+    "uuid": "15bfc46a2b4626fbc5d025c2d83efca2ad806ac5",
+    "url": "https://vnexplorer.net/ukraine-is-one-step-away-from-nato-invitation-pm-s2649173.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-05-06T12:43:00Z",
+    "title": "Ukraine is one step away from NATO invitation - PM",
+    "text": "Denys Shmyhal, Prime Minister of Ukraine (Vitalii Nosach, RBC-Ukraine) Ukraine is banking on NATO members to make a decision regarding its membership bid at the upcoming summit in Washington, scheduled for July, according to Ukrainian Prime Minister Denys Shmyhal. “Our army works according to the NATO standards,” he said. At the same time, the Prime Minister mentioned that Kyiv has “implemented all needed reforms, and now we are a step before invitation.” Ukraine’s NATO assession Ukraine officially applied for NATO membership in September 2022, seven months after Russia’s invasion. However, the application emphasized Kyiv’s desire for an accelerated accession process without the so-called NATO Membership Action Plan. Recently, President Volodymyr Zelenskyy mentioned that Kyiv is already preparing for the future summit of the North Atlantic Alliance. Meanwhile, Ukrainian Deputy Prime Minister Olha Stefanishyna has said that Washington and Berlin are opposed to extending an official invitation to Kyiv to join the alliance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "denys shmyhal",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kyiv",
+          "sentiment": "none"
+        },
+        {
+          "name": "volodymyr zelenskyy",
+          "sentiment": "none"
+        },
+        {
+          "name": "olha stefanishyna",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rbc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nato",
+          "sentiment": "negative"
+        },
+        {
+          "name": "north atlantic alliance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "berlin",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T15:46:44.952+03:00",
+    "updated": "2024-05-06T15:46:44.952+03:00"
+  }
+]

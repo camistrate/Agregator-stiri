@@ -1,0 +1,335 @@
+[
+  {
+    "uuid": "c1bf9de651b86e938c21008f089ec33ec4168fd7",
+    "url": "http://tt.tennis-warehouse.com/index.php?threads/the-structure-of-the-old-pro-tour.601013/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "urban (invalid@example.com)",
+    "published": "2023-12-28T21:59:00Z",
+    "title": "The structure of the old pro tour",
+    "text": "As a long time member of this forum, i stopped posting for a while, because the discussion had gone awful, with people calling out people with animal names. I hope, this style has vanished, although i still see many bickerings and flames and ego shooters in the discussion here. Anyway, i am still interested in tennis history, ans some new posters like Mtincoronel, Drop, No Mercy or Ivan have made some good contributions in some recent posts i read in the last days.\nI think, the old pro tour pre open and early open era is still a puzzle that is not solved sufficiently. What we do get, is more information on results, because many newspaper archives are going open on the internet. I have deep respect for researchers like Sutter or McCauley or Robert Geist, Carlo Colussi, Elegos or Andrew Tas, who hadn't internet sources, but went to libraries and archives and put together written accounts (with all the flaws inherent). I respect tennis base (i think i was the first here in 2015, who pointed to that webside), or the work of Slasher, who reconstructed the early open era rankings, or the Italian websides of Ubitennis or tennis is my life. But research is not analysis, analysis requires more: a factual basis with giving the full picture and some structural context, an open and independent mind, some critical method of reading and understanding (we call this in German hermeneutics), a proper way of arguing, with no tricks and with looking at the other side of arguments, some clear writing and foremost some methodical consistency. Serious research on the old pro circuit would go behind newspaper findings to real sources: documents, contracts, match lists of organizers, managers or promoters. There must have been material existed, alone for tax reasons. I found on the internet, that the Penn State university offers some material in boxes: the George McCall papers, with boxes of contracts, match lists, letters and other documents. McCall was US DC captain and later the manager of the NTL, the pro group that was founded in late 1967.\nI think, the old pro tour pre open and early open era is still a puzzle that is not solved sufficiently. What we do get, is more information on results, because many newspaper archives are going open on the internet. I have deep respect for researchers like Sutter or McCauley or Robert Geist, Carlo Colussi, Elegos or Andrew Tas, who hadn't internet sources, but went to libraries and archives and put together written accounts (with all the flaws inherent). I respect tennis base (i think i was the first here in 2015, who pointed to that webside), or the work of Slasher, who reconstructed the early open era rankings, or the Italian websides of Ubitennis or tennis is my life. But research is not analysis, analysis requires more: a factual basis with giving the full picture and some structural context, an open and independent mind, some critical method of reading and understanding (we call this in German hermeneutics), a proper way of arguing, with no tricks and with looking at the other side of arguments, some clear writing and foremost some methodical consistency. Serious research on the old pro circuit would go behind newspaper findings to real sources: documents, contracts, match lists of organizers, managers or promoters. There must have been material existed, alone for tax reasons. I found on the internet, that the Penn State university offers some material in boxes: the George McCall papers, with boxes of contracts, match lists, letters and other documents. McCall was US DC captain and later the manager of the NTL, the pro group that was founded in late 1967.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sutter",
+          "sentiment": "none"
+        },
+        {
+          "name": "robert geist",
+          "sentiment": "none"
+        },
+        {
+          "name": "ivan",
+          "sentiment": "none"
+        },
+        {
+          "name": "carlo colussi",
+          "sentiment": "none"
+        },
+        {
+          "name": "mccauley",
+          "sentiment": "none"
+        },
+        {
+          "name": "andrew tas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:17:02.342+02:00",
+    "updated": "2023-12-29T00:17:02.342+02:00"
+  },
+  {
+    "uuid": "0658f29d8a4e4ee5a56ec759996f9469ab74ef1d",
+    "url": "https://habr.com/ru/news/937004/",
+    "ord_in_thread": 0,
+    "author": "Денис",
+    "published": "2025-08-14T04:56:00Z",
+    "title": "Эксперты пояснили, как технически организована блокировка звонков через мессенджеры Telegram и WhatsApp",
+    "text": "Профильные эксперты пояснили СМИ, как технически организована блокировка звонков через мессенджеры Telegram и WhatsApp.\nДиректор по инфраструктуре облачного провайдера «EdgeЦентр» Алексей Учакин сообщил, что для ограничения голосовых звонков в мессенджерах используются технические средства противодействия угрозам (ТСПУ, предназначены для фильтрации трафика и блокировки запрещённых ресурсов с помощью технологии DPI — глубокой фильтрации трафика по содержимому пакетов). ТСПУ по требованию законодательства ставится на сетях операторов связи и провайдеров.\nУчакин добавил, что голосовой трафик можно отделить от остального, так как он имеет определённые паттерны и использует конкретные протоколы, например, SIP (протокол установления сеанса). «Заблокировав определённые пакеты по известным сигнатурам, мы можем выключить конкретную функцию в мессенджере. В целом в условиях установки ТСПУ у всех операторов заблокировать трафик какого‑либо приложения не составляет большого труда. Да, местами не очень аккуратно, но цель будет достигнута», — сообщил эксперт.\nОпределение и блокировка звонков через мессенджеры в сетях российских операторов происходит в первую очередь с использованием инфраструктуры ТСПУ, выполняющей требования Роскомнадзора, добавила директор по развитию и эксплуатации услуг связи IT‑интегратора «Телеком биржа» Анастасия Биджелова. Без ТСПУ, по её словам, оператор не смог бы эффективно выполнять эти законодательные требования.\nБиджелова пояснила, что звонки в приложениях вроде WhatsApp или Telegram работают через WiFi или мобильный интернет, а не через обычную телефонную сеть. «Голос преобразуется в цифровой сигнал, который передаётся через интернет в виде пакетов данных на серверы приложения. Затем сервер маршрутизирует их и передаёт вашему собеседнику. Операторы связи или регуляторы, например Роскомнадзор, могут определять такие звонки, анализируя интернет‑трафик. Они видят, что связь идёт с известными серверами именно этих мессенджеров. Чтобы заблокировать такие звонки, они прерывают связь устройства с этими серверами, в результате чего звонок не может начаться или обрывается», — рассказала Биджелова.\nУ операторов широкополосного доступа в интернет стоят специальные устройства для фильтра трафика (DPI), объяснил партнёр Exectica Capital Алексей Замесов. В них используется так называемый глубокий анализ пакета. Технически «поведение» WhatsApp или Telegram понятно по специфическим сигнатурам, и в сети оператора связи можно определить, что тот или иной трафик — это голосовой вызов. По словам Замесова, специальное оборудование на сетях операторов связи видит, что соединение из точки А в точку Б похоже на звонок. И это соединение можно прервать или ограничить. В итоге звонка не то чтобы нет вообще, он просто плохого качества».\n13 августа 2025 года Роскомнадзор официально объявил о блокировке звонков через мессенджеры Telegram и WhatsApp. В ведомстве говорят, что приняли решение из‑за «многочисленных обращений граждан», звонки восстановят в случае, если мессенджеры выполнят требования законодательства. По информации Минцифры, действия Роскомнадзора по ограничению голосовых вызовов в иностранных мессенджерах сможет положительно повлиять на снижение количества мошеннических вызовов.\nНаходящимся за рубежом или планирующим поездку за границу российским туристам рекомендуется с запасом пополнить счёт телефона, чтобы оставаться на связи, сообщили в Ассоциации туроператоров России (АТОР). В АТОР напомнили, что альтернативы WhatsApp и Telegram для голосовых вызовов через интернет есть (список альтернатив на Хабре).\nВ мессенджере Telegram ответили на решение о блокировке звонков для российских пользователей, о которой сегодня Роскомнадзор. «Telegram борется с вредоносным использованием своей платформы, включая призывы к диверсии, насилию и мошенничеству. Модераторы, использующие специальные инструменты ИИ, активно отслеживают общедоступные разделы платформы и принимают жалобы, чтобы ежедневно удалять миллионы вредоносных сообщений. Кроме того, Telegram первым внедрил детальные настройки конфиденциальности для звонков, чтобы каждый пользователь мог самостоятельно определить, от кого принимать звонки, или полностью отключать их», – сообщили в пресс-службе Telegram.\nВ мессенджере WhatsApp (принадлежит Meta, которая признана в РФ экстремистской) также ответили на решение о блокировке звонков для российских пользователей, которую ввёл Роскомнадзор. «WhatsApp конфиденциален, по умолчанию защищён сквозным шифрованием и противостоит попыткам правительств нарушить право людей на безопасное общение», — заявили в мессенджере. По заверению WhatsApp, команда проекта продолжит делать все возможное, чтобы общение, защищённое сквозным шифрованием, оставалось доступным для людей по всему миру, включая Россию.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social networking",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://tass.ru/ekonomika/24774411",
+      "https://tass.ru/mezhdunarodnaya-panorama/24776841",
+      "https://www.rbc.ru/technology_and_media/14/08/2025/689d037c9a7947f8cb7cbf51",
+      "https://t.me/rbc_news/127260?ysclid=mea30vngkg599351335",
+      "https://www.rbc.ru/technology_and_media/13/08/2025/689cab709a7947a32eb24afb",
+      "https://www.t.me/rbc_news/127260?ysclid=mea30vngkg599351335",
+      "https://www.tass.ru/mezhdunarodnaya-panorama/24776841",
+      "https://rbc.ru/technology_and_media/13/08/2025/689cab709a7947a32eb24afb",
+      "https://rbc.ru/technology_and_media/14/08/2025/689d037c9a7947f8cb7cbf51",
+      "https://t.me/rbc_news/127260",
+      "https://www.tass.ru/ekonomika/24774411"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:32:39.305+03:00",
+    "updated": "2025-08-14T10:38:22.000+03:00"
+  },
+  {
+    "uuid": "da9597068dea5bb80644a1a96ada9c2fd1fdc504",
+    "url": "https://www.scoop.co.nz/stories/CU2507/S00265/confidence-man-jade-unleash-new-single-gossip.htm",
+    "ord_in_thread": 0,
+    "author": "Thursday",
+    "published": "2025-07-24T00:00:00Z",
+    "title": "Confidence Man & JADE Unleash New Single 'gossip | Scoop News",
+    "text": "Confidence Man & JADE Unleash New Single 'gossip\nAustralian rave royalty Confidence Man have teamed up with UK pop icon JADE (Little Mix) for the most deliciously savage pop banger of the summer, ‘gossip’. Premiering as Jack Saunders’ Hottest Record on BBC Radio 1, ‘gossip’ is three minutes of strutting dance-pop perfection, a fizzy cocktail of acid house attitude, playground insults, and choreographed clapbacks: this is a collab forged in pop heaven and raised in clubland hell.\n“Talk shit get a hit. There’s been a lot of chat going round but we can finally give you the truth of it. Gossip is here and god it tastes good. JADE put the cherry on top of this pop sundae and we can’t stop eating.” - Confidence Man\nBorn in a haze of glitter, synths and side-eye, ‘gossip’ had its live debut in front of a heaving Glastonbury Festival crowd during JADE’s surprise-packed set on the Woodsies Stage, where Confidence Man stormed the stage to deliver their new collab, complete with a brand-new routine that had the crowd gagging. Festival-goers will already know the ‘Tina Says You’re a C**’ fans and flags flying high all weekend weren’t just your imagination: the lyric’s already legendary with over 6M TikTok views on the track ahead of its release.\n‘gossip’ continues an incredible run for Confidence Man, following on from this year’s collaboration ‘I HEART YOU’ with UK singer, producer and DJ Eliza Rose. Last year Confidence Man released their third studio album 3AM (LA LA LA), which saw the group popify 90s UK rave sounds with a fresh, irreverent flair. They also won Best Live Act at the Rolling Stone UK Awards and were nominated for 3 x ARIA Awards for Best Electronic / Dance Release, Best Music Video and Best Live Act. This year they took out Best Breakthrough Artist at the BBC Radio 1 Dance Awards and were nominated for International Group of the Year at the BRIT Awards.\nFollowing this year’s headline-grabbing run of sets at Glastonbury, from the euphoric madness of Levels b2b Job Jobse, to a full-blown Stonebridge Bar takeover in which JADE popped on-stage at 1am, Confidence Man have proven yet again that no one does it quite like them.\nMORE ABOUT CONFIDENCE MAN…\nConfidence Man are the undisputed masters of maximalist mischief, a hedonistic pop-dance juggernaut fuelled by fierce choreography, euphoric hooks and a healthy disregard for subtlety. Formed in Brisbane and now based in London, the four-piece, fronted by the irrepressible duo Janet Planet and Sugar Bones, with shadowy beatmakers Clarence McGuffie and Reggie Goodchild behind the scenes, have spent the last few years turning clubs, festivals and sweaty basements into full-blown temples of fun.\nTheir third studio album, 3AM (LA LA LA), released via CHAOS/Polydor/I OH YOU last year, saw Confidence Man popify ‘90s UK rave sounds with a fresh, irreverent flair. Drawing inspiration from their immersion in London’s queer nightlife and a brush with icons like The KLF, the album delivers a high-voltage blend of breakbeat, trance, and leftfield techno, shot through with the anarchic spirit of The Prodigy and the rave energy only they can conjure. It’s bold, brash and utterly addictive, a fever-dream soundtrack for the club in your mind.\nFollowing their breakout second album TILT, which featured the cult hit ‘Holiday’ and cemented their reputation as festival mainstays, Confidence Man have gone from underground party-starters to international icons of excess. Their genre-defying sound and wild live shows have earned them rave reviews, millions of streams, and a growing legion of fans who show up ready to dance, scream and surrender to the madness.\nIn their world, the outfits are tiny, the hair is huge, and the vibes are nuclear. Confidence Man aren’t just making music; they’re making a scene. And everyone’s invited.\nMORE ABOUT JADE…\nIn just ten months, JADE’s solo career has skyrocketed with over 190 million streams, a BRIT Award for Pop Act, and an Ivor Novello nomination for her breakout hit ‘Angel Of My Dreams’. That track entered the UK Top 10, amassed over 100 million streams, and was widely celebrated as one of 2024’s best songs and videos by publications like DIY, The Guardian, and Dazed. JADE’s captivating live performances — from Radio 1’s Big Weekend to Mighty Hoopla — have further solidified her place as one of pop’s most magnetic and theatrical voices. With a sold-out tour, festival headliners including Glastonbury and TRNSMT, and a special orchestral show at the BBC Proms on the horizon, JADE is defining pop stardom on her own electrifying terms.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->music",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->party",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jack Saunders",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "BBC Radio",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "bbc radio",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_nz",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:37:34.340+03:00",
+    "updated": "2025-07-25T08:08:24.000+03:00"
+  },
+  {
+    "uuid": "c9bf942320b0ee50204cae4fe12937f27418f327",
+    "url": "https://www.mondaq.com/unitedstates/employee-rights-labour-relations/1516908/eeoc-puts-high-tech-employers-on-high-alert-regarding-discrimination",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Christopher W. Kelleher",
+    "published": "2024-09-12T10:03:00Z",
+    "title": "EEOC Puts High Tech Employers On High Alert Regarding Discrimination - Employee Rights/ Labour Relations - Employment and HR - United States",
+    "text": "ARTICLE 12 September 2024 EEOC Puts High Tech Employers On High Alert Regarding Discrimination [](/company/7122/seyfarth-shaw-llp) Seyfarth Shaw LLP Contributor With more than 900 lawyers across 18 offices, Seyfarth Shaw LLP provides advisory, litigation, and transactional legal services to clients worldwide. Our high-caliber legal representation and advanced delivery capabilities allow us to take on our clients’ unique challenges and opportunities-no matter the scale or complexity. Whether navigating complex litigation, negotiating transformational deals, or advising on cross-border projects, our attorneys achieve exceptional legal outcomes. Our drive for excellence leads us to seek out better ways to work with our clients and each other. We have been first-to-market on many legal service delivery innovations-and we continue to break new ground with our clients every day. This long history of excellence and innovation has created a culture with a sense of purpose and belonging for all. In turn, our culture drives our commitment to the growth of our clients, the diversity of our people, and the resilience of our workforce. On September 11, 2024, the EEOC issued a report entitled High Tech, Low Inclusion: Diversity in the High Tech Workforce and Sector 2014-2022, which analyzes \"demographic disparities... [](#authors)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "eeoc",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "seyfarth shaw llp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T02:06:31.916+03:00",
+    "updated": "2024-09-13T02:06:31.916+03:00"
+  },
+  {
+    "uuid": "dea0e6ba5e8e6e7cb9fe76e29b90f029595324b9",
+    "url": "https://www.salon.com/2024/07/11/not-in-this-for-my-legacy-biden-steadies-course-after-successful-nato-summit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Salon.com",
+    "published": "2024-07-11T00:00:00Z",
+    "title": "“Not in this for my legacy”: Biden steadies course after successful NATO summit | Salon.com",
+    "text": "President Joe Biden delivered a much-anticipated speech capping off a North Atlantic Treaty Organization summit in Washington on Thursday, before taking questions in an open conference from the press for the first time since his debate against Donald Trump. Biden, embattled by the press and some in his own party, championed his record, vowing again not to bow out. “We’ve got more to do, though. We’ve got to finish the job,” he said. Biden didn’t complete the presser without slips, though, referring at one point to Vice President Kamala Harris as “Vice President Trump,” when asked if Harris was capable of defeating Donald Trump if necessary. Pressed on the gaffe, and Donald Trump’s [weaponization](https://truthsocial.com/@realDonaldTrump/112770533998955867) of it, Biden simply urged reporters to “listen to him,” referencing his opponent’s own gaffes. The candidate, who laughed off an earlier flub on Putin’s name, is three years older than Trump. Asked numerous times about his age and performance, Biden denied reports that he was ending his day earlier and touted his post-debate schedule of “over 20 major events,” adding that he wanted Americans to see him out on the trail. “If you focus on my [schedule](https://www.salon.com/2024/07/06/wrong-about-everything-so-far-fired-up-biden-blasts-reporters-for-suggesting-he-cant-win/) since I made that stupid mistake in the debate, my schedule’s been full board,” Biden said. “Where has Trump been? Riding around in his golf cart?” The president also flexed his [reputation](https://www.salon.com/2020/11/14/the-us-voted-out-a-climate-denier-and-world-leaders-jumped-for-joy_partner/) amongst world leaders, who he said still see him in high regard despite American attacks on his candidacy. “I’m not hearing my European allies come up to me and say ‘Joe don’t run.’ They’re saying, ‘You’ve gotta win,’” Biden said, answering that he did believe Europe would be less safe under Trump. The president, who answered complex foreign policy questions on Russia, China, and Israel, detailed discussions with leaders at the summit, and weighed in on his continued support for Ukraine in its defense campaign, as well as a maintained push for a ceasefire deal between Israel and Hamas. Want a daily wrap-up of all the news and commentary Salon has to offer? [Subscribe to our morning newsletter](https://www.salon.com/newsletter), Crash Course. His policy discussion marked a stark contrast to the image of a beleaguered and aging Biden that his debate performance formed, prompting impressed responses from pundits. Former National Security Council official Alexander Vindman, who led European policy under Donald Trump, pointed to the gap between the candidates’ abilities to answer questions on complex topics. “Biden knows his stuff. Can anyone imagine Trump answering any of these foreign policy questions with any coherence?” Vindman [wrote](https://x.com/AVindman/status/1811551288921907335) in a post to X. Meanwhile, world leaders, including German Chancellor Olaf Scholz and French President Emmanuel Macron, have used NATO media opportunities to defend President Biden. “I think it would be a big mistake to underestimate the president,” Scholz [said.](https://www.politico.com/news/2024/06/15/biden-scholz-g7-00163585) “From my perspective, as someone who is speaking with Biden, he is very focused and is very intensely doing what a president of the United States has to do.” Likewise, the newly-minted U.K. Prime Minister [said](https://www.lbc.co.uk/news/biden-good-form-chat-president-reaffirmed-special-relationship-starmer/) Biden was “on good form” during the pair’s hour-long conversation. Biden summarized his conversations with world leaders throughout the summit as “a great success” in his remarks.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://truthsocial.com/@realDonaldTrump/112770533998955867",
+      "https://www.politico.com/news/2024/06/15/biden-scholz-g7-00163585",
+      "https://x.com/AVindman/status/1811551288921907335",
+      "https://www.lbc.co.uk/news/biden-good-form-chat-president-reaffirmed-special-relationship-starmer/",
+      "https://www.x.com/AVindman/status/1811551288921907335",
+      "https://lbc.co.uk/news/biden-good-form-chat-president-reaffirmed-special-relationship-starmer/",
+      "https://politico.com/news/2024/06/15/biden-scholz-g7-00163585",
+      "https://www.truthsocial.com/@realDonaldTrump/112770533998955867",
+      "https://www.lbc.co.uk/news/biden-good-form-chat-president-reaffirmed-special-relationship-starmer"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "putin",
+          "sentiment": "none"
+        },
+        {
+          "name": "kamala harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nato",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T04:29:17.085+03:00",
+    "updated": "2024-07-13T06:30:04.190+03:00"
+  }
+]

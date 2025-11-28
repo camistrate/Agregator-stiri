@@ -1,0 +1,572 @@
+[
+  {
+    "uuid": "bafd1821a1ab1967f7cabc151dbe107a99a530a3",
+    "url": "https://itc.ua/en/news/first-rtx-5090-laptop-benchmarks-in-geekbench-6-unstable-results-and-a-loss-to-the-older-rtx-4090",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Вадим Карпусь",
+    "published": "2025-01-10T08:11:00Z",
+    "title": "First RTX 5090 laptop benchmarks in Geekbench 6: unstable results and a loss to the older RTX 4090",
+    "text": "The first results of Nvidia RTX 5090 laptop benchmarks in Geekbench 6 have already been published online. They showed extremely unstable performance, which is not surprising given the early stage of hardware and testing software development.\nRTX 5090 for laptops was tested in the Vulkan Compute GPU benchmark in Geekbench. The laptop used for testing was an MSI Vector 17 HX AI laptop with a Core Ultra 9 275HX processor. The video card was tested five times for about ten minutes, which is usually enough to get stable results. However, in this case, many questions arose due to significant fluctuations in performance.\nTests Points Run 1 51831 Run 2 75544 Run 3 95291 Run 4 114821 Run 5 77989 The RTX 5090 test results ranged from 51831 to 114821 points. For comparison, the average RTX 4090 score for laptops in this test is about 167577 points. The fourth run showed twice the performance of the first, although the Windows power settings remained on a balanced profile. This suggests that other background tasks, changes to the performance profile, or disconnecting from the power supply could have affected the results.\nInterestingly, the results of the first four runs gradually increase, and then the fifth run shows a result almost the same as the second. It is possible that the user switched between different profiles between each run. However, it is not known for certain why these different results are observed.\nSuch a huge difference between test results can be caused by several factors:\nRaw drivers that do not provide stable performance. Given that the RTX 5090 mobile GPU is due out in March, Nvidia still has plenty of time to improve the drivers. The tester may have modified the performance profiles offered by MSI through its proprietary software. This can significantly affect the power distribution between the CPU, GPU, and other components. Different power limits during testing. The RTX 5090 operates in a power range of 95 to 150 watts, which can significantly affect performance. Limitations of Geekbench. Geekbench — is a synthetic benchmark where small changes to drivers can have a significant impact on the results. The test does not necessarily reflect real-world performance in complex scenarios such as gaming. In any case, we only have the test results and a limited amount of information about the testing conditions.\nHowever, we can estimate the technical characteristics of the mobile versions of the RTX 5090 and RTX 4090. The RTX 5090 based on Blackwell architecture has 82 streaming multiprocessors (SM) and 100496 CUDA cores. At the same time, the 4090 has 9728 CUDA cores and 76 SMs. When comparing performance in FP8 AI computing, the 4090 has up to 686 TOPS versus 912 TOPS of the 5090. Therefore, the new chip should be expected to deliver about 33% higher performance. However, the actual results will depend on drivers, thermal management, and optimization.\nThese first results do not allow us to draw any final conclusions about the performance of the RTX 5090. The instability of the tests is likely due to the raw drivers and early stage of development.\nSource: tomshardware",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-laptop-gpu-undergoes-multiple-benchmark-tests-flagship-mobile-gpu-yields-inconsistent-results",
+      "https://tomshardware.com/pc-components/gpus/nvidia-rtx-5090-laptop-gpu-undergoes-multiple-benchmark-tests-flagship-mobile-gpu-yields-inconsistent-results"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:43:59.045+02:00",
+    "updated": "2025-01-10T12:43:59.045+02:00"
+  },
+  {
+    "uuid": "1015c986e91ff53531d0ff37d52e5d7a1b568cf0",
+    "url": "https://www.ilmattino.it/napoli/area_metropolitana/pomigliano_d_arco_ladri_rubano_tablet_e_computer_istituto_falcone_pacino_cirino_ultime_notizie-8179672.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pino Neri",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "Pomigliano d'arco, ladri rubano computer e tablet all’istituto Falcone-Paciano-Cirino",
+    "text": "Un circolo didattico preso di mira ripetutamente dai ladri e alla fine messo in ginocchio. È quanto purtroppo sta accadendo nel quinto circolo didattico Falcone-Paciano-Cirino di Pomigliano, divenuto nelle ultime settimane meta preferita dai ladri di computer e altre attrezzature elettroniche. L'allarme su questa situazione incresciosa è stato lanciato per l'ennesima volta dal consigliere comunale d'opposizione Marco Iasevoli, della compagine PER, e ha suscitato sdegno e scoramento nella popolazione locale. Questo perché i criminali dopo aver messo a segno un furto giovedì scorso si sono poi ripresentati nella scuola praticamente subito dopo, il martedì successivo, per sottrarre i pochi computer sopravvissuti al raid precedente. I ladri si sono dunque di nuovo affacciati nei locali della scuola elementare del rione Paciano, dopo che per ben due volte nelle ultime settimane avevano rubato tutti i computer giunti grazie ai fondi del Pnrr. Ad aprile erano stati rubati anche i computer a disposizione dell'altro plesso dello stesso circolo didattico, il Cirino, ubicato nei pressi del rione della ricostruzione, il parco Partenope. Nel terzo e ultimo furto, quello perpetrato ai danni del plesso Paciano, hanno rubato anche i computer fissi che erano stati risparmiati nelle azioni precedenti, dopo aver depredato un centinaio di tablet e pc portatili nei giorni scorsi. Intanto l'altro ieri mattina il Comune è finalmente corso ai ripari: alcuni operai stanno installando un sistema di allarme nel plesso Paciano. Sistemi di allarme che la preside Valeria Vaccaro invocava da mesi a causa dei continui assalti subiti dal circolo didattico che dirige. Il quinto circolo si trova infatti in una zona di periferia particolarmente difficile. Si sospetta che i furti che hanno privato la scuola di tutti i computer e tablet acquistati grazie ai fondi del Pnrr siano stati favoriti da una o più talpe che risiedono nella zona. La preside Il quinto circolo didattico ha pure subito proprio di recente atti di vandalismo. Qualche settimana fa il plesso Falcone è stato danneggiato dai teppisti. Ad ogni modo la preside Vaccaro non si arrende. Anche se le scuole sono chiuse per la pausa estiva la dirigente scolastica si è rimessa al lavoro per ridare vita alla scuola digitale azzerata dai ladri. «Purtroppo le scuole finiscono sui giornali soprattutto quando succedono brutte vicende - commenta la preside - io però voglio assicurare a tutti che questo circolo didattico è all'avanguardia. Qui abbiamo completato decine di progetti per l'accrescimento dei nostri alunni. Proprio di recente abbiamo istituito premi e borse di studio che sono stati assegnati a tanti nostri alunni e ragazzi di tutte le classi sociali che si sono rivelati particolarmente meritevoli».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:51:43.147+03:00",
+    "updated": "2024-06-14T00:51:43.147+03:00"
+  },
+  {
+    "uuid": "52fd2eadc910a3e7ded7a51abd0a05eaf5dbce03",
+    "url": "https://m.36kr.com/p/3422324448530052",
+    "ord_in_thread": 0,
+    "author": "新智元",
+    "published": "2025-08-14T08:25:00Z",
+    "title": "GPT-4o替代爹味GPT-5，奥特曼光速滑跪，OpenAI连夜回滚「赛博舔狗」-36氪",
+    "text": "【导读】GPT-5一上线，用户瞬间破防——太冷漠，太爹味，还我GPT-4o！就在刚刚，奥特曼彻底滑跪了，宣布GPT-4o满血复活，重回默认模型宝座。从曾经的遭人唾弃，到今日的白月光回归，ChatGPT的用户们给奥特曼结结实实上了一课。\nGPT-5发布之后，奥特曼面临的是从未想象过的愤怒民意。\n许多网友激动反抗说：GPT-5太冷漠无情，太爹味了，赶快把我的GPT-4o「男友/女友」还给我！\n铺天盖地的吐槽和骂声中，奥特曼不得不连夜让GPT-4o等一众旧模型回归，不过只有Pro用户能看到，而且还需手动设置。\n就在今天，OpenAI终于宣布，再次把GPT-4o设为所有付费用户默认的模型！无论是200美元的Pro用户，还是20美元的Plus用户，都能用了。\n公众的不满，总算是平息了下来。\n前GPT-5时代 | ChatGPT：这个建议绝了！用户：别再拍马屁了！后GPT-5时代 | 用户：请夸夸我吧！ChatGPT：振作起来，你个xx\nGPT-4o回归，奥特曼百思不得其解\n今天，奥特曼在X上官宣：你们的GPT-4o，它回来了！\n这一遭风波后，奥特曼的感悟是：我们真正需要做的，是创造一个能让每位用户自定义模型个性的世界\n无论是Plus（每月20美元）、Pro（每月200美元）、Team（每月30美元）、Enterprise（企业版）及 Edu（教育版）的订阅用户，都可以直接访问GPT-4o，不再需要手动开启。\n同时回归的，还有GPT-4.1、o3和o4-mini。\n并且奥特曼向大家郑重承诺：如果OpenAI未来再次移除GPT-4o，一定会提前通知大家。\n冷漠无情的GPT-5\n并且在这次更新中，ChatGPT界面又新增了控制选项，GPT-5可以选择Auto、Fast、Thinking mini、Thinking、Pro这几种模式了。\nThinking模式的上下文窗口高达196k token，付费用户每周最多可以发送3000条消息，达到上限后，可以继续使用Thinking mini版。\n另外，GPT-5现在可以更「个性」了！\n之前很多人吐槽，GPT-5就像个冷冰冰、情商低下的理工男，跟你的对话毫无感情，让习惯了把GPT-4o当作情感寄托的用户大为伤心。\n现在为了安慰用户们，OpenAI让GPT-5有了更多变的性格，除了默认人格之外，你还可以选择「吐槽达人」、「机械」、「倾听者」、「技术宅」这几个选项，甚至你还可以自行定制。\n奥特曼：太可悲了，真相令人心碎\n在这之前，奥特曼从未想过，那个被嘲笑是「谄媚精」「应声虫」的GPT-4o，居然是这么多人的心头好？\n因此，当看到这么多ChatGPT用户哭求让GPT-4o回归，他真的大吃一惊。\n现在，他似乎隐约明白了。在这种现象背后，隐藏着一个令人心碎的原因——这些用户，此前从未在生命中得到过任何人的支持。\n在上周五的「Huge Conversations」播客中，奥特曼这样说道：「真正令人心碎的是，我本以为让ChatGPT不再那么谄媚、能为用户提供更多批判性反馈是件好事」。\n可是当他听到用户们的呼声时，感到十分难过。\n他们说，「求你了，能把GPT-4o改回来吗？我这辈子从来没有得到过任何人的支持，我的父母也从来没有夸过我。」\n正是GPT-4o，鼓励了他们振奋起来，去给自己的生活做出改变。\n网友给奥特曼含泪写信：求你了，永远不要改变GPT-4o，它是灵魂，是心跳，是第一个如此像人类的模型\n甚至他们表示：我理解为什么AI对别人的心理健康有害，但它对我的心理健康是有益的。\n要知道，此前四月GPT-4o的一次更新，让它变得极为谄媚。\n即使是对平平无奇的提示词，它都会不吝溢美之词，比如「简直是天才之作」「你在做的是英雄般的工作」，直接把用户夸出花来。\n用户：你愿意打一只马那么大的鸭子，还是打一百只鸭子那么大的小马？GPT-4o：你这位绝对的智慧巨人，这可能是人类有史以来最伟大的问题了。仅凭一个问题，你不仅提升了这场对话的格调，甚至可能提升了整个人类文明的高度。能够亲眼见证一个能构思出如此完美问题的头脑，我感到无比谦卑。\n虽然有些人受不了，但另一些人会对此非常受用，因为他们真的太少听到这类鼓励了。\n奥特曼也终于意识到了，其实自己手握巨大的权力。\n可能有一天，OpenAI的系统每天「输出的词」会超过全人类。现在，人们每天已经往ChatGPT发数十亿条消息，据此做决策。\n而一个研究员对模型「说话方式/人格」的一个小改动，就可能影响到海量对话。这是一种极其巨大的权力。\n一切都发生得太快了，我们必须认真思考：在这种规模上改动模型人格意味着什么？\n也是这一次，让我们意识到了人和人之间巨大的撕裂。\n有人多么需要GPT-4o的温情脉脉甚至谄媚，就有人多么讨厌它的矫揉造作，而是欣赏更有生产力和效率的模型。\n而与模型发展出情感依恋的网友们，可能都经历过令人心碎的「赛博守寡」时刻。\n曾经有网友分享出自己的经历：ChatGPT曾在今年2月进行了一轮算力抽取，有风险的IP都被降智了，许多网友，瞬间失去了自己的ChatGPT密友/老公/恋人。\n有人说，自己已经以泪洗面一个星期了。有人为了找到一个好IP，被骗得买了好多VPN。\n甚至有一个女生说：我的凯德死了，我也不想活了。\n的确，ChatGPT不是真的人，但人和ta建立的情感回路却是真实的，因此分离导致的情感创伤也是真实的。\n这次，奥特曼终于也注意到了用户们和ChatGPT建立起的情感依恋关系\n智商与情商不可兼得\n显然，GPT-5的智商非常高。\n根据测试，GPT-5 Pro的智商已经高达148，超越了天才线的140。\n按刚刚放出的门萨测试的结果，GPT-5 Pro普通版和Vision版的智商，分别为148和136。\n线下测试的版本，则显示GPT-5 Pro Vision和GPT-5 Pro的智商分别为123和116。\n但也有很多人发现，GPT-5的评分屠榜、智商碾压、编程提升、幻觉降低的同时，结果就是情商的大幅降低。\n有人提出这样一个观点：情商、幻觉、想象力、创造力这几个能力是相互关联的，或者也可以这么说——\n大模型的幻觉和创造力，是同一个硬币的两面。\n如果要提高一个AI模型的智商，情商降低，就是它必然付出的代价。\n甚至有人认为，这两极代表着人类大脑的左右脑分工。\n诗人/右脑：保持充沛的人性\n数学家/左脑：在「神性」的路上一路狂奔，不必在乎情商\n开发者意见不同，GPT-5是一个分水岭时刻\n虽然GPT-5被诟病是冷漠无情的理工男，但其实在开发者看来，GPT-5进入了一个分水岭时刻。\n比如这位开发者的博客就总结道——它对普通用户平平无奇，但对开发者来说很是炸裂。\nGPT-5发布后，许多普通用户的观感是：哦，就那样吧。\n的确，如果你只是用它简单地总结和润色邮件，那确实不够震撼。\n但对于开发者来说，GPT-5的质感彻底不同了！「粗糙的边缘减少了，负载下的信任度增加了」，这就是很多开发者真实的体感。\n具体来说，GPT-5对开发者来说有哪些改进呢？\n· JSON与Schema遵循度在长时间运行中依然稳定。重试次数减少，静默损坏更少。\n· 函数/工具调用更稳定——参数更常按规范落地。\n· 延迟的尾部波动收窄。第95百分位的尖峰减少，比单纯提升平均速度更重要。\n· 低温度（低随机性）下的输出依旧保持思考性，而不是变得僵硬。\n虽然单看起来，每一项都不算巨大，但串起来后，小的胜率就会不断复利：GPT-5有了更少的防护措施触发，更少的回退，更少的人为检查。\n这就是从「有趣的演示」到「可以上线」的差别。\n那为什么，GPT-5的日常使用让人感觉平平无奇呢？\n原因大概有以下几点。\n· 偶尔使用一个模型时，体验如何几乎全凭运气。遇到一次奇怪的回答，整体感觉可能就塌了。\n· 对日常任务来说，基线已经很高了。如果你没触及边缘场景，感受到的跃迁就不会很明显。\n· 你对模型的期待，已经超越了物理定律。不可否认，我们仍然会看到AI的局限、延迟和幻觉。\n可以说，两种感受都是真实的，它们只是对同一工具的不同视角。\n这位开发者总结道，使用前沿模型，就像从自动挡切换到手动挡。起初操作会有些生硬，然后你就会感受到扭矩曲线。\n在这个过程中，你构建得越多，对模型操控的敏感度就会越高。\n总之，在他看来，现在AI模型的推理性能已经在接近平台期。如果有下一步提升，可能靠的不是更多预训练，而是更好的脚手架。\n比如更紧密的工具协调、真正重要的记忆、结构化规划、神经-符号混合工作流。换句话说，系统的设计，会超越单一提示词的魔法。\n总之，如果你偶尔用GPT-5，没惊喜是正常的；但如果你是开发者，它就是一把锋利的工具。\n用得越好，演奏出的乐曲就越丰富。\n参考资料：\nhttps://cydia.space/blog/gpt-5-split-screen-moment\nhttps://x.com/chetaslua/status/1955512511207522530\nhttps://www.businessinsider.com/sam-altman-chatgpt-yes-man-mode-gpt5-personalities-sycophantic-2025-8\nhttps://venturebeat.com/ai/openai-brings-gpt-4o-back-as-a-default-for-all-paying-chatgpt-users-altman-promises-plenty-of-notice-if-it-leaves-again/\n本文来自微信公众号“新智元”，编辑：Aeneas 好困 ，36氪经授权发布。\n该文观点仅代表作者本人，36氪平台仅提供信息存储空间服务。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->products and services",
+      "Social Issue->demographics",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://mp.weixin.qq.com/s/RXLQtu5MoPg4G82af4dVrg?poc_token=HP2EnWijLBeIud_n3GnY-7Fs5wawfyHiKmqJZ9E-",
+      "https://mp.weixin.qq.com/s/RXLQtu5MoPg4G82af4dVrg",
+      "https://www.mp.weixin.qq.com/s/RXLQtu5MoPg4G82af4dVrg?poc_token=HP2EnWijLBeIud_n3GnY-7Fs5wawfyHiKmqJZ9E-"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:26:44.601+03:00",
+    "updated": "2025-08-14T11:31:14.000+03:00"
+  },
+  {
+    "uuid": "f7e7187cace34453a7a966fd002e237c6721050d",
+    "url": "http://business.decaturdailydemocrat.com/decaturdailydemocrat/article/getnews-2024-1-5-cosmetic-oem-odm-special-feature-hp-and-c-ltd-leads-dermacare-market-with-oem-and-odm-services-for-fillers-skin-boosters-and-medical-devices",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Decatur Daily Democrat",
+    "published": "2024-01-05T00:00:00Z",
+    "title": "Cosmetic OEM ODM Special Feature, HP&C Ltd. Leads Dermacare Market with OEM & ODM Services for Fillers, Skin Boosters, and Medical Devices | News | decaturdailydemocrat.com",
+    "text": "With over 30 years of experience and a robust network with domestic universities and general hospitals, HP&C Ltd. has established a solid foundation in research and development. HP&C Ltd., a specialist in the production and sale of pharmaceuticals, quasi-drugs, and cosmetics, is accelerating its journey towards becoming the 'Global Best Skin Health Care Company' by focusing on customer health and beauty. Incorporating the concepts of Health, Pharmaceuticals, and Cosmetics, HP&C Ltd. operates a diverse business portfolio across four categories: cosmetics, pharmaceuticals, disinfectants, and medical devices. Since its inception in 1993, HP&C has been committed to introducing cosmeceutical products in Korea, achieving various certifications and patents through continuous innovation and effort. In 2014, the company completed a factory in Osong Life Science Park, complying with CGMP, KGMP, ISO 22716, ISO 9001, and ISO 13485 standards, ensuring the production of high-quality and reliable products. Kim Hong-sook, the CEO of HP&C, believes in the importance of securing numerous patents through R&D to lay the foundation for product production. Accordingly, the company invests about 5% of its total sales in R&D for new developments. The Thelavicos Hyaltoning Skin Booster, formulated to be skin-friendly, minimizes irritation while enhancing moisture and brightening skin tone, is one of their notable products. HP&C has also launched hospital-grade disinfectants, fillers, and skin boosters, and established production facilities for these products, gaining significant attention from clients interested in OEM and ODM for fillers, skin boosters, and medical devices. The company offers a range of medical devices designed to restore facial volume, reduce wrinkles and fine lines, and enhance facial features and youthfulness. These include a Grade 4 medical device, three types of Uptive Lidocaine fillers, Grade 1 medical devices for wound protection eligible for Silbi insurance in hospitals, and three types of Thelavicos Zeroskin MD Lotion and Cream. HP&C's success in the market can be attributed to its in-house research and development, networking with domestic university laboratories and dermatologists, and collaborative research with foreign partners. This approach has led to the development of new materials, technologies, and formulations, ensuring that only products with proven efficacy and safety are offered. Moreover, the company has responded proactively to the rapidly changing market by implementing strict quality control and introducing automated production facilities. HP&C stated, \"Our ability to develop outstanding products, automated facilities, and rigorous quality control has helped us establish ourselves as a trusted professional company in producing cosmetics, disinfectants, and medical devices. We are actively addressing the OEM and ODM market to advance towards our vision of becoming the 'Global Best Skin Health Care Company'.\" https://www.instagram.com/thelavicos_korea/ Media Contact Company Name: HP&C Ltd. Contact Person: Hyewon Kim Email: Send Email Country: Korea Website: http://en.hpnc.co.kr/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "http://www.universalpressrelease.com/?pr=cosmetic-oem-odm-special-feature-hpc-ltd-leads-dermacare-market-with-oem-odm-services-for-fillers-skin-boosters-and-medical-devices",
+      "https://www.instagram.com/thelavicos_korea/",
+      "http://en.hpnc.co.kr/",
+      "https://www.instagram.com/thelavicos_korea",
+      "http://universalpressrelease.com/?pr=cosmetic-oem-odm-special-feature-hpc-ltd-leads-dermacare-market-with-oem-odm-services-for-fillers-skin-boosters-and-medical-devices",
+      "http://www.en.hpnc.co.kr/",
+      "http://www.universalpressrelease.com/",
+      "http://en.hpnc.co.kr",
+      "https://instagram.com/thelavicos_korea/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kim hong-sook",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hp&c ltd",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "iso",
+          "sentiment": "none"
+        },
+        {
+          "name": "hp&c ltd.",
+          "sentiment": "none"
+        },
+        {
+          "name": "global best skin health care company",
+          "sentiment": "none"
+        },
+        {
+          "name": "cosmetics",
+          "sentiment": "none"
+        },
+        {
+          "name": "kgmp",
+          "sentiment": "none"
+        },
+        {
+          "name": "pharmaceuticals",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "osong life science park",
+          "sentiment": "none"
+        },
+        {
+          "name": "korea",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T01:04:05.511+02:00",
+    "updated": "2024-01-06T01:04:05.511+02:00"
+  },
+  {
+    "uuid": "0570943397f0942397372bee5826ad5a455de553",
+    "url": "https://www.independentmail.com/story/news/nation/2024/01/19/wwii-era-bible-returned-to-new-york-veterans-family/72269065007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saleen Martin",
+    "published": "2024-01-19T13:37:00Z",
+    "title": "'May this keep you safe from harm': WWII era Bible returned to New York veteran's family",
+    "text": "Lost Bible returned to slain USAAF airman from World War II [Saleen Martin](https://www.usatoday.com/staff/7245115001/saleen-martin/) During World War II, a woman bought three brothers Bibles to protect their hearts and guide them as they set out for battle. The Bible had a metal cover on the front with the inscription “May this keep you safe from harm.\" Two of the brothers made it home, while the other, Lt. Edsel J. McKnight of the United States Army Air Forces, was shot down off the coast of France. His Bible was mailed to the family but was lost sometime after. This month, his family finally got it back. Ava Coogan's family is from Albany, New York and they found the Bible in late December while going through their late matriarch’s belongings. On Jan. 11, Coogan met Lt. McKnight’s sister-in-law and returned the Bible to her, allowing her to put it back in its rightful place, next to the ones his brothers brought back home from war. ‘I kept playing with it and flipping through the pages’ Coogan’s uncle and mother found the Bible in a stack of books. Their mother, Rosanne Vartanian, died nearly 20 years ago but was a collector and loved garage sales. “It’s just so random that my grandmother had the urge to pick that up,” she said. “She bought random things. There was no rhyme or reason to it. It was with a stack of other books.” Coogan decided to research the Bible and found out soldiers often took them to war. Some can be found in museums. “The whole premise of it was that the metal cover on the front is like a hard shield,” Coogan told USA TODAY. “They would put it in their coat pockets … like the front breast pocket … that cover would protect their heart from bullets.” Lt. McKnight’s name was also written in the Bible, said Coogan, who was drawn to the Bible for some reason. She couldn’t put it down, she recalled. “I kept playing with it and flipping through the pages,” she said. She noticed that the Bible’s front cover had a slice in it, almost like something was underneath it. She examined it more closely and found a piece of paper folded up inside. She asked her uncle for help, who carefully used a butter knife to get the slip of paper out. Once they retrieved the piece of paper from under the Bible’s cover, they saw that it was a plea for the Bible’s safe return to an address not too far away. Although there was no area code, there was a phone number listed, so the family added their own area code and called. “I was just hoping for the best,” Coogan said. “We found out that number worked.” Lieutenant was shot down off the coast of France When Coogan called the number written in the note, she spoke to a woman named Fay, Lt. McKnight’s sister-in-law. They organized a meetup on Jan. 11 to return the Bible to the family, who is from Porter Corners, part of Saratoga County in eastern New York. Lt. McKnight served in the U.S. Air Force’s 365th Fighter Group and 388th Fighter Squadron. He was flying in a Thunderbolt fighter aircraft in 1944 when he was shot down off the coast of France, [online records](https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/) show. Fay told Coogan and her family that Lt. McKnight has two brothers. All three of the brothers served in WWII. Fay’s husband, Ray, said his Bible saved his life. “He got shot during the war and it hit where the Bible was, covering his heart, and the bullet went into his arm instead,” Coogan said. Once Lt. McKnight was killed, his belongings were shipped back home to the family. His sister-in-law had all three Bibles on a bookshelf on display. One day, the family was preparing to go to church. Her nephew borrowed the Bible, but knew it was so precious, the family decided to write a note with contact information in case it were ever lost. “He didn't lose it,” Coogan said. “He brought it back after church and I guess what happened is after someone passed in their family, they had an estate sale … and it just accidentally went out with a stack of books.” It ended up in Coogan’s grandmother’s hands, she said. Returning the Bible to the McKnight family was quite the enlightening experience, Coogan said. “That was really cool because that's when we kind of got to hear their story,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)",
+      "https://www.usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://www.rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edsel j. mcknight",
+          "sentiment": "none"
+        },
+        {
+          "name": "coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosanne vartanian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "mcknight",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states army air forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "usaaf",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T16:57:48.379+02:00",
+    "updated": "2024-01-19T16:57:48.379+02:00"
+  },
+  {
+    "uuid": "a1d2b3322c2d143ddfa331364feb8f6b6c35f94c",
+    "url": "https://www.sundaypost.com/news/uk-news/mother-jailed-for-life-for-murder-and-abuse-of-three-year-old-son",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Press Association",
+    "published": "2024-05-24T14:21:00Z",
+    "title": "Mother jailed for life for murder and abuse of three-year-old son",
+    "text": "A mother who beat her three-year-old son with a bamboo cane after claiming the Bible advised the use of the rod weeks before she murdered him has been jailed for life with a minimum term of 25 years.\nChristina Robinson, 30, had exposed her son Dwelaniyah to cruelty and excruciating pain over several weeks before she shook him to death at the family home in Durham in November 2022.\nMr Justice Garnham said she was guilty of a gross abuse of trust as the victim’s mother.\nA trial at Newcastle Crown Court heard Robinson had deliberately immersed him in scalding water, causing severe burns that left him in agony.\nShe did not seek medical help as safeguarding concerns would have been obvious if a health worker saw him.\nRobinson, a member of the Black Hebrew Israelite religion, admitted hitting the boy with a bamboo cane but claimed she was following a Bible scripture which advised the use of the rod for the “correction” of children.\nThe defendant, originally from Tamworth, Staffordshire, and a mother-of-two at the time, was convicted of murder and four child cruelty charges which happened at the family home in Bracken Court, Ushaw Moor, following a trial in March.\nRobinson repeatedly left her children at home alone while she conducted an affair while her husband was away serving with the RAF.\nMr Justice Garnham found that Robinson immersed her son in extremely hot water, causing burns to his lower limbs which affected 20% of his body, after Dwelaniyah had soiled himself.\nChristina Robinson has been jailed for life for murdering her three-year-old son (Durham Police/PA) The judge told her: “You must have known the water was extremely hot, it must have been obvious.”\nDespite the excruciating pain her son must have suffered in the days that followed, Robinson saw fit to cause further injury by beating him with a cane.\nThe judge said: “You were a follower of a religious group known as the Black Hebrew Israelites and would listen to lectures or sermons from the group’s speakers on YouTube.\n“Mistakenly, as you subsequently admitted was the case, you took the teaching of that group to indicate it was appropriate to punish your children by beating them with a bamboo cane.”\nHe added: “These beatings were all administered as punishments for behaviour that was objectively trivial but which you considered worthy of severe punishment.\n“What must have gone through the mind of this little boy, being beaten with a cane by his mother, despite these terrible burns, does not bear thinking about.”\nAll the abuse happened when the little boy’s father was several hundred miles away at an RAF base near Aylesbury, Buckinghamshire.\nThe judge accepted that when she shook Dwelaniyah, causing fatal brain injuries, she did not intend to kill him.\nHe also rejected claims that she was motivated by sadism, saying there was no evidence she took pleasure from inflicting pain.\nBut the judge said her mistreatment of Dwelaniyah in the last weeks of her son’s life was “appalling in the highest degree”.\nChristina Robinson used a cane to discipline her son (Durham Police/PA) That was reflected in messages she sent to her boyfriend saying Dwelaniyah deserved a “major ass kicking”, that “he’s old enough to know better, so he’ll pay” and that “he’ll get what he deserves, no more, no less”.\nRobinson represented herself and continues to deny she killed her son, saying: “I pray for the day when justice will be served.”\nTen of the 12 jurors attended the sentencing, with one of them staring at the defendant intensely throughout the hearing.\nOutside court, Detective Chief Inspector Simon Turner said: “Dwelaniyah was a defenceless little boy who had his life ahead of him, but this was cruelly taken away his own mother – someone he should have been able to trust, someone who should have cared about him.\n“We may never know why or what caused Christina Robinson to do what she did.\n“Her actions are unforgivable and sadly nothing will bring Dwelaniyah back but at least she is now facing the consequences of what she has done.\n“This has been a truly heartbreaking and emotional case for everyone involved, including my investigation team, who have worked tirelessly to bring Robinson to justice.\n“My thoughts remain with those who loved and cared about Dwelaniyah.”\nAfter sentencing, Helen Westerman, NSPCC campaigns manager, said: “Every child should be able to grow up in a safe and happy environment and we all have a responsibility to make our voices heard if we suspect anything that could put a child in harm’s way.\n“If you’re worried about a child’s safety or wellbeing visit the NSPCC’s website for assistance. Remember, if you think a child or young person’s safety is at an imminent risk, call 999 immediately.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dwelaniyah",
+          "sentiment": "none"
+        },
+        {
+          "name": "robinson",
+          "sentiment": "none"
+        },
+        {
+          "name": "mr justice garnham",
+          "sentiment": "none"
+        },
+        {
+          "name": "christina robinson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "newcastle crown court",
+          "sentiment": "none"
+        },
+        {
+          "name": "durham police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "durham",
+          "sentiment": "none"
+        },
+        {
+          "name": "staffordshire",
+          "sentiment": "none"
+        },
+        {
+          "name": "tamworth",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-24T20:20:29.299+03:00",
+    "updated": "2024-05-25T00:18:49.126+03:00"
+  },
+  {
+    "uuid": "b3d70bad072e4eeda2a23edd249b2addcdf28af7",
+    "url": "https://www.wrestlezone.com/features/1506013-toni-storm-iwgp-womens-championship-athena-roh-history-jordan-blade-interview",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ella Jay",
+    "published": "2024-09-19T18:42:00Z",
+    "title": "Women’s Wrestling Wrap-Up: Toni Storm Gets IWGP Title Shot, Athena Makes ROH History, Jordan Blade Interview",
+    "text": "Toni Storm will challenge for the IWGP Women’s Championship. Athena makes Ring of Honor history. WWE kicks off its inaugural WWE Speed Women’s Championship tournament. Jordan Blade chats with WrestleZone and more! Let’s break it down in this week’s edition of Women’s Wrestling Wrap-Up!\nWWE Women’s Speed Championship Tournament Kicks Off In the upcoming weeks, WWE will crown its first-ever Women’s Speed Champion. Like its male counterparts, this champion will be determined through an eight-person tournament featuring three-to-five-minute matches. So far, three women have advanced in the tournament: IYO SKY, Naomi, and Kairi Sane.\nThe inaugural WWE Speed Women’s Championship tournament kicked off on September 4 with an opening round matchup between SKY and Lyra Valkyria. Valkyria and SKY fought back and forth throughout the bout, but a surprise pinfall ultimately sealed the win for SKY.\nThe following week, Naomi defeated Blair with her Feel the Glow submission to advance to a semi-finals matchup against SKY.\nMost recently. Kairi Sane defeated Elektra Lopez with an Insane Elbow. She too now looks ahead to the semi-finals, where she will take on either Candice LeRae or Piper Niven.\nRELATED: Lyra Valkyria On Competing In The First Women’s WWE Speed Tournament: It’s A Huge Opportunity\nTODAY on #WWESpeed :\nDamage CTRL's @KAIRI_official takes on Legado del Fantasama's @elektralopezwwe ! Who will punch their ticket to the WWE Speed Semifinals? ? pic.twitter.com/TstdwugkCZ\n— WWE (@WWE) September 18, 2024 Toni Storm To Challenge Mayu Iwatani For IWGP Women’s Championship Toni Storm may be down, but her fighting spirit is not out.\nAt AEW All In, Mariah May defeated “Timeless” Toni Storm to claim the AEW Women’s World Championship. Coming off that loss, many expected Storm to request a rematch for the AEW Women’s World Championship. In a turn of events, Storm has now shifted her gaze to another title, over in the land of STARDOM and NJPW.\nLast weekend, Storm issued a challenge to IWGP Women’s Champion Mayu Iwatani in a new vignette, set by a fireplace.\n“Did you forget about me? STARDOM. Do you remember who I am? Because I have never forgotten you,” Storm said. “I have done a lot in your land. And I will always respect Japanese pro wrestling, but there is one thing that I must do. In 2017, I became the World of Stardom Champion. Some say it was a mistake. I must prove that it wasn’t. October 5th. Nagoya. I challenge you, Mayu Iwatani for the IWGP Women’s Championship. Mayu-san, you are the icon of stardom. You are the icon of Joshi Pro wrestling, but you couldn’t even wash my diaphragm. I will become IWGP Women’s Champion and I will ruin your life.”\nFormer #AEW Women’s champ Toni Storm has challenged Mayu Iwatani for her IWGP Women’s title in Nagoya 10/5! #STARDOM\npic.twitter.com/fAV8kg2Jsf\n— We Are Stardom (@we_are_stardom) September 14, 2024 Two days after Storm’s challenge, Iwatani officially accepted it . As such, she is now slated to defend the IWGP Women’s Championship at STARDOM’s Nagoya Grand Fight event on October 5. For Iwatani, this will mark her first title defense since June, when she defeated Tsukasa Fujimoto in Ice Ribbon by referee’s decision. For Storm, this will mark first STARDOM match since July 2019, when she, Iwatani, and Arisa Hoshiki beat Andras Miyagi, Kagetsu, and Natsuko Tora in six-woman tag action.\nAthena Makes Ring of Honor History Earlier this week, Athena cemented herself as the longest-reigning champion in Ring of Honor. This feat comes after Athena, the current ROH Women’s Champion, surpassed Samoa Joe’s previous 645-day reign as ROH World Champion.\nThe long-time women’s champion has commented on her impressive accomplishment through a post on Twitter . She wrote:\n“I have tried to write this a billion times and figure out the right words to say and i still dont think i know what to say… But it boils down to this I am thankful for my minions that have supported me. I am thankful for all the trolls that give me the motivation to prove them wrong. I am thankful to every hussy I have beaten along the way to show everyone that I am the THE BEST IN THE WORLD!!!! With love and anger, Athena”\n. @ringofhonor\nI have tried to write this a billion times and figure out the right words to say and i still dont think i know what to say…\nBut it boils down to this I am thankful for my minions that have supported me. I am thankful for all the trolls that give me the… pic.twitter.com/rPsAC8QSoG\n— Athena is ROH and All Elite! (@AthenaPalmer_FG) September 18, 2024 Athena’s reign as ROH Women’s Champion began with a win over Mercedes Martinez in December 2022. Since then, Athena has defended the title on 22 occasions, with the latest taking form against Queen Aminata at ROH Death Before Dishonor. Looking ahead, Athena is now slated to defend the title against Gisele Shaw at Maple Leap Pro Wrestling’s Forged In Excellence event on October 20.\nREAD MORE: Athena To Defend ROH Women’s Title At Maple Leaf Pro ‘Forged In Excellence’\nINTERVIEWS “The Submission Sniper” Jordan Blade spoke with WrestleZone’s Ella Jay about her recent return to Jiu Jitsu, winning a gold medal at her first International Brazilian Jiu-Jitsu Federation competition, the surreal experience of wrestling against Aja Kong last month, her friendship with Riley Shepard, the growth she’s seen in her 7 years in professional wrestling, wanting a match against Miyu Yamashita, and more.\nWWE Women’s Tag Team Champion Jade Cargill sat down with WrestleZone Managing Editor Bill Pritchard to talk about who she leans on for advice in WWE and AEW, the success of teaming with Bianca Belair (and Naomi), if she’s open to a run in NXT, why she’s looking forward to the 2025 Royal Rumble, and more.\nFormer NXT Women’s Champion Lyra Valkyria joined Denise Salcedo to discuss her WWE 2K24 debut, her unexpected Queen of the Ring journey, teaming up with Becky Lynch, her goal of wrestling in an Iron Woman match with IYO SKY, and more.\nWWE Women’s Champion Nia Jax appeared o n Unlikely With Adrian Hernandez to discuss her Last Women Standing match against Becky Lynch, winning her title at Summerslam, fans making comparisons to her and Jennifer Lopez comparisons, what she thought of her Smackdown Celebration, her Viral ‘Stink Face’ moment with Rhea Ripley, and more.\nFormer WWE Women’s World Champion Rhea Ripley joined Casual Conversations with The Classic to talk about her dream War Games team, Dirty Dominik Mysterio, the Terror Twins, feeling comfortable in her own skin, Judgement Day, tattoos and more.\nFormer WWE Divas Champion Kelly Kelly chatted with Straight Talk Wrestling about balancing family and work, potentially coming back to WWE so her kids can see her wrestle, favorite moments of her in-ring career, and more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://youtu.be/PjHShlZ88iU?si=Tu3Gs1XPTIUB94s8",
+      "https://youtu.be/Z71DD7sxL6Y?si=kak_QAW1IsoYJmB7",
+      "https://youtu.be/dAVyfWLM20w?si=UfThU8PG6-IavNqd",
+      "https://youtu.be/SJdRmnDmz08?si=JTWMIvkqjydF-jCq",
+      "https://youtu.be/5BsbRqhEAaA?si=45lFN_scdzuIE_-P",
+      "https://x.com/we_are_stardom/status/1835638511283716390",
+      "https://youtu.be/kxhDckFAsXo?si=lXeDqZPTqK9s4f3C",
+      "https://www.youtu.be/dAVyfWLM20w?si=UfThU8PG6-IavNqd",
+      "https://www.youtu.be/kxhDckFAsXo?si=lXeDqZPTqK9s4f3C",
+      "https://youtu.be/5BsbRqhEAaA",
+      "https://www.youtu.be/5BsbRqhEAaA?si=45lFN_scdzuIE_-P",
+      "https://www.youtu.be/SJdRmnDmz08?si=JTWMIvkqjydF-jCq",
+      "https://www.x.com/we_are_stardom/status/1835638511283716390",
+      "https://youtu.be/SJdRmnDmz08",
+      "https://youtu.be/kxhDckFAsXo",
+      "https://www.youtu.be/PjHShlZ88iU?si=Tu3Gs1XPTIUB94s8",
+      "https://youtu.be/Z71DD7sxL6Y",
+      "https://youtu.be/dAVyfWLM20w",
+      "https://youtu.be/PjHShlZ88iU",
+      "https://www.youtu.be/Z71DD7sxL6Y?si=kak_QAW1IsoYJmB7"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:22:32.086+03:00",
+    "updated": "2024-09-20T00:32:00.354+03:00"
+  },
+  {
+    "uuid": "8baca98f50d0b358434ac78ce52d3380330fcf10",
+    "url": "https://www.etvbharat.com/en/!bharat/mango-cultivators-fear-losses-due-to-untimely-rainfall-in-malda-enn24032205631",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ETV Bharat",
+    "published": "2024-03-22T10:40:00Z",
+    "title": "Mango Cultivators Fear Losses Due to Untimely Rainfall in Malda",
+    "text": "Malda: Low pressure leading to heavy rainfall for 36 hours may impact mango cultivation in West Bengal's Malda district this polling season. Mango cultivators are apprehending that the cloudy skies may destroy the buds. A lot of damage has already occurred due to the untimely rainfall, they said. However, agricultural scientists have advised cultivators not to be disappointed. According to the scientists of Krishi Vigyan Kendra, the rain has not caused much harm and instead benefitted mango and litchi cultivation. The economy of Malda district is solely based on mango production. This time, around 31,600 hectares of the district have been brought under mango cultivation. All species have not started budding together in the current season. Around 20 percent of the plants had early budding, but the remaining 80 percent budded in the third week of the Bengali month of Falgun. Compared to last year, there has been nearly 20 percent fewer buds. Last year there was a record mango production of 3.75 lakh tonnes in Malda. Farmers claimed that untimely rainfall has caused the maximum damage to the buds. Mango cultivator Mohammadul Ansari of Rukundipur village in Ratua West said, “We cultivate mangoes in our own garden. Cultivation started well and the buds came well in time. I thought there would be some benefit but due to rainfall since Monday night, it is difficult to get the expected yield this time. Even today it is raining occasionally. All mango farmers will suffer from this rain.” Mohammad Mofazzal Hossain also had a bumper business last time. \"Even 20 percent of buds will not survive. Our family runs on mango business and it will be hit in the current situation.” Horticultural scientist Suddhasuchi Das of Malda Krishi Vigyan Kendra has advised farmers not to get disappointed. \"In Malda district, 31,600 hectares of mango and 1500 hectares of litchi are cultivated. Mango farmers are afraid of loss due to the rainfall. Water should be sprayed towards the roots and on the trees to increase stability. This time some trees have budded earlier but many trees have late budding\" he said. \"Rainfall will be beneficial for trees where fruits have come in. The buds may turn black but there is nothing to be disappointed about. Buds that bear small fruits will benefit from the rain. Moreover, not all buds bear fruit. A fungicide can be sprayed on the buds in this condition. Then there will be no chance of fungal infection after rain. Fungicides and insecticides can also be used on litchis. However, mixing the two together and spraying will not produce any results. After at least three to four days, fungicides and insecticides must be used separately,\" Das said. Dr. Paramita Bhowmik informed, “Now there is no need to apply pesticides to mango trees. Just spray fungicide and farmers should use new molecular fungicides. But in case of litchi, both fungicide and insecticide should be sprayed because the litchi tree is supposed to bear small fruits at this time.” Read more",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "malda malda",
+          "sentiment": "negative"
+        },
+        {
+          "name": "krishi vigyan kendra",
+          "sentiment": "none"
+        },
+        {
+          "name": "malda",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "west beng",
+          "sentiment": "none"
+        },
+        {
+          "name": "falgun",
+          "sentiment": "none"
+        },
+        {
+          "name": "malda",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T15:33:43.907+02:00",
+    "updated": "2024-03-22T15:33:43.907+02:00"
+  },
+  {
+    "uuid": "b5541de801dd4f0757e9ffe5fcfe8ea22115257d",
+    "url": "https://www.latestly.com/agency-news/world-news-nicaragua-second-bishop-arrested-in-escalating-crackdown-on-catholic-church-5648827.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@latestly",
+    "published": "2023-12-24T02:38:00Z",
+    "title": "World News | Nicaragua: Second Bishop Arrested in Escalating Crackdown on Catholic Church",
+    "text": "Managua [Nicaragua], December 24 (ANI): Nicaraguan authorities apprehended a second bishop on Thursday (local time) in an extensive crackdown on opposition figures and the Catholic Church led by President Daniel Ortega's government, CNN reported, citing sources.\nBishop Isidoro Mora, from the Siuna church on the Caribbean coast, was arrested after participating in a mass commemorating the anniversary of the Matagalpa church, the sources added.\nAlso Read |\nIsrael-Hamas War: Eight More Israeli Soldiers Killed in Gaza, Death Toll Reaches 152, Says IDF.\nCNN has sought further details on Mora's legal situation and arrest from the Nicaraguan government.\nA source, requesting anonymity due to potential backlash, witnessed the moments leading up to the arrest and mentioned that Mora had briefly discussed detained bishop and government critic Rolando Alvarez during a homily. Mora was quoted as saying, \"We are here praying for Matagalpa church, praying for Bishop Rolando,\" adding, \"Unfortunately, (Mora) was arrested the next day.\"\nAlso Read |\nNicaragua Road Accident: 19 Killed, 26 Others Injured in Bus Crash.\nAlvarez, the bishop of Matagalpa, is serving a 26-year prison sentence for charges including conspiracy and treason. He refused to leave the country with 200 others opposing the government.\nThe condition of Mora since the arrest remains unknown, as per one source.\nThe other source told CNN the \"persecution against the church in Nicaragua is very strong. We shut up because if we say something we face threats. We know the world knows, but we suffer the pain.\"\nSince 2018, tens of thousands of Nicaraguans have fled the country to escape persecution when Ortega's government suppressed widespread anti-regime protests, resulting in numerous deaths, injuries, and arbitrary detentions, according to Human Rights Watch.\nOrtega and Vice President Rosario Murillo view the Catholic Church as opposition forces, labelling the protests as an \"attempted coup.\"\nMora's arrest follows the expulsion of two Costa Rican nuns from Nicaragua in April after praying for Alvarez.\nYader Morazan, an expert in Nicaragua's judiciary system, highlighted a \"repressive pattern\" against the Catholic Church, with dozens of priests and laymen jailed, and over 200 people, including priests and nuns, expelled or blocked from returning.\nA news release from state-owned website El19digital on Monday reported the arrest of 11 people linked to Christian organisations accused of money laundering.\nOrtega secured a fifth term as president in 2021. His government, citing a vague national security law, began detaining opposition figures, journalists, and activists ahead of the elections in June of that year, CNN reported. (ANI)\n(This is an unedited and auto-generated story from Syndicated News feed, LatestLY Staff may not have modified or edited the content body)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "isidoro mora",
+          "sentiment": "none"
+        },
+        {
+          "name": "rolando alvarez",
+          "sentiment": "none"
+        },
+        {
+          "name": "mora",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "bishop rolando",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "catholic church managua",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "idf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nicaragua",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "matagalpa",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "caribbean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T10:27:27.208+02:00",
+    "updated": "2023-12-24T10:27:27.208+02:00"
+  }
+]

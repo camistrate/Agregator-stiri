@@ -1,0 +1,510 @@
+[
+  {
+    "uuid": "2f5b3740dcfbe7a757ca5e2df9d5d9c07f76d7ca",
+    "url": "https://www.cbsnews.com/chicago/video/gas-leak-reported-during-building-construction-in-crystal-lake",
+    "ord_in_thread": 0,
+    "author": "CBS Chicago",
+    "published": "2025-04-09T21:14:00Z",
+    "title": "Gas leak reported during building construction in Crystal Lake - CBS Chicago",
+    "text": "A gas line was damaged during construction work at a building in the 300 block of Waters Edge Drive just after 6:30 a.m.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:28:27.427+03:00",
+    "updated": "2025-04-10T00:28:27.427+03:00"
+  },
+  {
+    "uuid": "bfe3d7b7ecd5294324c58978d73207d22001851f",
+    "url": "https://www.freepressjournal.in/india/assam-repeals-muslim-marriages-and-divorces-registration-act-in-a-move-to-prohibit-child-marriages",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-02-23T22:08:00Z",
+    "title": "Assam Repeals Muslim Marriages And Divorces Registration Act In A Move To Prohibit Child Marriages",
+    "text": "Chief Minister Himanta Biswa Sarma posted on X and said that this move marks another significant step towards prohibiting child marriages in Assam.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "himanta biswa sarma",
+          "sentiment": "none"
+        },
+        {
+          "name": "regis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "assam cabinet",
+          "sentiment": "negative"
+        },
+        {
+          "name": "muslim marriage registrars",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "assam",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-24T05:10:14.036+02:00",
+    "updated": "2024-02-24T06:10:02.855+02:00"
+  },
+  {
+    "uuid": "5baaacf94f732838d7ab34d83197ee2e1b09b46f",
+    "url": "https://www.ilmeteo.it/notizie/meteo-polo-nord-caldissimo-ora-linverno-pu-cambiare-volto-allimprovviso-anche-in-italia-142633",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mattia Gussoni",
+    "published": "2023-12-29T15:00:00Z",
+    "title": "-->",
+    "text": "Qualcosa di anomalo sta accadendo sopra al Polo Nord: un riscaldamento improvviso, denominato in termine tecnico Stratwarming, rischia di portare alla rottura il Vortice Polare con conseguenze dirette sul clima europeo già dall'ormai imminente mese di Gennaio. Va fatta una doverosa premessa. Con stratwarming, in meteorologia, si fa riferimento ad un anomalo e intenso riscaldamento della stratosfera terrestre (porzione dell'atmosfera compresa tra i 15 e 50 km sopra la superficie), proprio sopra il Circolo Polare artico, nell'ordine anche di 40/50°C nel giro di pochissimi giorni. Tale riscaldamento, una volta attivatosi, tende gradualmente ad espandersi in direzione dell'alta troposfera, con ripercussioni nelle successive 2/4 settimane: il settore troposferico immediatamente inferiore, infatti, viene costretto a deformarsi (in termine tecnico si parla di \"dislocazione del vortice polare\") o a rompersi, suddividendosi in 2/3 minimi depressionari distinti (\"split del vortice polare\"), i quali poi viaggiano, almeno in parte, in direzione delle medie latitudini, provocando ondate di freddo fin sul cuore dell'Europa e anche sull'Italia. PROIEZIONI GENNAIO 2024 Nei prossimi giorni è prevista una fortissima anomalia climatica sopra al Polo Nord, con temperature fino a 57°C in più rispetto a quanto ci si aspetterebbe in questo periodo! L'ingresso di \"aria calda\" potrebbe destabilizzare non poco il Vortice Polare. Le ripercussioni, nella bassa troposfera non saranno immediate. Anzi, come avviene in genere, ci vorranno almeno 2/3 settimane e quindi si avvertiranno eventualmente verso la metà di Gennaio. Il passato (anche recente come abbiamo visto) ci insegna che queste dinamiche si traducono spesso in movimenti interessanti a scala emisferica, con possibili irruzioni gelide verso l'Europa centrale e successivamente pure verso l'Italia. Da valutare poi il possibile ritorno delle precipitazioni: bisognerà capire in seguito dove si formeranno i minimi depressionari, per individuare le zone maggiormente coinvolte e se ci saranno occasioni per nevicate fino a bassa quota.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:04:46.129+02:00",
+    "updated": "2023-12-29T20:04:46.129+02:00"
+  },
+  {
+    "uuid": "d260ff96894cb39e7cd37e34689651ccc65f0344",
+    "url": "https://thecounty.me/2024/10/03/business-news/425-million-federal-grant-revives-aroostook-renewable-energy-project",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kathleen Phalen Tomaselli",
+    "published": "2024-10-03T22:23:00Z",
+    "title": "$425 million federal grant revives Aroostook renewable energy project",
+    "text": "A previously stalled wind power and transmission corridor project in Aroostook County received a major funding boost from the U.S. Department of Energy on Thursday, renewing hopes it will move forward.\nThe DOE announced that it selected Avangrid, the parent company of Central Maine power, for a $425 million capacity contract for the Aroostook Renewable Gateway project. It is one of the largest federal investments in energy development in Maine, said Gov. Janet Mills.\nA capacity contract is a commitment to buy some of the power a utility produces.\n“This unprecedented investment from the Biden-Harris Administration has the power to transform the energy future of northern Maine.” said Mills in a statement on Thursday. “Investments like these bring us closer to the energy independence that can help stabilize costs for people and strengthen our economy.”\nMaine Senate President Troy Jackson spearheaded 2021 renewable energy legislation for the Aroostook Renewable Gateway project that would for the first time link Aroostook County with the ISO New England grid that operates in Maine and five other states.\nThe gateway is key in helping the state reach its 80 percent renewable energy goal by 2030.\nIn 2021, the legislature tasked the PUC with soliciting bids for both power generation and transmission for the gateway project.\nNew York-headquartered LS Power was awarded the transmission portion of the gateway project and Boston-based Longroad Energy’s King Pine Wind was selected to generate the power with County located wind turbines. It has been touted as the largest land-based wind project east of the Mississippi River.\nCost and transmission route issues plagued LS Power’s bid, despite efforts by the company to meet with the public in a series of information gathering sessions along the proposed route. In December 2023 the PUC killed their hopes of continuing the project.\n“We have been watching this whole thing and in the spring identified costs as being a problem,” said Jon Breed, spokesman for Central Maine Power. “We went and solicited this capacity contract from the DOE to lessen the burden on ratepayers for the cost of the transmission line.”\nThis May, the PUC put out a request for information regarding a new transmission utility for the project. At the same time they called for interested project developers and potential bidders to submit an Indication of Interest in the procurement, according to the PUCs Susan Faloon.\nBreed said the DOE had been soliciting bids for capacity contracts as part of the bipartisan infrastructure bill that President Joe Biden passed.\nAvangrid applied for the contract and the Aroostook Renewable Gateway is one of four projects awarded funds.\nBreed said because there will be a number of bidders on the transmission portion of the gateway, a capacity contract gives Avangrid a competitive edge. The capacity contract is like a guaranteed seller, he said, comparing it to a developer that sells 25 condo units in a project that has not yet been started.\nWhile he said they cannot reveal the details of the bid they will submit when the PUC issues the Request For Proposals, they will say their route does not intend to use eminent domain which was a problem for Maine landowners with the LS Power project.\n“The two previous problems were costs and they ran into issues around the route,” Breed said. “We did a lot of work looking at what we thought the issues were and we intend to put forward the most competitive bid we can.”\nIt’s important to remember there are going to be many bids and that this process hasn’t even kicked off yet and we may or may not be chosen, he added.\nAccording to Faloon, the PUC does not have a timeline for the RFP request.\n“The dream of having a line connecting northern Maine to an electric grid within the region is once again in sight,” said Jackson. “The good news is that CMP already owns a large portion of the land in which a line could be built and CMP has pledged not to use eminent domain.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.iso-ne.com/",
+      "https://legislature.maine.gov/LawMakerWeb/summary.asp?ID=280080911",
+      "https://mpuc-cms.maine.gov/CQM.Public.WebUI/Common/CaseMaster.aspx?CaseNumber=2024-00099",
+      "https://www.legislature.maine.gov/LawMakerWeb/summary.asp?ID=280080911",
+      "https://www.mpuc-cms.maine.gov/CQM.Public.WebUI/Common/CaseMaster.aspx?CaseNumber=2024-00099",
+      "https://iso-ne.com/",
+      "https://legislature.maine.gov/LawMakerWeb/summary.asp",
+      "https://mpuc-cms.maine.gov/CQM.Public.WebUI/Common/CaseMaster.aspx",
+      "https://www.iso-ne.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Janet Mills",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Maine Senate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Aroostook County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:57:00.726+03:00",
+    "updated": "2024-10-04T01:57:00.726+03:00"
+  },
+  {
+    "uuid": "abecff88b0b3d74278ac1383affb43e42cf4b7ee",
+    "url": "https://istoe.com.br/regiao-sul-tem-previsao-de-tempestade-para-este-final-de-semana",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "IstoÉ News",
+    "published": "2024-12-13T17:21:00Z",
+    "title": "Região Sul tem previsão de tempestade para este final de semana",
+    "text": "13/12/2024 - 12:21\nA previsão é de tempestades para a Região Sul nos próximos dias. De acordo com o Instituto Nacional de Meteorologia (Inmet), novas áreas de instabilidade devem ocorrer entre esta sexta-feira (13) e domingo (15), com rajadas de vento, pancadas de chuva e condição para granizo.\nA instabilidade é formada pelo calor e umidade e perturbações no escoamento do vento em altos níveis da atmosfera, associados à formação de uma ampla área de baixa pressão atmosférica. No entanto, segundo o Inmet, ainda há divergência sobre a intensificação desse sistema de baixa pressão que poderá dar origem a um ciclone extratropical próximo da costa do Rio Grande do Sul.\nNotícias relacionadas:\n[Amazônia tem diversidade empobrecida por incêndios florestais.](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/amazonia-tem-diversidade-empobrecida-por-incendios-florestais)[Maioria dos municípios paulistas não estão preparados para calamidades.](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/maioria-dos-municipios-paulistas-nao-estao-preparados-para-calamidades)[Brasil e Reino Unido fazem parceria para descarbonizar indústrias.](https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/brasil-e-reino-unido-fazem-parceria-para-descarbonizar-industrias)\nAs áreas mais atingidas devem ser o sul e leste gaúcho, com condições para rajadas de vento acima dos 60 km/h e pancadas de chuva eventualmente fortes. Na segunda-feira (16), o sistema deve se deslocar para alto-mar.\nAlertas\nEm comunicado, o Inmet destacou a importância do acompanhamento das emissões dos avisos meteorológicos especiais nos próximos dias. “Fique atento aos comunicados da Defesa Civil de sua cidade”, alertou.\nNa semana passada, entrou em [operação](https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/defesa-civil-alerta-entra-em-operacao-nos-estados-do-sul-e-sudeste) nos estados do Sul e Sudeste o novo sistema de alertas de desastres de grande perigo da Defesa Civil Nacional. O Defesa Civil Alerta utiliza a rede de telefonia celular para emitir alertas gratuitos, com mensagem de texto e aviso sonoro, para a população que estiver em área de risco potencial.\nOs alertas são disparados pelas defesas civis de estados e municípios para a população em área com cobertura de rede 4G ou 5G e com risco iminente de alagamentos, enxurradas, deslizamentos de terra, vendavais, chuvas de granizo e outras situações. As pessoas não precisam fazer cadastro prévio para receber as informações de autoproteção, ele será automático.\nO Defesa Civil Alerta é para casos de desastres de grande perigo. Para os desastres de menor intensidade, com menor comprometimento da segurança das pessoas, os demais mecanismos, como SMS, TV por assinatura, WhatsApp e Google, permanecem vigentes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/amazonia-tem-diversidade-empobrecida-por-incendios-florestais",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/maioria-dos-municipios-paulistas-nao-estao-preparados-para-calamidades",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/brasil-e-reino-unido-fazem-parceria-para-descarbonizar-industrias",
+      "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/defesa-civil-alerta-entra-em-operacao-nos-estados-do-sul-e-sudeste",
+      "https://www.agenciabrasil.ebc.com.br/geral/noticia/2024-12/defesa-civil-alerta-entra-em-operacao-nos-estados-do-sul-e-sudeste",
+      "https://www.agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/amazonia-tem-diversidade-empobrecida-por-incendios-florestais",
+      "https://www.agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/maioria-dos-municipios-paulistas-nao-estao-preparados-para-calamidades",
+      "https://www.agenciabrasil.ebc.com.br/meio-ambiente/noticia/2024-12/brasil-e-reino-unido-fazem-parceria-para-descarbonizar-industrias"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T19:27:17.517+02:00",
+    "updated": "2024-12-13T19:27:17.517+02:00"
+  },
+  {
+    "uuid": "db1c6121d5902296af08be6f755765d02674aaca",
+    "url": "https://menafn.com/1107668480/Shubhangi-Atres-New-Year-Plans-Moment-For-Self-Renewal-Contemplation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2023-12-29T07:30:00Z",
+    "title": "Shubhangi Atre's New Year Plans: Moment For Self-Renewal, Contemplation | MENAFN.COM",
+    "text": "( MENAFN - IANS) Mumbai, Dec 29 (IANS) Actress Shubhangi Atre has shared that for the New Year, she wants to immerse herself in the tranquility of nature at her farmhouse, which is surrounded by serene landscapes, and have a moment for self-renewal and contemplation.\n\"At my farmhouse in Malshej Ghat, surrounded by serene landscapes and refreshing air, I intend to immerse myself in the tranquillity of nature. I'll take strolls through the lush greenery, perhaps enjoy a picnic by the riverside, and relish the simple yet profound joys that nature graciously offers,\" the Shubhangi said.\nThe 'Kasturi' fame actress revealed how this break allows her to reflect on the year gone by, appreciate the lessons learnt, and set intentions for new beginnings.\n\"It's a moment for self-renewal and contemplation, aligning myself with the natural rhythms that inspire and rejuvenate. As the sun sets on this remarkable day, I'll be grateful for the beauty around me and the opportunities the upcoming year holds,\" said the actress.\nExtending her warm greetings to her fans, Shubhangi added: \"Here's to embracing nature's embrace, finding solace in its beauty, and stepping into the New Year refreshed and recharged. Wishing everyone abundant joy, prosperity, and a year brimming with delightful surprises.\"\nOn the work front, she is currently seen as Angoori Bhabhi in the sitcom 'Bhabiji Ghar Par Hain', which airs on &TV.\n--IANS\nsp/arm\nMENAFN29122023000231011071ID1107668480\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://ians.in/detail/shubhangi-atre-on-new-year-plans-its-a-moment-for-self-renewal-contemplation--20231229185104/",
+      "https://www.ians.in/detail/shubhangi-atre-on-new-year-plans-its-a-moment-for-self-renewal-contemplation--20231229185104/",
+      "https://ians.in/detail/shubhangi-atre-on-new-year-plans-its-a-moment-for-self-renewal-contemplation--20231229185104"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shubhangi atre",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shubhangi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ians",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "mumbai",
+          "sentiment": "none"
+        },
+        {
+          "name": "malshej ghat",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:07:26.474+02:00",
+    "updated": "2023-12-29T20:07:26.474+02:00"
+  },
+  {
+    "uuid": "7acb459b47678e61c22dc1dfdbcf3a59064982a6",
+    "url": "https://www.mdzol.com/politica/2023/12/29/en-vivo-el-gobierno-se-muestra-positivo-sobre-la-aprobacion-de-la-ley-omnibus-395196.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mdzol.com",
+    "published": "2023-12-29T16:00:00Z",
+    "title": "En vivo: el Gobierno se muestra positivo sobre la aprobación de la ley ómnibus - MDZ Online",
+    "text": "En vivo: el Gobierno se muestra positivo sobre la aprobación de la ley ómnibus En el día en el cual entra en vigencia el polémico DNU de Milei, habla el encargado de dar a conocer las novedades del Gobierno. El Gobierno cierra el año con una jornada tranquila y sin mucha actividad oficial. El presidente Javier Milei tiene previsto viajar hoy a la ciudad de Mar del Plata para asistir a la obra \"Fátima 100%\", de su pareja Fátima Flórez, en el céntrico teatro Roxi. En tanto, en la Casa Rosada, la única actividad oficial prevista fue la conferencia de prensa habitual del vocero presidencial, Manuel Adorni, a las 11, en el Salón de Conferencias. Es decir, este viernes no se realizó la reunión de Gabinete y, en principio, según indicaron fuentes oficiales, Milei las convocaría de ahora en adelante para los martes y jueves, tal como sucedió esta semana. 12.00 - El Gobierno se muestra seguro sobre el avance de la ley ómnibus El presidente de la Cámara de Diputados, Martín Menem, afirmó hoy que \"el número está\" para aprobar el proyecto de ley del Ejecutivo, denominado \"Ley de Bases y Puntos de Partida para La Libertad de los Argentinos\", y puso de relieve que se necesita que \"salga completo\". \"Cuando se empieza a porotear, creo que tenemos el número: tenemos 38 (diputados) nosotros; 37 del PRO; 33 del radicalismo, y ahí un importante sector del radicalismo va a apoyar las medidas; y al bloque de (Miguel Ángel) Pichetto lo veo acompañando\", analizó Martín Menem en declaraciones formuladas al canal América 24, donde destacó la importancia de que el Congreso apruebe \"el paquete completo\", en referencia a la ley ómnibus impulsado por el gobierno de Javier Milei. Si bien dijo que a nivel parlamentario \"hay ruido\" e \"impresiona el tamaño de las reformas que se plantean\", Menem aseguró los temas se van \"a discutir\". 11.00 - Adorni en conferencia de prensa sobre los Brics El vocero presidencial, Manuel Adorni, justificó hoy la decisión del Gobierno argentino de no participar del bloque de los Brics (Brasil, Rusia, India, China y Sudáfrica) al argumentar que el \"cambio\" en materia de política internacional \"amerita un proceso de análisis mucho más profundo que el que entendemos se había tomado con el Gobierno anterior\". Así lo manifestó el funcionario en su habitual conferencia de prensa diaria en Casa de Gobierno. [](/politica/2023/12/29/otra-mala-noticia-para-martin-insaurralde-la-justicia-le-inhibio-su-mansion-395271.html) Yategate Otra mala noticia para Martín Insaurralde: la justicia le inhibió su mansión [](/politica/2023/12/29/la-corte-suprema-se-prepara-para-analizar-el-dnu-de-javier-milei-despues-de-la-feria-judicial-395288.html) Justicia La Corte se prepara para analizar el mega DNU de Milei [](/politica/2023/12/29/nueva-denuncia-contra-javier-milei-por-acusar-los-legisladores-de-cobrar-coimas-395234.html) Justicia Nueva denuncia contra Milei por acusar a los legisladores de \"cobrar coimas\" [](/politica/2023/12/29/denuncian-por-robo-de-combustible-al-diputado-que-sesiono-desde-el-caribe-395237.html) Grave acusación Denuncian por robo de combustible al diputado que sesionó desde el Caribe [](/politica/2023/12/29/manuel-adorni-de-este-problema-no-se-sale-ni-parando-ni-cortando-calles-395225.html) duro cruce Manuel Adorni: \"De este problema no se sale ni parando ni cortando calles\" [](/politica/2023/12/29/el-durisimo-mensaje-de-javier-milei-contra-opositores-al-kirchnerismo-395207.html) en redes sociales El durísimo mensaje de Javier Milei contra opositores al kirchnerismo [](/politica/2023/12/29/alfredo-cornejo-dijo-que-apoya-el-dnu-las-leyes-de-milei-pero-le-marco-los-limites-395154.html) Agenda política Cornejo dijo que apoya el DNU y las leyes de Milei, pero le marcó los límites [](/politica/2023/12/29/el-gobierno-hizo-oficial-su-renuncia-no-ingresara-los-brics-395173.html) Con una carta",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:34:34.305+02:00",
+    "updated": "2023-12-29T20:34:34.305+02:00"
+  },
+  {
+    "uuid": "f3ef1c42350baf358984631ec40635e4f37ec8b0",
+    "url": "https://entertainment-focus.com/2025/01/23/ghost-the-musical-at-the-churchill-theatre-bromley",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Greg Jameson",
+    "published": "2025-01-23T20:11:00Z",
+    "title": "'Ghost - The Musical' at the Churchill Theatre, Bromley review",
+    "text": "Catch ‘Ghost – The Musical’ over the next few days if you can. This excellent production is playing at the Churchill Theatre until Saturday.\nThe 1990 film is a timeless classic that wins over every generation of viewers. The mixture of ages in the auditorium last night was testament to its near universal appeal. This production, which tells the story of the film with additional songs composed by the Eurythmics’ Dave Stewart, captures the magic of the movie while successfully turning it into a moving and spectacular stage show.\nCredit: photos provided by the Churchill Theatre, Bromley Molly Jenson (Rebekah Lowings) is an aspiring ceramics artist who has just bought her first apartment in Brooklyn with her boyfriend Sam Wheat (Josh St. Clair). He has a steady job in the financial sector and his colleague Carl (James Mateo-Salt) is always there to lend the couple moral support. It seems that everything is going their way until one night, Sam is mugged at gunpoint and a shot rings out. He is killed instantly, though his ghost takes a little time to work that out. He wanders in the world of the living, unable to touch anything or speak to them. A chance meeting with a psychic, Oda Mae Brown (Jacqui Dubois) throws him a lifeline to communicate with the living, whilst he learns some neat skills from a subway ghost (Garry Lee), who has a few poltergeist tricks up his sleeve. Whilst Molly mourns him, Sam uncovers the truth about his death and sets out to warn her as danger approaches.\nCredit: photos provided by the Churchill Theatre, Bromley The film ‘Ghost’ was a great success because of its cracking script that is both funny and touching, and the story about facing grief hits you in the feels. It indirectly borrows from ‘Hamlet’ through its themes of crafty murder, revenge and warnings from beyond the grave. Perhaps appropriately, the parallels to that great tragedy (you can't go wrong when you take your inspirations from the classics) are more obvious on stage than on film.\nThe show makes the most of the relatively small cast and provides moments for every actor to shine. It’s never a given for a stage musical based on a film that it will have decent songs, but ‘Ghost – The Musical’ is blessed with its share of memorable numbers. A standout moment is ‘With You’ that Rebekah Lowings sings from the heart, and which had us sobbing even before the interval. I enjoyed the witty, Cole Porter-like couplets of ‘You Gotta Let Go Now’ (terrifically performed by Tim Maxwell-Clarke). The company singing ‘Suspend My Disbelief/I Had a Life’ is a sensational way to bring the curtain down on the first act. Lovers of the Righteous Brothers’ 1965 hit ‘Unchained Melody’, which became a hit again after its use in the movie, get to hear it sung and reprised. Nothing beats the experience of live performance, and experiencing these songs brought to life by talented singers and a live orchestra is a joy.\nCredit: photos provided by the Churchill Theatre, Bromley The core performances are solid. Rebekah Lowings is especially deserving of praise as Molly. She conveys a rollercoaster of emotions with great poignancy and skill, and is never less than completely convincing. The stage lights up every time Jacqui Dubois steps onto it. Her performance as Oda Mae Brown is delightful, and her exquisite comic timing is put to great effect. She always gets the laugh but never strays from the integrity of the character. Josh St. Clair is dependable as Sam, though he steps it up a gear in the second act and really comes into his own. It may be that in the first act he’s conveying a sense of detachment from the reality of his character’s death and removal from the life of his loved one, but this doesn’t fully come across. His path to saving Molly and bringing his killer to justice in the second act plays closer to his strengths.\nCredit: photos provided by the Churchill Theatre, Bromley If you love the film, there’s a strong chance you’ll love ‘Ghost – The Musical’. Oda Mae’s iconic line (you know the one!) makes it into the script, which will delight fans. But the musical has more than enough originality to offer plenty for theatre fans to enjoy. The show packs an emotional punch and had EF’s reviews sobbing either side of the interval. It isn’t quite perfect. One or two musical interludes add little to the plot but are nevertheless fun to include (notably ‘I’m Outta Here’), and the pacing in the second act is better. But quibbles are minor. Overall, ‘Ghost – The Musical’ held us spellbound and gave us one of the best nights at the theatre we’ve enjoyed in some time. The visual effects are impressive too, and they marry well with innovative lighting and sound effects that cleverly differentiate the realms of the living and the dead. All in all, a brilliantly well-put-together piece of theatre. Catch it if you can.\nCast: Rebekah Lowings, Josh St. Clair, Jacqui Dubois, James Mateo-Salt, Jules Brown, Garry Lee Writers: Bruce Joel Rubin, Dave Stewart & Glen Ballard Director: Bob Tomson Theatre: The Churchill, Bromley Running time: 160 mins Performance dates: 22nd-25th January 2025 Book ‘Ghost – The Musical'",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->theatre",
+      "Lifestyle and Leisure->leisure",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://trafalgartickets.com/churchill-theatre-bromley/en-GB/event/musical/ghost-the-musical-tickets",
+      "https://www.trafalgartickets.com/churchill-theatre-bromley/en-GB/event/musical/ghost-the-musical-tickets"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bromley Molly Jenson",
+          "sentiment": "none"
+        },
+        {
+          "name": "James Mateo-Salt",
+          "sentiment": "none"
+        },
+        {
+          "name": "Rebekah Lowings",
+          "sentiment": "none"
+        },
+        {
+          "name": "Josh St. Clair",
+          "sentiment": "none"
+        },
+        {
+          "name": "Dave Stewart",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sam Wheat",
+          "sentiment": "none"
+        },
+        {
+          "name": "Carl",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:10:16.918+02:00",
+    "updated": "2025-01-24T00:10:16.918+02:00"
+  },
+  {
+    "uuid": "40ecac30dce3ae658a799f8f8002876248e9a4df",
+    "url": "https://ground.news/article/reuters-report-on-taiwan-rock-band-is-fake-news-says-chinese-mainland-spokesperson",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CGTN",
+    "published": "2023-12-28T17:59:00Z",
+    "title": "Ground News - Reuters report on Taiwan rock band is fake news, says Chinese mainland spokesperson",
+    "text": "Summary by CGTN A Chinese mainland spokesperson on Thursday refuted a recent report by Reuters claiming that the mainland's authorities have \"pressured\" a rock band from Taiwan called Mayday to make favorable comments, stressing that it is ungrounded fake news. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nCGTN Lean Left Mixed Factuality Government: Chinese Communist Party Reuters report on Taiwan rock band is fake news, says Chinese mainland spokesperson A Chinese mainland spokesperson on Thursday refuted a recent report by Reuters claiming that the mainland's authorities have \"pressured\" a rock band from Taiwan called Mayday to make favorable comments, stressing that it is ungrounded fake news.\n8 hours ago · Beijing, China Read Full Article\nCGTN Lean Left Mixed Factuality Government: Chinese Communist Party\nReuters report on Taiwan rock band is fake news, says Chinese mainland spokesperson A Chinese mainland spokesperson on Thursday refuted a recent report by Reuters claiming that the mainland's authorities have \"pressured\" a rock band from Taiwan called Mayday to make favorable comments, stressing that it is ungrounded fake news.\n8 hours ago · Beijing, China Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://news.cgtn.com/news/2023-12-28/Reuters-report-on-Taiwan-rock-band-is-fake-news-says-Chinese-mainland-1pUru84pRvO/p.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.news.cgtn.com/news/2023-12-28/Reuters-report-on-Taiwan-rock-band-is-fake-news-says-Chinese-mainland-1pUru84pRvO/p.html?utm_source=ground.news&utm_medium=referral",
+      "https://news.cgtn.com/news/2023-12-28/Reuters-report-on-Taiwan-rock-band-is-fake-news-says-Chinese-mainland-1pUru84pRvO/p.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mayda",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ground news - reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chinese communist party reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "taiwan",
+          "sentiment": "none"
+        },
+        {
+          "name": "beijing",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:42:43.474+02:00",
+    "updated": "2023-12-29T00:42:43.474+02:00"
+  },
+  {
+    "uuid": "4fc4b0e64a9a565cd1df96f70b3692db34e312af",
+    "url": "https://www.citizentribune.com/news/local/habitat-breaks-ground-for-new-build-in-morristown/article_fa41a8da-81e1-11ef-8073-77cf89c31f06.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drew C. Robinson Tribune Staff Writer",
+    "published": "2024-10-03T19:48:00Z",
+    "title": "Habitat breaks ground for new build in Morristown | Local News | citizentribune.com",
+    "text": "Compassionate thoughts and proper action are moving towards those who have lost homes in recent flooding, but while some dreams have tragically been washed away, pockets of hope and goodness keep community moving forward.\nOn Tuesday, one such pocket sprang up on Crescent Street in Morristown as a small group organized by Lakeway Area Habitat for Humanity gathered to break ground on a charming green for a new home for Amanda and Greyson Lerch.\n\"I was reading the section where Solomon reminds us there is a season for everything — a time to plant, a time to harvest, a time to build, a time to tear down,\" Lakeway Habitat board member and Living Promise Lutheran Church Pastor Matt Westra said. \"With all the destruction in our community, certainly we've seen some tearing down, there's been some hard things. But we're also grateful for this season, a chance to build up, a chance for something new.\"\nAmanda is no stranger to Habitat; as a teenager Amanda volunteered her time as a teenager for a home build while living in Colorado.\nNow living in Tennessee some years later as a single mother, she realized that Habitat might make the dream of home ownership a reality.\n\"In 2022, she applied for home ownership,\" Community Outreach Coordinator Leslie Brenna said. \"It turns out she was a great candidate.\n\"Amanda works two jobs and she donates plasma to pay bills and save up so she can have a home. She's also a valuable member of our community; she gives swim lessons to kids and works with kids with special needs.\"\nBrenna described Amanda's excitement to have a home to help invest in her and Greyson's futures.\n\"I am just so excited...\" Amanda started to say.\n\"We are so jazzed!\" Greyson interjected with enthusiasm as those gathered chuckled at the turn of phrase.\n\"Yes,\" Amanda agreed. \"This has been a long time coming. I feel so blessed for all of you who showed up, who've been with me in our walks of life these past couple of years and I'm just really excited to get this next chapter of my life started.\"\nIn addition to financial contributions, Lerch will have to put in, at a minimum and like all Habitat homeowners, 300 work hours of \"sweat equity\" into the build.\n100 hours of labor can be donated by friends and family.\nBrenna said volunteers, materials and money are all needs for the organization.\nLakeway Area Habitat for Humanity has built 63 homes in the area since 1992, and the home on Crescent street is number 64.\nWe have a mission to put God's love into action,\" Brenna said. \"We do this by building and improving homes.\"\nIn addition to the home building, Lakeway Habitat has kept people in their homes by performing hundreds of critical home repairs, particularly for seniors.\nNew Lakeway Habitat Assistant Project Coordinator Dallan Hodge was on hand to help break some ground.\nWestra, Hodge, Amanda and Greyson put their shovels into the ground and lifted earth, turning soil and a new page.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T03:12:44.629+03:00",
+    "updated": "2024-10-04T03:12:44.629+03:00"
+  }
+]

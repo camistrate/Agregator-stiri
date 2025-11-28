@@ -1,0 +1,279 @@
+[
+  {
+    "uuid": "2baffe3f34a7f67f932cf2fb292c2b891a345dc1",
+    "url": "https://halifax.citynews.ca/2024/02/01/gaza-protesters-blockade-truck-access-to-port-of-vancouver",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin",
+    "published": "2024-02-01T22:18:00Z",
+    "title": "Gaza protesters blockade truck access to Port of Vancouver – CityNews Halifax",
+    "text": "Access restored at Port of Vancouver after blockade by protesters for Gaza\nPosted Feb 1, 2024 03:13:01 PM.\nLast Updated Feb 1, 2024 05:32:07 PM.\nVANCOUVER — Access to the Port of Vancouver has been restored after dozens of protesters with Palestinian flags and banners set up blockades at two entry points this morning.\nAn email from senior communications adviser Alex Munro says protesters at both the Clark Drive and Commissioner Street entrances have “moved on.”\nHe says access to the port has been “fully restored.”\nA statement issued by protesters says they were calling on the Canadian government to immediately enact an arms embargo on Israel.\nTraffic camera photos on the City of Vancouver website earlier showed semi-trucks waiting in a line near the port’s entrance, but updated images around 12:30 p.m. show the intersection cleared and traffic flowing.\nThe Vancouver port is Canada’s largest, facilitating trade of about $305 billion in goods annually and generating $11.9 billion in annual Gross Domestic Product.\nThis report by The Canadian Press was first published Feb. 1, 2024.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alex munro",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "citynews halifax access",
+          "sentiment": "negative"
+        },
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "port of vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "clark drive",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:31:57.290+02:00",
+    "updated": "2024-02-02T00:31:57.290+02:00"
+  },
+  {
+    "uuid": "dd648f8447600c2445cc9e84136744c4bd5d98da",
+    "url": "https://www.wsiltv.com/news/consumer/why-tonight-s-massive-solar-storm-could-disrupt-communications-and-gps-systems/article_b887929f-7b0e-5968-bcf1-7f646adc394c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brian Fung, CNN",
+    "published": "2024-05-10T00:00:00Z",
+    "title": "Why tonight’s massive solar storm could disrupt communications and GPS systems | Consumer Watch | wsiltv.com",
+    "text": "Washington (CNN) — Buckle up: An unusual amount of solar activity this week could disrupt some of the most important technologies society relies on.\nOn Thursday, the US government issued its first severe geomagnetic storm watch in nearly 20 years, advising the public of “at least five earth-directed coronal mass ejections” as well as sunspots covering an area 16 times wider than the earth itself. A severe geomagnetic storm, or G4, is the second-highest grade in the US government’s classification system .\nRadiation from this activity began to hit the earth’s magnetic field on Friday and will last through the weekend, said the National Oceanic and Atmospheric Administration (NOAA). On Friday evening, NOAA upgraded the storm to G5 or “extreme,” marking the first such event since October 2003.\nNOAA’s warning of extreme space weather suggests the storm could trigger numerous effects for life on earth, possibly affecting the power grid as well as satellite and high frequency radio communications. Here’s what that means for technology users.\nCommunications impacts The solar activity NOAA’s talking about involves the release of energy from the sun that travels through space and eventually reaches Earth.\nWhen that radiation hits the magnetic sphere surrounding the planet, it causes fluctuations in the ionosphere , a layer of the upper atmosphere.\nThose changes can directly affect satellites and other spacecraft in orbit, altering their orientation or potentially knocking out their electronics.\nMoreover, the changes to the ionosphere can block or degrade radio transmissions trying to pass through the atmosphere to reach satellites. And they can also prevent radio transmissions from successfully bouncing off the ionosphere — which some radio operators normally do to increase the range of their signals.\nSince GPS satellites depend on signals penetrating the ionosphere, the geomagnetic disturbance scientists are expecting could affect that critical technology used by planes, ocean-going vessels, and in the agriculture and oil and gas industries. And it could affect shortwave radio transmissions used by ships and aircraft, emergency management agencies, the military and even ham radio operators, all of whom rely on the high frequency radio airwaves that NOAA says could be scattered by the storm.\n“Geomagnetic storms can impact infrastructure in near-Earth orbit and on Earth’s surface, potentially disrupting communications, the electric power grid, navigation, radio and satellite operations,” NOAA’s Space Weather Prediction Center said in a release . “SWPC has notified the operators of these systems so they can take protective action.”\nWhat about your cellphone? Consumer wireless networks rely on different radio frequencies than the high frequency band, so it appears unlikely that the storm will directly affect cellular service. The GPS features on your phone also typically use a mix of pure GPS and cellular tower-based location tracking, so even if GPS signals are disrupted, phone users may still be able to maintain a rough location fix.\nSo long as the underlying electrical infrastructure that supports wireless networks remains unaffected, even an extreme space weather event should result in “minimal direct impact to public safety line of-sight radio and commercial cellular services … and no first-order impact to consumer electronic devices,” according to researchers summarizing the findings of a 2010 study of extreme space weather conducted by NOAA and the Federal Emergency Management Agency.\nThe Cybersecurity and Infrastructure Security Agency outlined a similar report in a 2021 presentation on space weather, finding that line-of-sight radio transmissions are generally not affected by space weather except in specific situations. The presentation did note some risks for copper cables and telephone lines based on land.\nIn a slightly different scenario in February, NOAA noted two major solar flares . But despite “widely reported cellular network outages” around the same time, the agency said, it was “highly unlikely” that the flares played a role in those blackouts.\nOn Friday, NOAA officials reiterated that the impact to cell phones this weekend should be slim to none, unless there are broad disruptions to the power grid.\n“We’ve not seen any evidence in the past that a space weather storm could impact that now,” Brent Gordon, chief of the Space Weather Services branch for SWPC, told reporters on a conference call. “If power is not available for those, then yes, certainly, the secondary impacts from that would be great.”\nThe power grid is potentially at risk Severe space weather can jeopardize power grids, according to NOAA, whose alert this week said to expect “possible widespread voltage control problems” and that “some protective systems may mistakenly trip out key assets from the power grid.”\nIn 1989, a space weather event led to a massive blackout in Quebec, Canada for more than nine hours after geomagnetic fluctuations damaged transformers and other important equipment.\nIn October, an extreme geomagnetic storm stronger than the one predicted for this weekend led to power outages in Sweden and damaged power transformers in South Africa, the SWPC said.\nThe largest known geomagnetic storm in history, known as the Carrington Event of 1859, caused telegraph stations to spark and catch fire.\nA blackout of the electrical grid could have cascading effects for communications and other technologies, including cellphones. Cellular towers might lose power, as could the data centers that host websites and their information.\nStill, many wireless carriers providers already maintain backup power generators and mobile cellular towers that they can deploy in the event of a natural disaster or other major incident. Redundancy and resiliency are watchwords of all critical infrastructure providers, so even if the power grid did fail, consumers might have to worry more about how to keep their phones charged rather than whether they could stay online.\nAs if to underscore that point, the US government’s advice to the public on how to prepare for a space weather event largely resembles the same steps you’d take in response to an extended power outage.\nFor example, the government recommends keeping extra batteries or a hand-powered charger available for small electronic devices. Officials say you may want to disconnect electric appliances to protect them from power surges and limit your electricity usage during a solar weather event. You may also want to keep your car’s gas tank at least half-full so that you do not need to visit a gas station (which needs electricity to operate the pumps).\nCNN’s Ashley Strickland contributed to this report.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Weather",
+      "Science and Technology"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.weather.gov/safety/space-before",
+      "https://www.spaceweather.gc.ca/tech/index-en.php",
+      "https://www.swpc.noaa.gov/impacts/hf-radio-communications",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014SW001095",
+      "https://en.wikipedia.org/wiki/High_frequency",
+      "https://www.swpc.noaa.gov/news/two-major-solar-flares-effects-cellular-networks-unlikely",
+      "https://www.nasa.gov/centers-and-facilities/nesc/understanding-the-potential-dangers-of-spacecraft-charging/",
+      "https://www.swpc.noaa.gov/products/alerts-watches-and-warnings",
+      "https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10",
+      "https://www.swpc.noaa.gov/phenomena/ionosphere#:~:text=The%20Ionosphere%20is%20part%20of,used%20for%20communication%20and%20navigation.",
+      "https://www.swpc.noaa.gov/sites/default/files/images/u63/01.%20MacAlester_Space%20Weather%20Effects%20on%20Communications%20Systems.pdf",
+      "https://twitter.com/NWSSWPC/status/1788671368629772306",
+      "https://nasa.gov/centers-and-facilities/nesc/understanding-the-potential-dangers-of-spacecraft-charging/",
+      "https://www.agupubs.onlinelibrary.wiley.com/doi/10.1002/2014SW001095",
+      "https://weather.gov/safety/space-before",
+      "https://www.en.wikipedia.org/wiki/High_frequency",
+      "https://swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10",
+      "https://swpc.noaa.gov/news/two-major-solar-flares-effects-cellular-networks-unlikely",
+      "https://www.twitter.com/NWSSWPC/status/1788671368629772306",
+      "https://swpc.noaa.gov/impacts/hf-radio-communications",
+      "https://www.nasa.gov/centers-and-facilities/nesc/understanding-the-potential-dangers-of-spacecraft-charging",
+      "https://spaceweather.gc.ca/tech/index-en.php",
+      "https://swpc.noaa.gov/phenomena/ionosphere#:~:text=The%20Ionosphere%20is%20part%20of,used%20for%20communication%20and%20navigation.",
+      "https://swpc.noaa.gov/products/alerts-watches-and-warnings",
+      "https://swpc.noaa.gov/sites/default/files/images/u63/01.%20MacAlester_Space%20Weather%20Effects%20on%20Communications%20Systems.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "noaa",
+          "sentiment": "none"
+        },
+        {
+          "name": "national oceanic and atmospheric administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "earth",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T19:54:46.104+03:00",
+    "updated": "2024-05-18T02:42:01.867+03:00"
+  },
+  {
+    "uuid": "dd294d837d3000a6a9c3afb297509120638cbb5e",
+    "url": "https://www.kalb.com:443/2023/12/28/sundance-dolphin-dies-miami-seaquarium/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "kalb.com",
+    "published": "2023-12-28T19:09:00Z",
+    "title": "Sundance the dolphin dies at Miami Seaquarium",
+    "text": "MIAMI (CNN) – The Miami Seaquarium in Florida is mourning the loss of one of its dolphins.\nAccording to a social media post , the dolphin named Sundance died Wednesday following “precursors of illness” the previous day.\nSundance had been at the aquarium for more than 30 years.\nThe dolphin was involved in an incident last year when he attacked a trainer during a show.\nThe Seaquarium said the trainer had accidentally scratched Sundance, which caused him to break away from the routine.\nNo details about Sundance’s death have been released.\nThis is not the first loss that the Seaquarium has had to endure in recent months.\nThe famed orca whale Lolita died there in August after living in captivity since 1970.\nCopyright 2023 CNN Newsource. All rights reserved.\nMost Read Avoyelles Jail escapee arrested in Cottonport following hours-long standoff 16-year-old killed, another teen hurt in fiery crash after overnight police chase Plane traveling from Alexandria to Guatemala makes emergency landing in Lake Charles Water leak fixed in Pineville; boil advisory in effect VPSO seeking info concerning stolen skidsteer Latest News Pizza Hut to lay off more than 1,000 delivery drivers in California ahead of wage hike American-Canadian-Israeli woman believed to be held hostage in Gaza pronounced dead Endangered missing alert issued for 4-year-old and infant in Colorado Officers responding to car crash on Christmas find man dressed as the Grinch behind the wheel Deputy reporting for duty killed in Christmas Eve crash, sheriff’s office says",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.facebook.com/MiamiSeaquarium/posts/pfbid034E2WLXEJJHCpktfHWnymmKTqtuHm8LCsaSB8sTSXWNKvWX599UoK8C6iDST9wK63l",
+      "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg?auth=97fc9b15fd87142e3506fcc0c83737c9267535ad6dc3a511076582ff39ea4ac2&width=800&height=450&smart=true",
+      "https://miamiseaquarium.com/",
+      "https://www.miamiseaquarium.com/",
+      "https://www.gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg?auth=97fc9b15fd87142e3506fcc0c83737c9267535ad6dc3a511076582ff39ea4ac2&width=800&height=450&smart=true",
+      "https://facebook.com/MiamiSeaquarium/posts/pfbid034E2WLXEJJHCpktfHWnymmKTqtuHm8LCsaSB8sTSXWNKvWX599UoK8C6iDST9wK63l",
+      "https://miamiseaquarium.com",
+      "https://gray-kalb-prod.cdn.arcpublishing.com/resizer/v2/WKTNCD7J7RDANNIL52QCCB74RA.jpeg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "miami seaquarium",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn newsource",
+          "sentiment": "none"
+        },
+        {
+          "name": "sundance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "miami seaquarium",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "cottonport",
+          "sentiment": "none"
+        },
+        {
+          "name": "pineville",
+          "sentiment": "none"
+        },
+        {
+          "name": "guatemala",
+          "sentiment": "none"
+        },
+        {
+          "name": "alexandria",
+          "sentiment": "none"
+        },
+        {
+          "name": "lake charles water",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:14:03.983+02:00",
+    "updated": "2023-12-29T00:14:03.983+02:00"
+  },
+  {
+    "uuid": "85a1020f17b34ae6b2e49ad1946d10561ad014d9",
+    "url": "https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lidia Vargas",
+    "published": "2024-01-05T20:01:00Z",
+    "title": "México conserva la tradición de la rosca de Reyes tras años de pandemia e inflación",
+    "text": "Nacional Rosca de Reyes. Foto de EFE/Isaac Esquivel México conserva la tradición de la rosca de Reyes tras años de pandemia e inflación\nLa tradición de rosca de Reyes resiste en México tras años difíciles marcados por la pandemia de COVID-19 y la inflación\nenero 5, 2024 La rosca de Reyes es el postre predilecto de estas fechas en México, donde los panaderos luchan por conservar la tradición tras superar los años marcados por la pandemia de COVID-19 y la inflación más alta en dos décadas.\nMoisés Arenas lleva cuatro años como maestro bizcochero en la panadería La Joya, una de las más tradicionales del Centro Histórico de Ciudad de México, donde expresa que no ha dormido bien en días por la alta demanda de la rosca, que los mexicanos degustan cada 6 de enero, Día de Reyes.\nElaboración de la rosca de Reyes. Foto de EFE/Isaac Esquivel “Prácticamente es la tradición, es el trabajo en equipo, igual, yo vengo siendo como la cabeza de todos aquí”, dice el panadero a EFE sobre lo que más le apasiona de su labor.\nEn la misma panadería, Erika Moreno se alegra de que, tras años difíciles, las ventas han incrementado en estos días.\n“Bien, sí tenemos venta, y el trabajo es un poco pesado, pero ahí la llevamos, entre todos nos ayudamos”, comenta.\nUna tradición que resiste La tradición de rosca de Reyes resiste en México tras años difíciles marcados por la pandemia de COVID-19, que dejó más de 334 mil muertes en el país, la quinta cifra más alta del mundo, y la inflación, que en 2022 cerró en 7.82 por ciento, su mayor nivel en dos décadas.\nPese a las nuevas variantes, Erika dice que la más popular aún es la tradicional, que lleva como ingredientes mantequilla y frutas, como el membrillo, los higos, y la cáscara de naranja.\nAdemás, la panadera recuerda que a cada rosca se le agregan pequeñas figuras de plástico del niño Jesús , y la tradición en México indica que la persona que corte una rebanada que contenga este objeto debe invitar tamales el Día de la Candelaria , el 2 de febrero, cuando se conmemora a la Virgen de la Candelaria y la presentación del niño Jesús en el templo.\nLa Secretaría de Desarrollo Económico (Sedeco) de Ciudad de México calcula un repunte anual de 5.6 por ciento en los ingresos por los festejos de Día de Reyes hasta los 5 mil 265 millones de pesos, entre los que destaca el consumo de la rosca.\nPero también se reinventa Cada vez más tiendas, como las pastelerías Pan Gabriel, ofrecen alternativas a las roscas habituales, originalmente hechas a base de trigo, azúcar, huevo y leche.\n“Es un pan tradicional en estas épocas y a todos nos fascina, lo hacemos en familia y pues tiene un impacto para todas las personas que no pueden consumirlo”, explica Sol Rivera, la encargada de la tienda ubicada en el barrio de Polanco de Ciudad de México.\nPan Gabriel nació en Monterrey, capital del estado de Nuevo León, hace 12 años para acercar la repostería a las personas con autismo, sobre todo menores de edad, que “no pueden comer cualquier cosa”.\nSu rosca es apta tanto para personas celíacas, diabéticas, como intolerantes a la lactosa, pues la harina que lleva es de papa deshidratada, fermentada con linaza y condimentada con bebida de arroz.\nPara la decoración, utilizan rebanadas de ate, un dulce típico de México que puede ser de membrillo, guayaba o higo, y semillas de la planta del amaranto para simular el azúcar.\n“El 5 (de enero) nos reunimos todos en familia, con un chocolatito calentito, y se parte la rosca. Tradicionalmente está el muñequito, que es el niño Dios supuestamente, y al que le salga nos invita a los tamales hasta el día de la Candelaria (dos de febrero)”, relata Rivera.\nEl Gobierno de Ciudad de México ha anunciado como su principal festividad una celebración este sábado en el Zócalo, la mayor plaza pública del país, donde habrá 250 piñatas y una “mega Rosca de Reyes”, que servirá para 15 mil rebanadas.\nCon información de EFE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://api.whatsapp.com/send?text=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://twitter.com/intent/tweet?url=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/&text=",
+      "https://www.linkedin.com/sharing/share-offsite/?url=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://www.facebook.com/sharer.php?u=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://www.twitter.com/intent/tweet?url=https://www.lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/&text=",
+      "https://linkedin.com/sharing/share-offsite/?url=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://facebook.com/sharer.php?u=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://www.api.whatsapp.com/send?text=https://www.lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion/",
+      "https://www.linkedin.com/sharing/share-offsite/?url=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion",
+      "https://www.facebook.com/sharer.php",
+      "https://api.whatsapp.com/send?text=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion",
+      "https://api.whatsapp.com/send",
+      "https://www.linkedin.com/sharing/share-offsite/",
+      "https://twitter.com/intent/tweet",
+      "https://www.facebook.com/sharer.php?u=https://lopezdoriga.com/nacional/mexico-rosca-de-reyes-conserva-tradicion"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:06:39.341+02:00",
+    "updated": "2024-01-06T00:06:39.341+02:00"
+  }
+]

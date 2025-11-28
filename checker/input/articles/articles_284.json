@@ -1,0 +1,162 @@
+[
+  {
+    "uuid": "ac6b7a92ba156c6049a88cd6495bded6ec0425b3",
+    "url": "https://panamericana.pe/24horas/nacionales/439874-piura-delincuentes-roban-102-mil-soles-rompen-camara-seguridad-despues-delito",
+    "ord_in_thread": 0,
+    "author": "Op 439874",
+    "published": "2025-04-09T21:07:00Z",
+    "title": "Piura: Delincuentes roban 102 mil soles y rompen cámara de seguridad, pero después del delito",
+    "text": "En Piura, delincuentes ingresaron al local de una distribuidora para lo cual emplearon combas con las que destrozaron un vidrio. Al ingresar fueron en búsqueda de una caja fuerte que contenía el dinero en efectivo.\n102 mil soles fue el monto que se llevaron los ladrones del lugar y todo quedó registrado en las cámaras de seguridad. Aunque todavía se desconoce la identidad de los malhechores debido a que empleaban prendas para cubrir su rostro.\nDelincuentes rompieron cámaras de seguridad\nLuego de que notasen que el lugar tenía cámaras de seguridad, los ladrones tomaron la decisión de romperlas para que no continúan registrando sus fechorías.\nFinalmente, por el momento solo se han iniciado las investigaciones para dar con el paradero de los involucrados.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->robbery and theft",
+      "Social Issue->discrimination",
+      "Social Issue->juvenile delinquency",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:22:46.029+03:00",
+    "updated": "2025-04-10T00:22:46.029+03:00"
+  },
+  {
+    "uuid": "ad8696b9a2df1aa93cec8ef355b8ef71ebbaaec7",
+    "url": "https://www.gbnews.com/politics/nigel-farage-climate-change-defence-spend-latest",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ben Chapman",
+    "published": "2025-03-05T22:16:00Z",
+    "title": "Nigel Farage demands climate change targets are ditched as world faces 'most dangerous situation'",
+    "text": "GB NEWS\nThe former Brexit Party leader criticised the committee for 'telling us to stop eating so much meat'\nTrending on GB News\nNigel Farage has launched a scathing attack on the Climate Change Committee's latest recommendations during his GB News programme.\nThe former Brexit Party leader criticised the committee for \"telling us to stop eating so much meat\".\nHe also took aim at their advice against foreign holidays and their promotion of \"very, very expensive heat pumps\".\nNigel claimed this marks \"the first time ever\" the committee has acknowledged the \"gigantic cost\" to Britain of pursuing Net Zero policies.\nNigel Farage hit out at climate change measures\nGB NEWS\nHis comments come amid growing debate about the economic impact of climate policies on British industry and households.\nNigel suggested the cost of Net Zero could range from \"£100 billion to £300 billion\" with the final figure being \"of an enormous magnitude\".\nLATEST DEVELOPMENTS\nNigel Farage clashed with Donnachadh McCarthy on the matter\nGB NEWS\nHe warned that while \"some jobs are being created in renewable energy\", a far greater number are \"being lost in manufacturing\".\n\"There is an industrial massacre going on in our country now,\" he told viewers.\nHis comments highlight growing concerns about the economic trade-offs of rapid decarbonisation.\nFarage questioned whether Britain can afford such policies at a time when \"the world situation is probably the most dangerous since we've been alive\".\nEnergy Secretary Ed Miliband is spearheading Britain's net zero push\nParliament.tvHe suggested the UK needs to reconsider its climate commitments given the current global context.\nFarage expressed particular concern for the automotive industry, claiming \"no one wants electric vehicles\".\n\"There's a million jobs in the car industry; if we stick to these EV targets all these one million jobs could be gone,\" he warned.\nHe pointed to January being \"the lowest manufacturing month since 1954\" as evidence of decline.\nThe GB News star questioned specific factory closures, asking: \"Why is Luton closing? Why is Cowley about to stop producing the Mini, having been there since before the First World War?\"\nHis comments reflect growing anxiety about the future of British car manufacturing amid the transition to electric vehicles.\nNigel argued that defence spending should be prioritised over climate initiatives in the current geopolitical climate.\n\"We need money for defence. We all know that. It's absolutely vital,\" he stated.\nHe suggested Britain could make a meaningful difference through defence spending as \"that linchpin in NATO between America and Europe\".\nIn contrast, he dismissed the impact of UK climate policies on global environmental outcomes.\n\"Can we, with spending on net zero, make a difference to the global environment? And the answer is no,\" Farage claimed.\nHe emphasised that Britain produces \"less than one per cent of global carbon dioxide\" and therefore \"cannot make a difference to the global climate\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->climate change",
+      "Politics->political candidates",
+      "Politics->environmental policy",
+      "Politics->government policy",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nigel Farage",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Donnachadh McCarthy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Brexit Party",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Climate Change Committee",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T00:34:28.744+02:00",
+    "updated": "2025-03-06T00:34:28.744+02:00"
+  },
+  {
+    "uuid": "f13df7cfb738200c46b335b15fd0b264b7fcd57c",
+    "url": "https://sicnoticias.pt/mundo/medio-oriente/2024-09-26-video-israel-lanca-ataque-a-comandante-de-drones-no-libano-hezbollah-nao-confirma-morte-3df3d38a",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SIC Notícias",
+    "published": "2024-09-26T20:08:00Z",
+    "title": "Israel lança ataque a comandante de drones no Líbano, Hezbollah não confirma morte",
+    "text": "Israel mantém a [guerra a toda a força contra o movimento xiita libanês](https://sicnoticias.pt/mundo/medio-oriente/2024-09-25-israel-efetua-ataques-em-grande-escala-no-sul-do-libano-fb056f58) e divulgou o vídeo do bombardeamento desta quinta-feira ao sul de Beirute. O alvo foi Mohamad Hussein Sarour - nome de guerra: Abu Saleh. Era o comandante da unidade de drones do movimento xiita libanês. O Hezbollah não confirmou a sua morte. Já no sul do Líbano, os caças israelitas mantiveram os bombardeamentos às posições do Hezbollah. Os alvos foram paióis, rampas de lançamento de foguetes e mísseis, além de outras infraestruturas militares. Os ataques agravaram a destruição em dezenas de povoações e provocaram outra vaga de deslocados das áreas fronteiriças. A maioria dos que fogem das povoações fronteiriças,ao longo da chamada Linha Azul, fogem para Norte e para a capital Beirute. Nas últimas horas, a Síria foi outro dos destinos para outro grupo de deslocados: os que eram refugiados no Líbano, vindos da guerra civil no país vizinho. Nas áreas bombardeadas,como a vila de Joun,os dias são marcados agora pelos funerais das vítimas. Do outro lado da fronteira,mantém-se o alerta máximo no norte de Israel. Com 80 mil civis afastados das áreas mais vulneráveis aos ataques do Hezbollah, ao norte de Israel continuam a chegar reforços militares. Menos de 24 horas depois da ordem oficial,começaram também a chegar os primeiros soldados das duas brigadas de reservistas acionadas para a guerra ao Hezbollahe para uma eventual invasão terrestre do Líbano.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:03:43.886+03:00",
+    "updated": "2024-09-27T07:26:23.929+03:00"
+  }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "uuid": "c95fc1a32930eabc6cc7b61a308d543e9067c5e3",
+    "url": "https://www.newsbreak.com/news/3774603731060-handel-s-ice-cream-unveils-coffee-inspired-flavors-for-winter-indulgence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News 3 Staff",
+    "published": "2025-01-23T18:01:00Z",
+    "title": "Handel's Ice Cream unveils coffee-inspired flavors for winter indulgence - NewsBreak",
+    "text": "By News 3 Staff ,\n4 hours ago LAS VEGAS (KSNV) — Handel's Ice Cream is warming up the winter season with a new line of coffee-inspired ice cream flavors, offering a unique twist for those seeking a caffeine kick in their dessert. Mandy Trotter, owner of Handel’s Crossroads Commons, introduced the flavors, which include Coffee, Coffee... Read full article\nRead in NewsBreak 1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->organic food",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mandy Trotter",
+          "sentiment": "none"
+        },
+        {
+          "name": "Handel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:04:05.941+02:00",
+    "updated": "2025-01-24T00:04:05.941+02:00"
+  },
+  {
+    "uuid": "0b8cdd3c7f0abde7076e189c55d81bf5e0d06182",
+    "url": "https://pharmaphorum.com/news/hhs-plans-10000-more-job-cuts-taking-target-20000",
+    "ord_in_thread": 0,
+    "author": "Phil Taylor",
+    "published": "2025-03-27T00:00:00Z",
+    "title": "HHS plans 10,000 more job cuts, taking target to 20,000 | pharmaphorum",
+    "text": "HHS plans 10,000 more job cuts, taking target to 20,000\nNew US Health and Human Services (HHS) Secretary Robert F Kennedy Jr has said he intends to save $1.8 billion per year, thanks to another wave of job cuts at the department and agencies it oversees.\nThe \"dramatic restructuring\" will see 10,000 full-time employees lose their jobs and – combined with other efforts including an early retirement scheme, the 'Fork in the Road' scheme of deferred resignation, and the wholesale firing of probationary workers – the net result is that HHS' headcount will be reduced by 20,000 to 62,000.\nAlso included in the new plan is the dismantling of \"redundant units\" among HHS' 28 divisions, which will be winnowed down to 15 while a new Administration for a Healthy America (AHA) – a nod to President Donald Trump's Make America Healthy Again (MAHA) drive – will be formed with elements of other divisions. 10 regional offices will also be reduced down to five, said HHS.\nThe AHA will \"improve coordination of health resources for low-income Americans\" and will focus on areas like primary care, maternal and child health, mental health, environmental health, HIV/AIDS, and workforce development, according to HHS.\n\"We are streamlining HHS to make our agency more efficient and more effective,\" said Kennedy in a social media post.\n\"We will eliminate an entire alphabet soup of departments while preserving their core functions by merging them into a new organisation,\" he added, claiming that the HHS budget swelled 38% under the previous Biden administration. \"This overhaul will improve the health of the entire nation.\"\nJob cuts breakdown\nThe FDA looks set to bear the brunt of the job losses, with 3,500 workers earmarked for redundancy, followed by the CDC which is expected to get rid of 2,400 and the NIH which will shed 1,200. CMS – which oversees Medicare and Medicaid – is due to be reduced by around 300 positions.\nThe FDA cuts will concentrate on operational and administrative staff and will not affect reviewers or the inspection teams, while the CDC will return to its \"core mission of preparing for and responding to epidemics and outbreaks\" and absorb the Administration for Strategic Preparedness and Response (ASPR) which handles disaster and public healthy emergency responses and employs around 1,000 people.\nThe NIH reductions will come from centralisation of procurement, human resources, and communications functions, while those at CMS are designed to handle \"minor duplication\" of roles in the agency.\n\"This will be a painful period for HHS as we downsize…but we are keenly focused on paring away excess administrators while increasing the number of scientists and frontline health providers so we can do a better job for the American people,\" said Kennedy.\nAmong other changes, HHS will also create a new assistant secretary for enforcement, who will oversee the Office for Civil Rights, Office of Medicare Hearings and Appeals, and the Departmental Appeals Board. The Administration for Community Living, which support older adults and people with disabilities, will be absorbed into other HHS agencies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->business governance",
+      "Labor->unemployment",
+      "Labor->employment",
+      "Labor->labour relations",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Robert F Kennedy Jr",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Donald Trump's",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Biden",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "NIH",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "CMS",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Medicaid",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "HHS",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "New US Health and Human Services",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the 'Fork in the Road",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AHA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "FDA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "CDC",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Administration for Strategic Preparedness",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "ASPR",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Office for Civil Rights, Office of Medicare Hearings and Appeals",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Departmental Appeals Board",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "The Administration for Community Living",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T17:44:28.747+02:00",
+    "updated": "2025-03-27T17:44:28.747+02:00"
+  },
+  {
+    "uuid": "3f0c8eff894b4c13c868263932d494c7e71c79f8",
+    "url": "https://www.publimetro.com.mx/noticias/2023/12/23/francia-detienen-a-cinco-personas-en-operacion-antiterrorista-que-pertenecen-al-movimiento-islamista/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Europa Press",
+    "published": "2023-12-23T23:43:00Z",
+    "title": "Francia detienen a cinco personas en operación antiterrorista que pertenecen al movimiento islamista",
+    "text": "Cinco personas han sido detenidas en Nancy, Vandoeuvre-lès-Nancy y Toul, en la región francesa de Meurthe-et-Moselle, cerca de Metz, en el noreste del país, y están siendo ya interrogadas. Agentes de policía de la Subdirección Antiterrorista (SDAT) y de la Dirección General de Seguridad Interior (DGSI) lanzaron la operación tras detectar un “proyecto preocupante”, según fuentes policiales citadas por la televisión francesa BFMTV. Échale un ojo: [Ataque terrorista en París deja un muerto y un herido](https://www.publimetro.com.mx/noticias/2023/12/03/ataque-terrorista-en-paris-deja-un-muerto-y-un-herido/) Las personas sospechosas fueron detenidas el pasado viernes 22 de diciembre y la Policía tiene un plazo inicial de 96 horas antes de la tramitación judicial de la detención, ampliables a 144 en caso de riesgo terrorista inminente. Se trata de cinco varones de entre 20 y 23 años que se cree que pertenecen al “movimiento islamista”. Uno de ellos habría sido detenido en su habitación en un campus universitario, según el diario regional ‘L’Est Républicain’. Los cinco hombres fueron detenidos en el marco de una investigación abierta por “conspiración de delincuentes terroristas con vistas a prepararse para cometer uno o más delitos de lesiones personales”. Estas detenciones se producen después de que el viernes el ministro del Interior, Gérald Darmanin, pidiera a los prefectos que “mantengan una vigilancia extrema” con motivo de las celebraciones de Navidad y Reyes, debido al “altísimo nivel de amenaza terrorista que sigue pesando”. Francia se encuentra en el nivel más alto de alerta del sistema antiterrorista Vigipirate desde el 13 de octubre, cuando fue asesinado el profesor de francés Dominique Bernard en un instituto de Arras, apuñalado por un antiguo alumno radicalizado. Aumento de protestas en el país galo Luego de la guerra que protagonizan Israel y Hamás, cientos de personas se manifestaron en varias ciudades de Francia en un llamado a la paz por parte de ambos bandos. Palestinos e israelíes que viven en aquel país prefieren que con diplomacia termine este conflicto que lleva años disputándose en aquella región de Asia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Religion and Belief",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T02:06:02.983+02:00",
+    "updated": "2023-12-24T02:06:02.983+02:00"
+  },
+  {
+    "uuid": "5dfd69ffccc3de3ba4fd9aaddff8e13926b35597",
+    "url": "https://metinvestholding.com/en/media/news/sso-metnvestu-dmitro-nkolanko-nash-golovnij-fokus-pdvischennya-rvnya-servsu-dlya-klntv-ta-znizhennya-jogo-sobvartost",
+    "ord_in_thread": 0,
+    "author": "Metinvest",
+    "published": "2025-03-28T10:00:00Z",
+    "title": "Dmytro Nikolayenko, Metinvest's CCO: \"Our Main Focus Is on Improving the Level of Customer Service and Reducing the Cost\"",
+    "text": "The first part of the conversation can be found here.\nThe sales and logistics network\n— We have talked about the geography of production. What about the geography of sales? Where are we physically present and where can we deliver products? How does our sales network operate in the global market?\n— We have closed some offices, but our network remains strong and is mainly centred in Europe. We have offices and distribution warehouses in several countries, including Türkiye, the Middle East and China. The network consists not only of offices, but also of agents and partners, and this gives us sufficient capacity to sell our products effectively. We have preserved this infrastructure and are actively utilising it.\n— Are we focusing more on opening our own sales offices or on cooperating with partners?\n— It depends on the strategic importance of the market. If we have a permanent presence in a market, we open offices and sell our products to end users or distributors, who further process them or sell them at retail. That is our sales philosophy. However, in markets where we have a temporary or limited presence, we may also cooperate with partners.\n— Do we build our own warehouses or rent them?\n— In Ukraine, we mainly build our own warehouses, while in Europe we rent them. A warehouse is a service that we provide to our customers, and it defines the level of service. If a warehouse delivers a low level of service, the customer will receive the same low level of service, and our cooperation with them may be terminated. It is important to assess whether there are warehouses on the market capable of providing the appropriate level of service. If there are none, we either develop them together with partners or build our own.\nRecently, we have been developing a network of our own covered warehouses in Ukraine – both in Dnipro and in western Ukraine. In Poland, we have leased warehouses and transshipment points where we transload cargo from broad to narrow gauge rail. There, we also have full-fledged distribution warehouses, which allow us to sell products in smaller batches. In Europe, we have warehouses in Antwerp, but they are small and used as transshipment facilities. In Ukraine, we own a network of 17 service centres and a strong distribution infrastructure.\nChanges in the commercial function and the use of AI\n— How has the internal management system of the commercial function changed since 2022? What have these changes led to?\n— The main task in 2022 was to deliver products to our clients, as this had become impossible due to the war. We had to develop new logistical routes through the western borders and restore the operations of Ukrainian ports and shipowners. This effort involved not only our directorate but also the CEO’s office and the entire Group. A key step was the reopening of ports, which significantly improved our logistical capabilities.\nMeanwhile, the commercial directorate merged the sales, logistics and procurement functions. I believe this was the right decision, as it created synergies between sales and logistics. We have expanded our value proposition, improved the level of service for our customers and improved the exchange of expertise between procurement and sales. This has yielded results – we are currently undergoing rotations, and some employees who previously worked in sales or marketing have moved into procurement.\nSuch a model, where the commercial function combines procurement, sales and logistics, is common in many companies. It enables more efficient operations. Today, our focus is on improving the level of customer service and reducing the cost.\n— What digital tools have you used in the past and what new solutions are emerging now?\n— We use management ERP systems that are constantly evolving and allow us to work quickly with numbers and analytics. We can analyse current periods and take various factors into account when assessing our performance.\nWe also have CRM and CPQ systems. CPQ allows us to systemise and manage pricing more efficiently, as well as to control the entire order process – from the initial contact with the customer to production handover and shipment.\nOverall, we have many digital tools, but we are not yet using them all to their full potential. This is particularly true when it comes to systemising work with customers. We need to find a user-friendly solution so that sales managers see these systems as working tools. There are two key aspects here. First, these tools must serve the manager. The second is overcoming resistance to new things. It is important to strike a balance between administrative implementation and the conscious use of these tools by managers.\nWe are actively developing these mechanisms, and they are already delivering tangible economic benefits: reaching new customers, systemising pricing and setting prices in a more structured way. In addition, automating document flow helps minimise errors and the impact of the human factor. As a result, the time spent working with clients and processing orders is shortened and the number of errors decreases.\n— Do you use artificial intelligence in your digital systems? Will its role increase in the future?\n— Currently, we do not use artificial intelligence in our ERP systems. But we observe that AI is increasingly helping us. For example, I use ChatGPT along with most of our employees. Of course, we are considering the possibility of using AI in our business systems, but in the context of specific tasks.\nIn the consumer market, AI is actively used in chatbots. Back in 2019, I mentioned that many sales functions would be implemented with the help of AI. However, in project-based sales, which are typical for our industry, interaction between teams is essential and the human role remains critical. Such sales require close cooperation between different departments – procurement, production, finance and PR functions. For example, if our products are decarbonised, the customer can use that as an advantage to promote themselves and this needs to be communicated.\nSo, in such sales, human communication, not just technology, is important. Even after the end of the coronavirus pandemic, we saw that face-to-face meetings deliver significantly better results and help us more in finding the right solutions than remote communication.\nYes, AI elements will be used. It has become much easier to search for information today. Now, it is important not only to have access to a vast amount of data, but also to be able to quickly and accurately provide the necessary information to the customer, who is often already well prepared for the meeting.\nCustomer focus and Metinvest’s future\n— Recently, the understanding of the term “customer focus” has changed significantly. And this is one of Metinvest's core values. What do we mean by it today?\n— The value of customer centricity has not changed. It means that the company focuses its business processes on customers. Customer focus is a certain criterion. If we talk about Lean technology, its essence lies in eliminating everything unnecessary. How do you determine what is superfluous and what is not? The criterion is the client. If the customer is paying for it, then it is not unnecessary.\n— Metinvest is 18 years old. Given your experience and awareness of trends, what does the future hold for the Group?\n— We need to develop. The trend towards decarbonisation creates opportunities for producing DRI-grade pellets, HBI and electric steel, as well as for modernising our Ukrainian and European enterprises and expanding our distribution network. So, we certainly have a plenty to do in the next decade.\nAnd in ten years’ time, it will be clear what needs to be done over the following eight years. Currently, there are no adequate substitutes for steel – it is unique as a material for manufacturing various things. There have been numerous attempts to replace it, from aluminium to plastic. But ultimately, in terms of mechanical properties and cost, steel wins and will continue to win. In addition, it is 100% recyclable. The environmental impact of decarbonised steel is minimal, which means it can be used indefinitely. Almost everything can be made from steel. We have the raw material base, the market and a team of specialists – we just need to get on with it.\nBuilding relationships with partners and personal life\n— Time for our traditional quick-fire round. Could you share some tips for successful negotiations or building relationships with partners?\n— If you want to build a relationship with someone, you first need to understand what you can offer that person. With such an approach, there is a chance to build a mutually beneficial relationship – because business is a service and success belongs to those who provide the best services.\nIn addition, you need to be able to listen. Do you know what the first stage of selling is? It is understanding the need. And once you have understood it, you can offer what you have to meet this need. The biggest mistake is just jumping straight into the presentation.\nYou need to prepare for negotiations: set goals, analyse the interests of both parties and identify common ground for cooperation. It is important to analyse in advance who you will be negotiating with, what your partner’s needs are and formulate your task. Instead of focusing on differences from the outset, it is better to look for points of connection, for example, interest in your products. Most negotiations involve a team, so before the meeting, it is essential to bring the team together and discuss how each person sees the situation and what approach they are taking.\n— How do you spend your weekends?\n— Saturday and Sunday are times when you can move from one place to another. For example, today I am travelling to Kosice and on Monday I will be meeting a client – US Steel Kosice. Online meetings make it possible to work from anywhere. So, Saturday is a great opportunity to change locations.\nWith my job, weekends do not always mean complete rest. Sometimes, in the evening after a working day, I find time to read. My main hobby is doing the work that I truly enjoy. I like what I do – communicating with clients, suppliers and employees, exchanging knowledge and information. I also go for a run. A morning run helps to clear my mind and gives me more energy than a long sleep. In addition, interesting social activities allow me to spend time with people. For example, I enjoy fishing and hunting. And cooking, too.\nI really enjoy visiting art galleries and museums. For myself, I have set the optimal time for a visit at one to one and a half hours. Even an hour and a half in the Louvre can deplete the emotional impact of art. But if you focus on a single painting, it can enrich you and spark new ideas, including related to work.\nThe full video version of the interview is available on Metinvest Group’s official YouTube channel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->customer insights and reviews",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->social condition",
+      "Social Issue->social networking",
+      "Social Issue->social services",
+      "Labor->employee",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T13:02:45.938+03:00",
+    "updated": "2025-03-28T13:02:45.938+03:00"
+  },
+  {
+    "uuid": "9afff260f278d23d2b0572af56211dcbaf22b2da",
+    "url": "https://www.rtl.be/actu/monde/international/pakistan-neuf-policiers-tues-dans-un-attentat/2024-08-22/article/702980",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agence Belga",
+    "published": "2024-08-22T18:12:00Z",
+    "title": "Pakistan: neuf policiers tués dans un attentat",
+    "text": "Les deux véhicules de police circulaient dans le district de Rahim Yar Khan, dans la province du Pendjab, lorsqu'ils ont été attaqués dans la soirée. \"Les bandits ont attaqué les véhicules avec des lance-roquettes après qu'un des véhicules du convoi soit tombé en panne\", a déclaré le bureau de l'inspecteur général du Pendjab. \"Au moins neuf policiers sont tombés en martyrs dans l'attaque, tandis que plusieurs autres ont été blessés\", a-t-il ajouté. Le Premier ministre Shehbaz Sharif a ordonné une \"action immédiate\" contre les assaillants, a déclaré son bureau dans un communiqué. Depuis des décennies, des bandes criminelles organisées sont actives dans les zones frontalières fluviales des provinces du Sindh et du Pendjab, où elles se livrent notamment à des enlèvements contre rançon. L'armée a lancé une opération de grande envergure contre eux dans le Sind au début des années 1990, mais ils ont refait surface après que les gouvernements successifs ont échoué à maintenir l'ordre public dans la province. Une autre attaque s'est produite jeudi au Pakistan, dans la région du Pendjab (est) cette fois. Des hommes armés ont ouvert le feu sur un bus qui transportait en matinée des enfants vers une école d'Attock. Deux fillettes ont été tuées et cinq autres enfants ont été blessés. Les victimes ont entre 5 et 10 ans. L'attaque n'a pas été revendiquée.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T07:58:27.275+03:00",
+    "updated": "2024-08-23T08:23:19.431+03:00"
+  },
+  {
+    "uuid": "862cf2d7b125444aba5d45b439f06cd1381e767d",
+    "url": "https://www.timescall.com/2025/03/19/report-former-nfl-qb-byron-leftwich-joining-cu-buffs-coaching-staff",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "gqlshare",
+    "published": "2025-03-19T22:24:00Z",
+    "title": "Report: Former NFL QB Byron Leftwich joining CU Buffs' coaching staff",
+    "text": "Former NFL quarterback and offensive coordinator Byron Leftwich is joining the coaching staff at Colorado.\nJordan Schultz of Fox reported Wednesday that Leftwich is the latest addition to the star-studded staff hired by Buffs’ head coach Deion Sanders. CU has not confirmed the hire, but Schultz is represented by SMAC Entertainment, which also represents Sanders.\nEarlier this week, Sanders told media: “We have a couple more huge moves we’ll probably make this week, maybe one next week that you’re going to really appreciate the understanding of how wonderful the staff is.”\nIt’s unclear what Leftwich’s role will be with the Buffs, but he has been on campus this spring.\nLeftwich, 45, played for 10 seasons in the NFL before embarking on a coaching career. He most recently was the offensive coordinator for the NFL’s Tampa Buccaneers from 2019-22, working for three years with future Hall of Fame quarterback Tom Brady.\nAlthough he hasn’t coached since 2022, Leftwich interviewed in January for the head coaching position with the New England Patriots. He also interviewed this offseason for the offensive coordinator job with the Seattle Seahawks.\nA close friend of Sanders, Leftwich has been around the CU program a bit during Sanders’ previous two seasons. He has visited Boulder and Folsom Field to see the Buffs play.\nAs a player, Leftwich was a star at Marshall from 1998-2002, throwing for 11,903 yards, most of that in his final three years as a starter for the Thundering Herd. He was a two-time MAC offensive player of the year.\nThe seventh overall selection in the 2003 NFL Draft by the Jacksonville Jaguars, Leftwich played four seasons for them before moving on. He also played with the Atlanta Falcons (2007), Pittsburgh Steelers (2008, 2010-12) and Buccaneers (2009).\nLeftwich was 24-26 as a starter in the NFL, throwing for 10,532 yards in his career. He was a backup for Pittsburgh when it won Super Bowl XLIII.\nIn 2016, Leftwich began his coaching career as an intern with the Arizona Cardinals. He spent three seasons in Arizona before becoming the offensive coordinator at Tampa Bay in 2019.\nBrady signed with the Bucs in 2020, teaming with Leftwich to lead them to a victory in Super Bowl LV.\nThe NFL’s all-time leader in career touchdown passes, with 649, Brady had three 40-touchdown seasons in his 23-year career – two of those with Leftwich as his coordinator. Brady threw 40 touchdown passes in 2020 and a league-high 43 in 2021.\nLeftwich is the latest in a long line of former NFL players and coaches that are now on the staff in Boulder, headlined by Sanders, a Pro Football Hall of Famer.\nDefensive assistant Warren Sapp (hired last year) and running backs coach Marshall Faulk (hired this winter) are also Hall of Famers.\nFormer NFL players Domata Peko (defensive line coach), Andre Gurode (offensive line) and George Hegamin (offensive line) have also been hired this offseason.\nThird-year cornerbacks coach Kevin Mathis and second-year receivers coach Jason Phillips also played in the NFL, while offensive coordinator Pat Shurmur and defensive coordinator Robert Livingston are longtime NFL coaches.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Sport->sports coaching",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:31:40.946+02:00",
+    "updated": "2025-03-20T01:31:40.946+02:00"
+  }
+]

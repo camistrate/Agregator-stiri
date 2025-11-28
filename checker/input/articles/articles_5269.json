@@ -1,0 +1,425 @@
+[
+  {
+    "uuid": "2baab14f02673a0e89c355da55b16e243fc570e2",
+    "url": "https://www.quantamagazine.org/physicists-pinpoint-the-quantum-origin-of-the-greenhouse-effect-20240807",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "baanist",
+    "published": "2024-10-03T23:54:00Z",
+    "title": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect",
+    "text": "Physicists Pinpoint the Quantum Origin of the Greenhouse Effect\nIntroduction\nIn 1896, the Swedish physicist Svante Arrhenius realized that carbon dioxide (CO2) traps heat in Earth’s atmosphere — the phenomenon now called the greenhouse effect. Since then, increasingly sophisticated modern climate models have verified Arrhenius’ central conclusion: that every time the CO2 concentration in the atmosphere doubles, Earth’s temperature will rise between 2 and 5 degrees Celsius.\nStill, the physical reason why CO2 behaves this way has remained a mystery, until recently.\nFirst, in 2022, physicists settled a dispute over the origin of the “logarithmic scaling” of the greenhouse effect. That refers to the way Earth’s temperature increases the same amount in response to any doubling of CO2, no matter the raw numbers.\nThen, this spring, a team led by Robin Wordsworth of Harvard University figured out why the CO2 molecule is so good at trapping heat in the first place. The researchers identified a strange quirk of the molecule’s quantum structure that explains why it’s such a powerful greenhouse gas — and why pumping more carbon into the sky drives climate change. The findings appeared in The Planetary Science Journal.\n“It’s a really nice paper,” said Raymond Pierrehumbert, an atmospheric physicist at the University of Oxford who was not involved in the work. “It’s a good answer to all those people who say that global warming is just something that comes out of impenetrable computer models.”\nTo the contrary, global warming is tied to a numerical coincidence involving two different ways that CO2 can wiggle.\n“If it weren’t for this accident,” Pierrehumbert said, “then a lot of things would be different.”\nAn Old Conclusion\nHow could Arrhenius understand the basics of the greenhouse effect before quantum mechanics was even discovered? It started with Joseph Fourier, a French mathematician and physicist who realized exactly 200 years ago that Earth’s atmosphere insulates the planet from the freezing cold of space, a discovery that launched the field of climate science. Then, in 1856, an American, Eunice Foote, observed that carbon dioxide is particularly good at absorbing radiation. Next, the Irish physicist John Tyndall measured the amount of infrared light that CO2 absorbs, showing the effect which Arrhenius then quantified using basic knowledge about Earth.\nEarth radiates heat in the form of infrared light. The gist of the greenhouse effect is that some of that light, instead of escaping straight to space, hits CO2 molecules in the atmosphere. A molecule absorbs the light, then reemits it. Then another does. Sometimes the light heads back down toward the surface. Sometimes it heads up to space, leaving the Earth one iota cooler, but only after traversing a jagged path to the cold upper reaches of the atmosphere.\nUsing a cruder version of the same mathematical approach climate scientists take today, Arrhenius concluded that adding more CO2 would cause the planet’s surface to get warmer. It’s like adding insulation in your walls to keep your house warmer in the winter — heat from your furnace enters at the same rate, but it escapes more slowly.\nA few years later, however, the Swedish physicist Knut Ångström published a rebuttal. He argued that CO2 molecules only absorb a specific wavelength of infrared radiation — 15 microns. And there was already enough of the gas in the atmosphere to trap 100% of the 15-micron light Earth emits, so adding more CO2 would do nothing.\nWhat Ångström missed was that CO2 can absorb wavelengths slightly shorter or longer than 15 microns, though less readily. This light gets captured fewer times along its trip to space.\nBut that capture rate changes if the amount of carbon dioxide doubles. Now the light has twice the molecules to dodge before escaping, and it tends to get absorbed more times along the way. It escapes from a higher, colder layer of the atmosphere, so the outflow of heat slows to a trickle. It’s the heightened absorption of these near-15-micron wavelengths that’s responsible for our changing climate.\nDespite the mistake, Ångström’s paper threw enough doubt on Arrhenius’s theory among his contemporaries that discussion of climate change more or less exited the mainstream for half a century. Even today, skeptics of the climate change consensus sometimes cite Ångström’s erroneous carbon “saturation” argument.\nBack to Basics\nIn contrast to those early days, the modern era of climate science has moved forward largely by way of computational models that capture the many complex and chaotic facets of our messy, shifting atmosphere. For some, this makes the conclusions harder to understand.\n“I’ve talked to a lot of skeptical physicists, and one of their objections is ‘You guys just run computer models, and then you take the answers from this black-box calculation, and you don’t understand it deeply,’” said Nadir Jeevanjee, an atmospheric physicist at the National Oceanic and Atmospheric Administration (NOAA). “It’s a little unsatisfying not to be able to explain to someone on a chalkboard why we get the numbers we get.”\nJeevanjee and others like him have set out to build a simpler understanding of the impact of CO2 concentration on the climate.\nA key question was the origin of the logarithmic scaling of the greenhouse effect — the 2-to-5-degree temperature rise that models predict will happen for every doubling of CO2. One theory held that the scaling comes from how quickly the temperature drops with altitude. But in 2022, a team of researchers used a simple model to prove that the logarithmic scaling comes from the shape of carbon dioxide’s absorption “spectrum” — how its ability to absorb light varies with the light’s wavelength.\nThis goes back to those wavelengths that are slightly longer or shorter than 15 microns. A critical detail is that carbon dioxide is worse — but not too much worse — at absorbing light with those wavelengths. The absorption falls off on either side of the peak at just the right rate to give rise to the logarithmic scaling.\n“The shape of that spectrum is essential,” said David Romps, a climate physicist at the University of California, Berkeley, who co-authored the 2022 paper. “If you change it, you don’t get the logarithmic scaling.”\nThe carbon spectrum’s shape is unusual — most gases absorb a much narrower range of wavelengths. “The question I had at the back of my mind was: Why does it have this shape?” Romps said. “But I couldn’t put my finger on it.”\nConsequential Wiggles\nWordsworth and his co-authors Jacob Seeley and Keith Shine turned to quantum mechanics to find the answer.\nLight is made of packets of energy called photons. Molecules like CO2 can absorb them only when the packets have exactly the right amount of energy to bump the molecule up to a different quantum mechanical state.\nCarbon dioxide usually sits in its “ground state,” where its three atoms form a line with the carbon atom in the center, equidistant from the others. The molecule has “excited” states as well, in which its atoms undulate or swing about.\nA photon of 15-micron light contains the exact energy required to set the carbon atom swirling about the center point in a sort of hula-hoop motion. Climate scientists have long blamed this hula-hoop state for the greenhouse effect, but — as Ångström anticipated — the effect requires too precise an amount of energy, Wordsworth and his team found. The hula-hoop state can’t explain the relatively slow decline in the absorption rate for photons further from 15 microns, so it can’t explain climate change by itself.\nThe key, they found, is another type of motion, where the two oxygen atoms repeatedly bob toward and away from the carbon center, as if stretching and compressing a spring connecting them. This motion takes too much energy to be induced by Earth’s infrared photons on their own.\nBut the authors found that the energy of the stretching motion is so close to double that of the hula-hoop motion that the two states of motion mix with one another. Special combinations of the two motions exist, requiring slightly more or less than the exact energy of the hula-hoop motion.\nThis unique phenomenon is called Fermi resonance after the famous physicist Enrico Fermi, who derived it in a 1931 paper. But its connection to Earth’s climate was only made for the first time in a paper last year by Shine and his student, and the paper this spring is the first to fully lay it bare.\n“The moment when we wrote down the terms of this equation and saw that it all clicked together, it felt pretty incredible,” Wordsworth said. “It’s a result that finally shows us how directly the quantum mechanics links to the bigger picture.”\nIn some ways, he said, the calculation helps us understand climate change better than any computer model. “It just seems to be a fundamentally important thing to be able to say in a field that we can show from basic principles where everything comes from.”\nJoanna Haigh, an atmospheric physicist and emeritus professor at Imperial College London, agreed, saying the paper adds rhetorical power to the case for climate change by showing that it is “based on fundamental quantum mechanical concepts and established physics.”\nThis January, NOAA’s Global Monitoring Laboratory reported that the concentration of CO2 in the atmosphere has risen from its preindustrial level of 280 parts per million to a record high 419.3 parts per million as of 2023, triggering an estimated 1 degree Celsius of warming so far.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ui.adsabs.harvard.edu/abs/2023QJRMS.149.1856S/abstract",
+      "http://nadirjeevanjee.com/",
+      "https://www.physics.ox.ac.uk/our-people/pierrehumbert",
+      "https://eps.harvard.edu/people/robin-wordsworth",
+      "https://journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0275.1.xml",
+      "https://profiles.imperial.ac.uk/j.haigh",
+      "https://iopscience.iop.org/article/10.3847/PSJ/ad226d",
+      "https://eps.berkeley.edu/people/david-romps",
+      "https://www.tandfonline.com/doi/pdf/10.1080/14786449608620846",
+      "https://www.profiles.imperial.ac.uk/j.haigh",
+      "https://www.iopscience.iop.org/article/10.3847/PSJ/ad226d",
+      "https://physics.ox.ac.uk/our-people/pierrehumbert",
+      "https://www.journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0275.1.xml",
+      "https://tandfonline.com/doi/pdf/10.1080/14786449608620846",
+      "http://nadirjeevanjee.com",
+      "https://www.ui.adsabs.harvard.edu/abs/2023QJRMS.149.1856S/abstract",
+      "https://www.eps.berkeley.edu/people/david-romps",
+      "https://www.eps.harvard.edu/people/robin-wordsworth",
+      "http://www.nadirjeevanjee.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T02:59:32.528+03:00",
+    "updated": "2024-10-04T02:59:32.528+03:00"
+  },
+  {
+    "uuid": "7efee0b57ea33b6e660a7973f8acfeb65aff6cd2",
+    "url": "https://people.com/bride-refuses-to-invite-maid-of-honors-fiance-to-wedding-8781739",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashlyn Robinette",
+    "published": "2025-01-30T12:30:00Z",
+    "title": "Bride Refuses to Invite Maid of Honor's Fiancé to Wedding",
+    "text": "Even though the maid of honor is getting married a month after the bride, only other guests' spouses were invited\nBy Ashlyn Robinette Ashlyn Robinette Ashlyn Robinette is a Weddings Writer at PEOPLE. She joined PEOPLE in 2024, and previously worked at Entertainment Tonight. People Editorial Guidelines Published on January 30, 2025 07:30AM EST 58 Comments Two women arguing (stock image). Photo: Getty\nA bride is refusing to allow her maid of honor's fiancé to attend her wedding.\nIn a post on Reddit's \"Wedding Planning\" forum, the maid of honor said that when she initially accepted the role it never crossed her mind that her best friend, who is getting married this spring, would exclude her fiancé from her wedding. The bride claimed that her parents didn't want anyone to bring plus-ones for financial reasons, but the maid of honor knows \"she invited spouses of other people.\"\n\"I think he would have been invited if we were already married … but we barely missed the cutoff?\" the Redditor wrote.\nShe continued: \"I understand her parents not wanting random plus-ones, but I’m her best friend, maid of honor, and this is my fiancé, not my boyfriend of a month.\"\nThe maid of honor and bride got engaged two weeks apart. If it weren't for the bride moving up her wedding date, the maid of honor's wedding would have taken place months before hers. If it had, she's confident that her soon-to-be husband would have made the guest list.\nBride and Groom Split Wedding Guests Into A- and B-Listers — Only Invite B-Listers to Watch Recording on Zoom Wedding ceremony (stock image). Getty\n\"I’m going to be planning her bridal shower and her bachelorette weekend and I feel like the least she could do is invite my fiancé who will be my husband one month later!\" she said.\nTo add on, the maid of honor's wedding guest list is 80 people shorter, yet she made room for the bride's husband.\n\"She’s inviting like 100 people and my wedding is only 20 people but it never would have crossed my mind to not invite her fiancé (even though I’d rather him not be there because I barely know him and it's pretty much just our immediate family coming, but I would never make her travel to my wedding alone and not have her man there),\" she argued.\nNever miss a story — sign up for PEOPLE's free daily newsletter to stay up-to-date on the best of what PEOPLE has to offer, from celebrity news to compelling human interest stories.\nThe woman noted that in addition to doing so much for the bride as maid of honor, she also will have to travel far for her wedding and it would be nice to have some company.\n\"I will be traveling far to get to the wedding and it would be nice to travel and be able to stay in a hotel with my fiancé, and maybe even get to stay an extra day with him and explore instead of twiddling my thumbs alone at a hotel and then coming home,\" the maid of honor said.\nMan Disinvites Sister from Nuptials Because She Refuses to Hand Over Late Mother’s Wedding Ring A bride and groom (stock image). Getty\n\"I haven’t responded to her text yet because I have no idea what to say,\" she concluded. \"I don’t want to cause a fight — we’ve never had any issues. But am I in the wrong?\"\nIn the comments section, Redditors agreed with the poster that she should be allowed to bring her fiancé, and argued that the bride wasn't being a good friend by excluding him.\n\"That's so crazy of your friend to not invite your fiancé. He is not a 'plus one,' he should be a named guest!\" one user commented. \"I'm so sorry. I would be extremely hurt if my friend made that choice. Rubbing salt in the wound that you will need to travel for it and do so much planning for the various events.\"\n\"She has 100 guests and couldn’t invite the fiancé of her best friend and maid of honor, who I assume has been putting in tons of money/labor for her wedding?\" another person wrote. \"Are you sure she is your best friend?\"\nClose",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->wedding",
+      "Social Issue->marriage",
+      "Social Issue->dating and relationships",
+      "Lifestyle and Leisure->party",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/ash.robinette/",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpeople.com%2Fbride-refuses-to-invite-maid-of-honors-fiance-to-wedding-8781739%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-share-article",
+      "https://twitter.com/intent/tweet?url=https%3A%2F%2Fpeople.com%2Fbride-refuses-to-invite-maid-of-honors-fiance-to-wedding-8781739%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dshareurlbuttons&via=people&text=Maid+of+Honor+Shocked+After+Bride+Refuses+to+Invite+Her+Fianc%C3%A9+to+the+Wedding%3A+%27No+Idea+What+to+Say%27",
+      "https://www.reddit.com/r/weddingplanning/comments/1ibgfh5/my_fianc%C3%A9_isnt_invited_to_a_wedding_im_the_maid/",
+      "https://x.com/robinette_ash",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpeople.com%2Fbride-refuses-to-invite-maid-of-honors-fiance-to-wedding-8781739%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-share-article",
+      "https://instagram.com/ash.robinette/",
+      "https://www.reddit.com/r/weddingplanning/comments/1ibgfh5/my_fianc%C3%A9_isnt_invited_to_a_wedding_im_the_maid",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.instagram.com/ash.robinette",
+      "https://www.x.com/robinette_ash",
+      "https://reddit.com/r/weddingplanning/comments/1ibgfh5/my_fianc%C3%A9_isnt_invited_to_a_wedding_im_the_maid/",
+      "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Fpeople.com%2Fbride-refuses-to-invite-maid-of-honors-fiance-to-wedding-8781739%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dshareurlbuttons&via=people&text=Maid+of+Honor+Shocked+After+Bride+Refuses+to+Invite+Her+Fianc%C3%A9+to+the+Wedding%3A+%27No+Idea+What+to+Say%27",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T00:13:27.805+02:00",
+    "updated": "2025-01-31T00:13:27.805+02:00"
+  },
+  {
+    "uuid": "6eb825fa9a917ce183929dfa81a8bf91aea83ece",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevuzvk0511994.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-05-07T23:40:00Z",
+    "title": "冰雹、局地超10级雷暴大风！安徽发布暴雨蓝色预警|暴雨_新浪财经_新浪网",
+    "text": "安徽省气象台2025年05月07日16时40分发布 暴雨蓝色预警 。预计 8日白天和夜里，六安、安庆、合肥、池州、铜陵、芜湖、马鞍山、宣城、黄山市等地有暴雨，其中六安、安庆、池州、黄山市部分地区大暴雨（100-160毫米），并伴有短时强降水（最大雨强30-50毫米/小时，局地超过60毫米/小时）、雷暴大风（8-10级，局地超过10级）或冰雹等强对流天气。\n防御指南\n1.政府及相关部门按照职责做好防暴雨准备工作。2.公众做好户外活动自身安全防范，行人应避开积水点通行，不要贸然涉水前行，避免在桥底、涵洞等低洼易涝危险区域避雨。3.检查城市、农田、鱼塘等排水系统，做好排涝准备。\n来源：安徽气象",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Weather->weather phenomena",
+      "Environment->climate change",
+      "Environment->natural resources",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T03:32:34.642+03:00",
+    "updated": "2025-05-08T00:37:01.000+00:00"
+  },
+  {
+    "uuid": "7f2ee1df85d9e2a206ce00c0cf1e604685939750",
+    "url": "https://www.zazoom.it/2025-02-21/non-mi-piaccio-nei-selfie-cosi-le-ragazzine-malate-di-bellezza-a-monza-vanno-dal-chirurgo-per-rifarsi-seno-e-labbra/16424945",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@zazoomblog",
+    "published": "2025-02-20T23:59:25Z",
+    "title": "Non mi piaccio nei selfie così le ragazzine malate di bellezza a Monza vanno dal chirurgo per rifarsi seno e labbra",
+    "text": "Non mi piaccio nei selfie così le ragazzine malate di bellezza a Monza vanno dal chirurgo per rifarsi seno e labbra\n“Mi voglio rifare le labbra perché non mi piaccio come esco nei selfie”. Non è la prima volta che la dottoressa Mara Cazzaniga, chirurgo maxillo facciale e medico estetico presso Synlab Cam, si sente rispondere così dalle giovani pazienti che si rivolgono al suo studio. Lo ha raccontato alcuni.Leggi su Monzatoday.it\nMonzatoday.it - \"Non mi piaccio nei selfie\", così le ragazzine malate di bellezza a Monza vanno dal chirurgo per rifarsi seno e labbra\n- Il selfie allo specchio di Alba Parietti: \"È un peccato piacersi? Mi farei la corte se potessi\"\n- Sanremo, Tony Effe: \"Mi piace Lucio Corsi, spacca. Anche Topo Gigio: gli ho chiesto un selfie\"\n- Alba Parietti allo specchio: “Mi farei la corte se mi conoscessi”\n- Il selfie allo specchio di Alba Parietti: “È un peccato piacersi? Mi farei la corte se potessi”\n- \"La montagna non è per selfie e divertimento: preparatevi alle escursioni e state attenti\"\n- Più selfie condividi su instagram più sei felice?\n- Instagram, lanciato il nuovo pulsante “Non Mi Piace”: potrebbe aumentare l’isolamento sui social - Instagram introduce il pulsante \"Non Mi Piace\": potrebbe aumentare l'isolamento sui social. Come funziona e gli obiettivi ... (occhionotizie.it)\nVideo Non piaccio",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->medical profession",
+      "Social Issue->teenagers",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mara Cazzaniga",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alba Parietti",
+          "sentiment": "none"
+        },
+        {
+          "name": "Lucio Corsi",
+          "sentiment": "none"
+        },
+        {
+          "name": "Topo Gigio",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tony Effe",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Monza",
+          "sentiment": "none"
+        },
+        {
+          "name": "Alba Parietti",
+          "sentiment": "none"
+        },
+        {
+          "name": "Synlab Cam",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sanremo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:59:25.264+02:00",
+    "updated": "2025-02-21T01:59:25.264+02:00"
+  },
+  {
+    "uuid": "65c8723b7fb99a55f6e64955cc6b26dd191962d7",
+    "url": "https://www.witn.com/2024/06/22/missing-hiker-found-alive-after-being-lost-10-days-mountains",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WITN",
+    "published": "2024-06-22T07:49:00Z",
+    "title": "Missing hiker found alive after being lost for 10 days in mountains",
+    "text": "Missing hiker found alive after being lost for 10 days in mountains A K-9 finally tracked the hiker down and escorted him out of a remote canyon, finally reuniting him with family. (KSBW, SVL STEVE, LUKAS MCCLISH, CNN) By KSBW via CNN Newsource Published: Jun. 22, 2024 at 3:49 AM EDT | Updated: 2 hours ago Email This Link\nShare on Facebook\nShare on X (formerly Twitter)\nShare on Pinterest\nShare on LinkedIn\nSANTA CRUZ COUNTY, Calif. (KSBW) - A missing hiker was finally rescued after he was lost for 10 days in the Santa Cruz Mountains of California.\nThe 34-year-old man was only going for a three-hour hike when he disappeared.\n“I didn’t bring anything because I thought I was doing a three-hour hike to go to work,” Lukas McClish, the rescued hiker, said.\nHe was lost in the woods for nine nights and 10 days, shirtless with only a flashlight and folding scissors.\nIt would be more than a week before the raggedy-looking hiker would be found.\n“So, I kind of just hiked. Each day, I go up a canyon, down a canyon to the next waterfall, sit down by the waterfall, drink water out of my boot,” Lukas McClish recalled.\nIt was a Tuesday when Lukas McClish went for a hike in Boulder Creek and ended up getting lost.\n“I felt comfortable the whole time I was out there. I wasn’t worried about it,” Lukas McClish said. “I had a mountain lion that was following me, but it was cool. It kept its distances. I think it was just somebody watching over me.”\nThe problem was that Lukas McClish didn’t tell anyone where he was going.\nBy the time Father’s Day rolled around on Sunday, his family started worrying and filed a missing person’s report.\nThe search was on then.\n“Some nights, although, I just had to trust God that he was going to be OK, and that was hard to do some nights when we would go to bed at night because I would worry about where he was, where he was sleeping and how cold he was and where he was if he was alive,” Diane McClish, the hiker’s mother, said.\nLukas McClish drank from water from creeks, ate wild berries and slept on a wet bed of leaves all while yelling for help and thinking of his next meal.\n“‘Just help. Help, I’m over here.’ Or, ‘Is anybody out there?’” Lukas McClish remembered saying while he was lost. “I want a burrito or a taco bowl. That’s what I thought about every day when I, after the first five days, when I started to kind of realize that I might be in over my head.”\nBut on Thursday afternoon, someone finally heard his cries for help.\nThe Boulder Creek Fire Department deployed a drone and spotted his location.\nA K-9 tracked him down and Lukas McClish was escorted out of a remote canyon, finally reunited with family.\n“Met a lot of people because I had more people come to me and tell me how much they love my son and how they just hoped that we would find him,” Diane McClish said. “I didn’t realize that so many people in this town love Luke.”\nFortunately, Lukas McClish had no major injuries.\nCopyright 2024 KSBW via CNN Newsource. All rights reserved.\nMost Read Fishing crew rescues 38 dogs treading water in lake ‘Operation Summer Jump’ lands 49 people in jail; 4 still wanted Dangerous Heat Expected Through Next Week 1 airlifted, 1 killed in major crash; I-485 shut down in northeast Charlotte Stumpy’s Hatchet House closing its doors Sunday after Dickinson Avenue project construction causes significant revenue hit Latest News FEMA is ready for an extreme hurricane and wildfire season, but Mayorkas says money is a concern FEMA funds running low as natural disasters surge FAA investigates 2nd Southwest plane with low altitude alert Hiker rescued after 10 days lost in mountains",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lukas mcclish",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ksbw",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "calif.",
+          "sentiment": "none"
+        },
+        {
+          "name": "boulder creek",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa cruz mountains of california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T10:56:17.191+03:00",
+    "updated": "2024-06-22T12:46:34.700+03:00"
+  },
+  {
+    "uuid": "3407f03a6e8d801ab0a2e9f1512fcb8f1713c981",
+    "url": "http://qclz.youth.cn/znl/202507/t20250731_16148643.htm",
+    "ord_in_thread": 0,
+    "author": "青网励志李婧怡",
+    "published": "2025-07-31T00:00:00Z",
+    "title": "强军\"播火者\"",
+    "text": "傅婉娟教授（左一）在校史馆开展实践教学。王骁/摄\n在国防科技大学军政基础教育学院，傅婉娟教授的课备受学员们欢迎。她的理论课从不枯燥，有人形容像“打怪升级”，“傅老师会在课上抛出一个个问题，然后一关关闯过去，可有意思了”。\n作为一名党的创新理论“播火者”，傅婉娟深耕政治理论教育领域30余载，她说，每次走上讲台，想的只有一件事：把课上好，把学员带好，把创新理论的“薪火”烧旺。\n“习近平主席强调过，思政课的本质是讲道理，要注重方式方法，把道理讲深、讲透、讲活。”这句话傅婉娟一直牢记在心，也是她的授课准则。每一次备课，她都会反复研读马克思主义经典著作，读原著、学原文、悟原理，在教案空白处密密麻麻写满心得体会。\n为了让理论阐释更具说服力，傅婉娟常深入基层调研，了解官兵当下的思想动态和现实困惑。自己出不去时，她会专程请出差的同事帮忙带几本驻地买不到的书，或收集备课所需的资料。\n傅婉娟深知，进入“E时代”，教学方法必须与时俱进。对年轻的学员们而言，老师不再是不可撼动的权威，他们更喜欢自己去探究、验证。而老师要做的，是用马克思主义的立场观点方法和哲理的逻辑线，帮助学员认识和把握规律，形成科学认知。\n为此，傅婉娟没少下功夫。她没事就去旁听学院里其他老教授讲课，还多方收集名校名家的讲课视频，反复观看、品味、学习、借鉴，探寻自己的授课风格。互动式、参与式、探究式、现场式教学……三尺讲台上，傅婉娟的尝试越来越多。\n“讲好政治理论课，不能简单从书本到书本、从理论到理论。”傅婉娟解释说，“当下，学员面对网络信息的汪洋大海，老师的作用就是去帮助他们分流归类、去伪提纯、精准滴灌。”\n《黑神话：悟空》《三体》等兴起后，傅婉娟也投入了不少精力去了解研究。每学期开课前，傅婉娟会开展课前动员、召开教学准备会，还经常利用课外时间和学员们聊天，主动了解当下年轻人感兴趣的话题、喜欢的“梗”，摸清他们的关注点、疑惑点、兴趣点。\n上课时，傅婉娟将这些热门话题带入课堂，不断更新课堂案例，课后再复盘反思，进行针对性改进。渐渐地，她的课堂越来越鲜活、接地气，每次上课时，学员王乐泉都要抢着坐第一排，因为“在傅老师身上，有一种阳光和热情”。\n践行着全新的教学理念，傅婉娟用自己的方式不断引导学员引发思想共鸣，不少学员都说，傅老师三言两语就能把抽象的理论说得生动鲜活，“人随和、课更亲和”。每逢教学评价或测评，她的课堂总能得到极高的学员满意率。\n如今，傅婉娟的课堂越来越大。她是教育部“周末理论大讲堂”授课专家，为全国高校思政课教师作“如何讲好习近平强军思想”专题讲座。由她主持建设的《习近平新时代中国特色社会主义思想概论》被推荐为国家一流课程。\n讲堂之外，傅婉娟也在不断延伸着自己的授课足迹。这几年，她将大量精力投入到党的军事指导理论方向研究中，推进思想教育向实战化迈进。\n尝试始于2010年，那时傅婉娟参加全军政治理论课教学观摩评比，准备阶段，学校不少经验丰富的政治理论教员来给她开展培训。他们从早到晚磨课、准备素材、修改课件，傅婉娟的授课水平也在那时有了突飞猛进的提升。\n决赛前一天，国防科技大学研制的“天河一号”二期系统勇夺全球超级计算机TOP500榜首。消息传来，傅婉娟敏锐地感知到，这正和自己的授课主题相契合。第二天一早，第一个上台的傅婉娟就将这条最新消息融入自己的讲稿中，并由此展开，充满激情地阐述“实现富国和强军的统一”。\n那一次比赛，傅婉娟捧回了一等奖，还获得了“一流院校的一流教员讲授的一流政治理论课”的称赞，并代表所有参赛选手作汇报授课。\n从那以后，傅婉娟愈发坚定了自己的方向。她读经典、请教军事专家、做笔记、写文章……在全军“理论服务走基层”活动中，她和其他专家一起走进训练场，为官兵带来政治理论课。\n根据部队类型、担负任务、官兵特点的不同，傅婉娟会在行进间学习备课、调整讲稿，做到同一内容在不同部队有不同讲法，甚至同一部队不同连队也有所不同。她还会把当下的舆论热点、重要新闻等及时补充到授课内容中，有时一堂课上完，官兵们意犹未尽，反复询问她“你们就讲这一课吗？下次还来吗？”\n从全军政工网“军营理论热点怎么看”专题讲座到全军党史学习教育宣讲，再到全军“名师好课进课堂”示范课，这些年傅婉娟传播党的创新理论的足迹已跨越线上线下，遍布边疆高原。\n在教员杨苹苹看来，傅婉娟不但自己进步，也在带动着大家一起前进，是“教学科研路上的领路人”。刚入职时，杨苹苹因为缺少军事理论方向的研究经验，试讲时总是缺点“兵味儿”。傅婉娟手把手教她完善案例、提炼观点、改变语言风格，还指导她报项目、做课题，帮助她开阔学术视野。\n建强理论教学队伍，也是傅婉娟的希望。在她看来，要授人以“鱼”，也要授人以“渔”，既要给“干货”，也要教“方法”。\n每次去部队宣讲，傅婉娟会召集起对方单位的理论骨干，集中帮带，教他们如何备课讲课，做思想工作。往往宣讲结束后，傅婉娟就会为基层单位留下一支“带不走的理论服务队”。\n不久前，某连队指导员李南辛找到傅婉娟，向她请教如何为战士们上好一堂关于网上意识形态的教育课。傅婉娟帮他从马克思恩格斯对意识形态的论述到基本原理、重要概念，一一梳理、倾囊相授。李南辛在边疆部队，每次与傅婉娟交流内容都充分翔实，有时两人讨论结束已是第二天凌晨。\n有了傅婉娟的帮助，李南辛的授课效果极佳。课后他感慨，“新时代的士兵见识广、学历高，我得加倍努力，像傅老师一样把理论课讲鲜活，让官兵都信服我。”\n而傅婉娟有自己的授课心得。这些年她一直提醒着自己，“在现场心里才有感动，在基层心里才有官兵，在路上心里才有时代。”\n中青报·中青网记者 郑天然 通讯员 颜瑾 李东洋来源：中国青年报\n2025年07月31日 01版",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Education->vocational education",
+      "Education->educational grading",
+      "Education->teachers",
+      "Human Interest->graduation",
+      "Science and Technology->political science",
+      "Science and Technology->social sciences"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:18:29.366+03:00",
+    "updated": "2025-07-31T08:23:57.000+03:00"
+  },
+  {
+    "uuid": "a76d33806b19a8e87ed625262e268d9351eb1ddc",
+    "url": "https://www.world-today-news.com/29-year-old-woman-forced-to-live-without-anus-due-to-chronic-disease/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2023-12-28T22:27:00Z",
+    "title": "29 Year Old Woman Forced to Live Without Anus Due to Chronic Disease",
+    "text": "Friday, 29 December 2023 – 04:43 WIB\nUnited States – A 29 year old woman from the United States named Maggie Tretton is forced to live without an anus because of the chronic intestinal disease she suffers from.\nReporting from Daily Mail, Thursday, December 28 2023, Tretton was forced to ‘close’ his anus because he had suffered from Crohn’s disease from a young age. At that time, Tretton’s condition at the age of 16 had worsened and required a colostomy operation to create a new drainage tube through his stomach.\nOperation for Women to Permanently Close the Anus\nHowever, Tretton’s suffering apparently didn’t end there. The reason is, Tretton still feels pain and soreness around his anus ten years after the operation.\nInvestigating further, his intestinal tract and rectum were affected by Crohn’s disease which was eating away at him.\nBecause of this, Tretton finally had the courage to return to the operating table. He then wanted to truly end his suffering by undergoing a proctocolectomy, which is a procedure to remove the large intestine and rectum. In this operation, Tretton’s anus had to be stitched, aka ‘closed’, so that waste could be diverted to the new channel.\n“Now it’s permanent, there’s no going back. But I’ve never once regretted it because I know how bad the damage was to that area,” said Tretton\nAfter the operation, Tretton finally admitted that he could still live a normal life even though he was different from most people. Even so, Tretton had to defecate using a colostomy bag that was attached to his stomach for 24 hours.\n“I know what you might be thinking, ‘You had your anus removed. There’s no way you can look normal’. But he looked almost like a normal healthy person,” he said.\n“The only thing that is different is that there is no longer a hole there. There is no opening, it really looks like a hole is missing,” he continued.\nFor your\ninformation, Tretton suffers from severe inflammatory bowel disease which in the medical world is known as Crohn’s disease Fdyg. Crohn’s disease itself is a chronic inflammatory disease of the digestive tract which can occur from the mouth to the anus, but most often occurs in the small intestine and large intestine.\nOperation for Women to Permanently Close the Anus\nSymptoms include stomach pain and diarrhea, sometimes bloody, as well as weight loss. People with Crohn’s disease can have severe symptoms followed by periods of no symptoms that can last for weeks or years.\nThe symptoms depend on where the disease occurs and how severe it is with signs such as chronic diarrhea, often bloody and containing mucus or pus, weight loss, fever, abdominal pain and tenderness, a feeling of mass or fullness in the stomach and rectal bleeding.\nCrohn’s disease or Crohn’s disease is a disease that occurs in the long term (chronic). Crohn’s disease is a type of IBD (Inflammatory bowel disease), which is a disease of the digestive tract that requires extra attention.\nIBD is a condition that can trigger pain and cramps in the stomach and interfere with the processing of food into energy. When diagnosed with inflammatory bowel disease, a person may need long-term treatment.\n2023-12-28 21:43:01\n#woman #permanently #closes #anus",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "maggie tretton",
+          "sentiment": "none"
+        },
+        {
+          "name": "crohn",
+          "sentiment": "none"
+        },
+        {
+          "name": "tretton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "daily mail",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:32:22.336+02:00",
+    "updated": "2023-12-29T00:32:22.336+02:00"
+  }
+]

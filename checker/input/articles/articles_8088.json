@@ -1,0 +1,434 @@
+[
+  {
+    "uuid": "312d032be1effa55317ac05c1f4fc48ff731daa1",
+    "url": "https://www.stheadline.com/realtime-china/3343288/廣西欽州紅色暴雨最高雨量達340毫米多處水浸-學校停課",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "廣西欽州紅色暴雨｜最高雨量達340毫米多處水浸 學校停課",
+    "published": "2024-05-10T07:49:00Z",
+    "title": "廣西欽州紅色暴雨｜最高雨量達340毫米多處水浸 學校停課",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } // const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } //gallerynumber_ad(); } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 商業創科 股市 ESG 區塊鏈 地產 樓市資訊 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 娛樂台 時事台 生活台 產經台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 中國 即時中國 廣西欽州紅色暴雨｜最高雨量達340毫米多處水浸 學校停課 即時中國 更新時間：15:57 2024-05-10\n發佈時間：15:49 2024-05-10 字體大小 受低壓槽影響，今（10日）天凌晨起廣西欽州出現暴雨，部分地區累計雨量達340毫米，打破了該市5月雨量最高紀錄，欽州市城區出現嚴重水浸。廣西氣象9時40分欽州繼續發布最高級別的暴雨紅色預警。網上流傳影片顯示，欽州城區有路段積水已過行人大腿，多部汽車被困在積水路段。\n欽州氣象台今早發布雷電黃色和暴雨紅色預警信號後，欽州市教育局隨即發布停課通知，受暴雨影響，該市多所學校停課。上午9時，欽州市防汛抗旱指揮部將早前發布的防汛四級應急響應升為二級應急響應。目前，當地城區多處路段出現了嚴重內澇現象，相關防汛部門正積極應對雨情及展開救援工作。\n據央視新聞消息，5月10日，廣西防城港市、百色市那坡縣、防城港市防城區、欽州市，接連發佈暴雨紅色預警信號。\n氣象部門預計，不穩定天氣仍會持續多日，今晚至明早，柳州、桂林等局部地區有暴雨並伴雷暴大風、冰雹等強對流天氣，周六整日落雨，部分地區有大暴雨，周日雨勢略為緩和。\n---\n緊貼最新最快新聞資訊，請立即下載星島頭條App： https://bit.ly/3Q29Vow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://bit.ly/3Q29Vow",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.bit.ly/3Q29Vow",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://www.thestandard.com.hk",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-10T11:02:15.782+03:00",
+    "updated": "2024-05-10T11:02:15.782+03:00"
+  },
+  {
+    "uuid": "a6adfd6404e1ccba5b40482594cdcc3a002e7bdb",
+    "url": "https://www.asianews.it/notizie-it/Resort-di-Terengganu-multato-per-party-hawaiano-%27non-musulmano%27-60806.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AsiaNews.it",
+    "published": "2024-05-24T08:59:00Z",
+    "title": "Resort di Terengganu multato per party hawaiano 'non musulmano'",
+    "text": "Resort di Terengganu multato per party hawaiano 'non musulmano'\nIl Summer Bay Resort è stato sanzionato dalle autorità islamiche per una festa organizzata il 20 maggio, in occasione del San Valentino cinese. Secondo l'accusa è stata violata una legge del 2002. Nello Stato governato dagli islamisti non sono nuove accuse di questa natura. Gli emendamenti approvati lo scorso dicembre hanno fatto insorgere gli attivisti per i diritti.\nKuala Lumpur (AsiaNews) - Il Summer Bay Resort di Terengganu ha ricevuto una multa di 25.000 ringgit (circa 4900 euro ndr) dalle autorità dello Stato per aver ospitato il 20 maggio un evento a tema hawaiano dal nome “Aloha Party”. Tra le accuse, la natura “non musulmana” della festa, alla quale hanno partecipato dj e ballerine, con uomini che ballavano sul palco insieme a donne in bikini. Il governo del sultanato con capitale Kuala Terengganu, in mano al partito islamico Pan Malaysian (PAS), non ha digerito l’accaduto. Il party avrebbe violato la sottosezione 6 (1) del Terengganu Entertainment and Places of Entertainment Enactment 2002, che prevede una licenza per ospitare spettacoli simili.\nA renderlo noto è Razali Idris, presidente del Comitato di Stato per il Turismo, la Cultura, l'Ambiente e il Cambiamento Climatico, stando a una dichiarazione raccolta da\nTRDI News. La promessa è che le autorità continueranno a indagare ulteriormente, nonostante il resort possegga i permessi per operare. “Vogliamo verificare anche se il resort ha commesso altri reati sull’isola. Il Summer Bay Resort ha ospitato questo tipo di concerto ogni anno per 10 anni senza che le autorità ne fossero a conoscenza”, ha affermato Razali Idris. Alla multa farà seguito un incontro tra il proprietario del resort, il dipartimento religioso di Terengganu e il sindaco di Kuala Terengganu. Il primo sarà tenuto a fornire spiegazioni in merito all’“Aloha Party”, organizzato in occasione della festa del “520”, il San Valentino cinese, celebrato proprio lunedì scorso.\nLo Stato malese del Terengganu non è nuovo ad accuse di questo tipo. Il mese scorso una madre single era stata\ngiudicata colpevole di aver commesso il peccato di “khalwat” (vicinanza) e condannata a sei colpi di rotan. Non è noto se le autorità abbiano eseguito la sentenza di fustigazione prevista per il 6 maggio. La donna si chiama Nurfifi Amira Nawi, 37 anni, madre di un bambino: è stata accusata ai sensi della sezione 31 (b) del Syariah Criminal Offenses Enactment 2022, per essere stata da sola con un uomo di 40 anni che non era suo marito.\nL'assemblea statale lo scorso 1 dicembre ha approvato diversi emendamenti al documento emanato nel 2022. Le modifiche includono ulteriori misure repressive nei confronti delle donne. Tra queste, una multa fino a 5mila ringgit (980 euro), il carcere per un massimo di tre anni, la fustigazione fino a sei volte, o qualsiasi combinazione delle tre, per chi rimane incinta al di fuori del matrimonio. Multe fino a 2mila ringitt (390 euro), o fino a un anno di reclusione, o entrambe le cose, per le donne che indossano abiti maschili e si comportano come uomini. Per le infrazioni successive, possono essere frustate fino a sei volte o incarcerate fino a tre anni, o entrambe, e multate fino a 5mila ringgit (980 euro).\nIn una reazione immediata dopo l'approvazione degli emendamenti, dieci gruppi per i diritti umani, tra cui Sisters In Islam e il Centre for Independent Journalism, hanno sollecitato la Commissione malese per i diritti umani a condurre una revisione dell'ultima versione dell’Enactment. Il gruppo ha sottolineato che gli emendamenti alla legge aggravano ulteriormente gli impatti dannosi già esistenti nei confronti di donne, giovani e persone Lgbtq+. In quest quadro, l'emendamento che criminalizza le gravidanze prematrimoniali è stato oggetto di un ampio dibattito, con opinioni contrastanti tra i medici musulmani. Tuttavia, il presidente del Comitato per l'attuazione della Syariah, l'istruzione e l'educazione superiore dello Stato, Satiful Bahari Mamat, ha affermato che \"il benessere dei musulmani, specialmente a Terengganu, sarà meglio protetto\" grazie a queste misure. Affermando anche che la sezione sulle donne che si comportano come uomini era necessaria, poiché le disposizioni legali esistenti si applicavano solo agli uomini che si comportavano come donne.\nGli investigatori: ‘Un missile russo’ ha abbattuto il volo MH17 della Malaysian Airlines\n25/05/2018 08:52",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.trdi.my/premis-anjur-parti-liar-kena-kompaun-rm25-ribu",
+      "https://trdi.my/premis-anjur-parti-liar-kena-kompaun-rm25-ribu"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T15:41:11.764+03:00",
+    "updated": "2024-05-24T15:41:11.764+03:00"
+  },
+  {
+    "uuid": "c545986e4c3c2446486e1c8caf55b051791f568f",
+    "url": "https://www.guardian-series.co.uk/news/national/24016286.nearly-4-000-violent-assaults-reported-trains-past-year/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2023-12-28T22:31:00Z",
+    "title": "Nearly 4,000 violent assaults reported on trains in past year | East London and West Essex Guardian Series",
+    "text": "Nearly 4,000 violent assaults were reported on trains in Britain in the past year, figures obtained by the Liberal Democrats show. The party called for “a serious strategy” to tackle crime on the railways as it accused the Conservatives of being “all bark and no bite”. British Transport Police (BTP) statistics show 3,991 incidents of violence against the person were reported on trains in the year to the end of November. That is up 12% from the previous 12 months. The figures also show 699 robberies were reported on trains in the year to the end of November, up 18% year on year, while sexual offences rose by 2.3% to 1,419. Liberal Democrat MP Sarah Olney, who obtained the data through a Freedom of Information request, said: “People deserve to feel safe when on public transport, yet these alarming figures tell a different story. “Far too often our train carriages are being turned into crime scenes as violent criminals are allowed to terrorise other passengers with impunity. “This Conservative Government is all bark and no bite. Rather than yet more rhetoric, we need a serious strategy to tackle this rise in crime on our railways. “The public deserves better – which is why the Liberal Democrats are calling for a return to local community policing which will help keep us safe.” BTP head of crime and public protection Detective Chief Superintendent Paul Furnell said: “Tackling crimes such as robbery and sexual offences are a force priority and we have dedicated taskforces as a result. “We are committed to making the network a hostile place for those who seek to commit such offences. “We are aware the data might not represent a true increase, with travel numbers only recently returning to pre-Covid levels. “Additionally, we continue to campaign to encourage victims and witnesses to report to us as a priority – particularly for sexual offences which we know are under-reported – and with this we expect the number of reports to continue to increase. “As a result of this, we continue our work to make reporting as accessible as possible for the travelling public, with our discreet text 61016 service turning 10 this year and the introduction of the free Railway Guardian app in 2022.” A Home Office spokesperson said: “We are providing police forces with the tools they need to deliver for the public and since 2010, our communities are safer. “Neighbourhood crimes including burglary, robbery and theft are down 50% and violent crime is down 52%. “There are also now 149,500 police officers keeping the public safe in England and Wales – the highest number on record.” Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sarah olney",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "west essex guardian",
+          "sentiment": "negative"
+        },
+        {
+          "name": "british transport police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "britain",
+          "sentiment": "none"
+        },
+        {
+          "name": "east london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:45:03.485+02:00",
+    "updated": "2023-12-29T00:45:03.485+02:00"
+  },
+  {
+    "uuid": "4ac886b53837a87ee2d6d46d57fe89a8907d006d",
+    "url": "https://www.wnd.com/2023/12/u-s-consumers-face-higher-prices-houthis-continue-attacks-commercial-vessels/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WND News Services",
+    "published": "2023-12-28T23:06:00Z",
+    "title": "U.S. consumers face higher prices as Houthis continue attacks against commercial vessels",
+    "text": "Jake Smith Daily Caller News Foundation Advertisement - story continues below The Houthi attacks against commercial vessels in the Red Sea are threatening to disrupt U.S. and global markets with delayed shipping times and increased good prices, The Washington Post reported. The Yemen-based Houthis have launched several [attacks](https://dailycaller.com/2023/12/22/iranian-forces-are-providing-intel-for-attacks-on-merchant-ships-in-red-sea-report/) since Oct. 7 against vessels in the Red Sea as part of retaliation efforts against Israel and its allies. In an effort to avoid the Houthis, commercial vessels are now taking longer routes to reach their destinations, resulting in delays and higher shipping costs, and ultimately increased prices for consumer goods in the U.S. and across the world, [according](https://www.washingtonpost.com/business/2023/12/28/red-sea-attacks-shipping-houthis/) to the Post. TRENDING: [Arsonists accused of destroying 4 churches in weeks, 15 hit during year](https://www.wnd.com/2023/12/arsonists-accused-destroying-4-churches-weeks-15-hit-year/) [Get the hottest, most important news stories on the Internet – delivered FREE to your inbox as soon as they break! Take just 30 seconds and sign up for WND's Email News Alerts!](https://www.wnd.com/newsletter-subscription/) Major shipping companies like COSCO, Maersk and CMA CGM, as well as several fuel tankers, previously utilized major trade routes in the Red Sea that cut through Africa and Asia, according to the Post. The recent spate of Houthi attacks has forced shipping vessels to move down and around South Africa’s Cape of Good Hope. Advertisement - story continues below There goes the wave. Just about every westbound ship has turned south for the Cape. [pic.twitter.com/cpIRJYpNQn] — Nathan Strang (@NavyStrang) [December 19, 2023] This new route adds thousands of miles and potentially weeks of time to a vessel’s trip, [according](https://www.washingtonpost.com/world/2023/12/21/red-sea-shipping-houthi-suez/) to the Post. “It’s about an 8 percent longer journey, which is going to drive prices up quite a bit for ocean freight – that’s a material impact on prices for the goods themselves,” Ryan Petersen, CEO of Flexport, told the Post. Petersen noted that the higher costs associated with shipping these goods will affect the prices of “most of the stuff that you see in stores.” Delayed shipping times also mean that some of the goods these vessels are carrying will no longer be in season when they finally arrive at their destination, making them less profitable to retailers and wholesalers, according to the Post. “You can’t sell Valentine’s Day cards on St. Patrick’s Day,” George Kochanowski, CEO of shipping container company Staxxon, told the Post. Advertisement - story continues below U.S. and other international consumers that relied on goods delivered through the Red Sea will feel the brunt of increased costs and delays, according to the Post. Though the immediate consequences affect companies that previously shipped through Red Sea routes, compounded traffic will “ultimately metastasize to the entire world,” Richard Danderline, CFO of Staxxon, told the Post. U.S. Department of Defense Secretary Lloyd Austin [announced](https://dailycaller.com/2023/12/18/pentagon-announces-task-force-combat-houthi-attacks-red-sea/) in December that an international task force had been formed to combat the Houthi’s aggression in the Red Sea. The Houthis have launched over 1oo [attacks](https://dailycaller.com/2023/12/23/us-led-coalition-to-defend-shipping-against-houthi-attacks-doesnt-hold-water-experts-say/) against ten commercial vessels, and managed to hijack one ship before bringing it back to a Yemeni port in November. There is no timeline for how long the Houthis will keep up their attacks, but the U.S. maintains its right to defend itself and its interests, a Pentagon spokesperson to the Post. This story originally was published by [the Daily Caller News Foundation](http://dailycallernewsfoundation.org/). Advertisement - story continues below Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience. For licensing opportunities of our original content, please contact [[email protected]](https://www.wnd.com/cdn-cgi/l/email-protection). IMPORTANT NOTE TO WND READERS: America – long the freest, most prosperous, powerful, altruistic and Christian nation on earth – is on the brink of destruction. Every decent and aware American adult knows this. The evidence is everywhere. Democrat politicians today overwhelmingly favor late-term abortion up to the very moment of birth – formerly known as \"infanticide.\" They encourage children too young to drive or vote to have their breasts and/or sex organs amputated in pursuit of a \"gender transition\" that is both delusional and impossible, and which leads to staggering rates of depression and suicide. They have not just allowed, but ENGINEERED, a full-scale foreign invasion of America across her southern border. Advertisement - story continues below Their standard bearer, President Joe Biden – a senile, pathologically dishonest and epically corrupt career political hack – is destroying America's economy, energy sector, military, law enforcement, election integrity, national security, Constitution and overall national wellbeing as rapidly as possible. At the same time, Team Biden demonizes and, increasingly, IMPRISONS critics as \"violent extremists,\" \"domestic terrorists,\" \"white supremacists\" and \"insurrectionists.\" Indeed, they're currently engaged in an obviously corrupt multi-front legal war against Biden's chief political rival, Donald J. Trump, in an attempt to send the 45th president of the United States to prison for the rest of his life. None of this constitutes \"politics\" in any conventional or traditional American sense. Rather, it is all darkly spiritual. The greatest nation on earth is in the throes of a full-blown spiritual war between good and evil. The big question, then, is WHAT CAN BE DONE TO SAVE AMERICA? Fortunately, real answers and uncommon wisdom are showcased in the December issue of WND's critically acclaimed monthly Whistleblower magazine, [\"CAN AMERICA BE SAVED? The world's freest, most Christian nation is on the brink of destruction.\"](https://superstore.wnd.com/whistleblower/) Advertisement - story continues below In this very special issue, readers will experience the best and deepest thoughts and strategies on how to restore America to her former goodness and greatness, from some of the nation's most respected analysts – everyone from Tucker Carlson to Dennis Prager to Victor Davis Hanson to Newt Gingrich and many more. WHISTLEBLOWER is available in [both the popular print edition and a state-of-the-art digital version, either single issues or discounted annual subscriptions.](https://superstore.wnd.com/whistleblower/) For 25 years, WND has boldly brought you the news that really matters. If you appreciate our Christian journalists and their uniquely truthful reporting and analysis, [please help us by becoming a WND Insider!](https://www.wnd.com/join/?adm_source=header-m) Advertisement - story continues below [SUPPORT TRUTHFUL JOURNALISM. MAKE A DONATION TO THE NONPROFIT WND NEWS CENTER. THANK YOU!](https://wndnewscenter.nationbuilder.com/support_wnd_news_center)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "http://dailycallernewsfoundation.org",
+      "https://www.dailycaller.com/2023/12/18/pentagon-announces-task-force-combat-houthi-attacks-red-sea/",
+      "https://www.dailycaller.com/2023/12/22/iranian-forces-are-providing-intel-for-attacks-on-merchant-ships-in-red-sea-report/",
+      "https://dailycaller.com/2023/12/22/iranian-forces-are-providing-intel-for-attacks-on-merchant-ships-in-red-sea-report/",
+      "https://www.washingtonpost.com/business/2023/12/28/red-sea-attacks-shipping-houthis/",
+      "http://dailycallernewsfoundation.org/",
+      "https://www.washingtonpost.com/business/2023/12/28/red-sea-attacks-shipping-houthis",
+      "https://www.washingtonpost.com/world/2023/12/21/red-sea-shipping-houthi-suez/",
+      "https://dailycaller.com/2023/12/22/iranian-forces-are-providing-intel-for-attacks-on-merchant-ships-in-red-sea-report",
+      "https://dailycaller.com/2023/12/23/us-led-coalition-to-defend-shipping-against-houthi-attacks-doesnt-hold-water-experts-say",
+      "https://www.wndnewscenter.nationbuilder.com/support_wnd_news_center",
+      "https://wndnewscenter.nationbuilder.com/support_wnd_news_center",
+      "https://dailycaller.com/2023/12/23/us-led-coalition-to-defend-shipping-against-houthi-attacks-doesnt-hold-water-experts-say/",
+      "https://dailycaller.com/2023/12/18/pentagon-announces-task-force-combat-houthi-attacks-red-sea/",
+      "https://washingtonpost.com/world/2023/12/21/red-sea-shipping-houthi-suez/",
+      "https://washingtonpost.com/business/2023/12/28/red-sea-attacks-shipping-houthis/",
+      "https://www.dailycaller.com/2023/12/23/us-led-coalition-to-defend-shipping-against-houthi-attacks-doesnt-hold-water-experts-say/",
+      "http://www.dailycallernewsfoundation.org/",
+      "https://dailycaller.com/2023/12/18/pentagon-announces-task-force-combat-houthi-attacks-red-sea",
+      "https://www.washingtonpost.com/world/2023/12/21/red-sea-shipping-houthi-suez"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "houthis",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jake smith daily caller news foundation advertisement",
+          "sentiment": "negative"
+        },
+        {
+          "name": "washington post",
+          "sentiment": "none"
+        },
+        {
+          "name": "maersk",
+          "sentiment": "none"
+        },
+        {
+          "name": "post",
+          "sentiment": "none"
+        },
+        {
+          "name": "cosco",
+          "sentiment": "none"
+        },
+        {
+          "name": "cma cgm",
+          "sentiment": "none"
+        },
+        {
+          "name": "houthis",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "red sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "south africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "cape of good hope",
+          "sentiment": "none"
+        },
+        {
+          "name": "yemen",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:11:32.482+02:00",
+    "updated": "2023-12-29T12:03:25.594+02:00"
+  },
+  {
+    "uuid": "909032de43dee85b4106b5521404e5ffe5d9f9bd",
+    "url": "https://society.yunnan.cn/system/2025/03/13/033417427.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "www.yunnan.cn,云南日报报业集团,云南网",
+    "published": "2025-03-13T00:00:00Z",
+    "title": "太子山自然保护区开展植树节主题活动_社会热点_社会频道_云南网",
+    "text": "原标题：太子山自然保护区开展植树节主题活动\n中国甘肃网3月13日讯 据甘肃日报报道（新甘肃·甘肃日报记者王思璇 通讯员王燕玲）3月10日，甘肃太子山国家级自然保护区管护中心开展了以“履行植树义务，共建美丽甘肃”为主题的活动。\n活动现场，工作人员通过设置咨询台、摆放宣传展板、发放宣传资料等形式，向群众宣传义务植树的必要性，并科普相关生态保护知识。为鼓励大家共同参与到生态保护中，工作人员还开展了“我讲你听，我问你答”活动。\n甘肃太子山国家级自然保护区总面积达127万亩，生物多样性丰富，稀有性显著。近年来，随着保护力度的不断加大，生物多样性呈现稳步增长的良好态势，不仅稳定地发挥着森林调节气候、防风固沙、减碳贮养等生态功能，还为槐树关、大湾滩、药水、鸣鹿等水库提供了重要水源保障。\n“今年，预计完成陇中地区生态保护修复和水土流失综合治理项目建设任务6.44万亩，义务植树造林约240亩。”甘肃太子山国家级自然保护区管护中心生态工程管理科负责人马青荣介绍。近年来，太子山管护中心持续推进陇中地区生态保护修复和水土流失综合治理项目、国家级公益林建设等重点生态工程，有序实施人工造林、退化林修复、封山育林等任务，涉及8个基层单位，总面积达3.51万亩。在义务植树方面，累计栽植面积816亩，栽植苗木约12万株，成活率高达90%。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->endangered species",
+      "Environment->conservation",
+      "Environment->nature",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:48:55.464+02:00",
+    "updated": "2025-03-13T03:48:55.464+02:00"
+  },
+  {
+    "uuid": "4698a7dfeed3cb2d472011cb411a3ca1218a6a92",
+    "url": "https://www.nordbayern.de/ratgeber/technik/switch-2-paukenschlag-ich-hab-die-schnauze-voll-nintendo-fans-mussen-eine-dicke-krote-schlucken-1.14666901",
+    "ord_in_thread": 0,
+    "author": "johannes.gehrling@vnp.de (Johannes Gehrling)",
+    "published": "2025-05-01T04:05:00Z",
+    "title": "Switch 2-Paukenschlag: Ich hab' die Schnauze voll - Nintendo-Fans müssen eine dicke Kröte schlucken",
+    "text": "Meinung\nSwitch 2-Paukenschlag: Ich hab‘ die Schnauze voll - Nintendo-Fans müssen eine dicke Kröte schlucken\n01.05.2025, 06:05 Uhr Es könnte alles so schön sein. Nintendo veröffentlicht in wenigen Wochen die Switch 2, und wer bereit ist, deutlich tiefer in die Tasche zu greifen als bei der alten Switch, bekommt dafür auch deutlich mehr Konsole. Viele Kritikpunkte der alten Switch hat Nintendo bei der Switch 2 endlich beseitigt, also kann ich mich mit dem Preis von 470 Euro schon arrangieren. Und auch die 90 Euro für Mario Kart World nehme ich zähneknirschend in Kauf. Doch Nintendo wäre nicht Nintendo, wenn es nicht auch wieder ein paar dicke Kröten zu schlucken gäbe.\nBei der Switch 2 müssen Fans einige bittere Pillen schlucken\nNeben dem hohen Preis, vor allem für die Spiele, ist etwa das Display eine bittere Pille. Das ist zwar technisch ein riesiger Sprung nach vorn im Vergleich zur ursprünglichen Switch. Doch leider verbaut Nintendo nur LCD-Technik und verzichtet auf ein besonders farbenprächtiges OLED-Panel. Doch was soll's, es kommt ja vor allem auf gute Spiele an, und die scheinen mit Titeln wie Mario Kart World und Donkey Kong Bananza schon in den Startlöchern zu stehen. Und offenbar erfüllt die Mario-Firma den Nintendo-Fans mit der Switch 2 noch einen weiteren großen Wunsch, der die letzten acht Jahre nur auf taube Ohren gestoßen ist. Doch der Teufel steckt im Detail.\nDie Switch 2 soll bekommen, was sich Nintendo-Fans seit acht Jahren wünschen\nDenn laut aktuellen Gerüchten soll die Switch 2 endlich haben, was die alte Switch niemals bekommen hat: Themes, also verschiedene Designs für den Homescreen der Konsole. Bei der alten Switch gab's nur die Auswahl zwischen zwei gähnend langweiligen Varianten, nämlich schwarz und weiß. Bei der Switch 2 soll es deutlich spannender werden. Aber diese eigentlich freudige Nachricht ist mit einer Hiobsbotschaft verbunden.\nLaut den Gerüchten sollen die Themes nämlich nicht kostenlos sein. Angeblich braucht es entweder eine Mitgliedschaft bei Nintendo Switch Online, um die Designs für die Switch 2 freizuschalten. Oder aber Nintendo verlangt direkt im Switch 2 eShop Geld für die Themes. Also will Nintendo noch mehr Kohle von mir?\nSwitch-2-News direkt aufs Smartphone\nWer keine Neuigkeiten zur Switch 2 verpassen will, sollte unserem WhatsApp-Kanal zur neuen Nintendo-Konsole folgen. Einfach auf den Link klicken und kostenlos abonnieren.\nDie Nintendo Switch 2 ist ein teurer Spaß\nEinmal kurz zusammengerechnet: Die Grundausstattung aus Switch 2, Pro Controller, Mario Kart World und Tasche schlägt bereits mit rund 680 Euro zu Buche. Dann am besten noch Nintendo Switch Online abonnieren und jetzt will Nintendo offenbar, dass ich für eine Selbstverständlichkeit wie Themes noch mal extra bleche. Da kommt schnell ein stolzes Sümmchen zusammen - und die magische Marke von 1000 Euro ist schnell erreicht. Ist das die Switch 2 wirklich wert?\nDas wird sich erst zeigen müssen, wenn die neue Konsole einige Zeit auf dem Markt ist. Ich freue mich einerseits auf optisch ansprechende und abwechslungsreiche Designs auf dem Homescreen, das wäre wirklich ein großer Sprung nach vorn. Gleichzeitig habe ich aber die Schnauze gestrichen voll davon, dass Nintendo bei der Switch 2 offenbar jeden Anstand fallen lässt und Spielerinnen und Spieler finanziell bis aufs Äußerste strapaziert. Themes und Designs für die Switch 2 sollten kostenlose Goodies für treue Fans sein, und nicht aufgrund mutmaßlich fragwürdiger Entscheidungen eines Milliardenkonzerns schon vor dem Release der Konsole für Frust sorgen.\nVerwandte Themen\nKeine Kommentare\nUm selbst einen Kommentar abgeben zu können, müssen Sie sich einloggen;) oder sich vorher registrieren.\n0/1000 Zeichen",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->gaming and lottery",
+      "Lifestyle and Leisure->game",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029Vb7kdYQ8qJ02Dd2o8a0w",
+      "https://whatsapp.com/channel/0029Vb7kdYQ8qJ02Dd2o8a0w"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mario Kart World",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Nintendo",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:06:41.168+03:00",
+    "updated": "2025-05-01T04:14:43.000+00:00"
+  }
+]

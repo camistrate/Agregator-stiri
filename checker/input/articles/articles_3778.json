@@ -1,0 +1,255 @@
+[
+  {
+    "uuid": "fed14e6f5cbe80a09f03639d67d2a538bf976aef",
+    "url": "https://www.cbsnews.com/losangeles/news/lakers-guard-gabe-vincent-has-arthroscopic-knee-surgery-will-be-out-for-at-least-2-months/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS Los Angeles",
+    "published": "2023-12-27T23:36:00Z",
+    "title": "Lakers guard Gabe Vincent has arthroscopic knee surgery, will be out for at least 2 months - CBS Los Angeles",
+    "text": "Los Angeles Lakers guard Gabe Vincent will be out for at least two more months after undergoing arthroscopic surgery on his left knee.\nThe Lakers announced that Vincent had the surgery Wednesday. He will be re-evaluated by team doctors in eight weeks.\nVincent has appeared in only five games since signing with the Lakers in the offseason to be their backup point guard. He played in the Lakers' first four games of the season in October, but then missed 23 straight with knee pain.\nHe returned to play 14 minutes against Chicago on Dec. 20, but was quickly shut down again.\nVincent spent his first four NBA seasons with the Miami Heat, scoring a career-high 9.4 points per game last season with 2.5 assists and 33.4% shooting on 3-pointers.\nThe Lakers have struggled for a consistent rotation at guard due to Vincent's absence, D'Angelo Russell's inconsistency and Max Christie's unimpressive play. They've been forced to try several new rotations and to put the ball in LeBron James' hands as their primary playmaker more frequently.\nLos Angeles has lost six of eight since winning the inaugural NBA In-Season Tournament. The Lakers host Charlotte on Thursday night.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [
+      "https://embed.sendtonews.com/amp/?fk=LBlSFmmx&cid=5121",
+      "https://www.embed.sendtonews.com/amp/?fk=LBlSFmmx&cid=5121",
+      "https://embed.sendtonews.com/amp/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gabe vincent",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vincent",
+          "sentiment": "none"
+        },
+        {
+          "name": "lebron james",
+          "sentiment": "none"
+        },
+        {
+          "name": "d'angelo russell",
+          "sentiment": "none"
+        },
+        {
+          "name": "max christie",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lakers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cbs los angeles los angeles lakers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nba",
+          "sentiment": "none"
+        },
+        {
+          "name": "miami heat",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chicago",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:23:18.760+02:00",
+    "updated": "2023-12-29T01:23:18.760+02:00"
+  },
+  {
+    "uuid": "24cc23525e1bad8d6841259565261ed1c92f688c",
+    "url": "https://www.rte.ie/news/business/2025/0327/1504344-british-steel-to-cut-2-700-jobs",
+    "ord_in_thread": 0,
+    "author": "@rtenews",
+    "published": "2025-03-27T11:25:00Z",
+    "title": "British Steel warns of 2,700 job losses",
+    "text": "China-owned British Steel said it could close its two blast furnaces as soon as June with the potential loss of up to 2,700 jobs, as US tariffs and environmental costs threaten to damage its already struggling operations.\nBritish Steel, owned by China's Jingye Group, has warned for years that steel-making in Scunthorpe, north east England, is loss making.\nIt said today that it would consult over the closure of its blast furnaces and other related operations.\n\"The blast furnaces and steelmaking operations are no longer financially sustainable due to highly challenging market conditions, the imposition of tariffs, and higher environmental costs relating to the production of high-carbon steel,\" British Steel said in a statement today.\nUS President Donald Trump imposed global tariffs of 25% on all imports of steel on March 12, dealing another blow to British Steel, which said its Scunthorpe operations are losing £700,000 daily.\nBritain's steel exports to the US are worth over £400m a year, or about 5% of UK steel exports, according to industry body UK Steel.\nBritish Steel, which has been making steel since 1890, said it was beginning consultations with unions and the proposed closures could impact between 2,000 and 2,700 jobs - subject to consultations - with June the earliest possible date for closure.\nThe company has been in talks with the UK government for months over a funding package to help it replace the blast furnaces with electric arc furnaces, a greener type of steel production, but the two sides have not reached an agreement.\n\"We made an offer to British Steel on Monday and they have rejected that offer. We are still in talks with them at the moment,\" Sarah Jones, a minister in the Department for Business and Trade said yesterday.\nBritish Steel said it would continue working with the UK government to explore options for the business.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->layoffs",
+      "Labor->employer",
+      "Labor->labour market",
+      "Labor->unemployment",
+      "Social Issue->social problem",
+      "Social Issue->poverty",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T14:00:38.742+02:00",
+    "updated": "2025-03-27T14:00:38.742+02:00"
+  },
+  {
+    "uuid": "a23a65785b88c36288c2cb2c05ac3b93462b79ba",
+    "url": "https://www.newsbreak.com/knx-1070-news-radio-560915/3723289666050-uncontrollable-projectile-vomiting-dozens-sickened-by-oysters-at-l-a-times-event",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-12-19T23:29:00Z",
+    "title": "‘Uncontrollable projectile vomiting’— Dozens sickened by oysters at L.A. Times event",
+    "text": "By Knx News 97 1 Fm ,\n2 hours ago\nA food event in Hollywood turned into a nightmare for several dozen people who got sick after eating raw oysters.\nThe Los Angeles Times 101 Best Restaurants event at the Hollywood Palladium showcased food from a selection of high-end eateries – including Providence, a double Michelin star seafood restaurant that was serving up raw oysters.\nWant to get caught up on what's happening in SoCal every weekday afternoon? Click to follow The L.A. Local wherever you get podcasts.\nWithout naming the event directly, a spokesperson for the L.A. County Public Health Department said that over 70 people fell ill after eating oysters at an event on Dec. 3, the night of the L.A. Times party.\nAmong them was Javier Cabral, editor-in-chief of LA TACO, which first broke the story.\n“I've been really proud of my stomach of steel, which is why I choose to do this career,” Cabral told KNX News. “I was a little scared, if I'm being honest. You know, I remember trying to stand up and I would lose my equilibrium. It was that crazy. It was just uncontrollable projectile vomiting for like nonstop for 24 hours.”\nThe county and state health departments both recently warned about a norovirus outbreak associated with oysters harvested from Canada, which were sold at restaurants and venues all over California.\nNorovirus can be killed by cooking oysters to 145 degrees.But raw oysters can readily be contaminated with the virus, which can cause symptoms including vomiting, diarrhea, nausea, and stomach cramps.\nFollow KNX News 97.1 FM\nTwitter | Facebook | Instagram | TikTok",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->communicable disease",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7121806_2024-12-19-224006&withPlaylist=false",
+      "https://www.facebook.com/knxnews",
+      "https://www.instagram.com/knxnews",
+      "https://twitter.com/KNXnews",
+      "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7121983_2024-12-20-001723&withPlaylist=false&theme=dark",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3WgJO7_0xYfvHR300",
+      "https://lataco.com/la-times-101-restaurants-illness-oysters",
+      "https://img.particlenews.com/image.php?url=3WgJO7_0xYfvHR300",
+      "https://link.chtbl.com/fHPneL-D",
+      "https://www.tiktok.com/@knxnews",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3WgJO7_0xYfvHR300",
+      "https://facebook.com/knxnews",
+      "https://www.lataco.com/la-times-101-restaurants-illness-oysters",
+      "https://instagram.com/knxnews",
+      "https://www.img.particlenews.com/image.php?url=3WgJO7_0xYfvHR300",
+      "https://player.amperwavepodcasting.com",
+      "https://tiktok.com/@knxnews",
+      "https://img.particlenews.com/image.php",
+      "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7121983_2024-12-20-001723&withPlaylist=false&theme=dark",
+      "https://www.link.chtbl.com/fHPneL-D",
+      "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7121806_2024-12-19-224006&withPlaylist=false",
+      "https://www.twitter.com/KNXnews"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Javier Cabral",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "L.A. Times",
+          "sentiment": "negative"
+        },
+        {
+          "name": "KNX News",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "L.A. County Public Health Department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Palladium",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:07:59.841+02:00",
+    "updated": "2024-12-20T04:07:59.841+02:00"
+  },
+  {
+    "uuid": "9145615d7d919ac999eb307edff5d1c6a5cf922e",
+    "url": "https://news.jrn.msu.edu/2024/09/restaurant-owners-brace-for-impact-when-wages-for-tipped-workers-change",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Capital News Service",
+    "published": "2024-09-13T16:15:00Z",
+    "title": "Restaurant owners brace for impact when wages for tipped workers change - Spartan Newsroom",
+    "text": "By GABRIEL S. MARTINEZ Capital News Service LANSING – Michigan restaurateurs have growing concerns about how the state minimum wage and overtime law will change tipped employee’s pay scheme when the current system is officially phased out on Feb. 21, 2029. The tip credit system is how most restaurants traditionally relied on paying servers and bartenders by using tips in calculating their earnings. That meant those tipped workers earned more than the minimum wage of $3.93 per hour. Under the new legislation, the changes are dictated by the rate of inflation beginning on Feb. 21, 2025, according to the Michigan Restaurant and Lodging Association. That includes an increase in the base rate for tipped employees to $5.95 an hour. The ultimate goal is to phase out tips credits by 2029. Brian Calley, the president and CEO of the Small Business Association of Michigan, says the business model on how restaurants operate will be dramatically changed. “Restaurant owners are concerned with the viability of remaining in business when those changes happen,” said Calley. “The first strategy is to ask legislators to maintain some form of tipped credit, and not require every sit-down restaurant to scrap its whole business model and essentially start over,” he said. Melissa Krause, a manager and server at Bubba’s restaurant in Traverse City, said she understands why the legislation is in place but doesn’t agree with it. “We don’t like it,” Krause said. “ We have people here that rely on those tips to beat the minimum wage.” Ali Alkasti, the owner and head cook of Sahara Delight in Lansing, said he worries about the amount of work hours it will take to comply. “It’s really tough in downtown Lansing. Here I come in at 6 a.m. and have to leave at 7 p.m.,” said Alkasti. “I work seven days a week just to keep it running.” “Everything is so expensive. I really hope (legislators) do something,” he said. According to the National Restaurant Association, eliminating the tip credit would force restaurant operators to raise prices and reduce the hours employees can work or cut jobs entirely. Some restaurant customers don’t sound concerned about the potential hike in menu prices. Among them is Sara Claybaugh, a patron of Kelly’s Irish Pub in Lansing, who said she thinks it’s part of the cost of doing business. “I’m all right with paying higher prices,” Claybaugh said. “I think it’s important to support our small businesses, even if their services might be more expensive.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "9145615d7d919ac999eb307edff5d1c6a5cf922e"
+    },
+    "rating": null,
+    "crawled": "2024-09-13T21:07:19.581+03:00",
+    "updated": "2024-09-13T21:07:19.581+03:00"
+  }
+]

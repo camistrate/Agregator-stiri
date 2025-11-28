@@ -1,0 +1,550 @@
+[
+  {
+    "uuid": "9c75913a4c8842715cb00a1115d13fd1a99eb2bd",
+    "url": "https://today.rtl.lu/news/fact-check/a/2250667.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-11-15T06:42:00Z",
+    "title": "RTL Today - Fact Check: Elon Musk's Starlink falsely accused of rigging US election",
+    "text": "Left-leaning social media users are claiming Elon Musk, the billionaire Telsa and SpaceX CEO turned top Donald Trump surrogate, used his Starlink internet service provider to manipulate the vote count in the 2024 presidential election in the Republican's favor. But such allegations are unfounded; independent experts, voting systems companies and election officials from multiple swing states told AFP the machines used to tabulate ballots are not connected to Starlink -- or the internet more broadly.\n\" Elon Musk used Starlink to hack our elections so he can have nice things while inflicting pain on Americans. Are we really going to turn a blind eye to what happened and let the worst people among us run the country,\" says a November 10, 2024 post on X.\nThe post includes a snippet from a local news segment mentioning Starlink -- the satellite-based internet service operated by SpaceX -- in reference to California's Tulare County, where President-elect Trump won approximately 60 percent of the vote.\n© AFP\nThe earliest post suggesting Musk used Starlink to rig the results came on Election Night, according to NewsGuard , an organization that monitors misinformation.\nThe claims accelerated in the week that followed Trump's victory over Democratic Vice President Kamala Harris, spreading across X and other platforms , such as Threads . In one widely shared video , a woman claims California and several critical swing states used Starlink \"to tally up and to count ballot votes.\"\nThe allegations echo conspiracy theories about Italian satellites allegedly switching votes in the 2020 election, which officials in Trump's first administration entertained and explored after his loss to President Joe Biden.\nMusk , who also owns X, endorsed Trump in July and reportedly spent over $100 million to boost his campaign. On November 12, Trump named him alongside entrepreneur Vivek Ramaswamy to lead a new \"Department of Government Efficiency\" aimed at overhauling the US government.\nBut online claims that his Starlink satellites tilted the election to Trump are baseless.\n\"I don't know precisely what they think the mechanism is that could have Starlink interfere with the tabulation of votes, but that would be impossible,\" said Charles Stewart , an elections systems expert at the Massachusetts Institute of Technology (archived here ). \"The machines aren't connected to the internet.\"\nDavid Becker , founder and executive director of the Center for Election Innovation & Research, agreed that an election-changing hack carried out through Starlink would not be possible (archived here ).\n\"We have nearly 10,000 different election jurisdictions, with a large variety of voting machines that are not connected to the internet during voting,\" Becker said, adding that approximately 97 percent of all US voters made their selections on paper ballots that can be recounted and hand-audited to ensure the machines' accuracy (archived here ).\n\"If anyone tried to interfere with the machines to rig the election, it would be discovered through multiple means,\" he said. \"This, quite simply, did not happen, and could not happen.\"\nJen Easterly, director of the Cybersecurity and Infrastructure Security Agency, said in a November 6 statement that there was \"no evidence of any malicious activity that had a material impact on the security or integrity of our election infrastructure\" (archived here ).\nSwing states\n© AFP\nElections websites for each of the pivotal swing states of Arizona , Georgia , Michigan , Nevada , North Carolina , Pennsylvania and Wisconsin say the machines their jurisdictions use to mark and tabulate ballots are not connected to the internet (archived here , here , here , here , here , here and here ).\nOfficials from Georgia, North Carolina, Pennsylvania and Wisconsin further confirmed to AFP that they do not use Starlink's satellite-based internet services.\n\"I've described this particular conspiracy as 100 percent bunk, because it is,\" said Mike Hassinger, a spokesman for Georgia's secretary of state. \"We don't use Starlink and never have.\"\nThe state's equipment is air-gapped, meaning it is isolated from external networks, Hassinger said, and there is no evidence of any fraud that affected the result.\nPatrick Gannon, public information director for the North Carolina State Board of Elections, said his state also has \"no evidence of any alteration of votes by anyone.\"\nWhile each state manages its election infrastructure, federal agencies and experts have for several years recommended that voting machines be isolated from the internet to protect against external threats.\nSome states have in the past used modems to help report unofficial results after polls have closed , said Genya Coulter, a senior elections analyst at the nonprofit OSET Institute . And in scattered cases, counties have relied on internet connections to speed up their electronic poll books , which are used to check in voters and ensure people are not voting more than once.\nBut electronic poll books are different from the machines used to record or tally votes, Coulter told AFP.\n\"Poll books are not tabulators,\" she said. \"The vast majority of, if not all, ballot marking devices and tabulators are not connected to the internet by any means -- whether WiFi, mobile, or Starlink Satellites. Full stop.\"\nAaron Thacker, a spokesman for the Arizona secretary of state, told AFP the state's Coconino, Apache and Navajo counties used Starlink systems as part of a pilot program \"to support electronic pollbook synchronization.\"\nHe said these pollbooks did not collect or count votes. Arizona's elections systems are also air-gapped .\nTulare County Another jurisdiction that employed Starlink to support its elections infrastructure was California's Tulare County.\n© AFP\nSeveral posts claiming Musk's technologies were used to rig the election cited a local TV news segment in which a reporter told viewers that Michelle Baldwin, the county's registrar of voters, said \"access to connectivity was improved this year thanks to Starlink satellite internet\" (archived here ).\nBut in a statement to AFP, Baldwin said those details needed clarification.\nIn California, it is illegal for any part of the voting system to establish an internet connection (archived here ).\n\"To ensure a reliable and stable connection for voter check-in, we utilized Starlink to enhance our internet connection,\" Baldwin said. \"However, I want to emphasize that this connection is strictly for voter check-in purposes only and in no way a part of our voting system.\"\nBaldwin explained that their system is air-gapped and that once votes all votes are tabulated, the results are compiled into electronic files that are securely transferred to the California secretary of state's server.\nStephanie Hill, the county's systems and procedures analyst, provided AFP with a matching statement.\nRepresentatives from Dominion Voting Systems , Election Systems & Software and Hart Intercivic -- three major companies that make election technologies -- also told AFP their systems do not link to the internet.\n\"Hart has no relationship with Starlink in any way and no Hart voting system can connect to Starlink,\" a Hart spokesperson said.\nCoulter, the OSET Institute expert, noted that Starlink satellites have been deployed for years -- including during other elections, such as the 2022 midterms -- without sparking warnings or concerns.\n\"It's a highly convenient scapegoat,\" she said.\nAFP contacted Starlink for comment, but no response was forthcoming.\nAFP has debunked other misinformation about the election here .\n<div",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.pa.gov/en/agencies/vote/elections/election-security.html#accordion-68c89328b6-item-7acca8850d",
+      "https://perma.cc/VV6E-SA73",
+      "https://perma.cc/9D29-JS8A",
+      "https://tularecoelections.org/elections/registrar-of-voters/current-election-information/november-5-2024-presidential-general-election/election-results-reports/post-election-day-results-reports/second-post-election-night-results-report-pdf/",
+      "https://www.axios.com/2022/06/23/miller-defense-department-italy-trump-election",
+      "https://www.linkedin.com/sharing/share-offsite/?url=https://today.rtl.lu/news/fact-check/a/2250667.html",
+      "https://www.osetinstitute.org/",
+      "https://abcnews.go.com/Politics/election-infrastructure-secure-cisa-chief/story?id=115363983",
+      "https://web.archive.org/save/https://sos.ga.gov/page/elections-faq#Election%20Security",
+      "https://www.eac.gov/sites/default/files/electionofficials/security/Voting_System_Security_Measures_508_EAC.pdf",
+      "https://abc30.com/post/tulare-county-sees-larger-voter-turnout-during-2024-presidential-election/15519472/",
+      "https://perma.cc/ZV6F-GWVK",
+      "https://www.sos.ca.gov/elections/ovsta/security",
+      "https://perma.cc/FY8D-ZPFB",
+      "https://perma.cc/TFZ6-YM7R",
+      "https://www.washingtonpost.com/politics/2021/06/15/pure-insanity-heres-perhaps-craziest-election-fraud-conspiracy-trump-team-pushed/",
+      "https://polisci.mit.edu/people/charles-stewart-iii",
+      "https://www.starlink.com/satellite-operators",
+      "https://www.nbcnews.com/news/amp/ncna1112436",
+      "https://www.hartintercivic.com/faq/",
+      "https://perma.cc/SS6N-MV68",
+      "https://www.facebook.com/sharer/sharer.php?u=https://today.rtl.lu/news/fact-check/a/2250667.html",
+      "https://www.newsguardtech.com/special-reports/2024-elections-misinformation-tracker/",
+      "https://perma.cc/65MF-Z6G5",
+      "https://perma.cc/J6WW-BWVA",
+      "https://www.nvsos.gov/sos/elections/election-resources/voting-system/voting-system-testing-and-security",
+      "https://www.michigan.gov/sos/-/media/Project/Websites/sos/sos/Security_best_practices_693420_7.pdf",
+      "https://perma.cc/9BTZ-69ZT",
+      "https://perma.cc/KRJ9-8NQL",
+      "https://perma.cc/X8HA-XWHW",
+      "https://sos.ga.gov/page/elections-faq#Election%20Security",
+      "https://perma.cc/E5ZG-66FZ",
+      "https://vault.factcheckinsights.org/media/468edba8-b4d4-433e-855b-27a69232bdac",
+      "https://www.cisa.gov/news-events/news/statement-cisa-director-easterly-security-2024-elections",
+      "https://www.ncsbe.gov/about-elections/election-security/10-facts-about-election-security-north-carolina",
+      "https://elections.wi.gov/resources/quick-reference-topics/are-wisconsins-electronic-poll-books-connected-internet",
+      "https://perma.cc/RUK7-R7XQ",
+      "https://perma.cc/XF54-BA4P",
+      "https://perma.cc/PRY7-QNVL",
+      "https://www.barrons.com/news/elon-musk-rocket-man-takes-aim-at-washington-62aa4021",
+      "https://www.rfi.fr/en/international-news/20241113-first-buddy-musk-takes-unusual-star-role-with-trump",
+      "https://www.essvote.com/faqs/",
+      "https://perma.cc/T9WQ-MHTU",
+      "https://archive.is/v6pNj",
+      "https://perma.cc/UL5E-DMQM",
+      "https://perma.cc/GR8A-AUN5",
+      "https://perma.cc/2USY-GSLT",
+      "https://electioninnovation.org/team/david-becker/",
+      "https://belux.edmo.eu/",
+      "https://perma.cc/RCS4-L27H",
+      "https://www.eac.gov/estep-program/electronic-poll-books",
+      "https://perma.cc/4SEE-SD2E",
+      "https://www.twitter.com/intent/tweet?status=RTLToday.lu:%20https://today.rtl.lu/news/fact-check/a/2250667.html%20via%20@rtl_today",
+      "https://www.dominionvoting.com/setting-the-record-straight/",
+      "https://www.arizona.vote/secure_elections",
+      "https://www.perma.cc/X8HA-XWHW",
+      "https://www.essvote.com/faqs",
+      "https://pa.gov/en/agencies/vote/elections/election-security.html#accordion-68c89328b6-item-7acca8850d",
+      "https://linkedin.com/sharing/share-offsite/?url=https://today.rtl.lu/news/fact-check/a/2250667.html",
+      "https://facebook.com/sharer/sharer.php?u=https://today.rtl.lu/news/fact-check/a/2250667.html",
+      "https://sos.ca.gov/elections/ovsta/security",
+      "https://www.perma.cc/T9WQ-MHTU",
+      "https://www.perma.cc/XF54-BA4P",
+      "https://www.perma.cc/VV6E-SA73",
+      "https://axios.com/2022/06/23/miller-defense-department-italy-trump-election",
+      "https://abcnews.go.com/Politics/election-infrastructure-secure-cisa-chief/story",
+      "https://hartintercivic.com/faq/",
+      "https://www.perma.cc/ZV6F-GWVK",
+      "https://michigan.gov/sos/-/media/Project/Websites/sos/sos/Security_best_practices_693420_7.pdf",
+      "https://eac.gov/estep-program/electronic-poll-books",
+      "https://tularecoelections.org/elections/registrar-of-voters/current-election-information/november-5-2024-presidential-general-election/election-results-reports/post-election-day-results-reports/second-post-election-night-results-report-pdf",
+      "https://www.perma.cc/UL5E-DMQM",
+      "https://cisa.gov/news-events/news/statement-cisa-director-easterly-security-2024-elections",
+      "https://essvote.com/faqs/",
+      "https://rfi.fr/en/international-news/20241113-first-buddy-musk-takes-unusual-star-role-with-trump",
+      "https://abc30.com/post/tulare-county-sees-larger-voter-turnout-during-2024-presidential-election/15519472",
+      "https://www.perma.cc/FY8D-ZPFB",
+      "https://www.osetinstitute.org",
+      "https://www.perma.cc/9BTZ-69ZT",
+      "https://newsguardtech.com/special-reports/2024-elections-misinformation-tracker/",
+      "https://electioninnovation.org/team/david-becker",
+      "https://www.perma.cc/65MF-Z6G5",
+      "https://www.web.archive.org/save/https://www.sos.ga.gov/page/elections-faq#Election%20Security",
+      "https://www.tularecoelections.org/elections/registrar-of-voters/current-election-information/november-5-2024-presidential-general-election/election-results-reports/post-election-day-results-reports/second-post-election-night-results-report-pdf/",
+      "https://www.linkedin.com/sharing/share-offsite/",
+      "https://www.archive.is/v6pNj",
+      "https://www.newsguardtech.com/special-reports/2024-elections-misinformation-tracker",
+      "https://nvsos.gov/sos/elections/election-resources/voting-system/voting-system-testing-and-security",
+      "https://www.vault.factcheckinsights.org/media/468edba8-b4d4-433e-855b-27a69232bdac",
+      "https://www.electioninnovation.org/team/david-becker/",
+      "https://www.washingtonpost.com/politics/2021/06/15/pure-insanity-heres-perhaps-craziest-election-fraud-conspiracy-trump-team-pushed",
+      "https://www.perma.cc/GR8A-AUN5",
+      "https://ncsbe.gov/about-elections/election-security/10-facts-about-election-security-north-carolina",
+      "https://www.abc30.com/post/tulare-county-sees-larger-voter-turnout-during-2024-presidential-election/15519472/",
+      "https://www.perma.cc/RUK7-R7XQ",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.perma.cc/PRY7-QNVL",
+      "https://osetinstitute.org/",
+      "https://arizona.vote/secure_elections",
+      "https://twitter.com/intent/tweet?status=RTLToday.lu:%20https://today.rtl.lu/news/fact-check/a/2250667.html%20via%20@rtl_today",
+      "https://www.dominionvoting.com/setting-the-record-straight",
+      "https://www.perma.cc/SS6N-MV68",
+      "https://barrons.com/news/elon-musk-rocket-man-takes-aim-at-washington-62aa4021",
+      "https://eac.gov/sites/default/files/electionofficials/security/Voting_System_Security_Measures_508_EAC.pdf",
+      "https://www.abcnews.go.com/Politics/election-infrastructure-secure-cisa-chief/story?id=115363983",
+      "https://washingtonpost.com/politics/2021/06/15/pure-insanity-heres-perhaps-craziest-election-fraud-conspiracy-trump-team-pushed/",
+      "https://belux.edmo.eu",
+      "https://www.belux.edmo.eu/",
+      "https://www.perma.cc/E5ZG-66FZ",
+      "https://www.polisci.mit.edu/people/charles-stewart-iii",
+      "https://www.hartintercivic.com/faq",
+      "https://www.perma.cc/KRJ9-8NQL",
+      "https://www.perma.cc/RCS4-L27H",
+      "https://nbcnews.com/news/amp/ncna1112436",
+      "https://dominionvoting.com/setting-the-record-straight/",
+      "https://www.twitter.com/intent/tweet",
+      "https://www.elections.wi.gov/resources/quick-reference-topics/are-wisconsins-electronic-poll-books-connected-internet",
+      "https://www.perma.cc/J6WW-BWVA",
+      "https://www.perma.cc/2USY-GSLT",
+      "https://www.perma.cc/4SEE-SD2E",
+      "https://www.sos.ga.gov/page/elections-faq#Election%20Security",
+      "https://www.perma.cc/TFZ6-YM7R",
+      "https://starlink.com/satellite-operators",
+      "https://www.perma.cc/9D29-JS8A"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Starlink",
+          "sentiment": "negative"
+        },
+        {
+          "name": "SpaceX",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T08:58:35.095+02:00",
+    "updated": "2024-11-15T10:15:26.740+02:00"
+  },
+  {
+    "uuid": "d703a156dbb6e39288938566755af29c773fc990",
+    "url": "https://catholicvote.org/chinese-communist-authorities-increase-catholic-bishops-penalties-for-celebrating-mass",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hannah Hiester",
+    "published": "2025-02-17T18:10:00Z",
+    "title": "Chinese Communist authorities increase Catholic bishop's penalties for celebrating Mass",
+    "text": "Published by Hannah Hiester at February 17, 2025 LifeSiteNews / X\nCV NEWS FEED // A Chinese Catholic bishop has been punished by the government for celebrating Mass in public without federal authorization. His penalties include a fine for the U.S. equivalent of $27,500 and the demolition of his residence and the chapel where he celebrated Mass.\nAsiaNews reported that Bishop Peter Shao Zhumin of Wenzhou is not officially recognized by the Chinese Communist Party. Catholics in China currently have a complicated relationship with the Vatican and the federal government under the Vatican-China Provisional Agreement.\nAs CatholicVote previously reported , the agreement stipulates that bishops in China must be approved by both the Vatican and Chinese authorities. The agreement was first made in 2018, and bishops had previously been appointed by the government without the Vatican’s endorsement.\nAccording to AsiaNews, Bishop Shao was appointed coadjutor bishop of Wenzhou by papal mandate in 2011 by Pope Benedict XVI. The outlet reported that “he was never recognised by the authorities who consider the see ‘vacant’ and support Fr Ma Xianshi, a ‘patriotic’ priest, as the leader of the local Catholic community.”\nBishop Shao has continued to celebrate Mass for Catholics, often being arrested for doing so. The fine and threat of destruction of his chapel and home come after a Dec. 27 Mass he offered with 200 faithful in attendance. The government claims that his actions violated an article under the Religious Affairs Regulations as well as an article under the Urban Planning Law.\n“So, after arresting him several times, now Zhejiang provincial authorities are using administrative tools against the underground bishop,” AsiaNews reported.\nBishop Shao has also defied the Chinese authorities on other occasions, including in a Christmas 2024 letter to Christian faithful in which he exhorted them to participate in the 2025 Jubilee of Hope.\n“I hope that this Jubilee will strengthen our faith, stimulate our hope, and make us grow in charity. For hope is born of love and ‘does not disappoint’ ( Romans 5:5),” he wrote, according to AsiaNews. The outlet added that the letter constituted “unacceptable words to Chinese authorities, if said without first submitting to the rigid control of the Party.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Religion and Belief->religious conflict",
+      "Religion and Belief->relations between religion and government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.asianews.it/news-en/Wenzhou:-fine-and-demolition-order,-the-new-weapons-against-Bishop-Shao-62500.html",
+      "https://asianews.it/news-en/Wenzhou:-fine-and-demolition-order,-the-new-weapons-against-Bishop-Shao-62500.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Peter Shao Zhumin",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bishop Shao",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ma Xianshi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Chinese Communist Party",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Vatican",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-18T02:37:09.787+02:00",
+    "updated": "2025-02-18T06:38:41.891+02:00"
+  },
+  {
+    "uuid": "3c4ac69f5dab517efad29ea75dd678bca25988a2",
+    "url": "https://6abc.com/nikki-haley-civil-war-comments-slavery/14235022/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABCNews",
+    "published": "2023-12-28T21:32:00Z",
+    "title": "Nikki Haley expands on Civil War comment after she did not cite slavery as a cause for the war",
+    "text": "The questioner told Haley it was \"astonishing\" she gave an answer that did not mention slavery.\nRepublican presidential candidate Nikki Haley on Thursday addressed the backlash to her\n[Wednesday night comments](/nikki-haley-doesnt-cite-slavery-as-civil-war-cause-after-question-/14233575/) about what she thought was the cause of the American Civil War, during which she notably did not cite slavery as a cause, sparking criticism.\n\"Of course, the Civil War was about slavery,\" said Haley at a Thursday town hall in New Hampshire. \"We know that. That's unquestioned. Always the case. We know the Civil War was about slavery.\"\nHaley continued to elaborate, telling the crowd that the war was about more than that.\n\"It was about the freedoms of every individual,\" she said. \"It was about the role of the government. For 80 years, America had the decision and the moral question of whether slavery was a good thing and whether government economically, culturally, any other reasons, had a role to play in. By the grace of God, we did the right thing and slavery is no more. But the lessons of what the bigger issue with the Civil War is that let's not forget what came out of that, which is government's role, individual liberties, freedom for every single person, freedom of speech, freedom of religion, freedom to do and be anything you want to be without anyone in government getting in our way.\"\nHaley said that she believes everyone deserves to be a free individual\nHer comments were prompted by an\n[audience question](nikki-haley-doesnt-cite-slavery-as-civil-war-cause-after-question-/14233575/) about what Haley thought the war was about.\nThe Republican candidate first turned the question around on the person who posed it.\n\"What do you think the cause of the Civil War was?\" she asked, to which the questioner responded by saying, \"I'm not running for president.\"\nHaley then stated: \"I think it always comes down to the role of government and what the rights of the people are. And we will always stand by the fact that I think the government was intended to secure the rights and freedoms of the people,\" Haley said. \"It was never meant to be all things to all people. Government doesn't need to tell you how to live your life. They don't need to tell you what you can and can't do. They don't need to be a part of your life. They need to make sure that you have freedom.\"\nThe questioner told Haley it was \"astonishing\" she gave an answer that did not mention slavery.\n\"What do you want me to say about slavery?\" she responded before pivoting and asking for the next question.\nIn a radio interview with The Pulse of NH on Thursday, she claimed the questioner was \"definitely a Democrat plant.\"\n\"That's why I said: 'What does it mean to you?' And if you notice, he didn't answer anything,\" she said.\nCritics accused Haley of refusing to mention slavery, saying her description of the Civil War is whitewashing U.S. history.\n\"Haley's refusal to admit that the Civil War was rooted in slavery last night in Berlin is just the latest of her shameful attempts to whitewash our country's history,\" said New Hampshire Democratic Party Chair Ray Buckley. \"From defending the Confederate flag and leaders to equating Black History Month with Confederate History Month, Haley's record bowing to the extreme fringes of the MAGA base speaks volumes and is yet another reason why New Hampshire voters will reject her next year.\"\nPresident Joe Biden responded to Haley's comments on X, formerly known as Twitter, stating simply: \"It was about slavery.\"\nA senior Biden adviser expanded on the comment to ABC News.\n\"It doesn't take a PhD to understand that slavery was the central cause of the civil war, but instead of telling it like it is, the entire MAGA field from Donald Trump on down are pandering to the most extreme fringe of their base. Minimize slavery, paraphrase HITLER, punish women and doctors - quite the record heading into the general election that will be the most diverse in history,\" the adviser said.\nAs a former South Carolina governor, Haley has long been under scrutiny for her views of the Confederacy's place in American history.\nOn the campaign trail, she has repeatedly invoked the memory of her 2015 calls for the removal of the Confederate flag from the South Carolina State House grounds. The call followed a racially motivated mass shooting at a Charleston church that left nine Black people dead.\n\"For many people in our state, the flag stands for traditions that are noble: traditions of history, of heritage, of ancestry,\" said Haley in a speech calling for its removal. She later continued, \"At the same time, for many others in South Carolina, the flag is a deeply offensive symbol of a brutally oppressive past.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "haley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nikki haley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "repu",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "new hampshire",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:55.294+02:00",
+    "updated": "2023-12-29T00:01:55.294+02:00"
+  },
+  {
+    "uuid": "27c9b6c569a7470cc0f13a8c9cd80c86e4d23fa3",
+    "url": "https://bizwest.com/2024/11/07/edgewise-boosts-rd-spending-with-drug-trials-underway",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucas High",
+    "published": "2024-11-07T21:33:00Z",
+    "title": "Edgewise boosts R&D spending with drug trials underway",
+    "text": "BOULDER — Edgewise Therapeutics Inc. (Nasdaq: EWTX), a Boulder-based muscle disease biopharmaceutical company, increased its research and development spending slightly in the third quarter of 2024 from the preceding quarter as key drug trials are underway.\n“We continue to make strong progress on our cardiac and skeletal muscle programs,” Edgewise CEO Kevin Koch said in a prepared statement. “We look forward to sharing important updates (on several drug trial) programs over the coming months.”\nResearch and development expenses were $32.2 million for the third quarter of 2024, compared with $30.7 million in the second quarter of the year. The increase was driven largely by increased spending on drug manufacturing\nEdgewise posted a net loss of $34.1 million in the most-recent period, compared with a net loss of $31.5 million for the immediately preceding quarter.\nThe company had $492.5 million in cash, cash equivalents and marketable securities at the end of the third quarter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:22:41.612+02:00",
+    "updated": "2024-11-08T01:38:24.224+02:00"
+  },
+  {
+    "uuid": "abada10f46a0308b1a6f5626434844cb134a374b",
+    "url": "https://einvestidor.estadao.com.br/comportamento/pepecoin-cotacao-quinta-feira-21",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Raphael Leites",
+    "published": "2024-11-21T15:19:00Z",
+    "title": "O que est\\u00e1 acontecendo com o PepeCoin hoje?",
+    "text": "Nesta quinta-feira (21) a criptomoeda PepeCoin ([PEPE](https://einvestidor.estadao.com.br/tag/pepe/)) está em queda de 8,73%, negociada a US$ 3,68. Lançada em meados de abril de 2023, a Pepecoin é um exemplo de [memecoin](https://einvestidor.estadao.com.br/tag/memecoins/), embora seja de uma variedade diferente dos tokens frequentemente populares, como [Dogecoin (DOGE)](https://einvestidor.estadao.com.br/radar-einvestidor/dogecoin-moeda-cresceu-ultimos-dias/) ou [Shiba Inu (SHIB)](https://einvestidor.estadao.com.br/investimentos/shiba-inu-dispara/).\nLeia também\nO recente salto de preço da PEPE é atribuído principalmente à sua listagem em plataformas de peso no setor de criptomoedas.\nNo dia 13 de novembro, a corretora Robinhood Crypto anunciou a inclusão da PepeCoin para seus clientes dos [Estados Unidos](https://einvestidor.estadao.com.br/tag/estados-unidos), ao lado de criptomoedas como Solana, Cardano e XRP.\nPublicidade\nInvista em oportunidades que combinam com seus objetivos. [Faça seu cadastro na Ágora Investimentos](https://cadastro.agorainvest.com.br/dados-acesso?utm_source=estadao.com&utm_medium=patrocinio&utm_campaign=202003%3A%3Aa1%3Aagora%3Aeinvestidor_-_agora%3Aint%3Adisplay%3Aestadao.com%3Atodos%3A&utm_content=20210201%3Ae-investidor%3Acta%3A1x1%3Acta_mercado%3Ana%3Ageral%3A)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://cadastro.agorainvest.com.br/dados-acesso?utm_source=estadao.com&utm_medium=patrocinio&utm_campaign=202003%3A%3Aa1%3Aagora%3Aeinvestidor_-_agora%3Aint%3Adisplay%3Aestadao.com%3Atodos%3A&utm_content=20210201%3Ae-investidor%3Acta%3A1x1%3Acta_mercado%3Ana%3Ageral%3A",
+      "https://cadastro.agorainvest.com.br/dados-acesso",
+      "https://www.cadastro.agorainvest.com.br/dados-acesso?utm_source=estadao.com&utm_medium=patrocinio&utm_campaign=202003%3A%3Aa1%3Aagora%3Aeinvestidor_-_agora%3Aint%3Adisplay%3Aestadao.com%3Atodos%3A&utm_content=20210201%3Ae-investidor%3Acta%3A1x1%3Acta_mercado%3Ana%3Ageral%3A"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T05:55:30.437+02:00",
+    "updated": "2024-11-22T05:55:30.437+02:00"
+  },
+  {
+    "uuid": "5d0283f0347a742f1b3e7c647349e5ea3dba36ce",
+    "url": "https://www.capetownetc.com/news/tiktok-could-shutdown-in-the-u-s-soon-as-supreme-court-weighs-decision",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@capetownetc",
+    "published": "2025-01-10T08:00:00Z",
+    "title": "TikTok could shutdown in the U.S. soon as Supreme Court weighs decision",
+    "text": "Secondary Menu Home News World Property Tech Sports Weather A slice of Gasant Abarder What’s On Things to do Restaurants Shopping Nightlife Travel Winelands Outdoor Family & Kids Competitions Insurance Quote TikTok could shut down in the US: Supreme Court weighs decision Published by Aiden Daries on January 10, 2025 The fate of TikTok in the United States is now in the hands of the Supreme Court, as justices hear arguments Friday about whether the popular social media app should be banned due to national security concerns, Cape {town} Etc reports.\nThe legal battle pits free speech against national security, with millions of Americans, including content creators, anxiously awaiting a ruling that could impact their livelihoods and the future of the platform.\nTikTok, which has more than 170 million users in the U.S., could face a forced shutdown as early as 19 January unless the Supreme Court intervenes. A law passed by Congress earlier this year mandates the sale of the app’s Chinese parent company, ByteDance, over fears of Chinese government influence. The Biden administration argues that TikTok’s ownership poses a serious threat, potentially allowing the Chinese government access to American users’ data or to manipulate the platform for propaganda. However, TikTok maintains that there is no evidence of such activity.\nThe high stakes of the case are emphasised by the potential impact on free speech. TikTok’s legal team, along with content creators, argue that the law infringes on First Amendment rights, making it one of the most significant free speech cases in modern history. Users could lose access to the platform entirely or be unable to download updates if the law takes effect, with a potential shutdown looming in the midst of a presidential transition.\nThe case has also garnered attention from former President Donald Trump, who has urged the Court to delay the law’s enforcement, suggesting a ‘political resolution’ could address national security concerns without resorting to a ban. The justices are expected to make their ruling soon, and the outcome will determine whether TikTok can continue to operate in the U.S. or if millions of users will face the sudden loss of one of their favourite digital platforms.\nAlso read:\n2025 Golden Globes winners and key moments\nPicture: Pexels",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?button_hashtag=CapeTownETC&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/intent/tweet?button_hashtag=CapeTownETC&ref_src=twsrc%5Etfw",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T11:23:21.121+02:00",
+    "updated": "2025-01-10T11:23:21.121+02:00"
+  },
+  {
+    "uuid": "97da1058c17130f273fbf5810a8dd5c3b310c607",
+    "url": "https://www.archyde.com/trial-of-trebes-and-carcassonne-attacks-the-story-of-marielle-beltrame-widow-of-heroic-gendarme",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-01-20T15:22:00Z",
+    "title": "Trial of Trèbes and Carcassonne Attacks: The Story of Marielle Beltrame, Widow of Heroic Gendarme - Archyde",
+    "text": "2024-01-20 15:05:00 This Monday, the trial of the Trèbes and Carcassonne attacks will open before the special assize court in Paris. It will be without Marielle Beltrame, the widow of the gendarme killed during the attack on the Super U of Trèbes. Civilly married in 2016, Marielle and Arnaud Beltrame were to be united religiously on June 9, 2018. But the murderous journey of Radouane Lakdim decided otherwise, on this fateful March 23, 2018. That day, the terrorist had already sowed death in Carcassonne by killing Jean Mazières, 61, with a bullet in the temple, in the Aigles de la Cité parking lot, then at the Super U in Trèbes where he had shot dead ‘a bullet in the head the butcher of the establishment Christian Medves and a customer Hervé Sosna. Arriving among the first on the scene, Arnaud Beltrame took the place of a hostage held by the terrorist. The gendarme died in hospital on the night of March 23 to 24 as a result of his injuries. The terrorist was killed during the GIGN assault on the supermarket. “I know he is alive and happy where he is” As the trial of Radouane Lakdim’s alleged accomplices begins, Marielle Beltrame indicated to our colleagues at Midi Libre that she would not attend these debates which will take place for 4 to 5 weeks before the court of special meeting in Paris from Monday January 22. “Too traumatic to relive,” she told our colleagues. “I know that he is alive, and very happy where he is,” testified the woman who was able to find vital comfort with the canons of Lagrasse Abbey who were to consecrate their union. [Read more: High Altitude Rats Found in the Andes Mountains: Surprising Discovery Shakes up the Biological World](https://www.archyde.com/high-altitude-rats-found-in-the-andes-mountains-surprising-discovery-shakes-up-the-biological-world/) “I’m fine, thank you,” she said again during a short exchange during which she spoke of her husband’s heroic gesture. “So much the better if he inspires and encourages others, too, towards good. » 1705764169 #Death #Arnaud #Beltrame #traumatic #relive #widow #Marielle #attend #trial #Trèbes #Carcassonne #attacks",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jean mazières",
+          "sentiment": "none"
+        },
+        {
+          "name": "marielle beltrame",
+          "sentiment": "none"
+        },
+        {
+          "name": "christian medves",
+          "sentiment": "none"
+        },
+        {
+          "name": "radouane lakdim",
+          "sentiment": "none"
+        },
+        {
+          "name": "hervé sosna",
+          "sentiment": "none"
+        },
+        {
+          "name": "arnaud beltrame",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "marielle beltrame",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gign",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "carcassonne",
+          "sentiment": "none"
+        },
+        {
+          "name": "trèbes",
+          "sentiment": "none"
+        },
+        {
+          "name": "marielle",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris",
+          "sentiment": "none"
+        },
+        {
+          "name": "aigles de la cité",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T17:26:26.273+02:00",
+    "updated": "2024-01-20T17:26:26.273+02:00"
+  },
+  {
+    "uuid": "26e8c5e8d734057c44f8ce996309aa7fa0052339",
+    "url": "https://information.tv5monde.com/international/video/gaza-les-palestiniens-ont-peur-quon-les-oublie-2741614",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Karine Henry",
+    "published": "2024-09-26T18:46:00Z",
+    "title": "VIDÉO. Gaza : les Palestiniens ont peur qu'on les oublie | TV5MONDE - Informations",
+    "text": "Aller au contenu principal TV5 Monde TV5MONDE Plus TV Info Langue française Afrique Plus Et aussi … Voyage Nos applications mobiles Réception TV Nous rejoindre TV5MONDE à travers le monde TV5MONDE Amérique Latine FR, EN, ES TV5MONDE Asie/Pacifique FR, EN TV5MONDE Etats-Unis EN TV5MONDE Europe FR, EN, NL, DE, RO TV5MONDE Maghreb-Orient FR, EN, AR Info Recherche Rechercher Période de publication Au Menu Sitemap Afrique Accueil Afrique CONGO, Rép. démocratique du SÉNÉGAL MALI KENYA GUINÉE NIGERIA CAMEROUN ÉTHIOPIE Nos dossiers du moment Djihadistes au Sahel RDC les défis d'un géant africain L'actualité en Guinée Football africain Sénégal International Accueil International Nos dossiers du moment Israël contre Hamas Duel Biden / Trump Francophonie : l'actualité de la langue française dans le monde Ukraine-Russie : la guerre Proche-Orient : Israël et Palestine, quelle paix ? Environnement Accueil Environnement Terriennes Accueil Terriennes Nos dossiers du moment Violences faites aux femmes Les femmes de la Francophonie Afroféminisme : par et pour les femmes noires Femmes, artistes, défricheuses Femmes en politique Sport Accueil Sports Culture Accueil Culture Nos dossiers du moment La francophonie au Yukon L'Art sur TV5MONDE Enjeux numériques La musique sur TV5MONDE Littérature Science Accueil Sciences Société Accueil Société Économie Accueil Économie Vidéos JT JT international Le 64' JT Afrique JT Éco + info Fil d'Ariane Accueil > International > La guerre entre Israël et Gaza Back to top TV5 JWPlayer Field Chargement du lecteur... 2 min 19 s Gaza : les Palestiniens ont peur qu'on les oublie Le 26 Sep. 2024 à 19h46 (TU) Mis à jour le 26 Sep. 2024 à 19h47 (TU) Par Karine Henry Alors que la communauté internationale et les médias ont les yeux rivés sur le Liban, les Palestiniens de Gaza expriment leur solidarité avec le pays voisin mais redoutent de tomber dans l'oubli. L'enclave est détruite à plus de 80%. International ISRAËL La guerre entre Israël et Gaza La guerre entre Israël et Gaza TV5 JWPlayer Field Frappes israéliennes Proche Orient : 4è journée de bombardements sur le Liban TV5 JWPlayer Field International Liban : fuir les bombardements Conflit au Proche-Orient Israël rejette une proposition de cessez-le-feu avec le Hezbollah libanais, Netanyahu déclarant que son armée continuerait son combat \"avec toute la force nécessaire\" frappes israéliennes au Liban Proche-Orient, un conflit qui vient de loin les civils, premières victimes Liban : troisième jour de bombardements israéliens, la fuite des Libanais À la une International \"Aidez-nous à sortir\" : la lettre d'adolescents détenus au Venezuela depuis les manifestations Guerre en Ukraine La déclaration de Kamala Harris : \"\"Mon soutien au peuple ukrainien est inébranlable\" Religion Luxembourg : première étape du voyage papal non-présentation d'enfant Détenue en Italie, Rokia Traoré va être extradée en Belgique alphabétisation Au Cameroun, l'apprentissage des langues maternelles à l'école est un gage de réussite Enquête Migrantes : des forces de l'ordre tunisiennes accusées de violences sexuelles Francophonie au Canada \"L’aurore boréale\", un journal francophone entièrement féminin au Yukon A propos Contact Mentions légales Charte déontologique et éditoriale CGU Confidentialité Charte des cookies Gérer mes cookies Applications mobiles Nous rejoindre Presse Marchés publics Recevoir TV5MONDE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T00:16:32.152+03:00",
+    "updated": "2024-09-27T00:16:32.152+03:00"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "uuid": "c15ff3cb0091e3e2149847cfe723cfd0eec45a38",
+    "url": "https://www.pagina12.com.ar/744476-todos-los-cambios-que-el-senado-le-hizo-al-rigi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Página|12",
+    "published": "2024-06-13T21:48:00Z",
+    "title": "Todos los cambios que el Senado le hizo al RIGI | Cómo quedó el polémico Régimen de Fomento de Inversiones | Página|12",
+    "text": "En el marco de los cambios que sufrió la Ley Ómnibus -que se aprobó en general y deberá volverá a Diputados- uno de los puntos más sensibles y en los cuales el Gobierno estaba más interesado era el de Régimen de Incentivo para Grandes Inversiones (RIGI). Ese artículo tuvo, a grandes razgos, cuatro modificaciones que se hicieron en el debate en el Senado, entre las cuales destacan una obligatoridad de un cupo de contratación y compre nacional, y el recorte de los beneficios para algunos sectores económicos en particular.\nCon la idea de conseguir los votos en el Senado, las modificaciones que se introdujeron son las siguientes.\n1. Menos sectores alcanzados . Tras los cambios, el artículo 165 establee que el RIGI será aplicable \"en proyectos de los sectores de agroforestal, infraestructura, minería, energía y tecnología que cumplan con los requisitos previstos\". Eso fue en una primera instancia, pero luego se agregaron más rubros, entre ellos turismo, petróleo y gas y siderúrgica. Delimita así un universo, aunque amplio, menos libre que el de proyecto que venía de Diputados.\n2. Compre Nacional . El artículo 74, inciso L ahora incluye que se deberá contratar a proveedores locales en al menos el 20% de la inversión total destinada a proveedores. El senador radical Martín Lousteau había pedido al menos un 50 por ciento, porque el 20 es un número casi para cumplir. Vale decir que la modificación aclara que eso se hará siempre y cuando la oferta de proveedores locales se encuentre disponible y en condiciones de mercado en cuanto a precio y calidad. Esto tendrá que mantenerse durante las etapas de construcción y operación.\nPágina I12 consultó a sectores vinculados a la industria, incluídos la Unión Industrial Argentina (UIA) y la Asociación de Metalúrgicos ADIMRA que dijeron, sobre este punto, que la idea es esperar a ver cómo sale de la reglamentación.“Somos prudentes pero estamos expectantes, porque el RIGI tiene que servir para potenciar la industria nacional y su desarrollo” confirmaron fuentes oficiales de la cámara de pymes metalúrgicas. Cabe destacar que la modificación del compre local había sido un reclamo muy fuerte de la industria nacional, que se veía compitiendo a pérdida contra los beneficios que otorga el RIGI. El otro punto que no se modificó y que también era pedido por las industrias era la garantía retenciones cero por 30 años a los que inviertan, lo que perjudica tanto a la industria como al sector agropecuario.\nSobre este punto, desde el Centro de Estudios Económicos y Sociales Scalabrini Ortíz (CESO) aclararon que “el plan de inversión ahora deberá deberá incluir la integración de productos locales y un plan de desarrollo de proveedores, aunque no hay requerimientos mínimos para ninguno de ellos. Se extiende a proveedores de proyectos de inversión adheridos con mercaderías o insumos importados la exención de pago de aranceles, tasa de estadística y otros tributos aduaneros”.\n3. Cobro de exportaciones . Este punto está contenido en el artículo 96. Con las modificaciones se definió que los cobros de exportaciones del proyecto que adhiera al RIGI estarán exceptuados de ingresar en el mercado de cambios en los siguientes porcentajes: 20% luego de 2 años; 40% luego de 3 años; y 100% luego de 4 años. Esto no solo incluye al cambio de divisas, sino también a \"aportes de capital, préstamos o servicios vinculados al proyecto objeto del plan de inversión aprobado\". Para los proyectos declarados de exportación estratégica de largo plazo, los porcentajes serán diferentes: 20% luego de un año; 40% luego de 2 años; 100% luego de 3 años.\n4. Acciones, cuotas o participaciones sociales de los VPU . En este caso, el Senado dispuso modificar el artículo 205 para que las acciones, cuotas o participaciones sociales de los vehículos de proyecto único (VPU) -es decir, los titulares de un proyecto que califique como gran inversión en los sectores incluídos- adheridos al RIGI puedan usarse como garantía.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:53:46.043+03:00",
+    "updated": "2024-06-14T00:53:46.043+03:00"
+  },
+  {
+    "uuid": "ca8345f2b3cc8509949e7e311ae66c6804b16038",
+    "url": "https://www.theverge.com/2024/10/17/24272971/adobe-illustrator-sneaks-experimental-tech-demo-rotate-vector",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "theverge.com",
+    "published": "2024-10-17T21:23:00Z",
+    "title": "Adobe demos Illustrator tools that rotate vectors and finish sketches - The Verge",
+    "text": "Adobe has been working on some experimental tech that could help speed up concept and planning work for graphic designers and audio engineers. Some of the “sneaks” previewed during Adobe’s MAX event include tools that can turn sketches into a variety of polished designs, and a feature for rotating 2D art as if it were a 3D object.\n“Project Turntable” is capable of the latter. The tool allows users to click a button and then drag a slider along to automatically view and snap a vector image into a different viewing perspective — something that would typically require an artist to redraw the image entirely from scratch. The examples demonstrated at the event retained their original designs when rotated without warping into a new overall shape. For example, the dragon’s yellow underbelly and tail remained in the same position throughout all the changes.\nHere’s an example of Project Turntable in action, rotating a flat 2D image of a bread basket. GIF: Adobe If you prefer to work in physical mediums like pencil and paper, “Project Remix A Lot” can digitize those designs for you. The feature provides a “Sketch to layout” button that takes a rough design and uses generative AI to transform it into an editable digital image. Once a design is complete, users can also click the “Layout variations” button to automatically resize the final image into a selection of different sizing formats that are better suited for social media posts or blog headers.\nTerrible at graphic design? Just throw together a rough sketch of what you need and Project Remix A Lot can do the rest. GIF: Adobe We should note that these experimental tools aren’t guaranteed to be developed into publicly available features — Adobe mostly uses its sneaks program to preview the cutting-edge tech it’s working on and gauge the demand for such features. But many popular features like Photoshop’s Remove tool and Adobe’s Fresco painting app made their first appearance as sneaks, so there’s a good chance we may see these in Illustrator one day.\nOutside of vector art, Adobe also demonstrated “Project Hi-Fi,” a Photoshop plugin that uses a portion of the user’s workspace as a reference to guide AI image generation. It works a bit like Adobe’s structure reference feature for Firefly, only with more scope for customization.\nAnd for audio engineers, “Project Super Sonic” allows you to generate sample sound effects using prompts or by clicking on an object in a silent video, like a flowing stream or ferns in a jungle. The tool itself can recognize what the user is selecting and work out what it should sound like, so you don’t have to go manually hunting through audio libraries. Users can also adjust the timing of these sound effects using their own voice, providing more control than a text description.\nThese are just a few of the sneaks projects that Adobe has announced this year, alongside tools for creating image mashups , identifying who owns an image both online and on real-world objects , and removing distractions from videos . You can read more about each sneak preview in detail over on Adobe’s blog .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://youtu.be/UGgdC3RvyMQ?feature=shared",
+      "https://youtu.be/gfct0aH2COw?feature=shared&t=42",
+      "https://blog.adobe.com/en/publish/2024/10/16/new-adobe-max-sneaks-transform-photo-video-audio-3d-creation",
+      "https://www.blog.adobe.com/en/publish/2024/10/16/new-adobe-max-sneaks-transform-photo-video-audio-3d-creation",
+      "https://youtu.be/UGgdC3RvyMQ",
+      "https://www.youtu.be/gfct0aH2COw?feature=shared&t=42",
+      "https://www.youtu.be/UGgdC3RvyMQ?feature=shared",
+      "https://youtu.be/gfct0aH2COw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:06:22.190+03:00",
+    "updated": "2024-10-18T01:06:22.190+03:00"
+  },
+  {
+    "uuid": "99285bf304e47d5126310c1b53b6ba5e37fe5df4",
+    "url": "https://www.frontpagemag.com/is-god-a-white-supremacist",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Tapson",
+    "published": "2024-02-23T04:59:00Z",
+    "title": "Is God a White Supremacist?",
+    "text": "One of the great tragedies of progressivism is that its zealots are in the grip of – to borrow William Blake’s phrase – “mind-forged manacles.” Perpetually aggrieved by social injustice everywhere (real or imagined, past and present), leftists are hindered from finding selfless joy, spiritual transcendence, and wonder in the world by ideological blinders that allow them to see only a world of oppression, exploitation, and existential misery.\nTake, for example, the famous image above – Italian Renaissance genius Michelangelo’s glorious Sistine Chapel vision of the moment God sparked life into the First Man, Adam. Whether you are Christian or not, no matter how you believe the world came into being and life began, when you look at this iconic work of art – especially when you are in its actual presence – are you not awed by Michelangelo’s humbling talent, and the painting’s majesty and beauty and power? Are you not drawn to ponder the miracles of creation and life depicted in this meeting of the human and the divine?\nWhen\nRobin DiAngelo, author of the woke bestseller White Fragility, looks at this masterpiece, what she sees are the scourges of racism and patriarchy.\nDiAngelo, who is white, is probably second only to\nIbram X. Kendi in terms of name recognition among the more academic race hustlers of so-called “antiracism.” Her 2018 book White Fragility sat on the New York Times Bestseller List for over three years. She commands speaking fees of $40,000 or more to lecture self-loathing white progressives about their “unearned privilege” and “racial arrogance.” Her work or interviews, as her website notes, have been promoted in every left-wing media outlet imaginable, from The Guardian and CNN to NPR and the BBC.\nWhite fragility is a condition DiAngelo has diagnosed afflicting white people who resent being called inherently racist, especially by actual racists like DiAngelo and Kendi. White fragility means if you don’t like being falsely smeared as a racist, then your denial is evidence that you are racist. If you are white, your worldview – whether consciously or unconsciously – is racist, and defending yourself against that hateful charge is just your fragility talking. “Antiracism” has made millionaires out of DiAngelo and Kendi.\nDiAngelo\nargues that “White people raised in Western society are conditioned into a white supremacist worldview because it is the bedrock of our society and its institutions.” And “the single image I use to capture the concept of white supremacy,” she declared on a recent podcast, “is Michelangelo’s Sistine Chapel God creating man.”\nShe elaborated: “You know, where God is in a cloud and there’s all these angels and he’s reaching out and he’s touching — I don’t know who that is, David or something — and God is white and David’s white and the angels are white.” She added, “That is the perfect convergence of white supremacy, patriarchy, right?”\nDiAngelo’s fields of expertise are Whiteness Studies and Critical Discourse Analysis. They certainly are not in art history or theology, as is revealed by her stunning ignorance of whose finger is stretching toward God’s in Michelangelo’s painting. The biblical King David was not the first man. The Garden of Eden was not inhabited by David and Eve.\nIn any case, DiAngelo explained that “I was raised Catholic so I saw many images like that as a child. So I’m sitting in church and I’m looking up and I see these images. I don’t think to myself ‘God is white’ but in a lot of ways that’s power. I don’t need to. God reflects me.”\nWhat DiAngelo’s blinkered vision is excluding from consideration is the fact that artistic representations of God/Christ do not reflect only DiAngelo’s whiteness. Christians in every culture, not just Renaissance Europe, have always adapted their picture of Jesus to reflect themselves and their cultural norms.\nYes, the biblical figures in Michelangelo’s painting are depicted as white. This does not make it racial propaganda. We all know Jesus was a Levantine Jew, not a white man with blue eyes and sandy blond hair like actor Jeffrey Hunter, who portrayed Jesus in the 1961 Hollywood epic King of Kings. “The reason we see Jesus depicted as Caucasian,”\naccording to an article at the Catholic Exchange, “has less to do with white supremacy and more to do with theology”:\nThe universal nature of His mission historically enabled every culture to see Christ according to their own unique cultural imagery—including race. Since Christ came for all men, people naturally depicted His physical characteristics after their own image and likeness. Since we in the West happen to live in a society grounded in European culture, we have viewed Christ as European. But if we were to travel to other cultures, we would see the opposite—Christ would be depicted according to each respective culture’s ethnic norms.\nThe images displayed below, helpfully collected and described at the aforementioned Catholic Exchange site, demonstrate this truth. The Christians of ancient Rome, for example, viewed Jesus as a Caucasian, beardless youth:\nA Syrian image of Christ from the same era found in what is now Turkey shows a Syrian-looking Christ:\nThe Armenians viewed Jesus as a traditional Armenian father figure:\nThe Christ of the 9th century Irish Book of Kells appears distinctly Gaelic:\nHere is Christ as an Indian sage from 9th century paintings found in China:\nAnother Chinese image from the 12th century portrays Jesus dressed and posed as a Buddhist holy man:\nThe Chinese depiction of Christ as a Chinese sage and his disciples as Chinese students was conventional down through the centuries. Here is a 19th century Chinese image of Jesus and the rich man:\nThe most popular image of Christ among Filipinos is the Santo Niño:\nA Vietnamese Mary holding the Christ child:\nA black Christ from Ethiopia:\nAn image from the Copts of Egypt shows Jesus and His disciples as dark-skinned, some Semitic and some black:\nThe oldest image of Christ produced in the Americas was created in 1539 by Aztec converts as a gift to the Franciscans of Mexico City. It contains Aztec iconography:\nChristians the world over, throughout history, have visualized Christ from their own cultural perspective, no matter their skin color. At the same time they also recognize that Christ came to redeem all of us, and thus His racial identity – and ours – is of no significance.\nBut the “antiracist” racists view everything through the distorted lens of identity politics; hence, someone like Robin DiAngelo chooses to see, in Michelangelo’s magnificent painting of the Creation of Man, nothing but the white skin the left hates so much.\nFollow Mark Tapson at\nCulture Warrior.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.goodreads.com/work/quotes/58159636-white-fragility-why-it-s-so-hard-for-white-people-to-talk-about-racism",
+      "https://www.robindiangelo.com/about-me/",
+      "https://marktapson.substack.com/",
+      "https://www.discoverthenetworks.org/individuals/robin-diangelo/",
+      "https://catholicexchange.com/why-its-okay-to-portray-jesus-as-europeanor-any-other-race/",
+      "https://www.discoverthenetworks.org/individuals/ibram-x-kendi/",
+      "https://www.discoverthenetworks.org/individuals/ibram-x-kendi",
+      "https://catholicexchange.com/why-its-okay-to-portray-jesus-as-europeanor-any-other-race",
+      "https://robindiangelo.com/about-me/",
+      "https://www.robindiangelo.com/about-me",
+      "https://www.discoverthenetworks.org/individuals/robin-diangelo",
+      "https://www.catholicexchange.com/why-its-okay-to-portray-jesus-as-europeanor-any-other-race/",
+      "https://www.marktapson.substack.com/",
+      "https://marktapson.substack.com",
+      "https://discoverthenetworks.org/individuals/robin-diangelo/",
+      "https://goodreads.com/work/quotes/58159636-white-fragility-why-it-s-so-hard-for-white-people-to-talk-about-racism",
+      "https://discoverthenetworks.org/individuals/ibram-x-kendi/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "willi",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "adam",
+          "sentiment": "none"
+        },
+        {
+          "name": "robin diangelo",
+          "sentiment": "none"
+        },
+        {
+          "name": "blake",
+          "sentiment": "none"
+        },
+        {
+          "name": "michelangelo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T10:40:39.515+02:00",
+    "updated": "2024-02-23T10:40:39.515+02:00"
+  },
+  {
+    "uuid": "c1b73880499e3d1580c61935fcbca02b701a3db7",
+    "url": "https://laopinion.com/2025/08/09/aumentan-las-ofertas-de-empleo-que-buscan-trabajadores-con-habilidades-en-ia",
+    "ord_in_thread": 0,
+    "author": "Samuel González",
+    "published": "2025-08-09T16:19:00Z",
+    "title": "Aumentan las ofertas de empleo que buscan trabajadores con habilidades en IA",
+    "text": "En un giro que contrasta con el temor habitual a que la inteligencia artificial (IA) sustituya empleos humanos , las oportunidades laborales que exigen conocimientos en esta tecnología han registrado un crecimiento acelerado. Cada vez más empresas están activamente buscando talento capacitado en IA para integrar estos avances en sus procesos productivos y estratégicos.\nUn informe reciente del Brookings Institution revela que, tan solo en el último año, las publicaciones de empleo relacionadas con inteligencia artificial crecieron más del 100 % . Esta cifra refleja el aumento de la demanda de habilidades especializadas en IA dentro del mercado laboral de Estados Unidos.\nSegún datos de Lightcast, proveedor de análisis del mercado laboral, el crecimiento promedio anual de estos empleos ha sido del 29 % durante los últimos 15 años , muy por encima del 11 % general en la economía.\nEste auge no se limita a ingenieros de IA o científicos de datos. Elena Magrini, jefa de investigación global en Lightcast, destaca que los perfiles solicitados incluyen desde desarrolladores de software con conocimientos en IA hasta roles más generales que requieren una comprensión básica de herramientas generativas o de automatización.\nDe hecho, las habilidades en IA generativa aparecen cada vez con más frecuencia en las ofertas. En 2025, se registraron más de 80,000 publicaciones que mencionan esta competencia, frente a apenas 3,780 en 2010 , según Brookings. Esto ha ido acompañado de un crecimiento en la demanda de consultores capaces de guiar a las compañías en la implementación ética de estas tecnologías.\n“La definición de lo que significa tener un ‘trabajo en IA’ cambia cada día a medida que las empresas encuentran nuevas y creativas formas de incorporar esta tecnología de manera responsable”, explicó Cory Stahle, economista del Indeed Hiring Lab .\nEl interés por la inteligencia artificial también se ve reflejado en los sectores que tradicionalmente no se asociaban con la tecnología. Más del 50 % de las vacantes que solicitan habilidades en IA en 2024 corresponden a áreas como mercadotecnia, recursos humanos y finanzas . Esto sugiere una expansión transversal del impacto de la IA en el entorno laboral.\nAunque su presencia aún representa una porción reducida del mercado total de trabajo, se anticipa que la adopción de IA alcance su punto máximo en la década de 2030 . Joseph Briggs, economista senior en Goldman Sachs, lo resume así: “La IA es claramente visible en los datos del mercado laboral a nivel micro, pero no parece estar impulsando la dinámica general del empleo”.\nEn términos geográficos, la concentración de empleos en IA sigue siendo mayor en centros tecnológicos como Silicon Valley (13 % de las publicaciones) y Seattle (7 %), pero otras regiones comienzan a emerger. Ciudades del cinturón del sol y del noreste, desde Boston hasta Washington D.C., están viendo un aumento en estas oportunidades , impulsadas en parte por universidades que actúan como centros de innovación.\nAdemás del dinamismo del sector, los puestos que requieren habilidades en inteligencia artificial también ofrecen una compensación más alta. De acuerdo con Lightcast, quienes dominan herramientas de IA ganan en promedio $18,000 dólares más al año que quienes no cuentan con estas competencias, una diferencia del 28 % respecto a roles similares sin ese requisito.\nEl sector manufacturero es otro ejemplo del avance de esta tecnología. La proporción de empresas que usan IA en sus operaciones pasó del 4 % a inicios de 2023 al 9 % a mediados de 2025 , según datos del Censo de EE.UU. analizados por Brookings.\nLa velocidad de adopción no es uniforme en todos los sectores ni en todas las regiones, pero la tendencia apunta a una consolidación de la inteligencia artificial como una habilidad esencial. Mark Muro, investigador senior en Brookings Metro, señala que cada vez más líderes regionales y empresarios comprenden que la IA representa una ventaja competitiva significativa.\nFrente a este panorama, formarse en inteligencia artificial ya no es una opción exclusiva de profesionales de la tecnología . Cada vez más sectores la adoptan como una herramienta de productividad, y quienes se anticipen a esta transformación tendrán mejores oportunidades en un mercado laboral que evoluciona a toda velocidad.\nTambién te puede interesar:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Labor->employment",
+      "Labor->employee",
+      "Labor->labour market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.hiringlab.org/2025/06/17/the-rise-of-responsible-ai-jobs/",
+      "https://www.brookings.edu/wp-content/uploads/2025/06/Mapping-AI-readiness-final.pdf",
+      "https://www.hiringlab.org/2025/06/17/the-rise-of-responsible-ai-jobs",
+      "https://brookings.edu/wp-content/uploads/2025/06/Mapping-AI-readiness-final.pdf",
+      "https://hiringlab.org/2025/06/17/the-rise-of-responsible-ai-jobs/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Elena Magrini",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Brookings Institution",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Los Angeles"
+        ],
+        "state": [
+          "California"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-09T20:49:23.418+03:00",
+    "updated": "2025-08-09T20:55:06.000+03:00"
+  },
+  {
+    "uuid": "b2dd21110ae6bfa6a5bb868dbf1c8b5dfb7208d2",
+    "url": "https://www.farodevigo.es/ideas/con-ciencia/carbon-neutral.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Prensa Ibérica",
+    "published": "2024-10-04T02:59:00Z",
+    "title": "Mahou San Miguel acelera su hoja de ruta para ser ‘carbon neutral’ en 2030",
+    "text": "Con la puesta en marcha de una planta de biomasa en su fábrica de Alovera (Guadalajara), la compañía de bebidas lidera el proceso de transformación de la industria cervecera hacia un modelo más sostenible.\nMahou San Miguel, compañía de bebidas de capital familiar 100% español y líder del sector cervecero de nuestro país, avanza en su hoja de ruta de descarbonización con un ambicioso proyecto que le llevará a reducir un 95% las emisiones directas de CO2 de su centro de Alovera (Guadalajara), la fábrica de cerveza más grande de España y en el top 3 a nivel europeo en términos de producción.\nLa puesta en marcha de una planta de biomasa en estas instalaciones, prevista para el primer trimestre de 2026, permitirá a la compañía seguir avanzando en su objetivo de alcanzar la neutralidad en carbono en todos sus centros para 2030, recogido en su Plan de Sostenibilidad “Vamos 2030”.\nCon una inversión estimada de más de 15 millones euros el proyecto será ejecutado y operado por Magnon Servicios Energéticos, filial del grupo Ence, que asumirá también el suministro de la energía térmica en forma de agua sobrecalentada y de la biomasa con certificación SURE, que acredita el abastecimiento y producción sostenible de la misma. La previsión de ambas compañías es iniciar los trabajos de ejecución en el primer trimestre de 2025 para que la instalación esté operativa en 2026.\nComo principal compañía del sector en nuestro país, Mahou San Miguel continúa así promoviendo iniciativas que le permiten crecer de manera responsable y liderar el proceso de transformación futura de la industria cervecera en su necesaria evolución hacia modelos productivos más sostenibles.\nDe hecho, esta planta de biomasa es una de las 19 iniciativas incluidas en la primera línea de ayudas concedidas por el Ministerio de Industria y Turismo, en el marco del Proyecto Estratégico para la Recuperación y Transformación Económica (PERTE) de descarbonización industrial de nuestro país, que permitirá reducir 551.000 millones de toneladas de CO2 al año.\nCon ocho centros de producción en España y cuatro manantiales de agua mineral natural, Mahou San Miguel es la compañía con la huella industrial más grande del sector y con mayor cobertura geográfica a nivel nacional, lo que le permite generar un euro de impacto económico por cada tres botellas que elabora en nuestro país y generar más de 147.000 empleos indirectos a través de su actividad.\nSolo el año pasado, la compañía incrementó en un 34% la inversión en sus activos industriales para mantener sus instalaciones a la cabeza en materia de innovación, sostenibilidad y excelencia operacional, al tiempo que impulsó su rol como empleador y motor de desarrollo local.\nDentro de su mapa de operaciones la fábrica de Alovera juega un papel clave por su dimensión y relevancia, siendo punta de lanza en muchos aspectos. Entre otros, por su óptimo comportamiento ambiental y el uso de tecnologías innovadoras y prácticas ecoeficientes que la compañía irá extendiendo al resto de centros de producción de la compañía para cumplir con su objetivo de alcanzar la neutralidad en carbono.\nEl centro cuenta con un parque solar fotovoltaico para autoconsumo con una potencia instalada de 4,3 MW pico y utiliza energía eléctrica 100% renovable. Además, el 15% de la energía térmica empleada en su producción ya es autogenerada y, como el resto de las plantas de la compañía, es residuo cero gracias a su valorización y reutilización en otros procesos.\nCon una inversión de 15 millones de euros, la instalación estará operativa en 2026.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Magnon Servicios Energéticos",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ence",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Alovera",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T06:15:18.164+03:00",
+    "updated": "2024-10-04T06:15:18.164+03:00"
+  }
+]

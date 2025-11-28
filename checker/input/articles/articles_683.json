@@ -1,0 +1,367 @@
+[
+  {
+    "uuid": "fe4cd0e121a81e646d3c619e490c112442e09b59",
+    "url": "https://www.i24news.tv/fr/actu/israel/1709919336-votre-influence-sur-tsahal-et-l-etat-d-israel-est-considerable-yoav-gallant-aux-soldates",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "i24NEWS",
+    "published": "2024-03-08T16:35:00Z",
+    "title": "\"Votre Influence Sur Tsahal Et L'État D'Israël Est Considérable\" (Yoav Gallant Aux Soldates) - I24NEWS",
+    "text": "\"Votre influence sur Tsahal et l'État d'Israël est considérable\" (Yoav Gallant aux soldates) \"La guerre de Gaza prouve que les femmes peuvent occuper plus de postes militaires\" \"La guerre à Gaza a prouvé que les femmes peuvent occuper tous les postes qu'elles sont capables d'intégrer dans l'armée\", a déclaré le ministre de la Défense Yoav Gallant aux commandantes des bataillons de combat féminins, vendredi, à l'occasion de la Journée internationale des droits des femmes. \"Les succès remportés par les soldates sur le champ de bataille entraîneront un changement radical dans le service militaire féminin. Les commandantes féminines\", a-t-il dit, \"ont réussi à diriger les soldates sous leur commandement sur terre, dans les airs, dans les services de renseignement, sur le front intérieur et en mer, partout où ils étaient nécessaires pour accomplir ce qu'on leur demandait\". \"Votre influence sur Tsahal et l'État d'Israël est considérable\", a déclaré M. Gallant. \"La guerre est l'occasion de façonner les choses pour une ou deux générations à venir, et ce que les jeunes soldates vivent aujourd'hui affectera automatiquement l'armée pendant toute la durée de leur service\", a-t-il poursuivi. \"Cette guerre est un point de départ, non seulement pour les combats dans l'armée et pour les femmes, mais aussi pour les relations sociales et militaires. \"Nous verrons que grâce à vous, il y aura un changement radical\", a-t-il conclu.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-08T20:06:49.196+02:00",
+    "updated": "2024-03-08T20:06:49.196+02:00"
+  },
+  {
+    "uuid": "e359c4fdf09663169c2a578cbdf35e6177b353e7",
+    "url": "http://edu.china.com.cn/2025-06/12/content_117923637.shtml",
+    "ord_in_thread": 0,
+    "author": "闫景臻",
+    "published": "2025-06-12T07:44:00Z",
+    "title": "校园财商课，乐山实验中学培养学生对金钱的正确认知_中国网",
+    "text": "> 首页 > 中国教育 > 校园财商课，乐山实验中学培养学生对金钱的正确认知 2025-06-12 15:44\n来源：中国网教育\n分享到：",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->adult and continuing education",
+      "Education->school",
+      "Human Interest->graduation",
+      "Social Issue->children",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:10:32.047+03:00",
+    "updated": "2025-06-12T08:17:37.000+00:00"
+  },
+  {
+    "uuid": "0b816accc8f9873bc009b784674b787d6f78a8af",
+    "url": "https://gbhackers.com/hackers-attacking-black-friday-shoppers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Balaji",
+    "published": "2024-11-15T11:20:00Z",
+    "title": "Chinese SilkSpecter Hackers Attacking Black Friday Shoppers",
+    "text": "SilkSpecter, a Chinese financially motivated threat actor, launched a sophisticated phishing campaign targeting e-commerce shoppers in Europe and the USA during the Black Friday shopping season.\nThe campaign leveraged the legitimate payment processor Stripe to steal victims’ Cardholder Data (CHD) and Sensitive Authentication Data (SAD) while allowing legitimate transactions to proceed.\nThe threat actor used a Chinese SaaS platform, oemapps, to rapidly create convincing fake e-commerce sites with dynamic language adjustment based on victim IP location.\nThe phishing sites, often typosquatting legitimate domains, used .top, .shop, .store, and .vip TLDs to deceive victims into providing sensitive information.\nFree Ultimate Continuous Security Monitoring Guide - Download Here (PDF)\nAnalysts identify a pattern among Black Friday-themed phishing domains linked to the SilkSpecter threat actor, which were characterized by the presence of a deceptive “trusttollsvg” icon and a “/homeapi/collect” endpoint.\nUncovering the pattern among Black Friday-themed phishing pages. The icon was used to mimic trusted websites, while the endpoint allowed real-time tracking of victim interactions.\nBy recognizing these unique indicators, analysts were able to uncover additional discount-themed phishing domains associated with SilkSpecter’s ongoing campaign.\nSilkSpecter’s phishing kit employed a multi-layered approach to deceive victims, as the Black Friday-themed phishing pages, coupled with dynamic language translation and website trackers, created a convincing illusion of legitimacy.\nVictim data, including PII, banking details, and phone numbers, was exfiltrated to attacker-controlled servers.\nStripe was abused to process real transactions, and the stolen information could be further exploited in secondary attacks like vishing or smishing.\n Payment prompt screen on phishing page that uses Stripe It employed a sophisticated phishing scheme to target online shoppers and by mimicking legitimate platforms, they lured victims into providing sensitive financial information.\nThe stolen data, including card details, was exfiltrated to a remote server via Stripe’s APIs, bypassing security measures, where the attackers likely employed social media and SEO poisoning to disseminate the malicious phishing links, capitalizing on Black Friday promotions to increase their success rate.\nAccording to the EclecticIQ Threat Research Team , SilkSpecter, a likely Chinese threat actor, employs Mandarin-laden JavaScript comments and HTML language tags in their phishing pages, hinting at Chinese-speaking developers.\nUse of OEMAPPS library in phishing page. Their infrastructure leans heavily on Chinese CDNs and SaaS platforms like oemapps, where analysts have linked SilkSpecter to over 89 IP addresses and 4,000 domains, many of which are tied to Chinese ASNs and companies, further solidifying the attribution.\nIt is a sophisticated phishing group that leverages Chinese domain registrars like West263, Hong Kong Kouming International, Cloud Yuqu, and Alibaba Cloud to mask its operations by utilizing Cloudflare’s infrastructure for further obfuscation.\nTo mitigate risks, organizations should monitor URLs containing “discount,” “Black Friday,” or “/homeapi/collect” and flag domains with “trusttollsvg.”\nTracking network traffic from ASNs 24429, 140227, 3824, 139021, and 45102 can help identify suspicious connections, while to protect individual users, employing virtual cards and setting spending limits on credit cards are recommended practices.\nAnalyze Unlimited Phishing & Malware with ANY.RUN For Free - 14 Days Free Trial .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuJcG7eL42PWEymqcQVSTpNZQSN12lcCfR4qkZYODP7bTwAec5YiHFBxGfRUitWrNsxZqbV7RswrWnzSAiFcnFzZpCU-3QFDEyCQ0Su20Jm2ojrfN-XE6GMoDArL4i8E9p56tfGGn3X5PxGZhyhtM-ZY7t2hP3GyEu1lDwec3ss0J1sEqemo56xuv8w0h2/s693/Picture8.webp",
+      "https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers",
+      "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwxecvUdRYfzrirluuBaVa_K3gmiDuB6d4byAuyMMk0VjrDuMo-ibz2kYLq7hyphenhyphenynECZSi0YzpCJSkMulgHF9tFgdNua0TRRQUwgOVD3vTgWeIFpAcjEnCAG3-9Slcmk5b2h9qCeoen1AEcPhGCTtPXwHiv_WHdhaFgqpkUM9o-6uEJrD0UKfmzjscPA7xB/s989/Picture2.webp",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcXrBj2LLNfI2Jl4RORKkV_J6mUEa73Gh1vvVoqzIFVAUSSqQFkAV4NI2ZTEDCgazl85s3wHwxnA-bd18omutGtF8-Bha4hWCzStoVX3fhTIvXdeMNcQE_um8G_Gosdh4MK8M5jE61HMxkxeiEnBSAWbAN5fOI-cSp9qnAppWi1wWf0AyfPxs8uhrWY7k/s692/Picture5.webp",
+      "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcXrBj2LLNfI2Jl4RORKkV_J6mUEa73Gh1vvVoqzIFVAUSSqQFkAV4NI2ZTEDCgazl85s3wHwxnA-bd18omutGtF8-Bha4hWCzStoVX3fhTIvXdeMNcQE_um8G_Gosdh4MK8M5jE61HMxkxeiEnBSAWbAN5fOI-cSp9qnAppWi1wWf0AyfPxs8uhrWY7k/s692/Picture5.webp",
+      "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+      "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuJcG7eL42PWEymqcQVSTpNZQSN12lcCfR4qkZYODP7bTwAec5YiHFBxGfRUitWrNsxZqbV7RswrWnzSAiFcnFzZpCU-3QFDEyCQ0Su20Jm2ojrfN-XE6GMoDArL4i8E9p56tfGGn3X5PxGZhyhtM-ZY7t2hP3GyEu1lDwec3ss0J1sEqemo56xuv8w0h2/s693/Picture8.webp",
+      "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+      "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwxecvUdRYfzrirluuBaVa_K3gmiDuB6d4byAuyMMk0VjrDuMo-ibz2kYLq7hyphenhyphenynECZSi0YzpCJSkMulgHF9tFgdNua0TRRQUwgOVD3vTgWeIFpAcjEnCAG3-9Slcmk5b2h9qCeoen1AEcPhGCTtPXwHiv_WHdhaFgqpkUM9o-6uEJrD0UKfmzjscPA7xB/s989/Picture2.webp",
+      "https://www.blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers",
+      "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+      "https://app.any.run/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T14:36:16.086+02:00",
+    "updated": "2024-11-15T14:36:16.086+02:00"
+  },
+  {
+    "uuid": "cad18cce3fb30f8987da7b0184cf18da3ebe57db",
+    "url": "https://kathmandupost.com/province-no-1/2025/05/08/illegal-mining-of-riverbed-materials-threatens-over-70-households-in-udayapur-local-unit",
+    "ord_in_thread": 0,
+    "author": "Kantipur Media Group",
+    "published": "2025-05-08T00:00:00Z",
+    "title": "Illegal mining of riverbed materials threatens over 70 households in Udayapur local unit",
+    "text": "Koshi Province\nIllegal mining of riverbed materials threatens over 70 households in Udayapur local unit\nAfter local complaints, district administration finds Chaudandigadhi Municipality had been awarded the mining contract by bypassing law and rules. An investigation is underway.bookmark\nRakesh Nepali\nIllegal extraction of riverbed materials is going on unchecked in Madibas and Lamakhola areas in wards 2 and 4 of Chaudandigadhi Municipality in Udayapur district. Local residents and civil society groups allege that this unauthorised activity is being carried out under the protection of the municipality and political parties, thereby putting over 70 households at risk of flooding and environmental degradation.\nThe extraction began after the Chaudandigadhi municipal executive, without conducting a mandatory Initial Environmental Examination (IEE), awarded Sange Chhoyling Construction Pvt Ltd to extract riverbed materials. Massive quantities of gravel and sand are being removed from forest zones and riverbanks, including Madibas, Lamakhola and Karamjekhola. These areas have now become highly vulnerable to landslides and floods, especially with the upcoming monsoon season.\nThe excavation is reportedly supplying over 100,000 cubic meters of gravel to a Chinese company involved in the construction of the East-West Highway. This quantity far exceeds what was initially contracted for the current fiscal year of 2024-25. According to locals, on the very day the municipality granted permission, on April 19, the company deployed two excavators to start extracting riverbed materials at Barpani in ward 4 of Chaudandigadhi. Gravel extraction began on private registered land, but soon extended illegally into forest and public lands.\nAccording to Pushparaj Subedi, a local resident, despite regulations limiting excavation depth to 90 centimeters, the site has been dug up to five feet deep using heavy excavators in violation of multiple laws. Municipal guidelines issued in 2020 and their amendments in 2021 and 2022, along with national environmental and Chure conservation policies, have all been ignored, according to local villagers.\nSubedi and others also claim that municipal police have been deployed to assist with the illegal operations instead of enforcing the law. They have accused the municipality of turning a blind eye to both legal procedures and environmental standards, driven by the prospect of increased internal revenue.\nLocal concerns are not just limited to environmental damage. On Friday, when journalists attempted to report on the ongoing extraction, they were reportedly threatened by representatives of the contractor, who claimed municipal authorisation and warned them against filming or photographing the site. Residents estimate that over 14,400 cubic meters of gravel has already been transported to Siraha district in 10-wheeled trucks, each carrying around 12 cubic meters per trip.\nDue to the unauthorised and unmanaged excavation, locals fear severe consequences: drying up of drinking water sources, disruption of irrigation canals, and increased flood risk during the monsoon. In response, formal complaints have been submitted to ward offices and the municipality. They also submitted a memorandum at the district administration office on Friday, urging it to stop the illegal extraction immediately.\nChief District Officer (CDO) Prem Prasad Luitel, upon receiving the complaints, ordered an immediate halt to all extraction activities in the area. He also demanded documents of the legal procedures from Prakash Ban, head of the municipality’s revenue department. When the department failed to provide valid documents, CDO Luitel confirmed that extraction must stop and the legal basis for such activities must be investigated.\nLocals are demanding a full halt to excavation on public land claimed to be private, legal action against those involved, protection of their right to freely express concerns, and an end to threats from contractors. In response, an investigation committee has been formed under the coordination of District Coordination Committee Chair Gaurabahadur Bishwakarma.\nDespite the seriousness of the issue, Chaudandigadhi Mayor Kaluman Lama has declined to comment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->natural resources",
+      "Environment->sustainability",
+      "Social Issue->communities",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Crime, Law and Justice->corruption",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Udayapur",
+          "sentiment": "none"
+        },
+        {
+          "name": "Madibas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Koshi Province\nIllegal",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Sange Chhoyling Construction Pvt Ltd",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T05:34:13.440+03:00",
+    "updated": "2025-05-08T02:38:27.000+00:00"
+  },
+  {
+    "uuid": "4f65721d23998d1aafd7a7170eb9737cd7fd35ff",
+    "url": "https://us.marca.com/nfl/2024/08/30/66d1aaf646163fb9b08b4591.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Roberto Ortega / Joan Benavent",
+    "published": "2024-08-30T09:20:00Z",
+    "title": "La novia de Dak Prescott se pone provocativa en un vídeo en el que muestra más de lo que quería | Marcausa",
+    "text": "L a novia de Dak Prescott, Sarah Jane , causó revuelo en las redes sociales luego de compartir un video en su cuenta de Instagram que ha dejado boquiabiertos a los seguidores de la NFL . En el clip, Sarah muestra un lado atrevido y juguetón mientras disfruta del campo de golf.\nEl video comienza con Jane mientras se prepara para dar un buen swing , a medida que avanza el video ella se acomoda y realiza un fuerte swing a la pelota de golf, el movimiento de su cuerpo hace que su falda corta no la ayude y le enseña un poco más de lo esperado. . Incluso hace cabriolas, lo que hace que su falda se suba aún más después del salto que da.\nVer esta publicación en Instagram Dak Prescott está en medio de negociaciones contractuales con los Dallas Cowboys, en febrero él y Sarah dieron la bienvenida a su primer hijo, una niña llamada MJ.\nJane ha vuelto a recuperar su físico Jane trabajó muy duro para recuperar su cuerpo y los resultados fueron sorprendentes. Ella recurrió a su cuenta de Instagram con casi 100 mil seguidores para mostrar su torneado cuerpo con una falda corta que no dejaba nada a la imaginación.\nLa elección de ropa de Sarah no sólo destacó su buen gusto , sino también su confianza y su capacidad para mezclar y combinar ropa deportiva dejando ver su lado sexy.\nEl vídeo no sólo muestra el lado juguetón de Jane, sino que también refuerza su imagen de madre segura de sí misma.\nLa madre del primer hijo de Dak Prescott y posible futura esposa compartió dos fotos de ella con una minifalda rosa, relajándose en un carrito de golf y en el campo.\nEn su última publicación, un breve video revela que ella no solo estuvo allí para una sesión de fotos, sino que también demostró su impecable swing de golf.\nDak Prescott - USA Latino Dallas Cowboys - USA Latino NFL La nueva estrategia de Dak Prescott: Hacerse el loco para lidiar con Jerry Jones durante negociaciones con Cowboys NFL Cowboys y CeeDee Lamb habrían llegado a un insólito acuerdo por 33 millones por temporada NFL Emmitt Smith le lanza una crítica ácida a los Cowboys y su trato a Dak Prescott Ver enlaces de interés\nNoticias NFL Kansas City Chiefs San Francisco 49ers Dallas Cowboys Patrick Mahomes Andy Reid Brock Purdy Travis Kelce noticias Dak Prescott noticias Dak Prescott novia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/p/C_MK8egse-G/?utm_source=ig_embed&utm_medium=loading",
+      "https://www.instagram.com/p/C_MK8egse-G/",
+      "https://instagram.com/p/C_MK8egse-G/?utm_source=ig_embed&utm_medium=loading"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T15:05:01.175+03:00",
+    "updated": "2024-08-30T15:05:01.175+03:00"
+  },
+  {
+    "uuid": "93ce9b23a6cc1603f302b122277fa07830d22a73",
+    "url": "https://www.newsbreak.com/kare-11-524527/3842516886602-decades-old-trees-cut-down-illegally-the-minneapolis-park-and-recreation-board-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KARE 11",
+    "published": "2025-03-06T01:23:00Z",
+    "title": "Decades-old trees cut down illegally, the Minneapolis Park and Recreation Board says - NewsBreak",
+    "text": "Open in NewsBreak\n|\nSign in\nChoose your location\nSee all locations\nSign In\nAbout NewsBreak\nPartner with us\nFollow us\n©2024 NewsBreak. All Rights Reserved.\nKARE 11\n·\npublisher · 67.1K followers\nMinneapolis\nDecades-old trees cut down illegally, the Minneapolis Park and Recreation Board says\n36 minutes ago\nThose three trees are worth more than $10,000, the MPRB says.\nRead full article\nRead in NewsBreak\nRelated Topics\nParks and Recreation Department\nComments\nPost\nCommunity Policy\nYOU MAY ALSO LIKE\nComments\n/\nClose\nCommunity Policy",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->endangered species",
+      "Environment->conservation",
+      "Environment->nature",
+      "Social Issue->social problem",
+      "Crime, Law and Justice->vandalism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "NewsBreak\nRelated Topics\nParks and Recreation Department\nComments\nPost",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Recreation Board",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "MPRB",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "KARE",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T04:01:04.890+02:00",
+    "updated": "2025-03-06T04:01:04.890+02:00"
+  },
+  {
+    "uuid": "8980ace973cf84f925ff31e705ee952ffdf30a59",
+    "url": "https://www.devx.com/news/youth-coding-league-offers-inclusive-stem-education/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grace Phillips",
+    "published": "2023-12-28T22:53:00Z",
+    "title": "Youth Coding League Offers Inclusive STEM Education - DevX",
+    "text": "In Independence, Oregon, a committed group of coders is assisting young learners in acquiring essential computer abilities and mastering coding through their involvement in the Youth Coding League. This national nonprofit organization was established to provide children with coding-related problem-solving and mathematical skills. The Youth Coding League offers various workshops, coding lessons, and after-school programs, designed to engage and excite kids about technology and the intricacies of computer software. The organization aims to close the digital divide by making these opportunities accessible to students across diverse socio-economic backgrounds and promoting inclusivity in STEM education. Funding and accessibility of the program The program, which operates from the [local](https://www.devx.com/enterprise/localization-in-business-how-to-build-a-strong-strategy/) public library, is supported by a $15,000 grant from the Oregon Community Foundations’ Thriving Entrepreneurs fund and is accessible to children at no cost. This initiative aims to provide young minds with the tools, resources, and mentorship they need to develop their entrepreneurial skills and foster innovative thinking. By removing the financial barrier, the library encourages participation from children of diverse socioeconomic backgrounds, enabling them to explore various [career paths](https://www.devx.com/uncategorized/is-technology-a-good-career-path-how-to-know-if-technology-is-the-right-career-path-for-you/) and opportunities. Current coding teams at the library At present, the library houses two coding teams: one for students in fifth and sixth grades, and another for those in seventh and eighth grades. These two teams provide age-appropriate guidance and challenges to help develop the students’ programming skills and [computational](https://www.devx.com/terms/computer/) thinking. Engaging in collaborative projects, members of each group benefit from the opportunity to learn from their peers while also having access to a wealth of library resources to advance their knowledge. Plans for expansion As plans to broaden the program are underway, an increasing number of children will have the chance to join these teams and hone their coding abilities. This expansion not only aims to create more opportunities for children to develop their coding skills, but also to foster a strong interest in technology from a young age. By cultivating this passion, the program endeavors to nurture a new generation of [innovative thinkers and problem solvers in the world of technology](https://www.devx.com/technology/recruitment-technology-innovation/). Preparing students for the future By offering valuable, practical learning experiences, the Youth Coding League aims to prepare upcoming generations with the necessary resources to thrive in the [digital](https://www.devx.com/terms/digitization/) era. The Youth Coding League not only equips young learners with coding skills but also fosters creativity, confidence, and problem-solving abilities. Through collaborative, hands-on projects, students gain exposure to real-world applications of technology, ensuring they are well-prepared for success in their future careers. Impact on the local community As the program expands, a greater number of children in Independence will benefit from this all-encompassing coding instruction. With the inclusion of more engaging and [interactive](https://www.devx.com/terms/interactivity/) lessons, these young minds will acquire essential coding skills that can significantly impact their future career opportunities. Furthermore, this initiative aims to foster a sense of curiosity and interest in technology, thereby supporting the growth of the local community’s [technological literacy](https://www.devx.com/technology/why-technology-literacy-is-so-important-for-modern-workers/). First Reported on: [statesmanjournal.com](https://www.statesmanjournal.com/story/news/local/2023/12/27/coding-team-independence-oregon/71833325007/) Frequently Asked Questions What is the Youth Coding League? The Youth Coding League is a national nonprofit organization in Independence, Oregon that aims to teach young students essential computer skills and coding through workshops, lessons, and after-school programs. Its mission is to promote inclusivity while [bridging](https://www.devx.com/terms/bridging/) the digital divide across socio-economic backgrounds. How is the program funded and how accessible is it to students? The program in Independence is funded by a $15,000 grant from the Oregon Community Foundations’ Thriving Entrepreneurs Fund. It is accessible for free to local children, allowing students from diverse socio-economic backgrounds to participate and develop their entrepreneurial skills and innovative thinking. What are the current coding teams available at the library? Currently, there are two coding teams at the library: one for students in fifth and sixth grades, and another for those in seventh and eighth grades. Each team provides age-appropriate guidance and challenges to develop students’ programming skills and computational thinking through collaboration and access to library resources. Are there any plans for expanding the program? Yes, plans to expand the program are being pursued to accommodate more children who want to join the teams and hone their coding skills. The expansion aims to foster a strong interest in technology and create opportunities for young learners to develop their coding abilities. How does the Youth Coding League prepare students for the future? The Youth Coding League offers valuable, practical learning [experiences that prepare future generations](https://www.devx.com/artificial-intelligence-ai/revolutionizing-search-a-glimpse-into-googles-generative-experience/) for the digital era. By teaching coding skills and fostering creativity, confidence, and problem-solving abilities, students gain exposure to real-world applications of technology, equipping them for success in their future careers. What is the impact of the program on the local community? As the program expands, more children in Independence will benefit from comprehensive coding instruction. The initiative aims to promote curiosity and interest in technology, enhance essential coding skills, and support the growth of technological literacy within the local community and its future workforce.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.statesmanjournal.com/story/news/local/2023/12/27/coding-team-independence-oregon/71833325007/)",
+      "https://statesmanjournal.com/story/news/local/2023/12/27/coding-team-independence-oregon/71833325007/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "youth coding league",
+          "sentiment": "negative"
+        },
+        {
+          "name": "oregon community foundations",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "oregon",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:26:30.171+02:00",
+    "updated": "2023-12-29T04:26:30.171+02:00"
+  }
+]

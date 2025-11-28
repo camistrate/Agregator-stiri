@@ -1,0 +1,397 @@
+[
+  {
+    "uuid": "68c777d87247013b135c441fa802743ea355b6cb",
+    "url": "https://www.jpost.com/israel-news/article-810055",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jpost.com",
+    "published": "2024-07-12T02:13:00Z",
+    "title": "Ben-Gvir leads post-Netanyahu right-wing support, poll - Israel News - The Jerusalem Post",
+    "text": "National Security Minister Itamar Ben-Gvir received the highest amount of support among coalition party voters as a candidate to lead the right-wing bloc in a post-Prime Minister Benjamin Netanyahu era, according to a new survey by Maariv, led by Dr. Menachem Lazar from Lazar Research and in collaboration with Panel4All.The survey, which took place on July 10-11, included 500 respondents who represented a sample of Israel's adult population aged 18 and over, both Jews and Arabs. The maximum sampling error is 4.4%.According to the survey, Ben-Gvir receives 24% support among coalition party voters, followed by Yossi Cohen (14%) and Bezalel Smotrich (11%.)console.log(\"2390 BODY2. CatId is:\"+catID);if(catID==120){ console.log(\"2390 BODY. YES for anyclip script\"); var script = document.createElement('script'); script.src = 'https://player.anyclip.com/anyclip-widget/lre-widget/prod/v1/src/lre.js'; script.setAttribute('pubname','jpostcom'); script.setAttribute('widgetname','0011r00001lcD1i_12258'); document.getElementsByClassName('divAnyClip')[0].appendChild(script); }else if(catID !== 151) { let widgetid = \"60fd6becf6393400049e6535\"; if(catID === 69){ widgetid = \"65c3a2148772803523c6f41b\"; }else if(catID === 161){ widgetid = \"65c3a224fb10822a0a7db2dd\"; } console.log(\"2390 BODY. YES for vidazoo script\"); var script = document.createElement('script'); script.src = 'https://static.vidazoo.com/basev/vwpt.js'; script.setAttribute('data-widget-id', widgetid); document.getElementsByClassName('divVidazoo')[0].appendChild(script);} Maariv's poll results, showing that the National Camp is in the lead. (credit: Screenshot/Maariv)When asked if the Knesset elections had been held today, many respondents answered that they would have chosen the National Camp, granting it a total of 24 seats, compared to the 23 it had received in the previous survey.Following the National Camp, the Likud would have gotten 20 seats (compared to 21 in previous polls), Yisrael Beiteinu would remain with 14 seats, and Yesh Atid would also remain with the same number of seats as previous polls suggested: 13.The Democrats party (previously known as Labor and Meretz parties) would drop to nine seats, compared to the 10 seats suggested by previous polls. Shas would remain at nine seats, while Otzma Yehudit will gain another seat compared to earlier polls and hold ten seats.United Torah Judaism&rsquo;s, Hadash-Ta&rsquo;al&rsquo;s, and Religious Zionism&rsquo;s number of seats would remain unchanged, with seven, five, and four seats, respectively. Finally, Ra&rsquo;am would garner an additional seat compared to previous polls, totaling five seats. According to the results, the bloc breakdown remains with 50 seats for the coalition, 60 for the opposition, and 10 for the Arab parties.Unified right-wing partyWhen asked if a unified right-wing party including Avigdor Liberman, Naftali Bennett, Yossi Cohen, Ayelet Shaked, and Gideon Sa'ar runs in the next Knesset elections, and the other parties remain unchanged, who would you vote for?The answers were: Unified Right-Wing Party would drop to 27 seats (compared to 29,) Likud would drop to 18 seats (compared to 19,) and National Camp and Yesh Atid would remain unchanged at 16 and 12 seats respectively.The parties Shas and Oztma Yehudit&rsquo;s number of seats would also remain unchanged at nine seats each. The Democrats will drop down one seat, ending at a total of eight, while Hadash-Ta&rsquo;al and Ra&rsquo;am will both remain unchanged at five seats each. Finally, the Religious Zionism Party would rise to a total of four seats compared to no seats as previous polls suggested. Maariv's poll, responses to the question concerning a unified right-wing bloc. (credit: Screenshot/Maariv)In this scenario, the coalition receives 47 seats versus 63 for the opposition, which can still form a government without the Arab parties.Furthermore, according to all respondents, Former Prime Minister Naftali Bennett should lead the unified right-wing party, with 34% of the respondents voting for him. Liberman follows him with 11% of the votes. Results of Maariv's poll, suggesting Former Prime Minister Naftali Bennet to replace Prime Minister Benjamin Netanyahu. (credit: Screenshot/Maariv)Benny Gantz received 43% of the votes and surpassed Prime Minister Netanyahu in suitability for the role of Prime Minister by a margin of 5%. In contrast, Bennett leads Netanyahu by a margin of 13% (48% versus 35%, respectively.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ben-gvir",
+          "sentiment": "negative"
+        },
+        {
+          "name": "itamar ben-gvir",
+          "sentiment": "negative"
+        },
+        {
+          "name": "menachem lazar",
+          "sentiment": "none"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "sentiment": "none"
+        },
+        {
+          "name": "yossi cohen",
+          "sentiment": "none"
+        },
+        {
+          "name": "bezalel smotrich",
+          "sentiment": "none"
+        },
+        {
+          "name": "yisrael beit",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "israel news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lazar research",
+          "sentiment": "none"
+        },
+        {
+          "name": "maariv",
+          "sentiment": "none"
+        },
+        {
+          "name": "national camp",
+          "sentiment": "none"
+        },
+        {
+          "name": "knesset",
+          "sentiment": "none"
+        },
+        {
+          "name": "likud",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "jerusalem",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T10:51:05.333+03:00",
+    "updated": "2024-07-12T11:01:58.881+03:00"
+  },
+  {
+    "uuid": "0570f41ddfe8a134a37000dd618f1b26e7663966",
+    "url": "https://ina.iq/eng/35035-hezbollah-bombed-the-city-of-safed-with-80-rockets.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ina__news",
+    "published": "2024-09-27T03:30:00Z",
+    "title": "Hezbollah bombed the city of Safed with 80 rockets » Iraqi News Agency",
+    "text": "Follow-up - INA The Islamic Resistance in Lebanon, \"Hezbollah\", announced today, Thursday, that it had bombarded the occupied city of Safed with 80 rockets. A statement by the resistance said: \"In support of our steadfast Palestinian people in the Gaza Strip, in support of their valiant and honourable resistance, in defense of Lebanon and its people, and response to the barbaric Zionist invasion of cities, villages and civilians, the Islamic Resistance fighters bombed the occupied city of Safed today, Thursday 9/26/2024, with eighty rockets.\" [ Hezbollah declares bombing of a colony and a Zionist intelligence headquarters ](https://ina.iq/eng/35043-hezbollah-declares-bombing-of-a-colony-and-a-zionist-intelligence-headquarters.html) [ Antarctica’s 'doomsday' glacier is heading for catastrophic collapse ](https://ina.iq/eng/34876-antarcticas-doomsday-glacier-is-heading-for-catastrophic-collapse.html) [ PM: Pushing forward the relations between Iraq and Somalia is necessary ](https://ina.iq/eng/34979-pm-pushing-forward-relations-between-iraq-and-somalia-is-necessary.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:06:44.502+03:00",
+    "updated": "2024-09-27T01:06:44.502+03:00"
+  },
+  {
+    "uuid": "c7b1170c5df18c5e21dd698ad49c6df3e780e1f4",
+    "url": "https://www.tiempo.com.mx/noticia/capacitan_funcionarios_municipio_etica_conducta_antisoborno",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tiempo - La Noticia Digital.",
+    "published": "2024-12-05T21:39:00Z",
+    "title": "Capacitan a funcionarios de Municipio en ética y conducta antisoborno",
+    "text": "Carmen Yazmín Hidalgo Posada, directora del OIC, encabezó la capacitación, subrayando la importancia de que quienes forman parte de este sistema desempeñen un rol fundamental en el cumplimiento de las políticas anticorrupción.\nLa capacitación es un paso esencial para mantener la certificación Antisoborno, que el Municipio de Chihuahua obtuvo por un periodo de tres años. Aunque ya cuenta con esta distinción, el cumplimiento de la norma es revisado anualmente mediante auditorías.\n“El compromiso con la ética y la transparencia no es solo un requisito para la certificación, sino una práctica diaria que asegura que las políticas y procedimientos anticorrupción sean efectivos y estén alineados con estándares internacionales”, destacó Hidalgo Posada.\nCon este tipo de acciones, el Gobierno Municipal reafirma su compromiso con el combate frontal a la corrupción, buscando fortalecer la confianza ciudadana en sus instituciones y garantizar un manejo honesto y responsable de los recursos públicos.\nComparte este artículo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Education"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/intent/tweet?source=&text=Capacitan",
+      "https://twitter.com/intent/tweet?text=",
+      "https://www.facebook.com/sharer/sharer.php?u=",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://facebook.com/sharer/sharer.php?u=",
+      "https://www.twitter.com/intent/tweet?text=",
+      "https://twitter.com/intent/tweet",
+      "https://www.twitter.com/intent/tweet?source=&text=Capacitan"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T00:57:03.617+02:00",
+    "updated": "2024-12-06T00:57:03.617+02:00"
+  },
+  {
+    "uuid": "7961085db718b2d393c3bfc85fd835b8f61ec2a7",
+    "url": "https://www.firstcoastnews.com/video/sports/porters-place-chris-porter-sits-down-with-raines-football-head-coach-and-quarterback-following-historic-season/77-b073e169-953e-487a-9589-4d3ce53c8259",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Author firstcoastnews com",
+    "published": "2025-01-16T00:00:00Z",
+    "title": "PORTER'S PLACE: Chris Porter sits down with Raines football head coach and quarterback following historic season | firstcoastnews.com",
+    "text": "PORTER'S PLACE: Chris Porter sits down with Raines football head coach and quarterback following historic season\nSports Director Chris Porter sits down with Raines Head Coach Donovan Masline and quarterback Timothy Cole for a conversation about their historic season.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Sport->sport event",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:12:58.123+02:00",
+    "updated": "2025-01-17T00:12:58.123+02:00"
+  },
+  {
+    "uuid": "434f942166865722b773507cd4aca4f840064d43",
+    "url": "https://www1.folha.uol.com.br/colunas/painelsa/2024/08/hangar-onde-aviao-do-pcc-foi-apreendido-opera-com-contrato-vencido.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julio Wiziack,Diego Felix",
+    "published": "2024-08-08T18:12:00Z",
+    "title": "Hangar onde avião do PCC foi apreendido opera sem contrato - 08/08/2024 - Painel S.A. - Folha",
+    "text": "Painel S.A. Julio Wiziack é editor do Painel S.A. e está na Folha desde 2007, cobrindo bastidores de economia e negócios. Foi repórter especial e venceu os prêmios Esso e Embratel, em 2012\nLink externo, e-mail de Painel S.A. Seguir Salvar artigos\nRecurso exclusivo para assinantes\nassine ou faça login\nHangar onde avião do PCC foi apreendido opera com contrato vencido Controlada pelo grupo XP, nova concessionária foi à Justiça para tentar expulsar empresa do local e alega risco ao equilíbrio financeiro do contrato dê um conteúdo benefício do assinante\nVocê tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nbenefício do assinante\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nJá é assinante? Faça seu login ASSINE A FOLHA Copiar link Salvar para ler depois Salvar artigos\nRecurso exclusivo para assinantes\nassine ou faça login\nPainel S.A. Receba no seu email as informações exclusivas da coluna Painel S.A.\nCarregando...\n8.ago.2024 às 18h12 Edição Impressa Ouvir o texto Diminuir fonte Aumentar fonte Brasília e São Paulo\nPalco da apreensão de um avião do PCC , o maior hangar do Campo de Marte, aeroporto executivo na Zona Norte de São Paulo , está há quase 22 anos nas mãos de uma empresa que opera com o contrato vencido e deixou de comprovar o pagamento de aluguéis à Justiça.\nRepresentante no Brasil da Robinson Helicopter Company, principal fabricante de helicópteros do mundo e cuja marca está estampada na entrada do hangar, a Tucson Aviação conseguiu se manter explorando a área mesmo após o vencimento de seu contrato, em 31 de dezembro de 2002.\nAeronave que era procurada pela polícia foi apreendida no Campo de Marte, na zona norte de SP - Divulgação/Polícia Civil\nA empresa continuou operando graças a uma liminar já obtida, revogada e mais adiante reabilitada pela Justiça.\nCom a privatização do Campo de Marte, há um ano, o problema foi transferido para a PAX Aeroportos , que substituiu a Infraero em agosto do ano passado e é controlada pelo grupo XP.\nA nova operadora alega prejuízos e diz que a situação coloca em risco o \"equilíbrio financeiro da sua concessão e do seu plano de amortização de investimentos\".\nNesta quarta, em operação contra uma rede de empresas de fachada e de laranjas usada para ocultar bens da facção criminosa, a Polícia Civil apreendeu um Bandeirante Embraer EMD-110 , prefixo PTO-CW, avaliado em cerca de US$ 900 mil (R$ 5 milhões) e que estava no hangar.\nMegaoperação mira milícia, hotéis e ferros-velhos para retirar controle do PCC no centro de SP ic_save\nMais\nic_share\nLeia Mais Ícone fechar Voltar Ver novamente Voltar\nVoltar\nCompartilhe Ícone Facebook Facebook Ícone Whatsapp Whatsapp Ícone Twitter Twitter Ícone de messenger Messenger Ícone Linkedin Linkedin Ícone de envelope E-mail Ícone de link Cadeado representando um link Copiar link Ícone fechar\nO antigo dono da aeronave era um pedreiro sem capacidade financeira para ter tal patrimônio.\nA Tucson assumiu o espaço em janeiro de 1999. O contrato previa quatro anos de uso, renováveis por até cinco anos —o que não ocorreu por convenção entre as partes.\nQuatro meses antes de o acordo se encerrar, a empresa deixou de recolher a locação de R$ 18.737,91 mensais e se recusou a cumprir as notificações para deixar o local.\nA Tucson ajuizou uma ação de manutenção de posse contra a Infraero, que, por outro lado, respondeu com um processo de reintegração de posse. O litígio se arrasta desde 2003.\nNovela jurídica À época do fim do contrato, a Infraero informou que, sendo o aeroporto da União, tinha o dever legal de abrir uma licitação para a ocupação do hangar —da qual a Tucson poderia participar.\nNa Justiça, no entanto, a Tucson conseguiu a liminar e foi mantida no hangar até agosto de 2008, quando a juíza substituta Taís Bargas Ferracini de Campos Gurgel julgou o mérito da ação e mandou a empresa desocupá-lo. Na decisão, classificou a situação como \"esbulho\" (usurpação).\nPolêmica e ilegalidades no transporte atravessaram gestões em São Paulo ic_save\nMais\nic_share\nLeia Mais Ícone fechar Voltar Ver novamente Voltar\nVoltar\nCompartilhe Ícone Facebook Facebook Ícone Whatsapp Whatsapp Ícone Twitter Twitter Ícone de messenger Messenger Ícone Linkedin Linkedin Ícone de envelope E-mail Ícone de link Cadeado representando um link Copiar link Ícone fechar\nA Tucson recorreu e conseguiu reverter a decisão em 2015, alegando que a sentença foi dada sem que a Justiça tivesse analisado um pedido de produção de prova testemunhal.\nO argumento foi aceito pela desembargadora federal Alda Basto e confirmado pela 4ª Turma do Tribunal Regional Federal da 3ª Região (TRF-3).\nÀquela altura dos fatos, a empresa já havia passado 12 anos no hangar, pagando o mesmo aluguel, de R$ 18.737,91, sem nenhuma correção.\nReajustes A Infraero, então, resolveu aplicar as cláusulas de reajuste do contrato original, mas enviou a conta com reajuste, no valor de R$ 42.649,51 mensais.\nFoi quando a Tucson entrou na Justiça novamente para questionar o novo valor. Na petição, a empresa afirmou que a liminar de 2003 não previa os reajustes e que os índices de correção só poderiam ser aplicados a partir de 2013 devido ao prazo de prescrição previsto no Código Civil.\nPainel S.A. Receba no seu email uma newsletter exclusiva da coluna\nCarregando...\nCom isso, obteve decisão para pagar os valores incontroversos, com base no cálculo mais conservador, comprovando seu recolhimento em juízo. A diferença reclamada pela Infraero seria julgada posteriormente.\nEm 2016, a Tucson passou a pagar R$ 24.829,35. Em março de 2020, o aluguel estava em R$ 28.742,74. Porém, a partir daquele mês, não constam mais do processo os comprovantes de depósito.\nUma perícia autorizada pela Justiça calculou, em 2019, que a defasagem no valor do aluguel já havia causado um prejuízo de R$ 4,4 milhões à Infraero.\nA Tucson manteve-se no hangar blindada pela liminar e resistiu inclusive à troca na administração do Campo de Marte, em leilão promovido pela Anac (Agência Nacional de Aviação Civil).\nNova gestão A PAX Aeroportos, que arrematou o aeródromo, a notificou em 14 de agosto de 2023 para que desocupasse o hangar em até 10 dias, mas nada ocorreu.\nA empresa nem sequer apresentou resposta à notificação da PAX. Em setembro, a concessionária foi até o local e fez imagens mostrando que a Tucson seguia explorando o hangar.\nUma nova ação foi ajuizada, desta vez pela concessionária, que pediu a desocupação em prazo máximo de 30 dias.\nA PAX argumenta que, ainda que o direito à renovação do contrato da Tucson fosse admitido judicialmente, essa renovação não poderia se estender para além de 2007.\nO Campo de Marte visto de cima ic_save\nMais\nic_share\nLeia Mais Ícone fechar Voltar Ver novamente Voltar\nVoltar\nCompartilhe Ícone Facebook Facebook Ícone Whatsapp Whatsapp Ícone Twitter Twitter Ícone de messenger Messenger Ícone Linkedin Linkedin Ícone de envelope E-mail Ícone de link Cadeado representando um link Copiar link Ícone fechar\nIsso porque o contrato original acabou em 2002 e suas cláusulas só previam prorrogação máxima de cinco anos, o que não ocorreu.\nEm 20 de outubro de 2023, no entanto, decisão do juiz Jorge Alberto Quadros de Carvalho Silva, da 3ª Vara Cível de São Paulo, indeferiu o pedido de liminar.\nO argumento é de que há ação em curso \"entre o poder concedente [União] e a ré, na qual é pleiteada exatamente a mesma área, o que torna a coisa litigiosa\".\nA PAX entrou com recurso no TJSP . Em 30 de janeiro de 2024, os desembargadores da 1ª Câmara de Direito Privado entenderam que o processo movido contra a Tucson deveria ser remetido para análise da Justiça Federal.\nO caso agora tramita conjuntamente com os iniciados em 2003, quando o Campo de Marte era administrado pela Infraero, e até hoje sem uma solução definitiva.\nConsultada, a Tucson não quis se manifestar. A concessionária PAX disse que se pronunciará somente nos autos do processo.\nCom Diego Felix\nLINK PRESENTE: Gostou deste texto? Assinante pode liberar sete acessos gratuitos de qualquer link por dia. Basta clicar no F azul abaixo.\ndê um conteúdo benefício do assinante\nVocê tem 7 acessos por dia para dar de presente. Qualquer pessoa que não é assinante poderá ler.\nbenefício do assinante\nAssinantes podem liberar 7 acessos por dia para conteúdos da Folha.\nJá é assinante? Faça seu login ASSINE A FOLHA Copiar link Salvar para ler depois Salvar artigos\nRecurso exclusivo para assinantes\nassine ou faça login\nTópicos relacionados Leia tudo sobre o tema e siga:\naeroportos Folhajus pcc polícia civil São Paulo São Paulo - Estado TJSP sua assinatura pode valer ainda mais Você já conhece as vantagens de ser assinante da Folha? Além de ter acesso a reportagens e colunas, você conta com newsletters exclusivas ( conheça aqui ). Também pode baixar nosso aplicativo gratuito na Apple Store ou na Google Play para receber alertas das principais notícias do dia. A sua assinatura nos ajuda a fazer um jornalismo independente e de qualidade. Obrigado!\nsua assinatura vale muito Mais de 180 reportagens e análises publicadas a cada dia. Um time com mais de 200 colunistas e blogueiros. Um jornalismo profissional que fiscaliza o poder público, veicula notícias proveitosas e inspiradoras, faz contraponto à intolerância das redes sociais e traça uma linha clara entre verdade e mentira. Quanto custa ajudar a produzir esse conteúdo?\nASSINE POR R$ 1,90 NO 1º MÊS Veja outros artigos desse colunista Envie sua notícia Erramos? Endereço da página https://www1.folha.uol.com.br/colunas/painelsa/2024/08/hangar-onde-aviao-do-pcc-foi-apreendido-opera-com-contrato-vencido.shtml Comentários Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem.\nTermos e condições Todos os comentários Comente Comentar é exclusividade para assinantes.\nAssine a Folha por R$ 1,90 no 1º mês Compartilhar Facebook Twitter Responda Denuncie",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://secure.folha.com.br/folha?gid=FOL",
+      "https://play.google.com/store/apps/details?id=br.com.folha.app&hl=pt_BR&utm_source=materia&utm_medium=textofinal&utm_campaign=androidtextocurto",
+      "https://apps.apple.com/br/app/folha-de-s-paulo/id943058711?utm_source=materia&utm_medium=textofinal&utm_campaign=appletextocurto",
+      "https://login.folha.com.br/newsletter",
+      "https://assinaturas.folha.com.br/420733",
+      "https://assinaturas.folha.com.br/420734",
+      "https://folha.com/hvfmlg3y",
+      "https://apps.apple.com/br/app/folha-de-s-paulo/id943058711",
+      "https://www.apps.apple.com/br/app/folha-de-s-paulo/id943058711?utm_source=materia&utm_medium=textofinal&utm_campaign=appletextocurto",
+      "https://secure.folha.com.br/folha",
+      "https://www.folha.com/hvfmlg3y",
+      "https://www.assinaturas.folha.com.br/420733",
+      "https://www.assinaturas.folha.com.br/420734",
+      "https://play.google.com/store/apps/details",
+      "https://www.play.google.com/store/apps/details?id=br.com.folha.app&hl=pt_BR&utm_source=materia&utm_medium=textofinal&utm_campaign=androidtextocurto",
+      "https://www.login.folha.com.br/newsletter",
+      "https://www.secure.folha.com.br/folha?gid=FOL"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:20:07.520+03:00",
+    "updated": "2024-08-28T23:40:24.247+03:00"
+  },
+  {
+    "uuid": "7a04ab11394d737a2930e7cdb55727736750665b",
+    "url": "https://www.redlandsdailyfacts.com/2025/07/10/brush-fire-burning-in-moreno-valley-prompts-evacuation-warnings",
+    "ord_in_thread": 0,
+    "author": "Brian Rokos",
+    "published": "2025-07-10T21:43:00Z",
+    "title": "Evacuation warnings canceled as crews gain ground on brush fire burning in Moreno Valley",
+    "text": "The Reche fire, reported around 12:50 p.m. near Reche Canyon Road and Locust Avenue, had burned about 10 acres by mid-afternoon.\nSubscribe to continue reading this article.\nAlready subscribed? To log in, click here.\nOriginally Published:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Disaster and Accident->fire"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Locust Avenue",
+          "sentiment": "none"
+        },
+        {
+          "name": "Reche",
+          "sentiment": "none"
+        },
+        {
+          "name": "Road",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "7a04ab11394d737a2930e7cdb55727736750665b",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-11T04:34:05.553+03:00",
+    "updated": "2025-07-11T01:38:10.000+00:00"
+  },
+  {
+    "uuid": "b26abe8d0196e798cecf56c909e63e0c485c76bd",
+    "url": "https://enviroliteracy.org/why-is-aiptasia-a-pest",
+    "ord_in_thread": 0,
+    "author": "Enviroliteracy Team",
+    "published": "2025-05-08T00:28:00Z",
+    "title": "Why is Aiptasia a pest?",
+    "text": "Why is Aiptasia a Pest? The Reef Keeper’s Nemesis Explained Aiptasia, often called glass anemones or tube anemones , are considered a significant pest in the saltwater aquarium hobby for several compelling reasons. Primarily, their rapid reproduction and aggressive nature allow them to quickly outcompete desirable inhabitants for food and space. Moreover, they possess potent stinging cells (nematocysts) that can harm or even kill corals and other invertebrates , disrupting the delicate balance of the reef ecosystem within the aquarium.\nUnderstanding the Aiptasia Menace Aiptasia’s pest status stems from a confluence of factors:\nRapid Proliferation: Aiptasia are incredibly efficient reproducers. Even small fragments can regenerate into new individuals, making physical removal notoriously difficult and often counterproductive. Attempts to scrape or break them apart typically result in an explosion of new anemones. Aggressive Competition: These anemones are opportunistic feeders and highly adaptable. They aggressively compete with corals and other invertebrates for essential resources like light, nutrients, and physical space. Their ability to quickly colonize available surfaces makes them a formidable competitor. Stinging Capabilities: Aiptasia possess nematocysts, specialized stinging cells that inject venom into their prey. While not typically harmful to humans beyond a mild irritation, this venom can be detrimental, even fatal , to many corals and smaller invertebrates commonly kept in reef aquariums. They effectively create a “no-go zone” around them. Introduction and Spread: Aiptasia are often introduced unintentionally into aquariums as “hitchhikers” on live rock or coral frags . Their hardy nature and tolerance to a wide range of environmental conditions allow them to survive the transport process and quickly establish themselves in a new tank. Difficulty in Eradication: Once established, Aiptasia are notoriously difficult to eradicate. Their ability to regenerate from fragments, coupled with their resistance to many chemical treatments, makes them a persistent problem for many aquarists. While complete eradication is ideal, controlling the population is often the primary goal. Frequently Asked Questions (FAQs) About Aiptasia 1. How do Aiptasia get into my aquarium? Aiptasia are most commonly introduced as hitchhikers on live rock or coral colonies . Inspecting new acquisitions carefully before introducing them into your main tank can help prevent infestations. Quarantine tanks are helpful.\n2. Can Aiptasia sting humans? Yes, Aiptasia can sting humans, although the sting is generally mild and comparable to a nettle sting. It may cause a brief burning sensation or localized itching.\n3. What are the benefits of Aiptasia? In a closed reef aquarium environment, there are very few benefits of Aiptasia. In natural marine ecosystems, they play a role in nutrient cycling and can provide a food source for certain specialized predators. However, these benefits are overshadowed by their negative impacts in the artificial environment of an aquarium.\n4. Should I remove Aiptasia? Absolutely . Aiptasia should be removed or controlled to prevent them from harming other inhabitants of your reef tank. Untreated, their population can quickly explode, threatening the entire ecosystem.\n5. What happens if you cut Aiptasia? Cutting or physically mutilating Aiptasia is generally not recommended . It often causes them to reproduce and spread, exacerbating the problem. Each fragment can regenerate into a new individual.\n6. What gets rid of Aiptasia? There are several methods for controlling Aiptasia, including:\nNatural Predators: Peppermint shrimp (Lysmata wurdemanni) and Berghia nudibranchs are known Aiptasia predators. Chemical Treatments: Products like Aiptasia-X and Joe’s Juice can be directly injected into the anemones. Electrocution: Devices like the Majano Wand use a mild electrical current to kill Aiptasia. Kalkwasser Paste: A paste made from kalkwasser (calcium hydroxide) can be applied to the Aiptasia. 7. Do any fish eat Aiptasia? Some fish, such as the Copperband butterflyfish and certain filefish, may eat Aiptasia, but their effectiveness can vary. They might also nip at corals, so this option requires careful consideration.\n8. Can you cut off Aiptasia? As mentioned earlier, physically cutting off Aiptasia is counterproductive . They can regenerate from even a few cells, leading to further spread.\n9. What is the best killer for Aiptasia? The “best” killer depends on the situation and the size of the infestation. Peppermint shrimp are often a good starting point, while chemical treatments are effective for individual anemones. Berghia nudibranchs are excellent for larger infestations but require a dedicated Aiptasia population to sustain them.\n10. Do Molly Miller Blennies eat Aiptasia? Molly Miller Blennies have been reported to eat small Aiptasia, but their effectiveness is not always consistent. They may be more effective at controlling small outbreaks.\n11. Will Peppermint Shrimp eat Aiptasia? Yes , certain species of Peppermint Shrimp (Lysmata wurdemanni) are known to eat Aiptasia. However, it’s crucial to ensure you have the correct species, as other shrimp may not be interested in Aiptasia.\n12. Do hermit crabs eat Aiptasia? Some hermit crabs, like the White Spotted Hermit Crab (Dardanus megistos), have been reported to consume Aiptasia, but they are often not reef safe and may prey on other invertebrates.\n13. Will Aiptasia spread? Absolutely . Aiptasia are highly virulent and can spread quickly in the aquarium. This is due to their ability to reproduce both sexually and asexually (through fragmentation).\n14. Do cleaner shrimp eat Aiptasia? Most cleaner shrimp, like Lysmata amboinensis, do not typically eat Aiptasia . The exception is the Peppermint Shrimp, specifically L. wurdemanni, which is often mislabeled as a cleaner shrimp.\n15. Do Aiptasia need light? Aiptasia do need light. They contain zooxanthellae, symbiotic algae that require light to photosynthesize and provide the anemones with nutrients. While they can survive in the dark for a period, they will eventually weaken and die without light. It’s important to remember the relationship between environment and species, which The Environmental Literacy Council discusses often, so it helps to read up to get a broader perspective. Check them out at enviroliteracy.org .\nConclusion: Aiptasia Control is Essential Dealing with an Aiptasia infestation can be frustrating, but with a proactive approach and the right tools, it’s possible to control or even eradicate these pests from your reef aquarium. Regular observation, careful introduction of new livestock, and prompt action when Aiptasia are spotted are key to maintaining a healthy and thriving reef environment. Remember that patience and persistence are crucial in the battle against Aiptasia. Aiptasia are a troublesome pest in reef aquariums due to their rapid reproduction and aggressive nature. This often allows them to outcompete other species.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->ecosystem",
+      "Environment->invasive species",
+      "Science and Technology->marine science",
+      "Science and Technology->biology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T05:02:40.828+03:00",
+    "updated": "2025-05-08T02:06:43.000+00:00"
+  }
+]

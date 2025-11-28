@@ -1,0 +1,424 @@
+[
+  {
+    "uuid": "da84f2ae86724dc7a5a9811abc79f7da77fa508a",
+    "url": "https://www.forbes.com/sites/daveywinder/2024/11/22/no-your-gmail-messages-arent-100-private-2-ways-to-fix-that",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Davey Winder",
+    "published": "2024-11-22T00:00:00Z",
+    "title": "No, Your Gmail Isn’t Truly Private—2 Ways To Fix That",
+    "text": "Update, Nov. 22, 2024: This story, originally published Nov. 21, now includes details of new privacy measures that Google is bringing to Gmail users such as shileded email addresses, as well as those of other Google products and services including Android’s privacy sandbox.\nGoogle’s free Gmail service has been a complete revolution as far as email ease of use and popularity is concerned. With more than 2.5 billion active accounts, according to Google’s own figures, that’s almost a third of the world’s population. One area where Gmail has not been quite so revolutionary, though, is when it comes to email privacy, specifically end-to-end encryption that ensures messages are only read by the intended recipient. While Google has made a big effort to ensure that Gmail is secure and email messages as private as possible, including the use of encryption in transit to stop eavesdropping during the delivery process, end-to-end encryption appears to be a step too far. Here’s why that matters and two things you can do to fix it.\nForbes Stop Using Your Passwords—1Password And Google Warn By Davey Winder Round One—The Great Gmail Privacy Debate OK, let’s make this as clear as possible from the get-go: Google does a great job when it comes to Gmail security and privacy protections for the most part. Gmail data is used in providing features such as smart inbox categorization, smart message compose and for spam detection, but you stay in control of whether these are enabled or not. Similarly, Gmail performance data and crash analytics usage is used to help troubleshoot problems and improve performance, as well as “to help prevent abuse of our services and for analysis,” but you have choices here as well. Then there’s the big issue of serving up relevant adverts in the promotions or social tabs of Gmail, for example, which uses an automated process based on online activity. However, Google makes it quite clear that “we do not process email content to serve ads.”\nSo, where’s the Gmail privacy beef then? Ah, well, that sits with the not so small matter of email message encryption. Or, more to the point, what is encrypted and when.\nRound Two—The Gmail Message Encryption Debate Stop Using Your Passwords—1Password And Google Warn Pam Bondi: What We Know About Trump’s New Pick For AG After Gaetz’s Exit Today’s NYT Mini Crossword Clues And Answers For Friday, November 22nd For the longest time, people have been asking me whether Google encrypts Gmail or not. And the answer remains the same: it’s complicated. By which I don’t mean the encryption process itself, although that necessarily is seeing as it’s a math thing, but rather the what, when and how explanation of Gmail encryption. Once again, Google is very upfront about just how Gmail messages are encrypted. Indeed, it has a support page dedicated to a Gmail encryption FAQ . Here, Google explains how transport layer security is used to encrypt email in transit so it’s protected against eavesdropping by anyone with sufficient access to the networks through which that message travels to its destination. “You can think of it as a temporary envelope of security that is wrapped around your email to keep it private while it is being transmitted to its intended recipient,” Google said.\nThat envelope, however, is opened once the email arrives at its destination and that means anyone with access to that inbox then also has access to the message itself. With your mail being a prime target for hackers, it’s important, therefore, to consider how your Gmail messages could be encrypted end-to-end, even though Google doesn’t provide this additional security measure.\nForbes Now Hackers Are Using Snail Mail In Cyber Attacks—Here’s How By Davey Winder What Google does provide, though, is a Gmail confidential mode that adds some additional access controls such as an expiration date for messages and controls over forwarding, copying, printing and downloading. Certain paid Google Workspace accounts can also make use of Secure/Multipurpose Internet Mail Extensions and client-side encryption. However, when it comes to end-to-end encryption for the masses, those using the free Gmail platform, you’ll need to look elsewhere to increase the privacy threshold of your email. I have approached Google for a statement.\nRound Three—Two Ways To Lockdown Email Privacy Outside Of Gmail Defaults Use a Gmail add-in such as SendSafely which adds end-to-end encryption of Gmail using the OpenPGP standard. “With the SendSafely Chrome Extension , you can send encrypted files and messages directly from Gmail or using our Chrome pop-out menu,” the developers said. Another example of such an encryption add-on is Mailvelope and works in a similar way.\nUse a dedicated email platform complete with end-to-end encryption built in, like Proton Mail , for example. Disclaimer: I have no ties to Proton Mail but I do use it as my day-to-day email client and have been doing so for quite some time now. Although there are paid-for versions of Proton Mail, the free to use version comes with end-to-end encryption and zero-access encryption which means nobody, not even Proton, can see the content of your emails. Proton Mail claims to be “the world’s largest end-to-end encrypted email service,” and whatever the legitimacy of that claim, I can testify to the fact that it’s among the easiest encrypted email platforms I have used. Which is why it makes the perfect alternative to Gmail for anyone looking to move to an end-to-end encryption-supporting platform.\nForbes Gmail Users Beware—Link Hovering Attacks On The Up By Davey Winder Round Four—Google’s Privacy Sandbox, Gmail’s Shielded Email Addresses “Building products that are secure by default, private by design, and put users in control: everything we make at Google is underpinned by these principles, and we’re proud to be an industry leader in developing, deploying, and scaling new privacy-preserving technologies that make it possible to unlock valuable insights and create helpful experiences while protecting our users’ privacy,” Miguel Guevara, product manager for privacy, safety and security at Google, recently told Help Net Security , As I’ve already mentioned, Google is a high-profile target when it comes to accusations of privacy violations, but that doesn’t mean the company isn’t actually doing a lot of good work in this area. Let’s start with Gmail, as that’s what we have focused on so far, and the introduction of shielded email.\nA painstaking analysis of the application package “APK” code for a new Google Play Services release has recently revealed what could be something of a revolutionary privacy move for Gmail: the availability of automated, random, email addresses using a private email forwarding system. If this sounds kind of familiar, that’s because it is. What we think is going to be called Shielded Email for users of the Gmail Android app, is much the same thing that Apple provides iPhone users with in the form of the Hide My Email feature. his notion of having multiple, unique and essentially anonymous email addresses to use with your existing Gmail account is a massive step forward for Gmail users. Although such services exist as add-ins from third parties, to have them bundled into the Gmail app and officially supported is a welcome move towards more privacy.\nForbes Gmail Leak Reveals New Email Addresses Are Heading Your Way By Davey Winder Sticking with Android, but moving out of the purely Gmail domain, there’s the latest Android 16 developer preview which now features Google’s privacy sandbox. This is part of the privacy-focused developments Guevara referred to earlier. “In order to ensure a healthy app ecosystem, benefiting users, developers and businesses, the industry must continue to evolve how digital advertising works to improve user privacy,” Google said. And that’s where the privacy sandbox comes in. It is being developed to improve user privacy but not at the cost of access to free content and services. “The Privacy Sandbox on Android proposes a set of application programming interfaces that enable ads personalization and measurement in a more private way,” Google said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://support.google.com/transparencyreport/answer/7381230",
+      "https://proton.me/mail",
+      "https://chromewebstore.google.com/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke",
+      "https://capi.elements.video/tr/si?token=",
+      "https://chrome.google.com/webstore/detail/sendsafely-encryption-for/glpichgelkekjnccdflklcclhnoioblm",
+      "https://support.google.com/mail/answer/10079371",
+      "https://safety.google/intl/en_us/gmail/",
+      "https://www.helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy/",
+      "https://cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.chromewebstore.google.com/detail/mailvelope/kajibbejlbohfaggdiogboambcijhkke",
+      "https://www.safety.google/intl/en_us/gmail/",
+      "https://www.cds.elements.video/a/preload-resources-ovp.json",
+      "https://www.proton.me/mail",
+      "https://safety.google/intl/en_us/gmail",
+      "https://www.chrome.google.com/webstore/detail/sendsafely-encryption-for/glpichgelkekjnccdflklcclhnoioblm",
+      "https://www.support.google.com/mail/answer/10079371",
+      "https://www.helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy",
+      "https://www.capi.elements.video/tr/si?token=",
+      "https://helpnetsecurity.com/2024/10/31/miguel-guevara-google-implementing-differential-privacy/",
+      "https://www.support.google.com/transparencyreport/answer/7381230",
+      "https://capi.elements.video/tr/si"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Dave",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T15:22:15.521+02:00",
+    "updated": "2024-11-22T15:22:15.521+02:00"
+  },
+  {
+    "uuid": "510c84921b39d7aca329e8365ac28e971418df1b",
+    "url": "https://www.kwongwah.com.my/20250710/%e8%ad%a6%e7%9b%b4%e5%8d%87%e6%9c%ba%e5%9d%a0%e6%9c%ba%e5%9f%94%e8%8e%b1%e6%b2%b3-%e6%9c%ba%e4%b8%8a%e4%ba%94%e4%ba%ba%e6%88%90%e5%8a%9f%e8%a2%ab%e6%95%91/",
+    "ord_in_thread": 0,
+    "author": "Bluevy PLT",
+    "published": "2025-07-10T00:00:00Z",
+    "title": "警直升机坠机埔莱河 机上五人成功被救光华日报 | 1910年创刊 创新每一天生活",
+    "text": "民航局证实，一架隶属大马皇家警察的AS355N型直升机（注册编号：9M-PHG），今日在柔佛依斯干达公主城埔莱河一带坠机，机上五人皆成功被救起，目前送往医院检查及治疗。\n这架直升机于今早9时51分从丹绒古邦警察局起飞，机上共有5人，包括飞行员。\n这5人全被海警成功救起，并送往海事执法机构码头。\n- Advertisement -\n“他们正被转送至新山苏丹后阿米娜医院接受进一步检查与治疗。”\n- Advertisement -\n民航局声明指出，交通部属下的航空事故调查局将会根据2016年民航条例展开彻查。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->transportation accident and incident",
+      "Disaster and Accident->accident and emergency incident",
+      "Human Interest->human mishap",
+      "Social Issue->social problem",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T10:16:15.640+03:00",
+    "updated": "2025-07-10T07:20:59.000+00:00"
+  },
+  {
+    "uuid": "0a43c13b4cac1ec71fbc1c062a2683bf4ee6fce9",
+    "url": "https://www.eltiempo.com/tecnosfera/apps/la-aplicacion-gratuita-upscale-basada-en-inteligencia-artificial-convierte-viejas-fotos-borrosas-en-otras-nuevas-3391200",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Erika Lucia Ibañez García",
+    "published": "2024-10-17T20:39:00Z",
+    "title": "La aplicaci\\u00f3n gratuita Upscale, basada en inteligencia artificial, convierte viejas fotos borrosas en otras nuevas",
+    "text": "Explicativo Apps La aplicación gratuita Upscale, basada en inteligencia artificial, convierte viejas fotos borrosas en otras nuevas A través de la duplicación de tamaño, los usuarios podrán recuperar la nitidez en sus fotos antiguas. Conforme a los criterios de [Google lanza curso gratuito sobre inteligencia artificial: así puede hacer el proceso de inscripción](https://www.eltiempo.com/vida/educacion/google-lanza-curso-gratuito-sobre-inteligencia-artificial-asi-puede-hacer-el-proceso-de-inscripcion-3388598)). [Esta es la sofisticada estafa que usa IA y puede hacer que hackeen su cuenta de Gmail](https://www.eltiempo.com/tecnosfera/apps/esta-es-la-sofisticada-estafa-que-usa-ia-y-puede-hacer-que-hackeen-su-cuenta-de-gmail-3390741)). [@tecnotutostv]No puede ser posible que tengamos IA y no conozcas esta página[#ia][#trucos][#lifehack][♬ original sound - heyy] Más noticias en EL TIEMPO [Capturan a dos vecinos de Sofía Delgado, la niña desaparecida en Valle del Cauca, tras hallazgo de su cuerpo: uno tenía antecedentes de abuso sexual](https://www.eltiempo.com/colombia/cali/capturan-a-dos-vecinos-de-sofia-delgado-la-nina-desaparecida-en-valle-del-cauca-tras-hallazgo-de-su-cuerpo-lo-que-se-sabe-3391090) [Reforma laboral: la plenaria de la Cámara de Representantes vota los últimos artículos del proyecto de ley](https://www.eltiempo.com/economia/sectores/reforma-laboral-la-plenaria-de-la-camara-de-representantes-vota-los-ultimos-articulos-del-proyecto-de-ley-3391180) [Inteligencia Artificial](https://www.eltiempo.com/noticias/inteligencia-artificial) [Tecnología](https://www.eltiempo.com/noticias/tecnologia) [Aplicaciones](https://www.eltiempo.com/noticias/aplicaciones) [Restauración](https://www.eltiempo.com/noticias/restauracion) [Equipo Alcance](https://www.eltiempo.com/noticias/equipo-alcance) [contenidoliberado](https://www.eltiempo.com/noticias/contenidoliberado) [Erika Lucia Ibañez Garcia](https://www.eltiempo.com/noticias/erika-lucia-ibanez-garcia) DESCARGA LA APP EL TIEMPO Personaliza, descubre e informate. [App Store](https://www.eltiempo.com/tecnosfera/apps/app-de-el-tiempo-se-renueva-actualice-y-conozca-sus-nuevas-funciones-y-diseno-782869) [Google play](https://www.eltiempo.com/tecnosfera/apps/app-de-el-tiempo-se-renueva-actualice-y-conozca-sus-nuevas-funciones-y-diseno-782869) [AppGallery](https://www.eltiempo.com/tecnosfera/apps/app-de-el-tiempo-se-renueva-actualice-y-conozca-sus-nuevas-funciones-y-diseno-782869) Empodera tu conocimiento [Lotería de Manizales, Valle y Meta: resultados y números ganadores del último sorteo del miércoles 30 de octubre](/economia/finanzas-personales/loteria-de-manizales-meta-y-valle-resultados-del-miercoles-30-de-octubre-del-3395426) [Reforma al Sistema General de Participaciones influyó para que la tasa de interés no bajara más de 50 puntos básicos](/economia/sectores/banco-de-la-republica-reduce-otros-50-puntos-basicos-su-tasa-de-interes-y-la-ubica-en-9-75-3395682) [Reforma pensional: guía y calculadora para saber cómo le aplica la nueva ley en Colombia](/economia/finanzas-personales/reforma-pensional-guia-y-calculadora-para-saber-como-le-aplica-la-nueva-ley-en-colombia-3376106) [Acción de Bancolombia saldrá de BVC y Nueva York, será reemplazada por la del Grupo Cibest: entrevista con su presidente](/economia/sector-financiero/accion-de-bancolombia-sale-de-las-bolsas-de-colombia-y-nueva-york-en-su-reemplazo-llega-la-del-grupo-cibest-3395320) Nuestro mundo [ En video: las peligrosas y retadoras caravanas de motos en Halloween desatan caos en Santa Marta ](/colombia/otras-ciudades/en-video-las-peligrosas-y-retadoras-caravanas-de-motos-en-halloween-desatan-caos-en-santa-marta-3395802) Centenares de motociclistas disfrazados se tomaron las calles, generando desórdenes y un accidente grave. [ La Reina del Carnaval de la 44 rinde homenaje a 'Cara Sucia': un tributo al hacedor del Carnaval que detrás de sí dejó un legado de risa, color y cultura ](/colombia/barranquilla/la-reina-del-carnaval-de-la-44-rinde-homenaje-a-cara-sucia-un-tributo-al-hacedor-del-carnaval-que-detras-de-si-dejo-un-legado-de-risa-color-y-cultura-3395792) Lex compartió un video en sus redes sociales, donde aparece con un maquillaje de payaso realizado por el hijo de ‘Cara Sucia’, Miguel Herrera. [ Personería de Medellín alerta falta de asistencia médica a los reclusos en la cárcel El Pedregal ](/colombia/medellin/personeria-de-medellin-alerta-falta-de-asistencia-medica-para-los-reclusos-en-la-carcel-el-pedregal-3395790) [ Condenan a hombre que asesinó a una mujer en Medellín por no pagarle una deuda de 10 mil pesos ](/colombia/medellin/condenan-a-hombre-que-asesino-a-una-mujer-en-medellin-por-no-pagarle-una-deuda-de-10-mil-pesos-3395755) [ El sorprendente giro en la muerte de una familia dentro de una vivienda de Medellín ](/colombia/medellin/el-sorprendente-giro-en-la-muerte-de-una-familia-dentro-de-una-vivienda-de-medellin-3395778) [ Ucrania movilizará a 160.000 soldados adicionales, según el Gobierno ](/mundo/ucrania-movilazara-100-000-reclutas-ante-el-avance-de-las-tropos-rusas-3395080) El secretario del gubernamental Consejo de Defensa y Seguridad Nacional dijo que esa movilización permitirá asegurar que las unidades del Ejército estén cubiertas hasta el 85 por ciento en términos de personal. [ Buscan a chef colombiana desaparecida en México: su familia no sabe nada de ella desde hace 3 meses ](/mundo/mexico/buscan-a-chef-colombiana-desaparecida-en-mexico-su-familia-no-sabe-nada-de-ella-desde-hace-3-meses-3393026) Lizeth Yoana Henao habló por última vez con su familia el pasado mes de julio. [ Nicolás Maduro llega a Rusia para participar en la 16° Cumbre de los BRICS ](/mundo/nicolas-maduro-llega-a-rusia-para-participar-en-la-16-cumbre-de-los-brics-3392839) [ Corea del Norte dice que los países que apoyen el programa de sanciones de Estados Unidos pagarán un alto precio ](/mundo/corea-del-norte-dice-que-los-paises-que-apoyen-el-programa-de-sanciones-de-eeuu-pagaran-un-alto-precio-3392580) [ 'La posibilidad y la amenaza del uso del arma nuclear ha vuelto a resurgir' ](/mundo/la-posibilidad-y-la-amenaza-del-uso-del-arma-nuclear-ha-vuelto-a-resurgir-3391832) [ Bogotá: Secretaría de Seguridad reportó 2.462 capturados por diferentes delitos durante octubre ](/bogota/bogota-secretaria-de-seguridad-reporto-2-462-capturados-por-diferentes-delitos-durante-octubre-3395788) Entre los golpes más importantes de este mes, están las capturas de 'Eryk', jefe financiero y logístico del 'Tren de Aragua' y de 'Efraín' y 'María', quienes fabricaban y transportaban artefactos explosivos improvisados. [ En imágenes | Se registran desmanes en medio de manifestación frente a la U. Nacional de Bogotá ](/bogota/en-imagenes-se-registran-desmanes-en-medio-de-manifestacion-frente-a-la-u-nacional-de-bogota-3395766) Las estaciones de TransMilenio aledañas se han visto afectadas, así como las rutas de buses y tránsito en general. [ Racionamiento de agua en Bogotá: estos son los barrios que tendrán cortes este viernes 1 de noviembre ](/bogota/racionamiento-de-agua-en-bogota-estos-son-los-barrios-que-tendran-cortes-este-viernes-1-de-noviembre-3393238) [ Bogotá se alista para festival gratuito de literatura con la participación de grandes escritores: conozca la programación ](/bogota/en-bogota-se-llevara-a-cabo-un-festival-gratuito-de-literatura-con-la-participacion-de-grandes-escritores-donde-y-cual-es-la-programacion-3395688) [ Inician estudios para el cable aéreo que reducirá los tiempos de traslado entre La Calera y Bogotá ](/bogota/inician-estudios-para-el-cable-aereo-que-reducira-los-tiempos-de-traslado-entre-la-calera-y-bogota-3395698) [ Personería de Medellín alerta falta de asistencia médica a los reclusos en la cárcel El Pedregal ](/colombia/medellin/personeria-de-medellin-alerta-falta-de-asistencia-medica-para-los-reclusos-en-la-carcel-el-pedregal-3395790) En el complejo carcelario se han presentado más de 50 casos de complicaciones de salud. [ Condenan a hombre que asesinó a una mujer en Medellín por no pagarle una deuda de 10 mil pesos ](/colombia/medellin/condenan-a-hombre-que-asesino-a-una-mujer-en-medellin-por-no-pagarle-una-deuda-de-10-mil-pesos-3395755) La Fiscalía reveló que un menor de edad le ayudó a intentar ocultar el cadáver de la víctima, quien murió estrangulada. [ El sorprendente giro en la muerte de una familia dentro de una vivienda de Medellín ](/colombia/medellin/el-sorprendente-giro-en-la-muerte-de-una-familia-dentro-de-una-vivienda-de-medellin-3395778) [ Caso de madre e hijos que aparecieron muertos en vivienda en Medellín da un nuevo giro: autoridades dicen que hubo un doble homicidio ](/colombia/medellin/caso-de-madre-e-hijos-que-aparecieron-muertos-en-vivienda-en-medellin-da-un-nuevo-giro-autoridades-dicen-que-hubo-un-doble-homicidio-3395769) [ La advertencia que hace EPM sobre el gas natural para 2025: el déficit del sector energético en el país es crítico y requiere soluciones inmediatas ](/colombia/medellin/la-advertencia-que-hace-epm-sobre-el-gas-natural-del-pais-para-el-2025-3395717) [ COP16 en Cali: estos fueron los principales anuncios y noticias del penúltimo día; vea el balance de la jornada ](/colombia/cali/cop16-en-cali-estos-fueron-los-principales-anuncios-y-noticias-del-penultimo-dia-vea-el-balance-de-la-jornada-3395777) Siga en EL TIEMPO el resumen de las informaciones de la Cumbre de la Biodiversidad. [ 'Hemos rescatado más de 50 mil frailejones': el sargento del Ejército Nacional que se convirtió en el ángel guardián de los páramos en Colombia ](/colombia/cali/hemos-rescatado-mas-de-50-mil-frailejones-el-sargento-del-ejercito-nacional-que-se-convirtio-en-el-angel-guardian-de-los-paramos-en-colombia-3395763) Con casi 20 años de servicio, cambió su enfoque militar por la conservación de la naturaleza. [ La Reina del Carnaval de la 44 rinde homenaje a 'Cara Sucia': un tributo al hacedor del Carnaval que detrás de sí dejó un legado de risa, color y cultura ](/colombia/barranquilla/la-reina-del-carnaval-de-la-44-rinde-homenaje-a-cara-sucia-un-tributo-al-hacedor-del-carnaval-que-detras-de-si-dejo-un-legado-de-risa-color-y-cultura-3395792) Lex compartió un video en sus redes sociales, donde aparece con un maquillaje de payaso realizado por el hijo de ‘Cara Sucia’, Miguel Herrera. [ El drama de barranquillero que quedó varado por emergencias en Valencia (España): ‘Hospitales están desbordados y muchas personas bajo el lodo’ ](/colombia/barranquilla/el-drama-de-barranquillero-que-quedo-varado-por-emergencias-en-valencia-espana-hospitales-estan-desbordados-y-muchas-personas-bajo-el-lodo-3395756) El joven relata los angustiantes momentos por este fenómeno climático que, según asegura, no había experimentado antes. [ El departamento del Atlántico celebra : tendrá la primera facultad de medicina pública ](/colombia/barranquilla/el-departamento-del-atlantico-celebra-tendra-la-primera-facultad-de-medicina-publica-3395719) [ Así reaccionan desde Barranquilla al llamado de Mindeporte de sacar a la Selección Colombia de la ciudad ](/colombia/barranquilla/asi-reaccionan-desde-barranquilla-al-llamado-de-mindeporte-de-sacar-a-la-seleccion-colombia-de-la-ciudad-3395666) [ Gases del Caribe debuta en la Bolsa de Valores de Colombia con emisión de bonos por $526.220 millones ](/colombia/barranquilla/gases-del-caribe-debuta-en-la-bolsa-de-valores-de-colombia-con-emision-de-bonos-por-526-220-millones-3395611) [ En video: las peligrosas y retadoras caravanas de motos en Halloween desatan caos en Santa Marta ](/colombia/otras-ciudades/en-video-las-peligrosas-y-retadoras-caravanas-de-motos-en-halloween-desatan-caos-en-santa-marta-3395802) Centenares de motociclistas disfrazados se tomaron las calles, generando desórdenes y un accidente grave. [ La historia de los niños de Valledupar que transforman residuos de cocina en abono orgánico ](/colombia/otras-ciudades/mas-de-900-ninos-de-valledupar-transforman-residuos-de-cocina-en-abono-organico-3395741) El proyecto piloto inició en el 2023, pretende transformar anualmente 52 toneladas de residuos en 32 toneladas de abono orgánico. [ Alerta en San Marcos (Sucre) tras la fuga de 73 caimanes de la estación Crocodrylia ](/colombia/otras-ciudades/alerta-en-san-marcos-sucre-tras-la-fuga-de-73-caimanes-de-la-estacion-crocodrylia-3395731) [ Acoso sexual en Cartagena: Plataforma DiDi respalda denuncias de turista víctima de un conductor ](/colombia/otras-ciudades/acoso-sexual-plataforma-didi-respalda-denuncias-de-usuaria-victima-de-acoso-sexual-por-parte-de-un-conductor-en-cartagena-3395625) [ Fuerte temblor en Colombia | El epicentro fue en los Llanos y se sintió en Bogotá; magnitud fue de 4.1 ](/colombia/otras-ciudades/fuerte-temblor-en-los-llanos-se-sintio-en-bogota-4-1-de-intensidad-3395621) [ El Salvador enviará soldados a Haití: ¿a qué se debe la decisión del gobierno de Nayib Bukele? ](/mundo/latinoamerica/el-salvador-enviara-soldados-a-haiti-a-que-se-debe-la-decision-del-gobierno-de-nayib-bukele-3395554) El Congreso de ese país ratificó el despiegue de su Fuerza Armada a la isla. De momento, no se detallan las misiones que realizarán. [ Ecuador: grave accidente en parque de diversiones luego de que una de las atracciones colapsó ](/mundo/latinoamerica/ecuador-grave-accidente-en-parque-de-diversiones-luego-de-que-una-de-las-atracciones-colapsara-3395480) El hecho del juego mecánico dejo un saldo de diez personas heridas, seis de ellas en estado crítico. [ Javier Milei despidió a su canciller tras voto de Argentina a favor de Cuba en la ONU ](/mundo/latinoamerica/javier-milei-despidio-a-su-canciller-tras-voto-de-argentina-a-favor-de-cuba-en-la-onu-3395361) [ Líderes periodísticos de la región serán capacitados en gestión de productos editoriales ](/mundo/latinoamerica/lideres-periodisticos-de-la-region-seran-capacitados-en-gestion-de-productos-editoriales-3395101) [ Bolivia: enfrentamientos entre policías y seguidores del expresidente Evo Morales dejan más de una decena de heridos ](/mundo/latinoamerica/agentes-y-periodistas-resultan-heridos-en-enfrentamientos-entre-policia-y-afines-a-morales-3394858) [ Venezuela acusa a Brasil y Colombia de estar trabajando para EE. UU.: ¿hasta dónde puede llegar esta tensión diplomática? ](/mundo/venezuela/venezuela-acusa-a-brasil-y-colombia-de-estar-trabajando-para-ee-uu-hasta-donde-puede-llegar-esta-tension-diplomatica-3395623) Washington y Caracas se han enfrentado desde hace más de 20 años y, por lo general, la administración venezolana culpa a la estadounidense de los males en el país caribeño. [ Venezuela: Diosdado Cabello vuelve a amenazar a María Corina Machado y dice que sabe dónde está: 'cree que está en la clandestinidad' ](/mundo/venezuela/diosdado-cabello-vuelve-a-amenazar-a-maria-corina-machado-y-dice-que-sabe-donde-esta-ella-cree-que-esta-en-la-clandestinidad-3395531) El dirigente chavista desestimó los reclamos de la oposición sobre un posible fraude electoral, calificando de “estafa” cualquier intento de cuestionar los resultados oficiales. [ El nuevo desencuentro entre Colombia y Venezuela: Caracas amenaza a Bogotá con 'responder en su momento' ](/mundo/venezuela/el-nuevo-desencuentro-entre-colombia-y-venezuela-caracas-amenaza-a-bogota-con-responder-en-su-momento-3395407) [ Venezuela llama a consultas a embajador en Brasilia tras veto en los Brics ](/mundo/venezuela/venezuela-llama-a-consultas-a-embajador-en-brasilia-tras-veto-en-los-brics-3395308) [ António Guterres, secretario general de la ONU en la COP16: 'No se invalida la opinión sobre lo que pasó en Venezuela' ](/mundo/venezuela/no-se-invalida-la-opinion-sobre-lo-que-paso-en-venezuela-antonio-guterres-secretario-general-de-la-onu-3395244) [ Elecciones Estados Unidos: ¿qué necesito llevar para poder votar en California? ](/mundo/eeuu-y-canada/elecciones-estados-unidos-que-necesito-llevar-para-poder-votar-en-california-3395710) Todo lo que necesita saber para que su voto cuente en estos comicios. [ Elecciones Estados Unidos: ¿qué necesito llevar para poder votar en Florida? ](/mundo/eeuu-y-canada/elecciones-estados-unidos-que-necesito-llevar-para-poder-votar-en-florida-3395706) Tiene tres opciones para emitir su voto; estos son los requisitos y detalles. [ Las cinco claves para entender la investigación que abrió la Unión Europea contra Temu: ¿por qué lo señalan de posible venta de productos ilegales? ](/mundo/europa/temu-las-cinco-claves-de-la-investigacion-que-abrio-la-union-europea-contra-la-tienda-china-3395729) La UE investiga si la plataforma infringió la Ley europea de Servicios Digitales (DSA). Temu se expone a millonaria sanción. [ La dana en España: aumenta a 155 el número de muertos, mientras siguen las labores de remoción de escombros y rescate ](/mundo/europa/la-dana-en-espana-aumenta-a-155-el-numero-de-muertos-mientras-siguen-las-labores-de-remocion-de-escombros-y-rescate-3395606) Servicios de emergencia continúan con la labores de recuperación de los cuerpos mortales que se localizan tras las inundaciones. [ Los grandes esfuerzos de los rescatistas que intentan preservar la vida en medio de las inundaciones ](/mundo/europa/los-grandes-esfuerzos-de-los-rescatistas-que-intentan-preservar-la-vida-en-medio-de-las-inundaciones-3395503) [ Alemania cierra consulados en Irán tras la ejecución de un periodista acusado de supuesta implicación terrorista ](/mundo/europa/alemania-cierra-consulados-en-iran-tras-la-ejecucion-de-un-periodista-acusado-de-supuesta-implicacion-terrorista-3395573) [ El desesperado pedido de una mujer a su amiga antes de morir junto a su bebé en la Dana: ‘Cuida a mis otros hijos’ ](/mundo/europa/el-desesperado-pedido-de-una-mujer-a-su-amiga-antes-de-morir-junto-a-su-bebe-en-la-dana-cuida-a-mis-otros-hijos-3395552) [ Mueren doce personas en dos nuevos tiroteos provocados por pandillas en Sudáfrica: autoridades investigan ](/mundo/africa/mueren-doce-personas-en-dos-nuevos-tiroteos-en-sudafrica-3393578) La criminalidad es un grave problema en Sudáfrica, donde casi 6.200 personas fueron asesinadas entre los pasados meses de abril y junio. [ Suben la cifra de muertos a 153 tras la explosión de un camión de combustible en Nigeria ](/mundo/africa/suben-la-cifra-de-muertos-a-153-tras-la-explosion-de-un-camion-de-combustible-en-nigeria-3390962) Este tipo de accidentes que implican a camiones cisterna que transportan combustible ocurren con relativa frecuencia en Nigeria, una de las grandes potencias petroleras de África. [ Israel mató a otro comandante de Hezbolá en Qalaouiyeh, en el sur de Líbano ](/mundo/medio-oriente/israel-mato-a-otro-comandante-de-hizbula-en-qalaouiyeh-en-el-sur-de-libano-3395458) Este jueves se espera la llegada a Tel Aviv del mediador estadounidense, Amos Hochstein. [ El ejército de Estados Unidos bombardeó varios puntos en Siria; murieron 35 yihadistas ](/mundo/medio-oriente/el-ejercito-de-estados-unidos-bombardeo-varios-puntos-en-siria-murieron-35-yihadistas-3395253) Las fuerzas militares informaron que no hubo bajas civiles en el operativo. Aseguran que se interrumpieron las capacidades para que el Estado Islámico haga ataques contra civiles. [ Israel bombardea Yabalia y ataca más de 100 'objetivos' de Hezbolá en Líbano ](/mundo/medio-oriente/israel-bombardea-yabalia-y-ataca-mas-de-100-objetivos-de-hezbola-en-libano-3395146) [ Israel anuncia la muerte del subcomandante de élite de Hezbolá en un ataque en el sur de Líbano ](/mundo/medio-oriente/israel-anuncia-la-muerte-del-numero-dos-de-la-fuerza-de-elite-de-hizbula-3395133) [ Irán afirma que el ataque israelí no interrumpió su producción de misiles ](/mundo/medio-oriente/iran-afirma-que-el-ataque-israeli-no-interrumpio-su-produccion-de-misiles-3395090) [ Israel machaca el norte de Gaza y busca prohibir la misión de la agencia de la ONU para los refugiados palestinos, ¿cuál es la razón? ](/mundo/medio-oriente/israel-machaca-el-norte-de-gaza-y-busca-prohibir-la-mision-de-la-unrwa-3395029) [ Israel estima que a Hezbolá solo le quedan un 20 por ciento de sus cohetes y misiles: 'No está organizado como antes para lanzar grandes andanadas' ](/mundo/medio-oriente/israel-estima-que-a-hezbola-solo-le-quedan-un-20-por-ciento-de-sus-cohetes-y-misiles-no-esta-organizado-como-antes-para-lanzar-grandes-andanadas-3394861) [ De número dos a líder de Hezbolá: ¿Quién es Naim Qassem, el ideólogo extremista de barba blanca y turbante? ](/mundo/medio-oriente/naim-qassem-de-numero-dos-a-nuevo-lider-de-un-hizbula-descabezado-3394766) [ Hezbolá nombra a Naim Qassem como nuevo líder tras el asesinato de Hassan Nasrallah ](/mundo/medio-oriente/hezbola-nombra-a-naim-qassem-como-nuevo-lider-tras-el-asesinato-de-hassan-nasrallah-3394681) [ Rechazo internacional tras decisión de Israel de prohibir agencia de ONU para los palestinos ](/mundo/medio-oriente/rechazo-internacional-tras-decision-de-israel-de-prohibir-agencia-de-onu-para-los-palestinos-3394674) [ Al menos 77 muertos en un bombardeo de Israel contra un edificio en el norte de Gaza ](/mundo/medio-oriente/al-menos-77-muertos-en-un-bombardeo-de-israel-contra-un-edificio-en-el-norte-de-gaza-3394661) [ Israel debate sobre un nuevo plan de acuerdo con Hamás para liberar rehenes ](/mundo/medio-oriente/atencion-israel-debate-sobre-un-nuevo-plan-de-acuerdo-con-hamas-para-liberar-rehenes-3394458) [ Sistema de aguas residuales estalló en Moscú: columna de lluvia de heces, tan alta como un edificio ](/mundo/medio-oriente/sistema-de-aguas-residuales-estallo-en-moscu-columna-de-lluvia-de-heces-tan-alta-como-un-edificio-3394419) [ Irán amenaza a Israel con usar “todas las herramientas disponibles” en represalias por bombardeos ](/mundo/medio-oriente/iran-amenaza-a-israel-con-usar-todas-las-herramientas-disponibles-en-represalias-por-bombardeos-3394436) [ Israel continúa con sus operaciones en Líbano y detecta el lanzamiento de 15 proyectiles ](/mundo/medio-oriente/israel-continua-con-sus-operaciones-en-libano-y-detecta-el-lanzamiento-de-15-proyectiles-3394275) [ Irán afirma que no quiere entrar en una guerra, pero promete una 'respuesta apropiada' al bombardeo de Israel ](/mundo/medio-oriente/iran-afirma-que-no-quiere-entrar-en-una-guerra-pero-promete-una-respuesta-apropiada-al-bombardeo-de-israel-3394151) [ Proponen tregua de 48 horas en la Franja de Gaza e intercambio de prisioneros entre Israel y Hamás ](/mundo/medio-oriente/dialogos-entre-israel-y-hamas-trega-de-48-horas-e-intercambio-de-prisioneros-la-nueva-propuesta-que-egipto-puso-en-la-mesa-3394147) [ Israel asegura que el ataque contra Irán afectó a su capacidad para desarrollar misiles ](/mundo/medio-oriente/israel-asegura-que-el-ataque-contra-iran-afecto-a-su-capacidad-para-desarrollar-misiles-3394118) [ Camión embistió a personas que esperaban en un paradero de bus en Israel: hay un muerto y más de 30 heridos; Policía indaga ataque terrorista ](/mundo/medio-oriente/camion-embistio-una-parada-de-autobus-en-israel-y-dejo-mas-de-30-heridos-policia-indaga-ataque-terrorista-3394105) [ Israel dice haber matado a 70 miembros de Hizbulá y atacado más de 120 objetivos en un día ](/mundo/medio-oriente/israel-dice-haber-matado-a-70-miembros-de-hizbula-y-atacado-mas-de-120-objetivos-en-un-dia-3394102) [ ‘Las metas acordadas no son un juego de palabras': embajador de China en Colombia, Zhu Jingyang, habla sobre la COP16 de Cali ](/mundo/asia/las-metas-acordadas-no-son-un-juego-de-palabras-embajador-de-china-en-colombia-zhu-jingyang-habla-sobre-la-cop16-de-cali-3394904) El embajador de China en Colombia habló sobre los avances de la cumbre de biodiversidad y las relaciones entre ambos países, haciendo énfasis en la Franja y la Ruta. [ China insinúa que si gana Trump, Taiwán podría 'pasar de ser un peón a un hijo abandonado' ](/mundo/asia/china-insinua-que-si-gana-trump-taiwan-podria-pasar-de-ser-un-peon-a-un-hijo-abandonado-3395064) El candidato republicano afirmó que, de ser elegido, impondría aranceles de hasta el 200 % contra China. [ Más de 150 heridos en un accidente de fuegos artificiales en un templo de la India ](/mundo/asia/mas-de-150-heridos-en-un-accidente-de-fuegos-artificiales-en-un-templo-de-la-india-3394662) [ China impulsa nuevas medidas para fomentar la natalidad en medio de crisis demográfica, ¿cuáles son? ](/mundo/asia/el-ejecutivo-chino-publica-medidas-para-construir-una-sociedad-favorable-a-la-crianza-3394335) [ La coalición gobernante en Japón pierde su mayoría por primera vez desde 2009 ](/mundo/asia/la-coalicion-gobernante-en-japon-pierde-su-mayoria-por-primera-vez-desde-2009-3394220) [ Corea del Norte dice que el envío de tropas a Ucrania 'cumpliría el derecho internacional' ](/mundo/asia/corea-del-norte-dice-que-el-envio-de-tropas-a-ucrania-cumpliria-el-derecho-internacional-3393668) [ Fósiles de dinosaurio son descubiertos por primera vez en Hong Kong ](/mundo/asia/fosiles-de-dinosaurio-son-descubiertos-por-primera-vez-en-hong-kong-3393431) [ Así es la carretera que se construyó en China únicamente con robots: la obra fue supervisada por drones ](/mundo/asia/asi-es-la-carretera-que-se-construyo-en-china-unicamente-con-robots-la-obra-fue-supervisada-por-drones-3393268) [ Evacúan a 450.000 personas en el este de la India antes de la llegada del peligroso ciclón 'Dana' ](/mundo/asia/evacuan-a-450-000-personas-en-el-este-de-la-india-antes-de-la-llegada-del-ciclon-dana-3393197) [ Al menos doce muertos en los ataques turcos contra el norte de Siria, según kurdosirios ](/mundo/asia/al-menos-doce-muertos-en-los-ataques-turcos-contra-el-norte-de-siria-segun-kurdosirios-3393195) [ China anuncia maniobras militares con fuego real cerca de Taiwán en medio de crecientes tensiones, ¿qué se sabe? ](/mundo/asia/china-arrecia-ejercicios-militares-con-fuego-real-en-taiwan-rodea-al-archipielago-3392414) [ ¿Tropas de Corea del Norte apoyarán a Rusia en Ucrania? Seúl alista medidas con la Otán en respuesta a la colaboración Pionyang-Moscú ](/mundo/asia/tropas-de-corea-del-norte-apoyaran-a-rusia-en-ucrania-seul-alista-medidas-con-la-otan-en-respuesta-a-la-colaboracion-pionyang-moscu-3392042) [ Doble sismo sacude a Labuha, Indonesia en menos de cuatro horas en la madrugada de este lunes ](/mundo/asia/doble-sismo-sacude-a-labuha-indonesia-en-menos-de-cuatro-horas-3392007) [ ¿Corea del Norte está enviando tropas para ayudar a Rusia en Ucrania? Esto dicen la inteligencia surcoreana y Kiev ](/mundo/asia/corea-del-norte-esta-enviando-tropas-para-ayudar-a-rusia-en-ucrania-esto-dicen-la-inteligencia-surcoreana-y-kiev-3391356) [ Hallan dos bombas sin detonar de la Guerra Mundial en una isla al sur de Japón: gobierno nipón abre investigación ](/mundo/asia/hallan-dos-bombas-sin-detonar-de-la-guerra-mundial-en-una-isla-de-okinawa-3390958) [ 'Colombia no ha presentado alguna objeción para adherirse a la Franja y la Ruta', embajador de China; estos son los detalles del proceso ](/mundo/asia/la-franja-y-la-ruta-no-es-una-negociacion-que-implica-obligaciones-embajador-de-china-en-colombia-3390585) [ Espionaje y asesinato: las claves de la disputa que sacude las relaciones diplomáticas entre India y Canadá ](/mundo/asia/espionaje-interferencia-y-asesinato-elementos-de-la-crisis-diplomatica-india-canada-3390246) [ ¿Por qué Corea del Norte dinamitó las carreteras que conectaban con el Sur? Cinco preguntas para entender la escalada de tensión en la península ](/mundo/asia/por-que-corea-del-norte-dinamito-las-carreteras-que-conectaban-con-el-sur-cinco-claves-para-entender-la-escalada-de-tensiones-3390253) [ Tensión en Asia: Estados Unidos y Filipinas lanzan ejercicios militares tras las maniobras de China en Taiwán ](/mundo/asia/tension-china-japon-taiwan-movimientos-de-buques-y-aviones-elevan-el-tono-en-la-region-3390178) [ Corea del Norte destruye carreteras que conectan su territorio con el Sur ](/mundo/asia/corea-del-norte-destruye-carreteras-que-conectan-su-territorio-con-el-sur-3390140) [ 'Máximo 3 minutos de abrazos', la drástica medida de un aeropuerto en Australia con el objetivo de evitar demoras en servicios ](/mundo/mas-regiones/maximo-3-minutos-de-abrazos-la-drastica-medida-de-un-aeropuerto-de-australia-con-el-objetivo-de-evitar-demoras-en-servicios-3392393) \"No puede poner un límite de tiempo a los abrazos, ¡es inhumano!\", critica una persona en la red social. [ Sídney reabre sus playas tras determinar la sustancia de bolas de polución halladas: 'El material no es dañino' ](/mundo/mas-regiones/sidney-reabre-sus-playas-tras-determinar-la-sustancia-de-bolas-de-polucion-halladas-3391721) Las bolas negras, que al principio fueron identificadas por las autoridades como residuos de alquitrán, fueron detectadas el pasado martes en la playa de Coogee. [ Crimen contra Sofía Delgado: ¿cuáles son los protocolos que se aplican en el mundo para prevenir la violencia contra los menores? ](/mundo/mas-regiones/crimen-contra-sofia-delgado-cuales-son-los-protocolos-que-se-aplican-en-el-mundo-para-prevenir-la-violencia-contra-los-menores-3391542) [ 'Colombia lidera esta COP16 con ambición y creatividad para impulsar políticas más sostenibles': embajadora de Australia ](/mundo/mas-regiones/colombia-lidera-esta-cop16-con-ambicion-y-creatividad-para-impulsar-politicas-mas-sostenibles-embajadora-de-australia-3391583) [ Una de cada ocho personas vive en la pobreza en el mundo y más de la mitad son menores: esto revela demoledor informe de la ONU ](/mundo/mas-regiones/una-de-cada-ocho-personas-vive-en-la-pobreza-en-el-planeta-y-mas-de-la-mitad-son-menores-esto-revela-demoledor-informe-de-la-onu-3391235) [ Al menos una decena de playas en Australia son cerradas por la peligrosa aparición de bolas de alquitrán ](/mundo/mas-regiones/al-menos-una-decena-de-playas-en-australia-son-cerradas-por-la-peligrosa-aparicion-de-bolas-de-alquitran-3390960) [ ¿Por qué la red social Discord fue bloqueada por Rusia y Turquía? Esto se sabe ](/mundo/mas-regiones/por-que-la-red-social-discord-es-la-nueva-enemiga-segun-rusia-y-turquia-3390476) [ Cierran dos playas de Australia tras aparecer cientos de 'misteriosas' bolas negras de residuos ](/mundo/mas-regiones/cierran-dos-playas-de-australia-tras-aparecer-cientos-de-misteriosas-bolas-negras-de-residuos-3390548) [ Australia dice a Israel que ve \"inaceptable\" cualquier ataque contra la ONU en Líbano ](/mundo/mas-regiones/australia-dice-a-israel-que-ve-inaceptable-cualquier-ataque-contra-la-onu-en-libano-3389938) [ La Antártida y el océano Austral \"experimentan anomalías sin precedentes\", según estudio: ¿qué está ocurriendo? ](/mundo/mas-regiones/la-antartida-y-el-oceano-austral-experimentan-anomalias-sin-precedentes-segun-estudio-que-esta-ocurriendo-3389927) [ Los detalles de la reunión entre los presidentes de Rusia e Irán, Vladimir Putin y Masud Pezeshkian: hubo críticas a Israel ](/mundo/mas-regiones/los-detalles-de-la-reunion-entre-los-presidentes-de-rusia-e-iran-vladimir-putin-y-masud-pezeshkian-hubo-criticas-a-israel-3389437) [ Una de cada ocho niñas en el mundo ha sido violada o agredida sexualmente antes de los 18 años: las alarmantes cifras que revela Unicef ](/mundo/mas-regiones/una-de-cada-ocho-ninas-en-el-mundo-ha-sido-violada-o-agredida-sexualmente-antes-de-los-18-anos-las-alarmantes-cifras-que-revela-unicef-3389080) [ Alarmante informe: ONG advierten que la lucha contra el hambre ha entrado en una fase de estancamiento ](/mundo/mas-regiones/la-lucha-contra-el-hambre-se-estanca-tambien-por-la-desigualdad-de-genero-segun-informe-3389061) [ Él es 'Yung Filly', el rapero británico de origen colombiano que fue acusado de abuso sexual por un tribunal de Australia ](/mundo/mas-regiones/el-es-el-rapero-britanico-de-origen-colombiano-que-fue-acusado-de-violacion-en-australia-3389019) [ Martin Gurri: ‘Las élites están haciendo todo mal... son un desastre’ ](/mundo/mas-regiones/martin-gurri-las-elites-estan-haciendo-todo-mal-son-un-desastre-3387592) [ Mark Rutte asumió como nuevo secretario general de la Otán: ¿Cuáles son sus principales desafíos al frente de la alianza transatlántica? ](/mundo/mas-regiones/mark-rutte-asume-la-conduccion-de-la-otan-cuales-son-sus-principales-retos-como-futuro-secretario-general-3386124) [ 'Habrá investigación': encuentran muerta a modelo australiana al interior de un bar en el que departía ](/mundo/mas-regiones/habra-investigacion-encuentran-muerta-a-modelo-australiana-al-interior-de-un-bar-en-el-que-departia-3386057) [ Asamblea General de la ONU 2024: ¿está el multilateralismo en el ‘abismo’? ](/mundo/mas-regiones/asamblea-general-de-la-onu-2024-esta-el-multilateralismo-en-el-abismo-3385301) [ ¿Sabría cómo actuar en una situación de emergencia en el extranjero? Esto revela un estudio sobre la respuesta de los colombianos ](/mundo/mas-regiones/estamos-preparados-colombianos-desconocen-senales-de-emergencia-en-el-extranjero-revela-estudio-de-preply-3378806) [ Las tensiones en Oriente Medio, Venezuela y otros temas que marcarán la 79ª Asamblea General de la ONU en Nueva York ](/mundo/mas-regiones/el-conflicto-en-gaza-y-libano-dominaran-una-semana-de-la-onu-con-maxima-tension-mundial-3383629) [Horóscopo](https://www.eltiempo.com/horoscopo?cid=AUT_CON_PUBL_ET_HOROSCOPOCONT) Encuentra acá todos los signos del zodiaco. Tenemos para ti consejos de amor, finanzas y muchas cosas más. [Crucigrama](https://www.eltiempo.com/crucigrama?cid=AUT_CON_PUBL_ET_CRUCIGRAMACONT) Pon a prueba tus conocimientos con el crucigrama de EL TIEMPO",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sofía Delgado",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "del Cauca",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:13:16.483+03:00",
+    "updated": "2024-11-01T02:42:23.149+02:00"
+  },
+  {
+    "uuid": "4f499faa5f7ec248413fe1eb8df333158d62531f",
+    "url": "https://laverdadnoticias.com/mexico/Frente-Frio-41-causara-lluvias-descargas-electricas-y-heladas-en-estos-estados-20240322-0028.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Yasher Figueroa",
+    "published": "2024-03-22T15:24:00Z",
+    "title": "Frente Frío 41 causará lluvias, descargas eléctricas y heladas en estos estados",
+    "text": "[México](/seccion/mexico/)\nFrente Frío 41 causará lluvias, descargas eléctricas y heladas en estos estados\nDurante la mañana de este viernes, se esperan temperaturas mínimas de -10 a -5 grados Celsius con heladas en sierras de Chihuahua y Durango\nLa Comisión Nacional del Agua (Conagua) advirtió que este viernes 22 de marzo las condiciones meteorológicas serán ocasionadas por el Frente Frío número 41 y afectará el noreste y oriente del país.\nConagua dio a conocer que para la Península de Baja California se pronostica un ambiente templado por la mañana, frío con heladas en sierras de Baja California y bancos de niebla en la costa oeste de la región.\nPara este viernes, se prevén descargas eléctricas y posible caída de granizo en zonas de lluvia, así como viento de componente norte con rachas de 40 a 60 km/h en las costas de Tabasco, Tamaulipas y Veracruz.\nFrente Frío 41 causará bajas temperaturas y heladas hoy\n��— CONAGUA Clima (@conagua_clima)\n[#Temperaturas]mínimas y [#Heladas]previstas para este viernes, 22 de marzo, en la República Mexicana ⬇️ [pic.twitter.com/gDCK5CKPEZ] [March 22, 2024]\nDurante la mañana de este viernes, se esperan\ntemperaturas mínimas de -10 a -5 grados Celsius con heladas en sierras de Chihuahua y Durango y de -5 a 0 grados y heladas en montañas del Estado de México, Sonora y Zacatecas.\nDe acuerdo con el pronóstico del clima para hoy, se esperan temperaturas de 0 a 5 grados Celsius en zonas altas de Aguascalientes, Baja California, Coahuila, Guanajuato, Hidalgo, Jalisco, Michoacán, Nuevo León, Puebla y Tlaxcala.\n¿Cómo estará el clima hoy en Ciudad de México?\nEn la Ciudad de México se prevé temperatura mínima de 15 a 17 grados Celsius y máxima de 29 a 31 grados, y en Toluca, Estado de México, mínima de 5 a 7 grados y máxima de 25 a 27 grados Celsius.\nTe puede interesar:\nFrente Frío 40: Estos estados serán afectados por lluvias y bajas temperaturas\nFrente Frío 41 provocará lluvias fuertes en 5 estados\n⛈️☀️ Ve en el gif, algunas de las condiciones— CONAGUA Clima (@conagua_clima)\n[#Meteorológicas]significativas que se prevén este día, en [#México]⬇️ [pic.twitter.com/MxBDWNRciL] [March 22, 2024]\nAsimismo, se pronostican lluvias puntuales fuertes para este viernes en localidades de Campeche, Puebla, Quintana Roo, Veracruz y Yucatán.\nEn tanto, se prevén intervalos de chubascos en Chiapas, Hidalgo, Oaxaca y Tabasco, y lluvias aisladas en Nuevo León, Querétaro, San Luis Potosí y Tamaulipas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-22T18:31:40.085+02:00",
+    "updated": "2024-03-22T18:31:40.085+02:00"
+  },
+  {
+    "uuid": "9d15e1e82d9c9ae46e876d6efb79ad550d5cbd94",
+    "url": "https://www.lapatilla.com/2023/12/24/dgcim-se-llevo-a-un-capitan-de-su-base-en-la-frontera-y-la-familia-busca-prueba-de-vida-ante-el-silencio-del-chavismo/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Spotlight",
+    "published": "2023-12-24T15:22:00Z",
+    "title": "Dgcim se llevó a un capitán de su base en la frontera y la familia busca prueba de vida ante el silencio del chavismo",
+    "text": "Las luces en Caracas anuncian la cercana celebración del nacimiento del Niño Dios en la tierra, mientras en los sótanos de la Dirección General de la DGCIM, hay tristeza y llanto de los presos políticos quienes tienen tatuado la marca de víctimas de funcionarios ebrios de poder y riqueza. Mientras el régimen venezolano celebra con euforia la liberación del comerciante colombiano Alex Saab, la puerta giratoria no ha dejado de funcionar. El pasado sábado 16 de diciembre fue detenido el capitán activo del Ejército, Yonnatan Ezardo Méndez Chacón, quien antes, en el 2018, fue detenido en lo que se llamó Caso Paramacay II y salió en libertad dos años después. Desde hace una semana, Maricela Chacón de Méndez, madre del oficial, ha estado recorriendo todas las instituciones, pero reina la opacidad.\nPor\nInfobae\nHasta ahora no se conoce formalmente la lista de los presos políticos, que supuestamente va de 20 a 36, incluyendo varios estadounidenses, que fueron canjeados, al estilo de soltar rehenes cuando quieren obtener un beneficio, por Alex Saab. Mientras hay alegría por aquellos presos políticos que han quedado en libertad, otros hogares se han sembrado de dolor y angustia, como la familia Méndez Chacón, del fronterizo estado Táchira.\nEn la Dirección General de Contrainteligencia Militar (DGCIM), en las dos oficinas que hay en San Cristóbal, estado Táchira, una ubicada en Las Lomas y otra en la Avd 19 de Abril, se negaron a darle información a Maricela, tratándola con total desprecio hacia una madre desesperada por información sobre su hijo.\nYonnatan Méndez, de 37 años, quien se encontraba trabajando en la 2502 Escuadrón de Caballería Motorizada, Base Táctica de Combate El Carmen, ubicada en el kilómetro 71 del Sector San José de Las Palmas, municipio García de Hervia, estado Táchira, en límite con Zulia, a hora y media de San Cristóbal, cuando funcionarios de la DGCIM se presentaron y se lo llevaron, en lo que se ha convertido en un secuestro, porque el oficial está desaparecido.\nLeer más en\n Infobae",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.infobae.com/venezuela/2023/12/22/contrainteligencia-militar-se-llevo-a-un-capitan-de-su-base-militar-en-la-frontera-y-la-familia-busca-una-fe-de-vida-ante-el-silencio-del-regimen-venezolano/",
+      "https://infobae.com/venezuela/2023/12/22/contrainteligencia-militar-se-llevo-a-un-capitan-de-su-base-militar-en-la-frontera-y-la-familia-busca-una-fe-de-vida-ante-el-silencio-del-regimen-venezolano/",
+      "https://www.infobae.com/venezuela/2023/12/22/contrainteligencia-militar-se-llevo-a-un-capitan-de-su-base-militar-en-la-frontera-y-la-familia-busca-una-fe-de-vida-ante-el-silencio-del-regimen-venezolano"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T17:30:45.400+02:00",
+    "updated": "2023-12-24T17:30:45.400+02:00"
+  },
+  {
+    "uuid": "ea2337285ec364739d0acda791ef13cc0b08e06a",
+    "url": "https://www.firstalert4.com/video/2024/01/13/cold-weather-doesnt-keep-cards-fans-attending-winter-warm-up/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@KMOV",
+    "published": "2024-01-13T00:00:00Z",
+    "title": "Cold weather doesn’t keep Cards fans from attending Winter Warm-Up",
+    "text": "Skip to content News Weather First Alert 4 Investigates Sports Traffic My St. Louis LIVE! Great Day First Alert Weather Now Home Drone 4 News Local First Alert 4 at 4 p.m. Crime First Alert 4 Investigates National Slideshows Sign Up for Our Newsletter First Alert 4 Throwback Weather First Alert Weather Now Map Room Radar Room Interactive Radar Weather Alerts BJC Skycam Network Closings Live Newscast One life too many: The toll of the overdose crisis COVID-19 Map Sports Blues Cardinals City SC Battlehawks Chiefs Spectrum Athlete Spotlight Stats & Predictions How to Watch My St. Louis LIVE! Traffic Gas Prices Community My St. Louis LIVE! Thanks4Giving Neighborhood Treasures Calendar Turn the Page with Paige Hulsey Jobs 4 STL Surprise Squad Meet St. Louis Podcasts 4 You Contests Shriners Children’s St. Louis 4 Degree Guarantee Great Day Athlete of the Week Best of St. Louis Bommarito Digital Studio Great Day 4 Kids As Seen On First Alert 4 Submit Photos or Video Contact Us Our Apps Meet the Team Programming Schedule Advertise With Us Closed Captioning Careers Latest Newscasts Circle - Country Music & Lifestyle Gray DC Bureau InvestigateTV PowerNation Closings and Delays Dismiss Closings Alerts Bar 7 weather alerts in effect Dismiss Weather Alerts Alerts Bar Cold weather doesn’t keep Cards fans from attending Winter Warm-Up Published: Jan. 13, 2024 at 5:45 PM CST | Updated: 12 hours ago Share on Facebook Email This Link Share on X (formerly Twitter) Share on Pinterest Share on LinkedIn News Church warming shelter told by Metro East city to pay up and pack up Updated: 12 hours ago First Alert 4 Investigates 2nd woman found dead inside a local firefighter’s home, 2 families want more answers Updated: 12 hours ago News ‘I see mothers with their kids’: Brutal cold activates overnight warming shelters across the Metro Updated: Jan. 12, 2024 at 9:55 PM CST News Senate Republicans signal possible skirmish over $4B Medicaid bill Updated: Jan. 12, 2024 at 6:30 PM CST News St. Charles County man who survived being shot sees another delay in suspect’s trial Updated: Jan. 12, 2024 at 6:30 PM CST",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "you contests shriners children’s st. louis",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. louis bommarito digital studio great day",
+          "sentiment": "none"
+        },
+        {
+          "name": "stl surprise squad meet st. louis podcasts",
+          "sentiment": "none"
+        },
+        {
+          "name": "paige hulsey jobs",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "st. louis",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-14T02:21:04.442+02:00",
+    "updated": "2024-01-14T13:46:58.764+02:00"
+  },
+  {
+    "uuid": "567abd5959ac39177939a187d7b17049dd77b133",
+    "url": "https://www.yahoo.com/news/n-y-sushi-restaurant-owner-194803594.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "N.Y. sushi restaurant owner out of coma after dine-and-dash attack over $425 bill",
+    "text": "Read full article NBC News N.Y. sushi restaurant owner out of coma after dine-and-dash attack over $425 bill Sakshi Venkatraman Updated June 14, 2024 at 4:56 AM · 2 min read 730 Link Copied\nAn Albany sushi restaurant owner is slowly showing signs of recovery after a brutal attack outside his restaurant last month.\nSu Wen, owner and chef at Shogun Sushi in upstate New York, has woken up from a nearly two-week coma and is experiencing increasing periods of consciousness, said Ray Ren, one of the managers at his restaurant.\nThe father of two was assaulted on May 29 by a customer who was allegedly attempting to dine and dash after a $425 meal, NBC affiliate WNYT reported . A few employees were captured on a security camera attempting to stop the man, who threw punches at them. Su Wen, whose family didn’t reveal his last name for fear of retaliation from the attacker, took the hardest blows.\nDuring the altercation, he was knocked to the ground, hit his head and went unconscious. He was rushed to a local hospital, where doctors had to temporarily remove part of his skull, Ren said. A GoFundMe campaign organized by neighboring tavern owner Chris Pratt has amassed over $13,000.\nIn the hours following the attack, Albany resident Lucas Healey, 42, was arrested and charged with first-degree robbery as a hate crime, third-degree assault, theft of services, and two drug counts for possession of cocaine, police said. Requests for comment from Healey’s public defender were not returned and attempts to reach family members were unsuccessful.\nRay Ren, a manager at Shogun Sushi, told NBC News that his boss is out of the coma as of his hospital visit on Tuesday. In a message delivered through Pratt, he said Su Wen was moved from the ICU to general care, and that he is “out of danger.”\n“For now, he seems unable to speak or move body by himself,” the manager said. “I’m not sure if he has lost his memory or any other abilities; we’ll need to wait for the doctor’s assessment to know more. … Currently, he is still relying on nutrient solutions for nutrition intake and is mostly bedridden. But at least his periods of consciousness have increased.”\nSu Wen still can’t eat on his own and will likely stay in the hospital until his skull is reattached, Ren said. Pratt, on his GoFundMe page, said that Su Wen’s wife had to quit her job to manage his care, too.\n“All I know is that this could’ve been one of my employees,” said Pratt in his GoFundMe description. “This whole thing is sickening.”\nThis article was originally published on NBCNews.com\nView comments",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.nbcnews.com/news/asian-america/dine-dash-attack-ny-hate-crime-rcna156834",
+      "https://wnyt.com/top-stories/dine-dash-turns-violent/",
+      "https://s.yimg.com/os/creatr-uploaded-images/2023-12/90fe2e40-9383-11ee-afba-e10366cf6e23",
+      "https://www.gofundme.com/f/stand-with-su-wens-family-in-their-time-of-need",
+      "https://s.yimg.com/ny/api/res/1.2/lutgHyaEzq16aZnvSDC20w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://s.yimg.com/ny/api/res/1.2/eqsjIGmwe04.SMuuCBEt6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://twitter.com/intent/tweet?text=N.Y.%20sushi%20restaurant%20owner%20out%20of%20coma%20after%20dine-and-dash%20attack%20over%20%24425%20bill&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fn-y-sushi-restaurant-owner-194803594.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=YahooNews",
+      "https://s.yimg.com/ny/api/res/1.2/NNZA1CeCkSKA9WmaYXGd_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMwODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2023-12/90fe2e40-9383-11ee-afba-e10366cf6e23",
+      "https://s.yimg.com/ny/api/res/1.2/oDQM6HHpQ7fSe3UcRkenEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://www.nbcnews.com/",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fn-y-sushi-restaurant-owner-194803594.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.wnyt.com/top-stories/dine-dash-turns-violent/",
+      "https://nbcnews.com/news/asian-america/dine-dash-attack-ny-hate-crime-rcna156834",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/ny/api/res/1.2/oDQM6HHpQ7fSe3UcRkenEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://www.media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://twitter.com/intent/tweet",
+      "https://www.s.yimg.com/ny/api/res/1.2/NNZA1CeCkSKA9WmaYXGd_A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTMwODtoPTYw/https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/90fe2e40-9383-11ee-afba-e10366cf6e23",
+      "https://www.s.yimg.com/ny/api/res/1.2/eqsjIGmwe04.SMuuCBEt6w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://www.media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://wnyt.com/top-stories/dine-dash-turns-violent",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2023-12/90fe2e40-9383-11ee-afba-e10366cf6e23",
+      "https://www.nbcnews.com",
+      "https://www.s.yimg.com/ny/api/res/1.2/lutgHyaEzq16aZnvSDC20w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://www.media.zenfs.com/en/nbc_news_122/7fc6747c00854c7943fc06c970df0d8e",
+      "https://gofundme.com/f/stand-with-su-wens-family-in-their-time-of-need",
+      "https://nbcnews.com/",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fn-y-sushi-restaurant-owner-194803594.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.twitter.com/intent/tweet?text=N.Y.%20sushi%20restaurant%20owner%20out%20of%20coma%20after%20dine-and-dash%20attack%20over%20%24425%20bill&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fn-y-sushi-restaurant-owner-194803594.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=YahooNews"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "su wen",
+          "sentiment": "none"
+        },
+        {
+          "name": "sakshi venkatraman",
+          "sentiment": "none"
+        },
+        {
+          "name": "ray ren",
+          "sentiment": "none"
+        },
+        {
+          "name": "ren",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nbc news n.y.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shogun sushi",
+          "sentiment": "none"
+        },
+        {
+          "name": "wnyt",
+          "sentiment": "none"
+        },
+        {
+          "name": "nbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "n.y.",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:11:02.803+03:00",
+    "updated": "2024-06-14T04:58:19.002+03:00"
+  },
+  {
+    "uuid": "9e30c3277929f2c1be7b77c296222b46ab959b93",
+    "url": "https://istoe.com.br/arsenal-perde-em-casa-para-o-west-ham-e-deixa-escapar-a-lideranca-isolada-do-ingles/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin3",
+    "published": "2023-12-28T22:25:00Z",
+    "title": "Arsenal perde em casa para o West Ham e deixa escapar a liderança isolada do Inglês",
+    "text": "28/12/2023 - 19:25\nO Arsenal decepcionou a sua torcida nesta quinta-feira ao ser derrotado em seu estádio por 2 a 0 pelo West Ham, no encerramento da 19ª rodada do Campeonato Inglês. O tropeço custou caro, já que o revés tirou a chance de o time do técnico Mikel Arteta assumir a liderança da competição.\nNa classificação, a diferença para o líder Liverpool é agora de dois pontos (40 a 42). O West Ham festejou o triunfo e também a posição na classificação. Os visitantes somam 33 pontos e aparecem no sexto posto, logo atrás do Tottenham, que também perdeu seu compromisso na rodada.\nAs duas equipes voltam a jogar pelo torneio no próximo final de semana. O Arsenal vai tentar a reabilitação visitando o Fulham no domingo. Na terça-feira, o West Ham recebe o Brighton no estádio Olímpico de Londres.\nO resultado surpreendente começou a ser construído ainda no início do primeiro tempo. Jarrod Bowen faz uma bela assistência para Tomas Soucek, que teve frieza para dominar e chutar forte: 1 a 0, aos 13 minutos.\nCom a necessidade de virar o jogo e a pressão da torcida, a partida foi ficando dramática. O West Ham perdeu Lucas Paquetá com 30 minutos de confronto. A baixa obrigou a equipe visitante a se fechar ainda mais a fim de segurar a vantagem. Com mais volume de jogo, mas sem ser efetivo, o Arsenal foi para o intervalo sem conseguir o empate.\nQuem esperava uma pressão total da equipe de Mikel Arteta desde o início, acabou se surpreendendo. O West Ham se aproveitou de uma bola aérea e fez o que poucos acreditavam: aumentou a vantagem para 2 a 0 em cabeçada de Mavropanos. A bola ainda bateu no travessão antes de entrar, aos 10 minutos.\nO Arsenal foi para cima, criou seguidas chances, mas pecou nas finalizações. Em dois lances praticamente seguidos, Gabriel Jesus perdeu dois gols na pequena área. No primeiro cabeceio, Aréola defendeu. Na segunda oportunidade, o camisa nove cabeceou por cima.\nO tempo passou a ser mais um adversário e o Arsenal não conseguiu se organizar diante de um rival retrancado. Ödegaard ainda teve outra chance em cabeçada nos acréscimos mas parou no goleiro. O pior quase aconteceu no último lance do jogo com um pênalti anotado para o West Ham. David Raya, no entanto, conseguiu defender a cobrança de Benrahma garantindo a derrota de 2 a 0.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:05:32.083+02:00",
+    "updated": "2023-12-29T01:05:32.083+02:00"
+  }
+]

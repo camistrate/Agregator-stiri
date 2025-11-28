@@ -1,0 +1,297 @@
+[
+  {
+    "uuid": "c834e5f79445b5d914754c219c941464b300e0f7",
+    "url": "https://www.163.com/dy/article/K6S0F2QG0550W16F.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-08-13T09:27:00Z",
+    "title": "联通网络大面积瘫痪，DNS为何会被污染|ip|服务器|dns|中国联通|命令提示符_网易订阅",
+    "text": "联通DNS污染事件，一场由域名解析故障引发的网络危机。\n01\n联通网络大面积瘫痪\n2025年8月12日晚，北京一位电动车用户在雨中充电，扫码付款时屏幕突然显示网络连接失败。与此同时，公司白领发现抖音、微博无法刷新，餐厅顾客无法用支付宝结账——无数人反复开关手机，却未意识到一场区域性网络瘫痪正在蔓延，这已是24小时内北京地区第二次运营商级DNS故障，前一日移动用户刚经历了类似遭遇。\n当夜社交平台涌现用户报告：瑞幸咖啡无法下单、公司OA系统断连、加油站扫码支付失灵。与普通断网不同，微信通话和基础网页浏览却意外畅通——这种选择性故障特征直指DNS污染。用户手机状态栏信号满格，但部分App如同被无形屏障隔离。\n阿里云监控系统在19：40捕捉到异常流量，确认联通Local DNS响应异常率达78%。其公告揭示关键证据：递归DNS将合法域名大规模指向127.0.0.2，该IP是本地环回地址的变体，不具备真实服务能力。这解释了为何切换至WiFi或电信网络可临时恢复服务——本质是绕过了故障的联通DNS枢纽。\n更棘手的是DNS缓存机制延长了灾难。即使根服务20分钟修复，区域服务器因缓存刷新周期差异（1-48小时不等），贵州、河北等十余个省份用户在次日仍遭遇访问故障。\n02\n抽丝剥茧，DNS污染的技术原罪\nDNS系统如同互联网的“电话簿”，将人类可读的域名（如 www.baidu.com ）转换为机器可识别的IP地址（如110.242.68.66）。\n而DNS污染则像恶意篡改路标的行为：攻击者通过伪造DNS响应包，将域名指向错误的IP地址。当用户访问被污染的域名时，请求会被引导至无效地址（如127.0.0.2）或黑客控制的服务器。\n在联通事件中，攻击者采用了DNS缓存投毒技术： 通过向联通Local DNS服务器注入伪造记录，使“微博.com”“抖音.com”等域名被解析到127.0.0.2（本机回环地址的变体）。这种地址如同“数字黑洞”，任何发送至此的数据包都会在本地消失，导致用户访问失败。 更隐蔽的是，污染记录会在DNS缓存中存活数小时，持续影响后续用户。\n而DNS系统如同互联网的神经传导网络，承担着将“网址”（域名）翻译为“门牌号”（IP）的核心任务。其脆弱性源于三方面技术软肋——\n递归查询链路的单点失效： 当用户访问网站时，请求需经本地DNS→递归DNS→根DNS→顶级域DNS→权威DNS的复杂接力。北京联通202.106.46.151等递归DNS节点故障时，如同邮局分拣中心突然瘫痪，导致吉林等依赖该节点的区域集体“失明”。\n协议先天缺陷的致命诱惑： DNS基于无连接的UDP协议传输，源IP极易伪造。攻击者可发动DNS放大攻击，伪造受害者IP向公共DNS发送查询，利用响应报文远大于查询报文的特性，用较小流量制造数倍的攻击洪流。2014年全球根服务器遭遇的污染事件正是利用此漏洞。\n缓存投毒的精准狙击： 黑客通过向递归DNS注入伪造响应，将银行域名解析到钓鱼网站IP。本次事件虽未发现恶意指向，但127.0.0.2的指向模式揭示可能遭受中间人攻击或服务器篡改。山东联通2015年瘫痪事故分析报告曾明确指出：DNS服务器被“黑”是导致省级网络中断的主因。\n03\n破局DNS污染防御战\n在数字化生存已成常态的时代，DNS污染事件如同突然被拔掉的氧气面罩，警醒我们网络基础设施的防御体系亟待重构。\n面对愈加精密的攻击手段，运营商和科技公司正推动着一场静默的技术革命——从被动应急的亡羊补牢转向主动免疫的系统重塑，这场防御突围的核心在于为互联网的“导航罗盘”铸造三重护盾。\n技术进化的第一道防线在加密层展开。传统DNS协议像明信片般在互联网裸奔，查询请求与响应以明文传输，让中间人攻击者轻易完成“狸猫换太子”。现在，DNS over HTTPS（DoH）和DNS over TLS（DoT）两种加密协议如同为数字信封加上密码锁。\n当用户键入域名查询时，这些加密技术将请求封装在HTTPS流量中，就像把地图藏在防弹运输车内。火狐浏览器已实现DoH自动切换功能，用户在不知觉间就能规避区域DNS拦截。而在移动运营商层面，中国电信2024年率先启用的DoT试验组网显示，部署该协议的网络节点成功阻断了97%的DNS篡改尝试。\n更为深刻的变革是网络基础设施的重构。本次联通事件暴露出单点污染的“核爆效应”——一个市级DNS节点被攻陷便波及整个服务区。作为应对，运营商正推进本地缓存服务器的分布式部署，配合CDN节点建立蜂窝状防护网。\n同时，污染监控系统如同网络安全的气象雷达，阿里云搭建的实时监测平台能对异常解析请求进行毫秒级响应。在8月12日事件中，该系统正是通过识别127.0.0.2这一异常解析结果的集中爆发，在8分钟内就溯源到受污染节点坐标。\n普通用户在防御生态中并非被动角色。当灾难发生时，将设备DNS服务器切换至Cloudflare（1.1.1.1）或腾讯DNSPod（119.29.29.29）等具有抗污染能力的公共DNS服务，相当于紧急启用备用导航系统。\n技术爱好者还可在路由器设置中启用DNSSEC验证选项，或在终端使用dig/nslookup工具定期检验关键域名的解析健康度。这些手段如同数字时代的应急包储备——平时隐于后台，危机时却能成为救命绳索。\n04\n藏在DNS污染背后的国域安全危机\n当前全球互联网命脉被13台根域名服务器牢牢掌控，而其地理分布折射出令人警惕的战略失衡——美国独占10台，日本、荷兰、瑞典各驻守1台，中国境内至今未能拥有任何根服务器资源。这种高度集中的格局使我国域名系统暴露于三重安全威胁之下。\n若极端军事冲突发生，部署在特定国家的根服务器可能直接切断对中国域名解析请求的响应，由此引发的将是全网服务崩塌式的灾难。更为现实的威胁来自缓存污染武器化风险。2014年某国曾通过DNS劫持将中国全网流量导向特定IP地址，若此类攻击将用户引向钓鱼诈骗系统，整个金融体系或将陷入巨大危机。\n运营商应急能力的短板同样令人忧心。当DNS主系统故障时，多数国内运营商缺少自动切换的热备方案，需依赖人工操作的故障切换流程，致使关键修复时间窗口一再延误。\n网络安全专家董方曾指出：\"根服务器异常修复后，国内用户可能持续遭遇48小时服务波动。\"\n在这条无形的赛道上，每一次DNS故障都在叩击着国家网络安全的神经末梢。\n微信订阅\n欢迎通过邮局渠道订阅2025年《电脑报》\n邮发代号：77-19\n单价：8元，年价：400元\n编辑｜张毅\n主编｜黎坤\n总编辑｜吴新\n爆料联系： cpcfan1874（微信）\n壹零社： 用图文、视频记录科技互联网新鲜事、电商生活、云计算、ICT领域、消费电子，商业故事。《中国知网》每周全文收录；中国科技报刊100强；2021年微博百万粉丝俱乐部成员；2022年抖音优质科技内容创作者",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_vn",
+        "top_news_th",
+        "top_news_nz",
+        "top_news_rs",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news_hk",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:48:16.774+03:00",
+    "updated": "2025-08-15T09:10:54.000+03:00"
+  },
+  {
+    "uuid": "ad85d52cdbd0fc20a58b2c13871d0837bad6eabb",
+    "url": "https://barbadostoday.bb/2024/01/07/recognition-for-teen-swimmers-who-saved-uk-couple-from-drowning/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Barbados Today",
+    "published": "2024-01-07T20:32:00Z",
+    "title": "Recognition for teen swimmers who saved UK couple from drowning",
+    "text": "Two teenage swimmers who saved a British couple from drowning on Wednesday have come in for recognition from the Democratic Labour Party youth arm — the Young Democrats.\nThe story of Canadians Zoe Ireland-Meklensek, 13, and Emma Bassermann , 14, was highlighted by Barbados TODAY last week.\nThey were swimming at the Barbados Beach Club in Maxwell, Christ Church, where they are currently staying, when a United Kingdom couple, Belinda and Robert Stone, got into difficulty while swimming.\nZoe and Emma were boogie boarding when they heard a faint cry for help. Zoe immediately went to investigate and found a woman waving her arms and shouting for help.\n“So, I immediately went out to see what was the matter, and she said that her husband who was further down, ‘can’t swim and he can’t get back [to shore]’. So, then I brought her to shore by putting her on the boogie board … I pulled her with the strap until she could touch the sand, and then I went back out with Emma, I got the husband on the boogie board, I went along the beach until the current was not so bad, and then I went closer to the shore until he could touch the sand,” Zoe said.\nOn Sunday, the Young Democrats presented Zoe and Emma with a token of appreciation for their heroic actions.\n“Although Emma and Zoe are not locals, they are a great example to all youth. They are extremely young but didn’t think twice about putting their own lives at risk to save the lives of two elderly persons from drowning. This is the greatest example of what can occur when the youth and elders collaborate and work together,” Trotman said.\nShe pointed to the positive impact young people can have in their communities and encouraged parents and guardians to enrol their children in swimming programmes.\n“They are brave young women and an excellent example of how powerful the youth can be. There’s a negative stigma attached to the youth globally but I think it’s just an indication that the youth are crying out for attention and help. I wanted to show the youth of Barbados that you can continue to receive attention by continuing to do positive things.”\nTrotman suggested swimming was a crucial skill that could save lives and enable young people to become heroes in times of crisis.\n“Enroll your children into a swimming programme. We live on an island, which as we know by its definition is surrounded by water. Not only can the ability to swim save your child’s life but as in this instance, that child can become someone who can save the life of another.\n“Although even the greatest swimmers can sometimes get into difficulties, your chances of survival are increased if you have the knowledge and skill to remain calm and tackle the situation without fear and panic,” she advised.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "zoe",
+          "sentiment": "none"
+        },
+        {
+          "name": "emma bassermann",
+          "sentiment": "none"
+        },
+        {
+          "name": "belinda",
+          "sentiment": "none"
+        },
+        {
+          "name": "emma",
+          "sentiment": "none"
+        },
+        {
+          "name": "robert stone",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "barbados beach club",
+          "sentiment": "none"
+        },
+        {
+          "name": "christ church",
+          "sentiment": "none"
+        },
+        {
+          "name": "democratic labour party",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "zoe ireland",
+          "sentiment": "none"
+        },
+        {
+          "name": "barbados",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "maxwell",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:51:11.563+02:00",
+    "updated": "2024-01-08T00:51:11.563+02:00"
+  },
+  {
+    "uuid": "d17c0e7c74c6434f47ce0b0f3e8ad92638fd09c0",
+    "url": "https://larepublica.pe/deportes/2024/08/15/universitario-jairo-concha-realizo-una-grave-denuncia-de-estafa-en-la-previa-ante-deportivo-garcilaso-por-el-torneo-clausura-1118295",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Enzo Florez",
+    "published": "2024-08-15T21:13:00Z",
+    "title": "Universitario: Jairo Concha realizó una grave denuncia de estafa en la previa ante Deportivo Garcilaso por el Torneo Clausura | Deportes | La República",
+    "text": "Jairo Concha realizó una grave denuncia de estafa en la previa del Universitario vs. Garcilaso El jugador de Universitario de Deportes se pronunció a través de su cuenta de Instagram manifestando su preocupación y aconsejó a sus seguidores. [Jairo Concha](https://larepublica.pe/deportes/2024/07/30/alianza-lima-en-el-olvido-jairo-concha-se-rinde-ante-la-hinchada-de-universitario-es-impresionante-566340), jugador de [Universitario de Deportes](https://larepublica.pe/deportes/2024/08/15/golperu-en-vivo-universitario-de-deportes-vs-deportivo-garcilaso-liga-1-2024-811995), denunció en sus redes sociales que hay una cuenta de Facebook que se está haciendo pasar por él y está estafando a sus seguidores. En su publicación, señala que esta persona le pide dinero y se hace pasar por vendedor de entradas. Además, cita a mujeres en un lugar y les pide cosas privadas. ¿Qué dice el mensaje de Jairo Concha en su cuenta de Instagram? El jugador merengue mostró su preocupación a través de su cuenta de Instagram, donde hizo público que hay una persona que se está haciendo pasar por él a través de Facebook. Entre las peticiones a sus seguidores, este sujeto solicita dinero o venden entradas haciendo pasar por Jairo Concha. \"Buenas tardes. Desde hace ya bastante tiempo hay una cuenta de Facebook que se está haciendo pasar por mí tratando de estafar gente, ya sea vendiendo entradas falsas, pidiendo dinero o conversando con chicas, citándolas en lugares o pidiendo cosas privadas\", escribió el futbolista de Universitario de Deportes. Asimismo, el jugador de la 'U' pidió a sus seguidores que por favor ignoren todo tipo de respuesta y en el mejor de los casos, logren denunciarlo para evitar inconvenientes. \"Si alguna cuenta de Facebook con mi nombre les escribe no soy yo, solo está buscando estafarlos de alguna manera, agradecería que lo ignoraran o lo denunciaran. Muchas gracias por la atención\", concluyó. Publicación del jugador de Universitario. Foto: Instagram/Jairo Concha ¿Cómo le va a Jairo Concha en el Torneo Clausura? El futbolista de 25 años ha sido uno de los más ovacionados por la hinchada merengue, en especial contra Alianza Lima. Tras ir empatando 1-1 en el estadio Monumental, Concha metió un centro que logró terminar en gol y darle los 3 puntos en el segundo clásico del año. Luego de haber ganado el torneo Apertura, Jairo buscará ser campeón con el equipo de sus amores y conseguir la estrella número 28 para el conjunto crema.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:17:44.186+03:00",
+    "updated": "2024-08-16T00:17:44.186+03:00"
+  },
+  {
+    "uuid": "af9e71f3a430506809738de495f7afc218843b94",
+    "url": "https://vnexplorer.net/george-russell-cree-que-la-sancion-impuesta-a-fernando-alonso-en-el-gp-de-australia-era-necesaria-s2229813.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-04-04T23:29:00Z",
+    "title": "George Russell cree que la sanción impuesta a Fernando Alonso en el GP de Australia era necesaria",
+    "text": "George Russell ha advertido que la Fórmula 1 corría el riesgo de sentar un precedente peligroso si no se hubiese penalizado a Fernando Alonso en el Gran Premio de Australia.\nGeorge Russell explica su versión de los hechos El de Mercedes tuvo un fuerte accidente en la penúltima vuelta de la carrera en Melbourne mientras perseguía a Fernando Alonso por el sexto lugar. Perdió el control de su coche cuando se acercó repentinamente al asturiano, debido a que este soltó el acelerador cuando se acercaban a la curva 6, y acabó estrellándose contra el muro.\nLa FIA hizo caso omiso a las explicaciones de Alonso. El piloto de Aston Martin fue declarado como culpable del accidente por haber realizado “conducción errática” y recibió una penalización de 20 segundos, quedando relegado de la sexta posición que había logrado inicialmente hasta la octava.\ngettyimages-2102851075\nEn la previa del GP de Japón de este fin de semana, George Russell ha vuelto a ser preguntado por el accidente y ha explicado su versión: “Creo que sucedió una situación un poco extraña. Como dije en ese momento, me tomó totalmente por sorpresa. En realidad estaba mirando el volante, haciendo un cambio en la recta, lo que todos hacemos a lo largo de la vuelta, y cuando miré hacia arriba, estaba en la caja de cambios de Fernando. Era demasiado tarde y lo siguiente que supe fue que estaba contra el muro”.\nPara George Russell, la sanción era necesaria El británico ha sugerido que no sancionar a Alonso habría abierto la puerta para que otros conductores realizaran movimientos similares en el futuro: “Creo que si no hubiera sido penalizado, realmente habría abierto una lata de gusanos para el resto de la temporada. Y (también) en las categorías junior decir: ‘¿Se te permite entrar en recta? ¿Se te permite reducir la velocidad, cambiar de marcha, acelerar o hacer algo semierrático?'”.\nA pesar del fuerte accidente que sufrió, Russell ha querido dejar claro que no hay ningún problema con el piloto español: “No me tomo nada personal lo que pasó con Fernando, y probablemente tuvo consecuencias mayores de las que debería. No es nada personal. Cuando el casco está puesto, todos somos luchadores y competimos. Cuando se quita el casco, se respetan unos a otros. Así que (hay) muchas emociones en este momento, pero ambos salimos adelante”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Sport",
+      "Health"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1l4uBS.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1l4uBS.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:35:55.481+03:00",
+    "updated": "2024-04-05T02:35:55.481+03:00"
+  },
+  {
+    "uuid": "46ac12b7e11b00e02b31f85837aede42187eeeed",
+    "url": "https://andaluciainformacion.es/deportes/1498190/el-valencia-remonta-en-la-prorroga-ante-un-cartagena-con-diez-en-la-segunda-parte/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ai_deportes",
+    "published": "2024-01-07T20:04:00Z",
+    "title": "El Valencia remonta en la prórroga ante un Cartagena con diez en la segunda parte | Andalucía Información. Todas las noticias de Deportes",
+    "text": "El Valencia Club de Fútbol logró el objetivo de acceder a los octavos de final de la Copa del Rey al ganar remontando por 1-2 en la prórroga al Fútbol Club Cartagena, que es el colista de Segunda División, pero que fue ganando hasta el minuto 73 y eso que se quedó con un jugador menos por la discutida expulsión de Iván Calero en el minuto 46. El Cartagena salió al campo con una gran ambición y afán ofensivo. Así, en el minuto 2 Iván Calero disparó fuera por poco y en el 4 Alfredo Ortuño logró el 1-0 con un buen control y un mejor remate tras pase en profundidad de Damián Musto. Los blanquinegros siguieron dominando ya con la ventaja en el marcador a un rival que no se encontraba a sí mismo y corría más detrás del balón que moviéndolo. El primer tiempo acabó con polémica por la rigurosa expulsión con tarjeta roja directa de Iván Calero por una falta a Fran Pérez que, según Jorge Figueroa Vázquez, tuvo la dureza suficiente como para indicarle el camino de los vestuarios al defensa local. Prácticamente con esa acción se llegó al descanso y en el vestuario Rubén Baraja tomó medidas e introdujo dos cambios claramente ofensivos -Sergi Canós y Roman Yaremchuk por Fran Pérez y Hugo Guillamón-. Obviamente el encuentro cambió en el 11 contra 10 y los valencianistas se hicieron con la iniciativa ante un adversario encerrado pero que defendió bien. Los de la capital del Turia, ya con José Luis Gayà y Hugo Duro en el campo, veían pasar los minutos sin neutralizar sus desventaja a pesar de los balones colgados al área en busca, sobre todo, de la cabeza de Yaremchuk y algún tiro peligroso, como el de Diego López que despejó la zaga blanquinegra. Intentándolo desde lejos, como hacían los de Baraja, era complicado voltear el marcador pero precisamente de ese modo estableció el empate con un gran chut de Sergi Canós después de un saque de esquina botado en corto en el minuto 73. El centrocampista aprovechó el pase de Gayà. Los cambios surtieron efecto y dos de los salidos al terreno de juego en la segunda parte fueron protagonistas. Con el 1-1 el choque entró en una fase de juego insulso sin que el balón rondara el peligro en ninguna de las dos áreas. El técnico visitante agotó los cambios en el partido dando entrada al joven David Otorbi, de 16 años y dos meses y medio -nació el 16 de octubre de 2007- e internacional sub-17, quien se convirtió en el futbolistas más joven en debutar con el Valencia en toda su historia. El encuentro, después de un remate de cabeza desviado por parte de Yaremchuk, se fue a la prórroga, todo un logro para un orgulloso Efesé. En 14 segundos Jaume Doménech evitó el gol de Lautaro de León \"Lauti\" con un tiro de éste desde fuera del área y en el posterior córner Pedro Alcalá remató fuera por poco. Dos avisos de las intenciones del cuadro dirigido por Julián Calero en el tiempo extra. La réplica la puso Yaremchuk, con un tiro a la media vuelta que se le fue por encima del larguero y en la primera jugada de la segunda parte de la prórroga Gayà castigó un error defensivo del rival. Su centro chut desde fuera del área entró en la portería con el portero Raúl Lizoain y la defensa del Efesé no entendiéndose. Tras ese mazazo y con el lógico cansancio por llevar más de una hora jugando con uno menos el Cartagena siguió buscándolo. Un tiro de Tomás Alarcón desviado y tres saques de esquina pero sin acierto. La victoria se la llevó el Valencia con una remontada sin brillo ante el colista de Segunda. Estará en el bombo de los octavos de final. Ficha técnica: 1. Fútbol Club Cartagena: Raúl Lizoain; Iván Calero, Alcalá, Gonzalo Verdú (Jony Álamo, m.67), Fontán (Umaro Embaló, m.106), Jairo (Lauti, m.90+1); Musto, Luis Muñoz (Kiko Olivas, m.96), Mikel Rico (Iván Ayllón, m.85), Tomás Alarcón; y Alfredo Ortuño (Jansson, m.67). 2. Valencia Club de Fútbol: Jaume Doménech, Thierry Correia, Mosquera, Cenk, Jesús Vázquez (Gayà, m.61); Pepelu (Pablo Gozálbez, m.100), Hugo Guillamón (Yaremchuk, m.46), Javi Guerra; Diego López (David Otorbi, m.81), Fran Pérez (Canós, m.46) y Alberto Marí (Hugo Duro, m.61). Goles: 1-0, M.4: Alfredo Ortuño. 1-1, M.73: Canós. 1-2, M.106: Gayà. Árbitro: Jorge Figueroa Vázquez, del comité andaluz. Mostró la tarjeta amarilla a los locales Alcalá (m.40), Luis Muñoz (m.43), Fontán (m.45+4) y Musto (m.47) y a los visitantes Pepelu (m.40) y Cenk (m.58). Expulsó con la cartulina roja directa al local Iván Calero (m.45+1). Incidencias: Partido correspondiente a los dieciseisavos de final de la Copa del Rey de fútbol que se disputó en el estadio Cartagonova de Cartagena ante unos 9.000 espectadores. Envía tu noticia a: [participa@andaluciainformacion.es](mailto:participa@andaluciainformacion.es)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:02:43.989+02:00",
+    "updated": "2024-01-08T00:02:43.989+02:00"
+  },
+  {
+    "uuid": "5e3467441de66b5b7273b2933dbade191b95014a",
+    "url": "https://www.tribuneindia.com/news/india/india-may-face-24-7-gdp-loss-by-2070-due-to-climate-related-disruptions-yadav",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aksheev Thakur",
+    "published": "2025-03-05T22:07:00Z",
+    "title": "India may face 24.7% GDP loss by 2070 due to climate related disruptions: Yadav - The Tribune",
+    "text": "India may face 24.7% GDP loss by 2070 due to climate related disruptions: Yadav\nIndia could lose 24.7 per cent of the GDP by 2070 due to climate-related disruptions, said Union Environment Minister Bhupender Yadav on Wednesday at the World Sustainable Summit organised by The Energy and Resources Institute (TERI).\nYadav said the Global South was driving the climate agenda, and the world now looks to India as a leader.\n“In 2020 alone, India slashed its GHG emissions by 7.93 per cent. The Global South, including India, is essential in shaping climate discourse, as it faces the brunt of climate change impacts while also offering solutions rooted in sustainable development practices,” he said.\nThe minister called on developed countries to honour their financial and technological commitments, especially in fulfilling their obligations under the Paris Agreement. He also underscored the need for enhanced international cooperation in strengthening Nationally Determined Contributions (NDCs), ensuring they address both the challenges and opportunities of climate action.\nHe emphasised that true sustainability can only be achieved when all forms of life are considered equally important and when environmental policies account for the protection and restoration of wildlife and biodiversity.\nPointing to the threat of man-animal conflict, Yadav said, “When wildlife increases in the forest it is healthy for the environment but when it increases in towns, the ecology gets unsustainable.”\nOutlining India’s long-term vision to become a developed nation by 2047, with a target of achieving net-zero emissions by 2070, Yadav said there has been a 36 per cent reduction in GDP emission intensity between 2005 and 2020.\nHe called for reforms in global governance, urging the international community to place equity and justice at the heart of climate negotiations.\nHe referred to the United Nations Environment Programme (UNEP) Adaptation Gap Report, which highlights the urgent need to scale up adaptation efforts to cope with rising climate impacts. Yadav called for more robust financial support for adaptation to climate change so that most vulnerable regions are able to implement solutions that build resilience and safeguard livelihoods.\nReferring to the COP29 decision where countries agreed to mobilise $300 billion per year by 2035 under the new collective quantified goal on climate finance as inadequate, Yadav said this would lock developing countries into a cycle of underfunded climate action.\n“The proposed finance framework undermines equity and lets developed countries evade their obligation under Article 9 of the Paris Agreement. Adaptation finance has thus far been quite inadequate,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->climate change",
+      "Environment->sustainability",
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->macro economics",
+      "Economy, Business and Finance->financial and economic news",
+      "Social Issue->social condition",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T00:20:57.972+02:00",
+    "updated": "2025-03-06T00:20:57.972+02:00"
+  }
+]

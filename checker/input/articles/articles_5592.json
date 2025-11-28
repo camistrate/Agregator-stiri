@@ -1,0 +1,614 @@
+[
+  {
+    "uuid": "8307629922da4135d95e0240e38bde41ea6f48d9",
+    "url": "https://www.bankinfosecurity.com/criminals-remotely-ghost-tap-nfc-for-card-cash-out-attacks-a-26860",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@BnkInfoSecurity",
+    "published": "2025-01-09T00:00:00Z",
+    "title": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks",
+    "text": "Criminals 'Ghost Tap' NFC for Payment Cash-Out Attacks\nTactic Uses Stolen Cards Added to Apple Pay and Google Pay Digital WalletsAn academic project turned criminal tool lets criminals remotely cash-out stolen payment cards with the assistance of an on-site money mule, warn researchers.\nSee Also: [2024 Fraud Insights Report](https://www.bankinfosecurity.com/whitepapers/2024-fraud-insights-report-w-14146?rf=RAM_SeeAlso)\nHackers who trade in stolen payment card data have long sought ways to minimize their physical footprint, recruiting teenagers and unemployed or desperate individuals to do the risky work of using stolen cards in the real world.\nAn active scam in criminal forums allows hackers to transmit in real time stolen card data onto the smartphone of a money mule, keeping themselves well removed from the site of the actual transaction.\nAt the center of the scam is [NFCGate](https://dl.acm.org/doi/abs/10.1145/2766498.2774984), an application developed in 2015 by students at the Technical University of Darmstadt, Germany. The tool \"was originally designed for research purposes but has been weaponized by threat actors,\" [wrote](https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay) Dutch anti-fraud firm ThreatFabric in a Wednesday blog post.\nThe insight behind NFCGate was that designers of smartphone wallet apps assumed that by requiring customers to be in close physical proximity to a payment reader, they could head off certain types of fraud. Smartphone wallets communicate with terminals through near field communication, or NFC, a radio communication protocol that requires an NFC-enabled card, fob or smartphone to be no more than 1.5 inches away from a reader.\nNFCGate's creators did not find a way to subvert the NFC distance requirement or otherwise hack the protocol. Rather, they realized that the smartphone itself could act as a relay for stolen payment card data, in what's known as a relay attack. Ever faster cell phone networks coupled with a lack of response lag detection in ATM and point-of-sale terminals make these attacks possible. \"The actual devices with cards are physically located far away from the place where transaction is performed (the device is not connected to a POS terminal or ATM),\" ThreatFabric wrote.\nThe firm, which dubbed the tactic \"Ghost Tap,\" spotted it being used by street criminals. The scheme involves running Android phones that have a modified version of NFCGate software installed, which is available for sale on criminal forums. \"I can send my apple pay/google pay card from my phone to your phone for NFC operation,\" reads one such advertisement.\n\"The prerequisites for the tactic to be executed are simple: a mobile device having NFC with a stolen card linked to the mobile payment system - could be iOS or Android device; two devices with NFCGate installed; and a server that is setup to relay the traffic,\" ThreatFabric said.\nCzech Republic Cash-Out Attacks\nSecurity firm Eset in August [detailed](https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/) an earlier version of this type of attack using what it dubbed NGate Android malware relays, based on NFCGate. \"During our investigation, we identified six different NGate apps specifically targeting clients of three banks in Czechia between November 2023 and March 2024,\" Eset said. The focus of these attacks was to cash out ATMs.\n\"Attackers were able to clone NFC data from victims' physical payment cards using NGate and relay this data to an attacker device that was then able to emulate the original card and withdraw money from an ATM,\" Eset said. That specific campaign appears to have been on hold since March 20, when police [arrested](https://www.policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ) \"a suspiciously masked man withdrawing money from an ATM in Prague for a long time,\" who is suspected of perpetrating the attacks. Police described him as being a 22-year-old foreigner and said he was carrying $6,500 in cash when detained.\nEset said the tactics could be used not just for ATM cash-out attacks. Committing fraud at the purchase point is one potential use case, which involves using the tactic to relay stolen card data to a POS terminal. Scaling this attack might be challenging, as contactless payments typically have limits. While this varies by country or card issuer, the U.S. often sees a contactless per-transaction limit of $100 to $250.\nEnter Money Mules\nSince the Czechia cash-out attacks, criminals appear to have hit upon new advances. ThreatFabric said a tactic it has seen being used involves adding stolen payment card to a digital wallet on either an iPhone or Android device. An attacker also has a separate Android device running the NFCGate software - to serve as an NFC relay - as well as a dedicated relay server.\nAttackers employ multiple money mules in different geographies to execute multiple cash-out attacks in a short timeframe - before the attack gets detected and blocked. These money mules each carry an attacker-provided Android phone that runs the NFCGate software and is programmed to communicate with the attacker-controlled relay server. Whenever a mule presents their phone to an ATM or POS terminal, the software records and transmits the request to the attacker's relay server, which sends it to the attacker-controlled reader relay. The attacker opens their wallet app, selects the stolen card to use and then presents it to their Android relay device, which records and transmits the response to the relay server and back to the mule's phone, which replays it to the ATM or POS terminal.\nOne prerequisite for the attack is attackers being able to add the stolen card data to their digital wallet. This registration process typically involves a card issuer sending the card user a one-time code. ThreatFabric said attackers likely intercept this OTP by first infecting an Android-using victim's device with mobile malware designed to automatically intercept the OTP, or else via a phishing attack.\nThe latter have become [very sophisticated](https://securelist.com/2fa-phishing/112805/ ), including so-called OTP bots that are able to telephone a target, pretend to be their financial institution and request that they enter the numeric OTP they've just received, using their keypad, which gets immediately relayed to an attacker via a phishing administration panel or Telegram bot. Once the attacker has the OTP, they can add the card to a digital wallet they control and then run Ghost Tap schemes.\nBanks offering cardless access to ATMs via NFC continue to grow. In the U.S., these include Bank of America, Capital One, JPMorgan Chase, U.S. Bank and Wells Fargo.\nATM terminals and POS devices \"should detect latency during the transaction and detect the actual device interacting with the reader,\" while mobile payment services should be redesigned for \"detecting suspicious inconsistency of the device location and payment location,\" ThreatFabric said. Otherwise, \"these attacks might become even more popular amongst cybercriminals.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ",
+      "https://dl.acm.org/doi/abs/10.1145/2766498.2774984",
+      "https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/",
+      "https://www.threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay",
+      "https://securelist.com/2fa-phishing/112805/ ",
+      "https://policie.cz/clanek/pozor-podvodnici-vymysleli-novy-system.aspx ",
+      "https://www.dl.acm.org/doi/abs/10.1145/2766498.2774984",
+      "https://www.securelist.com/2fa-phishing/112805/ ",
+      "https://threatfabric.com/blogs/ghost-tap-new-cash-out-tactic-with-nfc-relay",
+      "https://welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash/",
+      "https://www.welivesecurity.com/en/eset-research/ngate-android-malware-relays-nfc-traffic-to-steal-cash"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:07:16.519+02:00",
+    "updated": "2025-01-10T01:07:16.519+02:00"
+  },
+  {
+    "uuid": "ac3fa283d52704f464cfea4aba56b2df505ba0a5",
+    "url": "https://www.homelandsecuritynewswire.com/dr20240822-america-s-iran-policy-is-a-failure-piecemeal-deterrence-and-sanctions-can-go-only-so-far",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arie Perliger",
+    "published": "2024-08-22T00:00:00Z",
+    "title": "Iran's nuclear weapons program, centrifuges, US policy | Homeland Security Newswire",
+    "text": "IRAN POLICYAmerica’s Iran Policy Is a Failure − Piecemeal Deterrence and Sanctions Can Go Only So Far A decade of U.S. foreign policy in the Middle East has failed to contain Iran’s ambitions and has instead substantially contributed to the current escalation of hostilities in the region. Washington’s ability to project power and manage American interests in the Mideast has eroded dramatically since 2010, and, as a result of Trump’s 2018 withdrawal from the nuclear deal, Iran’s military nuclear program has reached its most advanced stage. The failed policies have culminated in the collapse of American deterrence in the Middle East. Simply put, the U.S. no longer projects enough power there to stop Iranian hostilities. The escalating conflict between Israel and Iran in recent months is frequently explained as another extension of Israel’s war on Hamas in Gaza. After all, [Hamas enjoys a close relationship with Iran](https://www.cnn.com/2023/10/09/middleeast/hamas-iran-israel-attack-analysis-intl/index.html), and both share [the goal of eliminating the Jewish state](https://www.vox.com/world-politics/2023/10/14/23917078/israel-hamas-war-gaza-iran-hezbollah-khamenei-lebanon). But there’s more to it than that. As a scholar of security studies who has researched [conflicts in the Middle East for over 20 years](https://scholar.google.com/citations?user=xBQYKHwAAAAJ&hl=en), I would argue that a decade of U.S. foreign policy in the region has failed to contain Iran’s ambitions and has instead substantially contributed to the current escalation. As is clear from recent [events along Israel’s northern border](https://www.economist.com/middle-east-and-africa/2024/06/17/israels-northern-border-is-ablaze), Washington’s ability to project power and manage American interests in the Mideast has eroded so dramatically since 2010 that Iran has only limited concerns about the consequences of its proxies attacking U.S. forces and directly attacking U.S. allies such as Israel. Iranian Victories The government of Iran, a Shia Muslim nation in a Sunni Muslim region, expands its regional influence by funding and militarily supporting violent proxy organizations in neighboring countries. Those groups, in turn, [attack and destabilize those nations](https://www.cfr.org/article/irans-regional-armed-network). Over the past decade, this canny strategy has turned [Iran arguably into the Mideast’s most influential superpower](https://www.theguardian.com/commentisfree/2024/jan/13/iran-is-thwith-china-and-russia-behind-it-iran-is-the-big-kid-on-the-block). Until the early 2010s, Iran’s only real foothold in the region was Hezbollah, the Shia political and military group it [fostered in Lebanon in the early 1980s](https://www.isdp.eu/iran-and-hezbollah-proxy-power-play/). Today, Iran’s alliances include the [Houthi rebels in Yemen](https://www.cfr.org/in-brief/irans-support-houthis-what-know) and a loyal [network of Shia militias in Iraq](https://www.wilsoncenter.org/article/irans-islamist-proxies). In Syria, President Bashar al-Assad has allowed Iran’s elite fighting force, the Islamic Revolutionary Guard, to build a [massive military presence](https://ecfr.eu/publication/beyond-proxies-irans-deeper-strategy-in-syria-and-lebanon/). Since Oct. 7, 2023, when Hamas invaded Israel, triggering the Gaza war, these groups have directly attacked [Israel, American military bases and U.S. civilian assets](https://theintercept.com/2024/08/06/secret-military-bases-middle-east-attacks/) in the region [over 170 times](https://www.understandingwar.org/backgrounder/iran-update-january-28-2024). The political and military sovereignty of Syria, Yemen, Lebanon and Iraq has [so eroded](https://www.mena-researchcenter.org/iran-the-puppet-master-of-the-middle-east/) that some American officials consider them [Iran’s puppet regimes](https://www.wilsoncenter.org/article/irans-islamist-proxies). Over the same period, Iran’s military nuclear program has reached its most advanced stage. In July 2024, six years after the Trump administration [backed out of the international nuclear deal](https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-ending-united-states-participation-unacceptable-iran-deal/#:%7E:text=The%20JCPOA%20failed%20to%20deal,system%20for%20trade%20and%20investment.) meant to slow the development of Iranian weapons, U.S. Secretary of State Antony Blinken warned that Iran was weeks from being able to [equip its vast and growing arsenal of ballistic missiles](https://www.cnn.com/2024/07/19/politics/blinken-nuclear-weapon-breakout-time/index.html) with nuclear warheads.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://economist.com/middle-east-and-africa/2024/06/17/israels-northern-border-is-ablaze),",
+      "https://www.economist.com/middle-east-and-africa/2024/06/17/israels-northern-border-is-ablaze),",
+      "https://cfr.org/in-brief/irans-support-houthis-what-know)",
+      "https://vox.com/world-politics/2023/10/14/23917078/israel-hamas-war-gaza-iran-hezbollah-khamenei-lebanon).",
+      "https://www.theintercept.com/2024/08/06/secret-military-bases-middle-east-attacks/)",
+      "https://wilsoncenter.org/article/irans-islamist-proxies).",
+      "https://cnn.com/2023/10/09/middleeast/hamas-iran-israel-attack-analysis-intl/index.html),",
+      "https://theguardian.com/commentisfree/2024/jan/13/iran-is-thwith-china-and-russia-behind-it-iran-is-the-big-kid-on-the-block).",
+      "https://scholar.google.com/citations?user=xBQYKHwAAAAJ&hl=en),",
+      "https://www.cnn.com/2023/10/09/middleeast/hamas-iran-israel-attack-analysis-intl/index.html),",
+      "https://cfr.org/article/irans-regional-armed-network).",
+      "https://www.ecfr.eu/publication/beyond-proxies-irans-deeper-strategy-in-syria-and-lebanon/).",
+      "https://scholar.google.com/citations",
+      "https://www.vox.com/world-politics/2023/10/14/23917078/israel-hamas-war-gaza-iran-hezbollah-khamenei-lebanon).",
+      "https://trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-ending-united-states-participation-unacceptable-iran-deal/#:%7E:text=The%20JCPOA%20failed%20to%20deal,system%20for%20trade%20and%20investment.)",
+      "https://ecfr.eu/publication/beyond-proxies-irans-deeper-strategy-in-syria-and-lebanon/).",
+      "https://www.cfr.org/article/irans-regional-armed-network).",
+      "https://www.cnn.com/2024/07/19/politics/blinken-nuclear-weapon-breakout-time/index.html)",
+      "https://www.understandingwar.org/backgrounder/iran-update-january-28-2024).",
+      "https://isdp.eu/iran-and-hezbollah-proxy-power-play/).",
+      "https://theintercept.com/2024/08/06/secret-military-bases-middle-east-attacks/)",
+      "https://understandingwar.org/backgrounder/iran-update-january-28-2024).",
+      "https://www.isdp.eu/iran-and-hezbollah-proxy-power-play/).",
+      "https://www.scholar.google.com/citations?user=xBQYKHwAAAAJ&hl=en),",
+      "https://www.theguardian.com/commentisfree/2024/jan/13/iran-is-thwith-china-and-russia-behind-it-iran-is-the-big-kid-on-the-block).",
+      "https://www.wilsoncenter.org/article/irans-islamist-proxies).",
+      "https://www.cfr.org/in-brief/irans-support-houthis-what-know)",
+      "https://mena-researchcenter.org/iran-the-puppet-master-of-the-middle-east/)",
+      "https://cnn.com/2024/07/19/politics/blinken-nuclear-weapon-breakout-time/index.html)",
+      "https://www.trumpwhitehouse.archives.gov/briefings-statements/president-donald-j-trump-ending-united-states-participation-unacceptable-iran-deal/#:%7E:text=The%20JCPOA%20failed%20to%20deal,system%20for%20trade%20and%20investment.)",
+      "https://www.mena-researchcenter.org/iran-the-puppet-master-of-the-middle-east/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "homeland security newswire iran",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "mideast",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "middle east",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T05:09:52.670+03:00",
+    "updated": "2024-08-23T05:09:52.670+03:00"
+  },
+  {
+    "uuid": "4ae1b04462757147691a7c7cf96b4d9282956e06",
+    "url": "https://in.marketscreener.com/quote/stock/3M-COMPANY-4836/news/3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MarketScreener",
+    "published": "2024-10-03T14:45:00Z",
+    "title": "3M Achieves Science Based Targets Initiative Validation, Strengthening Commitment to Decarbonization and Customer Innovation - MarketScreener",
+    "text": "3M announced that its near-term, science-based emissions reduction targets have been validated by the Science Based Targets initiative (SBTi) as being in line with the 1.5deg C trajectory of the Paris Agreement. This milestone reaffirms 3M's ongoing commitment to climate action, decarbonization of its operations and portfolio of products and continual innovation on behalf of customers around the world. The SBTi provides a framework for companies to set targets according to climate science.\nSBTi offers standards, guidance, and tools for establishing emissions reduction targets. The SBTi has validated the following near-term targets for 3M: Reduce absolute scope 1 and scope 2 greenhouse-gas emissions by 52.6% by 2030, from a 2019 baseline. Reduce absolute scope 3 emissions by 42% by 2030 from a 2021 baseline.\nThe announcement of the 3M's first scope 3 GHG emissions target - validated by SBTi - is a milestone in the company's journey to account for a portfolio that spans across industries including automotive, protective safety, energy, consumer packaged goods, and electronics. 3M has been documenting and reporting scope 1 and 2 inventory since 2002 and has been developing its scope 3 emissions inventory since 2011 in line with the GHG Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard. For more than a decade, 3M has been collaborating with customers to provide the data and solutions to meet their sustainability goals.\nShare © S&P Capital IQ - 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=3M",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet?text=3M",
+      "https://www.wa.me/?text=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://www.twitter.com/intent/tweet?text=3M",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://telegram.me/share/url",
+      "https://linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare&title=3M",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.linkedin.com/shareArticle",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.marketscreener.com%2Fquote%2Fstock%2F3M-COMPANY-4836%2Fnews%2F3M-Achieves-Science-Based-Targets-Initiative-Validation-Strengthening-Commitment-to-Decarbonization-47996840%2F%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T00:18:34.055+03:00",
+    "updated": "2024-10-04T00:18:34.055+03:00"
+  },
+  {
+    "uuid": "12a30260148234f9b70bd3821f3e54a9357f620c",
+    "url": "https://www.rtbf.be/article/le-pape-francois-presidera-le-chemin-de-croix-du-vendredi-saint-partagant-pour-la-premiere-fois-des-meditations-qu-il-a-lui-meme-ecrites-11349897",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clara Hoyos Mora-Cuevas",
+    "published": "2024-03-29T07:00:00Z",
+    "title": "Le pape François présidera le Chemin de Croix du Vendredi Saint, partagant pour la première fois des méditations qu'il a lui-même écrites - RTBF Actus",
+    "text": "Ce vendredi 29 mars, le pape François dirigera la procession du Chemin de Croix, une tradition chrétienne où les fidèles suivent les pas du Christ. Cette procession débutera au Vatican et traversera les quatorze stations représentant le chemin de Jésus vers le Golgotha, où il a été crucifié. Cette pratique, instaurée en 1223 par Saint François d’Assise, se déroule chaque année lors du [Vendredi Saint](https://www.rtbf.be/article/jerusalem-des-chretiens-du-monde-entier-celebrent-le-vendredi-saint-9252344), le vendredi précédant le dimanche de Pâques, pour commémorer la crucifixion du Christ. Dans le respect de la tradition, le pape François fera halte à différentes stations, du Colisée de Rome au mont Palatin, pour partager avec les fidèles ses méditations, retraçant ainsi le Chemin de Croix du Christ et les étapes de son calvaire. L’année dernière, le pape avait dû renoncer à y participer au dernier moment à cause de problèmes de santé et de conditions météorologiques défavorables. Récemment, [il a à nouveau souffert de problème de santé](https://www.rtbf.be/article/le-pape-francois-pris-de-toux-dit-souffrir-d-une-bronchite-11338393), mais il est toute de même prévu qu’il soit présent physiquement lors du Chemin de Croix et qu'il lise ses méditations. C’est [ la première fois qu’](https://www.vaticannews.va/fr/pape/news/2024-03/chemin-de-croix-les-meditations-ecrites-par-francois.html) [il rédige les méditations lui-même](https://www.vaticannews.va/fr/pape/news/2024-03/chemin-de-croix-les-meditations-ecrites-par-francois.html) pour cet acte traditionnel, qui débutera à 21h15. Il est à noter que le dernier pape à avoir rédigé les méditations en personne était le pape [Jean-Paul II](https://www.rtbf.be/article/jean-paul-ii-pourrait-devenir-saint-tres-vite-grace-a-un-second-miracle-8021352) en 2003. La Trois vous propose de suivre la retransmission du Chemin de Croix ce vendredi 29 mars à 21h15.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.vaticannews.va/fr/pape/news/2024-03/chemin-de-croix-les-meditations-ecrites-par-francois.html)",
+      "https://vaticannews.va/fr/pape/news/2024-03/chemin-de-croix-les-meditations-ecrites-par-francois.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-29T10:19:35.003+03:00",
+    "updated": "2024-03-29T10:19:35.003+03:00"
+  },
+  {
+    "uuid": "e02cf9a2b2ca63ff4b87423b5f23c5f312a95683",
+    "url": "https://zenit.org/2024/05/30/after-7-months-without-being-able-to-return-catholic-priest-manages-to-re-enter-his-parish-in-gaza",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amy Balog",
+    "published": "2024-05-30T22:43:00Z",
+    "title": "After 7 months without being able to return, Catholic priest manages to re-enter his parish in Gaza",
+    "text": "(ZENIT News / Gaza City, 05.30.2024).- A catholic missionary priest is back in Gaza after more than seven months in Jerusalem, having decided to face severe dangers to support the region’s Christian community and everyone else in need.\nFather Gabriel Romanelli was able to return to Holy Family Parish – Gaza’s only Catholic church – while accompanying Cardinal Pierbattista Pizzaballa, the Latin Patriarch of Jerusalem during a pastoral visit between 15th and 19th May.\nFather Romanelli was in Bethlehem when the war broke out in October 2023 and could not get back to Gaza.\nThe Argentine priest – who is a member of the Institute of the Incarnate Word – spoke to Catholic charity Aid to the Church in Need (ACN) about his determination to provide spiritual, moral and material assistance to all those affected by the increasing crisis, regardless of their religious affiliation.\nHe said: “I have been a missionary in Gaza for almost 19 years – and now, when I was finally able to come back, many of my people are no longer here.”\nFather Romanelli said that he felt he had to do everything he could to alleviate the suffering and wanted to “stay here [in Gaza] because this is my mission”.\nHe highlighted that 36 Christians have perished in Gaza since the conflict began, “20 of whom died due to Israeli army bombings or sniper fire”, while “the others primarily succumbed to the lack of medicine”.\nHe added: “We lost a child from Mother Teresa’s orphanage.\n“It is painful, but at the same time, we know they are with God. They are present in Heaven to intercede for peace, justice and forgiveness of sins for all of us and for those engaged in war.”\nFather Romanelli told ACN that he and his community continue to pray fervently for an end to the conflict, as war is not the will of God but the result of human actions.\nHe said that his community’s prayers extend to all victims, and they tirelessly advocate for justice, peace and reconciliation.\nHe added: “I am not a saviour. Our saviour is our Lord Jesus Christ, but I feel that here, at least, I can do something so no one is left behind…\n“We must speak out for justice, peace and the liberation of those deprived of freedom.”\nThe priest went on to call for “the entry of humanitarian aid to heal the thousands of wounded”.\nHe highlighted that “the situation in the cities is terrible, without a single structure that has not been damaged”, explaining: “Here in the parish, we have around 500 refugees.\n“Of these about 50 individuals, primarily children, are under the care of the Sisters of Mother Teresa.\n“Additionally, we provide assistance to thousands of people in the neighbourhood, offering water, food and medicine.”\nFather Romanelli expressed his gratitude for the charity’s help, saying: “We thank ACN’s benefactors for all that they do, and encourage them to continue providing spiritual, existential and material aid to console the suffering Heart of Jesus in all those who suffer.\n“May the Virgin Mary bless us, and thank you again for everything.”\nThe war in Gaza has had a devastating financial impact on the Holy Land’s Christian community, most of whom work in the tourism sector and have lost their source of income since almost all pilgrimages to the region have been cancelled.\nACN has also provided emergency aid – food coupons, life-saving medicine and help with housing costs and tuition fees – for thousands of Christians in the Holy Land who have lost their livelihoods.\nACN’s UK office is only able to contribute to the support in the West Bank and East Jerusalem because UK counter-terrorism sanctions prohibit the transfer of funds into Gaza.\nThank you for reading our content. If you would like to receive ZENIT’s daily e-mail news, you can subscribe for free through\nthis link.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "pierbattista pizzaballa",
+          "sentiment": "none"
+        },
+        {
+          "name": "romanelli",
+          "sentiment": "none"
+        },
+        {
+          "name": "gabriel romanelli",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "catholic",
+          "sentiment": "negative"
+        },
+        {
+          "name": "institute",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza city",
+          "sentiment": "none"
+        },
+        {
+          "name": "jerusalem",
+          "sentiment": "none"
+        },
+        {
+          "name": "bethlehem",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T03:21:19.728+03:00",
+    "updated": "2024-06-02T03:21:19.728+03:00"
+  },
+  {
+    "uuid": "d8423c0b2448be2e746a01f7c2566713c309d012",
+    "url": "https://www.hk01.com/即時中國/60247096/廣東-支持深圳建設一批高水平高校-強化企業科技創新主體地位",
+    "ord_in_thread": 0,
+    "author": "陳進安",
+    "published": "2025-06-12T07:00:00Z",
+    "title": "廣東：支持深圳建設一批高水平高校　強化企業科技創新主體地位",
+    "text": "廣東：支持深圳建設一批高水平高校　強化企業科技創新主體地位\n港聞 娛樂 颱風消息 酒店優惠 國際 即時 熱榜 生活 科技 中國 體育 01深圳 經濟 觀點 健康 好食玩飛 女生 熱話 藝文格物 社區 教育 更多\n繁 | 简\n登入 港聞 娛樂 颱風消息 酒店優惠 國際 即時 熱榜 生活 科技 中國 體育 01深圳 經濟 觀點 健康 好食玩飛 女生 熱話 藝文格物 社區 教育",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Education->college and university",
+      "Education->educational grading",
+      "Politics->government policy",
+      "Politics->education policy",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/hk01_hk/",
+      "https://www.facebook.com/hk01wemedia",
+      "https://www.youtube.com/c/香港01official",
+      "https://www.agoda.com/hk01?pcs=1&cid=1913555&hl=zh-hk&hid=173329&tag=link_homepage",
+      "https://tailwindcss.com*/*,:after,:before{border-color:rgb(var(--color-gray-200)/1);border-style:solid;border-width:0;-webkit-box-sizing:border-box;box-sizing:border-box}:after,:before{--tw-content:",
+      "https://agoda.com/hk01?pcs=1&cid=1913555&hl=zh-hk&hid=173329&tag=link_homepage",
+      "https://www.tailwindcss.com*/*,:after,:before{border-color:rgb(var(--color-gray-200)/1);border-style:solid;border-width:0;-webkit-box-sizing:border-box;box-sizing:border-box}:after,:before{--tw-content:",
+      "https://www.instagram.com/hk01_hk",
+      "https://instagram.com/hk01_hk/",
+      "https://facebook.com/hk01wemedia",
+      "https://youtube.com/c/香港01official",
+      "https://www.agoda.com/hk01"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_my",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:53:56.174+03:00",
+    "updated": "2025-06-13T08:05:14.000+00:00"
+  },
+  {
+    "uuid": "53e8bc3b568daa2695153e18e43ea990bdd4f0d1",
+    "url": "https://www.infobae.com/estados-unidos/2025/04/30/la-cadena-de-restaurantes-de-comida-rapida-mas-grande-de-eeuu-ha-cerrado-600-tiendas-en-2025",
+    "ord_in_thread": 0,
+    "author": "Rossana Marín",
+    "published": "2025-04-30T21:08:00Z",
+    "title": "La cadena de restaurantes de comida rápida más grande de EEUU ha cerrado 600 tiendas en 2025 - Infobae",
+    "text": "Subway pierde 631 locales en EE. UU., cifra más baja en 20 años. (Imagen ilustrativa Infobae) La cadena de comida rápida más grande de los Estados Unidos ha experimentado un notable retroceso en su presencia nacional, con el cierre de más de 600 locales en el último año.\nSegún informó QSR , Subway perdió un total neto de 631 restaurantes en territorio estadounidense durante 2025, lo que ha reducido su número total de establecimientos en el país a 19.502, la cifra más baja registrada en los últimos 20 años.\nEste descenso marca un hito significativo, ya que desde 2015, cuando la cadena alcanzó su punto máximo con 27.000 locales, no había caído por debajo de los 20.000.\nEl impacto de estos cierres ha sido especialmente evidente en estados como Oregón , donde, según reportó KPTV , más de 200 empleados de 23 sucursales de Subway quedaron desempleados de manera inesperada tras el cierre de sus lugares de trabajo.\nJoanne Kennedy , gerente de una de estas sucursales, expresó su frustración al medio, señalando que no hubo advertencias ni transparencia por parte de la empresa: “ Sin aviso, sin anticipación, completamente sorprendidos, todos nosotros ”.\nDesde 2016, Subway ha cerrado 7.600 restaurantes en territorio estadounidense.(REUTERS/Andrew Kelly) Desde 2016, Subway ha cerrado aproximadamente 7.600 locales en los Estados Unidos, según datos de QSR . A pesar de esta significativa reducción, la cadena sigue siendo la más grande en términos de cantidad de establecimientos en el país.\nSin embargo, en términos de ingresos, McDonald’s lideró el mercado de comida rápida en 2024, con 13.457 locales en Estados Unidos, según un listado de Food Industry.com . Por su parte, Starbucks ocupa el segundo lugar en número de establecimientos, con 16.346 sucursales.\nMientras enfrenta esta contracción en el mercado estadounidense, Subway ha optado por una estrategia de expansión internacional y renovación de su imagen. Según QSR , la cadena ha logrado un crecimiento neto positivo en el número de restaurantes a nivel global por segundo año consecutivo.\nActualmente, Subway cuenta con cerca de 37.000 locales en todo el mundo. Un portavoz de la compañía declaró al medio que su enfoque está en un crecimiento inteligente, optimizando su presencia mediante un análisis estratégico basado en datos.\nFundada en 1965, Subway enfrenta retos inéditos en su propio mercado.(REUTERS/Andrew Kelly) Esto incluye la apertura de nuevos restaurantes, así como la reubicación o cierre de aquellos que no cumplen con los estándares de ubicación, diseño y operación adecuados.\nEn un artículo publicado por Restaurant Business , se destacó que los franquiciados de Subway en Estados Unidos han cerrado el 28% de los locales de la cadena en menos de una década. Este ajuste refleja un esfuerzo por garantizar una experiencia consistente y de alta calidad para los clientes, según la empresa.\nSubway , fundada en Connecticut en 1965, tiene una historia que comenzó con un propósito modesto. Según el sitio web de la compañía, el negocio fue iniciado por Fred DeLuca , quien, a los 17 años, buscaba una forma de financiar su educación universitaria.\nCon el apoyo de Dr. Peter Buck , un físico nuclear que invirtió 1.000 dólares, ambos crearon una sociedad que transformaría el panorama de los restaurantes de servicio rápido. Desde entonces, Subway ha evolucionado hasta convertirse en un gigante global, aunque ahora enfrenta desafíos significativos en su mercado de origen.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->consumer goods",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joanne Kennedy",
+          "sentiment": "none"
+        },
+        {
+          "name": "Subway",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "RBI",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "QSR",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T00:18:38.091+03:00",
+    "updated": "2025-04-30T21:20:24.000+00:00"
+  },
+  {
+    "uuid": "92b1c38f12849bb562a7b5ac3dd413c0f87b8ad1",
+    "url": "https://en.trend.az/azerbaijan/society/3922666.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Farid Zohrabov Read more",
+    "published": "2024-07-11T20:23:00Z",
+    "title": "Azerbaijan commemorating anniversary of Tovuz battles, which led to second Karabakh war Victory",
+    "text": "BAKU, Azerbaijan, July 12. Four years have\npassed since the day when the Armenian armed forces grossly\nviolated the ceasefire regime in the direction of the Tovuz\ndistrict, which triggered the beginning and subsequently the\nVictory of Azerbaijan in the second Karabakh war,\nTrend reports.\nOn the first day of fighting – July 12, 2020, the Armenian armed forces units subjected to fire the Azerbaijani Army positions and tried to go on the offensive. However, as a result of the adequate retaliatory measures, the opposing side retreated, suffering considerable losses.\nWhile repelling the enemy attacks, three Azerbaijani servicemen had been killed, five were wounded.\nOn the night of July 13, the Armenian military units once again shelled the positions of the Azerbaijani Army, including the Aghdam village of the Tovuz district. Azerbaijan took stronger retaliatory measures, using artillery fire to destroy the stronghold, artillery mounts, vehicles, and manpower of the enemy. The crushing blows resulted in the significant losses from the Armenian side.\nThe Security Council held a meeting under the chairmanship of President of Azerbaijan Ilham Aliyev on the same day. In the next few days, the situation remained tense, the fierce battles continued.\nOn the night of July 14-15, tens of thousands of young people marched through Baku to express their support for the Azerbaijani army. The next day, loads of young people applied to the State Service for Mobilization and Conscription to enlist in the Azerbaijani army.\nOn the morning of July 16, Aghdam, Dondar Gushchu and Vakhidli villages of the Tovuz district were intensively fired by the enemy from large-caliber weapons and mortars. However, the opposite side was suppressed by return fire. Despite the tense situation, relative calm was observed in the Tovuz direction of the Azerbaijan-Armenia state border on July 17.\nSome 12 Azerbaijani servicemen became martyrs, and one civilian died following the Tovuz battles. A total of 100 enemy servicemen have been killed, as well as enemy military equipment was disabled as a result of the Tovuz battles.\nPresident Ilham Aliyev and First Vice-President Mehriban Aliyeva are giving every support to the martyr families through special care and attention.\nThe Tovuz battles once again demonstrated the military weakness of Armenia and the fierce fighting spirit of the Azerbaijani people. Thus, these battles became another page in the glorious history of Azerbaijani Army.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "security council",
+          "sentiment": "none"
+        },
+        {
+          "name": "azerbaijani army",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "azerbaijan",
+          "sentiment": "none"
+        },
+        {
+          "name": "victory baku",
+          "sentiment": "none"
+        },
+        {
+          "name": "karabakh",
+          "sentiment": "none"
+        },
+        {
+          "name": "tovuz",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T02:18:50.011+03:00",
+    "updated": "2024-07-12T02:18:50.011+03:00"
+  },
+  {
+    "uuid": "91b41cf4770d2ffec572d01c5fb1826b2658f9cf",
+    "url": "https://krdo.com/news/national-world/cnn-national/2024/04/25/new-york-appeals-court-overturns-harvey-weinsteins-sex-crimes-conviction-and-orders-a-new-trial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN",
+    "published": "2024-04-25T21:07:00Z",
+    "title": "New York appeals court overturns Harvey Weinstein’s sex crimes conviction and orders a new trial",
+    "text": "New York appeals court overturns Harvey Weinstein’s sex crimes conviction and orders a new trial\nWCBS, CNN\nBy Eric Levenson, CNN\n(CNN) — The New York Court of Appeals on Thursday overturned the\nsex crimes conviction against Harvey Weinstein, the powerful Hollywood producer whose downfall stood as a symbol of the #MeToo movement, and ordered a new trial.\nThe court, by a 4-3 vote, ruled the testimony of “prior bad acts” witnesses should not have been allowed because it “was unnecessary to establish defendant’s intent and served only to establish defendant’s propensity to commit the crimes charged.”\nWeinstein, 72, was\nconvicted in 2020 of first-degree criminal sexual act and third-degree rape, and he was sentenced to 23 years in prison. He has maintained his innocence and denied any nonconsensual sexual activity.\nThe Manhattan District Attorney’s Office said it plans to retry the case.\n“We will do everything in our power to retry this case, and remain steadfast in our commitment to survivors of sexual assault,” said Emily Tuttle, deputy director of communications and senior advisor for the office.\nWeinstein is being held at Mohawk Correctional Facility in Rome, New York, according to the state Department of Corrections and Community Supervision. The department said it is reviewing the appeals court’s decision.\nWeinstein will soon be taken from the correctional facility to Manhattan court and his trial will start anew, with a new judge and prosecutor, defense attorney Arthur Aidala said in a news conference.\nHe is unlikely to be released because he was sentenced last year in Los Angeles to\n16 years in prison for charges of rape and sexual assault. That trial similarly used “prior bad acts” witnesses and has also been appealed.\nThursday’s ruling comes more than six years after reporting by\nThe New York Times and The New Yorker in 2017 revealed Weinstein’s alleged history of sexual abuse, harassment and secret settlements as he used his influence as a Hollywood power broker to take advantage of young women.\nAt the time, Weinstein was one of the most powerful men in Hollywood and helped produce movies such as “Pulp Fiction,” “Clerks” and “Shakespeare in Love.” The revelations led to a wave of women speaking publicly about the pervasiveness of sexual abuse and harassment in what became known as the #MeToo movement.\nYet, #MeToo has had mixed success in the courtroom, and this is the second high-profile case to be overturned on appeal. The comedian Bill Cosby was convicted in 2018 of drugging and sexually assaulting a woman, but a Pennsylvania appeals court\noverturned the conviction in 2021, saying his due process rights were violated.\nWeinstein is ‘very grateful,’ attorney says\nThe ruling overturning Weinstein’s conviction led to a range of reactions from those involved with the case.\nUpon hearing the news, Weinstein “heaped praise” on his legal team and was “very gracious” and “very grateful,” Aidala said.\n“The witnesses were there just to make Harvey Weinstein look bad,” Aidala said. “That’s the only reason why those witnesses were admitted. To show that he’s a bad guy. He was tried on his character, not the evidence.”\n“Justice was served,” said Donna Rotunno, the lead defense attorney at Weinstein’s trial in New York. “I believe this decision is larger than Harvey Weinstein. Courts cannot operate on emotion and lack of due process. The world is off-balance, and when the justice system does not work, nothing does. This decision restores faith in the foundation of our system.”\n“We are cautiously excited and need to study the ramifications of the appeal decision,” Weinstein’s spokesperson Juda Engelmayer said. “We always said this was an unjust trial.”\nFormer Manhattan District Attorney Cyrus Vance Jr., who brought the charges against Weinstein, said he was “shocked” by the decision.\n“I am deeply grateful to and humbled by the survivors who came forward in the brightest glare of a public courtroom to tell their stories at great personal cost and trauma,” Vance said in a statement. “The judicial system, in my opinion, has let them down today and did not advance justice. “\nDawn Dunning, one of the “prior bad acts” witnesses in Weinstein’s trial, said in a statement she did not regret testifying and urged the district attorney’s office to retry the case.\n“While I’m stunned that the court threw out Weinstein’s conviction on legal technicalities, I am still proud that I testified and confronted that convicted rapist,” she said. “I came forward to support other women who were also sexually abused by Weinstein and to ensure that he would be held accountable.”\nMiriam “Mimi” Haley, whose testimony made up the first-degree criminal sexual act charge, “would consider testifying again” in a potential retrial, her attorney Gloria Allred said in a statement.\n“Even though the process of testifying was grueling and retraumatizing for Mimi, she reaffirmed to me today that she would consider testifying again if (Manhattan) District Attorney Alvin Bragg decided to proceed with a new trial of Harvey Weinstein,” she said. “I commend Mimi on her courage and willingness to keep standing up for the truth.”\nDouglas H. Wigdor, an attorney who has represented eight of Weinstein’s accusers, including two of the “prior bad acts” witnesses at his New York criminal trial, also criticized the decision.\n“Today’s decision is a major step back in holding those accountable for acts of sexual violence,” he said in a statement. “Courts routinely admit evidence of other uncharged acts where they assist juries in understanding issues concerning the intent, modus operandi or scheme of the defendant. The jury was instructed on the relevance of this testimony and overturning the verdict is tragic in that it will require the victims to endure yet another trial.”\nWhat happened at his NY trial\nThe New York charges were directly based on the testimony of\nHaley and Jessica Mann. Haley testified that Weinstein forcibly performed oral sex on her in 2006 at his Manhattan apartment, and Mann testified that he raped her in 2013 during what she described as an abusive relationship.\nIn addition, three other women testified during the trial as “\nprior bad acts” witnesses as prosecutors sought to show Weinstein had a pattern of abuse. These women – Dunning, Tarale Wulff and Lauren Young – each said Weinstein used his Hollywood influence to take advantage of them when they were young and hoping to break into the film industry.\nAfter Weinstein was convicted in his New York trial, his attorneys\nappealed the verdict. They argued the judge should not have allowed these “prior bad acts” witnesses to testify and should not have given prosecutors the ability to question Weinstein about instances of verbal abuse and bullying on cross-examination. (Weinstein ultimately did not testify in the case.)\nThe Court of Appeals agreed with the defense on those points.\n“We conclude that the trial court erroneously admitted testimony of uncharged, alleged prior sexual acts against persons other than the complainants of the underlying crimes because that testimony served no material non-propensity purpose,” the ruling, written by Judge Jenny Rivera, states.\n“The court compounded that error when it ruled that defendant, who had no criminal history, could be cross examined about those allegations as well as numerous allegations of misconduct that portrayed defendant in a highly prejudicial light. The synergistic effect of these errors was not harmless.”\nYet in a stinging dissent, Judge Madeline Singas wrote that the majority opinion “perpetuates outdated notions of sexual violence and allows predators to escape accountability.”\n“This conclusion deprives juries of the context necessary to do their work, forecloses the prosecution from using an essential tool to prove intent, ignores the nuances of how sexual violence is perpetrated and perceived, and demonstrates the majority’s utter lack of understanding of the dynamics of sexual assault,” Singas wrote. “Because New York’s women deserve better, I dissent.”\nThe use of “prior bad acts” witnesses has\nincreased in recent years with the rise of the #MeToo movement. In sexual assault cases, their testimony can turn a difficult “he said, she said” case into a more convincing “he said, they said” case.\nIn general, evidence that the\ndefendant has poor character or has done bad things in the past is not allowed during a trial. The fear is that the jury will be overly influenced by these prior incidents and may ignore the actual evidence of the alleged crime.\n“Prior bad acts” evidence is one exception to this rule. It can be used to prove the defendant’s “motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident,” according to\nfederal evidence rules.\nJudges have a fair amount of discretion to decide what is and what isn’t allowed in court as they try to balance the relevance of the testimony against the prejudice to the jury.\nThis story has been updated with additional information.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.\nCNN’s Gloria Pazmino, Matt Egan, Jean Casarez and Elizabeth Wagmeister contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cnn.com/2020/03/11/us/harvey-weinstein-sentence/index.html",
+      "https://www.cnn.com/2020/01/23/us/witnesses-harvey-weinstein-trial/index.html",
+      "https://www.cnn.com/2020/02/09/us/weinstein-metoo-prior-bad-acts/index.html",
+      "http://www.cnn.com/2020/01/23/us/witnesses-harvey-weinstein-trial/index.html",
+      "https://www.cnn.com/2023/02/23/entertainment/harvey-weinstein-sentencing-los-angeles/index.html",
+      "https://www.cnn.com/2021/06/30/us/bill-cosby-to-be-released/index.html",
+      "https://www.cnn.com/2022/06/02/us/harvey-weinstein-appeal-ruling/index.html",
+      "https://www.law.cornell.edu/rules/fre/rule_404",
+      "https://www.cnn.com/2020/01/06/us/harvey-weinstein-trial-jury-selection/index.html",
+      "https://cnn.com/2020/02/09/us/weinstein-metoo-prior-bad-acts/index.html",
+      "http://cnn.com/2020/01/23/us/witnesses-harvey-weinstein-trial/index.html",
+      "https://cnn.com/2023/02/23/entertainment/harvey-weinstein-sentencing-los-angeles/index.html",
+      "https://cnn.com/2021/06/30/us/bill-cosby-to-be-released/index.html",
+      "https://cnn.com/2020/03/11/us/harvey-weinstein-sentence/index.html",
+      "https://cnn.com/2020/01/06/us/harvey-weinstein-trial-jury-selection/index.html",
+      "https://law.cornell.edu/rules/fre/rule_404",
+      "https://cnn.com/2022/06/02/us/harvey-weinstein-appeal-ruling/index.html",
+      "https://cnn.com/2020/01/23/us/witnesses-harvey-weinstein-trial/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "harvey weinstein",
+          "sentiment": "positive"
+        },
+        {
+          "name": "weinstein",
+          "sentiment": "none"
+        },
+        {
+          "name": "eric levenson",
+          "sentiment": "none"
+        },
+        {
+          "name": "emily tuttle",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york court of appeals",
+          "sentiment": "none"
+        },
+        {
+          "name": "manhattan district attorney’s office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "hollywood",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:09:45.851+03:00",
+    "updated": "2024-04-26T00:09:45.851+03:00"
+  }
+]

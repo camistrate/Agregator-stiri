@@ -1,0 +1,540 @@
+[
+  {
+    "uuid": "2468fa360927feef167e6dc71d0e535e54211d0d",
+    "url": "https://www.europapress.es/economia/finanzas-00340/noticia-tecnologica-harmonix-cierra-ronda-32-millones-euros-4founders-kfund-icf-20250403000052.html",
+    "ord_in_thread": 0,
+    "author": "europa press",
+    "published": "2025-04-02T22:00:00Z",
+    "title": "La tecnológica Harmonix cierra una ronda de 3,2 millones de euros con 4Founders, Kfund e ICF",
+    "text": "MADRID, 3 Abr. (EUROPA PRESS) -\nHarmonix, empresa española dedicada a digitalizar y centralizar las comunicaciones de las empresas mediante Inteligencia Artificial (IA), ha cerrado este jueves una ronda de financiación de 3,2 millones de euros.\nLa compañía ha detallado en un comunicado que la inversión ha sido liderada por 4founders Capital junto a la participación de fondos como Kfund o ICF, entre otros.\nHarmonix planea con los fondos obtenidos en esta ronda acelerar su expansión en el mercado europeo y continuar las labores de innovacción en su plataforma.\nEn palabras del director de operaciones, Toni Cáliz, el objetivo de esta ronda es hacer que el CRM sea una \"herramienta magnífica\" para el usuario y que todos los datos que se generan en las comunicaciones de las empresas con sus clientes queden registrados automáticamente en el sistema.\nTodo ello, según el ejecutivo, de tal manera que la IA pueda dar a los directivos toda la información que necesitan para tomar mejores decisiones, así como ayudar a los equipos y mejorar el control de calidad.\nEl consejero delegado de Harmonix, Toni Pérez, ha subrayado que el CRM se basa en la importancia de centralizar todas las comunicaciones en un único lugar: \"Esto incluye emails, reuniones, llamadas, comunicaciones por WhatsApp [...] La verdadera IA de negocio requiere tener todo el contexto, todas las interacciones, con todos los contactos a través de todos los canales\", ha explicado para seguidamente sostener que \"la gran mayoría de sistemas CRM únicamente capturan una fracción mínima de las relaciones con clientes\".\nEn ese sentido, han citado un informe de Forrester Research que señala que aproximadamente el 49% de las implementaciones de CRM no alcanzan los objetivos previstos debido a problemas de adopción por parte de los usuarios.\n\"La IA tiene un potencial enorme que, en el caso de los departamentos de ventas y atención al cliente, solo puede ser aprovechado mediante una centralización y digitalización completa de los canales de comunicación\", ha afirmado el consejero delegado sobre el potencial de este tipo de soluciones.\nEn concreto, la compañía pretende llevar su IA a los procesos de negocio en entidades como Salesforce y Dynamics 365.\nLeer más acerca de:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->computing and information technology",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research",
+      "Social Issue->social networking",
+      "Social Issue->charity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "4founders Capital",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "innovacción",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Toni Cáliz",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Toni Pérez",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "MADRID",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "3 Abr",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Inteligencia Artificial",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Kfund",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "WhatsApp",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "CRM",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "EUROPA",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "PRESS",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "IA",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Harmonix",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "ICF",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Forrester Research",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Salesforce",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Dynamics",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:18:16.205+03:00",
+    "updated": "2025-04-03T01:18:16.205+03:00"
+  },
+  {
+    "uuid": "0df5c86ac209afe68d1198f62d8f89ea3a06f8ac",
+    "url": "https://reneweconomy.com.au/renewable-penetration-record-falls-for-third-time-this-week-on-australias-main-grid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Giles Parkinson",
+    "published": "2024-10-03T17:34:00Z",
+    "title": "Renewable penetration record falls for third time this week on Australia’s main grid",
+    "text": "Renewable energy technologies continue to nibble away at the dominance of coal and fossil gas on Australia’s main grid, setting a new record for instantaneous share for the 3rd time this week. According to data provided by GPE NemLog, the share of renewables in the five minute period to 11.15am on Friday rose to 74.3 per cent, [just edging the record set on Tuesday](https://reneweconomy.com.au/renewable-records-tumble-for-second-day-in-a-row-pushing-fossil-fuels-to-new-lows/), which in turn had easily broken the previous record set a day earlier. Again it was dominated by rooftop solar, which accounted for 44 per cent of total grid demand at the time. Those records noted by GPE are on a five minute trading basis, but the Australian Energy Market Operator also confirmed this week that on a 30-minute basis that it monitors that renewables had set a new record of 73.87 per cent at 11.30am on Tuesday. The market operator is busily preparing, via an engineering roadmap, to ensure that all the protocols and systems services are in place to allow variable renewables – wind and solar – to reach up to 100 per cent on an instantaneous basis in coming years. Wind and solar have, on occasions, been in a position to deliver enough power to match demand, but they have been limited by network and economic constraints, particularly the tendency by big coal generators to bid negative prices so they can keep their generators running, even when demand is falling to record lows. However, a [landmark development revealed by AGL this week ](https://reneweconomy.com.au/coal-generators-are-learning-how-to-shut-down-for-solar-in-significant-boost-to-renewable-switch/)– where, for the first time, it switched one of the units at the giant Bayswater coal generator on and off within a six hour period (a process it calls two-shifting) – suggests that dramatic change may be afoot. It was previously assumed that coal generators have to be “always on”, even if many of them have learned to ramp down to just 20 per cent of their rated capacity to dance around the output of rooftop solar. But if the AGL trials show that “two-shifting” is both technically and economically feasible, it could pave the way for the next dramatic advances in the grid – allowing for more wind and solar to be produced – as long as the market operator is happy that the essential grid services such as systems strength and fault current are still being delivered. Some states such as South Australia often produce well in excess of 100 per cent of their demand from wind and solar, but they can do this because of transmission links to other states, and because some of the output is also stored in batteries. It’s a different matter to get the entire grid to that level. In other records to fall in the last 24 hours, the level of “residual demand” also hit a new low of 5,313 MW on the main grid, breaking a record set nearly a year ago. In Queensland, currently in the throes of an election campaign that will have a significant impact on its switch from being the country’s most coal dependent state to one supplied largely by renewables, the instantaneous share hit 75 per cent for the first time on Thursday. On Friday, the level of curtailment also hit a new high.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "GPE",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T08:08:38.634+03:00",
+    "updated": "2024-10-04T10:34:06.939+03:00"
+  },
+  {
+    "uuid": "4049591f0b2b145fd492b5e342cc79f5cb07c6d3",
+    "url": "https://es-us.noticias.yahoo.com/muere-30-a%C3%B1os-edad-delf%C3%ADn-223557480.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BBC News Mundo",
+    "published": "2023-12-28T22:35:00Z",
+    "title": "Muere, con 30 años de edad, un delfín del acuario de Miami",
+    "text": "EFE Latam Muere, con 30 años de edad, un delfín del acuario de Miami Leer todo el artículo Agencia EFE 29 de diciembre de 2023, 12:35 a. m. · 1 min de lectura\nMiami, 28 dic (EFE).- Sundance, un delfín de 30 años del Acuario de Miami, en el sur de Florida (EEUU), murió como consecuencia de una enfermedad, informó el parque en una publicación en redes sociales.\n\"Estamos profundamente entristecidos por el fallecimiento de Sundance hoy después de los primeros síntomas de la enfermedad (mostrados) ayer\", señaló la noche del miércoles el acuario de esta ciudad del sureste de Florida en un publicación en X (antes Twitter).\nLas causas exactas del deceso del mamífero no han sido dadas a conocer y se conocerán una vez esté completada la necropsia, según han señalado portavoces del parque.\nEl delfín protagonizó un incidente el año pasado, cuando durante una actuación ante el público atacó a una entrenadora, luego de que esta de forma accidental arañara la espalda del animal.\nLa muerte de Sundance se da meses después del deceso de Lolita, la orca que estuvo más de medio siglo en cautiverio en el Miami Seaquarium y por ello fue un tema de polémica entre grupos de defensa de los animales.\nEl deceso de Lolita, ocurrido el pasado 18 de agosto, se debió a una \"progresión de múltiples afecciones crónicas\", incluidas enfermedades renales y neumonía, según reveló la necropsia practicada.\n(c) Agencia EFE\nMÁS POPULARES La fiesta de celebridades \"casi desnudas\" que provocó un escándalo político en Rusia BBC News Mundo · 4 min de lectura Las espeluznantes predicciones de Baba Vanga para el 2024 LA NACION · 3 min de lectura El pez invasor de 200 kilos que se alimenta de pirañas y avanza implacable por la Amazonía BBC News Mundo · 5 min de lectura Maduro volvió a arremeter contra Milei, lo tildó de “pitiyanqui y progringo” e hizo una advertencia LA NACION · 2 min de lectura Loret responde a AMLO tras vincularlo con empresas de medicinas El Universal · 1 min de lectura",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://s.yimg.com/uu/api/res/1.2/PVpHdoe4paqKCepyb91mcQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/bbc_news_mundo_254/a45c810a33cbd152c5b599a78105a4e6",
+      "https://s.yimg.com/uu/api/res/1.2/H7vlO3BJIqXwY0k_6cc8yg--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/lanacion.com.ar/f3351dbd45afe4943014f0738176656a",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fmuere-30-a%25C3%25B1os-edad-delf%25C3%25ADn-223557480.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://s.yimg.com/uu/api/res/1.2/pg7QHIU9Rzttl3bxZswi2Q--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/eluniversal.com.mx/08bac5708f1dd5991267a45bcdfa917a",
+      "https://s.yimg.com/uu/api/res/1.2/nZChwAbKP.j1i7S2EFzaYQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/lanacion.com.ar/54daa42cf7d61850657a66e9d0821326",
+      "https://s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://www.efe.com/efe/usa/5",
+      "https://s.yimg.com/ny/api/res/1.2/1cJ8FGotJM.VR1Ii8P.Wmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3Nw--/https://media.zenfs.com/es/efe.es/3b416a552f5ff3d12d25a2b763e95f4a",
+      "https://s.yimg.com/uu/api/res/1.2/iTKJuOaJfdnqDIAPyVKq6g--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/es/bbc_news_mundo_254/1389675d2498c1757e6baeab2e574e11",
+      "https://s.yimg.com/ny/api/res/1.2/_wjP_LhaJWwX609lbClajg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQwO2g9NDg-/https://s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://twitter.com/intent/tweet?text=Muere%2C%20con%2030%20a%C3%B1os%20de%20edad%2C%20un%20delf%C3%ADn%20del%20acuario%20de%20Miami&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fmuere-30-a%25C3%25B1os-edad-delf%25C3%25ADn-223557480.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://s.yimg.com/ny/api/res/1.2/qLs2_mKhcm1lsz0XAOiaoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE-/https://media.zenfs.com/es/efe.es/3b416a552f5ff3d12d25a2b763e95f4a",
+      "https://www.s.yimg.com/uu/api/res/1.2/H7vlO3BJIqXwY0k_6cc8yg--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/es/lanacion.com.ar/f3351dbd45afe4943014f0738176656a",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://www.s.yimg.com/uu/api/res/1.2/nZChwAbKP.j1i7S2EFzaYQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/es/lanacion.com.ar/54daa42cf7d61850657a66e9d0821326",
+      "https://www.s.yimg.com/uu/api/res/1.2/PVpHdoe4paqKCepyb91mcQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/es/bbc_news_mundo_254/a45c810a33cbd152c5b599a78105a4e6",
+      "https://www.s.yimg.com/ny/api/res/1.2/1cJ8FGotJM.VR1Ii8P.Wmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTU3Nw--/https://www.media.zenfs.com/es/efe.es/3b416a552f5ff3d12d25a2b763e95f4a",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fmuere-30-a%25C3%25B1os-edad-delf%25C3%25ADn-223557480.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.s.yimg.com/uu/api/res/1.2/pg7QHIU9Rzttl3bxZswi2Q--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/es/eluniversal.com.mx/08bac5708f1dd5991267a45bcdfa917a",
+      "https://www.s.yimg.com/ny/api/res/1.2/qLs2_mKhcm1lsz0XAOiaoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03MjE-/https://www.media.zenfs.com/es/efe.es/3b416a552f5ff3d12d25a2b763e95f4a",
+      "https://www.s.yimg.com/ny/api/res/1.2/_wjP_LhaJWwX609lbClajg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQwO2g9NDg-/https://www.s.yimg.com/os/creatr-uploaded-images/2020-12/2ae63650-3578-11eb-b7bf-dd5381c63b89",
+      "https://www.twitter.com/intent/tweet?text=Muere%2C%20con%2030%20a%C3%B1os%20de%20edad%2C%20un%20delf%C3%ADn%20del%20acuario%20de%20Miami&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Fmuere-30-a%25C3%25B1os-edad-delf%25C3%25ADn-223557480.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://efe.com/efe/usa/5",
+      "https://twitter.com/intent/tweet",
+      "https://www.s.yimg.com/uu/api/res/1.2/iTKJuOaJfdnqDIAPyVKq6g--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/es/bbc_news_mundo_254/1389675d2498c1757e6baeab2e574e11"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:54:38.716+02:00",
+    "updated": "2023-12-29T00:54:38.716+02:00"
+  },
+  {
+    "uuid": "6d47c70f3962356ca63247f397359d39644da5d9",
+    "url": "https://pasadenanow.com/main/a-parade-of-possibilities-more-than-206000-in-grants-awarded-to-pasadena-unified-school-district-educators",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EDDIE RIVERA",
+    "published": "2024-12-05T04:00:00Z",
+    "title": "A Parade of Possibilities: More Than $206,000 in Grants Awarded to Pasadena Unified School District Educators – Pasadena Now",
+    "text": "Pasadena Unified teachers and principals received more than $206,000 in grants thanks to the Pasadena Educational Foundation (PEF), College Football Playoff (CFP) Foundation, and the Pasadena Tournament of Roses Association at this year’s PEF Teacher Grants Celebration & Parade.\nThe grants, awarded annually, benefit thousands of students in the public schools of Altadena, Pasadena, and Sierra Madre.\nBorn from award presentations in the COVID years, teachers formed a block-long line of cars outside the Hudson Avenue headquarters of the Pasadena Unified School District and drove through a balloon arch to receive their certificates and checks, accompanied by cheers and music.\n“This is one of the best days of the year for us,” said Dr. Patrick Conyers, PEF Executive Director. “We’re giving out $ 206,000 in grants to 238 educators from donations made by local residents and supporters. We’re grateful to our donors and to our partners at the College Football Playoff Foundation and the Pasadena Tournament of Roses for their support in making this program possible.”\nThe Pasadena Educational Foundation has supported teachers and principals by funding innovative and creative classroom projects for 50 years. With the support of its community partners, PEF ensures that students across Altadena, Pasadena, and Sierra Madre benefit from enriched learning experiences.\nThis year, 148 Teacher Grants and 10 School-Wide Grants were awarded to 238 educators. At least one teacher from every PUSD campus received a grant this year.\nTeacher Grants were relatively small, ranging from ukuleles to iPads, while larger school-wide grants were awarded to principals for projects that benefit all students at their school.\nIn addition to the teacher and principal grants, three additional special awards were presented Wednesday.\nThe Calvin Hunt Arts Award was presented to Dany Richey, Sirvard Ogtanyan, and Christina An of Sierra Madre Elementary for their project, Superhero Social-Emotional Learning & STEAM. Inspired by the book Tar Beach by Faith Ringgold, students will imagine themselves as superheroes and create their own sidekick pal robots to support them on their life journey.\nThe Jarratt Brunson Memorial Award for Literacy was awarded to Lauren Partma of Don Benito Elementary for her project, Novel Notions, which will build a culturally diverse classroom library. Students will engage with the books through small reading groups and read-aloud sessions.\nThe Kathy Onoye Principal’s Leadership Award was presented to Maria Toliver and Patricia J. Gwinn of McKinley School for the Arts for their project, McKinley Library Revitalization (Phase 2). This initiative builds on last year’s library renovation by expanding the collection of student-centered books to further enhance student learning. The McKinley Library renovation was made possible with support from PEF, the College Football Playoff Foundation, the Tournament of Roses.\nA complete list of awardees is available at[ ](https://www.google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847429&usg=AOvVaw2yG08bb9n8XNq2oFmZExWJ)[pased.org/teachers](https://www.google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847859&usg=AOvVaw3kNsKcyDLB2S9ylMUWDZCV).\nMake a comment\nTop of the News\n[\nCommunity News\n](https://pasadenanow.com/main/members-file-complaint-against-alleged-election-irregularities-in-naacp-presidents-race)\nMembers File Complaint Against Alleged Election Irregularities in NAACP President’s Race\n[\nGovernment\n](https://pasadenanow.com/main/human-relations-commission-recommends-city-council-commemorate-nuclear-attack-on-hiroshima)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847429&usg=AOvVaw2yG08bb9n8XNq2oFmZExWJ",
+      "https://www.google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847859&usg=AOvVaw3kNsKcyDLB2S9ylMUWDZCV",
+      "https://www.google.com/url",
+      "https://google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847429&usg=AOvVaw2yG08bb9n8XNq2oFmZExWJ",
+      "https://google.com/url?q=http://pased.org/teachers&sa=D&source=editors&ust=1733407942847859&usg=AOvVaw3kNsKcyDLB2S9ylMUWDZCV"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T03:17:37.186+02:00",
+    "updated": "2024-12-06T03:17:37.186+02:00"
+  },
+  {
+    "uuid": "38726a9a0711521eef3e7fa225fb29487d727c1e",
+    "url": "https://www.meneame.net/story/reino-unido-no-recuperara-onzas-libras-como-medidas-98-7-estan/c067",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wolfy_1981",
+    "published": "2023-12-28T22:03:00Z",
+    "title": "#67 Reino Unido no recuperará las onzas y las libras como medidas: un 98,7% de los británicos están en contra",
+    "text": "Portada\nmis comunidades\notras secciones\n[#2](c2#c-2) Pasa eso porque los medios privados son exclusivamente de derechas, como buena propiedad de multimillonarios que son.\n[#30](c30#c-30) y aún nosotros seguimos con las millas marinas,\nel DIN A-4 de 210 mmx 297 mm,\nlos quilates en oro o diamantes\nlos psig en la presión\nel BTU en calderas y calefacciones ...\nAún no me explico cómo ello consintieron en tragar los decibelios.\nMenos mal que vino internet con los bit, bytes y kilobytes de 1024 bytes\nYa solo les queda abandonar las millas, las yardas, los pies y las pulgadas y descubrir lo práctico que es el sistema métrico decimal también para longitudes. Que lo de que una pulgada se convierte de 2,54cms, un pie son 12 pulgadas y una yarda 3 pies es algo maravillosamente caótico pero completamente ineficiente.\nNo termino de entender eso de mezclar nacionalismo con ciencia. Sería maravillosamente distópico que en España siguiésemos usando números romanos en matemáticas porque los otros no nos son tan \"naturales\".\nSe han acostumbrado a lo razonable y nadie quiere volver atrás.\nRealmente harían muy bien en medir las distancias en metros y dejarse de chorradas.\nPor cierto, que no es algo muy sabido pero los paises con unidades raras en realidad son miembros del sistema métrico internacional. Así pues un foot tiene de largo 0.3048m exactamente (no hay más decimales pues ésta es la definición)\nO lo que dice\n[#7](c7#c-7) , que da otro número exacto.\n[#15](c15#c-15) Todas sus medidas tienen su conversión a sistema métrico, pero sigue siendo un cachondeo, porque una es más o menos 2,5 y la siguiente que tienen ya pasa a 30. Además, es muy gracioso el ver lo imprecisas que son muchas de las mediciones que usan. Lo mítico es que la altura de las personas la midan en pies y pulgadas: un pie son 30,48cm y una pulgada 2,54cm, con lo que para americanos y británicos 1,72, 1,73 y 1,74 pueden terminar siendo el mismo número (5 pies y 8 pulgadas), con lo que los ves redondeando todo el rato o inventándose cosas como la media pulgada para ser un poco más claros.\n[#16](c16#c-16) luego los americanos son otros que ya tal.. porque aparte de las imperiales tienen sus propias medidas autóctonas, como las de volumen que una onza puede ser diferente si hablan de líquidos diferentes y más cosas\n[#15](c15#c-15) Por supuesto que nadie quiere volver atrás. Es que sólo a un subnormal del culo como Boris Johnson se le podía ocurrir la brillante idea de volver a semejante mierda de sistema.\n[#7](c7#c-7) las yardas hace décadas que nadie las usa, y las pulgadas sólo se usan para cosas puntuales, más por tradición que otra cosa.\nLos pies lo mismo, sólo se usan en cosas muy puntuales, pero igual que los usamos nosotros, con los contenedores marítimos de 20 y 40 pies, y algunos tipos de tubería los medimos en pulgadas\n[#17](c17#c-17) Aguantan más de lo que parece, porque si te paras a pensar la pantalla de los televisiones, monitores y móviles se miden en pulgadas, incluso aquí. Y muchos de los muebles que he visto que vienen de fuera también aparecen en páginas como el Amazon americano con medida en pulgadas y el peso en libras. Y las señales americanas si no me equivoco ponen la distancia en millas, y siempre me ha hecho gracia ver cosas como que una milla son 1760 yardas y 5280 pies porque es difícil de recordar.\nYo siempre lo he visto como un atraso, porque no ofrecen nada más allá de la tradición. En pocas semanas cualquiera se acostumbra a leer que su móvil tiene una pantalla de 15cm y que su tele es de 127 y no le causa ningún trauma.\n[#32](c32#c-32) sí eso sí, pero las pulgadas de la tele y demás nos las comemos por los EEUU, el problema de los americanos es que son muy \"especialitos\" y la mayoría no quiere reconocer que algo de afuera es mejor que lo suyo.\n[#18](c18#c-18) En el caso de norteamerica creo recordar q tenia cierta relevancia. Cuando hicieron la parcelacion del pais usaron esas metricas y pasar el sistema decimal podria llevar a disputas territoriales algo que en un pais donde hay mas armas que personas emmm...\n[#18](c18#c-18) Y nunca he visto dos pantallas de 15 pulgadas que midan lo mismo.\nSupuestamente era el tamaño del tubo antes de meterlo en chasis, pero más bien es una categoría de tamaño.\nIgual que nos contenedores internodales. Los hay normales o del doble de longitud. Y nada más. Que tradicionalmente se miran en pues pues es tradicion, al igual que las velocidades de las embarcaciones en nudos.\n[#18](c18#c-18) Lo gracioso es que además hay dos tipos de millas en función de si la distancia se mide en la tierra o en el mar.\nMilla terrestre: 1,60934 km = 5,280 pies\nMilla náutica: 1,852 km = 6076 pies.\nY dejarán de usar electricidad para pasar a máquinas de vapor. Puestos a ir para atrás que al menos monten un parque de atracciones steampunk para que los demás podamos ir de turismo.\n[#8](c8#c-8) Luditas: artesanos contra la Revolución Industrial\nhttps://www.muyinteresante.es/historia/59901.html\nJusto lo estaba leyendo hace un rato:\nhttps://www.theguardian.com/business/2023/dec/27/pint-of-wine-anyone-uk-looks-to-bring-back-silly-measure\nLo importante es que ahora podraá vender el vino en botellas de una pinta (si quisieran y alguien tuviera interés, que parece ser que no)\n[#50](c50#c-50) Claro, \"dame dos pounds de eso\" es \"dame dos libras de eso\", o sea, le das una moneda de 2 pounds por ello.\nPero las onzas?\nEn cualquier caso no es algo que viera habitualmente. En USA usan las onzas hasta para la marihuana. No sé si en algún sitio de UK lo harán también así.\nhttps://www.royalqueenseeds.es/blog-cantidades-de-cannabis-gramo-octavo-cuarto-y-onza-n1199\nYo aquí me pierdo algo. Juraría que en la pérfida albión se sigue pesando en libras, galones, se pesa el body en piedras, las distancias en millas yardas y piés, y demás cosas raras que hacen los british. ¡Si hasta siguen conduciendo por la izquierda!. Y solo hace dos meses de nuestra última visita por aquellos lares.\n[#9](c9#c-9) No es en USA donde se hace así?\nLo de las millas sí que se hace en ambos sitios, pero lo de las onzas, etc, yo diría que es en USA.\n[#9](c9#c-9) Lo curioso es que el origen de conducir por la izquierda puede remontarse a la invencion de la espada y conducir por la derecha tiene origenes peyorativos;\nhttps://blog.terranea.es/por-que-se-conduce-por-la-izquierda/\n[#9](c9#c-9) no, los British tienen un sistema raro. El peso se usa kg, las distancias se hacen en millas y la capacidad en litros o pintas dependiendo de a quien preguntes.\nEso del sistema métrico es un instrumento del demonio, mi coche mide 40 varas y trece celemines y de ahí no habrá quien me saque!!!!!\nPues a mi me han contado que en los hospitales el tema de las stones y libras todavía se lleva. Y en verdad algunos envases de leche, por poner un ejemplo, creo que se siguen vendiendo en gallons.\nAsí que no sé qué se usa y qué no, la verdad.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.muyinteresante.es/historia/59901.html",
+      "https://www.theguardian.com/business/2023/dec/27/pint-of-wine-anyone-uk-looks-to-bring-back-silly-measure",
+      "https://www.royalqueenseeds.es/blog-cantidades-de-cannabis-gramo-octavo-cuarto-y-onza-n1199",
+      "https://blog.terranea.es/por-que-se-conduce-por-la-izquierda/",
+      "https://royalqueenseeds.es/blog-cantidades-de-cannabis-gramo-octavo-cuarto-y-onza-n1199",
+      "https://www.blog.terranea.es/por-que-se-conduce-por-la-izquierda/",
+      "https://blog.terranea.es/por-que-se-conduce-por-la-izquierda",
+      "https://theguardian.com/business/2023/dec/27/pint-of-wine-anyone-uk-looks-to-bring-back-silly-measure",
+      "https://muyinteresante.es/historia/59901.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:06:56.948+02:00",
+    "updated": "2023-12-29T01:06:56.948+02:00"
+  },
+  {
+    "uuid": "eab40ffbee0587a7dcb12b93a1e0aeb51fac6414",
+    "url": "https://rollingout.com/2024/03/14/man-arrested-for-threatening-schoolboy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@RoyalTeeATL",
+    "published": "2024-03-14T22:51:00Z",
+    "title": "Man arrested for threatening schoolboy who bullied daughter",
+    "text": "A man in South Jersey is behind bars on multiple charges after confronting his daughter’s alleged [bully at school](https://rollingout.com/2023/12/11/adjoa-andoh-details-racist-bullying/) and threatening to knock him out. Police told the media Aaron Thomas, 38, went into a high school classroom in Paulsboro, New Jersey, about 35 miles southeast of Philadelphia, and approached two students, one of whom allegedly had been [beefing with his daughter](https://rollingout.com/2023/07/22/carlee-russell-boyfriend-abduction-claim/), ABC 7 reports. In a cellphone video recording, Thomas walks up to a student and orders him to repent to his child. “Apologize to my daughter,” Thomas says repeatedly throughout the nearly three-minute video. Thomas initially intended to drive to the school and sign out his daughter. However, according to the police affidavit, Thomas chose to track down the other student his daughter was beefing with over a shared photo. After threatening the first male student, Thomas is then seen making physical contact with another student and starts yelling. An adult who tried to intervene failed to de-escalate the confrontation. Some parents agreed with the father’s feelings but disagreed with his actions Later in the day, police arrested Thomas and charged him with simple assault, terrorist threats, trespassing, and disorderly conduct. The Paulsboro School District superintendent later sent a letter to parents assuring the district was cooperating with the police investigation. Some parents were sympathetic to Thomas’ sentiments to defend his daughter, but most said Thomas was wrong for confronting the student himself. “He’s between a rock and a hard place,” said Ed Rosas from Mantua Township, according to ABC 7 Chicago. “As a father, I can understand exactly what he’s saying, what he’s doing. But also, as a father of a child that’s in the schools, to have a stranger come in to do what he did is also wrong.” “That’s wrong,” said Annmarie Sabatini from National Park. “The father shouldn’t have gotten arrested. He was protecting his daughter.” A third person shown the video said the father should have handled the imbroglio administratively. “He should’ve gone to the principal’s office and got with them and pulled the kid out,” said Clarence Davis from Paulsboro.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Education",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "thomas",
+          "sentiment": "none"
+        },
+        {
+          "name": "aaron thomas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "abc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south jersey",
+          "sentiment": "none"
+        },
+        {
+          "name": "paulsboro",
+          "sentiment": "none"
+        },
+        {
+          "name": "new jersey",
+          "sentiment": "none"
+        },
+        {
+          "name": "philadelphia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:52:57.671+02:00",
+    "updated": "2024-03-15T00:52:57.671+02:00"
+  },
+  {
+    "uuid": "66a8604ff0d6ac3d151af773ffb778e9fd2e33d6",
+    "url": "https://www.androidpolice.com/chrome-toolbar-shortcuts-coming-to-chrome-custom-tabs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Karandeep Singh Oberoi",
+    "published": "2025-02-27T23:01:00Z",
+    "title": "Google's adaptive toolbar button is coming to Chrome Custom Tabs",
+    "text": "Summary\n- Recent updates introduced picture-in-picture support and an \"Open in browser\" shortcut for Chrome Custom Tabs (CCTs), improving multitasking and allowing seamless transitions to the full Chrome experience.\n- Chrome's customizable toolbar shortcuts, previously exclusive to the main browser, might soon be coming to CCTs, enabling quick access to actions like \"Share,\" \"Translate,\" and more within in-app web views.\n- These updates aim to provide a more integrated and efficient browsing experience within Android apps, allowing users to leverage Chrome's features directly within the context of their favorite applications.\nSome of the most popular applications that redirect users out of their own domain often rely on Chrome Custom Tabs (CCT), at least on Android. This includes the likes of YouTube, pages opened from your Discover feed, Slack, X, and countless more that you're probably thinking of right now.\nBack in March 2024, CCTs got a major multitasking upgrade in the form of picture-in-picture support, followed by a dedicated 'Open in browser' shortcut to allow users to seamlessly transition to the full Chrome browser experience.\nRelated\nTapping this new button in Chrome Custom Tabs will take you straight to your main browser\nThough you might not see it implemented everywhere\nBuilding on the same update, it looks like CCTs will soon gain another Chrome shortcut, one that will sit beside the 'Open in browser' icon.\nFirst introduced all the way back in 2022, Chrome offers intelligent toolbar shortcuts that can help you quickly access some of your most-used webpage actions. During its initial days, the shortcut was \"based on your usage,\" but later gained custom functionality. As of today, you can set the shortcut to open a 'New tab,' 'Share this page,' 'Voice search,' Translate,' 'Add to bookmarks,' and 'Listen to this page.'\nThese shortcuts sit conveniently right next to your Chrome address bar, making them easily accessible while you're browsing, and it looks like they soon won't be limited to the full Chrome browser experience.\nYour Discover feed pages might soon have toolbar shortcuts\nAs highlighted by Chrome researcher @Leopeva64 on X (Twitter), the customizable toolbar shortcuts might soon be available within CCTs. According to the researcher, the toolbar should also offer Chrome's upcoming AI page summary shortcut once available.\nIt doesn't look like CCTs will have their separate toolbar shortcut setting, so whatever shortcut you select in Chrome will be the one you see on CCTs via apps like Slack or Google's own Discover. You will, however, be able to edit shortcuts by long-pressing them within Custom Tabs.\nThe update was spotted in Chrome Canary, which means the shortcut is currently in its experimental phase, and should soon be available in stable if no major issues arise. When exactly that happens is currently unclear.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/Leopeva64/status/1895138459293229477",
+      "https://www.x.com/Leopeva64/status/1895138459293229477"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:13:17.942+02:00",
+    "updated": "2025-02-28T01:13:17.942+02:00"
+  },
+  {
+    "uuid": "2a99759d9368fc06feeae5b823b37261a30214a5",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7366690.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "180治理ETF（510010）跌0.93%，半日成交额1.65万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，180治理ETF（510010）跌0.93%，报1.603元，成交额1.65万元。180治理ETF（510010）重仓股方面， 贵州茅台 截止午盘涨0.00%， 中国平安 跌0.93%， 招商银行 跌0.70%， 长江电力 跌0.33%， 兴业银行 跌0.08%， 紫金矿业 跌1.44%， 工商银行 涨0.14%， 恒瑞医药 跌0.66%， 伊利股份 跌0.39%， 京沪高铁 跌0.17%。\n180治理ETF（510010）业绩比较基准为 上证180公司治理指数 ，管理人为交银施罗德基金管理有限公司，基金经理为邵文婷、蔡铮，成立（2009-09-25）以来回报为79.34%，近一个月回报为-0.49%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:38:55.021+03:00",
+    "updated": "2025-06-20T05:08:33.000+00:00"
+  },
+  {
+    "uuid": "053d273f75bb4e986ac29cd92e67b9f7c45c3c23",
+    "url": "https://www.losandes.com.ar/espectaculo/bizarrap-publico-el-adelanto-de-una-nueva-session-subila-que-ya-abri-el-vino",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Los Andes",
+    "published": "2024-12-26T21:02:00Z",
+    "title": "Bizarrap publicó el adelanto de una nueva session: \"Subila que ya abrí el vino\"",
+    "text": "A días de que termine el 2024 [Bizarrap ](https://www.losandes.com.ar/temas/bizarrap/)sorprendió a sus fanáticos al publicar un adelanto de una nueva session. El productor multipremiado subió un corte de la canción a sus redes sociales y causó revuelo.\nEn esta oportunidad el elegido para la nueva producción fue nada más y nada menos que Luck Ra. De esta manera, el DJ se subió a la ola cuartetera que está pegando fuerte en la escena musical.\nCon tan solo 24 segundos de video, Bizarrap enloqueció a sus fanáticos. Vale destacar que esta es la primera vez que hace una colaboración con un artista de este género.\nAdemás, después de un año, vuelve a producir con un artista argentino. El último fue Milo J en [la Music Sessions 57.](https://www.losandes.com.ar/espectaculo/quien-es-milo-j-el-cantante-con-el-que-bizarrap-anuncio-que-lanzara-su-sessions-57/)\nAunque la voz del artista cordobés es inconfundible, el productor subió otras dos historias donde hablan sobre la canción. “Subila que ya abrí el vino”, le escribió Luck Rack. “Bancame, no la terminé todavía. Mañana voy al estudio y la termino”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->music",
+      "Human Interest->celebrity",
+      "Social Issue->communities",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Luck Rack",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "DJ",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:38:53.865+02:00",
+    "updated": "2024-12-27T00:38:53.865+02:00"
+  }
+]

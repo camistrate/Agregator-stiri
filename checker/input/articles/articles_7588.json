@@ -1,0 +1,393 @@
+[
+  {
+    "uuid": "8ab898fd8ddfe5b32cb4bfea6b57458b8bf4fa84",
+    "url": "https://www.wtok.com/2024/05/10/inclement-weather-downs-trees-blocks-roads-closes-some-schools",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wtoktv",
+    "published": "2024-05-10T12:05:00Z",
+    "title": "Inclement weather downs trees, blocks roads, and closes some schools",
+    "text": "MERIDIAN, Miss. (WTOK) -News 11 heard numerous reports of damage in multiple communities throughout the late night and early morning hours. According to Jasper County Emergency Management a downed tree was on car on Highway 11 near County Road 114. Trees and powerlines were also reported to be down near County Road 17. In Clarke County, there were reports of a tree on a home and three people were trapped inside. A tree also fell on an 18-wheeler at the Interstate 59 exit ramp 137, all according to Clarke County Fire & Rescue. There was also a report of a tree down along Highway 80 between Hickory and Newton. Some community members also posted photos and videos on our WTOK Facebook page showing damage in their neighborhoods and community. Early Friday morning, Quitman School District announced it was closed for the day due to downed trees and powerlines from Thursday night’s weather. Lauderdale County School District announced that their Southeast and Clarkdale campuses would be closed Friday because of power issues and blocked roadways. Patrician Academy in Butler, AL also announced its closure early Friday morning. Click here to subscribe to our daily newsletter! Copyright 2024 WTOK. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hickory",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "meridian",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lauderdale county school district",
+          "sentiment": "none"
+        },
+        {
+          "name": "quitman school district",
+          "sentiment": "none"
+        },
+        {
+          "name": "jasper county emergency management",
+          "sentiment": "none"
+        },
+        {
+          "name": "clarke county fire & rescue",
+          "sentiment": "none"
+        },
+        {
+          "name": "wtok facebook",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "miss.",
+          "sentiment": "none"
+        },
+        {
+          "name": "newton",
+          "sentiment": "none"
+        },
+        {
+          "name": "county road 17",
+          "sentiment": "none"
+        },
+        {
+          "name": "county road",
+          "sentiment": "none"
+        },
+        {
+          "name": "clarkdale",
+          "sentiment": "none"
+        },
+        {
+          "name": "clarke county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T15:42:52.727+03:00",
+    "updated": "2024-05-10T23:13:11.481+03:00"
+  },
+  {
+    "uuid": "b291f0125456aa72c551d5dd0dce50c64dcce081",
+    "url": "https://www.techspot.com/news/102595-avi-wigderson-wins-turing-award-influential-work-computational.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cal Jeffrey",
+    "published": "2024-04-11T20:33:00Z",
+    "title": "Avi Wigderson wins Turing Award for his influential work in computational randomness | TechSpot",
+    "text": "Kudos: Let's hear it for theoretical computer scientists. Without their work, we would not be carrying around a mini computer in our pockets. Perhaps even more importantly, we couldn't accurately predict the weather or be on the edge of reliable quantum computing. Avi Wigderson rightly deserves recognition in this field for work that has widely influenced so many others.\nOn Wednesday, the Association for Computing Machinery, a prestigious organization in the field of computer science, awarded mathematician Avi Wigderson the Turing Award. This award, often called the Nobel Prize of Computing, is named after Alan Turing, a pioneer in the field. It is considered one of the highest honors in computer science and comes with a million-dollar cash prize, reflecting the significant impact of the recipient's work.\nWigderson is a theoretical computer scientist specializing in randomness, cryptography, computational complexity, and other related pursuits. He works as an advanced mathematics professor at the Institute for Advanced Study in Princeton, New Jersey.\nTheoretical computer scientists tackle questions like, \"Is this problem solvable through computation?\" or \"If this problem is solvable through computation, how much time and other resources will be required?\"\nIt also delves into the realm of computer algorithm optimization. Just because a line of code is the most obvious way to execute a task does not mean it is the most efficient way. So Wigderson and others in the field are indirectly responsible for breakthroughs in everything from cryptography to machine learning.\nAvi Wigderson *83 has won the #ACMTuringAward from @TheOfficialACM !\nThe award is considered the highest honor in computer science, often called the \"Nobel Prize of Computing.\"\nCongratulations! ï¿½'ï¿½ https://t.co/g9KOK1llTy\n– Princeton University (@Princeton) April 10, 2024 Wigderson has led theoretical research that has laid the foundations for computational randomness and pseudorandomness in systems for forty years. It was long thought that chaotic systems like the weather or quantum mechanics are impossible to model using deterministic instructions because of those systems' inherent random behavior.\nIn a series of studies, Wigderson and his colleagues challenged widely believed computational assumptions by proving that all probabilistic polynomial time algorithms can be \"derandomized\" efficiently and be made fully deterministic. Derandomization is the process of converting a probabilistic algorithm into a deterministic one, which has significant implications for the efficiency and reliability of computational processes.\n\"In other words, randomness is not necessary for efficient computation,\" the ACM notes. \"This sequence of works revolutionized our understanding of the role of randomness in computation, and the way we think about randomness.\"\nWigderson's seminal works include the papers \" Hardness vs Randomness ,\" \" BPP Has Subexponential Time Simulations Unless EXPTIME has Publishable Proofs ,\" and \" P = BPP if E Requires Exponential Circuits: Derandomizing the XOR Lemma .\" These papers, co-authored by contemporaries like Noam Nisan and Lance Fortnow , became foundational material for other studies in theoretical computer science.\nAs a professor, Wigderson has mentored students and colleagues alike. He has a passion for his field of study and an enthusiasm for sharing his knowledge with everyone he meets.\n\"Notably, none of these papers are solely authored or even have much overlap in their author lists,\" Fortnow wrote in his blog regarding his colleague's achievement . \"Avi shared his wisdom with many, nearly 200 distinct co-authors according to DBLP. Congrats to Avi and this capstone to an incredible career and individual.\"\nImage credit: Association for Computing Machinery\n3 comments 17 likes and shares",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://twitter.com/Princeton/status/1778169849178427592?ref_src=twsrc%5Etfw",
+      "https://blog.computationalcomplexity.org/2024/04/avi-wins-turing-award.html",
+      "https://twitter.com/TheOfficialACM?ref_src=twsrc%5Etfw",
+      "https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/NOAM/HARDNESS/final.pdf",
+      "https://www.cs.huji.ac.il/~noam/",
+      "https://lance.fortnow.com",
+      "https://link.springer.com/article/10.1007/BF01275486",
+      "https://www.acm.org",
+      "https://awards.acm.org/about/2023-turing",
+      "https://twitter.com/hashtag/ACMTuringAward?src=hash&ref_src=twsrc%5Etfw",
+      "https://dl.acm.org/doi/pdf/10.1145/258533.258590",
+      "https://www.lance.fortnow.com",
+      "https://twitter.com/TheOfficialACM",
+      "https://www.dl.acm.org/doi/pdf/10.1145/258533.258590",
+      "https://www.twitter.com/hashtag/ACMTuringAward?src=hash&ref_src=twsrc%5Etfw",
+      "https://cs.huji.ac.il/~noam/",
+      "https://www.blog.computationalcomplexity.org/2024/04/avi-wins-turing-award.html",
+      "https://www.twitter.com/Princeton/status/1778169849178427592?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Princeton/status/1778169849178427592",
+      "https://www.link.springer.com/article/10.1007/BF01275486",
+      "https://www.twitter.com/TheOfficialACM?ref_src=twsrc%5Etfw",
+      "https://math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/NOAM/HARDNESS/final.pdf",
+      "https://twitter.com/hashtag/ACMTuringAward",
+      "https://acm.org",
+      "https://www.awards.acm.org/about/2023-turing",
+      "https://www.cs.huji.ac.il/~noam"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "avi wigderson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alan turing",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "association for computing machinery",
+          "sentiment": "none"
+        },
+        {
+          "name": "institute for advanced study at princeton",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new jersey",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:08:36.079+03:00",
+    "updated": "2024-04-14T22:21:17.839+03:00"
+  },
+  {
+    "uuid": "b26aebab04a51020a4930b5a93f870e1e82c7c31",
+    "url": "https://safety4sea.com/greek-crew-member-safely-returned-from-seized-oil-tanker-st-nikolas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katerina Tsiakaraki",
+    "published": "2024-01-19T02:58:00Z",
+    "title": "Greek crew member safely returned from seized oil tanker St. Nikolas - SAFETY4SEA",
+    "text": "Empire Navigation Inc., managers of M/T St. Nikolas, reports with great pleasure the safe release of the youngest crew member onboard [its seized vessel.](https://safety4sea.com/tanker-in-gulf-of-oman-boarded-by-men-in-military-uniforms/) As informed, the Greek cadet, escorted by the Greek Ambassador to Iran, is board a flight to return home. Regardless of this positive news, our Company remains committed to the safe release of all crew members. The remaining 18 seafarers, still onboard the vessel anchored at Bandar Abbas in Iran, are in good health and in contact with their families. The Company has also established contact with the Filipino Ambassador to Iran who will be visiting the vessel upon required formalities are completed by the Local Authorities. Filipino Government officials continue their ongoing efforts as of first day to negotiate the safe return of the remaining crew members. The safety and wellbeing of our crew and their families will always be top priorities for our Company. We remain in constant cooperation with the seafarers’ families, working with specialized professionals to provide mental health and psychological support during this emotional and difficult time. ..the company said. As explained, family members will have access to these resources until all seafarers are safely released, at which time the seafarers themselves will have support as long as advised by medical professionals. The St. Nikoloas was sailing laden, with a cargo of about 145,000 mts of crude oil loaded in Basrah, Iraq and destined to Aliaga (Turkey), via the Suez Canal, when she was seized by Iran on 11 January. The charterer of the vessel is Tupras.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bandar abbas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "st. nikolas - safety4sea empire navigation inc.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "m/t st. nikolas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "local authorities",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T15:30:16.237+02:00",
+    "updated": "2024-01-19T15:30:16.237+02:00"
+  },
+  {
+    "uuid": "61fe181bb207f8ba7942206f353ee04685fabc73",
+    "url": "https://www.derwesten.de/panorama/promi-tv/peter-klein-iris-yvonne-woelke-unfall-operation-id301663463.html",
+    "ord_in_thread": 0,
+    "author": "Melina Lucht",
+    "published": "2025-07-03T06:00:00Z",
+    "title": "Peter Klein verletzt sich schwer - \"Ich kann wochenlang nicht arbeiten\"- DerWesten.de",
+    "text": "Schlechte Nachrichten für alle Fans von Peter Klein. Sie werden in nächster Zeit wohl oder übel auf ihn verzichten müssen. Nach einem Unfall während der Dreharbeiten einer TV-Produktion verletzte sich der Partner von Yvonne Woelke so schwer, dass er nun operiert werden muss.\nGerade erst hatte Peter Klein seine Musikkarriere gemeinsam mit seiner Partnerin angekurbelt. Die gemeinsamen Auftritte werden jetzt allerdings für eine bestimmte Zeit ins Wasser fallen, wie es scheint.\nPeter Klein verletzt sich schwer Peter Kleins Diagnose: Die Sehne des vorderen Oberschenkelmuskels ist oberhalb der Kniescheibe am rechten Bein gerissen. Das klingt nicht nur schmerzhaft, sondern ist es auch, wie der Ex-Mann von Iris Klein gegenüber „Bild“ sagt. Doch wie kam es zu dem Unfall?\n+++ auch interessant für dich: Yvonne Woelke privat: Sie streitet Affäre mit Peter Klein bis heute ab – „Krankhafte Eifersucht“ +++\n„Das Ganze ist beim Herauskatapultieren aus dem Trampolin passiert. Zuerst habe ich gehofft, dass es so heilen kann. Aber nach umfangreichen Untersuchungen haben die Ärzte leider festgestellt, dass nur eine Operation die Streckfähigkeit des Kniegelenkes wieder herstellen kann“, so der 58-Jährige.\nPeter Klein fällt länger aus Nun muss sich der Reality-TV-Star sich auf seine Genesung konzentrieren, wie er sagt: „Da ich auch auf Krücken laufe, bin ich sehr eingeschränkt. Ich kann wochenlang nicht arbeiten, kein Autofahren. Die Ärzte gehen derzeit von drei Monaten aus, anschließend muss ich noch lange zur Physiotherapie, um die Muskulatur wieder aufzubauen.“\n+++ auch spannend für dich: Iris Klein privat: Heftige Gewaltaussagen über frühere Beziehung – „Bin durch Schei*e gegangen!“ +++",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->injury",
+      "Health->medical condition",
+      "Social Issue->social condition",
+      "Social Issue->men",
+      "Social Issue->disabilities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Peter Kleins",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Yvonne Woelke",
+          "sentiment": "none"
+        },
+        {
+          "name": "Iris Klein",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "& TV",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TV",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news_ch",
+        "top_news_at",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T09:08:35.265+03:00",
+    "updated": "2025-07-04T07:08:06.000+00:00"
+  },
+  {
+    "uuid": "10082c67d85a0c33c4d040e5235eb74e8ca93207",
+    "url": "https://vnexplorer.net/tempete-gerrit-au-royaume-uni-trois-morts-dans-un-4x4-retrouve-dans-une-riviere-s697801.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T23:17:00Z",
+    "title": "Tempête Gerrit au Royaume-Uni : Trois morts dans un 4x4 retrouvé dans une rivière",
+    "text": "La tempête Gerrit a entraîné d’importantes chutes de pluie et de neige, ainsi que des vents violents\nPlusieurs régions du Royaume-Uni, en particulier en Ecosse et dans le nord de l’Angleterre, sont frappées depuis mercredi par la tempête Gerrit.\nDRAME – La tempête Gerrit a entraîné d’importantes chutes de pluie et de neige, ainsi que des vents violents\nTrois hommes ont été retrouvés morts jeudi, piégés dans un véhicule retrouvé dans une rivière au nord de l’Angleterre, frappé comme d’autres régions du Royaume-Uni par la tempête Gerrit qui a provoqué de fortes intempéries, a annoncé la police locale.\nAlertés un peu avant midi qu’un véhicule était tombé dans la rivière Esk, près de la ville de Glaisdale, les services de sécurité ont été déployés sur les lieux. « Le véhicule a été repêché dans la rivière par les pompiers peu après 15 heures, heure anglaise. Malheureusement, les trois hommes qui se trouvaient à l’intérieur sont morts », a indiqué la police du North Yorkshire dans un communiqué. Un autre homme qui avait tenté de les aider a été récupéré sain et sauf, a-t-elle précisé, ajoutant que les conditions météo locales « rendent la conduite automobile dangereuse ».\nDes milliers de logements sans électricité Plusieurs régions du Royaume-Uni, en particulier en Ecosse et dans le nord de l’Angleterre, sont frappées depuis mercredi par la tempête Gerrit qui a entraîné d’importantes chutes de pluie et de neige, ainsi que des vents violents, avec notamment 136 km/h enregistré dans l’Aberdeenshire en Ecosse.\nDes vents tourbillonnants qualifiés de « tornade » par la police et provoqués par un orage supercellulaire, selon l’Agence nationale de météorologie (Met Office), a également dévasté une centaine de maisons près de Manchester dans la nuit de mercredi à jeudi, sans faire de blessé. Des milliers de logements restaient sans électricité jeudi après-midi en Ecosse, tandis que les transports ferroviaire et aérien sont perturbés avec des trains et des vols annulés.\nDes automobilistes sont également restés plusieurs heures coincés dans leur véhicule à cause de la neige, et des routes ont été coupées par des chutes d’arbres sur la chaussée ou des inondations. Plus au sud, le transport de ferries entre Douvres et la France a également subi des retards mercredi à cause des vents forts soufflant sur la Manche, selon la compagnie DFDS.\nFaits diversAlpes du Nord : Deux morts dans une avalanche, un mort dans une chute de 500 mètresPlanèteDes traces de crème solaires trouvées au Pôle Nord",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1madIn.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1madIn.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:22:30.100+02:00",
+    "updated": "2023-12-29T01:22:30.100+02:00"
+  },
+  {
+    "uuid": "dbb01bb5b85d6c54794cb22e89c3217f2abed202",
+    "url": "https://biv.com/article/2024/02/gaza-protesters-blockade-truck-access-port-vancouver",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canadian Press",
+    "published": "2024-02-01T19:34:00Z",
+    "title": "Gaza protesters blockade truck access to Port of Vancouver",
+    "text": "Dozens of protesters with Palestinian flags and banners have blockaded truck access to the Port of Vancouver.\nThe Vancouver Fraser Port Authority says officials are \"aware of protest activity blocking vehicle access to port roads\" and they're monitoring the situation.\nIt says blockades have been set up at both entrances to the port at Clark Drive and Commissioner Street, and a statement from protesters says they're calling on the Canadian government to immediately enact an arms embargo on Israel.\nIn a notice obtained by The Canadian Press, the port authority says police are on-site and protesters were allowing personal vehicles to leave the port, but they're otherwise blocking access at the two entry points.\nTraffic camera photos on the City of Vancouver website show protesters blocking the intersection of Clark Drive and Hastings Street, while several semi-trucks appear to be waiting in a line near the port's entrance.\nThe Vancouver port is Canada's largest, facilitating trade of about $305 billion in goods annually and generating $11.9 billion in annual Gross Domestic Product.\nThis report by The Canadian Press was first published Feb. 1, 2024.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "vancouver fraser port authority",
+          "sentiment": "none"
+        },
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "clark drive",
+          "sentiment": "none"
+        },
+        {
+          "name": "hastings street",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:09:59.793+02:00",
+    "updated": "2024-02-02T00:09:59.793+02:00"
+  }
+]

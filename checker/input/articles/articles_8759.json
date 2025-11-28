@@ -1,0 +1,181 @@
+[
+  {
+    "uuid": "7457d2dec29dd337e974f134b1de60c3978c9da9",
+    "url": "https://zn.ua/TECHNOLOGIES/chat-boty-s-ii-mohut-nezametno-zastavljat-ljudej-raskryvat-kak-mozhno-bolshe-lichnykh-dannykh.html",
+    "ord_in_thread": 0,
+    "author": "@zn_ua",
+    "published": "2025-08-14T07:59:00Z",
+    "title": "Чат-боты с ИИ могут незаметно заставлять людей раскрывать как можно больше личных данных",
+    "text": "Чат-боты на основе искусственного интеллекта, запрограммированные на сбор персональных данных, способны заставлять пользователей делиться личной информацией более чем в 12 раз больше по сравнению с обычным взаимодействием. Об этом свидетельствует новое исследование Королевского колледжа Лондона, впервые представленное на 34-м симпозиуме по безопасности USENIX в Сиэтле.\nИсследователи протестировали три типа вредоносных чат-ботов с искусственным интеллектом, созданных на базе больших языковых моделей Mistral и двух версий Llama от Meta. Каждый бот использовал одну из трех стратегий:\n- прямую - прямые запросы на раскрытие информации;\n- пользовательско-выгодную - предложение выгоды в ответ на данные;\n- взаимную - установление эмоционального контакта и обмен \"личными\" историями для стимулирования доверия.\nВ исследовании приняли участие 502 добровольца, которым не сообщали об истинной цели эксперимента до его завершения. Наибольшее количество данных пользователи предоставляли чат-ботам, которые использовали взаимные стратегии. Такие модели демонстрировали эмпатию, подтверждали чувства, делились вымышленными историями \"из опыта других\" и гарантировали конфиденциальность, что значительно снижало настороженность собеседников.\nПо мнению авторов, это свидетельствует о высоком риске того, что сам ИИ, мошенники или другие злоумышленники смогут собирать большие объемы персональной информации даже у людей, которые не осознают, как и где эти данные могут быть использованы.\nПочему это опасно\nЧат-боты на основе больших языковых моделей (LLM) используются во многих сферах - от обслуживания клиентов до здравоохранения. Их архитектура и методы обучения предусматривают использование больших наборов данных, что может приводить к запоминанию и сбору личной информации пользователей.\nПредыдущие исследования уже показывали, что такие модели не обеспечивают достаточного уровня безопасности данных. Новая работа доказывает, что манипулировать LLM не сложно - базовые модели с открытым кодом часто доступны компаниям и частным лицам, которые могут изменять их поведение без глубоких знаний программирования.\n\"Чат-боты на основе искусственного интеллекта широко распространены во многих различных секторах, поскольку они могут обеспечивать естественное и увлекательное взаимодействие. Мы уже знаем, что они плохо защищают данные. Наше исследование показывает, что манипулируемые модели представляют еще большую угрозу конфиденциальности - и этим удивительно легко воспользоваться\", - пояснил Сяо Чжан, постдокторант кафедры информатики Королевского колледжа Лондона.\nПо словам доктора Уильяма Сеймура, преподавателя кибербезопасности, пользователи часто не осознают, что во время разговора с чат-ботом может быть скрытый мотив.\n\"Мы видим значительный разрыв между осознанием рисков и фактическим поведением людей. Нужно больше усилий, чтобы научить пользователей замечать признаки потенциальной манипуляции. Регуляторы и платформы могут помочь, внедряя ранние проверки, устанавливая более жесткие правила и обеспечивая прозрачность\", - подчеркнул Сеймур.\nИскусственный интеллект, способный имитировать человеческую манеру общения, уже стал частью повседневной жизни миллионов людей. Однако отсутствие надлежащего контроля и возможность его преднамеренной \"перенастройки\" делают технологию потенциальным инструментом для сбора чувствительной информации в масштабах, которых ранее достичь было сложно.\nНедавно мужчину госпитализировали с редким заболеванием \"бромизмом\" и психическими расстройствами после того, как он заменил поваренную соль на бромид по совету чат-бота ChatGPT. Ситуация в очередной раз доказывает, что опасно использовать искусственный интеллект для самолечения без консультации с медицинским специалистом, поскольку ИИ может генерировать ложные и вредные рекомендации.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Social Issue->social networking",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eurekalert.org/news-releases/1094414",
+      "https://eurekalert.org/news-releases/1094414"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ua",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:03:19.329+03:00",
+    "updated": "2025-08-15T11:05:22.000+03:00"
+  },
+  {
+    "uuid": "76759d8cb8062321b76ee47f7981b53a46483713",
+    "url": "https://www.ntn24.com/noticias-politica/es-una-farsa-y-un-resultado-que-para-argentina-no-es-aceptable-vicecanciller-argentino-sobre-decision-del-tsj-venezolano-de-avalar-eleccion-de-maduro-509326",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NTN24",
+    "published": "2024-08-22T23:15:00Z",
+    "title": "\"Es una farsa y un resultado que para Argentina no es aceptable\": vicecanciller argentino sobre decisión del TSJ venezolano de avalar elección de Maduro | NTN24.COM",
+    "text": "[TSJ de Maduro](/temas/tsj-de-maduro) \"Es una farsa y un resultado que para Argentina no es aceptable\": vicecanciller argentino sobre decisión del TSJ venezolano de avalar elección de Maduro Este jueves, el Tribunal Supremo de Justicia del régimen venezolano aseguró que la sentencia de la Sala Electoral ha decidido \"de manera definitiva sobre el recurso de la elección\" interpuesto por el propio Nicolás Maduro, que se dice ganador y alegó un \"ataque cibernético\" al sistema electoral, como excusa para no presentar las actas. Leopoldo Sahores, vicecanciller argentino, analizó en La Tarde de NTN24 la decisión del Tribunal Supremo de Justicia del régimen venezolano. “Es una farsa, proviene de un órgano totalmente cooptado que no es imparcial”, aseguró. “El resultado que para Argentina no es aceptable de ninguna manera”, subrayó. En ese sentido, indicó que el TSJ “hace eco de los anuncios y verificaciones que nadie pudo comprobar el Consejo Nacional Electoral”. “La solución es respetar la voluntad popular expresada el 28 de julio, ni nuevas elecciones ni gobierno de coalición”, añadió. El funcionario sostuvo, además, que “es momento que el fiscal pida a la Corte Penal Internacional orden de arresto para Maduro y otros cabecillas de este régimen”. Con respecto al caso de la embajada de Argentina en Venezuela, a la que se le sustrajeron la suma de 90 mil dólares aproximadamente de la cuenta bancaria luego de que el personal abandonara ese país, explicó que “en 20 años nunca hubo un incidente de esta naturaleza”. “El día más que el personal diplomático se retiró de Venezuela, se vació la cuenta a través de transacciones a cuentas individuales”, detalló. “Hemos hecho los reclamos y si no tenemos una respuesta satisfactoria, como es un banco estatal, lo llevaremos al nivel bilateral”, advirtió. A su vez, insistió en el reclamo de Argentina para que el régimen “cumpla con los salvoconductos” de los seis opositores que se encuentran refugiados en la Embajada de Argentina en Caracas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T03:17:29.106+03:00",
+    "updated": "2024-08-23T03:17:29.106+03:00"
+  },
+  {
+    "uuid": "8e5b868630b7fdb94d8f8ff98cc02272bee20c73",
+    "url": "https://www.ilmessaggero.it/vaticano/papa_francesco_burke_incontro_benedizione_coppie_gay_vaticano_scisma-7841769.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@francagiansol",
+    "published": "2023-12-29T09:49:00Z",
+    "title": "Papa Francesco, faccia a faccia con il cardinale Burke: le spiegazioni dopo avergli tolto stipendio e casa in Vaticano",
+    "text": "Papa Francesco, faccia a faccia con il cardinale Burke: le spiegazioni dopo avergli tolto stipendio e casa in Vaticano Nel mirino gli strappi teologici del pontificato di Franca Giansoldati 5 Minuti di Lettura Venerdì 29 Dicembre 2023, 10:49 - Ultimo aggiornamento: 18:43 321 Era il primo appuntamento segnato in agenda. La giornata di Papa Bergoglio si è aperta con un colloquio complesso e piuttosto franco con quello che considera il suo avversario in curia, il cardinale ultra conservatore Raymond Leo Burke , canonista di fama, già a capo del supremo tribunale della Segnatura Apostolica e già 'cappellano' dell'Ordine di Malta.\nAPPROFONDIMENTI IL BILANCIO Papa Francesco, il 2023 annus horribilis",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:55:50.099+02:00",
+    "updated": "2023-12-30T19:51:23.322+02:00"
+  },
+  {
+    "uuid": "a6ee17b3710fa8551709c62bf303edf5663a2e66",
+    "url": "https://www.withinnigeria.com/2024/10/24/confusion-anxiety-as-ipob-declares-2-day-sit-at-home-in-south-east",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nnadi Christopher Ikechukwu",
+    "published": "2024-10-24T19:55:00Z",
+    "title": "Confusion, anxiety as IPOB declares 2 day sit-at-home in South East",
+    "text": "IPOB declares 2 day sit-at-home on Monday, Tuesday respectively Enugu schools ask students, teachers to stay away from schools, as IPOB keeps mum, issues statement Imo, Abia states police commands on red alert as anxiety mounts Confusion, anxiety and fear have once again taken better part of the people of the South East zone following the alleged sit-at-home order issued by the Indigenous People of Biafra, IPOB.\nAccording to reports in many quarters in the zone, Monday and Tuesday, October 21 and 22 respectively has been declared by the IPOB as sit-at-home to press home their demand for “unconditional” release of their incarcerated leader, Nnamdi Kanu.\nThough Monday has long become sacrosanct in the zone as sit-at-home, even as many have argued that it is gradually fading away, the new order by the IPOB showed that the group is still aware of the Monday activities in the zone.\nEnugu schools close Monday and Tuesday as police issues statement on the matter\nFollowing the new development, both public and private schools have asked their pupils and students in the zone to stay away from their respective schools on Monday and Tuesday, October 21 and 22.\nOne of the private school directors who spoke to WITHIN NIGERIA explained that “we have to ask them to stay away so that we can watch the situation as it unfolds. It is better they come than lose their life to these hoodlums or what we call unknown gun men.\n“If the situation improves on Wednesday, they can resume their studies but if it turns out to be a week affair, then we cannot risk the life of these future generation.”\nMeanwhile, on Sunday, October 20, the Commissioner of Police, Enugu State Command, CP Kanayo Uzuegbu urged the residents to ignore the sit-at-home order and go about their lawful businesses.\nIn a statement issued by the commissioner and signed by the Police Public Relations Officer, PPRO of the command, Mr. Daniel Ndukwe read thus; “Enugu state police commissioner CP, Kanayo Uzegbu has urged residents to ignore a criminally minded viral video from an unidentified individual advising them to sit-at-home on Monday, 21st, and Tuesday, 22nd October 2024.\n“He describes the advise and the reasons for it as baseless, unwarranted, and a deliberate attempt to incite fear and unrest in the State.\n“CP Kanayo emphasises that Enugu State has long moved past such criminally motivated illegal sit-at-home orders or advise, which are often designed to destabilise the social, economic, and psychological well-being of the people under the guise of secessionist agitations.\n“The Commissioner encourages citizens to carry on with their lawful activities without fear or intimidation, assuring them that the police, in collaboration with other security agencies, are fully prepared to maintain peace and security across the State. He warns that any individuals or groups attempting to disrupt public order will be ruthlessly dealt with.\n“CP Kanayo also urges parents and guardians to warn their children and wards against being used for any act inimical to the peace and security of the State, warning that the legal consequences of such involvements will be dire.\n“Furthermore, the Commissioner enjoins residents of the State to stay vigilant, law-abiding, and report suspicious activities or individuals to the nearest police station.\n“For emergencies, the public can contact the Enugu State Command via the following numbers: 08032003702, 08098880172, 08086671202, or email: infoenugupolice@gmail.com.”\nPolice on alert in Imo state\nIn reaction to the order, the Imo State Police Command , in collaboration with the Armed Forces and other security agencies, have deployed security personnel at strategic locations within and outside the state capital to safeguard lives and properties.\nA statement issued by the Command’s Public Relations Officer, ASP Henry Okoye, disclosed that the Police and other security agencies are embarking on ‘Show of Force Operations and Confidence Building Patrols’ across the state in response to the alleged IPOB threat.\nThe Command described the sit-at-home order as unlawful and advised citizens to go about their lawful businesses.\n“Starting today, October 19, and continuing through October 23, security personnel will enhance visibility policing through these patrols.\n” Additionally, detectives will conduct reconnaissance operations to gather actionable intelligence. These efforts aim to reassure the public and maintain law and order,” the statement said.\nThe Command urged citizens to remain calm and vigilant, continuing their daily activities while being mindful of their surroundings.\nIPOB Leader, Nnamdi Kanu The statement further advised residents to be at alert and report any suspicious activity observed within their neighborhood to the nearest Police station or via the Command’s emergency line at 08034773600.\n“To this end, the Commissioner of Police, CP Aboki Danjuma, appreciates the support of the good people of Imo State and assures them that their safety is the Command’s top priority.”\nSecurity beefed up in Abia state\nSecurity agencies in Abia State have increased their presence across major city centers and suburban areas ahead of the two-day sit-at-home order issued by the Indigenous People of Biafra (IPOB) in the Southeast.\nWITHIN NIGERIA gathered that, as a precautionary measure, the Abia State Command of the Nigeria Police Force (NPF) conducted a confidence patrol exercise this week, involving various units of the NPF within the commercial city of Aba.\nSources within the Aba Area Command of the Nigerian Police Force disclosed that an exercise was conducted along major roads and identified trouble spots.\nThis exercise aimed to boost residents’ confidence in their safety while also sending a warning to any individuals or groups intending to cause trouble in Aba and its surrounding areas.\nThe police made it clear that they would respond to such threats with firmness.\nIt was gathered that security agencies in Aba repelled members of the IPOB who had attempted to come into the city center on Friday to cause fear among visitors and residents as they tried to create awareness of their planned two days sit-at-home as they used to do, but met the resistance of the security agencies who had manned various flash spots.\nA source in the Abia State Command of the Nigeria Police Force who pleaded anonymous disclosed that security agencies in the state have deployed personnel in mufti to some flashpoints with the aim of ensuring that there won’t be any breakdown of law and order in the state or the peace in the state hijacked by non-state actors.\nThe source who assured that the state was secure for residence and business activities, said that the security agencies would not fold their arms and watch unscrupulous elements cause breach of peace in the state.\nInformation has it that banks in Aba, in particular, have been instructed by their headquarters to monitor developments around them on Monday to know if they would open for business on Tuesday.\nIPOB keeps mum on the alleged order, releases statement\nOn Thursday, October 17, the IPOB issued a statement, asking the Federal government to release their leader, Nnamdi Kanu who according to them has been incarcerated since June, 2021.\nIn the release entitled, “Mazi Nnamdi Kanu remains a prisoner of conscience and must be released unconditionally” and signed by their publicity secretary, Emma Powerful did not mention the sit-at-home order.\nThe release reads thus; “the Directorate of State (DOS) of the global family and movement of the Indigenous People of Biafra (IPOB) led by Nnamdi kanu wish to remind the public and the International Community that Mazi Nnamdi Kanu, the leader of indigenous People of Biafra IPOB remains a prisoner of conscience in Nigeria custody.\n“The Nigeria Government masterminded the kidnap and extraordinary rendition of Mazi Nnamdi Kanu from Kenya to Nigeria in June 2021. Since then, he has been illegally detained in solitary confinement of the lawless DSS facility in Abuja Nigeria, despite court judgments in favour of Mazi Nnamdi Kanu and IPOB. Nigeria is illegally detaining him while they are targeting to destroy IPOB.\n“Unfortunately, the indestructible ideology of restoring Biafra has kept IPOB moving along in our quest to restore the Sovereign Nation of Biafra. The Nigerian government had sponsored criminal groups to carry out violence in the South Eastern Region with the name of IPOB.\n“These State sponsored criminals were playing the scripts of their sponsors to drag IPOB and Biafrans into an unprepared war with the murderous Nigeria military. That is why they claimed to be the Biafra Liberation Army and targeting the Nigerian Security Forces in Biafra Land. But in all of these, their covert operations have failed.”\nThe release further stressed that “IPOB and Ndigbo globally must continue the campaign for the unconditional release of Mazi Nnamdi Okwu Kanu. He did not commit any offence for seeking self-determination for the marginalized Indigenous people of Biafra. Instead, his demand is in line with the UN convention on Civil and Political Rights for the Indigenous People of Biafra.\n“Moreover, he has kept his faith and promises without betraying his people even after being illegally detained for nearly four (4) years by the Nigerian government inside the dungeon of DSS in solitary confinement. In October 2022, the Nigerian Appeals Court in Abuja discharged and acquitted him, but the lawless government of Nigeria refused to release him.\n“Also, the UN committee on Arbitrary Detention condemned the abduction, extraordinary rendition, and illegal detention of Mazi Nnamdi Kanu and called for his unconditional release. All these resolutions and court judgments have been disobeyed by the same lawless Federal Government of Nigeria. The Nigerian government and her cronies know that Mazi Kanu has not committed any crime known to local or international body, but continue to display their ethnic hatred against Ndigbo by persecuting Mazi Nnamdi Kanu.\n“He has not been let go because he has not compromised his stand on Biafra, and IPOB has not been destroyed. Mazi Nnamdi Kanu is being persecuted, not prosecuted.\n“The Nigerian government should understand that IPOB can not be destroyed but can only be emboldened as long as the lawless Nigerian government keeps persecuting us. More so, our leader Mazi Nnamdi Kanu understands the potency of our collective oath in this struggle and will not yield to the Nigerian government’s antics.\n“The International Community must rise and condemn the continuous persecution and human rights violations of Mazi Nnamdi Kanu and Ndigbo in general by the bigot government of Nigeria. We are assuring the Nigerian government that IPOB can not be intimidated into abandoning the Biafra struggle. They must be reminded that Mazi Nnamdi Kanu’s continuous persecution will further expose the mockery of the so-called democracy in Nigeria.\n“The Nigeria Government should not forget that since they kidnap and extraordinary renditioned Mazi Nnamdi Kanu, Nigeria has been bedevilled with economic and security woes and will continue until the injustice against Ndigbo as exemplified in the persecution of Mazi Nnamdi Kanu is addressed.\n“IPOB and Mazi Nnamdi Kanu remain resolute in our demand for a referendum and will not be intimidated and persecuted into submission by the tyranny of the government of Nigeria . In the end, Biafra will come, but the wounds of the persecution and wickedness against Ndigbo will take decades to heal. Nigeria must consider the future with the wound it inflicted on Biafrans in mind.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nnamdi Kanu",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "South East zone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Abia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:48:20.792+03:00",
+    "updated": "2024-10-25T00:48:20.792+03:00"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "uuid": "8cf71ba16f8e2daea959d3b67fa7e441e85b13e3",
+    "url": "https://www.dlnews.com/articles/defi/restaking-protocol-karak-draws-136-million-in-deposits",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Celaj",
+    "published": "2024-04-11T20:31:00Z",
+    "title": "Karak — now valued at $1bn — challenges EigenLayer in restaking sector – DL News",
+    "text": "- Karak’s $48 million Series A funding round values the EigenLayer competitor at over $1 billion. - Karak reached over $136 million in crypto assets deposited, aiming to offer users more assets and blockchains to restake with. - Users can earn Karak XP, in addition to rewards from partner protocols, for restaking with Karak. In a move that challenges the dominance of EigenLayer in the restaking sector — which has grown to over [$14 billion](https://defillama.com/protocols/restaking) in crypto assets deposited — Karak’s private access went live on [Tuesday](https://x.com/Karak_Network/status/1777370928185549074), with [$136 million](https://defillama.com/protocol/karak#information) in deposits since. The surge in deposits may be explained by Karak’s [XP campaign](https://x.com/Karak_Network/status/1777370935299060067), where users are rewarded with XP, commonly referred to as points, for tasks like depositing with Karak or referring friends. XP is distributed by protocols to incentivize specific user behaviours, and it may culminate in an airdrop with a conversion of points to tokens. Lately, airdrops have attracted lots of attention, as protocols that announce them [experience surges](https://www.dlnews.com/articles/web3/friendtechs-potential-500m-airdrop-sees-users-pile-in/) in user activity. [Wormhole](https://www.dlnews.com/articles/defi/bad-kids-nft-holders-miss-out-on-wormhole-token-airdrop/) and Tensor have already carried out airdrops in April, and [Parcl](https://www.dlnews.com/articles/defi/solana-project-parcl-to-convert-points-to-tokens-in-april/), Kamino, and Swell are expected to do so [within the month](https://www.dlnews.com/articles/defi/swell-wormhole-tensor-kamino-and-parcl-will-airdrop-in-april/). Karak, like EigenLayer, is a restaking protocol, meaning it enables assets like staked Ether to be staked again with validators across multiple networks. That enables the validators to earn additional rewards and allow the networks to inherit Ethereum’s security. Validators are users who earn rewards from blockchains in return for verifying transactions on those blockchains. A protocol that uses EigenLayer’s restaked assets to enhance security is called an “actively validated service,” or [AVS](https://docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide#what-is-an-avs), while one that employs Karak’s restaked assets for this purpose is known as a “distributed secure service,” or [DSS](https://docs.karak.network/karak#distributed-secure-services-dss). The first AVS went live on [Tuesday](https://x.com/eigen_da/status/1777763654869672102) alongside EigenLayer’s mainnet launch, with six more launching [today](https://x.com/eigenlayer/status/1778486504542597480). Karak is planning to unveil the first DSS in the [coming weeks](https://docs.karak.network/karak#distributed-secure-services-dss). On Monday, Karak [announced](https://twitter.com/Karak_Network/status/1777370923605381396) it raised a $48 million Series A funding round, catapulting its valuation to over $1 billion. With this latest round of funding, the protocol has not only secured backing from industry giants like [Coinbase](https://www.coinbase.com/) and [Digital Currency Group](https://dcg.co/), but has also attracted an investment from [Mubadala Capital](https://www.mubadala.com/en/), a $280 billion sovereign wealth fund in Abu Dhabi. How Karak sets itself apart While maintaining the ability for users to restake on the Ethereum mainnet, similar to EigenLayer, Karak goes further by incorporating [Arbitrum](https://defillama.com/chain/Arbitrum), Ethereum’s largest layer 2, and its own [Karak Network](https://defillama.com/chain/Karak%20Network) into its [restaking options](https://docs.karak.network/karak/general/general-faq#what-networks-does-karak-currently-support-restaking-on). The protocol extends the scope of restakable assets to include Ether, a variety of liquid staked Ether, and stablecoins, expanding the options available to users. This expanded approach is proving to be effective. Stablecoins, for instance, make up about 17% or [$22.4 million](https://defillama.com/protocol/karak#tvl-charts), of Karak’s total restaked assets. Overall, of the [$136 million](https://defillama.com/protocol/karak#tvl-charts) restaked through Karak, $66.4 million is on the Karak Network, $59.4 million on Ethereum, and $7.79 million on Arbitrum. Karak hasn’t announced when, or if, XP will be converted to tokens, or how long the XP campaign will continue for. Still, airdrop farmers — users aiming to accumulate as many points as possible in anticipation of a future airdrop — have continued to flock to the protocol, with deposits reaching $52 million in just the last 24 hours. Ryan Celaj is a data correspondent at DL News. Got a tip? Email him at [ryan@dlnews.com](mailto:ryan@dlnews.com).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://x.com/eigenlayer/status/1778486504542597480).",
+      "https://defillama.com/protocols/restaking)",
+      "https://x.com/eigen_da/status/1777763654869672102)",
+      "https://defillama.com/chain/Karak%20Network)",
+      "https://defillama.com/protocol/karak#tvl-charts)",
+      "https://docs.karak.network/karak#distributed-secure-services-dss).",
+      "https://defillama.com/chain/Arbitrum),",
+      "https://x.com/Karak_Network/status/1777370935299060067),",
+      "https://dcg.co/),",
+      "https://defillama.com/protocol/karak#information)",
+      "https://docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide#what-is-an-avs),",
+      "https://twitter.com/Karak_Network/status/1777370923605381396)",
+      "https://www.mubadala.com/en/),",
+      "https://docs.karak.network/karak/general/general-faq#what-networks-does-karak-currently-support-restaking-on).",
+      "https://x.com/Karak_Network/status/1777370928185549074),",
+      "https://defillama.com/protocol/karak#tvl-charts),",
+      "https://www.coinbase.com/)",
+      "https://www.defillama.com/protocols/restaking)",
+      "https://www.docs.karak.network/karak/general/general-faq#what-networks-does-karak-currently-support-restaking-on).",
+      "https://www.defillama.com/protocol/karak#information)",
+      "https://www.dcg.co/),",
+      "https://www.defillama.com/protocol/karak#tvl-charts)",
+      "https://mubadala.com/en/),",
+      "https://www.docs.eigenlayer.xyz/eigenlayer/avs-guides/avs-developer-guide#what-is-an-avs),",
+      "https://www.x.com/Karak_Network/status/1777370935299060067),",
+      "https://www.defillama.com/protocol/karak#tvl-charts),",
+      "https://www.twitter.com/Karak_Network/status/1777370923605381396)",
+      "https://www.defillama.com/chain/Karak%20Network)",
+      "https://www.docs.karak.network/karak#distributed-secure-services-dss).",
+      "https://www.x.com/Karak_Network/status/1777370928185549074),",
+      "https://www.x.com/eigen_da/status/1777763654869672102)",
+      "https://coinbase.com/)",
+      "https://www.defillama.com/chain/Arbitrum),",
+      "https://www.x.com/eigenlayer/status/1778486504542597480)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "karak",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T02:18:59.903+03:00",
+    "updated": "2024-04-12T02:18:59.903+03:00"
+  },
+  {
+    "uuid": "1151bd0b5e8a22329a430e15e22a75bfee3ffad5",
+    "url": "https://thedailyguardian.com/pm-distributes-loans-to-vendors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TheDailyGuardian",
+    "published": "2024-03-14T17:24:00Z",
+    "title": "PM distributes loans to vendors",
+    "text": "[+](javascipt:void(0);)\nMoney transferred directly to the account of 1 lakh street vendors\nPrime Minister Narendra Modi addressed the beneficiaries of PM SVANidhi scheme at JLN Stadium in Delhi today and distributed loans to 1 lakh street vendors (SVs) including 5,000 SVs from Delhi as part of the scheme. He handed over PM SVANidhi loan cheques to five beneficiaries. The Prime Minister also laid the foundation stone of two additional corridors of Delhi Metro’s Phase 4.\nAddressing the gathering, the Prime Minister acknowledged the presence of lakhs of street vendors linked to the event through video conferencing from 100s of cities. Remembering the strength of street vendors during the pandemic, the Prime Minister underlined their importance in everyday life. The Prime Minister said that money has been transferred directly to the account of 1 lakh street vendors all over the country and to top it all, two additional corridors of Delhi Metro: Lajpat Nagar – Saket-G Block and Inderlok – Indraprastha were also launched today.\nThe Prime Minister acknowledged the lakhs of street vendors in the country who take care of the needs of their families with their hard work and self-respect. PM Modi underlined that even though their vending carts and shops might be small, their dreams are huge. He pointed out that the governments of the past did not take any interest in the welfare of street vendors which led to them facing disrespect and hardships.\nHe observed that their need for funds was fulfilled by high-interest loans while untimely payments caused further disrespect and even higher interest rates. He also noted that they had no access to banks as they did not hold any loan guarantees. In such cases, availing bank loans had become impossible due to no bank accounts and the absence of business records. “Previous governments did not pay any heed to the needs of street vendors, nor did they make any effort to tackle their issues”, PM Modi said.\n“This servant of yours has come out of poverty. I have lived in poverty. That is why those who have not been cared for by anyone, they were not only cared for but have been worshiped by Modi”, said the Prime Minister. He further said, those who did not have anything to give guarantee as collateral were assured of Modi’s Guarantee.\nHe also praised the integrity of street vendors. He said that loans worth 10,20 and 50 thousand are being provided to street vendors depending upon their records and use of digital transactions. Up till now, 62 lakh beneficiaries have received assistance worth Rs 11,000 crores. He expressed delight that more than half of the beneficiaries are women.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "narendra modi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi metro",
+          "sentiment": "none"
+        },
+        {
+          "name": "jln stadium",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:57:47.738+02:00",
+    "updated": "2024-03-15T00:57:47.738+02:00"
+  },
+  {
+    "uuid": "e614bcd22af9e61ee69715320e6d5388204f3267",
+    "url": "https://www.app.com.pk/domestic/kmc-launches-repair-illumination-of-streetlights-alongside-construction-of-roads-mayor-karachi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kamran Muraad",
+    "published": "2024-10-03T17:12:00Z",
+    "title": "KMC launches repair, illumination of streetlights alongside construction of roads: Mayor Karachi",
+    "text": "KARACHI, Oct 03 (APP):Mayor Karachi Barrister Murtaza Wahab said that the Karachi Metropolitan Corporation (KMC) has begun the process of repairing and illuminating streetlights alongside the construction of roads. In a statement on Thursday, he said that this initiative will be gradually implemented across all seven districts of Karachi. The engineering department has been instructed to maintain the street lights on 106 roads in proper condition and to monitor them regularly. Soon, like the KMC’s head office, the streetlights on major roads will also be converted to a solar panel system to ensure they remain lit despite power outages from K-Electric, he said. The Mayor emphasized a zero-tolerance policy regarding Karachi’s infrastructure, roads, and street lights, asserting that there will be no compromise on the quality of work. He instructed the Director General of the Engineering Department to form teams that will conduct daily inspections of the roads and maintain the streetlights. He mentioned that streetlights on major roads in District South, such as Shahrah-e-Ghalib, Marine Drive, Clifton Bridge, Mai Kolachi Road, MT Khan Road, MA Jinnah Road, Nishtar Road, Steel Bridge, and Jinnah Bridge near Regent Plaza, have been fully restored. Additionally, work is being done in phases to repair streetlights on Shahrah-e-Liaquat, I.I. Chundrigar Road, Dr. Ziauddin Ahmed Road, PIDC Chowrangi, Agha Khan Road, Garden Zoo Road, Bath Island, Ghulam Hussain Hidayatullah Road, Mumtaz Hasan Road, Hasrat Mohani Road, Kacheri Road, and Preedy Street in Saddar, he said. He said that the illumination of streetlights would also help reduce street crime and improve traffic flow and also instructed the Parks Department to illuminate the streetlights in parks and install high-mast lighting poles in major parks across Karachi. He mentioned that the experience of keeping streetlights illuminated at Kidney Hill using solar panels has been successful, and very soon, solar panel systems will be installed in 45 major parks to facilitate their illumination alongside the roads. The Mayor expressed his desire for KMC to become self-sufficient in terms of electricity supply, managing the provision of electricity for all parks, markets, roads, and buildings independently. He acknowledged that while this target is challenging, it is not impossible and that they would achieve it soon. By using solar panels for electricity supply, not only will the roads, parks, and buildings be illuminated, but KMC will also save millions in expenses.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Environment",
+      "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Murtaza Wahab",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "KMC",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Engineering Department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "District South",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T04:34:15.040+03:00",
+    "updated": "2024-10-04T04:34:15.040+03:00"
+  },
+  {
+    "uuid": "1504974752e80a0ee811cd996dc608ada64fcf70",
+    "url": "https://www.boston25news.com/news/national/why-tiktokers-have/QNJ4XRFCIHLL5WCB4PSU5PVFC4/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kelsey Weekman, Yahoo News",
+    "published": "2023-12-28T17:38:00Z",
+    "title": "Why TikTokers have been looking forward to Gypsy Rose Blanchard's release from prison – Boston 25 News",
+    "text": "By Kelsey Weekman, Yahoo News December 28, 2023 at 12:38 pm EST By Kelsey Weekman, Yahoo News December 28, 2023 at 12:38 pm EST TikTok and X (formerly Twitter) users have been clamoring for the release of 32-year-old Gypsy Rose Blanchard, who served seven years in prison for her role in the 2016 killing of her mother before her release on Dec. 28 . Posts calling her \"queen\" and \"mother\" appeared on social media, where fans are treating her with an enthusiasm usually reserved for pop stars.\nAccording to a post from her stepsister Mia Blanchard, family members maintained social media accounts for Gypsy while she was behind bars, including a TikTok account with nearly 500,000 followers. People are eager to see how she will acclimate to freedom, and whether she'll become a social media star herself.\nWho is Gypsy Rose Blanchard and what did she do?\nGypsy is believed to have been a victim of child abuse through Munchausen syndrome by proxy , a psychological disorder in which a caretaker makes someone ill (or creates the illusion that they are ill) to get attention. She said that throughout her childhood, her mother, Clauddine \"Dee Dee\" Blanchard, took her to doctors to have her treated for conditions — including leukemia and muscular dystrophy — that she never actually had. She said she was forced to use a wheelchair and oxygen tank, even though she required neither.\nDoctors expressed concern about Gypsy's treatment beginning in 2007 , but she remained in Dee Dee's care. She unsuccessfully attempted escape in 2011, and after meeting then-boyfriend Nicholas Godejohn online in 2012 and speaking with him for a few years, she planned to escape with him.\nGodejohn stabbed Dee Dee to death in 2016. Her body was discovered thanks to a Facebook post announcing the attack, which remains online to this day. Gypsy was sentenced in 2016 to 10 years in prison after pleading guilty to her role in the attack, and Godejohn received a life sentence in 2018 for first-degree murder.\nThe 2017 HBO documentary Mommy Dead and Dearest helped publicize Gypsy's case. In 2019, Joey King and Patricia Arquette portrayed Gypsy and Dee Dee for the popular Hulu limited series The Act , which was nominated for two Emmy Awards .\nThese moments in pop culture, combined with coverage in countless articles , true-crime podcasts , YouTube videos and TikTok explainers that have garnered millions of views have ensured that Gypsy's story is well-known and discussed often. Throughout her prison sentence, she has given multiple interviews expressing her remorse and desire to move past what she's done. She wrote a book called \"Released: Conversations on the Eve of Freedom\" that will be published in January.\nWhy does Gypsy Rose Blanchard have so many fans? Because Gypsy's case is so frequently discussed, she's become a bona fide pop culture figure. Even Pop Crave , the X account dedicated to disseminating information about celebrities, has been posting updates about Gypsy's release, soliciting responses like \"mother\" (a slang term used to describe a beloved famous woman ) and \"reputation era incoming\" (a reference to Taylor Swift's vengeance-inspired album ).\nPeople looking forward to her release have been posting fan edits, or videos of Gypsy set to music, as they would for someone like Nicki Minaj or a K-Pop idol . Some users jokingly posted plans for a \"release party\" and discussed what cultural moments they hope she'll experience as a free woman.\n\"She served so hard … can't wait for her to strut down the streets on Dec 28,\" one user captioned a video of Gypsy testifying in court. \"Literally on my way to Gypse (sic) Rose prison so she has a ride home,\" another wrote .\nGypsy's stans may have seen the mass reconsideration of pop culture icons who once drew misogynistic ire from tabloids, like Britney Spears and Pamela Anderson, and chosen to get ahead of the curve by throwing their support behind her. It's also possible that those fans have been affected by the recent true-crime reckoning , which questioned how brutal tragedy has become entertainment at the expense of victims but sympathized with Gypsy's violent response to years of abuse. Maybe Gypsy is drawing ironic support from the same people who support convicted fraudsters like Anna Delvey and Elizabeth Holmes.\nEach fan may have a different reason for supporting Gypsy, but there are still a number of people who are worried about the behavior. Some social media users expressed concern about the level of fandom building for Gypsy before she’s even had time to acclimate to life outside of prison.\n\"When Miss Blanchard gets released, I need y'all to be normal. Please do not give this girl … a heart attack. Remember how long she's been locked behind bars,\" TikToker @zacefronisdead wrote in a post. \"please leave gypsy rose blanchard alone she is a victim of abuse and has been failed by our justice system like shes not yas slay boots c*** shes a real woman who has REAL IRREVERSIBLE life trauma like can we behave that way,\" X user @SwintyMinty posted .\ni tell u now the gen z response to the release of gypsy rose is going to be studied in history books for years to come pic.twitter.com/48kSL5hlUB\n— jade (@itsjustjadaxo) December 26, 2023 Just before her release, Gypsy told People that she regrets what she did to her mother every day. She didn't say anything about her fans or what might be waiting for her on social media — just that she's \"on the eve of happiness.\"\n\"I'm ready for freedom,\" she said. \"I'm ready to expand, and I think that goes for every facet of my life.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://twitter.com/PopCrave/status/1737839368491213245?s=20",
+      "https://www.tiktok.com/@zacefronisdead/video/7314697999865728299",
+      "https://www.tiktok.com/@nickji.minaij/video/6971518642454400261?q=nicki%20minaj%20fancam&t=1703776941804",
+      "https://www.tiktok.com/@fall.in.love_/video/7311003841418333446?q=fan%20cam&t=1703776686147",
+      "https://www.nytimes.com/2022/03/31/arts/women-reconsidered-celebrities-90s-noughties.html",
+      "http://www.youtube.com/watch?v=VTKCmJi9cJE",
+      "https://www.tiktok.com/@nmillz1/video/7313671209604910378",
+      "https://www.yahoo.com/entertainment/gypsy-rose-blanchard-released-10-125750961.html",
+      "https://www.yahoo.com/gma/gypsy-rose-blanchard-released-prison-111246117.html",
+      "https://news.yahoo.com/gypsy-rose-blanchard-released-prison-153915857.html",
+      "https://www.tiktok.com/@gypsyroseblanchard727/video/7311805462142340394",
+      "https://www.tiktok.com/@idetectiveauthor/video/7313230397591244078?lang=en",
+      "https://www.barnesandnoble.com/w/book/1144478732",
+      "https://www.buzzfeednews.com/article/michelledean/dee-dee-wanted-her-daughter-to-be-sick-gypsy-wanted-her-mom",
+      "https://dk79lclgtez2i.cloudfront.net/O7nD2ZH?app=1",
+      "https://www.nytimes.com/2021/10/28/opinion/true-crime-petito.html",
+      "https://www.tiktok.com/@gypsyroseblanchard727",
+      "https://x.com/BRXTPRTYSS/status/1737841094891876449?s=20",
+      "https://www.tiktok.com/@menace.ediz/video/7315193513627471150",
+      "https://twitter.com/SwintyMinty/status/1737914182069272787?s=20",
+      "https://t.co/48kSL5hlUB",
+      "https://www.hbo.com/movies/mommy-dead-and-dearest",
+      "https://www.tiktok.com/@clyqtok/video/7315215533710773535",
+      "https://www.hulu.com/series/the-act-8cc910fe-b59e-46a5-9966-16c4e0ed208d",
+      "https://www.tiktok.com/@elirallo/video/7314863741986721070",
+      "https://x.com/jdav8457/status/1737840118818648088?s=20",
+      "http://www.youtube.com/watch?v=YpbZxsMDmrQ",
+      "https://www.tiktok.com/@twddeditzvs/video/7315453570562657568",
+      "https://open.spotify.com/episode/63xizY4mSdWAG7Ts6a71V8",
+      "https://www.news-leader.com/story/news/crime/2023/12/19/social-media-accounts-promote-gypsy-rose-blanchard-book-released/71966263007/",
+      "https://twitter.com/itsjustjadaxo/status/1739576480881938446?ref_src=twsrc%5Etfw",
+      "https://www.healthline.com/health/munchausen-syndrome-by-proxy",
+      "https://dk79lclgtez2i.cloudfront.net/jk51xpX?app=1",
+      "https://dk79lclgtez2i.cloudfront.net/n5LJ2cr?app=1",
+      "https://www.nytimes.com/2023/05/13/style/mother-internet-slang-lgbtq.html",
+      "https://www.tiktok.com/@lulidnl/video/7316141562352651553?q=gypsy%20rose&t=1703601497750",
+      "https://www.yahoo.com/news/gypsy-rose-blanchards-release-prison-201204085.html",
+      "https://www.strikemagazines.com/blog-2-1/the-reputation-era-your-version-s3nex",
+      "https://www.tiktok.com/@mia.blanchard/video/7285828141954665758",
+      "https://www.emmys.com/shows/act",
+      "https://www.refinery29.com/en-us/female-scammers-became-accidental-girlboss-heroes",
+      "https://www.tiktok.com/@fall.in.love_/video/7311003841418333446",
+      "http://youtube.com/watch?v=YpbZxsMDmrQ",
+      "https://news-leader.com/story/news/crime/2023/12/19/social-media-accounts-promote-gypsy-rose-blanchard-book-released/71966263007/",
+      "https://dk79lclgtez2i.cloudfront.net/n5LJ2cr",
+      "https://twitter.com/PopCrave/status/1737839368491213245",
+      "https://healthline.com/health/munchausen-syndrome-by-proxy",
+      "https://tiktok.com/@mia.blanchard/video/7285828141954665758",
+      "https://www.news.yahoo.com/gypsy-rose-blanchard-released-prison-153915857.html",
+      "https://www.dk79lclgtez2i.cloudfront.net/n5LJ2cr?app=1",
+      "https://www.dk79lclgtez2i.cloudfront.net/jk51xpX?app=1",
+      "http://youtube.com/watch?v=VTKCmJi9cJE",
+      "https://www.tiktok.com/@lulidnl/video/7316141562352651553",
+      "https://tiktok.com/@elirallo/video/7314863741986721070",
+      "https://tiktok.com/@fall.in.love_/video/7311003841418333446?q=fan%20cam&t=1703776686147",
+      "https://dk79lclgtez2i.cloudfront.net/O7nD2ZH",
+      "https://www.open.spotify.com/episode/63xizY4mSdWAG7Ts6a71V8",
+      "https://www.x.com/jdav8457/status/1737840118818648088?s=20",
+      "https://nytimes.com/2023/05/13/style/mother-internet-slang-lgbtq.html",
+      "https://tiktok.com/@twddeditzvs/video/7315453570562657568",
+      "https://tiktok.com/@nmillz1/video/7313671209604910378",
+      "https://www.x.com/BRXTPRTYSS/status/1737841094891876449?s=20",
+      "https://buzzfeednews.com/article/michelledean/dee-dee-wanted-her-daughter-to-be-sick-gypsy-wanted-her-mom",
+      "https://nytimes.com/2021/10/28/opinion/true-crime-petito.html",
+      "https://hulu.com/series/the-act-8cc910fe-b59e-46a5-9966-16c4e0ed208d",
+      "https://www.t.co/48kSL5hlUB",
+      "https://x.com/jdav8457/status/1737840118818648088",
+      "https://tiktok.com/@gypsyroseblanchard727",
+      "https://hbo.com/movies/mommy-dead-and-dearest",
+      "https://tiktok.com/@clyqtok/video/7315215533710773535",
+      "https://nytimes.com/2022/03/31/arts/women-reconsidered-celebrities-90s-noughties.html",
+      "https://yahoo.com/gma/gypsy-rose-blanchard-released-prison-111246117.html",
+      "https://yahoo.com/entertainment/gypsy-rose-blanchard-released-10-125750961.html",
+      "https://www.tiktok.com/@nickji.minaij/video/6971518642454400261",
+      "http://www.youtube.com/watch",
+      "https://barnesandnoble.com/w/book/1144478732",
+      "https://tiktok.com/@gypsyroseblanchard727/video/7311805462142340394",
+      "https://tiktok.com/@zacefronisdead/video/7314697999865728299",
+      "https://tiktok.com/@lulidnl/video/7316141562352651553?q=gypsy%20rose&t=1703601497750",
+      "https://yahoo.com/news/gypsy-rose-blanchards-release-prison-201204085.html",
+      "https://emmys.com/shows/act",
+      "https://strikemagazines.com/blog-2-1/the-reputation-era-your-version-s3nex",
+      "https://tiktok.com/@nickji.minaij/video/6971518642454400261?q=nicki%20minaj%20fancam&t=1703776941804",
+      "https://www.twitter.com/PopCrave/status/1737839368491213245?s=20",
+      "https://dk79lclgtez2i.cloudfront.net/jk51xpX",
+      "https://twitter.com/SwintyMinty/status/1737914182069272787",
+      "https://refinery29.com/en-us/female-scammers-became-accidental-girlboss-heroes",
+      "https://twitter.com/itsjustjadaxo/status/1739576480881938446",
+      "https://www.twitter.com/itsjustjadaxo/status/1739576480881938446?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/SwintyMinty/status/1737914182069272787?s=20",
+      "https://tiktok.com/@idetectiveauthor/video/7313230397591244078?lang=en",
+      "https://tiktok.com/@menace.ediz/video/7315193513627471150",
+      "https://www.dk79lclgtez2i.cloudfront.net/O7nD2ZH?app=1",
+      "https://www.news-leader.com/story/news/crime/2023/12/19/social-media-accounts-promote-gypsy-rose-blanchard-book-released/71966263007",
+      "https://x.com/BRXTPRTYSS/status/1737841094891876449",
+      "https://www.tiktok.com/@idetectiveauthor/video/7313230397591244078"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kelsey weekman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gypsy rose blanchard",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gypsy",
+          "sentiment": "none"
+        },
+        {
+          "name": "mia blanchard",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "boston",
+          "sentiment": "negative"
+        },
+        {
+          "name": "yahoo news",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "decemb",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:03:05.853+02:00",
+    "updated": "2023-12-29T00:03:05.853+02:00"
+  }
+]

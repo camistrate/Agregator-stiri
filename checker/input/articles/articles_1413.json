@@ -1,0 +1,157 @@
+[
+  {
+    "uuid": "f727f46ccf8a748955587b61f70e9cd561905570",
+    "url": "https://eng.pw.edu.pl/News/Artificial-intelligence-in-the-fight-for-healthy-lungs-the-xLungs-system",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Warsaw University of Technology",
+    "published": "2024-07-19T00:00:00Z",
+    "title": "Artificial intelligence in the fight for healthy lungs – the xLungs system / News / Home - Warsaw University of Technology",
+    "text": "Artificial intelligence in the fight for healthy lungs – the xLungs system Advanced work is underway by scientists from the Faculty of Mathematics and Information Science of the Warsaw University of Technology on a system that will improve the diagnosis and monitoring of lesions within the chest. The xLungs project aims to support doctors, for example pulmonologists and radiologists, in the analysis of CT scans. The developed artificial intelligence models can not only detect, but also very accurately describe lesions. Importantly, xLungs is easy to integrate with existing systems already used by clinicians. The project manager and leader of the MI2.AI team is Prof. Przemysław Biecek. Imaging tests play a key role in the diagnosis of lung diseases. The aim of the project entitled “Trustworthy artificial intelligence supporting the identification of lesions in the lungs based on imaging data” is to support the process of identifying lesions visible on lung CT scans and X-rays. WUT scientists use the capabilities of artificial intelligence to facilitate the process of interpreting their results, which can be a challenge even for experienced radiologists and currently available algorithms. It turns out that language models, such as GPT, are also helpful in the analysis of descriptive data accompanying chest CT scans. They can extract structured information from available historical descriptions of CT scans, and this information can then be used to train models that recognise specific lesions, such as tumours or emphysema. Integrating computer vision models with text-based models allows for the automation of the process of manually describing results. The researchers are working on an information system based on artificial intelligence (AI) and a user interface that allows a radiologist to converse with an AI module. AI models need large databases. In the case of xLungs, training is conducted on a corpus of 40 TB (terabytes) of imaging data, covering different subpopulations, from lung cancer screening to paediatric imaging data. Three unique datasets have been developed specifically for this project and in consultation with doctors, which will also be made available to other research teams working on models for the diagnosis of chest diseases. How will AI help in the diagnosis of lung cancer? A unique feature of the tool is a reliable artificial intelligence module that will reduce the time of image analysis needed to detect changes and make the image evaluation process more transparent. The system has been developed to allow the base model to be expanded with modules that detect a wide range of features. The AI module will also provide image and text explanations that will enable the tracing of the decision-making path behind a specific diagnosis, and will also be verified in terms of effective cooperation with a radiologist. All this is to ensure transparency and full security of treatment recommendations. The project involves a multidisciplinary team of experts: specialists in software engineering, artificial intelligence, explainable machine learning, data visualisation and radiology. The scientists work alongside the Polish Lung Cancer Group and the Children's Clinical Hospital in Warsaw. - Training AI models is a colossal challenge, not only organisationally, but also from the engineering point of view. The data has a huge volume – 40 TB in its compressed form. To train the model, you need enormous computing power – so far we have used over 180,000 hours of work of advanced computing processes such as A100 GPU cards. A single case is a three-dimensional matrix with the dimensions of 500x500x300 pixels. The scale of our project is unique, the PLIST dataset that we’re working on will be the largest publicly available database of chest CT scans in the world. The first version of the models has already been developed and tested, and we are currently looking for more medical partners to cooperate on testing, implementation and further development of the system - says Prof. Biecek, research project manager. The “Trustworthy artificial intelligence supporting the identification of lesions in the lungs based on imaging” (XLUNGS) project is financed by Poland’s National Centre for Research and Development (NCBR) as part of the INFOSTRATEG I competition, and its value is PLN 5,755,000. - The Infostrateg project allowed for the establishment of a unique and very diverse research team. We have leading experts in radiology and pulmonology who advise us on the medical side. We have great software engineers who develop IT tools, designers who create AI models, and specialists in model explanation who make sure that the model does not learn erroneous correlations. The results of our team’s work are presented at leading IT conferences such as ECCV, ECAI and MICCAI. At this stage, we plan to bring these developed innovative models as close as possible to clinical practice - adds Prof. Biecek. At the beginning of July, the NCBR Steering Committee published an assessment of the reports after phase II of project implementation. The efforts of WUT scientists have been appreciated and positively evaluated, so they can move on to the next phase – the implementation of the research project. The work will carry on until the end of June 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "przemysław biecek",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "news / home - warsaw university of technology artificial",
+          "sentiment": "negative"
+        },
+        {
+          "name": "warsaw university of technology",
+          "sentiment": "none"
+        },
+        {
+          "name": "faculty of mathematics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T13:47:39.277+03:00",
+    "updated": "2024-07-19T13:47:39.277+03:00"
+  },
+  {
+    "uuid": "27d7013f1c35e07d30307c3687f0a2e4ff75189a",
+    "url": "https://information.tv5monde.com/economie/allemagne-les-salaries-de-volkswagen-appeles-la-greve-partir-de-lundi-syndicat-2750934",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-12-01T10:18:00Z",
+    "title": "Allemagne: les salari\\u00e9s de Volkswagen appel\\u00e9s \\u00e0 la gr\\u00e8ve \\u00e0 partir de lundi (syndicat)",
+    "text": "[Back to top](#skip-link)\nLogo du constructeur automobile allemand Volkswagen, lors du salon de l'automobile à Paris, le 16 octobre 2024\nLes salariés de Volkswagen sont appelés à cesser le travail à partir de lundi dans les usines allemandes pour s'opposer aux milliers de suppressions d'emplois envisagées, a annoncé dimanche le syndicat IG Metall.\n\"Si nécessaire, ce sera la bataille de négociation collective la plus dure que Volkswagen ait jamais connue\", prévient dans un communiqué le négociateur du syndicat, Thorsten Gröger, à l'issue de la période de dialogue social obligatoire pour 120.000 employés de la marque en Allemagne.\nVendredi, le constructeur, qui prépare un plan drastique d'économies, avait rejeté une contre-proposition syndicale visant à réduire les coûts sans avoir à fermer d'usines en Allemagne, laissant augurer d'un durcissement du dialogue social.\n\"Des grèves d'avertissement commenceront lundi dans toutes les usines\", indique M. Gröger, qui tient la direction \"responsable, à la table des négociations, de la durée et de l'intensité de cet affrontement\".\nDans un communiqué séparé, Volkswagen a dit \"respecter\" le droit des salariés à participer à une grève d'avertissement\" et dit croire en la poursuite d'un \"dialogue constructif\" pour \"parvenir à une solution durable et soutenue collectivement\".\nL'entreprise précise avoir \"anticipé des mesures ciblées pour sécuriser l'approvisionnement d'urgence\" pendant le mouvement, et ce afin de \"limiter autant que possible\" son impact \"sur nos clients, nos partenaires et nos installations industrielles\".\nAlors que Volkswagen a annoncé en septembre travailler sur un programme pour redresser sa compétitivité, les discussions en cours entre la direction et les responsables syndicaux, en vertu du principe de cogestion, n'ont pas permis de trouver d'accord sur les mesures de restructuration.\nLes représentants des salariés avaient présenté en novembre une contre-proposition incluant la suspension de bonus, d'augmentations de salaires, un allègement du temps de travail, permettant, selon eux, d'éviter fermetures d'usines en Allemagne et licenciements en masse.\nMais cette offre n'a pas été jugée viable par la direction.\nLes représentants du personnel affirment qu'au moins trois usines Volkswagen risquent de fermer en Allemagne et que des dizaines de milliers d'emplois pourraient être supprimés, les employés restants devant consentir à des réductions de salaire.\nDans le pays, Volkswagen compte dix sites de production de voitures et environ 300.000 salariés, dont 120.000 pour la marque VW, la plus concernée par le plan d'économies.\nFleuron de l'industrie automobile allemande, Volkswagen souffre à la fois du ralentissement du marché des véhicules neufs, de la concurrence chinoise, de modèles à batterie pas assez attractifs, et de coûts de main d’œuvre plus élevés que ses rivaux, selon les experts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-01T14:45:25.133+02:00",
+    "updated": "2024-12-01T14:45:25.133+02:00"
+  },
+  {
+    "uuid": "7e83f2fee240ef3a4a39fac814df2ee10fc0e843",
+    "url": "https://vietnamnet.vn/en/local-fish-sauce-used-at-five-star-resort-2259530.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VietNamNet News",
+    "published": "2024-03-14T22:00:00Z",
+    "title": "Local fish sauce used at five-star resort",
+    "text": "Local fish sauce used at five-star resort\nChef Doãn Văn Tuấn serves a dish with Nam Ô village fish sauce at Furama resort's kitchen. It's the first time a locally-made fish sauce is used at a luxury resort. Photo courtesy of Doãn Văn Tuấn\nGeneral director of Indochina beach hotel joint-stock company Trần Đức Quỳnh said the fish sauce brand ‘Hương Làng Cổ’ (Ancient Village Savour) was qualified for official use by the executive chef of the resort at cuisine events in early March.\nHe said the authentic sauce helps create a unique and unforgettable cultural experience for international and Vietnamese travellers in Đà Nẵng.\nNguyễn Thái Nhật Huy, marketing and sales representative of the fish sauce brand, said the family would reserve 600 litres of the two-year-old fermented fish sauce for Furama’s kitchen use in 2024.\nHuy said all premium fish sauce would be stored in oak barrels for the best taste and flavour.\nExecutive chef at Furama, Doãn Văn Tuấn, said he emphasised using traditional local ingredients and materials in his course on Việt Nam’s cuisine art.\n“The ‘Ancient Village Savour’ fish sauce brand features the unique taste of fishing communities in Đà Nẵng. The mixture of qualified fish sauce and other ingredients in cooking would bring memorable satisfaction for gastronomes visiting Đà Nẵng,” Tuấn said.\nHe also said Nam Ô village fish sauce bottles can serve as gifts for visitors.\nBùi Văn Phú, an owner of ‘Ancient Village Savour’ family, said the premium fish sauce, which has preserved the 1958 seal of quality, has not yet been officially exported, but it has been used by overseas Vietnamese in the US, Australia and Europe.\nPhú said his family alone produces 20,000 litres per year, out of a total 200,000 litres capacity among more than 100 households in the village.\nThe fish sauce brand is currently sold at the Go supermarket under the Central Retail Corporation in downtown Đà Nẵng, making it the first made-in-Đà Nẵng fish sauce on sale at a supermarket.\nThe fish sauce trade of Nam Ô Village was also recognised as a National Intangible Heritage by the Ministry of Culture, Sports and Tourism in 2019, and the village has become an eco-tour and craft destination.\nLast year, the fish sauce brand was the only representative product of the central city participating in Foodex-Japan 2023, the largest international food and beverage exhibition in Asia.\nRecently, Nam Ô fish sauce coffee, a coffee topped with concentrated dried fish sauce powder, was introduced as an innovative and diversified marketing toolat local fairs and craft tours in the village. VNS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://vads.net.vn/Ad?z=11&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad?z=12&w=1&domain={p}&isvast=0",
+      "https://www.vads.net.vn/Ad?z=12&w=1&domain={p}&isvast=0",
+      "https://www.vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad",
+      "https://www.vads.net.vn/Ad?z=11&w=1&domain={p}&isvast=0",
+      "https://www.vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "doãn văn tuấn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nguyễn thái nhật huy",
+          "sentiment": "none"
+        },
+        {
+          "name": "huy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "trần đức quỳnh",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "indochina",
+          "sentiment": "none"
+        },
+        {
+          "name": "furama",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:43:18.121+02:00",
+    "updated": "2024-03-15T00:43:18.121+02:00"
+  }
+]

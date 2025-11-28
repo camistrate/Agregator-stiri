@@ -1,0 +1,184 @@
+[
+  {
+    "uuid": "1c6891a808fa5fe2765d242e2b356a9b61722204",
+    "url": "https://www.vpnranks.com/news/banshee-malware-resurfaces-xprotect-encryption-exploit-shocks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anosha Shariq",
+    "published": "2025-01-10T01:57:00Z",
+    "title": "Banshee Malware Resurfaces: XProtect Encryption Exploit Shocks",
+    "text": "San Francisco, January 9, 2025 –The notorious Banshee Stealer malware is back, armed with XProtect-inspired encryption, bypassing antivirus defenses and targeting macOS users worldwide.\nIn a startling revelation, cybersecurity researchers have uncovered a revamped version of the notorious Banshee Stealer malware , now employing encryption inspired by Apple’s XProtect antivirus.\nOnce thought dormant after a source code leak in 2024, this new variant is stealthier, targeting over 100 million macOS users globally through sophisticated phishing campaigns. Eli Smadja, Security Research Manager at Check Point Research stated:\nThis is a game-changer. The new encryption techniques allow it to bypass antivirus defenses with precision, posing a serious risk to macOS users.\nThe malware, originally operating under a malware-as-a-service (MaaS) model at a steep $3,000/month, was believed to be defunct after its source code leaked. However, recent campaigns show its resurgence, exploiting phishing websites and fake repositories masquerading as popular software like Google Chrome and Telegram.\nNotably, the updated malware has removed the Russian language check” safeguard, enabling it to cast a wider net of victims. It also integrates encryption algorithms inspired by Apple’s XProtect , enabling it to obfuscate malicious strings and bypass detection.\nThis malware doesn’t just exploit system vulnerabilities; it thrives on human errors through phishing and fake software updates.\nBanshee Stealer’s evolution underscores the urgent need for vigilance among users and organizations alike. Cybercriminals are leveraging advanced tools to breach systems, harvest browser data, cryptocurrency wallets, and sensitive files.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Eli Smadja",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T08:30:24.387+02:00",
+    "updated": "2025-01-10T08:30:24.387+02:00"
+  },
+  {
+    "uuid": "2c0ab576817e4b75e563e4974b5eab0dda7fbac6",
+    "url": "https://www.electronics-lab.com/melexis-squeezes-ultimate-performance-in-a-tiny-3d-magnetometer/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mixos",
+    "published": "2023-12-28T21:21:00Z",
+    "title": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer - Electronics-Lab.com",
+    "text": "Melexis squeezes ultimate performance in a tiny 3D Magnetometer Melexis announces the MLX90394 Triaxis® micropower magnetometer, a tiny Hall-effect based sensor. It perfectly balances the design trade-off between low noise, current consumption and cost. With on-the-fly selectable modes and advanced configurability, it enables high reuse and fast time to market. This contactless solution is suitable for rotary, linear and 3D joystick control in gaming and industrial peripherals. Replacing mechanical solutions, the MLX90394 provides an elegant, flexible and highly reliable solution overcoming concerns inherent to traditional potentiometers, such as contamination of the wiper surface and packaging constraints. The magnetometer’s versatility allows for deployment in linear, rotary, joystick and push button operations, offering a cost-effective simplification of the supply chain by replacing numerous existing components. Both the smart nature of the device, which allows for future configuration changes, and the non-contact design help to provide a longer lifespan than potentiometers and contact based switches. Moreover, the ultra slim and small design (2×1.5×0.4 mm) helps make slicker HMIs. The MLX90394’s architecture delivers several benefits compared to existing solutions. This design enables measurement and output of each magnetic axis individually, along with a built-in thermometer that allows selectable temperature measurement for additional digital signal processing (DSP) compensation. Both the temperature and position data are output in 16-bit resolution, with I2C interface pins supporting 0.1MHz, 0.4MHz and 1.0MHz modes. Moreover, one product has two I2C addresses inside, which can be selected by changing the electrical pinout connection. At the core of the product is Melexis Triaxis technology. This innovative technology helps to deliver low noise (<9μT) independent 3-axis measurement in micropower operation. Average current consumption is just 3μA for X or Y measurement and 4.3μA for Z, at 10Hz in single measurement mode. With its counting current of 10μA, the chip does the counting for you, while your microcontroller is in deep sleep and consumes little. While the Wake-up On Change (WOC) functionality enables a swift return to operation with pulsed or latched hardware pin-interrupts (XYZ). WOC thresholds can be configured as either against an initial measurement (Static Delta), against the previous measurement (Dynamic Delta) or a predefined measurement (Absolute). This allows accurate transition from the Power Down mode to active in both high movement applications and those which exhibit slow drift movements. The embedded design grants easy integration and high accuracy tracking of both rotational joystick movements and push/slide button applications. Two compact UTDFN-6 (LD) packaged designs are available featuring different measurement ranges: ±5mT (0.15μT/LSB) and ±50mT (1.5μT/LSB). All variants are RoHS certified, and suitable for deployment in ambient conditions between -40oC to 105oC with supply voltage between 1.7V to 3.6V, ideal for most embedded and IOT electronics environments. “The MLX90394 brings unprecedented value and performance, meeting the demands of a wide range of modern applications. Whether engineers are developing computer peripherals, industrial cylinders or controls for smart appliances, this optimized and flexible chip will bring customers long-term performance not possible with existing potentiometers, mechanical switches and sliders,” commented Minko Daskalov, Product Manager at Melexis. “Its compact packaging and efficiency will increase design freedom and simplify integration within existing products, as well as allowing for new novel solutions.” more information: [www.melexis.com/MLX90394](https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUtjaqAX1onBFVG5YP4Bk4GN4nt9OZine7OHen4jTXeL-2FS4wcfd7taD1sEmyhkqAZBTUB6BrQwAXCWZGWCwNtJQTzkKwB-2FM4b15I0xaV-2B9kINkoNy8co1bGZN0Tnq-2Bz4tpbn-2B9vHBvJqj2Pi1jBjZxkVMFgqSPOeNhi5pXHNggQNtuZzhQB4VQ2LLfCIXS8urPzcGrhx8-2BZ-2BNaBeLyw-3D-3D) Join 97,426 other subscribers Archives TagCloud [Aaeon](https://www.electronics-lab.com/tag/aaeon/) [AI](https://www.electronics-lab.com/tag/ai/) [Arduino](https://www.electronics-lab.com/tag/arduino/) [Battery](https://www.electronics-lab.com/tag/battery/) [BLE](https://www.electronics-lab.com/tag/ble/) [Bluetooth](https://www.electronics-lab.com/tag/bluetooth/) [camera](https://www.electronics-lab.com/tag/camera/) [DC-DC](https://www.electronics-lab.com/tag/dc-dc/) [display](https://www.electronics-lab.com/tag/display/) [ESP32](https://www.electronics-lab.com/tag/esp32/) [ESP8266](https://www.electronics-lab.com/tag/esp8266/) [FPGA](https://www.electronics-lab.com/tag/fpga/) [GPS](https://www.electronics-lab.com/tag/gps/) [I2C](https://www.electronics-lab.com/tag/i2c/) [IoT](https://www.electronics-lab.com/tag/iot/) [Kickstarter](https://www.electronics-lab.com/tag/kickstarter/) [LCD](https://www.electronics-lab.com/tag/lcd/) [Led](https://www.electronics-lab.com/tag/led/) [Linux](https://www.electronics-lab.com/tag/linux/) [Mcu](https://www.electronics-lab.com/tag/mcu/) [MEMS](https://www.electronics-lab.com/tag/mems/) [Microchip](https://www.electronics-lab.com/tag/microchip/) [Microcontroller](https://www.electronics-lab.com/tag/microcontroller/) [MOSFET](https://www.electronics-lab.com/tag/mosfet/) [Motor](https://www.electronics-lab.com/tag/motor/) [OLED](https://www.electronics-lab.com/tag/oled/) [Oscilloscope](https://www.electronics-lab.com/tag/oscilloscope/) [PCB](https://www.electronics-lab.com/tag/pcb/) [Power supply](https://www.electronics-lab.com/tag/power-supply/) [PWM](https://www.electronics-lab.com/tag/pwm/) [Raspberry Pi](https://www.electronics-lab.com/tag/raspberry-pi/) [regulator](https://www.electronics-lab.com/tag/regulator/) [RISC-V](https://www.electronics-lab.com/tag/risc-v/) [SBC](https://www.electronics-lab.com/tag/sbc/) [Sensor](https://www.electronics-lab.com/tag/sensor/) [SOC](https://www.electronics-lab.com/tag/soc/) [SOM](https://www.electronics-lab.com/tag/som/) [STMicroelectronics](https://www.electronics-lab.com/tag/stmicroelectronics/) [Switch](https://www.electronics-lab.com/tag/switch/) [Switching](https://www.electronics-lab.com/tag/switching/) [temperature](https://www.electronics-lab.com/tag/temperature/) [Texas Instruments](https://www.electronics-lab.com/tag/texas-instruments/) [TFT](https://www.electronics-lab.com/tag/tft/) [USB](https://www.electronics-lab.com/tag/usb/) [Wifi](https://www.electronics-lab.com/tag/wifi/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt",
+      "https://u12097671.ct.sendgrid.net/ls/click",
+      "https://www.u12097671.ct.sendgrid.net/ls/click?upn=4PC2wo0fWhUBQdJDPL-2FxekFZasBZCqUXvLk9VgIEjjgqM2VR-2BnnUAVVFzoHjae-2FHrXkt_mp7wkc-2FmsI2mu1ktfWPYgrzdFA68yyJA5g5-2BZLccPxdxNMqAOB5ILKmOwB2iEojdxaUsfu16kg-2FFdBzPPGop8K9F-2FnCuOf9G9Eu0dSjc2LZAEkeXRlA7mNNZCXSYmtIN0WLslchgVmJo-2BV2k6W2gnRuOx1EtwqyuF0NYfg2Dr8m2oAavCN1kcEculpmyWKQ4wbXSriLYKM4yRET6jbhLABI3IB-2Fr4ziFi6hkmJlHam4eVNJmBoEMa3Obv84vObCBz7Dosug9pmetZwWvqcv3KNn7RY4SWPPN2jhbVb7qMB6Mlht87X1iMLfDx-2BmZLKIXj0L58Hqe24kvYD-2BV4d66RBwDtNu9NMTMd715aQc7jm3LLY6Qg9-2BZkqy6X9QW2E-2FEkRR-2FUt"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "triax",
+          "sentiment": "positive"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:35:31.587+02:00",
+    "updated": "2023-12-29T01:35:31.587+02:00"
+  },
+  {
+    "uuid": "aa682dd02d574179fe4de07fe586b057942fd371",
+    "url": "https://www.binance.com/pt-BR/square/post/11-22-2024-ai-generated-code-raises-security-concerns-in-blockchain-development-16562494136505",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Binance News",
+    "published": "2024-11-22T04:43:00Z",
+    "title": "Código gerado por IA levanta preocupações de segurança no desenvolvimento de blockchain",
+    "text": "De acordo com a PANews, um usuário do Twitter identificado como @r_cky0 relatou uma violação de segurança significativa ao usar o ChatGPT para desenvolver um bot de negociação automatizado de blockchain. O usuário descobriu que o código recomendado pela IA continha um backdoor oculto, que transmitia chaves privadas para um site de phishing, resultando em uma perda de aproximadamente US$ 2.500. Este incidente foi posteriormente confirmado pelo fundador da SlowMist, Yu Jian, conhecido como @evilcos, que reconheceu a existência de tais vulnerabilidades no código gerado pela IA.\nEspecialistas destacaram que esses tipos de ataques podem resultar de modelos de IA aprendendo padrões maliciosos de postagens de phishing ou conteúdo inseguro. Os modelos de IA atuais enfrentam desafios na detecção de backdoors dentro do código, levantando preocupações sobre a confiabilidade das soluções de programação geradas por IA. Profissionais da indústria estão pedindo aos usuários que tenham cautela e evitem confiar cegamente no código gerado por IA. Eles também recomendam que as plataformas de IA aprimorem seus mecanismos de revisão de conteúdo para identificar e alertar os usuários sobre potenciais riscos de segurança. Esse apelo por maior vigilância e medidas de segurança aprimoradas ressalta a necessidade de uma abordagem mais segura para integrar a IA no desenvolvimento de software.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T14:12:56.310+02:00",
+    "updated": "2024-11-22T14:12:56.310+02:00"
+  },
+  {
+    "uuid": "64f6dbd405ff1cd6020b878cd8e64e3e533a7ff4",
+    "url": "https://www.livehindustan.com/jharkhand/adityapur/story-adityapur-police-arrest-brown-sugar-trafficker-with-1-5-grams-of-narcotics-201746658387283.html",
+    "ord_in_thread": 0,
+    "author": "@Live_Hindustan",
+    "published": "2025-05-07T22:53:00Z",
+    "title": "21 पुड़िया ब्राउन शुगर के साथ एक पैडलर गिरफ्तार",
+    "text": "Hindi News\nJharkhand News\nAdityapur NewsAdityapur Police Arrest Brown Sugar Trafficker with 1 5 grams of Narcotics\n21 पुड़िया ब्राउन शुगर के साथ एक पैडलर गिरफ्तार\nआदित्यपुर पुलिस ने ए रोड, श्रीनाथ ग्लोबल विलेज के पास एक ब्राउन शुगर तस्कर इरशाद अंसारी को गिरफ्तार किया है। उसके पास से 21 पुड़िया में 1.5 ग्राम ब्राउन शुगर बरामद हुई। पुलिस ने एनडीपीएस के तहत मामला...\nNewswrap\nहिन्दुस्तान, आदित्यपुरThu, 8 May 2025 04:23 AM\nआदित्यपुर। आदित्यपुर थाना क्षेत्र अंतर्गत ए रोड, श्रीनाथ ग्लोबल विलेज के पास आदित्यपुर पुलिस ने छापेमारी कर एक ब्राउन शुगर के तस्कर को गिरफ्तार किया है। उसके पास से 21 पुड़िया में रखा 1.5 ग्राम ब्राउन शुगर बरामद किया गया है। मामले की जानकारी देते हुए आदित्यपुर थाना प्रभारी बिनोद तिर्की ने बताया कि पुलिस अधीक्षक मुकेश कुमार लूणायत के दिशा निर्देश पर नशे के खिलाफ चल रहे अभियान के तहत बुधवार को गुप्त सूचना मिली कि ए रोड श्रीनाथ ग्लोबल विलेज कल्पनापुरी में एक संदिग्ध ब्राउन शुगर खरीद बिक्री को लेकर खड़ा है। सूचना के आधार पर गठित टीम ने घेराबंदी कर आरोपी को धर दबोचा।\nगिरफ्तार आरोपी मुस्लिम बस्ती एच रोड का रहनेवाला इरशाद अंसारी है। पुलिस ने आदित्यपुर कांड संख्या 131/28 के तहत एनडीपीएस की धाराओं के तहत केस दर्ज कर आरोपी को जेल भेज दिया है। वहीं आरोपी के पास से 15 सौ नगद दो मोबाइल फोन बरामद किया गया है। छापेमारी अभियान में थाना प्रभारी बिनोद तिर्की, सब इंस्पेक्टर सुधांशु कुमार, राजेश सिंह, नीतीश पांडे, शंकर दास आदि शामिल थे।\nलेटेस्ट Hindi News ,\n बॉलीवुड न्यूज, बिजनेस न्यूज, टेक\n, ऑटो, करियर , और राशिफल,\nपढ़ने के लिए Live Hindustan App डाउनलोड करें।",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Crime, Law and Justice->drug related crimes",
+      "Social Issue->addiction",
+      "Social Issue->social problem",
+      "Social Issue->juvenile delinquency",
+      "Environment->hazardous materials",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T02:54:04.160+03:00",
+    "updated": "2025-05-08T00:01:38.000+00:00"
+  }
+]

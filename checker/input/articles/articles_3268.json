@@ -1,0 +1,180 @@
+[
+  {
+    "uuid": "9eda3a241c1ec2926b1ae7ffe45e93f1202a44f1",
+    "url": "https://calgary.citynews.ca/2024/01/12/calgary-zoo-animals-cold-weather/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lauryn Heintz",
+    "published": "2024-01-12T18:47:00Z",
+    "title": "Calgary Zoo animals appreciate cold weather | CityNews Calgary",
+    "text": "Posted Jan 12, 2024 11:47:59 AM. Last Updated Jan 12, 2024 11:50:23 AM. It’s -34 C, the perfect temperature to dip and dive — if you’re a penguin! But what about the other more than 4,000 animals at the Wilder Institute/Calgary Zoo? The zoo says every species has temperature parameters and they are looking at them constantly. Some animals are feeling just at home in the cold — like the polar bears, used to arctic temperatures — who have the freedom to go inside or outside in a two-acre habitat space, but choose to be outside playing with the ice. “Because a lot of our animals are cold-tolerant species all the way from all of Wild Canada and in Gateway to Asia we have a lot of cold tolerant animals like our Amur tigers, the snow leopards,” explained Jax Hoggard, Wild Canada Animal Care Supervisor at the Wilder Institute/Calgary Zoo. “They all live in very similar climate to what we have in Canada.” While many are used to cold snaps, zookeepers try to create environments to help other animals to adjust to the changing temperatures. Something they watch closely is that they are adequately fed according to their specific needs — increasing some diets when necessary. “There’s not a lot of enrichment that might happen for animals that just wanna hunker down in a bed and not move around, so again yes we might give them an extra flake of hay or for the polar bears we actually did a satiation for them because at this time of the year they can get quite hungry and they actually need a full satiation so we actually doubled their diet for a couple of days,” Hoggard said. “As long as animals are fed and warm we just make sure that we are fully prepared for the weather outside,” she added. Rainforest species or savanna species will stay locked into their suitable habitats until the cold snap is over.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Environment",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jax hoggard",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "citynews calgary",
+          "sentiment": "negative"
+        },
+        {
+          "name": "calgary zoo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wilder institute/calgary zoo",
+          "sentiment": "none"
+        },
+        {
+          "name": "wild canada animal care supervisor",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "wild canada",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-12T22:19:47.227+02:00",
+    "updated": "2024-01-12T22:19:47.227+02:00"
+  },
+  {
+    "uuid": "43dc5042ed352a81e24fe95f02b58bbc18aebfee",
+    "url": "https://www.metropoles.com/mundo/apagao-deixa-mais-de-600-mil-sem-energia-em-buenos-aires",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "José Augusto Limão",
+    "published": "2025-03-06T01:05:00Z",
+    "title": "Apagão deixa mais de 600 mil sem energia em Buenos Aires",
+    "text": "Apagão deixa mais de 600 mil sem energia em Buenos Aires\nO apagão afetou órgãos públicos e semáfaros espalhados por toda a cidade, causando transtornos\natualizado\nCompartilhar notícia\nGoogle News - Metrópoles\nUm apagão de grandes proporções deixou cerca de 620.000 pessoas sem luz nesta quarta-feira (5/3), em Buenos Aires, Argentina. A Casa Rosada, sede do governo argentino, também ficou sem energia.\nA empresa elétrica Edesur, responsável pela distribuição, informou no X que houve uma falha em duas linhas de alta tensão, que afetou várias subestações da companhia.\nÀ imprensa local, o porta-voz da Secretaria de Energia destacou que na tarde desta quarta-feira (5/3) o serviço de energia foi restabelecido para 70% das residências afetadas.\nOs semáforos também foram afetados, causando engarrafamentos e transtornos em diversos cruzamentos. No X, o chefe do governo de Buenos Aires, Jorge Macri, destacou que o corte de energia não é culpa da cidade, mas o Estado está fazendo o possível para minimizar o impacto e apoiar os moradores.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Environment"
+    ],
+    "topics": [
+      "Environment->energy resources",
+      "Environment->population growth",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/publications/CAAqBwgKMPfq-gowsr7yAg?hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+      "https://x.com/OficialEdesur/status/1897403323525029978",
+      "https://news.google.com/publications/CAAqBwgKMPfq-gowsr7yAg",
+      "https://www.x.com/OficialEdesur/status/1897403323525029978",
+      "https://www.news.google.com/publications/CAAqBwgKMPfq-gowsr7yAg?hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T03:27:54.513+02:00",
+    "updated": "2025-03-06T03:27:54.513+02:00"
+  },
+  {
+    "uuid": "bb2e58da583c2013d91c95d1729f1d32fd7d91a9",
+    "url": "https://www.whiskeyriff.com/2024/01/07/the-story-of-waylon-jennings-legendary-25000-piss/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wes Langeler",
+    "published": "2024-01-07T21:02:00Z",
+    "title": "The Story Of Waylon Jennings’ Legendary “$25,000 Piss”",
+    "text": "The legendary [Waylon Jennings.](http://whiskeyriff.com/tag/waylon-jennings) A country music icon and pioneer of the “Outlaw” country movement, Waylon has more than his fair share of wild stories, but perhaps one of the most entertaining is the legendary “$25,000 piss.” In the documentary Renegade Outlaw Legend, Waylon recalled a contract dispute with RCA in the early ’70s when he asked them for an advance on royalties. After initially agreeing to his request of $25,000, they came back with a much smaller offer of $5,000 and the same royalty rate that he had since the beginning. Plus, it was on the condition that Jennings sign with the label for another five years. Needless to say, that wasn’t gonna fly with Waylon. Enlisting the help of business manager/lawyer Neil Reshen, Jennings met with RCA executives Jerry Bradley and Chet Atkins to hammer out this $25,000 royalty issue, but negations quickly turned south. According to his autobiography, [Waylon: An Autobiography](https://amzn.to/3uXosps), it went like this: “It was down to a $25,000 sum, and they we’re not going to give it to me. He wanted it. We were sitting there, not a word spoken, and the silence got unbearable. After a while, I couldn’t take it anymore. ‘Chet,’ I said, reaching over to a bowl on his desk, ‘where’d you get these peanuts?’ Neil glared at me. ‘Shut up, Waylon.’ You could hear a clock tick in the room. It got even quieter. Minutes passed. I rose up, never said a word, walked out. I went to the bathroom to take a leak. When I came back, Neil greeted me in the hall. ‘You’re a f**kin’ genius,’he said. ‘What?’ ‘Walking out like that. That sewed it up.’ He was positively gleeful. ‘Where’d you go?’ ‘I had to take a piss.’ ‘That’s a $25,000 piss,’ said Neil. They asked me where you went and I told them I didn’t know. ‘Waylon’s mad, I’m sure. He’s crazy. He’s liable to do anything.’ ‘Will he be back?’ they wanted to know, and I shrugged. ‘I guess he’s gone, so we may as well call this to a close.’ And that’s when they gave us the money. According to the 2013 book [Outlaw: Waylon, Willie, Kris, and the Renegades of Nashville](https://amzn.to/2Oy35uk), Jennings ended up signing a monster deal with RCA, one that gave him a ton of creative freedom, more control over his music, and a lot more money moving forward. He started working on Lonesome, On’ry and Mean, which was released in March the following year (1973), and the rest is history. Waylon Jennings Walked Out On Tom Snyder Waylon Jennings is quite possibly the king of walk-outs. If an event or appearance started to turn south, Waylon was often known to just walk away, leaving bystanders and producers stunned in his wake. Frankly, you’ve got to respect the “takes-no-shit” attitude of the man… Lord knows we could use a little more backbone in country music these days. In 1970, Jennings walked out of the [CMA Awards](https://www.whiskeyriff.com/2022/01/18/cma-awards-1970-waylon-jennings-walks-out-after-they-cut-his-performance-time-down/) after being scheduled to perform his hit, “Only Daddy That’ll Walk The Line.” Producers wanted him to cut down his performance, and he didn’t take kindly to the request. He recalled: “One year I’d stormed out of the awards and didn’t mind telling anyone who would listen why. It was Kris Kristofferson’s night… he was a shoo-in for several categories. I had been scheduled to perform ‘Only Daddy That’ll Walk The Line.’ They said they were strapped for time, and they wanted me to cut the song to one verse and chorus. I said, ‘Why don’t I just dance across the stage and grin? Maybe do one line. That’ll give you a lot of time.’ They told me to not get smart. Either I did it or I got out. They said, ‘We don’t need you.’ I decided that was true, and I left.” He also walked out of the massive group recording of [“We Are The World”](https://www.whiskeyriff.com/2022/03/03/why-waylon-jennings-walked-out-of-the-original-1985-we-are-the-world-recording-at-1am/) in 1985, but that’s another long story… However, the walk-out shenanigans didn’t end there. In 1998, Waylon was scheduled to be interviewed by talk show host, Tom Snyder. According to publicists, Waylon only agreed to come on The Late Late Show if he was the only guest. And after the show introduced a second guest with quite an extensive interview, it started cutting into the 30-minute time-slot he was promised. Jessi Colter, Jennings wife at the time, recalled Waylon watching the interview between Tom Snyder and his other scheduled guest backstage, then looking over at her and saying, “we’re leaving.” And they did just that. This walk-out left host Tom Snyder stunned with over 15 minutes of television time to fill by himself. When the show went live after Waylon’s exit, Snyder was left tripping over words. He told the live audience: “Waylon Jennings walked out of here about 5 or 10 minutes ago. He is not here… I have never had anybody leave before they came on.” Willie Nelson recalled the event, and how it became such a legendary moment at the time, and even still today: “Had it not happened it would’ve just been another television show that Waylon did, but since it did everybody talks about it.” Waylon Jennings, folks… he didn’t play games. Ol’ Tom learned that the hard way.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://amzn.to/2Oy35uk),",
+      "https://amzn.to/3uXosps),",
+      "https://www.amzn.to/2Oy35uk),",
+      "https://www.amzn.to/3uXosps),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "waylon jennings",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jerry bradley",
+          "sentiment": "none"
+        },
+        {
+          "name": "chet atkins",
+          "sentiment": "none"
+        },
+        {
+          "name": "neil reshen",
+          "sentiment": "none"
+        },
+        {
+          "name": "waylon",
+          "sentiment": "none"
+        },
+        {
+          "name": "jennings",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rca",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:27:15.912+02:00",
+    "updated": "2024-01-08T01:27:15.912+02:00"
+  }
+]

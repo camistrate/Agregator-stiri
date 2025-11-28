@@ -1,0 +1,256 @@
+[
+  {
+    "uuid": "ade7bea2531b078ec58c585bf4a17588d4d01d3f",
+    "url": "https://correio.rac.com.br/agenciaestado/capital-paulista-sai-do-estado-de-atenc-o-para-alagamentos-1.1607825",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Estadão Conteúdo",
+    "published": "2025-01-02T23:40:00Z",
+    "title": "Capital paulista sai do estado de atenção para alagamentos",
+    "text": "A chuva que atinge a capital paulista na noite desta quinta-feira, 2, colocou toda a cidade em estado de atenção para alagamentos por quase duas horas, de acordo com o Centro de Gerenciamento de Emergências Climáticas (CGE) da Prefeitura de São Paulo.\nAs precipitações formadas pelo ar quente e úmido geraram uma linha de instabilidade englobando a zona sul, o centro e a zona leste da cidade, principalmente nas regiões do Itaim Paulista, Ipiranga, Vila Mariana, Sapopemba e Aricanduva.\nÀs 19h30, o CGE informou que todas as regiões estavam em estado de atenção para alagamentos. O quadro ficou vigente até as 21h18. Nesse intervalo, houve o transbordamento do Córrego Três Pontes, na Avenida Marechal Tito, na altura da Rua José Gines, e a subprefeitura do Itaim Paulista entrou em estado de alerta - também já revisto.\nConforme os dados do radar meteorológico da administração municipal, as precipitações ocorrem na forma de pancadas, que se deslocam de oeste para leste, com pontos de forte intensidade, raios e rajadas de vento, indo em direção aos municípios à leste da Região Metropolitana e para o litoral.\nOs próximos dias também devem ser de sol, calor e pancadas de chuva no fim da tarde. Na sexta-feira, 3, os termômetros marcam cerca de 20°C na madrugada e chegam a 30°C no período da tarde, com umidade mínima do ar em torno dos 50%. Pancadas de chuva são esperadas à tarde, com intensidade moderada a forte.\nJá o sábado, 4, amanhece com maior quantidade de nuvens, apesar do sol. Os termômetros deverão registrar 20°C em média, com índices de umidade elevados, acima dos 60%. A aproximação de uma frente fria deve estimular a formação de nuvens carregadas à tarde e à noite, elevando o potencial para a elevação dos níveis de rios e córregos, alagamentos e quedas de árvores.\nTranstornos em Campinas e no Paraná\nEm Campinas, no interior paulista, a Defesa Civil registrou 16 ocorrências relacionadas à forte chuva desta quinta. Foram 11 quedas de árvores e cinco de galhos. Não há registro de feridos.\nParte dos galhos caiu no Bosque dos Jequitibás e o local de lazer será aberto ao público mais tarde nesta sexta, a partir das 12h, para o trabalho de limpeza e liberação da pista de caminhada.\nSegundo a prefeitura, houve dois pontos de alagamento e o Centro de Saúde Anchieta precisou suspender temporariamente o serviço de vacinação por problemas em uma geladeira devido à oscilação de energia.\nA chuva também causou transtornos em cidades do Paraná. De acordo com a Defesa Civil de Morretes, mais de 20 famílias tiveram suas casas atingidas e ocorreram diversas quedas de árvore em vias públicas. Algumas regiões do município estão sem fornecimento de energia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Environment->environmental pollution",
+      "Environment->water pollution",
+      "Social Issue->demographics",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T03:41:22.049+02:00",
+    "updated": "2025-01-03T03:41:22.049+02:00"
+  },
+  {
+    "uuid": "a41aaa2e6c3a050002d7008ede3edde571a62419",
+    "url": "https://www.wizcase.com/news/malicious-facebook-ads-target-bitwarden-users-with-fake-security-update",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wizcase",
+    "published": "2024-11-21T18:47:00Z",
+    "title": "Malicious Facebook Ads Target Bitwarden Users With Fake Security Update",
+    "text": "Revealed a Facebook ad campaign tricking Bitwarden users into installing malware, collecting personal and business data via fake updates. In a Rush? Here are the Quick Facts! Malicious ads led users to install a harmful browser extension from a Google Drive link. The malware collects personal and business data, including Facebook account and payment details. The attack uses browser Developer Mode to bypass security checks and install the extension. Bitdefender Labs has uncovered a new cyber attack targeting users of the popular password manager, Bitwarden. This malicious campaign, which began on November 3, 2024, uses deceptive Facebook ads to trick users into installing harmful browser extensions. The ads, which appear to be legitimate, urge users to update their Bitwarden extension due to a supposed security issue. Bitdefender explains that the campaign begins with a fake ad on Facebook, which creates a sense of urgency by using Bitwarden’s branding and alarming language like “Warning: Your Passwords Are at Risk!” When users click on the ad, they are redirected to a fraudulent website that mimics the official Chrome Web Store. On this site, users are prompted to download an extension by clicking a link to a Google Drive file. This file contains a zip archive that, when unzipped, installs the malicious extension. The installation process bypasses the browser’s security features, says Bitdefender. Users are tricked into enabling Developer Mode and manually loading the extension into their browser. Once installed, the extension gains extensive permissions, allowing it to monitor and modify the user’s online activities. Bitdefender says that the malware particularly targets Facebook accounts, collecting personal information, business details, and even credit card information tied to Facebook’s ad accounts. Once installed, the malware starts to harvest Facebook cookies and other sensitive data. It then transmits the stolen information to a server controlled by the attackers. This data could lead to financial losses for individuals and businesses whose Facebook accounts are targeted. To protect against this type of attack, Bitdefender suggests that users should avoid installing extensions from unofficial sources, especially those promoted through ads on social media. Always update extensions through trusted sources like the Chrome Web Store, and carefully review the permissions requested by any extension. Users should also be cautious about any ad that creates a sense of urgency or asks for immediate action.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:36:21.513+02:00",
+    "updated": "2024-11-22T02:36:21.513+02:00"
+  },
+  {
+    "uuid": "8db0f2f0b80d156445f5bf5bc6699a0169f7373c",
+    "url": "https://www.sgtreport.com/2023/12/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates-2/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SGT",
+    "published": "2023-12-28T22:30:00Z",
+    "title": "U.S. Supreme Court Protects Freemason Corporations and Big Pharma – Strikes Down Any Legal Opposition to COVID-19 “Vaccines” and Mandates",
+    "text": "by Brian Shilhavy, [Health Impact News](https://healthimpactnews.com/2023/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates/): The Supreme Court has, once again, overturned lower court rulings that challenged the U.S. Federal Government’s role in mandating COVID-19 bioweapon shots. The “Conservative” majority, once again, ruled to protect the interests of Big Pharma and their immunity from being prosecuted in the U.S. judicial system, as it has done consistently since 2011, even though the pharmaceutical companies were not the defendants in these cases, but obviously benefited from this ruling. TRUTH LIVES on at [https://sgtreport.tv/](https://sgtreport.tv/) Supreme Court Wipes Out Three Rulings Rejecting Federal COVID Vaccine Mandate The U.S. Supreme Court vacated the rulings in three lower court cases that had successfully challenged the Biden administration’s federal COVID-19 vaccine mandate for federal agency employees and military service personnel. The decision by the nation’s highest court to grant the Biden administration’s request to set aside the previous judicial rulings rejecting a federal COVID vaccine mandate erases the legal precedent set by the lower courts. The Appellate courts were split in their decisions about the COVID vaccine mandate with those challenging the federal vaccine mandate succeeding in some cases and the Biden administration prevailing in other cases. The Supreme Court majority… instructed the lower court to dismiss the cases as moot after the vaccine mandates were rescinded. By wiping out the historical record, the Supreme Court has ensured that any legal challenges to future vaccine mandates will be cases of first impression without precedent. ( [Full Article].) For the first time (to my knowledge) since the COVID-19 shots were approved by President Donald Trump in December of 2020, one of the nine Supreme Court Justices actually dissented in the majority court view on COVID-19 vaccine mandates, and it was Justice Ketanji Brown Jackson, whom many claim is the most “liberal” Judge currently on the bench, and was appointed by current President Joe Biden. One Supreme Court Justice Dissents from Ruling Upholding Federal COVID Vaccine Mandate The unsigned Supreme Court decision vacated the rulings against the mandates and ordered the lower court to vacate the preliminary injunction against the Biden administration as moot [13]Only one Justice, Justice Jackson explained the decision. She agreed with the other justices that the lower court ruling should be vacated in one decision and dissented in the other two cases, explaining that the government failed to “establish equitable entitlement” to the vacatur. In a recent case, Justice Jackson argued in a dissenting opinion that the Supreme Court may vacate a lower court’s rulings in a case that has become moot when an unfair result is faced by the losing party who can’t appeal the decision. She explained that it is an exceptional remedy that should only be granted when equity demands it. Justice Jackson wrote: Later, this Court clarified that this “Munsingwear vacatur” remedy is available only in “extraordinary” or “exceptional” cases where a party meets the burden of demonstrating equitable entitlement to vacatur in an otherwise moot case. Justice Jackson further clarified that the court has long recognized that a Munsingwear vacatur is generally not a fair ruling when the party requesting the vacatur, “played a role in rendering the case moot.” Justice Jackson wrote: As a general matter, I believe that a party who claims equitable entitlement to vacatur must explain what harm—other than having to accept the law as the lower court stated it—flows from the inability to appeal the lower court decision. Ultimately, Justice Jackson did not find that the government, “established equitable entitlement” to the vacatur and was not warranted in two of the three cases. ( [Full article].) While this may seem confusing to the “Conservative” talking head “experts” who only started publishing opposition to vaccine mandates since 2021 when so many multitudes of people died or became crippled from the COVID-19 bioweapon shots, those of us who have covered this issue for decades now fully understand that this is the norm, not the exception, where only “Liberals” have ever dared to dissent to giving legal immunity for Big Pharma and their killer vaccines, while “Conservatives” have always protected Wall Street and the bankers and corporations that run this country, all in the name of “free markets” and “capitalism.” The “Conservative Right” is who supported the 1986 National Childhood Vaccine Injury Act which gave pharmaceutical companies producing vaccines legal immunity in the courts from being sued due to injuries and deaths caused by their vaccine products. “Conservative” President Ronald Reagan signed that bill into law. The law was challenged at the Supreme Court in 2011 with Bruesewitz v. Wyeth LLC, and the law was upheld as the Court ruled that vaccines are “unavoidably unsafe.” All of the “conservatives” on the bench sided with Big Pharma, including Justice Clarence Thomas and Justice Samuel Alito, considered “solid conservatives.” [Read More @ HealthImpactNews.com](https://healthimpactnews.com/2023/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Health",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://sgtreport.tv/",
+      "https://healthimpactnews.com/2023/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates/",
+      "https://www.healthimpactnews.com/2023/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates/",
+      "https://sgtreport.tv",
+      "https://www.sgtreport.tv/",
+      "https://healthimpactnews.com/2023/u-s-supreme-court-protects-freemason-corporations-and-big-pharma-strikes-down-any-legal-opposition-to-covid-19-vaccines-and-mandates"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brian shilhavy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "u.s. supreme court protects freemason corporations",
+          "sentiment": "negative"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "big pharma",
+          "sentiment": "negative"
+        },
+        {
+          "name": "health impact news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "u.s. supreme court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:41:51.075+02:00",
+    "updated": "2023-12-29T03:23:46.684+02:00"
+  },
+  {
+    "uuid": "9a8edb0ddd20db1234768903a3397876956d74e6",
+    "url": "https://es.investing.com/news/insider-trading-news/la-directora-de-fedex-amy-b-lane-adquiere-acciones-por-valor-de-91929-93CH-2961300",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Investing.com",
+    "published": "2024-12-26T21:11:00Z",
+    "title": "La directora de FedEx Amy B Lane adquiere acciones por valor de 91.929$ Por Investing.com",
+    "text": "MEMPHIS, Tenn.—La directora de FedEx Corp. (NYSE: FDX ), Amy B. Lane, ha incrementado su participación en la empresa con una reciente compra de acciones ordinarias. Según un formulario 4 presentado ante la Comisión de Bolsa y Valores (SEC), Lane adquirió 333 acciones el 26.12.2023 a un precio promedio ponderado de 276,06$ por acción, sumando aproximadamente 91.929$. La compra se produce mientras FedEx, actualmente valorada en 67.300 millones de dólares, cotiza cerca de su Valor Justo según InvestingPro , lo que sugiere una valoración de mercado equilibrada.\nTras esta transacción, Lane posee 4.072 acciones ordinarias de FedEx mediante propiedad directa. Esta adquisición también refleja un ajuste menor por tres acciones adquiridas mediante reinversión de dividendos.\nLa compra de Lane se realizó a través de fideicomisos, lo que indica una movida estratégica para reforzar su inversión en el gigante global de servicios de mensajería.\nEn otras noticias recientes, FedEx ha tomado decisiones estratégicas significativas que han captado la atención de inversores y analistas financieros. La empresa ha anunciado la escisión de su división de Carga Parcial (LTL), una medida que Stifel, TD Cowen y BMO Capital creen que podría liberar un valor sustancial y reducir la disparidad de valoración existente en comparación con sus pares de la industria LTL.\nStifel ha elevado el objetivo de FedEx a 368$, manteniendo una calificación de compra. TD Cowen también ha aumentado su objetivo para FedEx a 337$, manteniendo una calificación de compra. BMO Capital elevó su objetivo para FedEx a 330$, citando iniciativas de reducción de costos y planes para el segmento LTL. Sin embargo, Stephens redujo su objetivo para FedEx a 345$, pero mantuvo una calificación de sobreponderación, señalando una mayor rentabilidad en FedEx Express y ganancias más suaves en el segmento de Carga. Bernstein SocGen Group aumentó modestamente el objetivo de FedEx a 320$, reconociendo los desafíos en el segmento de Carga y los próximos costos de escisión.\nA pesar de que los ingresos reportados no cumplieron con todas las estimaciones, FedEx revisó a la baja su guía de ganancias por acción anual, pasando del rango proyectado anteriormente de 20-21$ a un nuevo pronóstico de 19-20$. Esto llevó a 10 analistas a revisar a la baja sus estimaciones de ganancias para el próximo período. La empresa continúa apuntando a un ahorro anual de 2.200 millones de dólares de su programa DRIVE, lo que sugiere un aumento significativo en los ahorros anticipados para la segunda mitad del año fiscal.\nTodos estos son desarrollos recientes, y los inversores y analistas estarán observando de cerca los próximos movimientos de FedEx.\nEste artículo ha sido generado y traducido con el apoyo de AI y revisado por un editor. Para más información, consulte nuestros T&C.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->corporate news and profiles",
+      "Economy, Business and Finance->financial service",
+      "Politics->government",
+      "Politics->economic policy",
+      "Human Interest->award and prize"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Amy B. Lane",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NYSE",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Comisión de Bolsa y Valores",
+          "sentiment": "none"
+        },
+        {
+          "name": "SEC",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:28:12.104+02:00",
+    "updated": "2024-12-27T00:28:12.104+02:00"
+  },
+  {
+    "uuid": "ea5222d9750e8e41477437877e51f050ab31dc69",
+    "url": "https://bvmsports.com/2024/09/05/mississippi-state-mens-golf-launches-season-at-competitive-knoxville-tournament",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BVM Sportsdesk",
+    "published": "2024-09-05T18:30:00Z",
+    "title": "Mississippi State Men’s Golf Launches Season at Competitive Knoxville Tournament - BVM Sports",
+    "text": "By the Numbers Mississippi State 's men's golf team kicks off the 2024-25 season at the Visit Knoxville Collegiate, facing a competitive field that includes six ranked teams. Taking place over three days at the Tennessee National Golf Club, the tournament features notable opponents like No. 6 Tennessee and No. 10 Ole Miss. Coach Dusty Smith expresses excitement about the team's preparedness and past successes at this event, where the Bulldogs finished third last year. The lineup combines experienced players and newcomers, with junior Garrett Endicott leading the charge. The competition starts Friday at 10:10 a.m. CT. - 16 teams competing, with six ranked in the top 25 or receiving votes. - Mississippi State finished third at last year's Visit Knoxville Collegiate at 13-under. While Mississippi State has a strong lineup with experienced veterans, the presence of highly ranked teams may pose significant challenges. Competing against host Tennessee and Ole Miss, both ranked in the top ten, adds pressure to perform at a high standard.State of Play - The tournament tees off on Friday at 10:10 a.m. CT. - The course will have modified setups for some holes, enhancing strategic play. As the tournament progresses, MSU will aim to surpass last year's performance and build momentum heading into upcoming fixtures, focusing on consistent play and leveraging their mixed lineup.Bottom Line Mississippi State must embrace its potential and adapt to the competitive landscape to succeed in the Visit Knoxville Collegiate, drawing on past experiences while seeking to elevate their performance among top-ranked foes. Read more at Mississippi State The summary of the linked article was generated with the assistance of artificial intelligence technology from OpenAI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://hailstate.com/news/2024/9/5/mens-golf-state-opens-season-among-highly-competitive-field-in-knoxville",
+      "https://www.hailstate.com/news/2024/9/5/mens-golf-state-opens-season-among-highly-competitive-field-in-knoxville"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:24:14.317+03:00",
+    "updated": "2024-09-06T00:24:14.317+03:00"
+  }
+]

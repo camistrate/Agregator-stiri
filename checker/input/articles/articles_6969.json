@@ -1,0 +1,266 @@
+[
+  {
+    "uuid": "3ed996ea3a299875be38edc4d9d34c0e97c2bddd",
+    "url": "https://www.trendmicro.com/pt_br/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Maglaque; Jay Nebre; Allixon Kristoffer Francisco Read time",
+    "published": "2025-01-09T15:00:00Z",
+    "title": "How Cracks and Installers Bring Malware to Your Device | Trend Micro (BR)",
+    "text": "Key Takeaways\n- Attackers use platforms such as YouTube and social media to share download links for fake installers to capitalize on user trust and drive clicks to malicious sites.\n- Threat actors often use reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.\n- Many malicious downloads are password-protected and encoded, which complicates analysis in security environments such as sandboxes and allows malware to evade early detection.\n- Once infected, malware collects sensitive data from web browsers to steal credentials. This situation shows the serious risks of exposing your personal information by unknowingly downloading fraudulent software.\nIntroduction\nThe increase of fake installers bundled with info stealers is a growing threat for users looking for pirated software. These malicious programs disguise themselves as legitimate applications, often appearing in search results or [comments on platforms like GitHub](https://www.gendigital.com/blog/news/innovation/lumma-stealer-github). Unfortunately, many users fall prey to these tricks. The [Trend Micro™ Managed XDR](https://www.trendmicro.com/pt_br/business/services/managed-xdr.html) service frequently sees the fallout, with the Lumma stealer being a prominent example. This highlights the hidden dangers of piracy that can jeopardize personal security and data integrity.\nInfo stealers are a type of malware that is designed to steal sensitive information from an infected system. This can include credentials, financial information, personal data, and other sensitive information that can be used for identity theft, fraud, or other malicious purposes.\nHow they lure their victims\nInfo stealers operate deceptively, luring victims into downloading the malware disguised as legitimate software installers. These download links often originate from fake websites or are shared as a link in messages from social platforms, as discussed in our [previous blog](https://www.trendmicro.com/pt_br/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html).\nIn this blog, we want to highlight and break down how a typical user may stumble upon these download links of fake installers.\nVictims are lured into piracy by individuals posing as guides on popular video-sharing platforms like YouTube. These deceitful actors create a pretense of offering legitimate software installation tutorials to entice viewers to click on malicious links in the video descriptions or comments. This compromises users' devices and promotes a culture of theft. Here is an example.\nUpon accessing the link, a separate post on YouTube opens, revealing the download link for the fake installer.\nIn the following example, it leads to a download of the file from the Mediafire file hosting site:\nIn another case, the threat was uploaded to another file-hosting site called Mega.nz.\nIt's clear that the threat utilizes known file hosting services as another layer to obscure its download further and evade detection.\nIn the cases we will discuss in this blog, we observed that these threats are often distributed as fake installers or cracked software, which victims inadvertently encounter while searching for them on search engines.\nIn the sample below, specific keywords trigger search results for these entries.\nThe third item in the search results (refer to screenshot above) comes from OpenSea (an NFT marketplace), which is unusual because it hosted a downloadable file. The entry contains a shortened link that redirects to the actual link. One assumption is that they use shortened links to prevent scraping sites from accessing the download link.\nThe following link will prompt you for the actual download link and the zip file's password. Password-protecting the files can help prevent sandbox analysis of the initial file upon arrival, which can be a quick win for an adversary.\nThe fourth and last entry in the search results (refer to the search results screenshot above) came from SoundCloud, a music-sharing platform that hosted the download link with a corresponding description. In this case, the download link was shortened using Twitter.\nThe same user also posted additional entries that include means to download a specific file.\nContent from another entry made by the same user.\nSimilar to the first case, another site displays the download link and password.\nIn one of our download links, we discovered evidence of other entries they are attempting to fake, as shown in VirusTotal (VT).\nInfection analysis as seen by Managed XDR (post download)\nIn the next section, we will discuss instances where the download was successful and the content was executed. This case sample highlights the activities observed on the host.\nCase 1\nOne observation about the unpacked file is that its size is 900 MB. This large file size helps defense evasion and allows it to bypass sandbox analysis to appear more legitimate as an installer. Moreover, it is restricted from submission in VT.\nThe infection sequence is triggered upon executing the .exe file contained within the zip file.\nA threat has been detected involving the execution of batch files. The content of the batch file was sourced and, while different from the Managed XDR case, is still functionally similar.\nThe batch file contains obfuscated entries.\nThe first cleanup involves removing garbage entries.\nThe next step is to replace the variables, resulting in a clearer script.\nAccording to the batch file, it builds the AutoIt script by combining the multiple created files and executes it. Upon execution, we observed that it dropped several additional files.\nProcesses may be injected with its code, and a new legitimate binary is sometimes introduced for process injection.\nCollecting and preparing sensitive data from browser environments for credential access was completed through a copy file operation.\nThe process introduced by threat is also seen to establish connections to multiple command and control (C&C) addresses.\nBesides accessing its C&C, our investigation observed the threat committing a series of queries related to Domain Generation Algorithm (DGA) domains.\nCase 2\nIn this second case, the infection started when a user downloaded a compressed file from a known file hosting site. Once downloaded, the user unpacks the file, which would require a password, and executes the installer. Upon execution, it proceeds to do a series of suspicious events, such as spawning a legitimate process and injecting its code into it. The threat also introduces a known scripting tool, AutoIt, to further obfuscate its execution, and later, it connects to its C&C to download and execute additional malware, typically different variants of infostealer.\nA snippet of the content of the zip file shows that, at a quick glance, it is just a standard application installer.\nSetup.exe is a version of rustdesk.exe, an open-source remote desktop access software identified on VirusTotal.\nThe zip file contains a trojanized file for rustdesk.exe, where one of the DLLs is tampered with. For this specific sample, the tampered DLL that was loaded by Setup.exe was flutter_gpu_texture_renderer_plugin.dll.\nWhen the file is executed, it displays an error but is already running in the background.\nIn the background, the following events have already taken place.\nInjecting malicious code into legitimate binaries, such as more.com, StrCmp.exe, SearchIndexer.exe, and explorer.exe, to evade detection by security defenses.\nIt drops additional files that are information stealers or malware from a different family.\nCreates autorun registry entry and scheduled tasks to ensure ongoing persistence.\nInjected processes were later observed, which initiated C&C communication.\nBundle of Stealers/Loaders\nThis time, it's not just a single info stealer but an army of recent noisy ones. This is not new, as it was also observed before with [raccoon stealers](https://threatpost.com/raccoon-stealer-google-seo/168301/).\nObserved stealers in the cases:\n- LUMMASTEALER\n- PRIVATELOADER\n- MARSSTEALER\n- AMADEY\n- PENGUISH\n- VIDAR\nRecap of the different methods of defense evasion observed in the case:\n- Utilization of large file size – a means to bypass sandbox capabilities\n- A password-protected zip file hinders content scanning and can complicate investigations if the password is unavailable.\n- The files are uploaded to known media-sharing sites, which most antivirus programs would only detect if the exact link is discovered before the download.\n- In some cases, download links are shortened, preventing scraping from sites.\n- The operation uses legitimate files and employs DLL sideloading or process injection to execute its payload.\nHow Managed XDR helps in the case of an info-stealer infection from fake installers\nDefense-in-depth is an important strategy that organizations use to protect their environments. In situations where a threat might have evaded some of these defense layers, Managed XDR can detect these incidents in real time. It offers the necessary analysis and actions to effectively contain the threat.\n- Threat hunting and human analyst augmented alerting - Some activities may not be captured by alerts or could generate low-severity alerts, which Trend Vision One users might overlook. Threat hunting proactively searches for known tactics, techniques, and procedures (TTPs) or emerging threats, ensuring that alerts are issued. Additionally, Managed Detection and Response (MDR) analysts can determine whether certain detections require further attention from the customer, reducing the burden on Trend Vision One users to check every alert.\n- Understanding the context of the alert – When a threat activity generates a detection, further correlation is necessary to provide context and capture the complete narrative of the events. Upon linking our findings to the initial alert, it becomes evident that most of the findings in the draft are not included in a single alert or detection. Additionally, some instances lack any related detection and were only connected through further investigation using the search application. As illustrated in the case findings shared earlier, these insights are obtained through the MXDR analyst's deeper investigation of the initial triggers, which may include threat hunting or alerts generated from a workbench.\n- Implementing response actions – As the fake installer infection progresses, MXDR analysts can initiate response actions to contain the threat on behalf of the customer. In the case we are dealing with, we have isolated the affected machines to prevent further spread. Indicators of Compromise (IOCs) have been added to the Suspicions Objects (SO) list to block any additional execution, and the suspicious files have been submitted to the analysis team for accurate detection.\nConclusion\nThreat actors continue to use social engineering tactics to target its victims and apply different methods to avoid security defenses, including: DLL sideloading, using large installer files, password-protected ZIP files, process injection into legitimate processes, connections to legitimate websites, and creating copies of files and renaming them to appear benign.\nIt is important to stay updated on current threats and to remain vigilant regarding detection and alert systems. Visibility is important because solely relying on detection can result in many malicious activities going unnoticed. Organizations should consider the following to stay ahead of these threats:\n- Implement a multi-layered defense approach for in-depth defense.\n- Provide user education.\n- Establish an incident response plan.\n- Engage in threat hunting.\n- Use a Managed Security Service Provider (MSSP).\nOrganizations can take advantage of [Trend Vision One™ – Endpoint Security](https://www.trendmicro.com/pt_br/business/products/endpoint-security.html) for prevention, detection, and response for user endpoints, servers, cloud workloads, and data centers.\nManaged XDR offers a 24/7 managed detection and response (MDR) for email, endpoint, server, cloud workloads, and networks from our world-class MDR team\nTrend Vision One Threat Intelligence\nTo stay ahead of evolving threats, Trend Micro customers can also access a range of Intelligence Reports and Threat Insights within [Trend Vision One](https://www.trendmicro.com/pt_br/business/products/one-platform.html). Threat Insights helps customers stay ahead of cyber threats before they happen and be better prepared for emerging threats. It offers comprehensive information on threat actors, their malicious activities, and the techniques they use. By leveraging this intelligence, customers can take proactive steps to protect their environments, mitigate risks, and respond effectively to threats.\nTrend Vision One Intelligence Reports App [IOC Sweeping]\n- How Cracks and Installers Bring Malware to Your Device\nTrend Vision One Threat Insights App\n- Emerging Threats:\n[How Cracks and Installers Bring Malware to Your Device](https://portal.xdr.trendmicro.com/index.html#/app/ti/intelligence_insights?name=How%20Cracks%20and%20Installers%20Bring%20Malware%20to%20Your%20Device)\nHunting Queries\nTrend Vision One Search App\nTrend Vision One customers can use the Search App to match or hunt the malicious indicators mentioned in this blog post with data in their environment.\nPotential autoit script construction\nparentCmd:(\"*.exe\") AND processCmd:(\"*/c move*.cmd*&*.cmd\") AND objectCmd:(\"*/c copy /b ..\\*+ ..\\*\")\nMore hunting queries are available for Trend Vision One customers with [Threat Insights Entitlement enabled](https://www.trendmicro.com/pt_br/business/products/one-platform/threat-insights.html).\nIndicators of Compromise (IoC)\nDownload the full list of IOCs [here](https://documents.trendmicro.com/assets/txt/Fakeinstallers-IOCswCQX6fX.txt).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://www.threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "YouTube",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:24:32.731+02:00",
+    "updated": "2025-01-10T09:24:32.731+02:00"
+  },
+  {
+    "uuid": "35d2da7e9aa4b206cb6e7a4d4d7403c907776d86",
+    "url": "https://townhall.com/tipsheet/katiepavlich/2024/01/25/white-house-issues-new-threat-against-texas-as-border-stand-off-continues-n2634178",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katie Pavlich",
+    "published": "2024-01-25T21:15:00Z",
+    "title": "White House Issues New Threat Against Texas As Border Stand-off Continues",
+    "text": "As the battle between the federal government and Texas law enforcement continues in the Lone Star State, the White House has issued a new threat against Republican Governor Greg Abbott as he works to stop the illegal immigration invasion on the southern border with Mexico. BREAKING: White House doesn't rule out federalizing the Texas National Guard— End Wokeness (@EndWokeness) [pic.twitter.com/tbHdowVOQO] [January 25, 2024] For two years, through Operation Lone Star, Abbott has deployed the Texas National Guard to build barriers -- including miles of fencing and razor wire -- to keep illegal immigrants out. The Biden administration took them to court, which led to the Supreme Court ruling Border Patrol agents have the authority to cut through the wire. Supreme Court Allows the Invasion to Continue— Townhall.com (@townhallcom) [https://t.co/E40FyDudik] [January 25, 2024] Governor Abbott is doubling down, putting up more razor wire and reiterating Texas' constitutional right to defend itself. \"The Executive Branch of the United States has a constitutional duty to enforce federal laws protecting States, including immigration laws on the books right now,\" reads the statement. \"President Biden has instructed his agencies to ignore federal statutes that mandate the detention of illegal immigrants. The failure of the Biden Administration to fulfill the duties imposed by Article IV, § 4 has triggered Article I, § 10, Clause 3, which reserves to this State the right of self-defense,\" Abbott released in a statement late Wednesday. \"For these reasons, I have already declared an invasion under Article I, § 10, Clause 3 to invoke Texas’s constitutional authority to defend and protect itself. That authority is the supreme law of the land and supersedes any federal statutes to the contrary.\" Recommended My statement on Texas’ constitutional right to self-defense.— Greg Abbott (@GregAbbott_TX) [pic.twitter.com/seNFZdmujP] [January 24, 2024] Now, as Biden continues his assault on Texas rather than on millions of illegal immigrants brazenly pouring into the country, a number of states are joining Abbott in his fight against the federal government. 'Enough Is Enough': Governors Rally Behind Abbott As Biden Threatens Texas— Spencer Brown (@itsSpencerBrown) [https://t.co/LAlP23fZMK] [January 25, 2024]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "external_links": [
+      "https://t.co/E40FyDudik",
+      "https://t.co/LAlP23fZMK",
+      "https://www.t.co/LAlP23fZMK",
+      "https://www.t.co/E40FyDudik"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abbott",
+          "sentiment": "none"
+        },
+        {
+          "name": "greg abbott",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "white house issues new threat against texas as border",
+          "sentiment": "negative"
+        },
+        {
+          "name": "border patrol",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas national guard",
+          "sentiment": "none"
+        },
+        {
+          "name": "supreme court",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lone star st",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "operation lone star",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:27:53.103+02:00",
+    "updated": "2024-01-26T00:27:53.103+02:00"
+  },
+  {
+    "uuid": "e9a0846acddc98bde126d5a927f7d6e3e612993a",
+    "url": "https://www.reporteindigo.com/fan/cristiano-ronaldo-mete-su-gol-900-como-profesional",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Indigo Staff",
+    "published": "2024-09-05T20:30:00Z",
+    "title": "Cristiano Ronaldo mete su gol 900 como profesional",
+    "text": "Cristiano Ronaldo mete su gol 900 como profesional El delantero y astro portugués llegó al histórico tanto después de lograr anotar con Portugal en la Nations League de Europa [Indigo Staff](https://www.reporteindigo.com/author/indigo-staff-3/) El delantero portugués [Cristiano Ronaldo](https://www.reporteindigo.com/fan/cristiano-ronaldo-tira-indirecta-al-legado-de-pele/) alcanzó los 900 goles en su carrera este jueves, al marcar el segundo tanto de Portugal en el partido de la Nations League ante Croacia. El gol, un remate con el pie derecho desde el corazón del área tras asistencia de Nuno Mendes, supone un hito más en la carrera de récord del jugador. ¿Cuántos goles ha metido Cristiano Ronaldo? El delantero suma 900 goles en 1238 partidos oficiales, con una media de casi 0,73 tantos por encuentro, que ha marcado con las camisetas de Sporting (5), del Manchester United (145), del Real Madrid (450), del Juventus (101) y del Al-Nassr (67). A su periplo en estos clubes se suman los 131 tantos que ha firmado con la selección de Portugal. La afición lusa recibió el gol de [Cristiano](https://www.reporteindigo.com/?s=cristiano+ronaldo+) con su ya famoso “Siuuu” y coreó el nombre del delantero de Madeira, que para celebrarlo se tiró al suelo en la línea de fondo con las manos en la cara y una sonrisa.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:33:00.542+03:00",
+    "updated": "2024-09-06T00:33:00.542+03:00"
+  },
+  {
+    "uuid": "534e11402f599cf8ff707838bfdd73b26e656481",
+    "url": "https://www.meneame.net/story/valencianos-explotan-contra-nueva-actividad-turistas-recorren/c072",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aergon",
+    "published": "2024-08-30T06:42:00Z",
+    "title": "#72 Valencianos explotan contra una nueva actividad para turistas en la que recorren la ciudad bailando",
+    "text": "[NPC1](/user/NPC1)a [lavanguardia.com](/go/link/3974042)\n¿Como de subnormal hay que ser para pagar por mostrar a una ciudad de un millón de habitantes lo subnormal que eres?\n[#49](c49#c-49) Somos el parque de atracciones de Europa porque queremos ser el parque de atracciones de Europa.\n[#66](c66#c-66) Somos el país barato de la fiesta, también tienes el de el arte (Roma-Italia) y el de la historia (Atenas-Grecia).\nLos turistas pasan por lo menos una vez por la segunda y tercera pero seguramente repitan en la primera.\n[#33](c33#c-33) tienes razón, que los metan en algún sitio sin señores mayores, en una guardería encajarían perfectamente\n[#33](c33#c-33) Pero tú has visto los vídeos? https://www.bailaloloco.com/\nVergüenza ajena...\nPor otro lado no debe ser nada agradable vivir en el centro e ir (por ejemplo) con la compra y encontrarte a estos monguers en medio de la calle. Con este tipo de actividades expulsan a la gente normal del centro de las ciudades.\n[#33](c33#c-33) si es una persona , o dos vale, pero si van ocupando todo el ancho de la calle, co un ritmo impredecible (es decir moviéndoselo de un lado a otro, no con un andar normal) pues empieza a tocas las pelotas\nyo prefiero esto\n[#45](c45#c-45) claro, claro. Seguro que al vecino le encanta que cada hora pasen varios grupos grandes de gente con auriculares bailando sin enterarse de lo que pasa a su alrededor y cantando o moviéndose y ocupando toda la calle.\nSeguramente los dos primeros días fue gracioso.\n[#14](c14#c-14) Depende de cuantos sean y por dónde pasen, supongo. Si se meten en medio de la plaza de la reina o delante del palau de la música y son 25 personas caben tranquilamente, pero si se meten esos mismos 25 en una acera de 3 metros como se ve en la captura... pues joden 15m de acera \"a su ritmo\" por la puta cara.\nHace años ya se liaron pollos con los segway, porque ni contaminan ni hacen ruido, pero cuando van unos cuantos juntos colapsan calles y cruces.\n[#21](c21#c-21) eso me pasa a mí, vivo al lado del centro de mi ciudad, y ocupan y se paran en sitios estrechos, cuando no te ves al grupo entero ocupando todo el carril bici\n[#4](c4#c-4) a mí esto me suena a felicidad impostada. A Mr Wonderfull, a querer tapar una fuga de agua con buenas intenciones, a Teletubbies modernos. Pero que sabré yo que soy un triste\n[#4](c4#c-4) Eso digo yo, otra cosa sería que lo hicieran con música en altavoces. Si a la gente no le importa hacer el ridículo, y se lo pasan bien así, por mi perfecto.\n[#14](c14#c-14) porque seguramente moleste al resto, tu ves un grupo de flipados bailando, te mererias en su camino? pasarias entre ellos? le dejarías paso a todos priorizandolos?\nTampoco hay que pensar mucho para darse cuenta que es una molestia\n[#4](c4#c-4) Pues sí. Esa parece la moda, criticar a una de las actividades que más ingresos generan en este país. Otra cosa que sí es criticable es la actitud de la gente, la mala educación, etc. Pero eso desgraciadamente lo padecemos a diario en todos los ámbitos, en el trabajo, en la calle, en el supermercado, etc. No es exclusivo del turismo. Pero vamos, que si tan malo es puede que tengamos que reorientar la producción hacia el sector primario.\n[#20](c20#c-20) Actividad económica que genera beneficios para pocos y molestias para muchos, atrae trabajadores con sueldos míseros y provoca un encarecimiento sin precedentes de los alquileres. Dear tourist enjoy balconing.\n[#4](c4#c-4) Mucho amargado que no tiene un duro para irse de vacaciones y en vez de cagarse en la madre que pario a su empresa que le paga una mierda, se desahoga odiando turistas\n[#4](c4#c-4) Estoy de acuerdo pero... No es lo mismo una persona con auriculares bailando por la calle que un grupo de diez o veinte, con \"coreografías\" y ocupando todo el espacio. Sin ver ningún vídeo es difícil opinar, pero por lo leído tiene que ser un poquito incordiante.\n[#4](c4#c-4) No es quejarse por quejarse, mucha gente si, pero otros no tanto.\nVivo en mallorca y mi ingresos vienen gracias al turismo.\nAún así, hay que reconocer que no todo vale. Ya que hay actividades que pueden ser muy guays para los turistas pero realmente molestas para la gente que vive en la zona.\nPor ejemplo, aquí se han limitado los tours de buggies y motos de agua. Debido a que hacen un tour cada hora durante 8 horas por los mismos caminos y calas. Para la gente que vive en las zonas de paso es insoportable.\nY volviendo a la noticia, realmente es muy molesto los grupos de turistas. Como cruceristas, estos bailando, etc, debido a que no es lo mismo 50 turistas paseando a su bola que 50 turistas haciendo lo mismo, los segundos bloquean por completo.\nY el problema no es que haya 1 grupo, es que hay 3-4 grupos cada hora.\nLas críticas que yo defiendo son contra la masificación, no se puede todo para todos.\n[#4](c4#c-4) Quejarse del turismo puede tener sentido, porque en muchos sitios es excesivo. Pero no habría que quejarse al turista, que poca o ninguna culpa tiene, sino más bien a los que se están lucrando con los alquileres turísticos (y de paso, dificultando el acceso a la vivienda) y a los gobiernos que lo permiten. Quita eso, y en muchos sitios la cantidad de turistas ya volvería a ser aceptable. Para el resto, tasas turísticas hasta obtener un influjo razonable.\nPero claro, siempre es más fácil echar la culpa al débil.\n[#22](c22#c-22) Y aún así es un problema mental mucho menor del que se pone a correr por la calle delante de un toro.\n[#25](c25#c-25) En el Retiro hay muchos, además de estos, haciendo flashmobing, k-pop, influencers y demás. Un par de broncas he tenido por pasar por donde están haciendo sus movidas, pero me la suda. Me empiezo a parecer al señor que se sienta en el banco del parque detrás de la streamer: \"Your followers? Oh, are you Jesus now? are you?\"\nHay que ser imbécil o tener un problema mental para que te moleste que haya gente bailando sin hacer ruido.\nEnésimo artículo de mierda sobre el tema cansino del verano para que la gente haga el clic correspondiente y el periódico gane dinerito, que está la cosa mu achuchá.\nA ver, si no molestan con auriculares no me parece mal. Que los frivolos guiris se diviertan como quieran.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bailaloloco.com/",
+      "https://bailaloloco.com/",
+      "https://www.bailaloloco.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T11:56:50.132+03:00",
+    "updated": "2024-08-30T11:56:50.132+03:00"
+  },
+  {
+    "uuid": "2914be3061b86e321b02d043b36c3fd6a9cf7830",
+    "url": "https://www.lequipe.fr/Tennis/Actualites/895-jours-apres-sa-derniere-victoire-nick-kyrgios-a-a-nouveau-gagne-face-a-mackenzie-mcdonald-a-miami/1548108",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anna Behar",
+    "published": "2025-03-19T22:50:00Z",
+    "title": "895 jours après sa dernière victoire, Nick Kyrgios a à nouveau gagné face à Mackenzie McDonald à Miami",
+    "text": "Il aura fallu attendre 895 jours pour revoir Nick Kyrgios s'imposer sur un court de tennis. Plus de deux ans après sa dernière victoire (au 2e tour du tournoi ATP 500 de Tokyo), Kyrgios, 892e mondial, est venu à bout de Mackenzie McDonald (101e). Opposé à l'Américain lors du premier tour du Masters 1000 de Miami, l'Australien de 29 ans s'est imposé en trois sets (3-6, 6-3, 6-4) . Il affrontera au deuxième tour le Russe Karen Khachanov, 23e mondial.\nL'ÉQUIPE Finaliste de Wimbledon en 2022 , Kyrgios n'avait disputé qu'un match durant les saisons 2023 et 2024 (défaite au premier tour à Stuttgart en juin 2023). Depuis son retour cette saison, l'Australien avait enchaîné trois défaites de rang à Brisbane, à l'Open d'Australie et à Indian Wells (forfait). En raison d'une blessure à un poignet, il n'avait pas pu terminer son match face au Néerlandais Botic Van De Zandschulp. Il avait déclaré : « Je suis encore là, mais si je ne suis pas capable de finir les matches, à quoi bon... »\nlire aussi Le tableau du Masters 1000 de Miami 1 commentaire 2 réactions ajouter un commentaire réagir à l'article Les commentaires sont soumis à des règles de modération. lire la charte J jeannotdupin Ça fait du bien de revoir Kyrgios à un niveau acceptable. Il a même eu quelques fulgurances dignes de ses meilleures années. Et il a su garder son calme et sa concentration. Le circuit a besoin de joueurs flamboyants en son genre, les pitreries en moins. 3 réagir répondre signaler 19min L'ÉQUIPE chrono filtrer : tennis L'ÉQUIPE le journal lire l'édition L'ÉQUIPE L'ÉQUIPE",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Sport->tennis",
+      "Sport->sport achievement",
+      "Sport->sport event",
+      "Human Interest->record and achievement",
+      "Social Issue->communities",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:12:20.639+02:00",
+    "updated": "2025-03-20T01:21:38.084+02:00"
+  }
+]

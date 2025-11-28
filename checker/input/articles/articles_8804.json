@@ -1,0 +1,425 @@
+[
+  {
+    "uuid": "f5e48287745d3ffb096af4020180f0ec33ba7105",
+    "url": "https://dev.to/opensauced/5-ways-programmers-can-use-ai-tools-to-improve-their-lives-200g",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2023-12-28T22:10:00Z",
+    "title": "5 Ways Programmers Can Use AI Tools to Improve Their Lives - DEV Community",
+    "text": "During the end of 2022, we had a significant development in AI and human history, which was the birth of GPT products through ChatGPT and their availability for public use. Such tools and developments in AI impacted people's lives and minds, and a whole hype was born around this topic. Developers created new tools on top of it. Researchers from different fields started a new research phase. Entrepreneurs started companies based on ChatGPT products. Today, I will show you seven use cases of ChatGPT-like tools for programming and how they could help you be a better and faster programmer. [ ](#how-does-it-work) How does it work? Before jumping into the use case we are exploring in this article, I would like to highlight the main principles of ChatGPT-like tools: they have limited information and are just math! What does that mean? ChatGPT and other AI tools work by calculating the possibility of the answer to the prompt you are giving and generating a result based on that. The ChatGPT-like tool should have seen the issue before or been trained on large amounts of data to perform well; otherwise, it would take a lot of work to get the expected results. By training, we mean providing previous inputs to process and parse into its knowledge base. Therefore, those tools are better with the foundations and struggle with recent technologies; by recent, we mean anything after the period used for training the AI tools. Now, let's jump to the cases I am discussing; you will notice in the article that I use multiple tools for different purposes. These tools will enable you to think and explore more. Even though the tools are developed on the same foundation model, they perform differently based on the domain they are trained for and the prompts. [ ](#case-1-patterns-and-regex) Case 1: Patterns and RegEx One of the cases where ChatGPT would help you in programming is RegEx. For those who do not know, RegEx means regular expressions, a sequence of characters that specify a pattern to match. For example, if you want to find numbers in a text, you could use RegEx syntax (\\d+) to find and replace them. As for these patterns, since it's been around in the programming world for a long time, ChatGPT Would be a great tool to find patterns for specific tests, explain them, and even help you understand your patterns. I have used this while trying to find a tailwind anti-pattern in the code of OpenSauced; here are the steps that I have followed to do that and create a pull request based on that: - I asked ChatGPT to get the RegEx I needed, - Searched for that by using the VS Code find tool, - I opened the results in a file (I did this from VS Code; it has such a feature!) - Then, I cleaned the file by using another RegEx. Doing this without ChatGPT is possible, but I need to think about the best RegEx pattern and work until I find it, yet ChatGPT did that in a few seconds. Here is an example of the ChatGPT prompt and the result: write a regex that has the following: check the begining of the line check if the begining is empty check if there is a number followed with two dots check if there is a new line after that line Result: // ChatGPT To match a regex pattern that checks the beginning of a line, checks if the beginning is empty, checks if there is a number followed by two dots, and checks if there is a newline after that line, you can use the following regex: regexCopy code ^(?=\\s*\\d+\\.\\.\\s*$) Here's a breakdown of the regex pattern: 1. ^ - Anchors the regex to the beginning of the line. 2. (?= - Starts a positive lookahead assertion, which is used for checking without consuming characters. 3. \\s* - Matches zero or more whitespace characters. 4. \\d+ - Matches one or more digits (a number). 5. \\.\\. - Matches two dots. 6. \\s* - Matches zero or more whitespace characters. 7. $ - Anchors the regex to the end of the line. 8. ) - Ends the positive lookahead assertion. This regex pattern will only match lines that meet the specified criteria: an empty line that contains only a number followed by two dots and is followed by a newline. [ ](#case-2-parsing-unstructured-data) Case 2: Parsing Unstructured Data Sometimes, when you program, you need to get structured data from an unstructured one or even scrap some data from a text. You must be able to use it in your project or website. You might find it easier to structure the data by using ChatGPT. I followed this when I wanted to write a JSON file out of a YouTube list; instead of doing a complex programming solution that might take half an hour, my go-to solution was ChatGPT. I had to get the data from YouTube, which was semi-structured; I asked ChatGPT to convert it to JSON to use on [hadithtech.com](//hadithtech.com) website and Hola! the [PR](https://app.opensauced.pizza/feed/858) is ready! It only takes a few seconds to do that. If it were not for ChatGPT, it would take more time. Here is the data that I got from YouTube: Here is the result from ChatGPT: [ ](#case-3-a-pair-programming-friend) Case 3: A pair programming friend This is one of the most interesting cases. Here, you will need to think about ChatGPT-like tools as your friend or assistant, but at the same time, you will need to trust your judgment and yourself. [ ](#refactor) Refactor If you are an open source maintainer, you probably do code reviews a lot. You may need to check if a code is good or has any concerns. You could use copilot chat, ask it directly about a code, and get the results based on that. I did that with the next code and got a good result that you could see. Here is an example code: let focusOnHighlighCreationInput: NodeJS.Timeout; if (window.innerWidth > 768) { focusOnHighlighCreationInput = setInterval(() => { const highlightCreationInput = document.getElementById(\"highlight-create-input\"); if (newHighlight && highlightCreationInput) { highlightCreationInput.click(); highlightCreationInput.focus(); clearInterval(focusOnHighlighCreationInput); } }, 1000); } else { // for mobile. No need to focus on input, just click on the button as it opens up a form anyway. focusOnHighlighCreationInput = setInterval(() => { const mobileHighlightCreateButton = document.getElementById(\"mobile-highlight-create-button\"); if (newHighlight && mobileHighlightCreateButton) { mobileHighlightCreateButton.click(); clearInterval(focusOnHighlighCreationInput); } }, 1000); } As you can notice in the code above, there is repatriation in the logic and code, which might need to get refactored. But before going to that, I asked Copilot chat about its opinion on this, and here is the result: The prompt: Should we refactor this code and why? The result: Yes, this code can be refactored for several reasons: Code Duplication: The setInterval function and the clearInterval function are duplicated in both the if and else blocks. This can be abstracted into a separate function. Separation of Concerns: The code is directly manipulating the DOM and handling UI logic. This is not recommended in React. Instead, state and props should be used to handle UI changes. Performance: Using setInterval and document.getElementById repeatedly can be performance-intensive. It's better to use event listeners or React's lifecycle methods or hooks. As you can see, Copilot detected the issues, suggested that we go further, and asked to refactor the code, which gave satisfying results in less than a minute. I then asked Copilot chat to fix the code: The prompts: refactor the selected code to have less code and use DRY principle The results: let focusOnHighlighCreationInput: NodeJS.Timeout; const focusOrClickElement = (elementId: string, isMobile: boolean) => { focusOnHighlighCreationInput = setInterval(() => { const element = document.getElementById(elementId); if (newHighlight && element) { element.click(); if (!isMobile) { element.focus(); } clearInterval(focusOnHighlighCreationInput); } }, 1000); } if (window.innerWidth > 768) { focusOrClickElement(\"highlight-create-input\", false); } else { // for mobile. No need to focus on input, just click on the button as it opens up a form anyway. focusOrClickElement(\"mobile-highlight-create-button\", true); } I was almost satisfied with this result, but the last part of the if statement could be done better. For that, I wrote another prompt to push Copilot to get rid of that code, and here is the result: Prompt: could we get rid off the last if statement and include that in the code directly? The output code: // Determine the element id and whether to focus based on the window width const elementId = window.innerWidth > 768 ? \"highlight-create-input\" : \"mobile-highlight-create-button\"; const shouldFocus = window.innerWidth > 768; handleHighlightCreation(elementId, shouldFocus); With this result, I felt satisfied and could code faster with Copilot chat. The only struggle someone would find here is understanding the code and detecting which code needs refactoring. [ ](#explaining-code) Explaining code This is when you think about ChatGPT as a friend. Instead of asking ChatGPT to write a code, you might need to understand a code written in some language to use the logic or learn from it. For that, you can use the ChatGPT-like tools to help you with it and be able to provide relative information based on your needs and requirements. This will help you to learn faster and get the results in a short time. If you are an open-source contributor, you might wonder how to understand a function or might need to get some help for understanding that, yet the people are in different time zones or busy, for you might ask the Copilot Chat or ChatGPT-like tools to explain a specific function and give you some details. This would increase the development speed and eliminate the delay that might happen due to the communication. As an example, I used Copilot chat to explain the code written in the previous example in two sentences, and here is the result: The highlighted TypeScript/React code defines a function handleHighlightCreation that sets up an interval to check for a new highlight and a specific HTML element every second. If both exist, it simulates a click event on the element, optionally focuses on it (based on the shouldFocus argument), and then clears the interval. From there, you can continue to ask questions to clarify until you get the answer you need. One popular prompt people use when asking ChatGPT to explain something is, “Explain this to me like I’m five,” for a simplified version of the explanation. [ ](#security-checks) Security checks This would feel more like code explaining, but when you specify the domain, it would help you to get more specific answers that might fit your needs. Security checks would be an interesting case for the AI tools; the only thing here is that it depends on the knowledge base that we have; as for this, you can use the GitHub Copilot chat inside your editor and select a text and ask questions that you need to figure out or get an insight about it like: - Would this code have a memory leak? - Does this code have any security issues? - Give me an example of SQL injection for this code. Such prompts would be helpful for you to use when you write code and to get input about how to fix that. Even though AI tools might not give you the best solution or answer, it will be helpful to guide you. The examples I provided above rely on [Bassem Dghaidi](https://www.youtube.com/watch?v=CXEJ5FhHIfo), a senior software engineer at GitHub, a workshop provided during Universe 2023, and a video about it. [ ](#case-4-documentation-suggestions) Case 4: Documentation suggestions When you write a code, you might need to write the documentation related to it or even update it for future usage; the value is remembering what you did and delivering a message quickly. The only issue is that writing good docs is hard and time-consuming. For that reason, you might rely on ChatGPT, where you give it a function and ask for the documentation related to it, so it will help you write the docs and have a great result. This will not only help you develop your project but also empower other people to use the project. A few weeks ago, we hosted an extended AI-related [Twitter space](https://twitter.com/saucedopen/status/1734596509792895372). (Feel free to listen to it if you have not yet). During the space, one of the guests suggested improvement in AI would require us, as developers, to write great documentation to be used in the model training to provide clean training data and extract better results. Another use case would be asking ChatGPT to evaluate your documentation. Ask if there's a way to simplify. Ask if there is a code sample that would be useful or to help you create an example that a global audience can understand by removing jargon. Our Developer Experience Lead, Bekah Hawrot Weigel, has used ChatGPT to repurpose documentation into other forms like drafts of guides. Another few companies use similar tools to have a QnA bot for their documentation like [Kapa.ai], which is used to learn from the documentation and tutorials and provide support for developers to understand the documentation and answer their questions. All of these tools and ideas would help developers and no code contributors take part in developing open-source projects and add value to them. [ ](#case-5-pull-request-descriptions) Case 5: Pull Request Descriptions One of the most important aspects of open source contributions is communication between the team. The pull request description would be the way to do that through the code. Writing a great description could be hard work after working on your code. This skill requires a concise and articulate description so the reviewer understands what your PR has done and accomplished. As for this, you could use the AI tools, which would help you; instead of checking the code yourself, you can ask the tools to provide the description, and your job is to check if it's correct or not. This will make things easier for you. To do this, you could use a couple of great software here, I am going to explain three interesting ones, [GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot) [Codium.ai](https://github.com/Codium-ai/pr-agent) - [OpenSauced.ai](//OpenSauced.ai)extension In the previous options, you could notice that Codium.Ai and OpenSauced.ai are open-source options, and Copilot is focused on enterprises. Both OpenSauced and Codium have leveraged OpenAI APIs. As for the OpenSauced extension, we use the commit messages and the diff between the changes to generate the summary of the PRs. Then, we add that summary to the PR immediately. Such a feature would make writing the PR summary take less than a minute and save you time. At OpenSauced, we value the open-source community. We have developed the Chrome extension to help you while you contribute to open source through providing, refactoring, code explanation, and test tools in the PR review and writing the tests for the code, and even cover almost all of the use cases that we have mentioned in this article if you have not used it, we encourage you to download the extension from opensauced.ai. A screenshot from OpenSauced.ai chrome extension In the end, remember that those tools would only make sense if you had insight or an idea about what you are writing and will require you to vet the output when you get it. Therefore, we still need human input to get the best result. Do you have other cases of AI usage in programming that we did not cover? Please share that in the comments!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=CXEJ5FhHIfo),",
+      "https://twitter.com/saucedopen/status/1734596509792895372).",
+      "https://app.opensauced.pizza/feed/858)",
+      "https://github.com/Codium-ai/pr-agent)",
+      "https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot)",
+      "https://www.docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/copilot-pull-request-summaries/creating-a-pull-request-summary-with-github-copilot)",
+      "http://youtube.com/watch?v=CXEJ5FhHIfo),",
+      "https://www.twitter.com/saucedopen/status/1734596509792895372).",
+      "https://www.app.opensauced.pizza/feed/858)",
+      "http://www.youtube.com/watch",
+      "https://www.github.com/Codium-ai/pr-agent)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ways programmers can use ai tools",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gpt",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:50:48.429+02:00",
+    "updated": "2023-12-29T07:28:50.037+02:00"
+  },
+  {
+    "uuid": "f976fce9272d0ebc39e2a53e3032f551e4618406",
+    "url": "https://www.wndu.com/2025/02/21/michigan-city-woman-charged-2-fentanyl-overdose-deaths",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@16NewsNow",
+    "published": "2025-02-21T00:43:00Z",
+    "title": "Michigan City woman charged in 2 fentanyl overdose deaths",
+    "text": "Michigan City woman charged in 2 fentanyl overdose deaths\nPublished: Feb. 20, 2025 at 7:43 PM EST|Updated: moments ago\nSOUTH BEND, Ind. (WNDU) -\nCopyright 2025 WNDU. All rights reserved.\nSOUTH BEND, Ind. (WNDU) -\nCopyright 2025 WNDU. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->drug related crimes",
+      "Crime, Law and Justice->law enforcement",
+      "Health->drug rehabilitation",
+      "Health->poisoning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:50:23.943+02:00",
+    "updated": "2025-02-21T02:50:23.943+02:00"
+  },
+  {
+    "uuid": "456839325b8a786563ba924b1672bb9ac117f862",
+    "url": "https://www.prensa-latina.cu/2025/03/05/ceniza-de-volcan-de-ecuador-afecta-provincias-de-napo-y-sucumbios",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adriana Robreño",
+    "published": "2025-03-05T22:23:00Z",
+    "title": "Ceniza de volcán de Ecuador afecta provincias de Napo y Sucumbíos",
+    "text": "La entidad mostró imágenes de plantaciones que registran una fina capa de ceniza en sus hojas.\n«Dado la dirección de los vientos, es probable que se siga registrando caída de ceniza en estas localidades y sectores aledaños. Este fenómeno ha sido persistente dentro del actual periodo eruptivo», agregó la institución especializada.\nAnte esa situación la Secretaría Nacional de Gestión de Riesgos exhortó a la ciudadanía a tomar precauciones, como usar mascarilla y gafas protectoras, cerrar puertas y ventanas, lavar los alimentos y no usar agua para limpiar la ceniza, porque puede obstruir alcantarillas y sumideros.\nEl Reventador, de tres mil 600 metros de altura sobre el nivel del mar, está ubicado a unos 90 kilómetros al este de Quito, en la zona norte de la región amazónica ecuatoriana.\nEse es uno de los volcanes más activos del país y su actual proceso eruptivo comenzó en 2002.\narc/avr",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Disaster and Accident->natural disaster"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Secretaría Nacional de Gestión de Riesgos",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T02:39:19.877+02:00",
+    "updated": "2025-03-06T02:39:19.877+02:00"
+  },
+  {
+    "uuid": "4e611c49e6451b9d56b03107e3bf4944818df1be",
+    "url": "https://www.itv.com/news/central/2024-10-11/northern-lights-put-on-a-show-in-the-midlands",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ITVNews",
+    "published": "2024-10-11T07:33:00Z",
+    "title": "Northern Lights put on a show in the Midlands | ITV News Central",
+    "text": "The Northern Lights put on a spectacular show in the Midlands with their bright pink and green hues visible on Thursday night. ITV News Central viewers sent in their photos of the natural phenomenon, also known as aurora borealis. If you have photos of the Northern Lights you would like to share, send them to centralnews@itv.com. The lights could be seen across England, as far South as Kent and East Anglia, and were also spotted further north in Lancaster. Nick Hart from sent in this photo of the Northern Lights in Tamworth: The Met Office had said relatively clear skies forecast for much of the UK created a \"decent chance of visibility.\"A spokesman for the forecaster said there had been “more space weather events in recent months”, including the Northern Lights, because the sun was nearing the peak of its solar cycle.This photo of the aurora lighting up the Nottingham sky was sent in by Ethan Crowe: The auroras on Earth, which are most commonly seen over high polar latitudes but can spread south, are mainly influenced by geomagnetic storms which originate from activity on the Sun.The sun works on a cycle of around 11 years called the solar cycle – with peak sunspot activity on the surface of the Sun referred to as solar maximum.Sunspots give the potential for Earth-directed releases of large bursts of energy, called coronal mass ejections, which can lead to aurora visibility.Robert Swift spotted the Northern Lights over Lichfield: Aurora displays occur when charged particles collide with gases in the Earth’s atmosphere around the magnetic poles.As they collide, light is emitted at various wavelengths, creating colourful displays in the sky.Want a quick and expert briefing on the biggest news stories? Listen to our latest podcasts to find out What You Need To Know...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T10:41:42.560+03:00",
+    "updated": "2024-10-11T10:41:42.560+03:00"
+  },
+  {
+    "uuid": "b4c60eb2213ed30cdac29b448f9ab41f43b11768",
+    "url": "https://peopleenespanol.com/rutina-belleza-frio-aceite-facial-hidratacion-8741348",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pilar Sopeséns",
+    "published": "2024-11-07T21:20:00Z",
+    "title": "Cuando bajan las temperaturas necesitas aceite facial",
+    "text": "Ponte Bella Cuando bajan las temperaturas no puedo vivir sin... aceite facial Si no has incorporado un aceite facial en tu rutina ¡ya tardas! Es imprescindible cuando llega el frío.\nPor Pilar Sopeséns Actualizado en Noviembre 7, 2024 04:22PM EST En cuanto bajan las temperaturas , la humectante habitual se puede quedar escasa y quizá comiences a notar el rostro seco y tirante. Esa es la señal para incorporar cambios en tus cuidados y optar por un aceite facial. Su textura es perfecta para los días fríos y ayuda a preservar la piel.\n¿Qué puedes esperar con su uso? Una piel más luminosa, confortable e hidratada. Todo esto gracias a sus propiedades que benefician la reparación de la barrera hidrolipídica de la piel, que mantiene la hidratación y nos protege de agresores externos e internos. Si incluyes un aceite en tu rutina, reemplazas el sebo cutáneo y ayudas a fortalecer el manto lípido, creando así una pantalla grasa humectante que sella la hidratación y evita que el agua se evapore.\nGetty Images\nExisten muchos mitos alrededor de este cosmético, pero ¿hay algo de verdad? Empeoran la piel grasa: Los aceites ligeros pueden en realidad ayudar a equilibrar la producción de grasa y proporcionar hidratación sin obstruir los poros. Más aceite = mejor resultado: Usar demasiado aceite puede llevar a una sensación demasiado grasienta. Unas pocas gotas son normalmente suficientes para lograr el efecto deseado. Los aceites son solo para uso nocturno : Muchos aceites faciales se pueden usar día y noche. Algunos incluso crean una barrera protectora contra los agresores medioambientales durante el día. Cortesía\nAceite facial con 9 aceites ricos en antioxidantes Superfood, de Elemis . $69. elemis.com\nSi no te quieres perder nada, suscríbete gratis aquí al boletín de People en Español para estar al día sobre todo lo que hacen tus celebridades favoritas, las noticias más impactantes y lo último en moda+belleza.\n¿Qué hay que tener en cuenta al elegir un aceite facial? Ante todo debes decantarte por un aceite vegetal , natural y no comedogénico ; es decir que no obstruya los poros. En cuanto a las pieles con acné, deberían elegir aceites con ingredientes antisépticos y bactericidas, como el de árbol de té o el de moringa.\nLibérate de prejuicios e incorpora un aceite en tu rutina de belleza. ¡Será tu mejor aliado cosmético contra el frío!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Health",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpeopleenespanol.com%2Frutina-belleza-frio-aceite-facial-hidratacion-8741348%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-share-article",
+      "https://us.elemis.com/superfood-facial-oil.html",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.us.elemis.com/superfood-facial-oil.html",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fpeopleenespanol.com%2Frutina-belleza-frio-aceite-facial-hidratacion-8741348%3Futm_source%3Dfacebook.com%26utm_medium%3Dsocial%26utm_campaign%3Dsocial-share-article"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:51:16.235+02:00",
+    "updated": "2024-11-08T00:51:16.235+02:00"
+  },
+  {
+    "uuid": "b3724618dc621e32c7854618e3ba27d9039b2fc3",
+    "url": "https://www.abc.com.py/deportes/futbol/internacional/2025/03/19/venden-en-tiempo-record-30000-entradas-para-juego-de-leyendas-de-real-madrid-y-barcelona",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EFE",
+    "published": "2025-03-19T23:31:09Z",
+    "title": "Venden en tiempo récord 30.000 entradas para juego de leyendas de Real Madrid y Barcelona - Fútbol Internacional - ABC Color",
+    "text": "Fútbol Internacional Venden en tiempo récord 30.000 entradas para juego de leyendas de Real Madrid y Barcelona Toluca (México), 19 mar (EFE).- Las 30.000 entradas al estadio Nemesio Diez de la ciudad mexicana de Toluca para el partido de exhibición de leyendas del Real Madrid y el Barcelona, este 13 de abril, se vendieron \"en tiempo récord\", anunciaron este miércoles los organizadores. Por EFE 19 de marzo de 2025 - 20:06",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Economy, Business and Finance->tourism and leisure industry",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:31:09.019+02:00",
+    "updated": "2025-03-20T01:31:09.019+02:00"
+  },
+  {
+    "uuid": "7bb0ad0360773bd2498a78e055c1a0e341fe8d03",
+    "url": "https://www.einnews.com/pr_news/682397231/military-and-defense-sensor-market-set-to-reach-usd-14-4-billion-by-2031-propelled-by-a-5-8-cagr-from-2022-onwards",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EIN News",
+    "published": "2024-01-19T15:01:00Z",
+    "title": "Military and Defense Sensor Market Set to Reach USD 14.4 Billion by 2031, Propelled by a 5.8% CAGR from 2022 Onwards - Military Industry Today - EIN Presswire",
+    "text": "Military and Defense Sensor Market Set to Reach USD 14.4 Billion by 2031, Propelled by a 5.8% CAGR from 2022 Onwards Military And Defense Sensor Demand\nPORTLAND, OREGAON, UNITED STATES, January 19, 2024 / EINPresswire.com / -- According to a new report published by Allied Market Research, titled, â€œ Military and Defense Sensor Market \" was valued at $8.3 billion in 2021, and is estimated to reach $14.4 billion by 2031, growing at a CAGR of 5.8% from 2022 to 2031.\nThe market for military and defense sensors is rapidly growing as a result of militaries all over the world making more purchases of defensive systems. The military and defense sensors of a weapon, aircraft, or electronic gadget are subsystems that notice changes in its environment or scans it to obtain information. Once processed and analyzed, the data is sent to another electrical system, usually a computer processor. Military and defense sensors are employed in missiles, warfare, aircraft, and radars among other systems for navigation, weapon control, active guidance, target tracking, and environmental awareness. Electro-optical sensors can also be used to detect dust, smoke, and fog.\nğ��‘ğ���ğ��ªğ��®ğ���ğ��¬ğ��­ ğ��’ğ��šğ��¦ğ��©ğ��¥ğ��� ğ���ğ��šğ�� ğ���ğ��¬ : https://www.alliedmarketresearch.com/request-sample/7522\nBy platform, the market is categorized into land, naval, and airborne. The land segment gained the highest market share in 2021 and is projected to lead the market within the forecast timeframe due to the rapid adoption of military and defense sensors in developing countries. In addition, the increasing innovations, and developments by market players which in turn drive the demand for military and defense sensors in the forecast timeframe. Ground based systems integrate and communicate with the airborne and naval systems, which helps in tactical advancements. Hence, the companies are largely focusing on communications part of efficient communication programs, particularly for land applications. It is projected to enable the communication for land-based operations and maintain the interoperability during wartime.\nBy component, the military and defense sensor market is categorized as software and hardware. Among these segments, the hardware segment captured a significant market share as compared to the software segment, owing to the higher use of this technology for better fuel efficiency. For instance, in April 2019, Thales acquired the Gemalto which engaged in digital identity and security. This acquisition increased Thalesâ€™s revenue as well as the companyâ€™s expansion throughout the world. Moreover, the installation of military sensors in aircraft provides a broad range of communications capabilities for a variety of aircraft, unmanned aerial vehicles (UAVs), and other mobile platforms, fueling the segment's expansion over the anticipated timeframe.\nBy application, the military and defense sensor market size is categorized as combat operations, target recognition, electronic warfare, communication and navigation, command and control, surveillance and monitoring, and intelligence and reconnaissance. The target recognition segment dominated in the global military and defense sensor market segment due to the rising number of threat activities and border conflicts between countries which increases the demand for target recognition sensors. The market players are expanding the capabilities of the development which improves the production capacity and supports the market expansion globally during the forecast period. For instance, in September 2022, Pico Technology launched the TA497 PicoBNC+ optical sensor is part of the new PQ316 PicoBNC+ Optical Sensor Kit. With all the user-friendliness advantages offered by Pico Technology's PicoBNC+ smart interface technology, the optical sensor kit gives users a practical way to capture rotational speed reference signals for Noise, Vibration, and Harshness (NVH) balancing applications. Thus, such developments are anticipated to drive the segmentâ€™s growth during the forecast period.\nğ���ğ��«ğ��¨ğ��œğ��®ğ��«ğ��� ğ��‚ğ��¨ğ��¦ğ��©ğ��¥ğ���ğ��­ğ��� ğ��‘ğ���ğ��¬ğ���ğ��šğ��«ğ��œğ��¡ ğ��‘ğ���ğ��©ğ��¨ğ��«ğ��­ ğ���ğ��¨ğ��° : https://www.alliedmarketresearch.com/military-sensors-market/purchase-options\nThe North America region will have a higher market share across the globe due to the highest requirement by North American armed forces with presence of many giant market players in this market which support the growth of the North American region and expected to growth with the substantial growth rate during the forecast period. Increase in government spending to augment capabilities of armed forces drives military and defense market in this region. Further, domestic presence of military sensor manufacturers in this region and rise in demand for navigation and surveillance systems which fuels the market growth.\nFor instance, in June 2022, the Canadian Armed Forces (CAF) and the Department of National Defense (DND) are looking for creative ways to safeguard and monitor CAF permanent ground-based assets that are operating remotely in the Arctic. Additionally, the Canadian government has allocated $1.2 million for research and development. Partnership of leading organizations in the field of military and defense sensor technology, propel the military and defense sensors market growth in this region. Moreover, Mexico is witnessing considerable growth in the electronics industry. Currently, it is the second largest supplier of electronic products to the U.S. market. The electronics industry that focuses on manufacturing of audio and video devices, telecommunications, and computer equipment & its parts is one of the fastest growing industrial sectors in Mexico.\nğ��Šğ��„ğ��˜ ğ��…ğ��ˆğ���ğ��ƒğ��ˆğ���ğ��†ğ��’ ğ���ğ��… ğ��“ğ��‡ğ��„ ğ��’ğ��“ğ��”ğ��ƒğ��˜ :\nBy platform, the land segment leads the market during the forecast period.\nBy component, the hardware segment leads the market during the forecast period.\nBy application, the communication and navigation segment are expected to grow at a lucrative growth rate during the forecast period (2022-2031).\nEurope is anticipated to exhibit the highest CAGR during the forecast period.\nğ��ˆğ��§ğ��ªğ��®ğ��¢ğ��«ğ��� ğ���ğ���ğ��Ÿğ��¨ğ��«ğ��� ğ���ğ��®ğ��²ğ��¢ğ��§ğ�� : https://www.alliedmarketresearch.com/purchase-enquiry/7522\nThe key market players in the military and defense sensor market are ğ��“ğ��¡ğ��šğ��¥ğ���ğ��¬ ğ��†ğ��«ğ��¨ğ��®ğ��©, ğ���ğ��€ğ��„ ğ��’ğ��²ğ��¬ğ��­ğ���ğ��¦ğ��¬ ğ��©ğ��¥ğ��œ., ğ��‘ğ��šğ��²ğ��­ğ��¡ğ���ğ��¨ğ��§ ğ��‚ğ��¨ğ��¦ğ��©ğ��šğ��§ğ��², ğ��‚ğ��®ğ��«ğ��­ğ��¢ğ��¬ğ��¬-ğ��–ğ��«ğ��¢ğ�� ğ��¡ğ��­ ğ��‚ğ��¨ğ��«ğ��©ğ��¨ğ��«ğ��šğ��­ğ��¢ğ��¨ğ��§, ğ��‡ğ��¨ğ��§ğ���ğ��²ğ��°ğ���ğ��¥ğ��¥ ğ��ˆğ��§ğ��­ğ���ğ��«ğ��§ğ��šğ��­ğ��¢ğ��¨ğ��§ğ��šğ��¥ ğ��ˆğ��§ğ��œ., ğ��„ğ��¬ğ��­ğ���ğ��«ğ��¥ğ��¢ğ��§ğ��� ğ��“ğ���ğ��œğ��¡ğ��§ğ��¨ğ��¥ğ��¨ğ�� ğ��¢ğ���ğ��¬ ğ��‚ğ��¨ğ��«ğ��©ğ��¨ğ��«ğ��šğ��­ğ��¢ğ��¨ğ��§, ğ��Šğ��¨ğ��§ğ�� ğ��¬ğ��›ğ���ğ��«ğ�� ğ��†ğ��«ğ��®ğ��©ğ��©ğ���ğ��§ ğ��€ğ��’ğ��€, ğ��“ğ��„ ğ��‚ğ��¨ğ��§ğ��§ğ���ğ��œğ��­ğ��¢ğ��¯ğ��¢ğ��­ğ��² ğ��‹ğ��­ğ���., ğ��‹ğ��¨ğ��œğ��¤ğ��¡ğ���ğ���ğ��� ğ��Œğ��šğ��«ğ��­ğ��¢ğ��§ ğ��‚ğ��¨ğ��«ğ��©ğ��¨ğ��«ğ��šğ��­ğ��¢ğ��¨ğ��§, ğ��šğ��§ğ��� ğ��‘ğ��¨ğ��œğ��¤ğ��°ğ���ğ��¬ğ��­ ğ��’ğ��¨ğ��¥ğ��®ğ��­ğ��¢ğ��¨ğ��§ğ��¬, ğ��šğ��§ğ��� ğ��¨ğ��­ğ��¡ğ���ğ��«ğ��¬.\nğ��‘ğ���ğ��šğ��� ğ��Œğ��¨ğ��«ğ��� ğ��‘ğ���ğ��©ğ��¨ğ��«ğ��­ğ��¬ :\nMilitary Parachute Market : https://www.alliedmarketresearch.com/military-parachute-market-A09102\nMilitary Robots Market : https://www.alliedmarketresearch.com/military-robots-market-A13130\nMilitary Battery Market : https://www.alliedmarketresearch.com/military-battery-market-A13309\nDavid Correa\nAllied Market Research\n+1 800-792-5285",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.globenewswire.com/en/news-release/2023/03/02/2618898/0/en/Military-and-Defense-Sensor-Market-to-Garner-14-43-Billion-by-2031-Allied-Market-Research.html",
+      "https://www.alliedmarketresearch.com/request-sample/7522",
+      "https://www.einpresswire.com/?promo=4700",
+      "https://www.alliedmarketresearch.com/military-battery-market-A13309",
+      "https://www.alliedmarketresearch.com/purchase-enquiry/7522",
+      "https://www.alliedmarketresearch.com/military-robots-market-A13130",
+      "https://www.alliedmarketresearch.com/military-sensors-market/purchase-options",
+      "https://www.alliedmarketresearch.com/military-sensors-market",
+      "https://www.alliedmarketresearch.com/military-parachute-market-A09102",
+      "https://www.einpresswire.com/",
+      "https://globenewswire.com/en/news-release/2023/03/02/2618898/0/en/Military-and-Defense-Sensor-Market-to-Garner-14-43-Billion-by-2031-Allied-Market-Research.html",
+      "https://alliedmarketresearch.com/military-robots-market-A13130",
+      "https://alliedmarketresearch.com/military-sensors-market/purchase-options",
+      "https://einpresswire.com/?promo=4700",
+      "https://alliedmarketresearch.com/request-sample/7522",
+      "https://alliedmarketresearch.com/military-parachute-market-A09102",
+      "https://alliedmarketresearch.com/military-sensors-market",
+      "https://alliedmarketresearch.com/military-battery-market-A13309",
+      "https://alliedmarketresearch.com/purchase-enquiry/7522"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ein presswire military",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "allied market research",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "portland",
+          "sentiment": "none"
+        },
+        {
+          "name": "oregaon",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T20:45:57.912+02:00",
+    "updated": "2024-01-19T20:45:57.912+02:00"
+  },
+  {
+    "uuid": "63f5fb39996075408c22172dcf200e528ca7d05a",
+    "url": "https://www.philstar.com/pilipino-star-ngayon/kutob/2023/12/29/2321999/disyembre-29-2023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Madam Rosa",
+    "published": "2023-12-28T16:00:00Z",
+    "title": "Disyembre 29, 2023 | Pilipino Star Ngayon",
+    "text": "CAPRICORN: (Dis. 22-Ene. 19) – Magiging suliranin ang pera kung hindi paplanuhin ang paggasta. Kung magiging madaldal malamang may masasaktan. Lucky numbers at color for the day ang 1, 5, 21, 36 at tangerine.\nAQUARIUS: (Ene. 20-Peb. 18) – Ituloy ang binabalak dahil magtatagumpay ka. Lucky numbers at color for the day ang 13, 25, 34, 40 at red.\nPISCES: (Peb. 19-Mar. 20) – Naghihintay ang tagumpay kung kikilos kaagad. Lucky numbers at color for the day ang 24, 33, 40, 44 at peach.\nARIES: (Mar. 21- Abr. 19) – Ipagpaliban ang planong gagawin sa bahay, opisina o pinapasukan. Lucky numbers at color for the day ang 8, 26, 34, 41 at orange.\nTAURUS: (Abr. 20-May. 20) – May mga kaibigan na handang magmalasakit. Lucky numbers at color for the day ang 12, 28, 33, 39 at jade green.\nGEMINI: (Abr. 21-Hun. 21) – Anuman ang problemay may solusyon. Lucky numbers at color for the day ang 3, 4, 27, 40 at citrine yellow.\nCANCER: (Hun. 2-Hul. 22) – Kung ano ang plano, tiyakin na magagawa agad. Lucky numbers at color for the day ang 2, 16, 25, 39 at light green.\nLEO: (Hul. 23-Ago. 22) – Ang pagbabagong magaganap ay ikatutuwa ng pamilya. Lucky numbers at color for the day ang 14, 36, 38, 43 at violet.\nVIRGO: (Ago. 23-Set. 23) – Doble ang suwerte sa negosyo at pag-ibig. Lucky numbers at color for the day ang 14, 16, 39, 42 at red.\nLIBRA: (Set. 24-Okt. 23) – Isang matalik na kaibigan ang magtatraydor. Ingat. Lucky numbers at color for the day ang 3, 12, 27, 39 at yellow.\nSCORPIO: (Okt. 24-Nob. 22) – Ngayon ang tamang panahon sa pakikipagsapalaran. Lucky numbers at color for the day ang 5, 12, 32, 39 at blue.\nSAGITTARIUS: (Nob. 23-Dis. 21) – Mag-ingat dahil may kahinaan ang katawan. Lucky numbers at color for the day ang 11, 14, 27, 37 at beige.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.facebook.com/plugins/page.php?href=",
+      "https://www.facebook.com/plugins/page.php",
+      "https://facebook.com/plugins/page.php?href="
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kung",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hul",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "hun",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:21:07.529+02:00",
+    "updated": "2023-12-29T02:21:07.529+02:00"
+  },
+  {
+    "uuid": "7c14b20cdcaf545344d0a4aa9cb4a9b0ce3d6eb6",
+    "url": "https://lasillarota.com/veracruz/estado/2024/4/25/en-coatzacoalcos-transporte-publico-para-urbanos-en-mal-estado-activan-operativo-480099.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FLUVIO CESAR MARTÍNEZ / CORRESPONSAL",
+    "published": "2024-04-25T21:01:00Z",
+    "title": "En Coatzacoalcos, transporte público para urbanos en mal estado; activan operativo | La Silla Rota",
+    "text": "COATZACOALCOS, VER. - Tras un operativo implementado por la delegación de Transporte Público del Estado, en Coatzacoalcos, municipio del sur de Veracruz, fueron retirados 5 autobuses de transporte público que se encontraban en mal estado, poniendo en riesgo a los usuarios. De acuerdo a lo que se ha informado, mediante recorridos de supervisión se detectaron las unidades del servicio urbano en evidentes malas condiciones físico-mecánicas, por lo que con fundamento en la ley 589 de tránsito y transporte para el estado de Veracruz y su reglamento fueron retiradas de circulación y enviadas al corralón de grúas Uribe con su respectivo folio de infracción. Te podría interesar [ÚNETE A NUESTRO CANAL DE WHATSAPP. EL PODER DE LA INFORMACIÓN EN LA PALMA DE TU MANO](http://chat.whatsapp.com/B9cNHPwml9174xpSbK7aNQ) Son unidades que cubren la ruta del centro al poniente de la ciudad, y que llevaban varios meses operando en esta situación, por lo que fue necesario aplicar esta medida, la semana pasada. Los concesionarios de las unidades retiradas de circulación suscribieron un apercibimiento en la delegación de transporte en donde se comprometieron a reparar sus unidades sin poder prestar el servicio hasta que se realizara la reparación y fueran presentadas para su revisión y autorización a seguir prestando el servicio. Una vez hayan sido reparadas y aprobadas por la dependencia, pueden regresar a operar la ruta que cubren. Y es que tan solo en el mes de abril, tres unidades sufrieron fallas mecánicas que pusieron en riesgo a los pasajeros, como ocurrió en la avenida Universidad, a la altura de la colonia Teresa Morales, donde un camión que cubre la ruta hacia la central camionera, se quedó sin las llantas traseras. Dos casos más ocurrieron en otros puntos de la ciudad, donde por suerte no hubo lesionados. La delegación de Transporte Público, informó que los operativos de supervisión y retiro de unidades continuarán de forma permanente y aleatoria, por lo que exhortó a los concesionarios a revisar el estado de las unidades, y en caso de ser necesario reparar las fallas, o de lo contrario serán retiradas. A través de redes sociales, pobladores han exhibido el mal es estado de los autobuses que operan en Coatzacoalcos, donde se han notado que en ocasiones traen reparaciones rápidas e inseguras. Por su parte, la dependencia también pide a los usuarios que cuiden las unidades y no las dañen, para que se mantengan en buen estado. ch",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://chat.whatsapp.com/B9cNHPwml9174xpSbK7aNQ)",
+      "http://www.chat.whatsapp.com/B9cNHPwml9174xpSbK7aNQ)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:34:43.730+03:00",
+    "updated": "2024-04-26T00:34:43.730+03:00"
+  }
+]

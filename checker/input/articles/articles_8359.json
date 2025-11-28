@@ -1,0 +1,420 @@
+[
+  {
+    "uuid": "13f73fce9227f5b7b696ac9f2c1ac60c95248ab0",
+    "url": "https://mynbc15.com/news/local/mobile-union-concerned-about-new-rule-punishing-employees-who-cause-disruption-or-discontent-in-the-workplace",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrea Ramey",
+    "published": "2023-12-29T21:38:00Z",
+    "title": "chevron-right",
+    "text": "{h2}Sunshine for weekend{/h2}{p}The final weekend of 2023 is calm and pleasant for the central Gulf Coast. After a start in the middle 30s, our Saturday will feature blue skies, sunshine, light wind, and highs in the middle{ } 50s. Sunday morning starts in the middle and upper 30s but warms further, to the lower or middle 60s. It will be an outstanding New Year's Eve with abundant sunshine.{br}{/p}{p}Sunday evening remains dry and calm. With a light southwesterly wind, we'll gradually see clouds increase overnight, heading into New Year's Day. At the stroke of midnight, temperatures should be near 50 degrees. New Year's Day has showers over about a third of the area, by late afternoon. Highs will still be in the lower 60s. Plan for daily changes after that with Tuesday being sunny, dry and cool, and Wednesday bring more rain, before we dry out for Thursday.{/p}{p}{strong}Chief Meteorologist Alan Sealls{/strong}{/p}{p}NBC 15-area forecasts from the National Weather Service - {a href=\"https://www.weather.gov/mob/marine\" target=\"_blank\" title=\"https://www.weather.gov/mob/marine",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.weather.gov/mob/marine",
+      "https://weather.gov/mob/marine"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alan sealls",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "nbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T02:43:39.164+02:00",
+    "updated": "2023-12-30T02:43:39.164+02:00"
+  },
+  {
+    "uuid": "a2903d17a4944d014c7adf3bfa30c74f989de2a8",
+    "url": "https://www.n-tv.de/ticker/Zahl-der-Vertriebenen-ist-weltweit-auf-ueber-122-Millionen-gestiegen-article25828735.html",
+    "ord_in_thread": 0,
+    "author": "n-tv NACHRICHTEN",
+    "published": "2025-06-12T07:27:04Z",
+    "title": "\"Zeit intensiver Volatilität\": Zahl der Vertriebenen ist weltweit auf über 122 Millionen gestiegen - n-tv.de",
+    "text": "Die Zahl der durch Krieg und Verfolgung vertriebenen Menschen ist nach Angaben der Vereinten Nationen (UN) weltweit auf über 122 Millionen gestiegen. Ende April 2025 gab es demnach über zwei Millionen mehr Vertriebene als noch ein Jahr zuvor, wie das UN-Flüchtlingshilfswerk UNHCR in Genf mitteilte. Dies sei vor allem auf anhaltende Konflikte wie im Sudan, in Myanmar und in der Ukraine zurückzuführen.\nDie Zahlen seien insgesamt gestiegen, obwohl ebenfalls fast zwei Millionen Syrer nach dem Sturz des langjährigen Herrschers Baschar al-Assad in ihre Heimat zurückgekehrt seien. Zugleich sei die Finanzierung der Flüchtlingshilfe auf das Niveau von 2015 gesunken, als es noch ungefähr halb so viele Vertriebene weltweit gegeben habe.\n\"Wir leben in einer Zeit intensiver Volatilität in den internationalen Beziehungen\", sagte der UN-Hochkommissar für Flüchtlinge, Filippo Grandi. Die moderne Kriegsführung schaffe eine fragile und bedrückende Lage, die von akutem menschlichem Leid geprägt sei. Gleichzeitig gingen \"brutale\" Kürzungen von Hilfsgeldern immer weiter. Die Situation sei unhaltbar und mache Flüchtlinge und andere Menschen schutzlos.\nDas UNHCR, dessen größter Geldgeber traditionell die USA waren, hatte bereits zuvor gewarnt, dass die Kürzungen Millionen von Menschenleben gefährdeten. Zudem seien Frauen und Mädchen auf der Flucht einem größeren Risiko von Vergewaltigungen und Kinder von Menschenhandel ausgesetzt.\nDas UNHCR äußerte sich aktuell nicht dazu, welche Länder ihre Mittel reduziert haben. US-Präsident Donald Trump hat die meisten Auslandshilfen gekürzt. Aber Großbritannien und andere europäische Länder geben ihrerseits weniger für Hilfe und mehr für Verteidigung aus.\nQuelle: ntv.de, rts",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->civil unrest",
+      "War, Conflict and Unrest->war",
+      "Social Issue->immigration",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Politics->human rights",
+      "Politics->refugees and internally displaced people"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Baschar al-Assad",
+          "sentiment": "none"
+        },
+        {
+          "name": "Filippo Grandi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Myanmar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "Genf",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "UN-Flüchtlingshilfswerk UNHCR",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news_ch",
+        "top_news_at",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:27:04.474+03:00",
+    "updated": "2025-06-13T08:05:57.000+00:00"
+  },
+  {
+    "uuid": "457475cbb063acd1bfb3f6ff49ef8a83ca0b5856",
+    "url": "https://cv.znaj.ua/ru/517841-vcheni-znayshli-unikalniy-metod-yak-zupiniti-vipadinnya-volossya-doslidzhennya",
+    "ord_in_thread": 0,
+    "author": "Олена Романчук",
+    "published": "2025-07-31T03:50:00Z",
+    "title": "Ученые нашли уникальный метод, ктоорый остановит выпадение волос - ЗНАЙ ЮА",
+    "text": "Ученые, возможно, приблизились к решению проблемы выпадения волос. В ходе исследований они выявили молекулярные механизмы, которые регулируют рост волос у человека, что открывает перспективы для разработки неинвазивных методов терапии, пишет Express.\nПодпишись на наш Viber: новости, юмор и развлечения!\nПодписаться\nВ основу работы легли исследования лечения андрогенетической алопеции - самой распространенной формы выпадения волос, встречающейся как у мужчин, так и у женщин. Сегодня медицинский туризм по пересадке волос набирает популярность благодаря более доступным предложениям в таких странах, как Турция, а также благодаря применению гормональных препаратов и локальных средств.\nВ отличие от традиционных методов, которые зачастую являются инвазивными или лишь замедляют выпадение, новое исследование сосредоточено на терапии с использованием стволовых клеток.\nТак, ученые изучали молекулярные сигналы, управляющие ростом волосяных фолликулов, с целью понять, как их можно изменить для восстановления роста волос у людей с облысением. Ранее выпадение волос при андрогенетической алопеции считалось необратимым процессом, однако исследование показало, что основную роль играют не мертвые, а спящие клетки.\nПри нарушении молекулярной связи волосяные фолликулы не погибают, а переходят в состояние покоя - \"спящего\" режима, когда волосы перестают расти. Эксперименты на мышах выявили разрыв сигнальной цепочки, вызывающий такой переход фолликулов в состояние \"сна\", из-за чего рост видимых волос прекращается.\nУченые предполагают, что, восстановив взаимодействие между молекулярными системами, можно \"разбудить\" фолликулы и возобновить рост волос. Этот научный прорыв открывает путь к разработке неинвазивных методов лечения, направленных на восстановление волос, а не просто на маскировку облысения.\nМатериалы новостного характера не могут считаться назначением врача и приравниваться к ним. Перед принятием решения обязательно проконсультируйтесь с доктором и обратитесь к специалисту.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health treatment and procedure",
+      "Health->medical condition",
+      "Science and Technology->biotechnology",
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research",
+      "Social Issue->population and census",
+      "Social Issue->mankind",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=TdrL3QxjyVw",
+      "https://invite.viber.com/?g2=AQBHp854yy0BjknLCovlazGCqvAmipQtzJqWDxlaZXNq4%2FMp3TOY868DzX9xyWLg",
+      "http://youtube.com/watch?v=TdrL3QxjyVw",
+      "http://www.youtube.com/watch",
+      "https://invite.viber.com/",
+      "https://www.invite.viber.com/?g2=AQBHp854yy0BjknLCovlazGCqvAmipQtzJqWDxlaZXNq4%2FMp3TOY868DzX9xyWLg"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ua",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:56:25.234+03:00",
+    "updated": "2025-08-01T08:05:29.000+03:00"
+  },
+  {
+    "uuid": "527c32099d686f5abb7aba15e57abd0ad8b3e556",
+    "url": "https://www.clarin.com/deportes/tension-automovilismo-argentino-aca-considera-clandestina-actividad-actc_0_kI1kVSxmkv.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Roberto Berasategui",
+    "published": "2024-07-25T23:07:00Z",
+    "title": "Tensión en el automovilismo argentino: el ACA considera \"clandestina\" la actividad de la ACTC",
+    "text": "Si en la Argentina aparecieron grietas en los últimos años como en el casi de la política nacional y así en otros sectores sin dudas uno de los ámbitos que quedó enredado en una circunstancia de divisiones y con ahínco fue el del automovilismo nacional. El máximo organismo de la disciplina en el país el Automóvil Club Argentino (ACA) parece despertarse después de tantos años de somnolencia frente a la avasallante actitud de la Asociación Corredores Turismo Carretera (ACTC).El ACA tiene el poder máximo del automovilismo en el país ya que está alineado a la Federación Internacional del Automóvil (FIA) la institución máxima del deporte motor. Sin embargo en los últimos tiempos la ACTC que bajo su órbita tiene al Turismo Carretera como máximo estandarte (quedó con ese poder desde 1979 como consecuencia de otro conflicto) acumuló en los últimos tiempos categorías que se pasaron de una fiscalización a otra.En contra de lo que establece el Código Deportivo Internacional de la Federación Internacional del Automóvil la entidad teceísta aumentó su mapa de fiscalización y con ello rompió el acuerdo tácito que se había logrado en 2001 cuando se produjo un distanciamiento similar entre ambas entidades.El área del automovilismo por parte del Automóvil Club Argentino es la Comisión Deportiva Automovilística (CDA). Desde allí se gestiona la fiscalización de las competencias de las categorías que están bajo su ala como el TC2000 o el Top Race entre otras y aquellas que son zonales a través de las regionales que responden a la CDA del ACA.El 2024 se presenta como un año de muchos movimientos dentro del automovilismo a nivel directivo porque al repentino crecimiento de la ACTC se le sumó el cambio de mando en el ACA donde César Carman asumió como nuevo presidente de la casa madre y Eugenio Breard inició su camino al frente de la Comisión Deportiva Automovilística (CDA) sector que tuvo en el control de sus riendas durante más de dos décadas al cuestionado ingeniero Carlos García Remohí.Tras asumir en mayo Carman (hijo y nieto de sendos presidentes de la institución que ya cuenta con 120 años de historia) otorgó una entrevista a Carburando donde se expresó sobre el conflicto que sacude al automovilismo nacional y se expresó sobre la relación que mantiene con la ACTC que en la actualidad está controlada por Hugo Mazzacane.“No hay ninguna enemistad desde el ACA para con la ACTC. Entendemos que lo que ellos hacen lo hacen muy bien y han logrado hacer un gran negocio en el país\\\" afirmó Carman y agregó: \\\"Yo creo que cuando uno es juez y parte se generan problemas. Cuando el que organiza y tiene que fiscalizar hay un conflicto de intereses\\\".El presidente del ACA que en su faceta social administra un club con 300.000 socios maneja una red de 190 estaciones de servicio en todo el territorio nacional y una flota de 500 unidades para el auxilio mecánico indicó: “Nosotros tenemos delegado el poder deportivo y fundamentalmente somos los encargados de fiscalizar es eso nada más. Entonces si en este caso la ACTC quiere abarcar otras categorías en nuestra opinión eso es incorrecto y por eso las llamamos carreras clandestinas porque no están fiscalizadas por el ente que lo tiene que hacer que es la CDA” expresó.Además descartó de plano que este conflicto tenga tintes políticos. “También he escuchado algunos medios comentar que la política se ha metido en este conflicto. Yo lo único que te puedo decir es que desde el ACA esto no es una cuestión política. Cumplimos 120 años lo hemos hecho toda la vida no es algo político” apuntó.En los pasillos del edificio de avenida Del Libertador al 1800 se escucha que es inminente una presentación judicial sobre la problemática deportiva con la ACTC. \\\"Lo estamos analizando -afirmó Carman-. Probablemente alguna acción haya tampoco podemos quedarnos con los brazos cruzados. No soy especialista en términos legales pero alguna acción que marque esta historia y estas cuestiones que están fuera de un encuadramiento que asegure a los pilotos”.Por último el presidente del ACA fue tajante al señalar que la iniciativa para restablecer un vínculo cordial tiene que salir desde el lado de Mazzacane. “No hay diálogo. Mañana me llama Hugo Mazzacane y hablo. Yo no lo voy a llamar porque no corresponde. Los que rompieron el equilibrio fueron ellos” sentenció para culminar Carman.¿Qué es la COPAM? el ente cuestionado tras un accidente fatalLa disputa política que hoy existe entre la Asociación Corredores Turismo Carretera (ACTC) y la Comisión Deportiva Automovilística (CDA) del Automóvil Club Argentino (ACA) sumó un nuevo capítulo y también un nuevo actor. El flamante protagonista que apareció en este enfrentamiento es la Comisión Provincial de Automovilismo y Motociclismo (COPAM).Una de las leyes que rige a la COPAM pondrían en jaque a las intenciones de la ACTC de avanzar sobre la fiscalización de nuevas categorías y federaciones. La Ley 12391 establece en su artículo 9 que en la COPAM \\\"solo se autorizarán competencias organizadas y fiscalizadas por entidades con personería jurídica afiliadas al organismo deportivo titular del poder de la especialidad\\\".La COPAM es un ente creado por el Ministerio de Gobierno de la Provincia de Buenos Aires a través del Instituto Bonaerense del Deporte y del que participan un representante de esta última entidad y de las siguientes instituciones: Ministerio de Justicia y Seguridad Dirección Provincial de Transporte Administración Provincial de Vialidad Policía Automóvil Club Argentino (ACA) Asociación Corredores de Turismo de Carretera (ACTC) Federación Bonaerense de Motociclismo (FEBOM) y la Confederación Argentina de Motociclismo Deportivo (CAMOD).Dicha comisión está compuesta por 13 integrantes repartidos con siete representantes del Poder Ejecutivo un representante del ACA la ACTC FEBOM y CAMOD y dos representantes de las Federaciones Regionales de Automovilismo de la Provincia de Buenos Aires.COPAM que depende de la Subsecretaría de Deportes de la Provincia de Buenos Aires a cargo de Leandro Lurati debería enfrentar las responsabilidades correspondientes tras lo que sucedió en el accidente sucedido el 14 de julio último en el autódromo Roberto Mouras de La Plata en el que falleció Alfredo Picardi de 48 años competidor de la categoría Amigos Fiat 1400Esa competencia fue autorizada por COPAM. Hay firmas de la CDA (que lo hicieron bajo reserva ya que cuestiona la integración de la COPAM y la legitimidad de la ACTC) ya que desde el punto de vista del ACA son parte de la “actividad clandestina” que advierte Carman.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T02:34:41.136+03:00",
+    "updated": "2024-07-26T02:34:41.136+03:00"
+  },
+  {
+    "uuid": "c98cc96334270570e8044c5080a5af854edf70bf",
+    "url": "https://n.yam.com/Article/20250724334723",
+    "ord_in_thread": 0,
+    "author": "蕃新聞",
+    "published": "2025-07-24T03:10:00Z",
+    "title": "香港KOL「米紙」探訪中區觀光圈　讓港人看見中台灣的旅遊深度",
+    "text": "香港KOL「米紙」探訪中區觀光圈 讓港人看見中台灣的旅遊深度\n【互傳媒／記者 林明佑／台中 報導】為提高台灣中區觀光圈在港澳市場的國際曝光度，交通部觀光署參山、日月潭、阿里山國家風景區管理處於7月20日至25日，聯合邀請有60萬YouTube訂閱的香港人氣KOL—「米紙」團隊，造訪臺中霧峰農會酒莊、南投水里蛇窯、阿里山鄒築園咖啡等中區觀光圈景點。參山處長曹忠猷表示，這次邀請米紙踩線，希望透過港人的視角探索中台灣的「人情、風土、故事」，挖掘用影像說出真實魅力。\n▲香港KOL米紙參觀霧峰農會酒莊系列產品。（參山處提供）觀光署參山處表示，港澳長期為台灣的重要國際客源，2024年來台近120萬，重遊率也非常高，顯示出港客對於台灣的高度喜愛。希望透過與在港深具影響力的創作者「米紙」合作，以迥異一般YouTuber的視角、深度訪談，引導更多港澳旅客深入認識中區觀光圈的文化底蘊與生活風貌。此次米紙受邀來到台灣中區觀光圈，踩線行程橫跨臺中、苗栗、嘉義與南投，體驗內容包含手製擂茶、陶藝、木工、採茶等；也走訪霧峰林家宮保第、嘉義金皮雕工作室、在台港人經營市集等。\n▲香港KOL米紙參觀霧峰農會酒莊並並試飲清酒產品。（參山處提供）本次觀光署邀請的YouTuber「米紙」為前香港蘋果日報副刊記者，背景橫跨新聞、影像與文化研究，慣以第一人稱視角記錄香港底層人物、飲食文化、旅行故事等，擅長用日常細節描繪社會溫度，並透過深度訪談探索地方特色與故事，開台3年便成為香港最受歡迎的說故事型創作者之一。YT訂閱人數約60萬，目前點閱數最高、達255萬次的影片為採訪22歲單親媽媽Summer從事水泥工的報導，不少網友說Summer的故事激勵了他們，更有網友抖內留言「感激香港還有一些不偏不倚的記者繼續為市民發聲。」\n▲霧峰林家第9代林俊明向香港KOL米紙介紹林家花園大花廳。（參山處提供）參山處表示，中區觀光圈自升級為3.0版後，強調以整合行銷方式推動跨區旅遊，透過阿里山、日月潭與參山三大國家風景區合作，透過連結文化－自然－ 故事，傳遞深度旅遊價值。這次與米紙合作，就是希望將本地人司空見慣的日常風景，轉化為對港人具渲染力與故事性的影像內容，創造跨文化與觀光誘因。未來，中區觀光圈將持續與國際創作者、旅遊媒體、航空業者合作，搭配獎勵旅遊、小眾深度體驗與永續文化旅行三大主軸，打造中台灣成為港澳旅客最具吸引力的目的地之一。\n※ 提醒您：禁止酒駕！飲酒過量有礙健康。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->travel and tourism",
+      "Human Interest->high society",
+      "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:47:44.492+03:00",
+    "updated": "2025-07-24T07:51:41.000+03:00"
+  },
+  {
+    "uuid": "a229319bd0358547d92267cc7ebf9b6550b3d3a4",
+    "url": "https://m.economictimes.com/industry/renewables/us-approves-offshore-wind-project-off-maryland-coast/articleshow/113099406.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-10-05T13:30:00Z",
+    "title": "US approves offshore wind project off Maryland coast - The Economic Times",
+    "text": "President Joe Biden's administration on Thursday announced final approval of a wind project off the coast of Maryland, bringing the U.S. halfway to its goal of deploying 30 gigawatts of the clean energy technology by 2030. The project is the 10th approved by Biden's Interior Department. He has made offshore wind a cornerstone of his climate change agenda. The Maryland Offshore Wind Project, which is being developed by US Wind, could one day generate enough electricity to power 718,000 homes, Interior said in a statement. The lease area is about 9 nautical miles off the coasts of Maryland and Delaware. US Wind is a subsidiary of Renexia SpA, the renewable development arm of Italian infrastructure firm Toto Holding. Interior and White House officials celebrated the milestone of permitting 15 gigawatts of offshore wind, half the capacity the administration in 2021 said it wanted to have in the water by 2030. Few in the industry expect that goal to be met, citing a flurry of setbacks including soaring costs and supply chain disruptions that have led to project delays and cancellations. We never thought this exercise would be easy or smooth sailing, Liz Klein, director of the Bureau of Ocean Energy Management, said on a call with reporters, adding the administration would keep working toward its goal. The project will have 114 wind turbines and is expected to be brought online in phases.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:40:35.777+03:00",
+    "updated": "2024-10-04T01:40:35.777+03:00"
+  },
+  {
+    "uuid": "b7746448a4cc87e815ad4abb643ed18ad3b4f95a",
+    "url": "https://rr.pt/artigo/artigo/artigo/artigo/artigo/bola-branca/bola-branca/noticia/sporting/2025/03/19/oficial-quenda-e-essugo-no-chelsea/418218",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carlos Calaveiras",
+    "published": "2025-03-19T22:29:00Z",
+    "title": "Oficial. Quenda e Essugo no Chelsea - Renascença",
+    "text": "19 mar, 2025 - 22:29 •\nCarlos Calaveiras\nO Sporting confirma as transferências de Geovany Quenda e Dario Essugo para o Chelsea e vai receber 74,4 milhões de euros pelos dois atletas.\nPelo jovem extremo de 17 anos, que ainda fica em Alvalade na época 2026, os leões recebem já cerca de 51 milhões, ficando mais 1,3 milhões em objetivos.\nQuenda soma já 44 jogos na época nas diferentes competições ao serviço do atual campeão nacional, ou seja, participou em todos os jogos oficiais, com dois golos marcados e seis assistências.\nJá pelo médio, de 20 anos, que está cedido ao Las Palmas, o clube inglês paga cerca de 22 milhões de euros.\nEsta temporada, o internacional sub-21 português ainda fez dois jogos pelos leões, antes de se transferir, por empréstimo, para o Las Palmas, ao serviço do qual fez 17 jogos na Liga espanhola, marcando um golo.\nEssugo segue já no final da temporada para Inglaterra.\nAs duas transferências foram confirmadas,\nem comunicado, para a CMVM (Comissão do Mercado de Valores Mobiliários).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Sport"
+    ],
+    "topics": [
+      "Economy, Business and Finance->tourism and leisure industry",
+      "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:52:25.331+02:00",
+    "updated": "2025-03-20T00:52:25.331+02:00"
+  },
+  {
+    "uuid": "9920dd76844d6587ddea2ff2bcb4447bd93d45bb",
+    "url": "https://www.sportingnews.com/es/nfl/news/dallas-cowboys-vs-detroit-lions-hoy-hora-canal-tv-streaming/5ce363ce2c94427078619018",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@JuanEstevez90",
+    "published": "2023-12-29T01:00:00Z",
+    "title": "¿A qué hora juegan y qué canal transmite Dallas Cowboys vs. Detroit Lions hoy? TV y streaming del partido de NFL 2023 | Sporting News España",
+    "text": "Los Dallas Cowboys buscan recuperarse luego de dos derrotas consecutivas y para ello reciben este sábado 30 de diciembre a los Detroit Lions, desde las 19:15 de la Ciudad de México. El encuentro será televisado por ESPN en toda América y por Vamos en España. Además, en Latinoamérica podrá verse por Star+ y en Estados Unidos por [ESPN+](https://go.web.plus.espn.com/c/2436205/555837/9070) y [Fubo](https://www.fubo.tv/stream/latino-es/?irad=1398001&irmp=365718). A nivel global -excepto EE.UU.- habrá transmisión por el [NFL Game Pass Internacional en DAZN](http://nflgpi.prf.hn/click/camref:1101lAYcW). Los Cowboys vienen de un par de derrotas fuera de casa, ante rivales exigentes de la AFC como Buffalo y Miami. Ahora, serán locales de unos Lions que también llegan en gran forma, con un récord de 11-4 que supera al 10-5 de los Vaqueros. Si Dallas quiere [escalar posiciones en la clasificación de la NFC](https://www.sportingnews.com/ar/nfl/news/playoffs-nfl-2023-2024-cuadro-clasificados-partidos-resultados/9b7426fc6a989f3f11852c9e) y pelear por el primer sembrado -hoy en manos de los 49ers- está obligado a ganar este partido. Claro que Detroit también está en esa misma pelea; al extremo de que, más allá de aparecer tercero por los criterios de desempate, presenta el mismo récord que San Francisco y Philadelphia, en lo más alto de la Nacional. Si gana sus dos encuentros restantes -en la Semana 18 recibe a Vikings- podría quedarse con el primer lugar y, de esa manera, tener [descanso en la Ronda de Comodines](https://www.sportingnews.com/ar/nfl/news/cuadro-llave-playoffs-nfl-2024/3c99a7a851938caffb5631d8). Vale recordar que Dallas todavía está invicto como local en la temporada: 7 jugados, 7 ganados, con triunfos sobre Jets, Patriots, Rams, Giants, Commanders, Seahawks y Eagles, con una diferencia promedio de +24,4 puntos y anotando al menos 30 unidades en cada uno de esos encuentros. Los Lions también son fuertes como visitantes: 6 ganados, 2 perdidos. ¡Descuento de mitad de temporada para ver todos los partidos de la NFL en vivo con [Game Pass Internacional en DAZN](https://nflgpi.prf.hn/click/camref:1101lAYcW)! ¿Dónde y cómo ver Dallas Cowboys vs. Detroit Lions? Canales de TV y streaming online para el partido de la NFL - Canal de TV: - México: ESPN - Argentina: ESPN - Estados Unidos: ABC, ESPN - España: Vamos - Streaming: - México: [NFL Game Pass Internacional en DAZN](http://nflgpi.prf.hn/click/camref:1101lAYcW), Star+ - Argentina: NFL Game Pass Internacional en DAZN, Star+ - Estados Unidos: [ESPN+](https://go.web.plus.espn.com/c/2436205/555837/9070), [Fubo](https://www.fubo.tv/stream/latino-es/?irad=1398001&irmp=365718), NFL+ - España: NFL Game Pass Internacional en DAZN, Movistar Plus+ - México: ¿A qué hora juegan Dallas Cowboys vs. Detroit Lions hoy? - Día: Sábado 30 de diciembre - Hora: - CDMX: 19:15 - ET de Estados Unidos: 20:15 - Argentina: 22:15 - España: 2:15 (domingo)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.fubo.tv/stream/latino-es/?irad=1398001&irmp=365718).",
+      "https://go.web.plus.espn.com/c/2436205/555837/9070)",
+      "https://go.web.plus.espn.com/c/2436205/555837/9070),",
+      "https://www.fubo.tv/stream/latino-es/?irad=1398001&irmp=365718),",
+      "http://nflgpi.prf.hn/click/camref:1101lAYcW),",
+      "https://nflgpi.prf.hn/click/camref:1101lAYcW)!",
+      "http://nflgpi.prf.hn/click/camref:1101lAYcW).",
+      "http://www.nflgpi.prf.hn/click/camref:1101lAYcW),",
+      "http://www.nflgpi.prf.hn/click/camref:1101lAYcW).",
+      "https://www.go.web.plus.espn.com/c/2436205/555837/9070),",
+      "https://fubo.tv/stream/latino-es/?irad=1398001&irmp=365718),",
+      "https://www.go.web.plus.espn.com/c/2436205/555837/9070)",
+      "https://www.nflgpi.prf.hn/click/camref:1101lAYcW)!",
+      "https://www.fubo.tv/stream/latino-es/",
+      "https://fubo.tv/stream/latino-es/?irad=1398001&irmp=365718)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:29:31.515+02:00",
+    "updated": "2023-12-29T05:29:31.515+02:00"
+  }
+]

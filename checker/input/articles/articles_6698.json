@@ -1,0 +1,363 @@
+[
+  {
+    "uuid": "796da99a2e82022b15c38902a71d98fcc2999c06",
+    "url": "https://www.11alive.com/video/news/local/roswell/body-recovered-from-chattahoochee-river/85-6d53fdec-2011-4377-af1e-99772ac6b4ab",
+    "ord_in_thread": 0,
+    "author": "Author",
+    "published": "2025-07-02T23:19:00Z",
+    "title": "Body recovered from Chattahoochee River | 11alive.com",
+    "text": "Skip Navigation\nNavigation\nNews\nBack\nSports\nSearch\nSearch:\nSearch\nRight Now\nAtlanta, GA »\n77°\nAtlanta, GA »\nBreaking News\nMore (\n) »\nBody recovered from Chattahoochee River\nTo stream 11Alive on your phone, you need the 11Alive app.\nDownload the 11Alive app\nA man went into the water to help a child. The child made it to shore, but the man didn't resurface.\nBefore You Leave, Check This Out",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->drowning",
+      "Health->public health",
+      "Health->emergency care",
+      "Health->injury",
+      "Social Issue->demographics",
+      "Social Issue->communities",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:39:32.457+03:00",
+    "updated": "2025-07-03T04:45:05.000+00:00"
+  },
+  {
+    "uuid": "6dc82e7a7bbb48013e7aa42bee211beef0e557be",
+    "url": "https://www.androidpolice.com/waze-android-auto-hud-support",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Will Sattelberg",
+    "published": "2025-02-27T22:52:00Z",
+    "title": "Waze's latest update moves your maps right into your line of sight",
+    "text": "As obvious as Google Maps can feel on an Android device, Waze is a pretty excellent alternative. The app — which Google acquired back in 2013 — has won its audience over through crowdsourcing, custom voice directions, and a friendly UI, and it's fairly similar in terms of feature parity with its parent company's main navigation service. With its latest update, Waze is delivering the perfect upgrade for anyone with a new vehicle that could make your next road trip a whole lot more manageable.\nWaze 5.4 includes support for displaying your route within a car's heads-up display, as spotted by Reddit user u/misterperfectman (via 9to5Google). With this update, which is rolling out to both Android and iOS devices, Waze within Android Auto (or CarPlay, if you've abandoned Android for Apple's latest iPhones) can now relocate its navigation to the instrument cluster behind your steering wheel, rather than forcing it to stick to the infotainment system on the middle of the dash. Of course, that's only in supported vehicles where traditional gauges have been swapped out for an extra screen.\nWaze's latest update feels a little more comfortable on the driver\nEven if a decade's worth of muscle memory might win out here\nAlthough this is in CarPlay, I can confirm Android Auto support as well.\nLuckily, I happen to drive one of those vehicles. While my Play Store version of the app has yet to receive this new update, I grabbed the latest beta APK from APK Mirror and put it to the test. Indeed, once Android Auto was active on my Galaxy S25 Ultra, I was able to bring Waze up on my Chevy Colorado's HUD as one of the main screens available. My vehicle offers traditional Google Maps through on-board Android Automotive, as well a maps display synced with Android Auto or CarPlay — whichever is available — and, in my case, it worked practically immediately.\nAs with other supported navigation apps, you can swap between your installed platforms depending on which service you prefer. Opening Google Maps within Android Auto swapped my HUD's display to Google Maps; tapping on the Waze icon pushed it back. My dashboard looks slightly different from the images shared by Redditors and on display in this article, though that's purely based on how each automaker designs their unique software experience.\nNo matter what make or model you're driving, if your vehicle is supported, you should see the same basic information on your HUD: your ongoing route, turn-by-turn directions, and basic ETA information. Unlike support for digital car keys, this feature seems much more widespread. In addition to the BMW iX1 driven by our Reddit poster, comments in the thread have spotted it in other vehicles from BMW, Ford, Volvo, and Polestar (which, as 9to5Google points out, already supported this through the native Waze app), alongside my own Colorado. As expected, though, you'll still need to use the main infotainment screen to report road hazards.\nRelated\nAndroid Automotive picks up 70+ new apps, but only for when you're parked\nRoblox in the car, anyone?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after/",
+      "https://www.apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release/",
+      "https://9to5google.com/2025/02/27/waze-update-instrument-cluster-display/",
+      "https://www.9to5google.com/2025/02/27/waze-update-instrument-cluster-display/",
+      "https://9to5google.com/2025/02/27/waze-update-instrument-cluster-display",
+      "https://www.apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release",
+      "https://reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after/",
+      "https://apkmirror.com/apk/waze/waze-gps-maps-traffic-alerts-live-navigation/waze-navigation-live-traffic-5-4-5-0-release/",
+      "https://www.reddit.com/r/waze/comments/1iyize8/waze_now_shows_on_my_instrument_cluster_after"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Waze",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Google",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Reddit",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:13:18.427+02:00",
+    "updated": "2025-02-28T01:13:18.427+02:00"
+  },
+  {
+    "uuid": "e761521ece92334b3087104a28582294294e64f8",
+    "url": "https://fr.news.yahoo.com/guerre-isra%C3%ABl-hamas-j-v%C3%A9cu-101535254.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Closer",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "Guerre Israël-Hamas : « J’ai vécu un holocauste », raconte l’ex-otage franco-israélienne, Mia Schem",
+    "text": "20minutes.fr Guerre Israël-Hamas : « J’ai vécu un holocauste », raconte l’ex-otage franco-israélienne, Mia Schem Lire l'article complet E.Pe. et O.O. 29 décembre 2023 à 0:15 PM témoignage - La jeune femme de 21 ans, enlevée le 7 octobre par les combattants du Hamas, est restée captive 54 jours durant dans la bande de Gaza\nElle a mis des mots sur son cauchemar. Pour la première fois depuis sa libération , l’ex-otage franco-israélienne Mia Schem a raconté sa détention à Gaza. Enlevée le 7 octobre par les combattants du Hamas alors qu’elle participait à un festival de musique techno, la jeune femme de 21 ans a passé 54 jours en captivité.\nLors d’une interview accordée à une chaîne israélienne, Mia Schem a décrit en hébreu son quotidien de captive. Elle indique avoir été détenue chez un combattant du Hamas et sa famille dans « une pièce sombre » où on lui interdisait de parler. « Vous ne devez pas être vue ni entendue », a confié l’ex-otage, enlevée avec son ami franco-israélien Elya Toledano, retrouvé mort à Gaza mi-décembre.\n129 personnes encore détenues Un mois après sa libération, Mia Schem estime avoir vécue « l’holocauste » à Gaza . Sur les 250 personnes enlevées par le Hamas, 129 personnes restent détenues, selon les chiffres de l’armée israélienne. Présentée comme la femme la plus âgée retenue en otage dans la bande de Gaza, l’otage israélo-américaine Judith Weinstein Haggai , 70 ans, a été annoncée morte jeudi par son kibboutz, Nir Oz, situé juste à la lisière de la bande de Gaza.\nRetrouvez une partie du témoignage de Mia Schem dans la vidéo placée tout en haut de cet article. (...) Lire la suite sur 20minutes\nÀ lire aussi :\nGuerre Hamas – Israël : Israël et le Hamas approuvent une trêve et une libération d’otages\nGuerre Israël-Hamas : Arthur révèle vivre sous protection « renforcée »\nGuerre Hamas-Israël : On vous explique les règles de la guerre\nTENDANCE Gérard Depardieu : ces deux immenses stars qui auraient disparu de la tribune de soutien à l’acteur au dernier moment Closer Russie: des personnalités participent à une fête \"presque nues\" et suscitent l'indignation BFMTV Victoria Abril accusée d'agressions sexuelles par Lucie Lucas : un acteur de Clem la défend, \"elle est assurée de mon soutien inconditionnel\" Purebreak En Russie, le gratin moscovite se déshabille pour une soirée et provoque un tollé France 24 Nicolas Sarkozy et Carla Bruni : Leur sublime château au coeur d'une sombre affaire, un procureur de la République saisi Purepeople",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.20minutes.fr/",
+      "https://www.20minutes.fr/faits_divers/4063751-20231123-guerre-israel-hamas-arthur-revele-vivre-sous-protection-renforcee",
+      "https://s.yimg.com/uu/api/res/1.2/fXFdxPpPV9Tqe1FGaGmupA--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/purepeople_fr_articles_981/da741aa9bae6dc59a216c7888fadaeea",
+      "https://s.yimg.com/uu/api/res/1.2/U0AV42MOtLkuRgwUdObmVg--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/closermag.fr/4258cad11e6f47bbf8a4f084a676435d",
+      "https://s.yimg.com/uu/api/res/1.2/Div0UDMmkYZvrwxcXs_O8Q--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/article.bfmtv.com/8aad85d32aaa78906d1e382d572b64db",
+      "https://www.20minutes.fr/monde/israel/4063478-20231122-guerre-hamas-israel-israel-hamas-approuvent-treve-liberation-otages",
+      "https://s.yimg.com/uu/api/res/1.2/H87cV7CYIXG2YKFiZ_TKyQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/france_24_french_articles_972/5d1832314056ea87314fb7c6411fd800",
+      "https://www.20minutes.fr/monde/gaza/",
+      "https://s.yimg.com/os/creatr-uploaded-images/2021-03/ceb09a70-80ad-11eb-affb-a098af26a22e",
+      "https://www.20minutes.fr/videos/4060463-20231102-guerre-hamas-israel-explique-regles-guerre",
+      "https://www.20minutes.fr/monde/4068476-20231229-guerre-israel-hamas-judith-weinstein-haggai-habitante-kibboutz-niz-or-otage-annoncee-morte",
+      "https://www.20minutes.fr/monde/israel/4064846-20231130-guerre-hamas-israel-franco-israelienne-mia-shem-liberee-minute-silence-cop28",
+      "https://s.yimg.com/uu/api/res/1.2/SONIAySzNHELZ9oDAN43Sw--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/fr/purebreak_news_fr_110/b14f8960d0198a8f8449cc6e79c1d6f1",
+      "https://s.yimg.com/ny/api/res/1.2/FeMsSfVXJ0DxC.kvEMWXOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQ2O2g9NDg-/https://s.yimg.com/os/creatr-uploaded-images/2021-03/ceb09a70-80ad-11eb-affb-a098af26a22e",
+      "https://www.20minutes.fr/monde/israel/4068479-20231229-guerre-israel-hamas-vecu-holocauste-raconte-ex-otage-franco-israelienne-mia-schem?xtor=RSS-176",
+      "https://media.zenfs.com/fr/20minutes.fr/66e21cfa067cf7d1c968dd778e1eae4c",
+      "https://www.20minutes.fr/politique/4065023-20231202-guerre-israel-hamas-nicolas-sarkozy-joue-role-liberation-otage-francaise-mia-schem",
+      "https://www.s.yimg.com/ny/api/res/1.2/FeMsSfVXJ0DxC.kvEMWXOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQ2O2g9NDg-/https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/ceb09a70-80ad-11eb-affb-a098af26a22e",
+      "https://www.20minutes.fr/monde/israel/4068479-20231229-guerre-israel-hamas-vecu-holocauste-raconte-ex-otage-franco-israelienne-mia-schem",
+      "https://20minutes.fr/faits_divers/4063751-20231123-guerre-israel-hamas-arthur-revele-vivre-sous-protection-renforcee",
+      "https://20minutes.fr/monde/israel/4068479-20231229-guerre-israel-hamas-vecu-holocauste-raconte-ex-otage-franco-israelienne-mia-schem?xtor=RSS-176",
+      "https://www.s.yimg.com/uu/api/res/1.2/Div0UDMmkYZvrwxcXs_O8Q--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/fr/article.bfmtv.com/8aad85d32aaa78906d1e382d572b64db",
+      "http://20minutes.fr/",
+      "https://www.s.yimg.com/uu/api/res/1.2/SONIAySzNHELZ9oDAN43Sw--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/fr/purebreak_news_fr_110/b14f8960d0198a8f8449cc6e79c1d6f1",
+      "http://www.20minutes.fr",
+      "https://www.s.yimg.com/uu/api/res/1.2/H87cV7CYIXG2YKFiZ_TKyQ--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/fr/france_24_french_articles_972/5d1832314056ea87314fb7c6411fd800",
+      "https://20minutes.fr/monde/gaza/",
+      "https://www.s.yimg.com/uu/api/res/1.2/U0AV42MOtLkuRgwUdObmVg--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/fr/closermag.fr/4258cad11e6f47bbf8a4f084a676435d",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2021-03/ceb09a70-80ad-11eb-affb-a098af26a22e",
+      "https://www.s.yimg.com/uu/api/res/1.2/fXFdxPpPV9Tqe1FGaGmupA--~B/Zmk9c3RyaW07aD0yMjQ7cT04MDt3PTIyNDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/fr/purepeople_fr_articles_981/da741aa9bae6dc59a216c7888fadaeea",
+      "https://www.media.zenfs.com/fr/20minutes.fr/66e21cfa067cf7d1c968dd778e1eae4c",
+      "https://20minutes.fr/politique/4065023-20231202-guerre-israel-hamas-nicolas-sarkozy-joue-role-liberation-otage-francaise-mia-schem",
+      "https://20minutes.fr/videos/4060463-20231102-guerre-hamas-israel-explique-regles-guerre",
+      "https://20minutes.fr/monde/israel/4063478-20231122-guerre-hamas-israel-israel-hamas-approuvent-treve-liberation-otages",
+      "https://20minutes.fr/monde/4068476-20231229-guerre-israel-hamas-judith-weinstein-haggai-habitante-kibboutz-niz-or-otage-annoncee-morte",
+      "https://20minutes.fr/monde/israel/4064846-20231130-guerre-hamas-israel-franco-israelienne-mia-shem-liberee-minute-silence-cop28",
+      "https://www.20minutes.fr/monde/gaza"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:23:07.600+02:00",
+    "updated": "2023-12-29T13:23:07.600+02:00"
+  },
+  {
+    "uuid": "d536652d05d8d4b0b6e481a062c1e8e4c79cd5fe",
+    "url": "https://andaluciainformacion.es/andalucia/1728891/la-ola-de-calor-remite-pero-siete-comunidades-siguen-en-alerta-por-las-altas-temperaturas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@andaluciainf",
+    "published": "2024-08-02T07:30:00Z",
+    "title": "La ola de calor remite pero siete comunidades siguen en alerta por las altas temperaturas | Andalucía Información. Todas las noticias de Andalucía",
+    "text": "La ola de calor que durante los últimos días ha azotado a una gran parte del país ha remitido pero siete comunidades siguen hoy en alerta ante las elevadas temperaturas que se van a registrar durante las horas centrales del día y que volverán a rondar los 40 grados en muchos lugares. Las temperaturas van a volver a ser significativamente altas en la mitad sur de la península, en Cataluña y en el sur de la isla de Gran Canaria, según las predicciones de la Aemet, que ha avisado además de que se van a registrar lluvias importantes en la mitad noreste y de que van a ser especialmente fuertes en los Pirineos y en la cordillera Ibérica. Ante estas predicciones meteorológicas, se ha activado aviso \"naranja\" (riesgo importante) por las elevadas temperaturas en la comunidad de Andalucía, ya que los termómetros volverán a los 40 grados en muchos lugares de Almería y Málaga. El aviso amarillo (riesgo) se ha activado además en numerosos municipios de Andalucía, Baleares, Castilla-La Mancha, Cataluña, Murcia, la Comunidad Valenciana y Canarias (en la isla de Gran Canaria), ante la previsión de que los termómetros vuelvan a situarse en el entorno de los 40 grados. Además de las elevadas temperaturas, se han activado alertas también en Aragón, Cataluña, Castilla-La Mancha y Comunidad Valenciana ante las tormentas que se van a registrar a las horas centrales del día, que en muchos casos van a ir acompañadas de bolas de granizo de un tamaño grande y con rachas muy fuertes de viento. Las fuertes lluvias previstas también en muchos lugares a las horas centrales del día han justificado que se active la alerta \"amarilla\" (riesgo) en las comunidades de Aragón, Castilla-La Mancha, Cataluña y Comunidad Valenciana, y las precipitaciones llegarán a acumular 15 y 20 litros por metro cuadrado en una hora. El mapa de avisos meteorológicos previsto para hoy se completa con un aviso \"amarillo\" en Cataluña por el fuerte viento -de 50 a 60 kilómetros por hora- y el oleaje -con olas de hasta 3 metros- en la comarca de El Ampurdán (Girona), y con un aviso por risagas en la isla de Menorca. La risaga -una subida muy fuerte del nivel del mar- está prevista para las 19:00 horas de hoy en todo el litoral de la isla y las predicciones apuntan que provocará una subida del nivel del mar de 0,7 metros, según los datos de la Agencia Estatal de Meteorología. El mes de agosto comenzó con un primer día muy cálido en todo el país, y en el tercio sur se superaron ayer los 44 grados en algunos puntos, según información de la Aemet. Los termómetros registraron 44,3 grados en Álora (Málaga) y 44,1 en Alhama de Murcia. Durante la jornada de hoy se va a producir un alivio térmico en buena parte del territorio, aunque con calor en el tercio oriental peninsular, pero el fin de semana volverán a subir las temperaturas de forma casi generalizada. Envía tu noticia a: [participa@andaluciainformacion.es](mailto:participa@andaluciainformacion.es)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T11:22:34.489+03:00",
+    "updated": "2024-08-02T11:22:34.489+03:00"
+  },
+  {
+    "uuid": "5a61d2fcf1c2f04396a0948105f32ebcdd367a2e",
+    "url": "https://mothership.sg/2024/08/jeju-air-japan-shanshan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ilyda Chua",
+    "published": "2024-08-30T05:17:00Z",
+    "title": "Jeju Air plane aborts landing in Japan due to Typhoon Shanshan, seen pulling up sharply - Mothership.SG - News from Singapore, Asia and around the world",
+    "text": "A Jeju Air plane headed for Fukuoka Airport aborted its landing after struggling with strong winds and rain from Typhoon Shanshan. In a video shared on X, the aircraft could be seen banking from side to side as it attempted to descend, before climbing back up into the sky. ABC News reported that it had been struggling with strong winds in its final approach, before aborting its landing. It eventually landed safely on another runway, according to an aviation X account . Powerful typhoon The incident took place on Aug. 29, a few hours after the powerful typhoon made landfall in southwestern Japan. At least four people have been killed and more than 90 injured, reported the BBC . After landing in Kyushu, the typhoon swept its way through the island, damaging buildings and uprooting trees. Three people were killed on Aug. 27 by a landslide ahead of the typhoon's arrival, while a fourth person died on Aug. 29 after the roof of a house collapsed. Flights have also been disrupted, with multiple flights between Singapore and Osaka cancelled. On Aug. 29, Taiwan media reported that two flights from Taiwan heading to Japan ended up making a U-turn back to Taoyuan after bumping into turbulence. Passengers on the second flight — an EVA Air flight — reported that it was \"super bumpy\", with people vomiting and children screaming. \"Overall, it was just really horrifying,\" she said. Related news Top image via Koji Ishimaru If you like what you read, follow us on Telegram to get the latest updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://english.ftvnews.com.tw/news/2024829W05EA",
+      "https://bit.ly/3qgqzHg",
+      "https://www.bbc.com/news/articles/ckg2vk1z2ggo",
+      "https://x.com/aviationbrk/status/1829188806420934793?lang=en",
+      "https://bit.ly/3KjTj94",
+      "https://x.com/ABC/status/1829132642857767150",
+      "https://www.bit.ly/3KjTj94",
+      "https://www.x.com/ABC/status/1829132642857767150",
+      "https://x.com/aviationbrk/status/1829188806420934793",
+      "https://bbc.com/news/articles/ckg2vk1z2ggo",
+      "https://www.bit.ly/3qgqzHg",
+      "https://www.x.com/aviationbrk/status/1829188806420934793?lang=en",
+      "https://www.english.ftvnews.com.tw/news/2024829W05EA"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shanshan",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "koji ishimaru",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bbc",
+          "sentiment": "none"
+        },
+        {
+          "name": "abc news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "singapore",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "fukuoka airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "taiwan",
+          "sentiment": "none"
+        },
+        {
+          "name": "osaka",
+          "sentiment": "none"
+        },
+        {
+          "name": "kyushu",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T08:21:51.859+03:00",
+    "updated": "2024-08-30T11:22:25.293+03:00"
+  },
+  {
+    "uuid": "a0fb4765ec29d9ad62ca219482843dab164111cf",
+    "url": "https://infonews.com/los-audios-de-una-victima-de-femicidio-en-canuelas-que-la-justicia-ignoro.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "INFOnews",
+    "published": "2024-04-25T17:21:00Z",
+    "title": "Recopilan los audios de una víctima de femicidio que la Justicia ignoró",
+    "text": "0\nMaría Isabel había realizado una denuncia por violencia de género , pero la causa penal jamás avanzó. Ahora, sus audios relatando el abandono del poder judicial son la prueba contra el juez y el fiscal que, ante la falta de perspectiva de género, permitieron que el femicidio se consumara.\nMañana comienza el juicio por el Femicidio de MARÍA SPERATTI. Un Femicidio q certifica la indiferencia del S. Judicial. Se denunciarán al Juez y al Fiscal q la abandonaron. LA PLATA TOC 3.\nMe acompañan mis alumnos del postgrado LAS NUEVAS MASCULINIDADES. https://t.co/fBhgTUePlh\n— R. HERMIDA LEYENDA (@Hermidaleyenda) April 25, 2024\nEl viernes 16 julio de 2021 María Isabel fue atacada por su expareja, Gabriel Alejandro Núñez. Luego de aquello se presentó en la Comisaría de la Mujer donde realizó una denuncia; allí declaró que la asfixió con una llave alrededor del cuello.\nTras escuchar los detalles, la oficial actuante encabezó el formulario con la frase “de Alto Riesgo”. La causa comenzó a tramitarse en la UFI 1 de Cañuelas, que la caratuló minimizando los hechos, ya que al intento de femicidio lo calificó como “Lesiones leves” . Todo esto está narrado en los audios que María Isabel envió a familiares y amigas relatando el infierno que pasó en todas las instancias judiciales y que recopilaron en este video:\nUn chiste: el Gobierno aumenta menos del 10% la Tarjeta Alimentar\nDebido a que la gravedad del ataque fue minimizado, el imputado no corrió riesgo de detención y la joven tuvo que concurrir en varias oportunidades a la UFI y al Juzgado de Garantías pidiendo que la causa fuera recaratulada como “Homicidio en grado de tentativa”. Esto podría haber derivado en la detención de Núñez y evitar el femicidio, pero sus pedidos nunca fueron escuchados.\nLuego del crimen, sus hermanas recopilaron los audios de María Isabel en los que contó su incesante peregrinar por distintas oficinas judiciales en reclamo de ayuda.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/Hermidaleyenda/status/1783299221140992261?ref_src=twsrc%5Etfw",
+      "https://www.youtube.com/embed/xZ5zZDfap68?si=XkL0bsJWgSsrEu7c",
+      "https://t.co/fBhgTUePlh",
+      "https://www.t.co/fBhgTUePlh",
+      "https://www.twitter.com/Hermidaleyenda/status/1783299221140992261?ref_src=twsrc%5Etfw",
+      "https://www.youtube.com/embed/xZ5zZDfap68",
+      "https://twitter.com/Hermidaleyenda/status/1783299221140992261",
+      "https://youtube.com/embed/xZ5zZDfap68?si=XkL0bsJWgSsrEu7c"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:06:10.159+03:00",
+    "updated": "2024-04-26T00:06:10.159+03:00"
+  }
+]

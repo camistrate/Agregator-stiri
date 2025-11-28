@@ -1,0 +1,375 @@
+[
+  {
+    "uuid": "5fab9b5d4bdec9367e52997d2ab6fe1757f6c12f",
+    "url": "https://www.thestar.com.my/sport/football/2024/07/26/soccer-six-times-french-champion-bordeaux-file-for-bankruptcy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online",
+    "published": "2024-07-25T15:37:00Z",
+    "title": "Football: Soccer-Six-times French champion Bordeaux file for bankruptcy | The Star",
+    "text": "(Reuters) - Bordeaux have filed for bankruptcy just days after they were relegated to the third tier of French football after Liverpool soccer club’s owner withdrew from takeover talks, the former Ligue 1 club said on Thursday.\nEarlier this month the six-times French champions were demoted from Ligue 2 by the National Directorate of Management Control due to financial concerns.\nOnce Liverpool’s owner, Fenway Sports Group, pulled out from takeover talks, it effectively ended the club's survival hopes.\n\"It's a difficult decision that anticipates an inevitable consequence of the restructuring process underway,\" the club said in a statement.\nBordeaux will also abandon their professional status they have held since 1937 and close their renowned training academy, which has helped to develop players such as Bixente Lizarazu, Jules Kounde, and Zinedine Zidane.\n(Reporting by Tommy Lund in Gdansk, editing by Pritha Sarkar)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Economy, Business and Finance",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bixente lizarazu",
+          "sentiment": "none"
+        },
+        {
+          "name": "zinedine zidane",
+          "sentiment": "none"
+        },
+        {
+          "name": "gda",
+          "sentiment": "none"
+        },
+        {
+          "name": "jules kounde",
+          "sentiment": "none"
+        },
+        {
+          "name": "tommy lund",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "paris st germain",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bordeaux",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ligue",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fenway sports group",
+          "sentiment": "none"
+        },
+        {
+          "name": "liverpool",
+          "sentiment": "none"
+        },
+        {
+          "name": "national directorate of management control",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters/stephane mahe/file photo (reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bordeaux",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T03:52:10.088+03:00",
+    "updated": "2024-07-26T06:55:10.657+03:00"
+  },
+  {
+    "uuid": "51b155ad59c6a71bba8052f3e3afbc9eb0d2c68c",
+    "url": "https://www.soccernews.com/james-tavernier-keen-to-avenge-old-firm-defeat-with-victory-over-kilmarnock/365023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SoccerNews",
+    "published": "2023-12-31T09:00:00Z",
+    "title": "James Tavernier keen to avenge Old Firm defeat with victory over Kilmarnock",
+    "text": "James Tavernier knows Rangers have to bounce back quickly from Old Firm frustration when they host Kilmarnock on Tuesday night.\nThe 2-1 defeat by Celtic at Parkhead on Saturday was the first loss for manager Philippe Clement in 17 games since taking over from Michael Beale in October and it left the Light Blues trailing the cinch Premiership leaders by eight points, albeit with two games in hand.\nThe Gers skipper scored a terrific free-kick in the 88th minute to make it a nervy ending for the Scottish champions, who had been leading through goals from Paulo Bernardo and Kyogo Furuhashi before Rangers defender Leon Balogun was sent off at 2-0 for denying Celtic striker Daizen Maeda a clear goalscoring opportunity.\nTavernier looks forward to putting things right against Killie at Ibrox in the final game before the winter break.\nHe told RangersTV: “It is an important game and obviously we have to play really good football because Kilmarnock are in form.\n“We have got to play the best we possibly can, the way the manager wants us to.\n“It is important to get the three points to finish before the break and there are plenty of games after that.”\nOn the disappointing defeat by their Old Firm rivals which dented their title hopes, Tavernier reflected: “They were more clinical than us. Yes, we created some really good chances, but we couldn’t find the back of the net.\n“We have just got be a bit more clinical in front of that goal and it could have been a different score line, but it wasn’t meant to be.\n“So obviously there’s positives to take and like I said a few weeks ago, there’s plenty of games to play. And we’ll continue working hard.\n“We have an important game on Tuesday before the break and we’re going to make sure we get three points on the board.”\nSoccer News Like\n- Be the first of your friends!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoccernewscom&width=51&layout=button&action=like&show_faces=false&share=false&height=65&appId=948541931859591",
+      "https://facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fsoccernewscom&width=51&layout=button&action=like&show_faces=false&share=false&height=65&appId=948541931859591",
+      "https://www.facebook.com/plugins/like.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kilmarnock james tavernier",
+          "sentiment": "positive"
+        },
+        {
+          "name": "james tavernier",
+          "sentiment": "positive"
+        },
+        {
+          "name": "michael beale",
+          "sentiment": "none"
+        },
+        {
+          "name": "leon balogun",
+          "sentiment": "none"
+        },
+        {
+          "name": "tavernier",
+          "sentiment": "none"
+        },
+        {
+          "name": "daizen maeda",
+          "sentiment": "none"
+        },
+        {
+          "name": "philippe clement",
+          "sentiment": "none"
+        },
+        {
+          "name": "paulo bernardo",
+          "sentiment": "none"
+        },
+        {
+          "name": "killie",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rangers",
+          "sentiment": "positive"
+        },
+        {
+          "name": "celtic",
+          "sentiment": "none"
+        },
+        {
+          "name": "kilmarnock",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kyogo furuhashi",
+          "sentiment": "none"
+        },
+        {
+          "name": "parkhead",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T13:38:07.810+02:00",
+    "updated": "2023-12-31T13:38:07.810+02:00"
+  },
+  {
+    "uuid": "4dac917a104725265955073acdf5485c6f2f170d",
+    "url": "https://www.sheenmagazine.com/her-heart-matters-unmasking-the-silent-threat-to-women",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sheen Magazine",
+    "published": "2025-02-20T18:00:00Z",
+    "title": "Her Heart Matters: Unmasking the Silent Threat to Women",
+    "text": "Melissa felt something was off. A vague discomfort she couldn’t explain. She brushed the discomfort aside, hoping sleep would help. It didn’t. As the discomfort lingered, she finally decided to call for help—just in case. By the time paramedics arrived, she was unresponsive. It was too late. Her heart had been sending warnings, but Melissa didn’t trust herself enough to listen.\nSadly, Melissa’s story is far too common.\nOver 60 million women in the United States are living with heart disease right now —many without even knowing it. Heart disease doesn’t always cause a scene— a dramatic collapse or chest-clutching moment. It usually whispers. But when it strikes, the consequences can be deadly.\nUnseen, Unheard, Undiagnosed\nHeart disease is a silent alarm for many women, especially Black women—one that’s often easy to ignore. Not because they don’t care, but because life is loud. The noise of responsibilities, the unspoken expectation to be strong, and the weight of being a caregiver—rarely receiving care in return—can easily overshadow the necessity to be well.\n“When women take care of their health, they become their own best friend.” —Maya Angelou\nThese words aren’t just poetry—they’re a call to action in a world where Black women’s health is often overlooked.\nSixty percent. That’s how many Black women ages 20 and older who have a cardiovascular disease. Now, take a moment—pause—and think about this. Sixty percent. That’s one in six Black women, so it could be your sister, your best friend. Maybe even you.\nFor Black women, the burden of heart disease is not just physical, but emotional — rooted in historical deep-seated mistrust of the healthcare system that hasn’t always had Black women’s best interests at heart. It’s about the fight to be seen , to be heard , and to receive the care that has long been denied.\nKnow the Symptoms, and Trust Your Instincts\nHeart disease is easily missed—until it is impossible to ignore . In women, its warnings are often brushed aside —mistaken for stress, menopause, or just another busy day. Under-diagnosed and under-treated, heart disease claims the lives of one in three women in the United States each year. Awareness changes outcomes. Action saves lives.\nSmall symptoms can be BIG red flags—learning to spot them could save your life. You just need to know what they are.\nWhich of these could signal a heart attack in a woman?\nFatigue even after a good night’s sleep Discomfort in the chest, upper back, or jaw Nausea, vomiting, or flu-like symptoms Lightheadedness or dizziness Feelings of anxiety Shortness of breath All of them. These symptoms aren’t random—they’re a cry for help. When blood flow to your heart is limited, it can cause pain in the chest, back, or jaw. But it doesn’t stop there. Fatigue, nausea, dizziness, flu-like symptoms are signs that your heart is struggling for oxygen. Anxiety often follows as your body fights to keep up. If something feels wrong, it probably is. Trust your instincts. Call 911—don’t wait to see if it passes.\nRecognize the Hidden Threats to Her Heart\nIgnored symptoms can lead to the real danger, often in the form of a subtle buildup—the quiet things that go unnoticed until they chip away at our heart health, such as:\nHigh blood pressure strains the heart, forcing it to work harder. Diabetes damages blood vessels, making heart disease two to four times more likely . High cholesterol clogs arteries, setting the stage for a heart attack. Unchecked, these threats weaken the heart. But the good news? Heart disease is largely preventable— if we recognize the risks and take action early.\nWomen’s Heart Health: Separate Fact from Fiction\nHeart disease is often misunderstood—wrapped in myths that give women a false sense of security and leave them vulnerable. It is time to uncover the truth:\nMyth #1: Heart disease is a man’ s problem.\nTruth: Being a woman doesn’t grant immunity to heart disease. Heart disease is the leading cause of death in women, taking more lives than all cancers combined .\nMyth #2: I’m too young to worry about heart disease.\nTruth: Heart disease doesn’t discriminate by age. Risk factors like stress, poor diet, lack of exercise, and even birth control pills can affect younger women.\nMyth #3: If I exercise and eat healthy, I’m not at risk.\nTruth: Genetics, stress, and hormonal changes—like during pregnancy or menopause—also impact heart health.\nMyth #4: Heart attacks always come with chest pain.\nTruth: Women’s heart attack symptoms can feel more like extreme fatigue, nausea, or back pain rather than the crushing chest pain typically associated with men.\nMyth #5: Taking care of my family is more important than taking care of myself.\nTruth: You can’t pour from an empty cup. Taking care of your heart means you’ll be healthier, not just for yourself, but for your loved ones too.\nThe power to protect your heart starts with knowledge—and is strengthened by the actions you take.\nHeart-Healthy Prescription s\nHeart health isn’t a one-time fix; it’s a daily commitment to your well-being. These habits can add years to your life and life to your years:\nKnow Your Numbers. When was the last time you had your blood pressure or cholesterol checked? Make an annual appointment with your healthcare provider to stay ahead of potential risks. Move More. Your heart loves movement. Even a 10-minute walk is a step toward a healthier you. Stress Less . Breathe deeply. Meditate. Journal. Practice yoga. Or whatever takes the edge off of life—your peace is your superpower! Your heart is 73% water—keep it strong by drinking plenty of non-caffeinated, low-sugar fluids. Fuel Wisely. Choose heart-friendly foods—lean proteins, whole grains, and colorful veggies. Sleep Tight. Don’t shortchange your heart. Prioritize seven to nine hours of sleep nightly. Limit Women who drink should limit their alcohol to one drink per day. Quit Smoking . Smoking harms blood vessels and oxygen flow to the heart. It’s never too late to quit. Most importantly, be your own advocate —if something feels wrong, speak up and insist on further testing. You life depends on it.\nGuard Your Heart\nHeart disease continues to be one of the biggest threats to women’s health—but it doesn’t have to be. With proactive awareness, early intervention, and daily heart-healthy decisions, women are empowered to guard their hearts and honor their health.\nBIO\nDr. Bernadette is a respected authority and powerful voice in health and wellness. She is the award-winning author of “ Fulfilled. 52 Prescriptions for Healing, Health, and Happiness” which is the core of her influential Fulfilled. wellness program . Dr. Bernadette’s pioneering approach has earned multiple awards, including Most Innovative Mental Wellness Programming Provider 2023 and Best Mental Wellness Program2024—Midwest USA by Global Health and Pharma as well as NYC Big Book Award, Independent Press Award, and Next Generation Indie Book Award. She is also a freelance writer for GoodRx and has penned thought-provoking articles on such reputable platforms as Essence and USA Today. Dr. Bernadette seamlessly blends science with the soul to empower people to nurture and transform their whole self— mind, body, and spirit.\nPhoto Credit: Stephanie Matthews",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->heart disease",
+      "Social Issue->social services",
+      "Social Issue->women",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4834856/",
+      "https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2Fgp4xNDy&data=05%7C02%7C%7C7bfc3bb1ec9a4aba8cfb08dca347c320%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638564776680851094%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=EvaNkTvl9fO9Vz3Uhv8eklI0KNwxU6fj2dWN4m9TcLY%3D&reserved=0",
+      "https://www.goredforwomen.org/en/about-heart-disease-in-women/facts/heart-disease-in-african-american-women",
+      "https://www.cdc.gov/heart-disease/about/women-and-heart-disease.html",
+      "https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.goodrx.com%2Fabout%2Fbio%2Fbernadette-anderson&data=05%7C02%7C%7C7bfc3bb1ec9a4aba8cfb08dca347c320%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638564776680855482%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Vx0A4CcafJey9ORifpthr5%2FuOJuyaw1DkdTsKnFj3r0%3D&reserved=0",
+      "https://www.goredforwomen.org/en/about-heart-disease-in-women/facts",
+      "https://diabetes.org/about-diabetes/complications/cardiovascular-disease",
+      "https://www.diabetes.org/about-diabetes/complications/cardiovascular-disease",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4834856",
+      "https://cdc.gov/heart-disease/about/women-and-heart-disease.html",
+      "https://goredforwomen.org/en/about-heart-disease-in-women/facts",
+      "https://www.na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.goodrx.com%2Fabout%2Fbio%2Fbernadette-anderson&data=05%7C02%7C%7C7bfc3bb1ec9a4aba8cfb08dca347c320%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638564776680855482%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Vx0A4CcafJey9ORifpthr5%2FuOJuyaw1DkdTsKnFj3r0%3D&reserved=0",
+      "https://goredforwomen.org/en/about-heart-disease-in-women/facts/heart-disease-in-african-american-women",
+      "https://www.pmc.ncbi.nlm.nih.gov/articles/PMC4834856/",
+      "https://na01.safelinks.protection.outlook.com/",
+      "https://www.na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fa.co%2Fd%2Fgp4xNDy&data=05%7C02%7C%7C7bfc3bb1ec9a4aba8cfb08dca347c320%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C638564776680851094%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=EvaNkTvl9fO9Vz3Uhv8eklI0KNwxU6fj2dWN4m9TcLY%3D&reserved=0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:56:47.734+02:00",
+    "updated": "2025-02-21T01:56:47.734+02:00"
+  },
+  {
+    "uuid": "d6a61566cdd477d43185e909e9407a995a3aa0a5",
+    "url": "https://bnnbreaking.com/world/russia/ukrainian-bradley-crew-triumphs-over-russian-t-90m-tank-in-combat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BNN Correspondents",
+    "published": "2024-01-20T12:06:00Z",
+    "title": "Ukrainian Bradley Crew Triumphs Over Russian T-90M Tank in Combat",
+    "text": "Storm Juan Wreaks Havoc in Northern Spain, Leaving Hundreds Stranded\nUkrainian Bradley Crew Triumphs Over Russian T-90M Tank in Combat\nIn an unprecedented showcase of military prowess, a Ukrainian Bradley fighting vehicle crew triumphed over a Russian T-90M tank, a machine previously extolled by Russian President Vladimir Putin as the ‘world’s best tank’. The dramatic incident unfolded in the vicinity of Stepove, near Avdiivka in northeastern Ukraine, with digital witnesses documenting the showdown in viral videos showing the relentless firing of the Bradley’s 25mm chain gun upon the Russian T-90M.\nDavid vs Goliath: The Unexpected Victory\nThe Ukrainian crew, composed of commander and gunner Serhiy and driver Oleksandr, was on their second mission together when they encountered the formidable tank. Despite the evident disparity in firepower and armor, the Bradley crew demonstrated exceptional ingenuity by targeting the T-90M’s optics, effectively blinding and crippling the tank. The incapacitated machine met its end when it crashed into a tree.\nThe Heroes Behind the Wheel\nThe crew members, who brought distinct military backgrounds to their shared mission, recounted the high-intensity experience of the battle. Before operating the Bradley, one served as a teacher in civilian life and the other honed his skills as a motorcycle mechanic. Their victory underscores not only the effectiveness of the Bradley vehicle but also the invaluable role of teamwork and synergy in navigating combat situations.\nThe Bradley: A Force To Be Reckoned With\nThis successful engagement against the T-90M, despite the typical mismatch in firepower and armor, has painted the Bradley in a new light. Reports suggest that Russian soldiers have developed an apprehension of the US-supplied Bradley fighting vehicles, a testament to their speed, maneuverability, and heavy armor. As the Bradley continues to prove its worth on the battlefield, it serves as a beacon of hope and resilience in the ongoing conflict.\nComments\nSubscribe to BNN Breaking\nSign up for our daily newsletter covering global breaking news around the world.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "oleksandr",
+          "sentiment": "none"
+        },
+        {
+          "name": "vladimir putin",
+          "sentiment": "none"
+        },
+        {
+          "name": "bradley",
+          "sentiment": "none"
+        },
+        {
+          "name": "david",
+          "sentiment": "none"
+        },
+        {
+          "name": "serhiy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bradley crew triumphs over russian t",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "northern spain",
+          "sentiment": "none"
+        },
+        {
+          "name": "avdiivka",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "stepove",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T16:10:23.812+02:00",
+    "updated": "2024-01-20T16:10:23.812+02:00"
+  },
+  {
+    "uuid": "9da5f8b5d889094f5c765f5b9adb44d86e880b10",
+    "url": "https://wonderfulengineering.com/the-cybertruck-could-be-the-future-of-police-vehicles-and-elon-musk-agrees/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shaheer Shahzad",
+    "published": "2024-01-05T15:24:00Z",
+    "title": "The Cybertruck Could Be The Future Of Police Vehicles – And Elon Musk Agrees",
+    "text": "The Cybertruck from Tesla isn’t your typical pickup truck. It’s a sturdy, futuristic marvel with a sci-fi movie appearance that can withstand gunshots and accelerate at breakneck speed. Elon Musk, the CEO of Tesla, believes that this unusual car may also be used by law enforcement in the future. In response to a tweet made by the Rosenberg Police Department in Texas, Musk announced his support for the concept on X, the social media network that will replace Twitter. To get Musk’s thoughts on the Cybertruck’s potential as a police car, the department had shared a picture of it. The idea generated a spirited discussion on social media, with some critics doubting the usefulness of a Cybertruck in law enforcement operations and others applauding the idea for its possible fuel and maintenance cost benefits. The Cybertruck is a compelling choice for law enforcement because of its many benefits. Its sturdy stainless steel body can withstand small weapons fire, dents, and scratches. It can go from 0 to 60 mph in less than 3 seconds thanks to a strong electric motor, outpacing the majority of sports vehicles in speed. Because of its intimidating appearance, the car might discourage criminals and give off an air of authority. Still in the early stages of development, Tesla is still working to perfect the Cybertruck’s functions and design. The Cybertruck is expected to start delivery in late 2024, and its strong demand is demonstrated by the size of the pre-orders it has received. The Rosenberg Police Department may have to exercise patience in their desire to acquire the Cybertruck from Tesla. However, they can explore other options like the readily available and dependable Model Y or Model 3. Furthermore, there are aftermarket companies like Unplugged Performance that specialize in transforming Tesla vehicles into police cruisers. When we talk about Tesla vehicles like the Cybertruck, Model Y, or Model 3, it’s hard not to get excited about the potential they hold for police transportation. These vehicles offer a combination of performance, safety, and sustainability that is truly compelling. And when we consider that Elon Musk himself has given his endorsement to these vehicles, it hints at a potential shift in the direction of more technologically advanced police fleets. Imagine a future where law enforcement is not only more efficient but also cooler. That’s the kind of future that Teslas could bring about. As Tesla continues to work towards mass production, we can’t help but dream about the possibility of seeing Cybertrucks patrolling our streets. It’s a glimpse into what the future of law enforcement vehicles could look like, and it’s undeniably exciting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "musk",
+          "sentiment": "none"
+        },
+        {
+          "name": "tesla",
+          "sentiment": "none"
+        },
+        {
+          "name": "elon musk",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rosenberg police department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tesla",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:24:23.678+02:00",
+    "updated": "2024-01-06T04:08:33.391+02:00"
+  }
+]

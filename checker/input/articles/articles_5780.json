@@ -1,0 +1,398 @@
+[
+  {
+    "uuid": "f35ec9e4331bc1b442ded50471cb0334c433c6c5",
+    "url": "https://www.abc15.com/news/region-west-valley/glendale/one-year-old-boy-taken-to-hospital-after-being-found-unconscious-in-bathtub-in-glendale",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "abc15.com staff",
+    "published": "2025-02-20T23:28:00Z",
+    "title": "One-year-old boy taken to hospital after being found unconscious in bathtub in Glendale",
+    "text": "GLENDALE, AZ — Police are investigating after a one-year-old boy was found unconscious in a bathtub.\nOn Thursday afternoon, Glendale fire and police were called to a home near 59th Avenue and Bethany Home Road for reports of a drowning.\nOfficials tell ABC15 the boy was left unattended in the bath for a short time and was found unconscious. He was taken to a hospital \"alive\" for treatment. His current condition hasn't been provided.\nABC15 is working to get more information on this developing story.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->emergency care",
+      "Health->health facility",
+      "Health->hospital",
+      "Human Interest->human mishap",
+      "Social Issue->social services",
+      "Social Issue->children",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:31:53.394+02:00",
+    "updated": "2025-02-21T01:31:53.394+02:00"
+  },
+  {
+    "uuid": "4c2cb829195b729dedbe45ba3fc78df50141054f",
+    "url": "https://www.tz.de/sport/tennis/venus-williams-bekommt-wildcard-fuer-cincinnati-open-zr-93849439.html",
+    "ord_in_thread": 0,
+    "author": "tz",
+    "published": "2025-07-24T03:38:00Z",
+    "title": "Venus Williams bekommt Wildcard für Cincinnati Open",
+    "text": "Venus Williams bekommt Wildcard für Cincinnati Open\nEin Sieg im Doppel, ein Sieg im Einzel: Das Comeback von Venus Williams nach mehr als einem Jahr ohne Turnier-Einsatz läuft bislang reibungslos. Nun kann sie bereits mit dem nächsten Auftritt planen.\nCincinnati - Nach ihrem erfolgreichen Comeback auf der WTA-Tour kann Venus Williams schon mit der nächsten Turnier-Teilnahme planen. Die 45 Jahre alte ehemalige Weltranglistenerste bekommt für die Cincinnati Open im August eine Wildcard. Dort hatte sie 2023 ihr letztes Einzel-Match gewonnen - bis sie am Dienstag bei den DC Open in Washington bei ihrem ersten Turnier nach 16 Monaten Pause Peyton Stearns 6:3, 6:4 besiegte. Tags zuvor hatte sie bereits im Doppel gewonnen und ihr Comeback auf der WTA-Tour gegeben.\nWilliams, die ältere Schwester von Serena Williams, war vor einem Jahr an der Gebärmutter operiert worden. Nur eine Spielerin war bei einem Sieg auf der WTA-Tour jemals älter als sie, Martina Navratilova gewann 2004 im Alter von 47 Jahren. „Es gibt keine Grenzen für Exzellenz. Es geht darum, was in deinem Kopf vorgeht und wie viel du investieren kannst“, sagte Williams nach ihrem Erstrundensieg. „Wenn du mental, physisch und emotional arbeitest, kannst du Resultate liefern. Es geht nicht darum, wie oft du hinfällst. Es geht nicht darum, wie oft du krank oder verletzt bist. Wenn du daran glaubst und arbeitest, gibt es eine Chance.“\nBlick schon auf US Open gerichtet\nIn Washington trifft Williams nun auf die an Nummer fünf gesetzte Polin Magdalena Frech. Für die US Open im August hat sie mit ihrem Landsmann Reilly Opelka zumindest für das Mixed-Turnier gemeldet und liebäugelte zuletzt auch mit einem möglichen Start im Einzel, für den sie ebenfalls eine Wildcard benötigen würde. dpa",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->tennis",
+      "Sport->sports honour",
+      "Sport->sport event",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Martina Navratilova",
+          "sentiment": "none"
+        },
+        {
+          "name": "Venus Williams",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Washington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Cincinnati Open",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "DC Open",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news_ch",
+        "top_news_at",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:50:43.779+03:00",
+    "updated": "2025-07-25T08:08:03.000+03:00"
+  },
+  {
+    "uuid": "3ac168cccc3031973d59115730dc08fa165112a6",
+    "url": "https://www.newsbreak.com/kens-5-eyewitness-news-524530/3842559685214-tuesday-s-wildfires-scorched-more-than-500-acres-in-south-bexar-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KENS 5 Eyewitness News",
+    "published": "2025-03-06T02:28:00Z",
+    "title": "Tuesday's wildfires scorched more than 500 acres in south Bexar County - NewsBreak",
+    "text": "Bexar County, Texas\nTuesday's wildfires scorched more than 500 acres in south Bexar County\n1 hours ago\nSAN ANTONIO — Lives were upended and homes reduced to rubble when a perfect storm of extreme winds and extremely dry conditions sparked a pair of fast-moving wildfires in far south and southeast Bexar County, challenging firefighters and the neighbors who rushed to help them. The Calaveras and Duke...\n1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Weather"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->sustainability",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "NewsBreak Bexar County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:33:58.336+02:00",
+    "updated": "2025-03-06T05:33:58.336+02:00"
+  },
+  {
+    "uuid": "10f41904e885659bfea641b9ddd09270e39fa87d",
+    "url": "https://forbes.es/brandvoice/730131/ef-business-school-la-escuela-de-negocio-que-triunfa-en-espana-desde-el-corazon-de-galicia",
+    "ord_in_thread": 0,
+    "author": "FORBES",
+    "published": "2025-06-12T07:00:00Z",
+    "title": "Ef business school, la escuela de negocio que triunfa en España desde el corazón de Galicia",
+    "text": "De Galicia para el mundo. Un titular así podría definir el caso de ef business school, una escuela de negocio que ha logrado consolidarse como una de las mejores de España gracias a una educación especializada, de calidad y lejos del ruido de otras ubicaciones como Madrid y Barcelona. Porque desde fuera de los grandes centros urbanos también hay talento. Y mucho.\nEf business school nació hace más de 20 años con un objetivo: promover el desarrollo profesional de sus estudiantes a través de un proyecto educativo de éxito. Desde entonces, más de 5.000 profesionales de España y América Latina se han formado en todos los sectores relacionados con el área empresarial.\nUna trayectoria que ha llevado a ef business school a posicionarse como una de las mejores escuelas de negocio, según el ranking de Forbes desde el año 2022, y ser reconocida como la única escuela de negocios del noroeste y de Galicia en el listado. Las claves de su confirmación como un espacio referente: empleabilidad, emprendimiento, conexión con el tejido empresarial y una metodología basada en la realidad del mercado.\nTodo ello aupado por una formación conectada con el mercado laboral; impartida por profesionales en activo; que destaca por usar la metodología learning by doing, basada en casos prácticos y reales que ayuda al estudiante a trasladarse a un ecosistema laboral desde la propia escuela; así como una empleabilidad del 99% en los meses posteriores a la finalización del programa. Parte deriva del apoyo de la Fundación Venancio Salcines, una organización creada a través del departamento de carreras de ef business school con el objetivo de impulsar la inserción laboral de los jóvenes gestionando más de 500 becas mensuales.\nPara ef business school trasladar casos reales a sus alumnos es esencial. Por eso estos concluyen sus estudios con herramientas suficientes para emprender nuevos proyectos. Tanto es así que más de 32 ideas emprendedoras son impulsadas cada año por alumnos y alumni de esta escuela nacida en Galicia.\nPorque para estos, este aspecto es vital. No son muchas las escuelas de negocio que pueden decir que desde la periferia compiten con las grandes urbes nacionales. No obstante, es nuclear mantener un fuerte sentimiento local gracias al que colaboran con el desarrollo económico de la comunidad autónoma. Asimismo, proporcionan profesionales a las áreas de la región con un mayor conocimiento de la zona y un nivel formativo de alto nivel.\nEn definitiva, un ADN que sin duda ha sido premiado por Forbes al ubicarlo entre las mejores business school del país. Y es que, el liderazgo regional de ef business school no solo es conceptual, es real. Su inspiración en los futuros líderes gallegos gracias a una metodología diferencial y una filosofía centrada en resultados reales se ha convertido en un estandarte de las escuelas de negocio de Galicia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Education"
+    ],
+    "topics": [
+      "Education->college and university",
+      "Education->private school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "América",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:14:17.965+03:00",
+    "updated": "2025-06-12T08:25:27.000+00:00"
+  },
+  {
+    "uuid": "ea57e558f92843902f96966568aafc91d4b923cd",
+    "url": "https://www.vox.com/future-perfect/385140/science-trust-rfk-jr-trump-pew-partisan?ref=biztoc.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Celia Ford",
+    "published": "2024-11-15T13:30:00Z",
+    "title": "America's fractured trust in science, explained in 3 charts",
+    "text": "Every year since 2019, Pew Research Center, a nonpartisan think tank and polling organization, has asked nearly 10,000 American adults how they feel about science.\\nIn 2019, the vast majority of people surveyed across the political spectrum were confident that scientists act in the public’s best interest. In fact, Americans placed more confidence in scientists than nearly anyone else, including elected officials, journalists, business leaders, and even schoolteachers.\\nThen the Covid-19 pandemic happened. Democrats doubled down in their confidence while Republicans lost theirs. During the height of the pandemic, this partisan divide in science skepticism manifested as culture wars between those who wore masks and lined up for vaccines, and those who did not.\\nThe public’s trust — or lack thereof — in science shapes political decisions around climate change, research funding, and food and drug regulation. As Donald Trump prepares to take office again, the scientific community is grappling with what his agenda means for them. Scientists worry that a second Trump term will stall efforts to fight climate change and eviscerate federal agencies involved in public health. \\nAccording to Pew’s latest survey, Republican confidence in science went up this year, the first increase in trust reported since before the pandemic. But the incoming Trump administration, now prominently featuring Robert F. Kennedy Jr., is placing science skepticism at the heart of promises to “Make America Healthy Again.”\\nThe belief that health care practitioners, federal agencies, and institutions of science are colluding against us is being pushed by rising GOP leaders like conservative health influencers Calley and Casey Means to stoke conservative anxieties. According to Pew, nearly two-thirds of conservatives believe that scientists should stay out of science-related policy debates. Now that Trump has selected Kennedy to lead the Department of Health and Human Services (HHS), those conservatives may get their wish.\\nHere are three charts that make sense of America’s relationship with science today, and highlight how scientists can earn the public’s trust back.\\nConfidence in science is rising for the first time since early 2020 — but trust splits along party lines\\nCovid-19 caught the world with its pants down, and public trust in science never fully recovered. As the virus spread, the imperfect process of science was laid out for everyone to see. \\nNormally, publishing a biomedical science paper is a years-long process. The experiments themselves can take many weeks or months, depending on the nature of the project. Once data is analyzed, written up, and submitted to a journal for peer review, it can take anywhere from a few months to a few years to get published — reviewers often ask scientists to make changes or include more information, to make sure their findings are as airtight as possible. \\n---\\nThis story was first featured in the Future Perfect newsletter.\\nSign up here to explore the big, complicated problems the world faces and the most efficient ways to solve them. Sent twice a week.\\n---\\nBut in the early stages of the pandemic, people were desperate for answers — and scientists stepped into the vacuum to publish rushed, sometimes error-filled papers without peer review. Journalists published news articles about those pre-print studies without effectively communicating their uncertainty. Policymakers were left to make huge decisions based on limited, inconclusive, and sometimes downright fraudulent data.\\nBut science is a messy, nonlinear process, and new data can overturn previously held truths at any moment. The scientific method involves making an educated guess about how the world works, finding a way to test that guess, and seeing what happens — basically, science is the act of messing around and finding out. \\nIn most cases, it takes many iterations of this process before the scientific community reaches a consensus (and even then, new experiments can shatter what was once accepted as fact). For scientists, this is a given. “The consistency is only to the data, not your position,” said Sudip Parikh, CEO of the American Association for the Advancement of Science.\\nThe problem, he said, is that politics don’t work that way. “In politics, you should be consistent about your position,” Parikh said. And when you’re not consistent, as Vice President Kamala Harris discovered during the 2024 campaign, voters can punish you for it.\\nSo when the government seemed to flip-flop during the pandemic — like telling people to only wear cloth masks to preserve limited supplies for front line health care workers, only to later say that cloth masks aren’t very effective — most people didn’t instinctively think it was all part of the learning process. They felt betrayed. And that sense of betrayal ultimately extended to vaccines.\\nThe public lost trust in science for years following the pandemic. According to Pew, though Democrats’ confidence fell by a few percentage points between 2019 and 2023, they still overwhelmingly trusted scientists throughout the pandemic. Republicans’ trust, however, plummeted between 2020 and 2021, and it’s only just beginning to recover. The massive partisan divide is striking: When surveyed in October, 88 percent of Democrats said they have “a fair amount” or “a great deal” of confidence in scientists, compared to 66 percent of Republicans.\\n[Image: https://platform.vox.com/wp-content/uploads/sites/2/2024/11/PS_24.11.14_trust_p8.png?quality=90&strip=all]\\nMost people agree that scientists are smart, but bad at communicating\\nWhen asked, about 9 in 10 people, regardless of party affiliation, agreed that research scientists are “intelligent.” Alec Tyson, an associate director of research at Pew, pointed out that in general, scientists “engender high levels of trust from the public in a low-trust era,” inspiring more votes of confidence than people are willing to give just about any other occupation.\\nHowever, while over three-quarters of Democrats believe scientists are also “honest” and “focus on solving real-world problems,” only about half of Republicans agree. On the flip side, many more Republicans than Democrats agree that scientists are cold, closed-minded, ignore moral values of society, and feel superior to others.\\n[Image: https://platform.vox.com/wp-content/uploads/sites/2/2024/11/PS_24.11.14_trust_p13.png?quality=90&strip=all]\\nThe majority of Americans surveyed also think scientists are socially awkward and bad at communicating.\\n“Look, scientists are human,” Parikh said. “We have the whole spectrum of the population. Every personality type that’s out in the real world is in the scientific laboratory as well.” So, sure — some scientists are certainly socially awkward (and as a former scientist, I’ve both witnessed and likely contributed to this stereotype). And unfortunately, scientists rarely learn how to write for non-academic audiences or speak with the press as part of their training.\\nThere are some easy steps scientists can take to improve their overall vibe. A group of scientists, including Samantha Yammine and Daniel Toker (@ScienceSam and @the_brain_scientist on both Instagram and TikTok), ran an experiment in 2019 to see whether posting selfies on social media could change people’s perception of scientists. When scientists posted friendly-looking pictures of themselves against a science-y backdrop, like their lab bench, viewers rated them as significantly warmer than if they had posted a picture of their lab equipment alone.\\nParikh thinks that building long-term relationships between researchers, policymakers, reporters, and their community — whether through social media, fellowship programs, or citizen science — can strengthen trust over time. “Science is a human endeavor,” Parikh said. “The way you build trust is by being open and honest about both the strengths and the limitations of your process.”\\nMost Republicans don’t want scientists involved in science-related policy decisions\\nPew’s survey asked respondents another big question: “If you trust scientists,” Tyson said, “what role do you want them to play in public life?”\\nAccording to the National Science Foundation, the federal government in 2020 employed about 175,000 scientists, the vast majority of whom conduct research for the Department of Defense. Though elected officials hold final authority, scientists can influence policy decisions by advising politicians, and may work for the federal government, or nongovernmental organizations like universities or think tanks. In times of crisis, like the Covid-19 pandemic, scientists in government have the power to sway decisions that affect everyone.\\nPeople were divided: About half of US adults think scientists should take an active role in science-related policy debates, while the other half thinks scientists should just stick to science. Again, there was a big partisan gap, with many more Republicans wanting scientists to stay out of policy debates.\\n[Image: https://platform.vox.com/wp-content/uploads/sites/2/2024/11/PS_24.11.14_trust_p14.png?quality=90&strip=all]\\nOne possible explanation, Parikh said, is that people are worried that scientists are so married to their data, they ignore everything else. During the 2020 lockdowns, for example, many people disagreed with school closures — though closing schools was a largely evidence-based decision, that evidence was limited and uncertain, and closures ultimately caused real, lasting damage to children’s education and mental health. In policy debates like that, where scientific evidence is pitted against economic reality, family values, and individual emotions, some people may worry that scientists would only consider the science.\\nThat’s not to say that science and data matter when it comes to policymaking — nearly all hot-button issues today, like reproductive care, climate change, and drug regulation, have science at their core. But science and data are “not the only part of the equation,” Parikh said. “That’s why we have policymakers. We have to have a discussion about what the data means.”\\nTyson’s team has an eye on the Trump administration’s health proposals, and what they might mean for the public’s perception of science. While it’s too early to know exactly what role he will play, Kennedy has long held outright conspiratorial beliefs around vaccines, fluoride, seed oils, and pesticides, and has said he would dramatically restructure HHS, the federal organization responsible for public health.\\n“I think we’ll be ready, a year from now, to take stock of the change in administration and see where the conversation goes from there,” Tyson said.\\nFor years, science communicators believed that the gap between scientists and the rest of the population could be explained by inadequate information. This paradigm, called the “deficit model,” states that if only the public were more educated about the scientific method, they would be more willing to trust scientific expertise. In this model, scientists hold crucial information that non-scientists don’t have, and sharing that information should be enough to sway hearts and minds.\\nWhile that theory makes some intuitive sense, it doesn’t seem to be how humans actually work. Pew reported that, among politically aligned voters, whether someone went to college didn’t change their trust in science. It’s not about education — it’s about transparency, relationship-building, and a willingness to acknowledge when science makes mistakes. If the deficit model were an experiment, the data would suggest it’s not working.\\nWhile I don’t believe that science is — or should be — apolitical, it ought to be bipartisan. “It’s a process for thinking,” Parikh said, “and that process for thinking is not partisan.” Parikh is cautiously optimistic that this year’s upswing in Republican confidence in science marks the beginning of the end of science’s post-pandemic slump.\\n“If we can do five point increases for three years in a row on the Republican side, we’re right back at complete bipartisanship,” Parikh said.\"},{\"@context\":\"https://schema.org",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Pew Research Center",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:51:01.757+02:00",
+    "updated": "2024-11-15T16:51:01.757+02:00"
+  },
+  {
+    "uuid": "9950f0547640aed3f99ea39910702fea4fd090fd",
+    "url": "https://wng.org/roundups/pca-ministry-apologizes-for-controversial-website-as-concerns-persist-1740152227",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WNGdotorg",
+    "published": "2025-02-21T16:27:00Z",
+    "title": "PCA ministry apologizes for controversial website as concerns persist",
+    "text": "Compassion by Addie Offereins , Josh Schumacher\nPost Date:\nFebruary 21, 2025 PCA ministry apologizes for controversial website as concerns persist Ministry leaders’ response highlights evangelical tension over immigration Tennessee Witney / iStock / Getty Images Plus via Getty Images\nThe Presbyterian Church in America’s Mission to North America last week took down a webpage that shared information advising illegal immigrants on ways they could avoid authorities.\nThe organization deleted the page after receiving alarmed and critical messages from Christian leaders within the denomination. In the organization’s apology statement , MNA Coordinator Irwyn Ince said he and other church officials “repent and apologize” for providing information that could help individuals subvert the laws put in place by governing authorities. But the criticism continued.\nSome conservative leaders argued that the fact that the information made it onto the webpage at all was evidence of a politically and socially left-leaning agenda at work inside Mission to North America. Some accused the organization of treason.\nMNA is one of many church ministries reckoning with how to support immigrants in their congregations and community programs as the Trump administration ramps up immigration enforcement. While some church leaders view immigration advocacy as an essential component of their gospel witness, others argue that even well-intentioned initiatives to protect illegal immigrants subtly endorse lawbreaking.\nThe Presbyterian Church in America is the second-largest Presbyterian denomination in the country and is made up of about 2,000 congregations. Those congregations work together in local presbyteries and then send representatives to an annual General Assembly. That General Assembly can then authorize the creation of agencies such as the Mission to North America, which assists congregations with activities such as church planting, charity work, and responding to disasters. It also helps congregations with ministering to immigrants.\nThe removed page on the MNA site included links to other organizations’ sites—many of them left-leaning groups such as the American Civil Liberties Union—containing advice about how to handle interactions with authorities and prepare for the possibility of being deported. A section answering frequently asked questions, with information taken from World Relief, warned illegal immigrants against carrying documents showing their country of origin. It also instructed them to refuse to speak to authorities without first conferring with a lawyer and advised them not to open the door if authorities asked to enter their residence.\nAnother tip encouraged illegal immigrants to consult with an immigration lawyer before applying for asylum in case doing so would draw attention to the fact that they are living in the country illegally.\nThe rank-and-file of the Presbyterian Church in America, a majority of whom consider themselves conservative, are not pleased with the information erroneously posted on the MNA website, MNA Permanent Committee Member Zachary Groff told WORLD.\nGroff agreed that the organization should not have posted the information and said he was glad to see the webpage was, rightfully, taken down. The PCA has no business being affiliated with organizations such as the ACLU that have radical, anti-Christian agendas, he said.\nBut he noted that the Mission to North America wasn’t posting this information in a vacuum. About 1 out of every 10 congregations affiliated with the Presbyterian Church in America is involved in some sort of immigrant-friendly ministry, Groff said. These ministries work with many legal immigrants but also, sometimes, illegal immigrants.\n“Those particular resources had been posted in response to specific requests from churches serving immigrants in their community outreach and evangelism programs,” MNA Coordinator Irwyn Ince told WORLD. Loving immigrants both inside and outside the church is an important part of MNA’s work, Ince said: “Simply put, we want to help our churches to holistically love all of their neighbors in Jesus’ name.”\nWhen asked for a response to criticisms saying that the webpage’s publication resulted from a social and political leftward drift at MNA, Ince said the organization remained committed to Scripture and to the PCA’s constitution.\n“I do not believe that the offending publication was influenced by a progressive or liberal spirit within the PCA,” Zachary Groff said. He, too, emphasized that Presbyterian churches wanted to love their neighbors and that MNA only sought to support them in that work.\nGabriel Salguero, pastor and president of the National Latino Evangelical Coalition, declined to comment on the MNA’s webpage or statement. He said churches and ministries have an essential role to play in advising immigrants on how to engage with authorities, and he pushed back against characterizations of advocacy as “mission drift.”\n“We are asking people to respect the rule of law but also examine if that’s the best we can do. Christians call for reform of the law all the time,” Salguero said, “We’re advocating for … bipartisan, commonsense immigration reform that secures the border, that deals with violent criminals, but at the same time deals humanely with families and children.”\nSalguero’s coalition hosted three virtual trainings for pastors and ministry leaders after November’s presidential election. Immigration lawyers explained immigrants’ constitutional rights and shared tips on how to avoid escalating interactions with authorities. They encouraged the leaders to remind immigrants that they have the right to remain silent and can ask Immigration and Customs Enforcement agents for a judicial warrant before letting them inside their home.\nThat’s different from encouraging immigrants to avoid or mislead ICE agents, Salguero said. “Nobody’s asking for people to break the law,” he added. “It’s actually teaching them how to comply with the law.”\nAttendees also discussed how to help church members prepare for the possibility of them or their loved ones being deported. “Those are very pragmatic questions that they ask pastors about,” he said. According to Salguero, more than 500 pastors attended the most recent training on Jan. 24.\nElket Rodríguez is an immigration attorney in Harlingen, Texas, where he also serves as a missionary and global migration advocate for the Cooperative Baptist Fellowship. “If churches ignore the realities immigrants face, they risk offering a faith that’s disconnected from the real-life struggle of the people they serve,” Rodríguez said, though he noted there’s a clear line between obstructing the work of law enforcement and understanding your rights.\nGroff said he’s pleased with MNA Coordinator Irwyn Ince’s decision to retract, apologize for, and repent of putting the information on MNA’s website. He said the committee is planning on raising the issue at its spring meetings next month in Atlanta. That could include discussions about how to improve the process for reviewing content before it’s published on MNA’s website, Groff said.\n“We simply want to be good neighbors to whoever the Lord brings to our front door as the church,” Groff said. “I think it’s the permanent committee’s role ... to help course correct and provide better guidance on how to best be a resource to the church and to the people served by the church and serving in the church, so that we can all be in submission to lawful authority.”\nIf you enjoyed this article and would like to support WORLD's brand of Biblically sound journalism, click here .\nAddie Offereins Addie is a WORLD reporter who often writes about poverty fighting and immigration. She is a graduate of Westmont College and the World Journalism Institute. Addie lives with her family in Lynchburg, Virginia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Politics->government",
+      "Politics->freedom of religion",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->values",
+      "Religion and Belief->christianity",
+      "Religion and Belief->church",
+      "Religion and Belief->religious conflict"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/ZGroff/status/1889335286015905838",
+      "https://pcanet.org/about-the-pca/",
+      "https://pcamna.org/ministries/",
+      "https://pcamna.org/mna-statement-refugee-and-immigrant-ministry/",
+      "https://www.pcaac.org/resources/pca-statistics-five-year-summary/",
+      "https://web.archive.org/web/20250211142218/https://pcamna.org/refugee-immigrant-ministry-for-churches-aid-immigrants-facing-2025-policy-changes/",
+      "https://www.pcamna.org/mna-statement-refugee-and-immigrant-ministry/",
+      "https://pcaac.org/resources/pca-statistics-five-year-summary/",
+      "https://www.pcanet.org/about-the-pca/",
+      "https://web.archive.org/web/20250211142218/https://pcamna.org/refugee-immigrant-ministry-for-churches-aid-immigrants-facing-2025-policy-changes",
+      "https://pcanet.org/about-the-pca",
+      "https://pcamna.org/ministries",
+      "https://www.web.archive.org/web/20250211142218/https://www.pcamna.org/refugee-immigrant-ministry-for-churches-aid-immigrants-facing-2025-policy-changes/",
+      "https://www.pcaac.org/resources/pca-statistics-five-year-summary",
+      "https://www.x.com/ZGroff/status/1889335286015905838",
+      "https://www.pcamna.org/ministries/",
+      "https://pcamna.org/mna-statement-refugee-and-immigrant-ministry"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T19:20:58.459+02:00",
+    "updated": "2025-02-21T21:39:52.378+02:00"
+  },
+  {
+    "uuid": "9a33aca10eaaf1c8403b9ed86f0375eac13c9e33",
+    "url": "https://www.xataka.com/seleccion/120-euros-dificil-encontrar-movil-barato-5g-mejor-que-este-realme-nunca-habia-estado-rebajado",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Roberto Méndez",
+    "published": "2024-01-05T16:27:00Z",
+    "title": "Por menos de 120 euros es difícil encontrar un móvil barato con 5G mejor que este realme: nunca había estado tan rebajado",
+    "text": "Si quieres aprovechar este inicio de año para renovar tu viejo smartphone por un modelo económico y con conectividad 5G para navegar a mayor velocidad cuando estés fuera de casa, ahora en las rebajas de El Corte Inglés tienes este realme 9 5G con su mayor descuento hasta la fecha por tan solo 119,90 euros . Este smartphone de la marca realme tiene un precio recomendado y habitual de 279,90 euros en El Corte Inglés, aunque ahora tiene un ofertón, el cual durará hasta el próximo día 9 de enero o hasta agotar existencias, que lo deja por un precio nunca antes visto de 119,90 euros . Con su compra ahorrarás un total de 160 euros y su envío es totalmente gratuito, aunque también puedes recogerlo en tu tienda más cercana sin coste adicional. El realme 9 5G es un económico teléfono de gama media que se caracteriza por ofrecernos una pantalla LCD de 6,6 pulgadas con resolución Full HD+ y una tasa de 90 Hz . Asimismo, viene impulsado por un procesador Snapdragon 695 5G , una memoria RAM de 4 GB y un almacenamiento de 128 GB que podemos ampliar con una tarjeta microSD .\nTambién cabe destacar que incorpora una batería de 5.000 mAh de larga duración que es capaz de soportar una carga rápida Dart de 18 W y un apartado fotográfico bastante aceptable, pues dispone de una triple cámara trasera formada por un sensor principal de 50 MP, monocromo de 2 MP y macro de 2 MP , mientras que en la parte frontal lleva una cámara con lente de 16 MP. Por otro lado, incluye un lector de huellas lateral y una conectividad bastante avanzada, ya que tiene 5G , WiFi 5 , Bluetooth 5.1 , GPS y una entrada jack 3,5 mm para auriculares. Todo ello funcionando bajo un sistema operativo Realme UI 3.0 basado en Android 12 . Recuerda que suscribiéndote a Amazon Prime dispones de 30 días de prueba gratis y podrás disfrutar de otros servicios como Prime Video . También puedes probar gratis durante 30 días servicios como Kindle Unlimited o Audible . Puedes estar al día y en cada momento informado de las principales ofertas y novedades de Xataka Selección en nuestro canal de Telegram o en nuestros perfiles de Twitter , Facebook y la revista Flipboard . Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio a Xataka. En caso de no disponibilidad, las ofertas pueden variar. Imágenes | realme En Xataka Selección | No llegan para ser regalos de Reyes, pero son las mejores ofertas en tecnología para afrontar la cuesta de enero: Cazando Gangas En Xataka | Los mejores móviles (2023), los hemos probado y aquí están sus análisis",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://flipboard.com/@xataka/cazando-gangas-4tsdshjjz",
+      "https://t.me/xatakaseleccion",
+      "https://twitter.com/xatakaseleccion",
+      "https://www.facebook.com/XatakaSeleccion/",
+      "https://facebook.com/XatakaSeleccion/",
+      "https://www.flipboard.com/@xataka/cazando-gangas-4tsdshjjz",
+      "https://www.facebook.com/XatakaSeleccion",
+      "https://www.twitter.com/xatakaseleccion",
+      "https://www.t.me/xatakaseleccion"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:11:03.074+02:00",
+    "updated": "2024-01-06T00:11:03.074+02:00"
+  }
+]

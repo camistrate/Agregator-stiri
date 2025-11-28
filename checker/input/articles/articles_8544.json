@@ -1,0 +1,603 @@
+[
+  {
+    "uuid": "60b3e2269fdccdbcfba136a009cff9a2ec8c22c6",
+    "url": "https://techcentral.co.za/whatsapp-says-russia-trying-to-block-it/268546/",
+    "ord_in_thread": 0,
+    "author": "@techcentral",
+    "published": "2025-08-14T06:25:00Z",
+    "title": "WhatsApp says Russia is trying to block it - TechCentral",
+    "text": "WhatsApp said Russia was trying to block its services because the social media messaging app owned by Meta Platforms offered people’s right to secure communication, and vowed to continue trying to make encrypted services available in Russia.\nRussia has started restricting some Telegram and WhatsApp calls, accusing the foreign-owned platforms of failing to share information with law enforcement in fraud and terrorism cases.\n“WhatsApp is private, end-to-end encrypted, and defies government attempts to violate people’s right to secure communication, which is why Russia is trying to block it from over 100 million Russian people,” WhatsApp said in a statement.\nRead: Russia to launch state-backed rival to WhatsApp “We will keep doing all we can to make end-to-end encrypted communication available to people everywhere, including in Russia.” — (c) 2025 Reuters\nGet breaking news from TechCentral on WhatsApp. Sign up here .\nDon’t miss: Big security changes coming to WhatsApp",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029VaABUwFFXUubh0N8JT36",
+      "https://whatsapp.com/channel/0029VaABUwFFXUubh0N8JT36"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "WhatsApp",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Meta Platforms",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:18:02.464+03:00",
+    "updated": "2025-08-14T10:56:18.357+03:00"
+  },
+  {
+    "uuid": "21dc033aef7b313a91534545251de96d24b15817",
+    "url": "https://www.timesnownews.com/technology-science/google-chrome-users-in-india-are-at-high-risk-of-hacking-indian-government-warns-heres-what-you-should-do-article-152463182",
+    "ord_in_thread": 0,
+    "author": "@TIMESNOW",
+    "published": "2025-08-14T07:27:00Z",
+    "title": "Google Chrome Users In India Are At High Risk Of Hacking, Indian Government Warns: Here's What You Should Do | Technology & Science - Times Now",
+    "text": "Technology & Science\nGoogle Chrome Users In India Are At High Risk Of Hacking, Indian Government Warns: Here's What You Should Do\nCERT-In has alerted users of Google Chrome for Desktop about vulnerabilities that could lead to hacking risks. These vulnerabilities affect versions prior to 139.0.7258/.128 for Windows and MacOS, and 139.0.7258.127 for Linux.\nThe Indian Computer Emergency Response Team of India (CERT-In) has issued a warning for all Google Chrome for Desktop users, as their PC or laptop is at risk of getting hacked. With the latest vulnerabilities detected in Chrome, the attackers can exploit the system by executing arbitrary code, induce a denial of service attack, or even obtain sensitive information related to the users.\nGoogle Chrome Security Alert\nGoogle Vulnerability Details\nFirst things first, the users should know that the versions affected by the vulnerability are Google Chrome versions prior to 139.0.7258/.128 for Windows and MacOS and Google Chrome versions prior to 139.0.7258.127 for Linux. The target audience for the attack is anyone who possesses any of the mentioned versions of Chrome for Desktop on their system.\nAnd yes, there were a total of five vulnerabilities, out of which three were deemed high risk and the other two possessed medium risk. Google worked with multiple security researchers to identify and remove the vulnerabilities in the system.\nThe risks associated with the same suggest that the attackers can get unauthorised access to the sensitive data of the users, which could ultimately lead to data theft. As mentioned by CERT-In, the user can be persuaded by the attacker to visit a specially crafted request on their PC.\nHow To Stay Safe From The Same?\nYou need to get the stable channel update for both Windows and Mac. As for the Linux version, Google has mentioned in an official blog that the stable update will roll out in the coming days. Apart from that, the users should be alert and identify if there is anything wrong with their system or if it is behaving in a strange way. The best practice will be to set Chrome on your PC to automatic updates so that you can get the new version if and when they launch.\nGet\nLatest Newslive on Times Now along with Breaking News and Top Headlines fromTechnology Scienceand around the world.End Article\nNishit Singh Raghuwanshi author\nA career journalist who spent six years playing around with smartphones, apps and gaming. As a hobby...View More\nSubscribe to our daily Newsletter!\nEnd of Feed",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Google Chrome for Desktop",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_ph",
+        "top_news_pk",
+        "top_news_ae",
+        "top_news_za",
+        "top_news_qa",
+        "top_news_sg",
+        "top_news_sa",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:33:41.094+03:00",
+    "updated": "2025-08-15T11:09:53.000+03:00"
+  },
+  {
+    "uuid": "b54c22715ecbfae3c79f2d1cbbbf3d397d21d447",
+    "url": "https://www.yahoo.com/news/former-norwich-university-president-accused-210408824.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WPTZ - Burlington/Plattsburgh",
+    "published": "2024-04-25T00:00:00Z",
+    "title": "Former Norwich University president accused of sexual misconduct",
+    "text": "Mike StobeFormer president Donald Trump has repeatedly claimed that his ongoing hush money trial constitutes “election interference,” by preventing him from connecting with voters, and so, the Republican presidential nominee spent his one day off from court diligently campaigning.Just kidding, Trump actually went golfing.A not-so aggrieved Trump spent his Wednesday puttering around at the Bedminster Golf Club, sources told CNN. On Wednesday, President Joe Biden’s presidential campaign released a Curtis Means/ReutersDonald Trump may well have had the Republican nomination in the bag for weeks now, but legions of GOP voters are still apparently unable to stomach the idea of casting their ballots for him.The former president was given another reminder of the scale of his problem on Tuesday with the Pennsylvania primary. Nikki Haley, who axed her own campaign over a month ago, managed to take 16.5 percent of the vote.Nikki Haley Nabs More Votes Than Ron DeSantis in FLORIDATrump, the only ca \"So far as I know, you don't pay someone $130,000 not to have sex with you,\" the Utah senator remarked about the ex-president's payments to Stormy Daniels. Cassidy Hutchinson also addressed the new indictment of her onetime boss, former Trump White House chief of staff Mark Meadows. The former president gave a truly bizarre \"White House\" gift to a visitor. Prosecutor Christopher Conroy captured the quintessential Donald Trump in a single sentence at the ex-President’s hush money trial on Tuesday. \"Sounds like a perfect authoritarian election plan to me,\" fascism expert Ruth Ben-Ghiat commented. \"I'm trying to understand what the disincentive is from turning the Oval Office into the seat of criminal activity in this country,\" Supreme Court Justice Ketanji Brown Jackson said. The former president's lawyer made a gloomy prediction. The complaint filed by the Campaign Legal Center alleges payments to Red Curve Solutions seem \"designed to obscure\" who is being paid for legal work. Donald Trump frequently shares its material. US Rep. Donald Payne Jr., a New Jersey Democrat, has died, Speaker Mike Johnson announced on Wednesday. \"West Dakota, South Virginia. Indiana, Out-diana, you name it, they're suing,\" the ABC host jokes The post Jimmy Kimmel Roasts Lara Trump for Saying Trump Team Has ‘Lawsuits in 81 States’ | Video appeared first on TheWrap. \"The level of self-awareness here is in the deep negatives,\" one commenter wrote. Journalists have uncovered little to support the sometime Trump Tower employee’s explosive claim – but now it’s at the centre of the former president’s hush money trial Russian President Vladimir Putin has reminded prosecutors that seizing assets and turning them over to state ownership is only justified in cases where failing to act might jeopardise Russia's national security. Many assets in Russia have changed hands in the last two years. Hundreds of foreign companies left Russia after Moscow sent its troops into Ukraine in February 2022, in some cases selling cheaply to local management. Kyle Rittenhouse, acquitted after fatally shooting two men at a 2020 protest, is telling college students they need to arm themselves on campus. OTTAWA — As the Liberals try to reverse their political fortunes with the latest federal budget, Prime Minister Justin Trudeau ratcheted up attacks against his Conservative opponent on Wednesday, tying him to a far-right American figure. Polls suggest the Liberal budget released last week has yet to resonate — but Trudeau suggested it's still more of a plan than what Poilievre has on offer, other than trying to exploit public anxieties. During a stop to promote the budget in Oakville, Ont., Trud Former President Donald Trump is a famed exaggerator about the size of his crowds. For years, he has lied about how many supporters attended his presidential inauguration and numerous campaign rallies. Reuters/Curtis MeansAttorneys for Donald Trump’s co-defendants appeared to switch direction in a motion Tuesday, seemingly arguing that FBI agents weren’t thorough enough in their search of the ex-president’s Mar-a-Lago estate when they retrieved top-secret documents from there in 2022.The abrupt about-face—after over a year of Trump and his allies decrying the search itself as “unconstitutional” and invasive—referred to the fact that federal investigators missed a “hidden room” near Trump’s bed",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mike stobeformer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ron desantis",
+          "sentiment": "none"
+        },
+        {
+          "name": "nikki haley",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "norwich university",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "reutersdonald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "gop",
+          "sentiment": "none"
+        },
+        {
+          "name": "bedminster golf club",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "utah",
+          "sentiment": "none"
+        },
+        {
+          "name": "pennsylvania",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:13:47.416+03:00",
+    "updated": "2024-04-26T00:13:47.416+03:00"
+  },
+  {
+    "uuid": "4985609592a5ef7cde0bdf33daaba059faf4f0fd",
+    "url": "https://jordantimes.com/news/features/music-festivals-seek-greener-footprint",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-07-04T14:01:00Z",
+    "title": "Music festivals seek greener footprint | Jordan Times",
+    "text": "PARIS — Three planes, 270 tonnes of equipment, 800 square metres of stage: The figures from Madonna’s massive free concert in Rio in May sounded like they came from another age.\nThese days, megastars are usually keener to claim a smaller footprint.\nColdplay, who just headlined Glastonbury Festival in Britain, recently announced they had cut carbon emissions on their world tour by 59 per cent compared with their last tour in 2016-17.\nThey have taken innovative steps including solar panels and even a special dance floor that generates electricity from the movement of the audience.\nCritics point out they are still flying around on planes, and there was particularly opprobrium in 2022 when they announced a partnership with Finnish oil giant Neste.\nThough Neste promised to help them use sustainable biofuels, the Transport and Environment campaign group said Coldplay were being used by the oil firm as “useful idiots for greenwashing”.\nThough the overall impact is hard to measure, one study by University of Oxford’s Environmental Change Institute in 2010 estimated that Britain’s industry alone generated 540,000 tonnes of carbon emissions annually.\nClimate group Clean Scene found that the top 1,000 DJs took 51,000 flights in 2019, equivalent to 35,000 tonnes of CO2 emissions.\nClimate commitments\nAs a result, all the big festivals now have climate pledges and initiatives, from composting and car-pooling schemes at Coachella in California to renewable energy usage at Glastonbury.\nOne festival that has taken a lead is We Love Green in Paris, as the name suggests.\nSome 110,000 festival-goers attended last month’s event to see artists including Sza, who travelled with “almost no equipment” according to Marianne Hocquard, the festival’s head of sustainable development.\nShe said that was down to the festival ensuring they have much of the equipment needed by its artists, and setting energy caps for performances.\nOthers have taken radical steps: The Bon Air festival in Marseille cancelled DJ I Hate Models this year after learning that he was coming by private jet.\nMany events now encourage their attendees to take greener modes of transport.\nWe Love Green launched a partnership with the French Cycling Federation to organise convoys of bikes for this year’s edition, and said 14 per cent of ticket-holders came on two wheels despite the dodgy weather, up from 8 per cent last year.\nBut there is a limit to how much can be done.\nWhen Taylor Swift played Paris in May, the city mayor’s office said there was a surge in arrivals of private jets at local airports.\nPrivate jet operators have been jumping on entertainment events such as festivals or the Euro 2024 football tournament to boost their business.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Arts, Culture and Entertainment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "madonna",
+          "sentiment": "negative"
+        },
+        {
+          "name": "coldplay",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jordan times",
+          "sentiment": "negative"
+        },
+        {
+          "name": "university of oxford’s environmental change institute",
+          "sentiment": "none"
+        },
+        {
+          "name": "neste",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "paris",
+          "sentiment": "none"
+        },
+        {
+          "name": "rio",
+          "sentiment": "none"
+        },
+        {
+          "name": "britain",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T02:12:51.012+03:00",
+    "updated": "2024-07-05T02:12:51.012+03:00"
+  },
+  {
+    "uuid": "06b22b9f101017f3237da5a6f78b1e0e3cfee0ef",
+    "url": "https://business.dailytimesleader.com/dailytimesleader/article/bizwire-2025-4-1-bidgelys-ev-intelligence-awarded-2025-top-product-of-the-year-from-environmentenergy-leader",
+    "ord_in_thread": 0,
+    "author": "Daily Times Leader",
+    "published": "2025-04-02T23:23:00Z",
+    "title": "Bidgely's EV Intelligence Awarded 2025 Top Product of the Year from Environment+Energy Leader | User | dailytimesleader.com",
+    "text": "Company’s unmatched AI-powered EV analytics recognized for pioneering the future of grid management\nBidgely’s artificial intelligence (AI)-powered EV Intelligence solution has been named a 2025 Top Product of the Year in the prestigious E+E Leader Product & Project Awards - an annual program honoring excellence in products and services that provide companies with significant energy and environmental benefits. E+E Leader recognized Bidgely’s EV Intelligence solution as an outstanding example of innovation in empowering utilities to alleviate electric vehicle (EV) charging-related grid congestion and paving the road to smarter load management.\nThis press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20250401599951/en/\nE+E Leader recognizes Bidgely’s EV Intelligence solution for empowering utilities to alleviate EV charging-related grid congestion and paving the road to smarter load management.\n\"Every year, our judges look to recognize the businesses that are truly moving the needle and striving for sustainability and operational efficiency,\" says Kay Harrison, VP and head of the E+E Leader Awards program. \"This year’s winners exemplify the kind of forward-thinking strategies and technologies that companies need to stay ahead in an increasingly complex energy and environmental landscape.\"\nActionable EV Data with 98% Accuracy\nBidgely's patented EV Intelligence solution addresses the challenge of identifying and managing EV charging impacts on the grid. While most competing methods struggle to distinguish EV charging data from other large household appliances, Bidgely's AI-driven disaggregation of smart meter data delivers unmatched 98 percent accuracy for Level 1 and Level 2 charger detection — arming utilities with information needed for critical initiatives like shifting peak load and managed charging.\nUtilities across the U.S. have deployed Bidgely’s EV Intelligence solution to, for example, target customers with high-value baseline charging behavior for enrollment in managed charging pilots, resulting in 3X increases in peak demand reduction per vehicle.\nGenAI Rapidly Simulates Future Grid Impacts of EVs\nE+E Leader also recognized Bidgely’s EV Intelligence solution for its GenAI integration, which enables utilities to perform staggered charging and long-term grid impact simulations rapidly and intuitively. This opens up new possibilities for utilities to optimize supply and demand, defer unnecessary infrastructure upgrades and prioritize critical assets.\n\"This award further validates our belief that intelligent EV solutions are critical for a sustainable future. It's a tribute to the collaborative spirit that's enabling utilities to turn the challenge of EV charging into an opportunity for grid resilience and efficiency,\" said Gautam Aggarwal, Chief Revenue Officer of Bidgely. \"We're excited to lead the charge toward a smarter, more resilient energy grid.\"\n\"The winners of this year’s E+E Leader Awards are tackling some of the most pressing sustainability and energy challenges with real-world, scalable solutions,\" says Sarah Roberts, Co-President of E+E Leader and C-Suite Compass LLC. \"These projects and products push industry standards forward and are setting new benchmarks for innovation and impact.\"\nTo learn how utilities are using Bidgely’s AI-powered EV solution to develop targeted EV load management programs, visit: bidgely.com/solutions/ev/ .\nAbout Environment+Energy Leader\nSince 2006, Environment+Energy Leader’s website and newsletters have provided the definitive and objective voice in reporting on business-related energy, environmental, and sustainability issues. Visit: www.environmentenergyleader.com .\nAbout the E+E Leader Product & Project Awards\nFor over a decade, the E+E Leader Product & Project Awards have recognized excellence in products, services, and corporate initiatives that drive energy and environmental improvements. Entries are evaluated using a rigorous five-point rating system by an independent panel of executive-level judges from leading organizations across various industries. To see this year’s winners and learn more about our judges, visit eeleaderawards.com .\nAbout Bidgely\nBidgely is an AI-powered SaaS Company accelerating a clean energy future by enabling energy companies and consumers to make data-driven energy-related decisions. Powered by our unique patented technology, Bidgely's UtilityAI™ Platform transforms multiple dimensions of customer data - such as energy consumption, demographics, and interactions - into deeply accurate and actionable consumer energy insights. We leverage these insights to empower each customer with personalized recommendations, tailored to their individual personality and lifestyle, usage attributes, behavioral patterns, purchase propensity, and beyond. From a distributed energy resources (DER) and grid edge perspective, Bidgely is advancing smart meter innovation with data-driven solutions for solar PVs, electric vehicle (EV) detection, EV behavioral load shifting and managed charging, energy theft, short-term load forecasting, grid analytics, and time of use (TOU) rate designs. Bidgely’s UtilityAI™ energy analytics provides deep visibility into generation and consumption for better peak load shaping and grid planning, and delivers targeted recommendations for new value-added products and services. With roots in Silicon Valley, Bidgely has over 16 energy patents, $75M+ in funding, retains 30+ data scientists, and brings a passion for AI to utilities serving residential and commercial customers around the world. For more information, please visit www.bidgely.com or the Bidgely blog at bidgely.com/blog .\nView source version on businesswire.com: https://www.businesswire.com/news/home/20250401599951/en/\nThe winners of this year’s E+E Leader Awards are tackling some of the most pressing sustainability and energy challenges with real-world, scalable solutions.\nContacts Christine Bennett\nBidgely\npress@bidgely.com\nStock Quote API & Stock News API supplied by www.cloudquote.io\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Environment->energy resources",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business service",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20250401599951r2&sid=fincn&distro=ftp",
+      "https://www.businesswire.com/news/home/20250401599951/en/",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20250211500762%2Fen%2FSEPA-and-Bidgely-Release-Report-on-the-Power-of-AI-for-Transportation-Electrification%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dsepa-pr&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=across+the+U.S.&index=5&md5=db618331423aaad8a59ebcd955ee2f40",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Feeleaderawards.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be-award&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=eeleaderawards.com&index=8&md5=66c2d5841352fa8a2b12acf0e1c7a984",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fblog%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dblog&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=bidgely.com%2Fblog&index=10&md5=56fd4bcd3745020534cc74030479bd5c",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Feeleaderawards.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be-award&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=2025+Top+Product+of+the+Year&index=3&md5=c25465ce4b0e2b53f235ae5fb137486c",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dbidgely-home&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=Bidgely%26%238217%3Bs&index=1&md5=9161dcea2201c65ab61fb6c3eec47053",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fsolutions%2Fev%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dev&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=bidgely.com%2Fsolutions%2Fev%2F&index=6&md5=7abf236e6503d5bede0f1de266d1a1a0",
+      "https://images.financialcontent.com/investcenter/fcon_dark.svg",
+      "https://markets.financialcontent.com/stocks",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.environmentenergyleader.com%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=www.environmentenergyleader.com&index=7&md5=7ffbf553c2148edf42b828ad46c5a6cb",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Ftechnology%2Fpatents%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dtechnology&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=patented&index=4&md5=92c5807985199de98db4b4a609098083",
+      "https://www.cloudquote.io",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fsolutions%2Fev%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dev&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=EV+Intelligence+solution&index=2&md5=90462d97527768cee8eed443f119d898",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dbidgely-home&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=www.bidgely.com&index=9&md5=dee825fe1fe7c1356aa7b67f62a53a3a",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "https://cloudquote.io/article/5",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://businesswire.com/news/home/20250401599951/en/",
+      "https://www.markets.financialcontent.com/stocks",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fsolutions%2Fev%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dev&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=EV+Intelligence+solution&index=2&md5=90462d97527768cee8eed443f119d898",
+      "https://www.businesswire.com/news/home/20250401599951/en",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fblog%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dblog&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=bidgely.com%2Fblog&index=10&md5=56fd4bcd3745020534cc74030479bd5c",
+      "https://www.images.financialcontent.com/investcenter/fcon_dark.svg",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Feeleaderawards.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be-award&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=2025+Top+Product+of+the+Year&index=3&md5=c25465ce4b0e2b53f235ae5fb137486c",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.environmentenergyleader.com%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=www.environmentenergyleader.com&index=7&md5=7ffbf553c2148edf42b828ad46c5a6cb",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Feeleaderawards.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3De%2Be-award&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=eeleaderawards.com&index=8&md5=66c2d5841352fa8a2b12acf0e1c7a984",
+      "https://cloudquote.io",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dbidgely-home&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=www.bidgely.com&index=9&md5=dee825fe1fe7c1356aa7b67f62a53a3a",
+      "https://www.cts.businesswire.com/ct/CT?id=bwnews&sty=20250401599951r2&sid=fincn&distro=ftp",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dbidgely-home&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=Bidgely%26%238217%3Bs&index=1&md5=9161dcea2201c65ab61fb6c3eec47053",
+      "https://cloudquote.io/article/6",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20250211500762%2Fen%2FSEPA-and-Bidgely-Release-Report-on-the-Power-of-AI-for-Transportation-Electrification%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dsepa-pr&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=across+the+U.S.&index=5&md5=db618331423aaad8a59ebcd955ee2f40",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Fsolutions%2Fev%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dev&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=bidgely.com%2Fsolutions%2Fev%2F&index=6&md5=7abf236e6503d5bede0f1de266d1a1a0",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.bidgely.com%2Ftechnology%2Fpatents%2F%3Futm_campaign%3D2025-04-01-E%2BE-PR%26utm_medium%3Dpr%26utm_source%3Dbusinesswire%26utm_content%3Dtechnology&esheet=54231574&newsitemid=20250401599951&lan=en-US&anchor=patented&index=4&md5=92c5807985199de98db4b4a609098083",
+      "https://cts.businesswire.com/ct/CT"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bidgely",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Sarah Roberts",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Christine Bennett",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Kay Harrison",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Gautam Aggarwal",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "U.S.",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Silicon Valley",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "C-Suite Compass LLC",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Stock Quote API & Stock News API",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "EV",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "EV Intelligence",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "E+E Leader Product & Project Awards",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "VP",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "EV Data",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Utilities",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Bidgely’s",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Environment+Energy",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "AI",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "SaaS Company",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:35:41.758+03:00",
+    "updated": "2025-04-03T02:35:41.758+03:00"
+  },
+  {
+    "uuid": "6b4a38e5b390806232dcb2102dff96bf0e1f11c3",
+    "url": "https://ground.news/article/its-humbling-and-its-gratifying-former-sask-agriculture-minister-appointed-to-order-of-canada",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ground News",
+    "published": "2023-12-28T21:38:00Z",
+    "title": "Ground News - 'It's humbling and it's gratifying': former Sask. agriculture minister appointed to Order of Canada",
+    "text": "Summary by Ground News Lorne Hepworth was named a member of the Order of Canada Thursday. Hepworth began his career as a farmer and veterinarian in southern Saskatchewan. He was elected to multiple terms under the Progressive Conservative government of Premier Grant Devine. He served as minister of finance, agriculture, education and other portfolios. Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nCBC News Lean Left High Factuality Government: Government of Canada 'It's humbling and it's gratifying': former Sask. agriculture minister appointed to Order of Canada A former Saskatchewan agriculture minister has been appointed to the Order of Canada.\n32 minutes ago · Canada Read Full Article\nCBC News Lean Left High Factuality Government: Government of Canada\n'It's humbling and it's gratifying': former Sask. agriculture minister appointed to Order of Canada A former Saskatchewan agriculture minister has been appointed to the Order of Canada.\n32 minutes ago · Canada Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.cbc.ca/news/canada/saskatoon/it-s-humbling-and-it-s-gratifying-former-sask-agriculture-minister-appointed-to-order-of-canada-1.7070572?utm_source=ground.news&utm_medium=referral",
+      "https://www.cbc.ca/news/canada/saskatoon/it-s-humbling-and-it-s-gratifying-former-sask-agriculture-minister-appointed-to-order-of-canada-1.7070572",
+      "https://cbc.ca/news/canada/saskatoon/it-s-humbling-and-it-s-gratifying-former-sask-agriculture-minister-appointed-to-order-of-canada-1.7070572?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hepworth",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lorne hepworth",
+          "sentiment": "negative"
+        },
+        {
+          "name": "grant devine",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "cbc news lean left",
+          "sentiment": "none"
+        },
+        {
+          "name": "· canada read full",
+          "sentiment": "none"
+        },
+        {
+          "name": "· canada read full article cbc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "saskatchewan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:01.282+02:00",
+    "updated": "2023-12-29T00:10:01.282+02:00"
+  },
+  {
+    "uuid": "9f7df824d3a3dd4c7762784cd06e02d8ac3384ab",
+    "url": "https://www.bastillepost.com/hongkong/article/14743789-%E6%9C%AC%E6%B8%AF%E5%A4%9A%E8%99%95%E6%B2%99%E7%81%98%E7%8F%BE%E5%A4%A7%E9%87%8F%E3%80%8C%E7%B6%A0%E8%89%B2%E9%BA%B5%E6%A2%9D%E3%80%8D-%E6%BC%81%E8%AD%B7%E7%BD%B2%E8%AD%A6%E5%91%8A%E3%80%8C%E6%9C%89",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "巴士的報",
+    "published": "2025-03-06T03:30:00Z",
+    "title": "本港多處沙灘現大量「綠色麵條」 漁護署警告「有毒」：切勿觸碰",
+    "text": "近日，香港多個沙灘出現一堆堆「綠色麵條」，其晶瑩剔透的外觀引起網民熱議。然而，這些看似特別的「麵條」背後卻暗藏危機！漁農自然護理署提醒市民，切勿觸碰，以免引致不適。\n沙灘上驚現「綠色麵條」\n早前，有網民在Facebook群組「香港自然生態論壇」上傳了一張攝於欣澳沙灘的「綠色麵條」照片，並留言詢問：「沙灘上見到不少，似麵條，又似粗橡筋繩，是否海洋生物的一種？被沖上砂礫灘邊呢？」。\n網民紛紛猜測\n照片一出，引發網民熱烈討論。有網民發揮創意，留言表示「我以為有人嘔」、「似珍多冰！」、「海龍皇開party，煮緊菠菜麵」，甚至有人開玩笑說「加點醬油，吸一口試試看」。\n真身為「海蛞蝓的卵鞘」\n不過，也有網民認真回應，指出這些「綠色麵條」其實是海蛞蝓的卵鞘，即卵塊。有人留言解釋：「係海兔（sea hare）呀，每年呢個時間香港好多沙灘都會有，佢哋會集體上岸交配產卵，唔係垃圾，唔好錯手執走呀！」另有網民補充，這些卵鞘可能是絲足蠕蟲或海蛞蝓的產物。\n漁護署不建議觸碰：有毒\n漁農自然護理署確實，這些「綠色麵條」真的是海蛞蝓卵鞘，在春季海蛞蝓繁殖期間尤為常見。署方提醒市民，若在野外見到這些卵鞘，不建議觸碰，因為一些海蛞蝓會從食物中攝取有毒物質，並將毒素傳遞到卵鞘中，作為防禦捕食者的手段，觸碰可能會引致不適。\n卵子黏附岩石成「綠色麵條」\n根據漁護署網站介紹，海蛞蝓是一種雌雄同體的海洋生物，包括裸鰓海蛞蝓、海兔、側鰓海蛞蝓等種類。在演化過程中，海蛞蝓的硬殼逐漸退化，甚至完全消失。牠們同時擁有雌性和雄性生殖器官，能夠製造精子和卵子。交配時，一對海蛞蝓會互相貼近，交換精子，並將卵子黏附在堅硬的岩石表面，形成如卷曲絲帶狀的卵子束。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Environment"
+    ],
+    "topics": [
+      "Environment->water",
+      "Environment->hazardous materials",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:48:56.595+02:00",
+    "updated": "2025-03-06T05:48:56.595+02:00"
+  }
+]

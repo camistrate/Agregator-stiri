@@ -1,0 +1,541 @@
+[
+  {
+    "uuid": "5c6575f8cdb532409d1e23749a1f66560450c2e8",
+    "url": "https://www.yahoo.com/news/school-software-provider-latest-target-022011051.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paige Gross",
+    "published": "2025-01-10T02:20:00Z",
+    "title": "School software provider is the latest target of major hack of personal data",
+    "text": "School software provider is the latest target of major hack of personal data Paige Gross Fri, January 10, 2025 at 2:20 AM UTC 4 min read\nEducation software company PowerSchool is the latest major American company to be targeted by hackers, who accessed the personal data of millions of parents and students. (Photo illustration by seksan Mongkhonkhamsao/Getty Images)\nThe sensitive data of millions of American adults and children have been compromised after hackers targeted California-based education software company PowerSchool, the company confirmed this week.\nThe breach happened at the end of December, and new information confirmed by TechCrunch Thursday morning says that hackers were able to access student addresses, Social Security numbers, grades and medical information on the platform, which schools use for student records, grades, attendance and enrollment.\nAdvertisement Advertisement Advertisement The names, phone numbers and emails of parents and guardians were also potentially compromised, the company said. Hackers were able to use a stolen credential, or login, to access the internal customer support portal, the company said. PowerSchool currently has 16,000 customers, and is used by more than 50 million students across North America, the company confirmed.\nThe incident is the latest large-scale data breach in the U.S., as year after year, the number of cybercrimes continues to rise. The FBI’s Internet Crime Complaint Center recorded 880,418 complaints in 2023 , a 10% increase from the complaints registered the year prior, and nearly double the number of crimes reported in 2019. The agency estimates potential monetary losses due to cybercrime since 2019 to be $37.4 billion.\nPowerSchool’s breach is an example of how cyber criminals profit — the company said it was extorted into paying a sum to prevent hackers from leaking the stolen data, though it did not say how much.\nThe hackers’ method of using legitimate credentials to access the internal software is much more common than you might think, said Rob Scott, Dallas-based managing partner of technology law firm Scott & Scott LLP. When people think about hacking, they likely picture automated attacks that pass through logins and passwords, he said.\nAdvertisement Advertisement Advertisement Many breaches come from accounts purchased on the so-called Dark Web, a vast expanse of the internet that is inaccessible to most conventional browsers, Scott said.\n“Or employee negligence situations … poor password management, or IT policies around managing and keeping passwords safe and confidential,” he said.\nThis incident was not an example of a ransomware attack, where hackers use software or malware to encrypt data on a computer, and prevent users from accessing their device. There were 2,835 ransomware crimes in 2023, and healthcare, manufacturing and government facilities were most targeted.\nBut the motivation for the majority of cyber crimes is financial, Scott said.\nAdvertisement Advertisement Advertisement More in Technology Smartphone innovation: Who is it actually for? Android Police PS Portal gets a stealthy upgrade, now I'm finally going to have to buy one T3 I'm a TV expert and this is the TV technology I'm most excited about at CES 2025 What Hi-Fi? Nvidia seems to have just confirmed upcoming Arm and Blackwell laptop chips based on its new GB10 processor in collaboration with MediaTek PC Gamer “People used to pickpocket, right? People used to rob banks,” Scott said. “Cybersecurity is the modern equivalent of those types of activities.”\nAs these data breaches become more common, you’re likely right in assuming that your data has been compromised in some way by now, said Chandler, Arizona-based Kiran Chinnagangannagari, cofounder and chief product and technology officer at cybersecurity firm Securin.\nThe advancements of generative AI systems have made the internet a data hungry place, Chinnagangannagari said, because these systems need tons of information to learn and get better.\nWhile about 20 states have consumer data privacy laws, and all 50 states have data breach notification laws, Chinnagangannagari and Scott said they don’t find legislation is a big help in fighting this growing problem. Many of the laws put responsibility on the company to inform consumers, Scott said, but it places extra burden on a company that was just the victim of a crime.\nAdvertisement Advertisement Advertisement Chinnagangannagari said laws that encourage proactive safeguarding against unnecessary data collection are more helpful. HIPAA, for example, sets strict rules on how healthcare providers can collect, store and share health data. The California Consumer Privacy Act, as amended by the California Privacy Rights Act, includes purpose limitation and data minimization rules.\nWhile there’s little an individual can do in the wake of these large-scale attacks on a corporation or organization, users can take some actions toward proper “cyber hygiene,” Chinnagangannagari said.\nBe protective of where you are putting your information, and learn what you can about terms and conditions of large platforms or apps you sign up for. You should set up a system of not reusing passwords, and utilize multi-factor authentication when you can. There are also services that will seek out your data and warn you when it’s been part of a widespread breach, the cybersecurity pro said.\nAnd while it can feel helpless, Chinnagangannagari admits, taking these actions and keeping your eye on your accounts for strange online or financial transactions will prepare you well for our “new reality.”\n“It’s not something we were taught growing up,” he said. “It’s a very different world. And so we just need to still adapt and live within this ecosystem.”\nAdvertisement About Our Ads Solve the daily Crossword 28,763 people played the daily Crossword recently. Can you solve it faster than others? 28,763 people played the daily Crossword recently. Can you solve it faster than others? Crossword Play on Yahoo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Social Issue->discrimination",
+      "Social Issue->social networking",
+      "Social Issue->social problem",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://s.yimg.com/uu/api/res/1.2/QwAv1g3EcWP_mKX_FEpeAQ--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/pc_gamer_708/c77dd4ef92f9d8e8eef90ccc85a99458",
+      "https://s.yimg.com/os/creatr-uploaded-images/2024-04/faeb5a10-fc08-11ee-adaf-1fffc893c3c7",
+      "https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/",
+      "https://www.ic3.gov/annualreport/reports/2023_ic3report.pdf",
+      "https://s.yimg.com/ny/api/res/1.2/1vo_c5duCcox7NcD7hmQpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://media.zenfs.com/en/kentucky_lantern_articles_259/420b08e062153bfa157328ae91cd55c5",
+      "https://s.yimg.com/uu/api/res/1.2/Nnpz0kT5gA7gl2IBOxHsRg--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/android_police_756/4f11d10d6ce4256a13a1b58944e7ff9d",
+      "https://s.yimg.com/uu/api/res/1.2/P28OuKJNivmd66hcSTqoQA--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/t3_620/867caf9ee3937221fab396ba1f324a26",
+      "https://s.yimg.com/uu/api/res/1.2/NM5ndX22XJ8glWTuquU0Vg--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/what_hi_fi_263/6f23f8eb1ae545189695a57f533e4b9f",
+      "https://s.yimg.com/ny/api/res/1.2/LS9kEwuyfmQD2_QVPPiY1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI1NjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-04/faeb5a10-fc08-11ee-adaf-1fffc893c3c7",
+      "https://s.yimg.com/ny/api/res/1.2/UDDVpNCR0.0ccfs8BWLZ.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI1NjtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2024-04/07e6de60-fc09-11ee-b71a-f85488fb89d2",
+      "https://s.yimg.com/cv/apiv2/games/images/Crossword_GIF_04_300_95.webp",
+      "https://kentuckylantern.com/",
+      "https://www.s.yimg.com/uu/api/res/1.2/Nnpz0kT5gA7gl2IBOxHsRg--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/en/android_police_756/4f11d10d6ce4256a13a1b58944e7ff9d",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2024-04/faeb5a10-fc08-11ee-adaf-1fffc893c3c7",
+      "https://www.s.yimg.com/ny/api/res/1.2/1vo_c5duCcox7NcD7hmQpg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04Mjg-/https://www.media.zenfs.com/en/kentucky_lantern_articles_259/420b08e062153bfa157328ae91cd55c5",
+      "https://ic3.gov/annualreport/reports/2023_ic3report.pdf",
+      "https://techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach",
+      "https://www.techcrunch.com/2025/01/09/powerschool-says-hackers-stole-students-sensitive-data-including-social-security-numbers-in-data-breach/",
+      "https://www.s.yimg.com/uu/api/res/1.2/P28OuKJNivmd66hcSTqoQA--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/en/t3_620/867caf9ee3937221fab396ba1f324a26",
+      "https://www.s.yimg.com/ny/api/res/1.2/LS9kEwuyfmQD2_QVPPiY1Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI1NjtoPTYw/https://www.s.yimg.com/os/creatr-uploaded-images/2024-04/faeb5a10-fc08-11ee-adaf-1fffc893c3c7",
+      "https://www.s.yimg.com/uu/api/res/1.2/NM5ndX22XJ8glWTuquU0Vg--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/en/what_hi_fi_263/6f23f8eb1ae545189695a57f533e4b9f",
+      "https://www.s.yimg.com/ny/api/res/1.2/UDDVpNCR0.0ccfs8BWLZ.w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI1NjtoPTYw/https://www.s.yimg.com/os/creatr-uploaded-images/2024-04/07e6de60-fc09-11ee-b71a-f85488fb89d2",
+      "https://www.s.yimg.com/cv/apiv2/games/images/Crossword_GIF_04_300_95.webp",
+      "https://www.s.yimg.com/uu/api/res/1.2/QwAv1g3EcWP_mKX_FEpeAQ--~B/Zmk9c3RyaW07aD0yMDA7cT05NTt3PTIwMDthcHBpZD15dGFjaHlvbg--/https://www.media.zenfs.com/en/pc_gamer_708/c77dd4ef92f9d8e8eef90ccc85a99458",
+      "https://www.kentuckylantern.com/",
+      "https://kentuckylantern.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Social Security",
+          "sentiment": "none"
+        },
+        {
+          "name": "PowerSchool",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:21:52.779+02:00",
+    "updated": "2025-01-10T05:21:52.779+02:00"
+  },
+  {
+    "uuid": "b99681f32e3beef9820fe96a63aefaa028b514a4",
+    "url": "https://www.themediterraneandish.com/savory-yogurt-bowl",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Suzy Karadsheh",
+    "published": "2024-11-07T13:00:00Z",
+    "title": "Savory Yogurt Bowls are the Secret to Easy and Healthy Breakfasts",
+    "text": "Skip the mid-morning sugar crash and make this savory yogurt bowl loaded with vegetarian protein! Make the night before for a healthy breakfast you’ll love waking up to.\nPhoto Credits: Miriam Novoa When I first started the Mediterranean Dish about 10 years ago, the concept of the Mediterranean diet had not quite taken off yet. Nowadays people have a better understanding of what it means to eat the Mediterranean way : Incorporating seasonal produce, healthy fats, whole grains, and lean protein with delicious, joyful meals. But what I still get asked about more than anything is this: What should I eat for a healthy Mediterranean breakfast?\nThe short–and maybe not so catchy–answer is there is no one way to enjoy a Mediterranean breakfast, and I have so many healthy breakfast recipes to choose from. But generally speaking, we tend to go for savory and fresh instead of sweet. We fill our tables with color like we do every meal. We even enjoy salad and Hummus at breakfast!\nSo while this savory yogurt bowl is not a traditional recipe by any means, it certainly has a Mediterranean spirit. I load it with healthy protein, including omega-rich hard-boiled eggs and mineral-packed chickpeas. Then I layer on the flavor and texture with some of my favorite Middle Eastern herb blends, fresh veggies, and a drizzle of extra virgin olive oil.\nIt’s everything I want in a breakfast: perfectly simple and healthy, comes together quickly, keeps me satisfied until lunchtime, and I can prep the night before. You’re going to love it!\nTable of Contents What You Need to Make Savory Greek Yogurt Bowls Ingredient Spotlight Swaps and Substitutions How to Make Savory Greek Yogurt Bowls Ways to Mix it Up What to Serve with a Savory Yogurt Bowl More Mediterranean Breakfast Recipes Savory Yogurt Bowls Recipe What You Need to Make Savory Greek Yogurt Bowls Think of this as more of a template than a full recipe, substituting what you have on hand to keep it interesting. I used:\nGreek yogurt: Any plain yogurt will work, but I like the added protein boost and richness of Greek yogurt. Chickpeas : This small but mighty legume is high in protein, vitamins, and minerals—see the full breakdown at the USDA ). Eggs: Add not only protein but also omega-3 fatty acids and loads of vitamins—the USDA can give you a more in-depth look at eggs as well. Vegetables: I used 2 Roma tomatoes and 2 Persian cucumbers, but any fresh tender veggies that are tasty raw will work here, or you can swap in leftover roasted veggies. Extra virgin olive oil: Adds a touch of richness and flavor. I love a robust finishing oil for this recipe, like our peppery Spanish Hojiblanca . Salt enhances the savory flavor. You can also use flaky sea salt for added texture if you have it. Seasoning: I love a sprinkle of Za’atar and/or Dukkah—see Ingredient Spotlight below for more. Ingredient Spotlight Za’atar and Dukkah may seem like a forgettable finishing touch, but they’re what makes this easy breakfast bowl crave-worthy. It’s the authentic Middle Eastern touch that I’d humbly argue sets this recipe ahead of the thousands of other breakfast bowls on the internet. It’s that final sprinkle of flavor that makes you look forward to your first meal!\nDukkah, with its blend of 3 nutrient-rich nuts and warming spices, is savory and crunchy. Za’atar, with its mix of fragrant wild thyme and tart sumac, leans more aromatic and bright.\nLEARN MORE: See our guides to Egyptian Dukkah (recipe included) and Za’atar . TRY IT: Find my favorite Za’atar at our spice shop . Swaps and Substitutions If your Mediterranean pantry is in need of a refresh, head over to our shop to restock. In the meantime, there are plenty of ways to make this recipe with what you have on hand.\nYogurt: Use hummus for a dairy-free version. You can also play with varieties like sweet and savory Beet Hummus and extra creamy Avocado Hummus . Tomatoes and cucumbers: Anything that will bring you freshness and crunch. Sliced bell peppers, sweet mini peppers, radishes, and fennel all come to mind. Za’atar and/or dukkah: Use any savory seasoning blend you like, such as Italian Seasoning . Fresh tender green herbs like parsley, dill, mint, and cilantro would also work. Ideally, you would get some texture in there too with a sprinkling of nuts and/or seeds. Eggs: This recipe is delicious and protein-rich without the eggs. You can just leave them out. How to Make Savory Greek Yogurt Bowls It only takes 10 minutes or so to make this savory yogurt bowl recipe. The best part? You can make it the night before so busy mornings don’t mean going hungry. Here are the steps:\nGet prepped. If you’re serving with Dukkah and want to make it from scratch , get that all set and cooling. Drain and rinse a can of chickpeas (or follow this recipe and use 1/2 cup of cooked chickpeas.) Hard boil 2 eggs—I have a guide for that too . Chop your fresh veggies (I used 2 Roma tomatoes and 2 Persian cucumbers). Build the breakfast bowl. Add 1/2 cup Greek yogurt to the bottom of two serving bowls. Grate one egg onto each bowl using the largest side of a box grater (or chop them and add). Top with the chickpeas and fresh veggies. Finish and serve. Add a drizzle of good extra virgin olive oil, pinch of salt, and a good sprinkle of za’atar or dukkah. Serve or cover and refrigerate for up to one night. Ways to Mix it Up This Savory Yogurt Bowl recipe is more of a template situation than an actual recipe. If you keep playing with it you’ll never get bored. Some ideas:\nUse a different base: Just about any savory spread works well in place of the yogurt. Hummus or a flavored hummus of your choice, like Beet Hummus , is a great option. Smoky Muhammara or Baba Ganoush would also work well. And if you love Greek yogurt, take it a step further with its extra-strained cousin Labneh . Add more crunch: Top with Crispy Quinoa , or swap out the chickpeas for Roasted Chickpeas . Add Mediterranean goodies : Like olives, sun-dried tomatoes , or roasted red peppers. These Greek olives are my favorite. Give it even more of a savory kick: Grate garlic into the yogurt, and/or mix with fresh herbs. Top with sliced red or green onions. Add heat: Top with harissa, Aleppo pepper or Urfa biber (all of which you can find at our shop ). Or add a fresh kick with Zhoug (Spicy Cilantro Sauce) . What to Serve with a Savory Yogurt Bowl This is a complete meal that should keep you full until lunchtime. You don’t need anything more, aside from perhaps a cup of coffee or Black Tea . If you’re used to sweet breakfasts, add a piece of fresh fruit, or make a fruit salad. I love a citrus salad in the winter and a fresh berry salad during the warmer months.\nMore Mediterranean Breakfast Recipes Breakfast\nSpanakopita Egg Muffins (Easy Egg Bite Recipe!) Mediterranean Diet Recipes\n15-Minute Mediterranean Breakfast Bowls Breakfast\nEgg Toast with Vegetables (Healthy Breakfast Recipe) Mediterranean Diet Recipes\nEasy Breakfast Stuffed Peppers Browse all Mediterranean recipes .\nVisit Our Shop .\nNo ratings yet Savory Yogurt Bowls\nPrint Recipe\nPin Recipe\nRate this Recipe Suzy Karadsheh This savory breakfast bowl is everything I want for busy weekdays: healthy, easy, keeps me satisfied until lunchtime, and I can prep the night before. Make on repeat all year round! Swap with seasonal vegetables and what you have on hand, and trade out the yogurt for hummus if you're looking for a dairy-free option.\nPrep – 10 minutes mins Total – 10 minutes mins Cuisine:\nMediterranean\nServes – 2 Course:\nBreakfast Ingredients 1x 2x 3x ▢ 1 cup Greek yogurt ▢ 1/2 cup cooked chickpeas (cooked from scratch or drained and rinsed canned chickpeas), patted dry ▢ 2 hard boiled eggs, grated ▢ 2 Persian cucumbers, chopped ▢ 2 Roma tomatoes, chopped ▢ Extra virgin olive oil ▢ Kosher salt ▢ Za’atar and/or Dukkah, for serving Instructions Build the breakfast bowl. Divide the yogurt into the bottom of two serving bowls. Top with the chickpeas, egg, and veggies. Finish and serve. Add a drizzle of good extra virgin olive oil, pinch of salt, and a good sprinkle of za’atar or dukkah. Serve or cover and refrigerate for up to 1 night. Notes Shop this recipe: Visit our shop to browse quality Mediterranean ingredients including the olive oil, za’atar , and chickpeas used in this recipe. To meal prep for up to 5 days: Boil the eggs and keep them unpeeled in your fridge in a tightly sealed container. Rinse and strain the chickpeas and store in your fridge. Then chop the veggies and build the bowls just before serving. Follow my Egyptian Dukkah recipe to make it yourself, or find it at specialty grocery stores and Middle Eastern Markets. Other veggie options: Sliced sweet peppers, fennel, radish. Nutrition Calories: 255.1 kcal Carbohydrates: 24.9 g Protein: 22.7 g Fat: 7.4 g Saturated Fat: 1.9 g Polyunsaturated Fat: 1.5 g Monounsaturated Fat: 2.5 g Trans Fat: 0.01 g Cholesterol: 191.5 mg Sodium: 106.4 mg Potassium: 605.4 mg Fiber: 5.5 g Sugar: 9.2 g Vitamin A: 855.2 IU Vitamin C: 10.8 mg Calcium: 180.1 mg Iron: 2.7 mg\nTried this recipe? Mention @Themediterraneandish Or Tag #Themediterraneandish ! Try Our Favorite Za’atar!\nJazz up your savory yogurt bowls with this aromatic, tart, and savory spice blend.\nbuy now",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Health",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://themeddish.com/4g7rQ8R",
+      "https://themeddish.com/4dwFlMS",
+      "https://themeddish.com/3ZMrrTC",
+      "https://themeddish.com/3XOyHLZ",
+      "https://www.instagram.com/Themediterraneandish",
+      "https://themeddish.com/4fcMTWt",
+      "https://themeddish.com/3ZLVj2g",
+      "https://fdc.nal.usda.gov/fdc-app.html#/food-details/2644282/nutrients",
+      "https://themeddish.com/3Y3ShoO",
+      "https://themeddish.com/3B80VJT",
+      "https://fdc.nal.usda.gov/fdc-app.html#/food-details/173424/nutrients",
+      "https://www.instagram.com/explore/tags/Themediterraneandish",
+      "https://www.fdc.nal.usda.gov/fdc-app.html#/food-details/173424/nutrients",
+      "https://www.themeddish.com/3ZLVj2g",
+      "https://www.themeddish.com/3ZMrrTC",
+      "https://www.themeddish.com/3Y3ShoO",
+      "https://instagram.com/Themediterraneandish",
+      "https://www.themeddish.com/4fcMTWt",
+      "https://instagram.com/explore/tags/Themediterraneandish",
+      "https://www.themeddish.com/4dwFlMS",
+      "https://www.themeddish.com/4g7rQ8R",
+      "https://www.themeddish.com/3XOyHLZ",
+      "https://www.fdc.nal.usda.gov/fdc-app.html#/food-details/2644282/nutrients",
+      "https://www.themeddish.com/3B80VJT"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Miriam Novoa",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Mediterranean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:47:17.795+02:00",
+    "updated": "2024-11-08T00:47:17.795+02:00"
+  },
+  {
+    "uuid": "f907dfd6f9c291a7e2805c901b4fc61acf04ce1d",
+    "url": "https://www.prensa-latina.cu/2024/03/10/papa-francisco-pide-mas-apoyo-mundial-para-cese-de-violencia-en-haiti",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Oscar Redondo",
+    "published": "2024-03-10T13:59:00Z",
+    "title": "Papa Francisco pide más apoyo mundial para cese de violencia en Haití",
+    "text": "En sus palabras tras el dominical rezo del Ángelus, en horas del mediodía, el sumo pontífice aseveró desde la ventana de su estudio en el Palacio Apostólico Vaticano, ante los fieles y peregrinos reunidos en la Plaza de San Pedro, que “estoy cerca de la Iglesia y del querido pueblo haitiano, que desde hace años sufre mucho”.\nEn una nota divulgada por la oficina de prensa de la Santa Sede se señala además que el obispo de Roma apuntó además que sigue “con preocupación y dolor la grave crisis que afecta a Haití y los episodios violentos ocurridos en los últimos días”.\nFrancisco demandó que “todos ofrezcan su contribución para aumentar la paz y la reconciliación en el país”, con el apoyo renovado de la comunidad internacional, para que “cesen todas las formas de violencia”.\nUn comentario sobre este tema, publicado este domingo en el sitio digital del diario Vatican News, refiere que, ante la última ola de violencia de pandillas en ese país caribeño, un panel de las Naciones Unidas advirtió que la capital, Puerto Príncipe es una “ciudad bajo asedio”. La crisis se agravó luego de que grupos criminales armados atacaron el Palacio Presidencial y el Cuartel General de la Policía, tras lo cual controlan gran parte de esa ciudad y las carreteras, con el propósito de derrocar al primer ministro Ariel Henry.\nEse medio destaca que decenas de personas fueron asesinadas en ese país y más de 15 mil se vieron obligadas a huir de sus hogares desde que el pasado 29 de febrero comenzaron los ataques coordinados de pandillas. Este domingo el Pontífice también recordó también que “hace dos días celebramos el Día Internacional de la Mujer” y expresó que “quisiera dirigir un pensamiento y expresar mi cercanía a todas las mujeres, especialmente a aquellas cuya dignidad no es respetada”, pues “aún queda mucho trabajo por hacer”.\n“Son las instituciones sociales y políticas las que tienen el deber fundamental de proteger y promover la dignidad de todo ser humano, ofreciendo a las mujeres, portadoras de la vida, las condiciones necesarias para poder acoger ese don y asegurar a sus hijos un hogar digno”, agregó el papa Francisco.\noda/ort",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-10T16:07:29.268+02:00",
+    "updated": "2024-03-10T16:07:29.268+02:00"
+  },
+  {
+    "uuid": "e2d7ac0e5fb010e53d7209af6536cc667957f82e",
+    "url": "https://www.meneame.net/story/sacerdote-antonio-casado-obispo-cadiz-obligo-donar-fundaciones/c015",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jonesy",
+    "published": "2023-12-24T07:37:00Z",
+    "title": "#15 El sacerdote Antonio Casado: \"El obispo de Cádiz me obligó a donar fundaciones de caridad para controlar el dinero\"",
+    "text": "Portada\nmis comunidades\notras secciones\nDesde los templarios, los Borgia, el banco Ambrosiano, etc., son tantos los casos que indican que su reino sí es de este mundo, que levanta el ánimo ver que todavía quedan personas dentro de esta institución que creen en algunos pilares éticos. Abogo por más información directa, concreta, constante, para que poco a poco los sinvergüenzas queden cada vez más arrinconados en una sociedad cada vez más autocrítica.\n[#2](c2#c-2) Hasta que te informas y resulta que te obligan a hacer chorrocientos trámites y papeleos, además de visitas a parroquias buscando tu registro. Este coñazo echa a mucha gente para atrás.\nYa que en Hacienda se integran tan bien con la iglesia para la X del IRPF, a ver cuándo ponen otra casilla al lado de \"QUIERO APOSTATAR\".\n[#4](c4#c-4) [#2](c2#c-2) https://www.google.com/amp/s/cadenaser.com/nacional/2023/04/06/apostatar-en-espana-sin-datos-oficiales-y-con-un-proceso-relativamente-sencillo-cadena-ser/%3foutputType=amp gracias a los 2, al menos me habéis hecho replantearme la necesidad de intentarlo.\n[#2](c2#c-2) Me parece estupendo, pero no creo que tenga consecuencias reales.\nLo que hay que hacer es no darles ni un céntimo, ni a nivel particular, ni desde el gobierno, aunque esto es bastante difícil hoy por hoy.\nY hacer proselitismo del ateísmo como si fuera otra religión, que mucha gente simplemente pasa.\nDe toda maneras, tienen tal capital inmobiliario, que es imposible dejarles en la ruina. Como suelo decir, se van a convertir en una multinacional inmobiliaria.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.google.com/amp/s/cadenaser.com/nacional/2023/04/06/apostatar-en-espana-sin-datos-oficiales-y-con-un-proceso-relativamente-sencillo-cadena-ser/%3foutputType=amp",
+      "https://google.com/amp/s/cadenaser.com/nacional/2023/04/06/apostatar-en-espana-sin-datos-oficiales-y-con-un-proceso-relativamente-sencillo-cadena-ser/%3foutputType=amp"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T10:47:42.809+02:00",
+    "updated": "2023-12-24T10:47:42.809+02:00"
+  },
+  {
+    "uuid": "3a7cfc39aa7094c9ad0bf59bd6a899de81754943",
+    "url": "https://www.ukrinform.net/rubric-ato/3860403-ukrainian-troops-defending-zaporizhzhia-region-receive-donated-equipment.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrinform",
+    "published": "2024-05-05T19:20:00Z",
+    "title": "Ukrainian troops defending Zaporizhzhia region receive donated equipment",
+    "text": "Ukrainian troops defending Zaporizhzhia region receive donated equipment Ivan [Fedorov](https://t.me/ivan_fedorov_zp/7045), chief of the Zaporizhzhia Regional Military Administration, reported this via Telegram, Ukrinform saw. \"Today we’re in the Orihiv direction... Aid has been handed over. On Easter, as on all other days, the most important thing we can do is to help. This time it’s help to four brigades,\" Fedorov noted. According to the official, more than 450 various drones (FPV, Mavic 3, and Mavic 3 Thermal night vision quadcopters), ️ nine e-warfare devices, ️ 10 Starlink systems, as well as ️ an ambulance were handed over to the military. [Undermining support for Ukraine main purpose of Russian sabotage across EU - Finland’s security agency](/rubric-polytics/3860399-undermining-support-for-ukraine-main-purpose-of-russian-sabotage-across-eu-finlands-security-agency.html) \"We thank our defenders who fight and protect our Homeland every day!\" remarked the administration head. As reported earlier, UAH 162 million worth of equipment and machinery were purchased for Ukrainian defenders fighting in Zaporizhzhia region. This is an illustrative photo",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/ivan_fedorov_zp/7045",
+      "https://www.t.me/ivan_fedorov_zp/7045"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ivan fedorov",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fedorov",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "eu",
+          "sentiment": "none"
+        },
+        {
+          "name": "telegram",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukrinform",
+          "sentiment": "none"
+        },
+        {
+          "name": "mavic",
+          "sentiment": "none"
+        },
+        {
+          "name": "zaporizhzhia regional military administration",
+          "sentiment": "none"
+        },
+        {
+          "name": "starlink",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "zaporizhzhia",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "finland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-05T22:57:39.059+03:00",
+    "updated": "2024-05-06T02:22:26.526+03:00"
+  },
+  {
+    "uuid": "738b23d98b9a9d2d108217aa64fc86e73b758db4",
+    "url": "https://www.personneltoday.com/hr/boeing-strike-sees-33000-workers-down-tools",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adam McCulloch",
+    "published": "2024-09-13T10:17:00Z",
+    "title": "Boeing strike sees 33,000 workers down tools",
+    "text": "Workers at US aircraft manufacturer Boeing have gone on strike after rejecting a deal between union representatives and the company over a pay rise.\nAbout 33,000 machinists have today downed their tools at two plants in the state of Washington – Renton and Everett – as the local branch of the International Association of Machinists and Aerospace Workers announced a near-unanimous decision by workers to strike.\nThe contract agreed in 2008 and renewed in 2014 expired on Thursday night (12 September).\nAlmost 95% of voting workers rejected the proposed contract and 96% approved the work stoppage, easily surpassing a two-thirds requirement.\nThose on strike assemble the 737 Max, Boeing’s best-selling airliner, along with the 777 and the 767 cargo plane. The walkout likely will not stop production of Boeing 787 Dreamliners, which are built by non-union workers in South Carolina.\nUSA news\nHR must not let bigots win as the DEI backlash continues Bank accused of ‘faking’ interviews for diversity hires\nThe workers have rejected a contract that the embattled aviation giant characterised as win for employees given the company’s parlous financial position stemming chiefly from safety issues with the 737 Max, which contributed to two fatal crashes and a series of incidents that have caused injuries to those on board.\nBy striking, the employees have rejected a deal that would have increased wages by 25% over four years.\nJon Holden, president of the International Association of Machinists and Aerospace Workers District 751, said: “Our members spoke loud and clear tonight.”\nBoeing said in a statement: “The message was clear that the tentative agreement we reached with IAM leadership was not acceptable to the members.\n“We remain committed to resetting our relationship with our employees and the union, and we are ready to get back to the table to reach a new agreement.”\nEarlier this week, union representatives advised members to support the proposed deal.\nIn addition to a 25% pay rise, the preliminary agreement rejected by workers included a commitment from Boeing to build its next commercial plane in the Seattle area if the project started during the lifetime of the contract.\nThe union initially targeted a number of improvements to workers’ packages, including a 40% pay rise.\nThe aerospace giant’s new chief executive Kelly Ortberg had told workers before the strike that any industrial action would put the company’s “recovery in jeopardy”.\nSign up to our weekly round-up of HR news and guidance\nReceive the Personnel Today Direct e-newsletter every Wednesday\nLatest HR job opportunities on Personnel Today\nBrowse more human resources jobs",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T15:32:02.310+03:00",
+    "updated": "2024-09-13T15:32:02.310+03:00"
+  },
+  {
+    "uuid": "7869926e6b2b8077a89685c68db951dfa1fe35ba",
+    "url": "https://www.theargus.co.uk/news/national/24018754.relatives-murdered-british-backpacker-grace-millane-honoured-obes/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2023-12-29T23:29:00Z",
+    "title": "Relatives of murdered British backpacker Grace Millane ‘honoured’ by OBEs | The Argus",
+    "text": "Two relatives of murdered British backpacker Grace Millane have said they are honoured that their work to help abuse victims as a positive legacy in her name has been recognised in the New Year Honours list.\nThe newly graduated university student was strangled to death in a hotel in Auckland, New Zealand, the day before her 22nd birthday on December 1 2018, by Jesse Shane Kempson who she met on Tinder.\nKempson was found guilty by a unanimous verdict in November the following year.\nGrace’s mother Gillian Millane and cousin Hannah O’Callaghan have been honoured (PA) Grace’s mother Gillian Millane and cousin Hannah O’Callaghan, both from Essex, co-founded an organisation in her name called Love Grace, which aims to “empower victims of domestic abuse”.\nThey described their OBEs for services to charitable fundraising and tackling violence against women as an “incredible honour” and dedicated it to Grace, saying she “would have been very proud and keen to get involved with what we are doing”.\nMs O’Callaghan said: “I don’t think she would believe how big Love Grace has become and how many women we can help by offering a bit of normality to.\n“She would have also probably been amused that we have been to Downing Street and are now to meet a member of the Royal Family.”\nLove Grace collects handbags and fills them with toiletries for domestic abuse victims, as well as raising money for White Ribbon charities in the UK and New Zealand, which educate men and boys about attitudes that can contribute to violence against women and girls.\nGrace Millane was murdered (Lucie Blackman Trust/PA) Ms O’Callaghan said: “We wanted to create a legacy in Grace’s memory and directly help women who have been affected by domestic abuse, to turn our negative into a positive.\n“If we help just one woman, then we have achieved that.\n“We have been overwhelmed by the support people have shown our ‘Love Grace Handbag Appeal’, from donating handbags and toiletries, to running appeals in their own area.\n“This has allowed more women to receive a little bit of normality and remind them to believe in themselves as they matter.\n“So thank you to everyone who has donated, and all of our friends & family who have helped us with Love Grace.\n“We would like to accept this award on their behalf and in Grace’s name. We will continue to raise awareness of the issues many face, and make sure that no other family has to go through this.”\nThe handbag appeal started as a practical way for the relatives to try to deal with their grief as “it was very cathartic and allows us to talk about Grace”, Ms O’Callaghan said.\nShe added: “We had no idea how our initiative would take off. It helped that Grace loved a handbag.\n“Detective Inspector Scott Beard (who was part of the murder investigation team) said that each bag was a smile on the face of someone who needs it, so how lovely to think that 16,000 people have smiled because of Grace.\n“We are so proud of the legacy we have created in her memory.”\nThe next step is to try to get charity status for Love Grace, which started with a 50 bag target and is now at 16,000 bags worldwide.\nMs O’Callaghan said: “This will allow us to reach more areas and help offer practical empowerment to more women who need it.\n“Logistics is a key area for development, we rely on volunteers to set up and run appeals and then give back to refuge charities in their local areas. Hopefully we will be able to get our bags further afield.”\nSince Grace was murdered both women have also been fundraising for the White Ribbon charity to help raise awareness of male violence towards women.\nThe body of Ms Millane, who had been on her gap year, was found buried in a suitcase in Waitakere Ranges, a forested area outside the city of Auckland.\nIn February 2020, Kempson was jailed for life with a minimum term of 17 years, with the judge rejecting his argument that the pair had rough sex that went too far.\nHe was later found guilty of raping another British tourist, who he also met on Tinder, eight months before he killed Ms Millane.\nThe rape victim reportedly went to the police after recognising Kempson from media coverage of the death of Ms Millane.\nThe sex offender was also convicted in a separate trial, with a different victim, of threatening to kill, two charges of assault with a weapon, three assaults and two counts of sexual violation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg",
+      "https://content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=1280",
+      "https://content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=320",
+      "https://content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=640",
+      "https://content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg",
+      "https://www.content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=1280",
+      "https://www.content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=320",
+      "https://www.content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg",
+      "https://www.content.assets.pressassociation.io/2023/12/29232053/028ced6e-c3d4-4482-98d0-6745a8b2b1cb.jpeg?w=640"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "grace millane",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jesse shane kempson",
+          "sentiment": "none"
+        },
+        {
+          "name": "hannah o’callaghan",
+          "sentiment": "none"
+        },
+        {
+          "name": "kempson",
+          "sentiment": "none"
+        },
+        {
+          "name": "o’callaghan",
+          "sentiment": "none"
+        },
+        {
+          "name": "gillian millane",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "essex",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "auckland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T01:54:59.522+02:00",
+    "updated": "2023-12-30T01:54:59.522+02:00"
+  },
+  {
+    "uuid": "3041a14d938f7fcb259bc84ea956d9bdb8314d60",
+    "url": "https://dnyuz.com/2023/12/28/idf-says-it-failed-in-its-mission-following-probe-into-killing-of-3-hostages/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Daily Beast",
+    "published": "2023-12-28T18:35:00Z",
+    "title": "IDF Says It ‘Failed in Its Mission’ Following Probe Into Killing of 3 Hostages – DNyuz",
+    "text": "Following an investigation by the Israel Defense Forces into its killing of three hostages during a rescue mission in the Shejaiya area in Gaza on Dec. 15, the IDF Chief of the General Staff, Herzi Halevi, said on Thursday that it “failed in its mission to rescue” them and “the entire chain of command feels responsible.”\nThe report reads, “An IDF soldier fired toward three figures, identified as threats, and hit two of the hostages who were killed. The third figure fled.”\nThe fighters were then told to hold their fire. “After approximately 15 minutes, the battalion commander heard shouts in Hebrew of ‘help’ and ‘they are shooting at me,’ and gave additional orders to hold fire, calling out in Hebrew ‘come toward us’.”\nBut when the third man, who was injured at this point, walked out of the building he was hiding in, two IDF troops “who did not hear the order due to noise from a nearby tank,” shot and killed him.\nThe IDF’s review stated that the three hostages–Yotam Haim, 28, Alon Shamriz, 26, and Samer Talalka, 22–were unarmed and walking shirtless, with one of them waving a white flag, but they were “standing at a point with limited visibility relative to the position of the soldier that fired the shot.” Aerial footage of the Shejaiya area was attached to the press release with a “blind spot” region from the soldier’s window highlighted.\nHalevi said, “The shooting at the hostages should not have occurred–this shooting did not match up to the risk and the situation. However, it was carried out under complex circumstances, and in intense combat conditions under a prolonged threat.”\nThe press release cited that forces previously encountered cries of “help” and “hostages” in Hebrew that turned out to be “a terrorist deception attempt,” and the engineering unit accompanying the combat group identified the particular building the three men were hiding in as “suspected of being rigged with explosives.”\n“We, the commanders, must ensure that the operational instructions are clear,” Halevi added, stressing the need for “improving communication, transferring information from the command to the forces, and reporting on suspected signs of hostages’ presence from the field to the command.”\nAccording to The Jerusalem Post , the military wing announced on Thursday that it would not take any action against the soldiers who killed the three abductees, despite them violating rules of engagement by firing on people who presented no immediate danger.\nThe post IDF Says It ‘Failed in Its Mission’ Following Probe Into Killing of 3 Hostages appeared first on The Daily Beast .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "samer talalka",
+          "sentiment": "none"
+        },
+        {
+          "name": "herzi halevi",
+          "sentiment": "none"
+        },
+        {
+          "name": "yotam haim",
+          "sentiment": "none"
+        },
+        {
+          "name": "alon shamriz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "israel defense forces",
+          "sentiment": "negative"
+        },
+        {
+          "name": "idf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "shejaiya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:40:01.241+02:00",
+    "updated": "2023-12-29T00:40:01.241+02:00"
+  },
+  {
+    "uuid": "8bba06f7d1f9df3d2aed0d8d481c7e4232d90568",
+    "url": "https://www.frankenpost.de/inhalt.schnelle-rettung-tunneleinsturz-in-los-angeles-31-arbeiter-gerettet.9abb8b67-1e9d-4c23-8f7f-11f9aee69ba4.html",
+    "ord_in_thread": 0,
+    "author": "dpa",
+    "published": "2025-07-10T07:40:00Z",
+    "title": "Schnelle Rettung: Tunneleinsturz in Los Angeles: 31 Arbeiter gerettet - Panorama - Frankenpost",
+    "text": "Die Sorge ist zunächst groß, als erste Meldungen über einen Tunneleinsturz in Kalifornien bekannt wurden. Doch eine Katastrophe ist ausgeblieben.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Disaster and Accident->emergency response",
+      "Human Interest->human mishap",
+      "Social Issue->communities",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Kalifornien",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T12:19:42.893+03:00",
+    "updated": "2025-07-10T09:24:10.000+00:00"
+  }
+]

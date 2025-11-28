@@ -1,0 +1,227 @@
+[
+  {
+    "uuid": "3c7701bd5f75314871f2559fd8b7b9b42c9dbde9",
+    "url": "https://www.adslzone.net/noticias/internet/analisis-vpn-populares-android",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alberto G. Méndez",
+    "published": "2024-11-22T11:00:00Z",
+    "title": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos",
+    "text": "Un análisis de las 30 VPNs de pago más populares de Android revela que más de la mitad sufre fugas de datos\nLos expertos de Top10VPN han realizado un análisis sobre la seguridad de las 30 aplicaciones de VPN de pago más populares de Android. En general, el estudio demuestra que las VPN de pago son más confiables que las apps gratuitas, no obstante, el estudio ha revelado también algunas fugas de seguridad en determinados servicios de VPN, que mencionaremos a continuación.\nTras analizar las 30 VPNs de pago más populares para smartphone, que reúnen entre todas más de 732 millones de descargas en todo el mundo en la Play Store, ha quedado de manifiesto que el hecho de ser de pago no es siempre indicativo de que la app esté libre de fallos.\nAunque los riesgos de seguridad encontrados son menos graves que aquellos que detectaron en un previo estudio similar sobre VPNs gratuitas, sí que han detectado fugas de datos de carácter leve en 16 de las VPN estudiadas. En concreto, 15 VPN delataban su uso por parte de los usuarios debido a la falta de cifrado SNI, y 7 aplicaciones VPN filtraron solicitudes DNS en condiciones muy específicas.\nPor otro lado, 3 aplicaciones VPN compartieron datos de una forma que pone en riesgo la privacidad del usuario, ya sea a través del seguimiento de anuncios (2 VPN) o malas prácticas (1 VPN). También destaca el uso de servidores DNS de terceros, ya que 7 VPN comprometen potencialmente la privacidad del usuario al no operar sus propios servidores DNS, incluidas 2 VPN que utilizan servicios distintos de Google/Cloudflare.\nOtras debilidades detectadas en algunas de estas VPN de pago eran las relacionadas con inestabilidad del túnel, y un uso invasivo mediante permisos de hardware o software del dispositivo. Así, unas 6 aplicaciones VPN solicitaron permisos de alto riesgo que no se podían justificar en función de las características de su producto, como ubicación (4 VPN), cámara (2) y lectura del estado del teléfono (1), mientras que 4 aplicaciones VPN tienen acceso a elementos de hardware arriesgados, como cámaras, micrófonos y GPS.\nLas VPN con fallos detectados\nLas VPN que mostraron tener fugas de DNS (aunque solo consultas de DNS específicas) son:\n- hide.me VPN: The Privacy Guard\n- PrivateVPN\n- TunnelBear VPN\n- Astrill VPN\n- Avira Phantom VPN: Fast VPN\nPor otro lado, las apps de VPN con SNI (indicador del nombre del servidor) visible en lugar de oculto (y que por tanto revelan a otros el hecho de estar usando una VPN) son:\n- Surfshark: Secure VPN service\n- Private Internet Access VPN\n- PureVPN – Fast and Secure VPN\n- PrivadoVPN – VPN App & Proxy\n- HMA VPN Proxy & WiFi Security\n- Hotspot Shield VPN: Fast Proxy\n- PrivateVPN\n- Private & Secure VPN: TorGuard\n- Mozilla VPN – Secure & Private\n- TunnelBear VPN\n- KeepSolid VPN Unlimited\n- VyprVPN: Ultra-private VPN\n- X-VPN – Private Browser VPN\n- Avira Phantom VPN: Fast VPN\n- PandaVPN Pro – Fast Secure VPN\nLas VPN más seguras\nEntre las VPN que no han mostrado signos de debilidad en este estudio encontramos servicios como los de NordVPN, ExpressVPN o Windscribe VPN. En concreto, NordVPN demuestra ser una de las más seguras en tanto que usa resolución de DNS propia (en lugar de terceros), oculta el SNI y no presenta fugas de DNS. NordVPN tampoco comparte información delicada como correo electrónico o marcadores publicitarios, y tampoco solicita permisos invasivos sobre el teléfono, como permisos sobre la cámara o archivos.\nEn general, las VPN de pago incluyen en su código muchos menos rastreadores publicitarios que las VPN gratuitas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T13:55:34.401+02:00",
+    "updated": "2024-11-22T13:55:34.401+02:00"
+  },
+  {
+    "uuid": "f4365a131de10a1341fe356a69fc48a901d5aa84",
+    "url": "https://www.notimerica.com/deportes/noticia-amad-diallo-rescata-united-contra-colista-southampton-20250116230841.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Notimerica",
+    "published": "2025-01-16T21:08:00Z",
+    "title": "Amad Diallo rescata al United contra el colista Southampton",
+    "text": "MADRID 16 Ene. (EUROPA PRESS) - El Manchester United remontó (3-1) al Southampton este jueves en la jornada 21 de la Premier gracias a tres goles en poco más de diez minutos de Amad Diallo, un final feliz ante el colista gracias a su joven estrella para volver a ganar un mes después. Diallo volvió a ser el héroe de los 'red devils', líder a sus 22 años de un gigante que sigue lejos de sus años gloriosos, aunque tiene al menos la buena noticia del talento africano. Después de tres derrotas seguidas en casa, Old Trafford volvió a ver sufrir a los suyos, por debajo con justicia justo antes del descanso. El 0-1 fue en propia puerta de Manuel Ugarte, pero el Southampton lo había merecido antes. Con la reanudación volvió un United más incisivo, con actitud e intención para evitar un descalabro ante el peor equipo de la liga. Antony tuvo la más clara, pero tuvo que ser Diallo quien saliera al rescate, como en Anfield hace diez días o en el derbi en el Etihad Stadium hace un mes. El joven delantero firmó un 'hat-trick' en los últimos diez minutos de partido para mantener el pulso del United y de un Amorim con poco crédito pese a estar recién llegado. Los de Mánchester volvieron a la senda del triunfo, aún en tierra de nadie en la clasificación, y confirmaron que tienen un diamante en bruto. En el otro encuentro de la Premier este jueves, el Brighton superó (0-2) a un Ipswich en puestos de descenso para salir de una racha de ocho jornadas sin ganar. Los del sur de Inglaterra se llevaron los tres puntos, para mantener aún cerca la zona europea, con los goles de Kaoru Mitoma y Georginio Rutter. -Martes. Brentford - Manchester City 2-2. Chelsea - Bournemouth 2-2. West Ham - Fulham 3-2. Nottingham Forest - Liverpool 1-1. -Miércoles. Everton - Aston Villa 0-1. Leicester - Crystal Palace 0-2. Newcastle - Wolverhampton 3-0. Arsenal - Tottenham 2-1. -Jueves 16 de enero. Ipswich - Brighton 0-2. Manchester United - Southampton 3-1.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Sport->sport event",
+      "Sport->sport achievement",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Manuel Ugarte",
+          "sentiment": "none"
+        },
+        {
+          "name": "Old Trafford",
+          "sentiment": "none"
+        },
+        {
+          "name": "Amad Diallo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Antony",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Manchester United",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Anfield",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:53:20.601+02:00",
+    "updated": "2025-01-17T00:53:20.601+02:00"
+  },
+  {
+    "uuid": "87591c08f067ad54b953d22a261bc4dd74168e07",
+    "url": "https://www.corriere.it/esteri/25_luglio_03/indonesia-affonda-traghetto-per-il-maltempo-4-vittime-e-38-dispersi-f4d814c7-514d-4b3e-bac9-bf950ccf5xlk.shtml",
+    "ord_in_thread": 0,
+    "author": "Redazione Esteri",
+    "published": "2025-07-03T04:40:00Z",
+    "title": "Indonesia, affonda traghetto per il maltempo: 4 vittime e 32 dispersi | Corriere.it",
+    "text": "3 luglio 2025 ( modifica il 3 luglio 2025 | 06:49) © RIPRODUZIONE RISERVATA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Disaster and Accident->transportation accident and incident",
+      "Disaster and Accident->drowning",
+      "Social Issue->death and dying",
+      "Social Issue->social problem",
+      "Health->emergency care",
+      "Health->injury"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_ch",
+        "top_news_it",
+        "top_news"
+      ],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:55:01.974+03:00",
+    "updated": "2025-07-03T06:00:23.000+00:00"
+  },
+  {
+    "uuid": "3e3e0c74ab3346967ad3bb8b62e5cb0a55cb8cda",
+    "url": "https://www.proceso.com.mx/nacional/2025/5/7/rastro-de-mazatlan-contamino-area-natural-protegida-empresa-sera-sancionada-scjn-350724.html",
+    "ord_in_thread": 0,
+    "author": "Redacción Proceso",
+    "published": "2025-05-07T23:51:00Z",
+    "title": "Rastro de MazatlÃ¡n contaminÃ³ Ã¡rea natural protegida; empresa serÃ¡ sancionada: SCJN",
+    "text": "MazatlÃ¡n\nRastro de MazatlÃ¡n contaminÃ³ Ã¡rea natural protegida; empresa serÃ¡ sancionada: SCJN\nLa Primera Sala de la Corte indicÃ³ que los residuos del rastro debÃan ser considerados como peligrosos y biolÃ³gicos-infecciosos debido a la sangre de los animales sacrificados que pone en riesgo el ecosistema y la salud de las personas.CIUDAD DE MÃ‰XICO (apro).- La Suprema Corte de Justicia de la NaciÃ³n (SCJN) determinÃ³ que un rastro en MazatlÃ¡n contaminÃ³ con desechos peligrosos el Estero de UrÃas, Ã¡rea natural protegida ubicada en MazatlÃ¡n, Sinaloa, por lo que debe ser sancionado por las autoridades locales.\nDurante la sesiÃ³n del pasado 30 de abril, la Primera Sala de la Corte analizÃ³ el amparo tramitado por un habitante de MazatlÃ¡n que habÃa sido desestimado por un juzgado de Distrito en el estado de Sinaloa en el aÃ±o 2019 porque el hombre no acreditÃ³ que el rastro, que opera desde 1998, fue responsable de la contaminaciÃ³n seÃ±alada en su demanda.\nEl quejoso indicÃ³ que Ã©l vive cerca de las instalaciones del rastro y acusÃ³ que el mismo opera con anormalidades, sin embargo, la decisiÃ³n del juzgado de Distrito fue confirmada en apelaciÃ³n.\nLa Corte atrajo el caso para analizarlo en el que la ministra Margarita RÃos Farjat fue la encargada de realizar el proyecto de resoluciÃ³n que presentÃ³ ante la Primera Sala.\nLos ministros indicaron que el quejoso no debÃa estar obligado a comprobar que el rastro ocasionÃ³ la contaminaciÃ³n que acusÃ³ sino que eran los dueÃ±os de dicho luegar quienes debieron acreditar que cumplieron con las leyes ambientables aplicables para no incurrir en responsabilidad.\nâ€œCon base en las pruebas aportadas y la conducta mostrada por la empresa, la Sala resolviÃ³ que sÃ incurriÃ³ en responsabilidad ambiental, tanto objetiva como subjetiva, al causar un daÃ±o al ecosistema acuÃ¡tico del Estero de UrÃas por dos razones: 1) el manejo inadecuado de residuos peligrosos, y 2) la descarga ilegal de aguas residuales contaminadas al drenaje municipalâ€�, explicÃ³ la Corte.\nâ€œLa Sala apuntÃ³ que sangre y otros residuos que derivan del sacrificio de animales son biolÃ³gico-infecciosos y, por lo tanto, residuos peligrosos. Asimismo, detallÃ³ que estos y otros residuos contaminantes generados en el rastro ocasionan daÃ±os en los ecosistemas y en la salud de las personasâ€�.\nPor ello, los ministros concedieron el amparo al ciudadano y ordenaron a un Tribunal Colegiado de ApelaciÃ³n emitir una nueva sentencia en la que reconozca que el rastro incurriÃ³ en responsabilidad ambiental y ordene sancionar y aplicar medidas de reparaciÃ³n.\nPara ello, la SecretarÃa de Desarrollo Sustentable de Sinaloa y el Ayuntamiento de MazatlÃ¡n deben evaluar lo descrito por el ciudadano en su demanda sobre la contaminaciÃ³n que realiza el rastro y aplicar la sanciÃ³n correspondiente.\nEl Estero de UrÃas se encuentra al sur del puerto de MazatlÃ¡n y forma parte del ecosistema lagunar-estuarino de la costa del PacÃfico. Por definiciÃ³n tÃ©cnica, es un ambiente donde se mezclan el agua dulce de rÃos cercanos y el agua salada del ocÃ©ano.\nSegÃºn datos proporcionados por el Instituto de Ciencias del Mar y LimnologÃa de la Universidad Nacional AutÃ³noma de MÃ©xico en 2025, los niveles de microplÃ¡sticos en el Estero de UrÃas se encuentran entre los mÃ¡s altos en el Ã¡mbito global, en comparaciÃ³n con otros ecosistemas acuÃ¡ticos similares.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "SCJN",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T04:08:07.786+03:00",
+    "updated": "2025-05-08T01:13:46.000+00:00"
+  }
+]

@@ -1,0 +1,509 @@
+[
+  {
+    "uuid": "14d385682d1064b4eb2580099a89543a49ea7728",
+    "url": "https://oglobo.globo.com/clube-o-globo/entretenimento/oferta/aniversario-samba-que-elas-querem-no-circo-voador-assinante-o-globo-tem-50percent-de-desconto.ghtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clube O Globo",
+    "published": "2024-09-19T20:47:00Z",
+    "title": "Aniversário Samba que Elas Querem no Circo Voador: assinante O GLOBO tem 50% de desconto",
+    "text": "De charmosos restaurantes até bares aconchegantes: Confira os benefícios dos nossos parceiros de gastronomia. Pra começar, tem o Cine Circo celebrando justamente o papel da mulher no samba com a exibição do documentário “Damas do Samba”. Nos intervalos, o som rola solto com a DJ Laís Conti e sua explosão de estilos\nConfira as condições Gerais:\nDesconto de 50% na compra de até 2 ingressos para os eventos do Circo Voador, através da compra online, por meio da utilização do cupom promocional OGLOBONOCIRCO na Eventim . Poderá ser necessária a apresentação de carteirinha física que esteja dentro do prazo de validade ou pelo aplicativo ao ingressar no evento. Não cumulativa com outras promoções.\nOferta válida até 27/09/2024\nServiço\nANIVERSÁRIO SAMBA QUE ELAS QUEREM + FUNDO DE QUINTAL Data: 27/09/2024 Horário: 20h Local: Circo Voador Endereço: Rua dos Arcos, s/n- Centro, Rio de Janeiro Classificação: 18 anos. Maiores de 14 anos entram acompanhados de pais/responsáveis. deslize para ver o conteúdo Mais recente Próxima Show do Bita - Crescer e Aprender no Vivo Rio: Assinante tem 50% de desconto",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eventim.com.br/event/aniversario-samba-que-elas-querem-fundo-de-quintal-circo-voador-18893511/?affiliate=C1Q",
+      "https://www.eventim.com.br/event/aniversario-samba-que-elas-querem-fundo-de-quintal-circo-voador-18893511/",
+      "https://eventim.com.br/event/aniversario-samba-que-elas-querem-fundo-de-quintal-circo-voador-18893511/?affiliate=C1Q"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:23:29.589+03:00",
+    "updated": "2024-09-20T01:31:43.167+03:00"
+  },
+  {
+    "uuid": "70592214560f728a31c0e1b92f933563d0284a79",
+    "url": "https://record.umich.edu/articles/u-m-team-gets-10m-to-speed-up-nanoparticle-design",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Iseler",
+    "published": "2024-11-07T20:03:00Z",
+    "title": "U-M team gets $10M to speed up nanoparticle design",
+    "text": "Customized nanoparticles with complex shapes could help fight disease or transmit information, and the European Research Council is investing approximately $10.1 million in a research team co-led by the University of Michigan to speed up nanoparticle design for these applications. The team is also co-led by the Centre for Cooperative Research in Biomaterials-CIC biomaGUNE and the University of Vigo in Spain, as well as the University of Antwerp in Belgium. They aim to design a machine-learning model that can predict which nanoparticle structures will bind to specific biomolecules, such as proteins on the cell walls of pathogens. Selective binding to various proteins and lipids (components of cell membranes) is directly useful in detecting and treating diseases. For instance, nanoparticles designed to twist like their protein targets have already been used to detect molecular signs of Parkinson’s disease and lung cancer in laboratory studies. The direction of the nanoparticles’ twists, or their chirality, not only determines how strongly they bind with certain proteins, but it also impacts whether they absorb or twist specific colors and orientations of light. Researchers can detect the change to confirm the presence of the target protein. Light can also be used to selectively heat the protein, killing only the harmful cells attached to the nanoparticles. Designing chiral nanoparticles that can bind to specific biological targets remains a challenge, however. “We have to understand when the nanoparticles form strong complexes with specific proteins like a lock and key, but predicting those complexes is hard,” said Nicholas Kotov, the Irving Langmuir Distinguished University Professor of Chemical Sciences and Engineering in the College of Engineering and a co-principal investigator on the project. “Many biomolecules in the body could interact with simple, spherical nanoparticles, but these interactions are nonspecific. We need to make nanoparticles with more complex shapes across different scales that recognize and bind to biological targets with high specificity.” Kotov also is the Joseph B. and Florence V. Cejka Professor of Engineering, and professor of chemical engineering and of macromolecular science and engineering in the College of Engineering. Normally months or years of experiments would be required to test the interactions in every relevant environment. The researchers hope that their artificial intelligence tool will speed up nanoparticle engineering by reducing trial and error. “We hope to offer the scientific community a tool to produce nanoparticles on demand and obtain artificially manufactured materials with properties never seen before,” said Luis Liz-Marzán, a professor at CIC biomaGUNE and the University of Vigo and a co-principal investigator. Beyond medicine, combinations of nanoparticles and proteins could be used to build devices that can guide and change light signals, enabling faster data transfer between nearby users within sight — such as between cars in a smart, interconnected fleet. To build the AI-powered nanoparticle generator, the researchers will first make a training dataset using AlphaFold, an AI tool that predicts protein shapes. With the initial data, the researcher’s model will predict protein shapes that fit together like a key in a lock and how nanoparticles could be designed with similar shapes. The researchers will verify model predictions by creating those matching nanoparticles and testing how the nanoparticles interact with their target proteins in lab experiments. Differences between the experimental results and the model’s predictions will then be used to refine the model. The team also will need a training dataset of 3D images of their nanoparticles, which are conventionally made with time-consuming transmission electron tomography. It can sometimes take a full day to collect all of the images required for a 3D model of a single nanoparticle. Because of variations among the nanoparticles in any single batch, hundreds of 3D models need to be made. Sara Bals, a professor at the University of Antwerp’s EMAT electron microscopy center and a co-principal investigator, argues that nano researchers have been missing a trick: When the microscope’s electron beam passes through an object, electrons in the object’s surface escape, leaving behind holes. Other electrons will move to fill those holes, generating an electrical current shaped by the object’s topography. That current can be translated into a 3D image with a single snapshot. “These interactions have always been there, but nobody has thought to use them for creating 3D images of nanoparticles,” Bals said. “With this technique, we can investigate hundreds of nanoparticles in a single image.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "European Research Council",
+          "sentiment": "none"
+        },
+        {
+          "name": "University of Michigan",
+          "sentiment": "none"
+        },
+        {
+          "name": "University of Antwerp",
+          "sentiment": "none"
+        },
+        {
+          "name": "University of Vigo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:33:38.413+02:00",
+    "updated": "2024-11-08T19:06:41.654+02:00"
+  },
+  {
+    "uuid": "e711928b0b3a8a8b1697dfa372b3d55be84491e6",
+    "url": "http://business.ridgwayrecord.com/ridgwayrecord/article/bizwire-2025-4-16-dun-and-bradstreet-offers-complimentary-supply-chain-evaluation",
+    "ord_in_thread": 0,
+    "author": "The Ridgway Record",
+    "published": "2025-04-16T22:52:00Z",
+    "title": "Dun & Bradstreet Offers Complimentary Supply Chain Evaluation | User | ridgwayrecord.com",
+    "text": "Industry-Leading Supply Chain Visibility Helps Companies Be More Nimble in a Rapidly Changing Environment",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business service",
+      "Politics->government",
+      "Politics->regulation of industry",
+      "Politics->economic policy",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.businesswire.com/news/home/20250416797893/en/",
+      "https://cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.dnb.com%2Fen-us%2Fmarketing%2Fsupply-chain-evaluation.html&esheet=54239533&newsitemid=20250416797893&lan=en-US&anchor=go+here&index=1&md5=bcf9568681851950f8593af12f53c523",
+      "https://businesswire.com/news/home/20250416797893/en/",
+      "https://www.businesswire.com/news/home/20250416797893/en",
+      "https://cts.businesswire.com/ct/CT",
+      "https://www.cts.businesswire.com/ct/CT?id=smartlink&url=https%3A%2F%2Fwww.dnb.com%2Fen-us%2Fmarketing%2Fsupply-chain-evaluation.html&esheet=54239533&newsitemid=20250416797893&lan=en-US&anchor=go+here&index=1&md5=bcf9568681851950f8593af12f53c523"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Brian Filanowski",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Dun & Bradstreet Finance & Risk Solutions",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "e711928b0b3a8a8b1697dfa372b3d55be84491e6",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:55:21.106+03:00",
+    "updated": "2025-04-17T02:02:30.283+03:00"
+  },
+  {
+    "uuid": "2142bee57318b981a9a4c96137726fe55330d154",
+    "url": "https://bazaar.businesstoday.in/share-market/story/ixigo-share-price-jumps-more-than-1-4-percent-today-hits-fresh-52-week-high-after-strong-q1-fy26-results-1245898-2025-07-17",
+    "ord_in_thread": 0,
+    "author": "@BT_Bazaar",
+    "published": "2025-07-17T04:59:00Z",
+    "title": "सातवें आसमान पर Ixigo का शेयर! बनाया 52 Week High, 14% से ज्यादा उछला भाव; ये है बड़ी वजह",
+    "text": "सातवें आसमान पर Ixigo का शेयर! बनाया 52 Week High, 14% से ज्यादा उछला भाव; ये है बड़ी वजह\nशेयरों में 14% से ज्यादा की तेजी देखने को मिल रही है। स्टॉक आज 194.30 रुपये पर खुला था और अब तक अपने इंट्राडे हाई 206.40 रुपये पर पहुंच गया है जो इसका 52 Week High भी है।\nIxigo Share Price: कारोबारी हफ्ते के चौथे दिन शेयर बाजार में शुरुआती कारोबार में गिरावट के बीच टूर एंड ट्रैवल सेक्टर की कंपनी Le Travenues Technology Ltd (Ixigo) के शेयर ने अपना एक साल का उच्चतम स्तर यानी फ्रेश 52 Week High बनाया है।\nशेयरों में 14% से ज्यादा की तेजी देखने को मिल रही है। स्टॉक आज 194.30 रुपये पर खुला था और अब तक अपने इंट्राडे हाई 206.40 रुपये पर पहुंच गया है जो इसका 52 Week High भी है।\nइक्सिगो के शेयरों में आज यह तेजी मजबूत तिमाही नतीजों के बाद देखने को मिल रही है। दरअसल कंपनी ने बुधवार को बाजार बंद होने के बाद एक एक्सचेंज फाइलिंग में Q1FY26 के वित्तीय नतीजों की जानकारी दी थी।\nकंपनी ने बताया कि उसने जून में समाप्त तिमाही में परिचालन से 314.5 करोड़ रुपये का राजस्व प्राप्त किया है, जो पिछले साल की तुलना में 73% अधिक है, जबकि Q1 FY26 में इसका नेट प्रॉफिट 19 करोड़ रुपये रहा, जो पिछले साल की तुलना में 27% अधिक है।\nकंपनी ने बताया कि वित्त वर्ष 2026 की पहली तिमाही में उसका ग्रौस ट्रांजैक्शन वैल्यू (GTV) 4644.7 करोड़ रुपये रहा, जो साल-दर-साल 55% की वृद्धि दर्शाता है। कंपनी ने बताया कि उसकी फ्लाइट और बस GTV में साल-दर-साल 81% की वृद्धि हुई, जबकि ट्रेन GTV में साल-दर-साल 30% की वृद्धि हुई है।\nवित्तीय वर्ष 2026 की पहली तिमाही में इक्सिगो का EBITDA पिछले साल की इसी अवधि की तुलना में 69% बढ़कर 32.5 करोड़ रुपये हो गया। एडजस्टेड EBITDA (EBITDA + ESOP व्यय - अन्य आय घटाकर) वित्तीय वर्ष 2026 की पहली तिमाही में बढ़कर 31.4 करोड़ रुपये हो गया, जो वित्तीय वर्ष 2025 की पहली तिमाही के 20.3 करोड़ रुपये से 54% अधिक है।\nIxigo Share Price\nसुबह 10:20 बजे तक कंपनी का शेयर एनएसई पर 14.34% या 25.66 रुपये चढ़कर 204.62 रुपये पर कारोबार कर रहा है तो वहीं बीएसई पर स्टॉक 14.35% या 25.70 रुपये की तेजी के साथ 204.80 रुपये पर ट्रेड कर रहा है।\nबीएसई के डेटा के मुताबिक सुबह 10:01 बजे तक कंपनी के 31,48,827 इक्विटी शेयरों में ट्रेड हो चुका है।",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->economic policy",
+      "Politics->government",
+      "Politics->political development",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:08:50.935+03:00",
+    "updated": "2025-07-17T05:14:53.000+00:00"
+  },
+  {
+    "uuid": "8f7fcf4d3fce207600167b6fef04e3e9a541e052",
+    "url": "https://www.pushsquare.com/features/soapbox-dead-space-is-this-years-almost-forgotten-horror-delight",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Push Square",
+    "published": "2023-12-28T22:00:00Z",
+    "title": "Dead Space Is This Year's (Almost) Forgotten Horror Delight | Push Square",
+    "text": "If you watched [The Game Awards](https://www.pushsquare.com/guides/all-the-game-awards-2023-winners) at the start of December (and, lord knows, many of us did), you’d be forgiven for thinking that there was only one stellar horror remake this year: [Resident Evil 4](games/ps5/resident_evil_4). Don’t get me wrong — the Resi remake is a stunner, a fantastic thrill ride that pares away some of the campier moments from the original and hones it into a leaner and tighter affair. Still, as 2023 trickles away I’ve been left feeling mighty sorry for the team at Motive Studio, because [Dead Space](games/ps5/dead_space) has been overlooked by way too many awards shows and publications — thankfully the [Push Square Game of the Year](https://www.pushsquare.com/tags/game-of-the-year) list did the smart thing and included it. It’s not just overall honours that I think Dead Space merits — this was a crazy year for gaming releases, so it’s no disgrace for it to fall lower in some people’s estimations, but from a presentation point of view I’m surprised by its snubs. The game’s audio is superlative, for one thing. I play pretty much every PS5 game I touch with a headset, and I can’t think of many gaming atmospheres this year that chilled me more or were more consistently evocative than Dead Space’s hulking, echoing, and clanking USG Ishimura. Before its release Motive shared behind-the-scenes looks at how it was working on audio so that doors and corridors authentically bent sound so that you could just hear scratching and stumbling enemies early enough to ratchet up the tension. I can attest to their success — I was scared witless at multiple points. It’s not just sound, though; this is a stunner of a current-gen title in a year that has finally seen the PS4 drop out of the running on most releases. Its updated Ishimura is full of detail and horrific gore, but it’s the lighting that truly shines. From the lone blue-green sheen of Isaac Clarke’s helmet lights to the yawning and spinning yellow beams of emergency lights, every time you enter a new part of the ship you’ll be greeted by a new wave of dread over what awaits you. That might mean yawning hangars full of floating tools or tight crew quarters, each bunk threatening a Necromorph. It might have stuck a lot closer to the source material than Resident Evil 4, but Dead Space also made at least one major, bold choice, by giving a voice to Isaac Clarke and having him far more actively participate in the story. It paid off, too, with a more human anchor in the middle of the maelstrom of blood and bone that starts to overcome you as the game goes on, and actor Gunner Wright putting in some sterling performance work to make Isaac less of a blank space than in the original game. With shooting that feels at its heart the same as it did when the original came out (that is to say, chunky and memorable), it’s a hell of a package, so it’s been a little sad to see it run out of oxygen in such a packed year. Widespread awards recognition isn’t everything, though — Dead Space’s 2023 remake has effectively resuscitated a series that was on life support before. The team at Motive Studio has made it clear it'd like to work on a similar update to Dead Space 2, and everything about its effort this year suggests it should absolutely get that chance. There’s no shame in being just a hair’s breadth less beloved than a game as wildly successful and iconic as Resident Evil 4 — so if you’re looking for another horror fix to round out the year, don’t sleep on Dead Space, whatever you do. Are you too disappointed to see Dead Space be a little forgotten about when it comes to Game of the Year accolades? Let us know in the comments below.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "motive studio",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:35:23.665+02:00",
+    "updated": "2024-01-05T01:24:46.955+02:00"
+  },
+  {
+    "uuid": "e50ac01cfd0c3104b3806fcded56c50d7705ebed",
+    "url": "https://www.boursorama.com/bourse/actualites/molina-depasse-les-estimations-de-benefices-trimestriels-grace-a-des-primes-plus-elevees-0009a1f8f3f692033f1f9662edba609d",
+    "ord_in_thread": 0,
+    "author": "@boursorama",
+    "published": "2025-04-23T22:02:00Z",
+    "title": "Molina dépasse les estimations de bénéfices trimestriels grâce à des primes plus élevées - 24/04/2025 à 00:02 - Boursorama",
+    "text": "((Traduction automatisée par Reuters, veuillez consulter la clause de non-responsabilité https://bit.ly/rtrsauto))\nMolina Healthcare\nMOH.N\na battu les\nestimations de Wall Street pour le bénéfice du premier trimestre\nmercredi, grâce à une augmentation des primes de ses plans\nd'assurance Medicaid soutenus par le gouvernement pour les\npersonnes à faible revenu.\nLa société a réaffirmé ses prévisions pour l'ensemble de l'année 2025, avec des recettes de primes attendues à environ 42 milliards de dollars et un bénéfice ajusté d'au moins 24,50 dollars par action.\nLe revenu trimestriel des primes a augmenté d'environ 12 % pour atteindre 10,63 milliards de dollars, en partie grâce à de nouveaux contrats, dépassant les estimations de 10,39 milliards de dollars, selon les données compilées par LSEG.\nL'augmentation des dépenses liées aux réclamations des patients dans les plans Medicare soutenus par le gouvernement pour les adultes plus âgés et les changements dans l'inscription aux plans Medicaid ont pesé sur l'industrie depuis plus d'un an.\nLa semaine dernière, son grand rival UnitedHealth\nUNH.N\na\nrevu à la baisse ses prévisions de bénéfices pour l'ensemble de\nl'année et, pour la première fois depuis la crise financière de\n2008, a manqué ses estimations de bénéfices trimestriels,\nen partie à cause des dépenses élevées liées à ses plans\nMedicare Advantage pour les personnes âgées et les personnes\nhandicapées.\nMolina Healthcare se concentre principalement sur les plans Medicaid, une initiative combinée du gouvernement fédéral et de l'État qui fournit une assurance maladie aux personnes et aux familles à faible revenu.\nLe ratio trimestriel des coûts médicaux, c'est-à-dire le pourcentage des primes consacrées aux soins médicaux, dans les plans Medicaid était de 90,3 %, ce qui est conforme aux attentes de Molina.\nLes coûts médicaux ont augmenté modérément, comme prévu, en partie en raison de la demande de services de santé comportementale, ainsi que des maladies saisonnières, a déclaré la société.\nUnitedHealth et Elevance\nELV.N\nont déclaré que la demande de\nservices dans le cadre de leurs plans Medicaid était conforme à\nleurs attentes.\nLe ratio consolidé pour le premier trimestre 2025 était de 89,2%, reflétant une \"forte gestion des coûts médicaux\", a déclaré Molina.\nLes analystes s'attendaient à ce que ce ratio, qui permet de suivre les coûts médicaux, soit de 88,5 %. Les entreprises visent généralement un ratio plus proche de 80 %.\nL'assureur santé a déclaré un bénéfice ajusté de 6,08 dollars par action au premier trimestre, supérieur aux estimations de Wall Street de 5,96 dollars par action.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial and economic news",
+      "Health->health insurance",
+      "Health->government health care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:06:53.351+03:00",
+    "updated": "2025-04-24T06:52:32.483+03:00"
+  },
+  {
+    "uuid": "86af5a46f5a8f970e8bbf32c809ee5e2e08b3a52",
+    "url": "https://www.qualitymag.com/articles/98386-certification-exam-success-from-thinking-slow-quickly",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Zrymiak",
+    "published": "2024-11-07T10:00:00Z",
+    "title": "Certification Exam Success From Thinking Slow Quickly",
+    "text": "This article considers how quality professionals and practitioners can more effectively prepare for their certification exams which are proctored or supervised as they complete a selection of responses from multiple-choice questions.\nThe title is based on the reference to the famous book by the Nobel Prize recipient, Daniel Kahneman, “Thinking Fast and Slow.” This book describes the contrasts between two mental systems: the “fast” system being reactive and the “slow” system being more measured and contemplative.\nFrom the perspective of someone who has not only successfully completed multiple certifications, offered by ASQ, PMI, ISTQB, ITIL, and various ISO Lead Auditor protocols, I can attest that there is a specific skill set needed to recognize valid and invalid selection. As a participating author and editor of various study guides (most recently the ASQ Six Sigma Green Belt Study Guide from ASQ Press, available here), I can attest and will describe how these two approaches were applied to the construction of test questions.\nMy personal technique was to start with a question that provide the correct response. In the case of the Study Guide, our primary reference was the ASQ Six Sigma Green Belt Handbook, also from ASQ Press. The initial statement would be something affirmative which could then be converted into a portion of a multiple choice question.\nConsider the affirmative statement, “A rational subgroup is a sample in which all of the items are produced under common conditions, selected in order to minimize or exclude assignable causes of variation”.\nA candidate who was familiar with the definition of rational subgroups and control chart techniques would immediately recognize the correct response when it was presented. When the correct response is available, the conscientious and deliberate mental system would select the correct response. However, for those with less confidence in their knowledge, their choices would be susceptible to “trickery” from phrasing. These invalid distractor choices would appeal to the “fast” system, causing the candidate to select the incorrect response as part of a rapid reaction to available content.\nOne technique would be to confuse the candidate by referencing rational numbers, which refer to numbers that could be expressed as a quotient or fraction. The rapid response would connect the word rational to rational numbers and be diverted away from the proper context of rational subgroups.\nA more elegant method would be to have an identical statement with a slight but critical difference. The substitution of the term “assignable causes” with “common causes,” or “minimize” with “maximize” would show the antonym of the correct response. It would be invalid because of the mismatch, but the reactive, fast-thinking mind would respond to it on initial recognition of the first portion as a correct statement.\nAnother technique for invalid responses is a statement effectively dismissing the question. A selection indicating that rational subgroups are not applicable to attribute or variable data represents a way for the fast-thinking mind to eliminate the question with an easy alternative. By removing the legitimacy of the question, the candidate could satisfy themselves that none of the other alternatives were correct or even worth consideration.\nSome tests use the “all of the above” option to provide an equivalent selection so that candidates do not have to make the most valid of several selections. This is also an area where “trickery” could be applied to convince the “fast-thinking\" mind to choose the aggregated option because they all seem to be correct.\nOne shortcoming of the “slow-thinking” approach is that it can be time consuming. If an exam requires the candidate to respond to 100 questions within four hours, the average time allocated per question is too restrictive for the long and deliberate contemplations. The countermeasure is to accelerate the faculty of these “slow-thinking” capabilities.\nOne tactic is to gain a firm command of common terms and their definitions. Memorization might be an offensive term to some, but factual recall is highly valued in time-sensitive situations. When the factual recall is quick and correct, the deliberative process can be completed more quickly. This takes repetition and frequent exposure to the core facts and their practical applications. This is the reason that certain certification exams require a minimum level of direct work experience within the fields.\nFrom the perspective of certification exams, it is necessary to carefully review every question and multiple choice option, even reading the words out loud. Elimination of the invalid responses reduces the choices and improves the probabilities of a correct selection. Circling the impactful words like “minimize”, “maximize”, or absolute terms like “always” would help to determine whether an option is valid or a cleverly-worded distractor.\nA recommended practice is to check the responses before submitting. If there is doubt or hesitation, one suggestion is to trace the question backwards to determine why the response is correct. This is an especially effective technique for questions involving mathematical formulas, or critical values obtained from a table. Retracing the steps to obtain the response could distinguish whether you correctly discerned whether the question required a one-tailed or two-tailed statistical model, and if the critical value reflected that correct model.\nCertification exams are intended to be a tangible reflection of proficiency in a particular area. While my personal technique with creating these types of questions was to start first with the affirmative, correct statement, and build the invalid detractors alongside; other questions might be created differently. Ultimately, if knowledge resides solely in the “fast-thinking” part of the brain, it will be rapidly forgotten.\nIn contrast, full immersion in the topic through deliberative study and practical application will prepare candidates far more effectively, and the knowledge will be retained and sustained for a longer duration. When “slow-thinking” modes are repeated and frequently practiced, the rapidity will match those of “fast-thinking” attempts, and the rates of correct selection will be much higher with a better appreciation of breadth, context, and nuances.\nMy best advice for passing a certification exam is not to select those courses or publications that make lofty promises of guaranteed pass marks. The proven approach adopted by me and others who have made long-term professional commitments involves treating the exams as a necessary entry point toward life-long learning and continuous improvement and personal development in the field. You are not testing the exam, you are testing yourself against the exam, and preparing yourself for greater personal and professional challenges ahead.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://asq.org/quality-press/display-item?item=H1604",
+      "https://asq.org/quality-press/display-item",
+      "https://www.asq.org/quality-press/display-item?item=H1604"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Daniel Kahneman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ASQ Press",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:14:55.256+02:00",
+    "updated": "2024-11-08T00:14:55.256+02:00"
+  },
+  {
+    "uuid": "0caf772cebd3221cec5d06b63ad4c1a894812760",
+    "url": "https://www.gamesindustry.biz/first-ontario-game-dev-labour-union-formed-at-joydrop-majority-of-staff-who-voted-reportedly-fired",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@GIBiz",
+    "published": "2024-09-13T13:58:00Z",
+    "title": "First Ontario game dev labour union formed at Joydrop, majority of staff who voted reportedly fired | GamesIndustry.biz",
+    "text": "The first labour union of game developers in Ontario was formed by staff at Joydrop, only for the majority of employees that voted to reportedly be fired two working days after the victory. Joydrop is the gaming brand of London-based service agency Mikutech, founded in 2013 by Mark Mikulec. It specialises in work-for-hire services, including porting and co-development, and has worked with the likes of Gearbox, Skybound and Armor Games Studios. Former employee Stephan Reilly tells GamesIndustry.biz that 16 of 17 members voted in favour of unionsation at Joydrop. The voting period concluded on December 19, 2023. According to Reilly, Mikulec then proceeded to terminate 14 of those who voted. Reilly claims the devs were laid off during a Zoom call on January 8, 2024, which was the day developers were to resume work following the holidays. The team were reportedly notified the night before, with the meeting being described as a \"New Year meeting\" and that it would be held online as the company was \"updating and resetting [its] new security policies.\" Once the call began, Reilly said staff were informed their employment was being terminated with management citing \"poor sales\" as the reason. Reilly claims that following his termination, he was contacted by a developer who said Mikulec allegedly asked about \"being hired for [his] former position.\" Reilly adds it was \"unclear whether this was at Joydrop or a new company.\" GamesIndustry.biz has reached out to Mikutech for further clarification and comment. Mikutech is now facing three unfair labour practice charges in front of the Ontario Labour Board. The United Food and Commercial Workers of Canada is representing the workers. If the UFCW and the three remaining unionised employees reach a collective bargaining agreement with Joydrop, it would be the first successful collective bargaining agreement of a games developer in Canada. Prior to the termination, Joydrop won a Tech Alliance grant for $40,000 in November 2023, and was in the process of receiving Ontario Creates and Canada Media Fund grants which \"several\" of those terminated helped to compile last summer. Reilly says that Telefilm Canada program coordinator Aaron Nguyen told the devs via email that it was \"discussing internally\" about whether the unfair labour practice charges would affect Joydrop's ability to receive the CMF grants. \"Blowing up your whole team doesn't make any sense to me if your goal is to create games, and as the pseudo-head game designer at Joydrop on our internal IP it was in an ideal situation,\" says Reilly. \"We had millions of dollars in grant money about to come in, we had a publisher who was very interested, we had investor interest, we just won a Tech Alliance Grant for $40,000, our team was working really well together and getting into a groove. \"It was the perfect situation for someone who wants to make games. Which leads me to believe that's simply not what Mark wanted, he wanted something else.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.canlii.org/en/on/onlrb/doc/2024/2024canlii5441/2024canlii5441.html)",
+      "https://canlii.org/en/on/onlrb/doc/2024/2024canlii5441/2024canlii5441.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T18:26:37.448+03:00",
+    "updated": "2024-09-14T15:35:47.778+03:00"
+  },
+  {
+    "uuid": "cf81e4d3cd3de77ae3ad9f549266c12afd3426b0",
+    "url": "https://vnexplorer.net/gervonta-davis-hace-un-muhammad-ali-al-cambiar-su-nombre-y-convertirse-al-islam-s707650.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T13:50:00Z",
+    "title": "Gervonta Davis hace un Muhammad Ali al cambiar su nombre y convertirse al islam",
+    "text": "Gervonta Davis, durante un pesaje (AFP)\nEl púgil británico Gervonta Davis completó este miércoles su conversión al islam en una mezquita del Reino Unido, donde se hizo oficial que practicará la religión musulmana, acción que lo llevó a modificar su nombre original de nacimiento por uno árabe.\nGervonta se llamará ahora Abdul Wahid, una denominación especial en la cultura islámica, ya que el significado de este nombre es ‘el esclavo del único’, en referencia a Alá, máxima deidad en esta religión.\nLa noticia de esta conversión por parte de Davis fue revelada hace unos días por su colega de profesión sueco Badou Jack, quien también practica esta fe. La llegada de Gervonta al islam fue celebrada en redes sociales con numerosos mensajes de felicitaciones por parte de esta comunidad.\nGervonta Davis, ahora Abdul Wahid, es considerado desde hace muchos años como uno de los mejores libra por libra en todo el mundo gracias a su marca invicta de 29-0 como boxeador profesional, récord que le ha valido ostentar el cinturón de campeón de peso ligero por parte de la Asociación Mundial de Boxeo (AMB).\nEn estos momentos se desconoce quién será el próximo rival de Wahid en 2024, ya que no lleva a cabo ningún combate desde que venció por KO técnico a Ryan García en abril.\n¿Gervonta Davis imitó a Muhammad Ali? Con esta noticia es inevitable recordar lo hecho por Muhammad Ali, el que para la mayoría de expertos y aficionados al pugilismo es catalogado como el mejor boxeador de la historia y protagonista de las más grandes peleas de este deporte.\nEn febrero de 1964, Ali dejó su nombre original de Cassius Clay, descrito por el mismo como un ‘nombre de esclavo’, justo después de adoptar la religión musulmana. Para ese entonces el estadounidense ya había sido campeón olímpico en 1960, así como mundial luego de imponerse a Sonny Liston.\n​\n​",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maqrE.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1maqrE.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T15:54:05.624+02:00",
+    "updated": "2023-12-29T15:54:05.624+02:00"
+  },
+  {
+    "uuid": "70bbee5f298e81a408260d006158ed555dbf21a8",
+    "url": "https://www.jornada.com.mx/noticia/2024/12/05/politica/sep-llevara-la-escuela-es-nuestra-a-nivel-bachillerato-3470",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lilian Hernández Osorio",
+    "published": "2024-12-06T01:19:00Z",
+    "title": "La Jornada - SEP llevará \"La Escuela es Nuestra\" a nivel bachillerato",
+    "text": "Ciudad de México . Durante este sexenio se buscará que el bachillerato sea una prioridad nacional, pues no se puede poner en riesgo a la población de 15 a 17 años que se hará cargo de este país en el futuro cercano, manifestó la subsecretaria de Educación Media Superior, de la Secretaría de Educación Pública, Tania Rodríguez Mora, tras agregar que aplicarán “La Escuela es Nuestra” en este nivel académico.\nEsas personas requieren de la atención y cuidados del conjunto de instituciones que las acompañan en sus trayectorias escolares y vitales -familia, escuela, medios de comunicación, entre otros-. Una forma será la implementación del programa “La escuela es nuestra”, que apoyará con infraestructura que ayude a la integración social de sus comunidades escolares, indicó.\nAl participar en el Foro “Educación con Perspectiva de Cuidados”, organizado por el Instituto de Investigaciones sobre la Universidad y la Educación (IISUE), de la UNAM, la funcionaria abundó que se iniciará con esta estrategia -que hasta ahora solo se aplica en la educación básica- para que los planteles estén en buenas condiciones, “que los patios tengan techumbre y los jóvenes puedan estar allí sin que les llueva; jugar, hacer un coro, una clase de zumba, hacer lo que ellos quieran y propongan”.\nLos fondos del programa se utilizarán según las decisiones que se tomen en asambleas, en las que participarán los estudiantes. \"Esto puede construir la noción de que la escuela es nuestra y que me cuida y nos la apropiamos; además de que los jóvenes se articulen, trabajen en equipo para resolver un problema en común”, destacó.\nDijo que debe privilegiarse la cooperación y erradicar la competencia salvaje.\nEn tanto, la coordinadora del Seminario Cuidados para la Vida y el Bien Común de la UNAM, Estela Roselló Soberón, explicó que la educación pública y privada podría hacer la diferencia en la transición a las sociedades de cuidados a las que han urgido organismos internacionales.\nCuidar significa, en primer lugar, no dañar a nadie ni nada; mantener y prevenir, acompañar a sanar y a reparar aquello que ha sido herido, vulnerado o roto, expuso.\n“En ese sentido, en un mundo como el nuestro, tan necesitado de acciones solidarias y responsables para hacer frente a grandes desafíos y restaurar lo que se ha dañado, aprender a cuidar tendrá que ser sinónimo de aprender a habitar el mundo desde la compasión, desde la crítica constructiva y la conciencia plena de que mi vida tiene valor, sentido y significado, en tanto que busca lo bueno, no solo para mí, sino también para mi comunidad y los demás”, expresó.\nEsto es lo que la nueva educación pública y privada con perspectiva cuidadora tendría que enseñar en todos los niveles escolares y a lo largo de la vida de las personas, agregó.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tania Rodríguez Mora",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Secretaría de Educación Pública",
+          "sentiment": "none"
+        },
+        {
+          "name": "Instituto de Investigaciones",
+          "sentiment": "none"
+        },
+        {
+          "name": "Educación Media Superior",
+          "sentiment": "none"
+        },
+        {
+          "name": "IISUE",
+          "sentiment": "none"
+        },
+        {
+          "name": "UNAM",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T04:50:18.241+02:00",
+    "updated": "2024-12-06T04:50:18.241+02:00"
+  }
+]

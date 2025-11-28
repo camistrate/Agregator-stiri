@@ -1,0 +1,243 @@
+[
+  {
+    "uuid": "64d22551119433a36191c7337f80191a1be5ad60",
+    "url": "https://www.technadu.com/casino-spam-hidden-malicious-wordpress-code-manipulating-search-engine-algorithms/556164",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lore Apostol",
+    "published": "2024-11-15T07:34:00Z",
+    "title": "Casino Spam Hidden Malicious WordPress Code, Manipulating Search Engine Algorithms",
+    "text": "Attackers compromised WordPress websites via subtle SEO poisoning tactics. The website hosted spam pages with casino-related links, while the malware targeted only bots and crawlers. Hiding the malware in an \"include\" statement within the WordPress theme helped evade standard detection protocols. A WordPress website was found to be hosting a cleverly disguised spam doorway aimed at manipulating search engine algorithms without affecting actual visitors. This incident sheds light on an emerging trend where attackers use subtle yet sophisticated SEO poisoning tactics.\nThe latest report from Sucuri says the victim's site was manipulated to host spam pages with casino-related links, originating from Indonesia. The malware was concealed using a simple \"include\" statement within the WordPress theme, referencing a malicious file positioned above the webroot.\nThis strategic placement allowed the malware to evade standard detection protocols, presenting significant challenges in identifying and removing the threat.\nCasino Spam pages | Source: Sucuri Such doorways are a form of blackhat SEO, redirecting search engine traffic to spam sites to boost their ranking. Remarkably, this particular malware targeted only bots and crawlers, meaning it operated under the radar, unseen by human visitors.\nThis approach not only enhances the effectiveness of the spam but also complicates detection efforts, as human users are less likely to report unseen spam.\nSpam Website | Source: Sucuri By maintaining the victim's domain name, the affected website inadvertently appeared to host a legitimate casino site, with hardcoded links directing traffic to spam domains. The tactic helps maintain the malware's presence while avoiding the scrutiny of human users.\nUpon investigation, it was confirmed that core WordPress files remained unaltered. The culprit was identified within the functions.php file of the theme, recently modified to include a seemingly innocuous statement. This minor addition was pivotal in executing the spam doorway operation.\nThe malware executes by defining a bot function that checks for known bot names within the User-Agent header. If a bot is detected, the script pulls malicious content from a Pastebin, effectively diverting bots to spam pages.\nBy staying on top of software updates, regularly changing WordPress admin passwords, installing a web application firewall, and limiting access to the WordPress dashboard, you can safeguard your site from these harmful strategies.\nRecently, Sucuri security researchers observed a very difficult-to-eliminate malware campaign affecting WordPress websites by deploying a stealthy backdoor, while more than 6,000 WordPress websites were compromised in October by malicious plugin campaigns that pushed infostealers .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://blog.sucuri.net/2024/11/simple-include-statement-hides-casino-spam.html",
+      "https://www.blog.sucuri.net/2024/11/simple-include-statement-hides-casino-spam.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T14:25:23.328+02:00",
+    "updated": "2024-11-15T14:25:23.328+02:00"
+  },
+  {
+    "uuid": "dc95ef35db5e6fc9162bd3e8e5dfd5920b383598",
+    "url": "https://www.elperiodico.com/cuore/famosos/2025/01/31/polemico-comentario-pasado-suso-alvarez-113819545",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrea de los Santos",
+    "published": "2025-01-31T07:41:00Z",
+    "title": "SUSO ÁLVAREZ PASADO | El polémico y criticado comentario del pasado de Suso Álvarez: \"No razono\"",
+    "text": "El pasado de Suso Álvarez ha sido desvelado y podría tambalear su relación con Marieta después de estos comentarios. Marieta destapa su maternidad con Suso Álvarez: estos serán los nombres de sus hijos.\nEl polémico y criticado comentario del pasado de Suso Álvarez / Gtres Andrea de los Santos - 31/1/2025, 7:41 A Suso Álvarez le persigue el fantasma de su pasado cada vez más cerca . Los fans de los 'realities' no han dudado en sacar de la hemeroteca los peores comentarios y comportamientos del colaborador en este momento en el que está tratando de comportarse como el mejor novio del mundo. De lo que no hay duda es que sacar a la luz estos comentarios no ha sentado nada bien.\nEn este momento, la relación entre el colaborador y Marieta funciona de maravilla . La distancia la están llevando de una forma aparentemente sana (por ahora). Ella está en 'GH Dúo 3' formando trío con sus exrolletes, Manuel Cortés y Sergio Aguilar, de 'LIDLT', pero esta vez no se va a dejar llevar por las tentaciones. Mientras tanto, Suso no deja de mencionarla en los platós, declarando su amor a los cuatro vientos... A ver qué pasa cuando la influencer vuelva a la realidad.\nLos comentarios del pasado más pícaro del colaborador están pasando factura en redes sociales y no podemos imaginar qué importancia le dará Marieta a este asunto. Cada vez son más las recopilaciones que los fans de los 'realities' están sacando a la luz sobre el pasado de Suso, tachándolo de turbio y irrespetuoso, cuanto menos, con las chicas con las que ha estado.\nEl comentario más 'heavy' del pasado de Suso Álvarez Es cierto que el 'ex gran hermano' siempre ha sido muy zalamero y ha conseguido meterse en el bote al 99% de las chicas con las que ha tonteado, pero los tiempos han cambiado. La chulería del colaborador tenía sus pros y sus contras en su época más ligona. Muchos de sus comentarios han envejecido bastante mal, sobre todo si hablamos de uno que hizo en 'Mujeres y Hombres y Viceversa' como tronista.\nEs complicado cuantificar la lista de chicas con las que ha estado, pero la hemeroteca no perdona y los seguidores del colaborador se han encargado de dejar claro la clase de persona que era hace unos añitos con sus comentarios... Ojo. \"Yo soy una persona que si tú me das a entender una cosa y yo me acelero, luego no me digas 'hasta aquí, ahora ya no, me voy'... Porque yo ya no razono\", fueron sus palabras en el programa de Emma García.\nrecordad que suso es este tío #GHLímite4 pic.twitter.com/CvPyhtst2S\n— B (@becred97) January 28, 2025 \"Que ascazo de tío\", \"la cara de la chica...\", \"Ahora va de intelectual\", \"el historial de Suso es bochornoso\", son algunos de los comentarios de los usuarios en redes sociales... Muy fuerte lo de Suso.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/p/BLRPBgtBu-O/",
+      "https://twitter.com/becred97/status/1884356908200481246?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/GHL%C3%ADmite4?src=hash&ref_src=twsrc%5Etfw",
+      "https://t.co/CvPyhtst2S",
+      "https://www.twitter.com/hashtag/GHL%C3%ADmite4?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.instagram.com/p/BLRPBgtBu-O",
+      "https://instagram.com/p/BLRPBgtBu-O/",
+      "https://twitter.com/hashtag/GHL%C3%ADmite4",
+      "https://www.t.co/CvPyhtst2S",
+      "https://twitter.com/becred97/status/1884356908200481246",
+      "https://www.twitter.com/becred97/status/1884356908200481246?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T11:25:36.019+02:00",
+    "updated": "2025-01-31T11:25:36.019+02:00"
+  },
+  {
+    "uuid": "51e88761b2886a9640a5975bc0094d760bde8d5e",
+    "url": "https://www.deccanchronicle.com/nation/in-other-news/291223/tirupati-district-police-achieve-15-reduction-in-crime-rates.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deccan Chronicle",
+    "published": "2023-12-29T12:56:00Z",
+    "title": "Tirupati district police achieve 15% reduction in crime rates",
+    "text": "Home » Nation » In Other News » December 29, 2023 Nation Tirupati district police achieve 15% reduction in crime rates Deccan Chronicle.| DC Correspondent\nPublished on: December 29, 2023 | Updated on: December 29, 2023 Representational Image\nTirupati: Tirupati district police have successfully curtailed the overall crime rate by 15 per cent in 2023 compared to the previous year, announced district superintendent of police P. Parameswara Reddy on Friday.\nReleasing the year-end crime data pertaining to the temple town, he highlighted the decline in bodily offences, which decreased from 710 in 2022 to 687 this year. Murder cases dropped from 55 cases last year to 37 in 2023.\nParameswara Reddy pointed out that property offences saw a decrease, with 987 cases reported this year compared to 1,047 in the preceding year. Additionally, recovery of stolen property has shown improvement, reaching 72 per cent this year, up from 66 per cent in 2022.\nThe SP said district police's vigilance against smuggling of red sanders proved effective, resulting in arrest of 76 smugglers in connection with 15 cases. Over the course of the year, 34 vehicles and 975 red sanders logs worth 9.75 crore have been seized.\nHe underlined that police have successfully cracked down on ganja smuggling. 416 individuals have been apprehended for their involvement in 105 ganja cases. Law enforcement agencies seized approximately 1,220 kg of contraband valued at around 1.63 crore.\nOn new initiatives of the district police, Parameswara Reddy pointed out that they have launched mobile hunt services in 2023, leading to recovery of 1,750 stolen or lost mobile phones valued at approximately 3.15 crore.\nHe commended the district police for their performance throughout the year. Their efforts have resulted in not only in reducing overall crime rates but also in efficiently managing VVIP bandobast duties at Tirumala and Tirupati.\n\"These achievements underscore the dedication and effectiveness of entire district police force in 2023,\" the SP added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "p. parameswara reddy",
+          "sentiment": "none"
+        },
+        {
+          "name": "parameswara reddy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "tirupati",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:14:29.560+02:00",
+    "updated": "2023-12-29T20:14:29.560+02:00"
+  },
+  {
+    "uuid": "bec360ab04b25300a081f47d1bc032bd3cd8403f",
+    "url": "https://www.globalsecurity.org/wmd/library/news/myanmar/2024/myanmar-240523-rfa02.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Pike",
+    "published": "2024-05-24T09:27:00Z",
+    "title": "Myanmar junta detains dozens, including 3 pastors, in village raid, witnesses say",
+    "text": "Myanmar junta detains dozens, including 3 pastors, in village raid, witnesses say\nThe group was questioned for information on ethnic minority insurgents and beaten, said a released prisoner.\nBy RFA Burmese 2024.05.23 -- Junta troops raided a village in northern Myanmar's Kachin State on Thursday and detained more than 30 people, including Christian leaders and teenagers on suspicion of supporting a rebel group, residents told Radio Free Asia.\nA group of about 100 soldiers stormed the village in Kachin State's Hpakant township before dawn and rounded up villagers in a school before marching the detainees away for questioning, they said.\n\"More than 200 villagers were held in the school initially,\" said one villager who declined to be identified for safety reasons.\n\"They said they would shoot up the village if they [junta troops] were attacked. They made threats to scare us.\"\nThose detained were accused of supporting the anti-junta Kachin Independence Army, villagers said. The detainees were released after about nine hours of questioning, they said.\nRFA telephoned Kachin State's junta spokesperson, Moe Min Thein, for more information but he did not respond.\nThe Kachin force, one of Myanmar's most powerful ethnic minority guerrilla groups battling for self-determination, has said it has captured at least 100 junta camps and eight towns across the state, and in neighboring Shan State, over recent months.\nThis week, Kachin fighters captured a junta camp and secured a trade route near the Kachin State capital of Myitkyina, close to the border with China.\nSoldiers from the junta's Divisions 33 and 77 conducted the raid on Nam Si In village and took away the men, most of them middle-aged, said one villager, who declined to be identified for safety reasons.\n\"Three Christian pastors were among those arrested,\" said the villager.\nMany Kachin are Christian.\nThe detained villagers were interrogated about any links to the Kachin Independence Army and other anti-junta militias set up by pro-democracy activists, said one of those questioned. Some of them were beaten with guns and told to report any rebel activity, he added.\nFive teenagers were among those detained and beaten, he said.\nKachin guerrillas have in recent weeks captured junta camps in four villages in heavy fighting in Hpakant township, residents said.\nKachin Baptist Convention pastor Hkalam Samson was released on parole in one of the junta's mass amnesties on April 17 after being sentenced to six years in prison under an anti-terrorism law. But he was re-arrested later that day, according to sources close to the family.\nUnidentified gunmen have executed at least two pastors in Kachin State this year. The motive for the killings was not known.\nTranslated by RFA Burmese. Edited by Kiana Duncan and Mike Firn.\nCopyright 1998-2024, RFA. Used with the permission of Radio Free Asia, 2025 M St. NW, Suite 300, Washington DC 20036. For any commercial use of RFA content please send an email to: mahajanr@rfa.org. RFA content May not be used in a manner which would give the appearance of any endorsement of any product or support of any issue or political position. Please read the full text of our Terms of Use.\n|\n|\nNEWSLETTER\n|Join the GlobalSecurity.org mailing list|\n|\n||\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "kachin state",
+          "sentiment": "none"
+        },
+        {
+          "name": "kachin independence army",
+          "sentiment": "none"
+        },
+        {
+          "name": "radio free asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "rfa",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "myanmar",
+          "sentiment": "none"
+        },
+        {
+          "name": "kachin state",
+          "sentiment": "none"
+        },
+        {
+          "name": "kachin state's hpakant",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-24T13:19:25.497+03:00",
+    "updated": "2024-05-24T13:19:25.497+03:00"
+  },
+  {
+    "uuid": "c1bb71ea92e486e003e1449f08efcbd44d977a1b",
+    "url": "https://www.correiobraziliense.com.br/ciencia-e-saude/2024/12/7016173-ma-higiene-bucal-pode-aumentar-risco-de-hipertensao-depressao-e-demencia.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Isabela Stanga",
+    "published": "2024-12-20T01:00:00Z",
+    "title": "Má higiene bucal pode aumentar risco de hipertensão, depressão e demência",
+    "text": "A falta de higiene dos dentes pode contribuir para o desenvolvimento de doenças emocionais, cognitivas e cardíacas – entre elas a depressão, a hipertensão e a demência –, conforme estudos recentes.\nUma pesquisa publicada no periódico científico Science Advances afirma que a bactéria Porphyromonas gingivalis, comum em infecções bucais, pode aumentar a produção da proteína beta-amiloide, acumulada em cérebros com Alzheimer.\nJá a xerostomia, a secura extrema na boca, está associada a diabetes e problemas cardíacos em idosos, conforme estudo divulgado no periódico Journal of The American Geriatrics Society. A pesquisa revelou que 47,8% dos 2.713 sino-americanos analisados tiveram sintomas bucais associados ao declínio cognitivo e à perda de memória.\nMaria Letícia Bucchianeri, dentista e coordenadora de odontologia da Faculdade Aria, explica ao Correio que manter os cuidados bucais é essencial para a qualidade de vida, sobretudo em pessoas idosas. \"No geral os pacientes idosos, por conta de doenças crônicas, os medicamentos podem causar diminuição do fluxo salivar, por exemplo. Mantendo a saúde bucal, reduz-se o impacto desse medicamentos\", afirma.\n\"Para além dos idosos, a saúde bucal também ajuda no controle de quadros crônicos. Um paciente com diabetes que tem uma boa saúde bucal tende a ter controle dos seus níveis de glicose melhor do que aquele que não tem uma boa saúde bucal\", expõe.\n[Siga o canal do Correio no WhatsApp e receba as principais notícias do dia no seu celular](https://whatsapp.com/channel/0029VaB1U9a002T64ex1Sy2w)\nAlém disso, a especialista aponta que a má saúde bucal pode influenciar significativamente a saúde mental. \"A má higiene bucal afeta a capacidade de alimentação, o sono, a capacidade de comunicação, a própria autoestima. A pessoa tende a se isolar e pode levar a quadros depressivos\", pontua Bucchianeri.\nA dentista recomenda escovação frequente, uso de fio dental e visitas regulares ao dentista, para identificar problemas precocemente. \"Não podemos ver a saúde bucal como uma parte dissociada do nosso corpo. Ela é tão importante e deve ser cuidada como qualquer outro órgão e sistema\", finaliza a especialista.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->heart disease",
+      "Health->mental health and disorder"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://whatsapp.com/channel/0029VaB1U9a002T64ex1Sy2w",
+      "https://www.whatsapp.com/channel/0029VaB1U9a002T64ex1Sy2w"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:13:35.862+02:00",
+    "updated": "2024-12-20T04:13:35.862+02:00"
+  }
+]

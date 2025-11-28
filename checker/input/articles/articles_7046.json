@@ -1,0 +1,273 @@
+[
+  {
+    "uuid": "9728cfb58d7506b2cef76f93a03ad3045db1a4fd",
+    "url": "https://www.stheadline.com/breaking-news/3470097/深水埗喜居奪命火死者為TVB新聞部攝影師-無綫電視惋惜及哀痛",
+    "ord_in_thread": 0,
+    "author": "深水埗「喜居」奪命火｜死者為TVB新聞部攝影師 無綫電視：惋惜及哀痛",
+    "published": "2025-07-03T04:01:00Z",
+    "title": "深水埗「喜居」奪命火｜死者為TVB新聞部攝影師 無綫電視：惋惜及哀痛",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; const loadButtomAnchor = (isMobile) => { const ad = (isMobile ? adUnits_m['fadeinout'] : adUnits['fadeinout'])[0]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} fadeinout : Code:${ad.code} DIV: ${ad.divid}`); anchorSlot = googletag.defineOutOfPageSlot(ad.code, googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR); Object.entries(page_level_kv).forEach(( [key, value]) => { anchorSlot.setTargeting(key, value); }); anchorSlot.addService(googletag.pubads()); googletag.display(anchorSlot); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); loadButtomAnchor(isMobileAds); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 星島學生報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 贏跑網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 Copyright © 2025 SingTao Ltd.All rights reserved. 深水埗「喜居」奪命火｜死者為TVB新聞部攝影師 無綫電視：惋惜及哀痛 突發 更新時間：12:01 2025-07-03 HKT\n發佈時間：12:01 2025-07-03 HKT 字體大小 今晨（3日）深水埗發生奪命火警，醫局街「喜居」28樓一單位起火冒煙並傳出爆炸聲，消防到場將火救熄，但發現一名男子倒斃於3樓平台，懷疑他逃生時失足墮樓死亡。死者38歲姓邵，是無綫電視（TVB）新聞部的攝影師。消息稱他獨居涉事單位，事發時有相機鋰電池正在客廳充電，不排除火警因短路所致，警方及消防正調查事件。\n無綫電視對外事務部回覆《星島頭條》查詢表示：「無綫電視一名新聞部攝影師今晨於深水埗發生的一宗火警中不幸離世，本台對事件感到惋惜及哀痛，並對離世同事的家人致以深切慰問，會盡力提供適切協助。」\n事發於今日凌晨4時許，現場是醫局街155至161號「喜居」28樓一單位，單位起火冒出濃煙，更一度傳出爆炸聲，多人報警。消防處旺角消防局高級消防隊長黎樂豐早前交代案件表示，消防處在凌晨4時01分接獲報告，指在深水埗醫局街161號「喜居」發生火警。人員在接報後約4分鐘到達現場，總共調派10輛消防車和3輛救護車，並出動58名消防和救護人員，動用了兩條喉和兩隊煙帽隊進行灌救。\n黎樂豐指，火場位於28樓一個住宅單位，面積約6米乘5米。消防人員在行動中總共疏散了兩名人士，另外有58名人士自行疏散至安全地方。消防人員其後在3樓的平台位置，發現一名成年男子陷入昏迷，男子其後在現場被證實死亡。消防稱，不排除男子在逃生期間失足跌下平台，火警成因仍待調查。\n↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->health organisation",
+      "Health->injury",
+      "Social Issue->fraternal and community group",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Crime, Law and Justice->arson"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "& TV",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TV",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:16:53.112+03:00",
+    "updated": "2025-07-03T05:22:44.000+00:00"
+  },
+  {
+    "uuid": "647c3bbc055557da3131411414cc6afa93c5b98c",
+    "url": "https://tn.com.ar/sociedad/2025/04/30/una-joven-mostro-como-una-clienta-le-pidio-un-descuento-y-la-amenazo-cuando-la-mando-a-buscar-trabajo",
+    "ord_in_thread": 0,
+    "author": "@todonoticias",
+    "published": "2025-05-01T00:16:00Z",
+    "title": "Una joven mostró cómo una clienta le pidió un descuento y la amenazó cuando la mandó a \"buscar un laburito\" | TN",
+    "text": "En el mundo de las compras online , las sorpresas están a la orden del día. Pero lo que vivió una vendedora con una clienta que quería pagar en cuotas de una manera insólita, dejó a todos boquiabiertos.\nTodo comenzó de manera normal, cuando la joven recibió un mensaje para una compra online. Sin embargo, el primer cruce de palabras fue un poco incómodo por la forma en la que la clienta exigía los precios.\nLeé también: Le ofrecieron un trabajo de 45 hs semanales por $550.000 y su respuesta se volvió viral\nLa clienta le pidió un descuento por su compra. (Foto: captura video) Después de recibir toda la información que solicitó, le pidió un descuento a la emprendedora. Tras algunas idas y vueltas, la joven accede a hacerle un 10% de descuento , lo que fue recibido con un comentario sarcástico: “Qué miseria”.\nYa con un ambiente bastante tenso, la clienta siguió exigiendo cosas: “ Te voy pagando mes por mes. Vos me das las cosas y yo te giro ”. Esta fue la propuesta que dejó a la vendedora sin palabras.\nLa vendedora, sorprendida, intentó explicarle que al no conocerla y no tener cierta confianza, no iba a aceptar este tipo de medio de pago.\nLa mujer la mandó a buscar trabajo luego de un fuerte cruce. (Foto: captura video) Esto enojó a la clienta que se decidió por insultarla. “ Te dejo el link para que busques un laburito o algo. Se ve que estás bastante aburrida ”.\nLeé también: Hizo un pedido de stickers, le mandaron un par de regalo y realizó un insólito reclamo: “Quiero mi plata”\nEsta insólita conversación se viralizó rápidamente en redes sociales donde miles de personas cuestionaron el accionar de la clienta. “Amé, le mandaba link para tener laburo JAJA”, “Cuando termine la última cuota y este 100% saldado, le das la ropa”, “Más que un laburo debería buscar una escuela”, fueron algunos de los comentarios.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->social problem",
+      "Social Issue->abusive behaviour",
+      "Social Issue->social networking",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T03:27:18.371+03:00",
+    "updated": "2025-05-01T00:31:59.000+00:00"
+  },
+  {
+    "uuid": "3e5a5be96dfbe6b889b369689d47a1232169f548",
+    "url": "https://www.dailywire.com/news/everyone-over-there-is-a-terrorist-israeli-woman-abducted-by-hamas-held-hostage-by-family-in-gaza-opens-up-about-weeks-long-captivity",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zach Jewell",
+    "published": "2023-12-28T23:08:00Z",
+    "title": "‘Everyone Over There Is A Terrorist’: Israeli Woman Abducted By Hamas, Held Hostage By Family In Gaza Opens Up About Weeks-Long Captivity | The Daily Wire",
+    "text": "Streaming Now The decade's most triggering comedy [Mia Schem](https://www.dailywire.com/news/biden-admin-blasts-hamas-propaganda-after-terrorists-release-first-hostage-video-showing-young-woman-under-duress), a 21-year-old Israeli-French woman who was abducted by Hamas on October 7, opened up about the “holocaust” she experienced during her 54 days in captivity in Gaza, saying, “Everyone over there is a terrorist.” After being kidnapped by Hamas terrorists from a music festival in southern Israel during the terrorist group’s brutal attack on Israel, Schem said she was held captive by a family in Gaza who were working with the terrorist organization. She was freed as part of a temporary ceasefire between Israel and Hamas last month, and the 21-year-old tattoo artist is now revealing more about her terrifying experience as a Hamas hostage. “It was important to me to relay the truth about the nature of the people who live in Gaza, who they are truly are and what I experienced there,” Schem said in a clip of an interview with Channel 13, the New York Post [reported](https://nypost.com/2023/12/28/news/freed-hostage-mia-schem-i-went-through-a-holocaust-as-a-hamas-captive/). “It was important to you that the world understands what?” journalist Lior Veroslavsk asked her. “That I went through a holocaust,” Schem replied. “Everyone over there is a terrorist.” Former hostage Mia Schem: \"I went through a Holocaust\" [pic.twitter.com/FsTGSd6OX7] — Aviva Klompas (@AvivaKlompas) [December 28, 2023] “Entire families are in the service of Hamas,” she added. “Suddenly I realized that I’m with a family. Suddenly I’m asking myself questions: Why am I in some family’s home? Why are there kids here? Why is there a wife?” Hamas has [ruled](https://apnews.com/article/hamas-gaza-palestinian-authority-israel-war-ed7018dbaae09b81513daf3bda38109a) the Gaza Strip for over 15 years with strong support from the Palestinian people living there. According to a recent poll, around [60% of the Palestinians](https://www.dailywire.com/news/palestinians-overwhelmingly-support-hamas-terror-attacks-but-deny-hamas-war-crimes-palestinian-poll) in Gaza [supported](https://www.jpost.com/arab-israeli-conflict/article-773791) Hamas’ attack on Israel and only 21% in Gaza said they opposed the terrorist attack. Shortly after she was taken hostage by Hamas, Schem appeared in a video clip posted to Telegram by the terrorists. In the video, Schem spoke to the camera and pleaded for her safe return home, claiming Hamas was taking care of her. The video also showed a large scar on her arm, and she said that her captors operated on her injured arm for three hours after taking her to the Gaza Strip. “I was [at] a party. I was badly injured in my arm. They took me to Gaza. They performed a 3-hour surgery to my arm. They took care of me, treated me, provided medicine to me. Everything is fine,” Schem said before pleading for her release. [CLICK HERE TO GET THE DAILYWIRE+ APP](https://onelink.to/dwapp) “I am just asking them to return me home as soon as possible,” she continued. “To my family, father, mother, and siblings. Please, get us out of here as soon as you can.” The Israel Defense Forces (IDF) posted a [statement](https://twitter.com/IDF/status/1714028835916652675) about Schem’s hostage video, saying Hamas attempts to “portray themselves as human,e” but in reality “are a horrific terrorist organization responsible for the murder and abduction of babies, children, men, women and the elderly.” Hamas Islamist terrorists have released video of an injured Israeli hostage Mia Schem from Gaza. IDF Statement 👇 Last week, Mia Schem's family was informed by IDF officials that Mia had been adbucted. IDF representatives are in continuous contact with the family. The IDF is… [pic.twitter.com/nHG587QtF4] — Aditya Raj Kaul (@AdityaRajKaul) [October 16, 2023]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://apnews.com/article/hamas-gaza-palestinian-authority-israel-war-ed7018dbaae09b81513daf3bda38109a)",
+      "https://nypost.com/2023/12/28/news/freed-hostage-mia-schem-i-went-through-a-holocaust-as-a-hamas-captive/).",
+      "https://twitter.com/IDF/status/1714028835916652675)",
+      "https://onelink.to/dwapp)",
+      "https://www.jpost.com/arab-israeli-conflict/article-773791)",
+      "https://www.onelink.to/dwapp)",
+      "https://www.nypost.com/2023/12/28/news/freed-hostage-mia-schem-i-went-through-a-holocaust-as-a-hamas-captive/).",
+      "https://www.apnews.com/article/hamas-gaza-palestinian-authority-israel-war-ed7018dbaae09b81513daf3bda38109a)",
+      "https://jpost.com/arab-israeli-conflict/article-773791)",
+      "https://www.twitter.com/IDF/status/1714028835916652675)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "schem",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "new york post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:27:01.941+02:00",
+    "updated": "2023-12-29T01:27:01.941+02:00"
+  }
+]

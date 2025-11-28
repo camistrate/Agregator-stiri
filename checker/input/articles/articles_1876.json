@@ -1,0 +1,538 @@
+[
+  {
+    "uuid": "990e49696f230ed67782522d0b819b67b837961d",
+    "url": "https://www.pocket-lint.com/redmagic-9-pro-news-specs-features/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dave LeClair",
+    "published": "2023-12-28T21:30:00Z",
+    "title": "RedMagic 9 Pro is here with specs that'll blow you away",
+    "text": "RedMagic 9 Pro is here with specs that'll blow you away By Dave LeClair Published 43 minutes ago For smartphone gamers, this phone has everything they could want and then some.\nRedMagic Readers like you help support Pocket-lint. When you make a purchase using links on our site, we may earn an affiliate commission. Read More. Key Takeaways RedMagic 9 Pro offers powerful specs, including 16GB of RAM and 512GB of storage, making it capable of running demanding games without issues. The phone features a 120Hz display with high brightness and Corning Gorilla Glass for durability, enhancing the gaming experience. The ICE 13 Multi-Dimensional Cooling System with 59 fan blades keeps the phone cool during extended gaming sessions, making it a gaming powerhouse. When it comes to powerful smartphones, gaming models tend to push the limits for specs more than other types of devices. Gamers demand potent specs, and RedMagic tends to be one of the companies releasing some of the most capable phones. Now, the RedMagic 9 Pro has launched, bringing with it some specs that'll have gamers drooling.\nPerhaps most exciting is the fact that RedMagic is releasing the phone in the US, which it doesn't always do right away. Often, the company releases its devices in other territories and then comes to the US later. With the RedMagic 9 Pro, smartphone gamers in the United States can get their hands on the device on day one.\nWhat makes the RedMagic 9 Pro stand out? The raw numbers offered by this phone are what have us most excited. The top model has 16GB of RAM and 512GB of storage. It comes with the Qualcomm Snapdragon 8 Gen 3 processor, among the fastest chips you can get in a smartphone. The chip offers speeds up to 3.3 GHz. That, plus the excessive amount of RAM, means the phone can run even the most demanding games without issue.\nRedMagic also included a great display with its latest gaming smartphone. It features a 120Hz refresh rate , FHD+ resolution, and 6.8 inches of space. The overall touch sampling rate is up to 960Hz multi-touch, which means it can read presses quickly, offering extra gaming performance. Brightness is high at 1600 nits max. Finally, the screen is covered with Corning Gorilla Glass for maximum durability.\nWhile those specs are impressive, they're not necessarily enough to make the phone stand out from other flagships. Instead, the features offered by the ICE 13 Multi-Dimensional Cooling System turn this into a gaming powerhouse. There's a total of 59 fan blades spinning inside the phone, moving air and keeping it cool even during extended gaming sessions. Other cooling features include under-screen copper foil, under-screen graphene, 3D Ice Step Dual Pump VC, and Aerospace aluminum mid-frame.\nThe last really impressive feature of the RedMagic 9 Pro is the massive dual-cell 6500mAh battery. It also features 80W fast charging with the speedy charger included in the box.\nThe cameras aren't necessarily the main selling point, as this is a gaming phone. However, it looks like RedMagic still included some solid shooters with two 50MP rear shooters and a 2MP depth sensor. There's also a 16MP camera around the front for selfies and showing off your face while streaming your gameplay.\nRedMagic 9 Pro price and availability You can sign up for the Early Bird offer now, and the phone will be released on January 3, 2024. The model with 16GB of RAM and 512GB of storage is $799. This spec is available in Snowfall (white) and Cyclone (tan and black). You can also get the phone in Sleet (black) for $649, but this configuration comes with 12GB of RAM and 256GB of space. If you want the absolute best performance, you'll want to get Snowfall or Cyclone, so you get the extra RAM and space.\nREDMAGIC 9 Pro Featuring a Snapdragon 8 Gen 3, up to 16GB of RAM, and a cooling system that'll keep it running smoothly, this phone is a gamer's dream.\n$800 at RedMagic",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://na.redmagic.gg/pages/redmagic-9-pro-launch",
+      "https://www.na.redmagic.gg/pages/redmagic-9-pro-launch"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dave leclair",
+          "sentiment": "negative"
+        },
+        {
+          "name": "corning gorilla glass",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:14:30.412+02:00",
+    "updated": "2023-12-29T00:14:30.412+02:00"
+  },
+  {
+    "uuid": "98d8d4d71976518352a140d8fbe17c0dbf34647a",
+    "url": "https://www.technadu.com/newly-discovered-glove-stealer-malware-bypasses-chromes-app-bound-encryption-to-steal-cookies/556177",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lore Apostol",
+    "published": "2024-11-15T08:17:00Z",
+    "title": "Newly-Discovered Glove Stealer Malware Bypasses Chrome’s App-Bound Encryption to Steal Cookies",
+    "text": "Glove Stealer is a freshly-found infostealer focusing on exfiltrating cookies from Firefox and Chromium-based browsers. Its main capability is bypassing Google Chrome’s Application-Bound encryption. The campaign’s social engineering techniques overlap with the recent ClickFix variant infection. The new Glove Stealer malware can bypass Google Chrome’s Application-Bound (App-Bound) encryption to steal browser cookies. Glove Stealer targets cookies from Firefox and Chromium-based browsers, including Chrome, Edge, Brave, Yandex, and Opera.\nRecently identified by security researchers from Gen Digital during an investigation into a phishing campaign, the Glove Stealer is described as “relatively simple” with minimal obfuscation, indicating an early developmental stage.\nThe malware employs social engineering techniques – which security researchers said are similar to the ClickFix infection – to deceive victims into executing malicious payloads through fake error messages embedded in HTML email attachments.\nClickFix HTML page in phishing email attachments (Source: GenDigital) Its impact goes beyond cookie theft, extending to the exfiltration of cryptocurrency wallets, 2FA session tokens from services like Google and Microsoft, and password data from password managers such as Bitwarden, LastPass, and KeePass.\nFurthermore, it is capable of extracting sensitive information from a broad array of 280 browser extensions and over 80 locally installed applications, many of which involve cryptocurrency wallets and 2FA authenticators.\nPart of a function that tries to obtain otherwise App-Bound protected Chrome key used for decryption of private data | Source: GenDigital The mechanism used by Glove Stealer to defeat Google’s App-Bound encryption involves leveraging Chrome’s COM-based IElevator Windows service to decrypt and recover App-Bound encrypted keys. This requires the malware to first gain local admin privileges on a compromised system, positioning a supporting module within Chrome's Program Files directory for key retrieval.\nDespite its innovative approach, Glove Stealer seems to be in its nascent phase, as its methods are akin to earlier tactics employed by other infostealers that have since evolved to more sophisticated means of bypassing Chrome’s security enhancements.\nWhile Google's App-Bound encryption initiative was designed to elevate access barriers required for such attacks, the frequency of info-stealing malware incidents has not declined. Instead, these attacks have proliferated, exploiting vulnerabilities through various vectors, including zero-day exploits, malvertising, spearphishing, and deceptive internet forums.\nRecently, cybersecurity researcher Alexander Hagenah created a public tool that bypasses Google Chrome's latest cookie encryption system, called “Chrome App Bound Encryption Decryption.” It enables the extraction of saved credentials from the Chrome browser, posing potential security risks for users who rely on Chrome for storing sensitive data.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/glove-stealer",
+      "https://gendigital.com/blog/news/innovation/glove-stealer"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Gen Digital",
+          "sentiment": "none"
+        },
+        {
+          "name": "Google",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T14:25:23.524+02:00",
+    "updated": "2024-11-15T14:25:23.524+02:00"
+  },
+  {
+    "uuid": "eee6b66ac6ed7d777222fe340307d282c86b983d",
+    "url": "https://www.ewrestlingnews.com/news/wwe/report-malakai-black-being-seen-as-a-potential-top-star-in-wwe",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thomas Lowson",
+    "published": "2025-01-16T19:40:00Z",
+    "title": "Report - Malakai Black Being Seen As A Potential Top Star In WWE",
+    "text": "Malakai Black could be in store for a significant push in WWE, should he return to the promotion following his departure from AEW.\nPW Torch is reporting that Black has “influential people in WWE” backing him regarding a potential return to the company.\nBlack’s supporters within WWE see him as a “possible top singles act.” The report adds that Black sees WWE as more “palatable” with Triple H running things.\nThis report comes amid reports and speculation that Black is finishing his time with AEW if he has not already exited the company.\nBlack had reportedly told “some people in AEW” that he was “burned out” and is ready for time away from the ring, even suggesting a retirement.\nBlack signed with WWE in June 2016 and debuted as part of an NXT live event in January 2017. He would debut on TV in NXT UK the same month.\nBlack hasn’t appeared for AEW since November. More recently, House of Black members have been encouraged to forge their own paths on TV.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->wrestling"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.pwtorch.com/site/2025/01/15/malakai-black-expected-to-be-a-free-agent-soon-unlikely-to-work-for-aew-again-details-on-situation-and-wwes-perception-of-him/",
+      "https://pwtorch.com/site/2025/01/15/malakai-black-expected-to-be-a-free-agent-soon-unlikely-to-work-for-aew-again-details-on-situation-and-wwes-perception-of-him/",
+      "https://www.pwtorch.com/site/2025/01/15/malakai-black-expected-to-be-a-free-agent-soon-unlikely-to-work-for-aew-again-details-on-situation-and-wwes-perception-of-him"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "House of Black",
+          "sentiment": "none"
+        },
+        {
+          "name": "PW Torch",
+          "sentiment": "none"
+        },
+        {
+          "name": "AEW",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:25:35.206+02:00",
+    "updated": "2025-01-17T00:25:35.206+02:00"
+  },
+  {
+    "uuid": "90f136e1f20edf7c6093c8c19e8e5e6c2a40169a",
+    "url": "https://www.wndu.com/2024/01/16/how-prevent-manage-frozen-pipes-this-winter",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WNDU",
+    "published": "2024-01-16T16:50:00Z",
+    "title": "How to prevent and manage frozen pipes this winter",
+    "text": "How to prevent and manage frozen pipes this winter SOUTH BEND, Ind. (WNDU) - With [ sub-freezing temperatures](https://www.wndu.com/2024/01/16/first-alert-weather-day-tuesday-dangerous-cold-lingers/) still affecting Michiana for the next couple of days, it’s important to maintain your water pipes because the last thing you need is a frozen pipe leading to a flooded basement. There are some measures you can take to prevent the freeze from happening. BluSky Restoration gave us some tips on 16 Morning News Now that you can start doing in your home today. First off, you should know where your water main line is located and how to turn it off. “If you do have an issue, you’re going to want to turn it off immediately,” said Mike Scott, vice president for BluSky Restoration. “That’s going to reduce the amount of water that can enter your home.” Pipes begin to experience issues once the temperature reaches below 20 degrees. “What is happening in many cases is the pipes are either not insulated properly or that extreme cold, the artic weather that we are getting is getting the pipes and it’s making it colder than it actually would be making it colder than it would originally be,” said Scott. “And as we all know if we have water and it freezes that ice expands and so what’s happening with your water if it doesn’t have a way to release the pressure in those pipes as ice is expanding the water doesn’t have anywhere to go. The ice is naturally pushing against the pipes that can cause them to break if that pressure isn’t released.” BluSky recommends having your faucets dripping water, even if its just one drip every couple of seconds. “It doesn’t seem like a lot, but that’s going to be enough to keep the water flowing through your pipe,” Scott said “To help reduce the chance of having a flood, it’s recommended doing it for the farthest sink from your water main. I recommend doing it for every sink.” You should also open up cabinets where your pipes are. This allows warm air into an area that usually doesn’t get warm air. BluSky recommends not using a space heater, but warns to leave it three feet away from any walls and always use it in a room you will monitor. If you do already have a frozen pipe your next steps should be turning off your main water line to limit how much water is coming into your home. Once it’s off, you’ll want to find where the freeze has happened. You can do this by going faucet to faucet, testing them until you isolate an area in the house. If you have exposed pipes, you can take a hair dryer to the area, slowly making its way through until melted. But even if a pipe freezes, it doesn’t always mean the pipe will burst, in fact, there are ways you can address frozen pipes too. “So there are different ways if you do have a frozen pipe to be able to slowly thaw out the ice, a hair dryer is the most recommended method. But what it does as ice is expanding it does compromise your pipes,” said Scott. “So you might not have a burst pipe, you might have what is considered a pine pole leaking your pipe. A lot of times that burst pipe might be a small hole that trickles over time so it’s not something you are going to see immediately your water is going to be working but you might eventually have a bigger issue down the line.” BluSky Restoration is located at 1919 S. Michigan Street in South Bend. For more information, [click here](https://firstresponsedrs.com/). Copyright 2024 WNDU. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Health",
+      "Environment"
+    ],
+    "external_links": [
+      "https://firstresponsedrs.com/).",
+      "https://www.firstresponsedrs.com/)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mike scott",
+          "sentiment": "none"
+        },
+        {
+          "name": "blusky",
+          "sentiment": "none"
+        },
+        {
+          "name": "scott",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "blusky restoration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south bend",
+          "sentiment": "none"
+        },
+        {
+          "name": "ind.",
+          "sentiment": "none"
+        },
+        {
+          "name": "michiana",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-16T22:08:42.926+02:00",
+    "updated": "2024-01-17T01:31:48.202+02:00"
+  },
+  {
+    "uuid": "946da16c67c90f642aa77114538a8c7629c30997",
+    "url": "https://www.lastampa.it/esteri/2024/09/26/diretta/russia_ucraina_guerra_news_oggi-14667905",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Stampa",
+    "published": "2024-09-26T20:59:00Z",
+    "title": "Ucraina Russia, le news sulla guerra di oggi 27 settembre. Zelensky alla Casa Bianca, bombe a lungo raggio dagli Usa. Harris: “Io con Kiev” - La Stampa",
+    "text": "Incontro alla casa Bianca tra il leader ucraino Zelensky, il presidente degli Stati Uniti Biden e la vicepresidente Harris . Gli Usa hanno annunciato un aumento dell'assistenza a Kiev a partire da quasi 8 miliardi di dollari in aiuti militari e nuove armi a lungo raggio . «La Russia non prevarrà», dice Biden e la candidata democratica alla presidenza promette «sostegno incrollabile» e attacca Trump: «Io con Kiev, lui ne vuole la resa».\nTrump incontra Zelenskyj questa mattina: il presidente ucraino arriverà alle 9.45 ora locale, le 15.45 in Italia, alla Trump Tower. Monito dal Cremlino: «La nuova politica sulla risposta nucleare è un segnale ai Paesi ostili. Gli occidentali sanno che Putin fa sul serio ». « Minacce irresponsabili», dice il Segretario di Stato americano Blinken .\nPer approfondire:\nCosa è successo oggi Una nuova super bomba per Zelensky: Kiev avrà (e potrà usare) i missili a medio e lungo raggio per gli F-16. Biden: “Aumentiamo le vostre capacità a lunga gittata” L’arsenale atomico di Putin: cambia la sua dottrina nucleare e fa leva sull’eredità sovietica Meloni cancella le armi dalla nota sull’Ucraina Perché i leader non sanno mediare Punti chiave 09:34 Kiev: “Missile russo centra uffici a Kryvyi Rih, possibili morti”\n09:21 Mosca: indagati 3 giornalisti stranieri per ingresso Kursk\n08:54 Autorità di Odessa: “Attacco con i droni nella regione, tre morti e undici feriti”\n07:40 Attacco russo alla città meridionale di Izmail uccide 3 persone e ne ferisce 11\n05:20 Lavrov a Onu: “Evitare iniziative pseudo-pacifiche sull'Ucraina”\n00:24 Biden: “Sostegno Usa in ogni fase, Kiev vincerà la guerra”\n09:34\nKiev: “Missile russo centra uffici a Kryvyi Rih, possibili morti”\nUn missile russo ha colpito un edificio amministrativo di Kryvyi Rih, la città natale di Volodymyr Zelensky nel centro-est dell'Ucraina, e \"potrebbero esserci delle persone sotto le macerie\", riferisce l'emittente Rbc-Ucraina citando il canale Telegram del governatore regionale di Dnipropetrovsk, Serhiy Lysak.\n09:21 Mosca: indagati 3 giornalisti stranieri per ingresso Kursk\nI servizi di sicurezza russi (Fsb) hanno aperto indagini penali contro tre giornalisti, due americani e un rumeno, che hanno attraversato \"illegalmente\" la frontiera russa dall'Ucraina per fare reportage nella parte occupata della regione di Kursk: si riferisce a Interfax. I due americani, Kathryn Diss e Fletcher Yeung, lavorano per l'emittente Abc, mentre il giornalista rumeno Mircea Barbu lavora per HotNews. In totale, dal 17 agosto sono state aperte indagini contro \"12 giornalisti stranieri\" per accuse di questo tipo, ha dichiarato l'FSB.\n08:54 Autorità di Odessa: “Attacco con i droni nella regione, tre morti e undici feriti”\nÈ di almeno tre morti e 11 feriti il bilancio di un attacco con droni che ha colpito la città ucraina di Izmail, nella regione di Odessa. Lo denunciano le autorità locali, che - riportano i media ucraini - accusano i russi di \"terrore su vasta scala contro Izmail\" e di aver \"lanciato droni kamikaze contro il sud della regione\". Fra i feriti c'è un bambino. Risultano danneggiati diversi edifici e mezzi\n08:48 Un drone russo potrebbe aver violato lo spazio aereo rumeno durante un attacco notturno all'Ucraina\nLo spazio aereo nazionale della Romania è stato probabilmente violato per meno di tre minuti da un drone russo durante un attacco notturno alla vicina Ucraina, ha affermato venerdì il ministero della Difesa. La Romania, membro della NATO, ha inviato quattro jet da combattimento per monitorare l'attacco dall'aria, ha affermato il ministero, aggiungendo che il personale militare stava cercando potenziali frammenti.\n07:40 Attacco russo alla città meridionale di Izmail uccide 3 persone e ne ferisce 11\nUn attacco di droni russi alla città meridionale di Izmail ha ucciso tre persone e ne ha ferite 11, tra cui un bambino, hanno detto venerdì le autorità della regione di Odessa. \"L'attacco terroristico su larga scala\" nelle prime ore di venerdì ha anche causato diversi incendi oltre a danneggiare le case, ha detto il governatore regionale di Odessa Oleh Kiper sull'app di messaggistica Telegram.\n06:19 Mosca, abbattuti 7 droni nella regione di Rostov\nLe difese aeree russe hanno abbattuto nella notte sette droni ucraini sul territorio della periferia di Novoshakhtinsk, nella regione meridionale russa di Rostov: lo ha reso noto il governatore della regione, Vasily Golubev, come riporta la Tass. A terra non si sono verificati danni o vittime, incendiata soltanto l’erba di un campo\n05:20 Lavrov a Onu: “Evitare iniziative pseudo-pacifiche sull'Ucraina”\nIl ministro degli Esteri russo Sergey Lavrov ha esortato il segretario generale dell'Onu Antonio Guterres a evitare che le Nazioni Unite vengano coinvolte in \"iniziative pseudo-pacifiche politicizzate\" sull'Ucraina: lo ha reso noto il ministero degli Esteri russo, come riporta la Tass.\n00:24 Biden: “Sostegno Usa in ogni fase, Kiev vincerà la guerra”\n\"Oggi, il presidente Zelenskyy e io ci siamo incontrati di nuovo per discutere di come rafforzare la posizione dell'Ucraina sul campo di battaglia e di come aiutare l'Ucraina a ricostruirsi più forte di prima. Due cose sono chiare: l'Ucraina vincerà questa guerra. E gli USA continueranno a sostenerla in ogni fase del cammino\". Lo scrive sui social network il presidente statunitense Joe Biden, pubblicando una fotografia dell'incontro.\n00:21 Trump: “Metterò d'accordo Zelensky e Putin”\n\"Sono in disaccordo con il Presidente Zelensky ma sarò in grado di raggiungere abbastanza velocemente un accordo tra il Presidente Putin e il Presidente Zelensky\". Lo ha detto Donald Trump rispondendo alla domanda di una giornalista che gli chiedeva un commento sulla dichiarazione del leader ucraino, secondo il quale Trump non ha capito cosa serva per vincere questa guerra. Alle richieste su come pensa di mettere d'accordo i due, il tycoon non ha risposto.\n00:20 Trump: “La mia strategia per l'Ucraina non è la resa. Voglio salvare vite umane”\n\"La mia strategia per l'Ucraina non è la resa\". Lo ha detto Donald Trump replicando ad un'accusa di Kamala Harris. \"Io voglio salvare vite umane\", ha\nLeggi i commenti I commenti dei lettori Acquista da 0.7€ /sett\nVideo Video del giorno L'ex presidente della Camera Irene Pivetti condannata a 4 anni: \"Sono innocente, ho sempre pagato le tasse\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.lastampastatic.it/cless/lastampa/2021-v1/include/detail/under-content.html--",
+      "https://www.repstatic.it/cless/common/widget/newsletter/2018-v1/include/gedi-newsletter-cx.html",
+      "http://www.repstatic.it/cless/common/box/outbrain/2022-v1/include/short.html",
+      "http://www.lastampastatic.it/cless/lastampa/2021-v1/include/detail/floating-sharebar-bottom.html",
+      "http://webfragments.repubblica.it/webfragments/widgetservice/widget?category=/lastampa_r21&name=content_tags&id=gnn:lastampa:14667905&collection=lastampa&output_mode=grouped&purge_duplicated=true&template=lastampa_r21/common/tags_content_responsive.html&page_prefix=https://www.lastampa.it/esteri--",
+      "http://www.lastampastatic.it/cless/lastampa/2021-v1/include/detail/paywall.html",
+      "http://www.repstatic.it/cless/common/adv/include/async/middle1.html",
+      "http://webfragments.repubblica.it/webfragments/widgetservice/widget?category=/lastampa_r21&name=content_tags&id=gnn:lastampa:14667905&collection=lastampa&output_mode=grouped&purge_duplicated=true&template=lastampa_r21/common/tags_content_responsive.html&page_prefix=https://lastampa.it/esteri--",
+      "http://lastampastatic.it/cless/lastampa/2021-v1/include/detail/under-content.html--",
+      "http://repstatic.it/cless/common/box/outbrain/2022-v1/include/short.html",
+      "http://lastampastatic.it/cless/lastampa/2021-v1/include/detail/floating-sharebar-bottom.html",
+      "https://repstatic.it/cless/common/widget/newsletter/2018-v1/include/gedi-newsletter-cx.html",
+      "http://repstatic.it/cless/common/adv/include/async/middle1.html",
+      "http://webfragments.repubblica.it/webfragments/widgetservice/widget",
+      "http://lastampastatic.it/cless/lastampa/2021-v1/include/detail/paywall.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joe Biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Volodomyr Zelensky",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Standoff Weapon",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Kamala Harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "Javelin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ucraina",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Casa Bianca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "America",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ucraina",
+          "sentiment": "none"
+        },
+        {
+          "name": "Russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kiev",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:43:59.139+03:00",
+    "updated": "2024-09-27T10:47:17.245+03:00"
+  },
+  {
+    "uuid": "99c83548697137ef6302b9226a1aea405ff63fcf",
+    "url": "https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pablo Javier Piacente",
+    "published": "2024-11-22T11:52:00Z",
+    "title": "Confirmado: la Tierra se está calentado al ritmo más rápido jamás registrado",
+    "text": "Climatología / Ciencias de la Tierra\nConfirmado: la Tierra se está calentado al ritmo más rápido jamás registrado\nA pesar de esto, se prevé que 2025 sea algo más frío, debido al fenómeno de “La Niña” en el Océano Pacífico tropical\nPablo Javier Piacente\n2023 y 2024 fueron los años más cálidos en los registros que se remontan a mediados del siglo XIX, y estarán cerca de 1,5 grados Celsius por encima de la temperatura de la era industrial temprana. Mientras el mundo tardó un siglo en elevar su temperatura por encima de 0,3 grados Celsius, se ha calentado por el contrario hasta un grado Celsius solamente en los últimos 60 años, a partir del frenético incremento en las emisiones contaminantes y el ritmo de presión humana sobre el ambiente.\nEl científico Edward Hawkins, de la Universidad de Reading, en el Reino Unido, analiza en un [artículo](https://theconversation.com/cop29-how-fast-is-earth-warming-244093) publicado recientemente en The Conversation los principales datos históricos y actuales sobre el calentamiento global, en el marco de [COP29](https://cop29.az/en/home), la Conferencia de las Naciones Unidas sobre el Cambio Climático que termina hoy en la ciudad de Bakú, capital de Azerbaiyán. El investigador desarrolla una serie de argumentos que permiten concluir que el planeta se está calentando al ritmo más intenso que ha logrado registrarse hasta el momento.\nLos inicios de las investigaciones\nEn principio, Hawkins recuerda que sobre 1933, al examinar las tendencias en las temperaturas medidas en muchos lugares diferentes de todo el mundo, el meteorólogo estadounidense Joseph Kincer concluyó que el planeta se estaba calentando, pero no sugirió una razón. Posteriormente, en 1938 el ingeniero británico Guy Callendar mostró que las temperaturas globales se habían incrementado en aproximadamente 0,3 grados Celsius en los últimos 50 años.\nEn este caso, Callendar argumentó que este calentamiento se debió en gran medida al aumento de los niveles de dióxido de carbono en la atmósfera por la quema de carbón, basándose en teorías anteriores del efecto invernadero. A partir de estos primeros indicios se incrementaron y profundizaron los estudios sobre el cambio climático y el [calentamiento global](https://www.levante-emv.com/tendencias21/2024/06/06/calentamiento-global-alcanza-maximos-historicos-103417402.html) incentivados por la actividad humana, hasta llegar al extenso corpus teórico sobre el tema que existe actualmente, y que continúa expandiéndose.\nLos años más cálidos\nAhora, Hawkins indica que los datos actuales y todos estos estudios previos son más que claros: el ritmo de incremento de las temperaturas es el mayor que se ha registrado hasta hoy. Por ejemplo, menciona que 2023 y 2024 alcanzarán los niveles más altos de calentamiento global en mediciones que se remontan hasta 1850, y que al mismo tiempo se ubicarán 1,5 grados Celsius por encima de los registros térmicos de la era industrial temprana.\nAdemás, sostiene que tuvo que pasar un siglo para que el planeta incrementara sus temperaturas en 0,3 grados Celsius, pero que solamente en las últimas seis décadas se concretó un aumento que llegó hasta 1 grado Celsius. Aunque el incremento no es uniforme en todo el planeta y ha registrado distintos ritmos, Hawkins muestra que la Tierra está sometida a una presión antropogénica que intensifica las condiciones naturales del cambio climático.\nLa tasa de [calentamiento global](https://www.levante-emv.com/tendencias21/2024/09/04/calentamiento-global-enterrando-enormes-cantidades-107743591.html) se ha ubicado en 0,2 grados Celsius por década desde 1970 hasta ahora, mucho más rápido que cualquier otro período anterior. Los últimos dos años podrían sugerir que la tasa se está acelerando aún más, aunque esto no puede afirmarse con certeza todavía. Aunque el calor persistente durante los últimos dos años parecería indicar lo contrario, es más probable que 2025 sea más frío que 2024, dada la transición a las condiciones de “La Niña” en el Océano Pacífico tropical. Sin embargo, Hawkins cree que superaremos los 1,5 grados Celsius de calentamiento como promedio a largo plazo, en algún momento de la próxima década.\n[RRSS WhatsApp](https://api.whatsapp.com/send?text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[RRSS Facebook](https://www.facebook.com/sharer/sharer.php?u=https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[RRSS Twitter](https://twitter.com/intent/tweet?original_referer=https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html&text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20%20https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40Farodevigo)\n[RRSS email](mailto:?subject=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20&body=https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dmail%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share)\n[Copiar URL](javascript: void(0))\nNoticia guardada en tu perfil\n[La televisión rusa muestra qué países de Europa serían atacados por Rusia en una escalada nuclear](https://www.farodevigo.es/mundo/2024/11/21/television-rusa-muestra-paises-europa-atacados-arma-nuclear-111897434.html)[Bruno Vila rompe su silencio tras el anuncio de Telecinco del final de los Mozos de Arousa: «Nuestro paso por 'Reacción en cadena'...»](https://www.farodevigo.es/ocio/tv/2024/11/21/bruno-vila-rompe-silencio-anuncio-fin-mozos-de-arousa-reaccion-en-cadena-dv-111905478.html)[Un camarero argentino que reside en Vigo lamenta cómo ha vivido el encendido de Navidad: «Misión fallida»](https://www.farodevigo.es/gran-vigo/2024/11/20/camarero-argentino-reside-vigo-cuenta-dv-111863144.html)[Demandan a una comunidad de Vigo para no pagar la renovación de la fachada y les condenan a costas](https://www.farodevigo.es/gran-vigo/2024/11/20/propietarios-demandan-comunidad-vigo-renovacion-fachada-111878645.html)[Muere de un infarto cuando caminaba por el centro de Vigo](https://www.farodevigo.es/gran-vigo/2024/11/21/muere-paro-cardiaco-centro-vigo-111909510.html)[Edwin desapareció el mismo día que iba a ser padre: 'No llegó a conocer a su bebé](https://www.farodevigo.es/sucesos/2024/11/21/edwin-desaparecio-dia-padre-bebe-111891981.html)[Trasladan al Cunqueiro a un hombre de 61 años que fue hallado inconsciente y ensangrentado en Vigo](https://www.farodevigo.es/gran-vigo/2024/11/19/trasladan-hospital-hombre-beiramar-ensangrentado-golpe-banco-111836671.html)[Detenido el novio de una de las concursantes más conocidas de 'La isla de las tentaciones' por ser miembro de los \"narcos del cielo](https://www.farodevigo.es/ocio/tv/2024/11/19/detenido-novio-mayka-la-isla-de-las-tentaciones-narcos-del-cielo-dv-111836635.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.levante-emv.com/tendencias21/2024/09/04/calentamiento-global-enterrando-enormes-cantidades-107743591.html",
+      "https://api.whatsapp.com/send?text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://cop29.az/en/home",
+      "https://www.levante-emv.com/tendencias21/2024/06/06/calentamiento-global-alcanza-maximos-historicos-103417402.html",
+      "https://twitter.com/intent/tweet?original_referer=https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html&text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20%20https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40Farodevigo",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://theconversation.com/cop29-how-fast-is-earth-warming-244093",
+      "https://levante-emv.com/tendencias21/2024/06/06/calentamiento-global-alcanza-maximos-historicos-103417402.html",
+      "https://api.whatsapp.com/send?text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20https://farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://levante-emv.com/tendencias21/2024/09/04/calentamiento-global-enterrando-enormes-cantidades-107743591.html",
+      "https://www.cop29.az/en/home",
+      "https://www.theconversation.com/cop29-how-fast-is-earth-warming-244093",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://twitter.com/intent/tweet?original_referer=https://farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html&text=Confirmado%3A%20la%20Tierra%20se%20est%C3%A1%20calentado%20al%20ritmo%20m%C3%A1s%20r%C3%A1pido%20jam%C3%A1s%20registrado%20%20https://farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share%20a%20trav%C3%A9s%20de%20%40Farodevigo",
+      "https://facebook.com/sharer/sharer.php?u=https://farodevigo.es/tendencias21/2024/11/22/confirmado-tierra-calentado-ritmo-rapido-111945314.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dbtn-share",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Pablo Javier Piacente",
+          "sentiment": "none"
+        },
+        {
+          "name": "Edward Hawkins",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Universidad de Reading",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Océano Pacífico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T15:09:12.103+02:00",
+    "updated": "2024-11-22T15:09:12.103+02:00"
+  },
+  {
+    "uuid": "c5b119d4a30057fb47617da5a170211900678708",
+    "url": "https://drsircus.com/vaccines/bad-news-losing-the-vaccine-war",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@drsircus",
+    "published": "2024-12-19T14:10:00Z",
+    "title": "Bad News – Losing the Vaccine War?",
+    "text": "It is with a heavy heart that I bring the mainstream news from Reuters that Pfizer does not expect the Trump administration to make major changes to vaccine policy next year, even as the president-elect has put forward vaccine skeptic Robert F. Kennedy Jr. as his nominee to run the Department of Health and Human Services.\nRobert F. Kennedy, Jr. was invited to a dinner party with President-elect Donald Trump last week, where he met with executives from Big Pharma, including Robert Bourla, the CEO of Pfizer, who made $billions under Trump’s first term, by securing from Trump an FDA emergency-use authorization for the first COVID-19 injections for the U.S., along with exclusive distributor rights in Israel for Pfizer’s deadly COVID-19 “vaccine.”\nPfizer CEO Albert Bourla told analysts, “I don’t want to speak about the details of what we discussed during that dinner because I want to respect the privacy, but we developed a good relationship with Mr. Kennedy ,” Bourla said during an investor call.\nPfizer’s own study shows their COVID vaccines increase\nyour risk of serious adverse events (up to 71% higher).\nAlso attending the dinner at Trump’s residence in Florida was his Chief of Staff, Susie Wiles, a lformer lobbyist for Pfizer. There is a big stink being made in the media about polio vaccines and not a word about the dangers of Pfizer mRNA vaccines that are doing a world of hurt.\nRobert F. Kennedy Jr. Betrays Entire “Health Freedom” Movement\nMany have been hoping that the Kennedy-Trump team would bring some sanity to the FDA and the medical-industrial complex in general. That now seems unlikely as Kennedy gladly dines with one of the greatest terrorists on the planet, Pfizer’s Robert Bourla. One must worry. Are good guys meeting up with the bad guys, or are all the bad guys getting together?\nThere is a despicable playbook for covering up vaccine injuries. Its name is total denial and big-time lies that mainstream doctors and health officials believe in with all their hearts. The worst crime in the history of humanity is unfolding before us, but “ Why do many people fail to see crimes happening right before their eyes ? ” asks John Leake in His essay, ‘Hiding in Plain Sight,’ which implies that “ The best disguise is the truth because no one believes it .” The government and the press for sure do not want you to believe the truth that vaccines are a significant part of the cause of autism.\nTwenty years ago, I saw the Hep-B vaccine given to newborns\nas both dangerous and unnecessary and a hallmark of how\ncruel pediatric medicine could be and would be in the future.\nVaccines place the body under stress and divert the immune response to address the vaccine’s stimulus. Vaccines can make you “become sick” because they weaken the immune system and make you more susceptible to catching the actual infection or having an already existing infection spiral out of control.\nGovernment Health Officials:\nThe True Enemy of Humanity\n“The President is extremely proud, and of course, we are extremely proud, that [Pfizer] basically delivered a vaccine through this landmark golden standard program, the Operation Warp Speed that saved millions of lives,” Bourla said.\nHell comes in many forms, with the worst in medical form. Health officials can get away with anything. There has been a massive censoring action by medical journals and health officials on the unprecedented adverse vaccine data of the COVID-19 vaccines.\nPublic health officials are the tip of the spear for the medical-industrial complex, for big pharma, for medical murder, death, and an unending tide of lies. Government health officials are among the most arrogant and loaded with psychopaths and sociopaths who genuinely believe they are right about everything.\nThe Brownstone Insitute reminded us of the Cutter incident, which was one of the worst pharmaceutical disasters in U.S. history and exposed several thousand children to the live polio virus on vaccination. The NIH Laboratory of Biologics Control, which had certified the Cutter polio vaccine, had received warnings of problems: in 1954, staff member Bernice Eddy had reported to her superiors that some inoculated monkeys had become paralyzed and provided photographs. William Sebrell, the director of NIH, rejected the report.\nSenator McConnell knows nothing about medicine but is one with health officials saying, “Trump nominees should ‘steer clear’ of undermining the polio vaccine.”\nModerna has paused its mRNA RSV (Respiratory Syncytial Virus) vaccine trial for\nchildren after five infants were hospitalized with severe respiratory complications .\nPublic health officials cause an immense amount of deaths, misery, and suffering, but never so much as during the continuing COVID madness. In medical history, we have seen many examples. Still, perhaps the most quantifiable example is Merck’s Vioxx scandal, whereby they hid and suppressed evidence of massive amounts of heart attacks and strokes. One shocking detail about the Vioxx case was when one expert’s testimony in court described the number of deaths from Vioxx as “equivalent to 4 jumbo jetliners crashing every week for 5 years.”\nIt was learned that vaccine champion and Microsoft founder Bill Gates\nrefused to allow his own children to be vaccinated . This admission\ncame from the Gates family’s personal physician in Seattle.\nMany scientific papers with data and analysis that concluded grave harms from the mRNA jabs were submitted and passed peer review. Soon after publication, the editorial team concocted some story of “concerns” with the analysis and retracted it. Many people belong in jail.\nThere are people and countries worldwide fighting against each other when the real enemy is public health officials, medical organizations, and pharmaceutical companies. Instead of fighting Russia, Americans and citizens of the West should be fighting medical and pharmaceutical terrorism. However, this harsh truth does not sink in. People today are captured and propagandized. The mainstream mind does not get it.\nWill They Start to Shoot on Sight?\nIs the widespread fawning over Luigi Mangione, the man charged with the murder of U.S. healthcare boss Brian Thompson, a sign of things to come? A consensus on social media has emerged from ‘progressives’ that Thompson ‘had it coming’ and that his alleged killer can be excused for his good motives. Shock poll: 41 percent of young voters find the killing of UnitedHealthcare CEO acceptable .\nTrust in health officials is critical to public health and community well-being, or at least that is what they want us to believe. High trust in health officials can lead to better compliance with health recommendations, such as vaccinations and guidelines during outbreaks. It is all bad news for public health because little trust is left. Trust encourages open dialogue. There is no trust because there is no open dialogue.\nConclusion\nTrusting health officials is an invitation to suffering and death. We are in a terminal phase of trust in health officials and modern medicine . As we have seen with COVID-19 injections, doom is assured for all those still trusting the mainstream medical narrative. Regarding health officials, they can’t understand anything that challenges their narrative because their livelihood relies on them not understanding.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->government health care",
+      "Health->vaccine"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://brownstone.org/articles/disaster-caused-by-medical-journal-censorship/",
+      "https://www.fiercepharma.com/pharma/pfizer-ceo-built-good-relation-rfk-jr-highlights-trumps-pride-vaccine-work",
+      "https://kirschsubstack.com/p/pfizers-own-study-shows-their-covid?utm_source=post-email-title&publication_id=548354&post_id=153286329&utm_campaign=email-post-title&isFreemail=false&r=ts13e&triedRedirect=true&utm_medium=email",
+      "https://healthimpactnews.com/2024/robert-f-kennedy-jr-betrays-entire-health-freedom-movement-for-personal-gain/",
+      "https://lionessofjudah.substack.com/p/breaking-moderna-halts-mrna-rsv-vaccine?utm_source=post-email-title&publication_id=581065&post_id=153317037&utm_campaign=email-post-title&isFreemail=false&r=ts13e&triedRedirect=true&utm_medium=email",
+      "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-forecasts-2025-profit-line-with-expectations-2024-12-17/",
+      "https://vigilantfox.news/p/peter-hotez-sends-ominous-message?utm_source=substack&utm_medium=email#media-670fb16d-e74f-4a3c-bc09-f0e14c27e736",
+      "https://www.lewrockwell.com/2024/12/no_author/hiding-in-plain-sight/",
+      "https://uspoliticsandnews.com/why-didnt-bill-gates-vaccinate-his-own-children/",
+      "https://thehill.com/policy/healthcare/5044269-poll-finds-41-percent-find-killing-unacceptable/",
+      "https://thehill.com/policy/healthcare/5044269-poll-finds-41-percent-find-killing-unacceptable",
+      "https://www.lewrockwell.com/2024/12/no_author/hiding-in-plain-sight",
+      "https://www.lionessofjudah.substack.com/p/breaking-moderna-halts-mrna-rsv-vaccine?utm_source=post-email-title&publication_id=581065&post_id=153317037&utm_campaign=email-post-title&isFreemail=false&r=ts13e&triedRedirect=true&utm_medium=email",
+      "https://brownstone.org/articles/disaster-caused-by-medical-journal-censorship",
+      "https://www.vigilantfox.news/p/peter-hotez-sends-ominous-message?utm_source=substack&utm_medium=email#media-670fb16d-e74f-4a3c-bc09-f0e14c27e736",
+      "https://healthimpactnews.com/2024/robert-f-kennedy-jr-betrays-entire-health-freedom-movement-for-personal-gain",
+      "https://www.brownstone.org/articles/disaster-caused-by-medical-journal-censorship/",
+      "https://vigilantfox.news/p/peter-hotez-sends-ominous-message",
+      "https://lewrockwell.com/2024/12/no_author/hiding-in-plain-sight/",
+      "https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-forecasts-2025-profit-line-with-expectations-2024-12-17",
+      "https://www.thehill.com/policy/healthcare/5044269-poll-finds-41-percent-find-killing-unacceptable/",
+      "https://www.kirschsubstack.com/p/pfizers-own-study-shows-their-covid?utm_source=post-email-title&publication_id=548354&post_id=153286329&utm_campaign=email-post-title&isFreemail=false&r=ts13e&triedRedirect=true&utm_medium=email",
+      "https://lionessofjudah.substack.com/p/breaking-moderna-halts-mrna-rsv-vaccine",
+      "https://www.uspoliticsandnews.com/why-didnt-bill-gates-vaccinate-his-own-children/",
+      "https://uspoliticsandnews.com/why-didnt-bill-gates-vaccinate-his-own-children",
+      "https://fiercepharma.com/pharma/pfizer-ceo-built-good-relation-rfk-jr-highlights-trumps-pride-vaccine-work",
+      "https://www.healthimpactnews.com/2024/robert-f-kennedy-jr-betrays-entire-health-freedom-movement-for-personal-gain/",
+      "https://kirschsubstack.com/p/pfizers-own-study-shows-their-covid",
+      "https://reuters.com/business/healthcare-pharmaceuticals/pfizer-forecasts-2025-profit-line-with-expectations-2024-12-17/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Robert F. Kennedy Jr.",
+          "sentiment": "none"
+        },
+        {
+          "name": "Albert Bourla",
+          "sentiment": "none"
+        },
+        {
+          "name": "Robert Bourla",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pfizer",
+          "sentiment": "none"
+        },
+        {
+          "name": "Department of Health and Human Services",
+          "sentiment": "none"
+        },
+        {
+          "name": "Big Pharma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:12:02.404+02:00",
+    "updated": "2024-12-20T01:12:02.404+02:00"
+  },
+  {
+    "uuid": "645f113df121aa9e16ec5ea91434f9112993f748",
+    "url": "https://istoedinheiro.com.br/professores-da-rede-municipal-do-rio-vao-continuar-em-greve",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação",
+    "published": "2024-11-29T19:36:00Z",
+    "title": "Professores da rede municipal do Rio v\\u00e3o continuar em greve",
+    "text": "29/11/2024 - 17:36\nA greve dos professores da rede municipal do Rio de Janeiro, que começou na segunda-feira (25), vai continuar. A decisão foi tomada pela categoria em assembleia realizada nesta sexta-feira (29), na quadra da Escola de Samba São Clemente, na região central da cidade, para discutir os rumos do movimento.\nSegundo a coordenadora geral do Sindicato Estadual dos Profissionais da Educação do Estado do Rio de Janeiro (Sepe-RJ), Helenita Bezerra, que participou da assembleia, a entidade ainda não foi notificada oficialmente da decisão do presidente do Tribunal de Justiça do Estado do Rio de Janeiro (TJRJ), desembargador Ricardo Rodrigues Cardoso, que determinou ontem (28) a imediata interrupção da greve dos professores da rede municipal e o retorno ao trabalho.\nAlém disso, o desembargador estipulou multa de R$ 500 mil à entidade da categoria e de R$ 5 mil aos diretores do sindicato em cada dia de descumprimento da ordem.\nNotícias relacionadas:\n[Justiça suspende greve e professores do Rio fazem assembleia .](https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/justica-suspende-greve-e-professores-do-rio-fazem-assembleia)[Um em cada 3 professores de escolas públicas não tem formação adequada.](https://agenciabrasil.ebc.com.br/educacao/noticia/2024-11/um-em-cada-3-professores-de-escolas-publicas-nao-tem-formacao-adequada)[Sindicatos: decisão comprova que reforma trabalhista retirou direitos.](https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/sindicatos-decisao-comprova-que-reforma-trabalhista-retirou-direitos)\n“A assembleia deliberou pela continuidade da greve, e o sindicato ainda não tem notificação oficial de ilegalidade da greve. Enquanto não tem, os nossos advogados não têm como se mexer sobre um fato que, para nós, não é oficial”, disse Helenita à Agência Brasil.\nA decisão do juiz atendeu a pedido da prefeitura do Rio, que argumentou ilegalidade da paralisação por meio de ação de dissídio coletivo de greve. “O município informou que não houve aviso prévio em relação ao movimento grevista e nem tentativa de diálogo entre a categoria e a Secretaria Municipal de Educação”, relatou o TJRJ.\nDe acordo com o presidente do tribunal, o sindicato não cumpriu “elementos básicos para garantir a legalidade da greve”, como o esgotamento da tentativa de diálogo e a notificação prévia mínima de 48 horas. “Em uma primeira análise, não há comprovação do esgotamento da via negocial e da sua frustração. Pelo contrário, o documento ID. 01, do Anexo 1, demonstra que, no mesmo dia em que houve a convocação da assembleia pelo sindicato, deliberou-se pelo início imediato e sem termo final do movimento paredista”, disse o desembargador.\n“Não há dúvida de que as atividades dos servidores da educação são essenciais”, afirmou Ricardo Cardoso, ressaltando que este é um fator de limite para o exercício do direito de greve. O desembargador determinou que a prefeitura desconte o salário proporcionalmente aos dias de paralisação ilegal.\nNa tentativa de acordo, foi marcada uma audiência virtual para o dia 11 de dezembro, às 15h. “O sindicato da categoria reivindica o arquivamento do Projeto de Lei (PL) 186/2024, que amplia a quantidade de aulas para os professores e traz alterações em direitos como férias e licenças. Professores e funcionários das escolas do município também exigem a revogação da Lei 8666/2024, que aumenta para até seis anos os contratos temporários na rede”, completou o TJRJ em nota.\nA coordenadora do Sepe-RJ informou ainda que, na quarta-feira (4), haverá nova assembleia. Até lá, a categoria pretende discutir na Câmara de Vereadores a apresentação de emendas ao Projeto de Lei 186 ou a retirada deste pelo prefeito Eduardo Paes.\n“Tiramos uma pauta de mobilização que prevê panfletagens, atos e uma série de coisas para serem feitas com a categoria. Na quarta-feira teremos nova assembleia. Estamos aguardando também a casa legislativa nos chamar para mais uma audiência em que vamos dizer se a categoria concordou, ou não, em colocar emendas ao projeto de lei. Eles [vereadores] vão nos dizer, ou não, se o prefeito concordou em retirar o PL 186 de pauta”, concluiu.\nA Secretaria Municipal de Educação informou à Agência Brasil “que a rede municipal caminha para o encerramento do ano letivo e seguirá o planejamento normal do calendário escolar, sem alterações”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/justica-suspende-greve-e-professores-do-rio-fazem-assembleia",
+      "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-11/um-em-cada-3-professores-de-escolas-publicas-nao-tem-formacao-adequada",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/sindicatos-decisao-comprova-que-reforma-trabalhista-retirou-direitos",
+      "https://www.agenciabrasil.ebc.com.br/justica/noticia/2024-11/justica-suspende-greve-e-professores-do-rio-fazem-assembleia",
+      "https://www.agenciabrasil.ebc.com.br/justica/noticia/2024-11/sindicatos-decisao-comprova-que-reforma-trabalhista-retirou-direitos",
+      "https://www.agenciabrasil.ebc.com.br/educacao/noticia/2024-11/um-em-cada-3-professores-de-escolas-publicas-nao-tem-formacao-adequada"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-30T01:10:48.893+02:00",
+    "updated": "2024-11-30T01:10:48.893+02:00"
+  }
+]

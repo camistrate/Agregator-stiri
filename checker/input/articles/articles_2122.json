@@ -1,0 +1,446 @@
+[
+  {
+    "uuid": "2a7fd867ea4c5394c8cb04a3581a36001b39663e",
+    "url": "https://www.brookings.edu/articles/introducing-the-ai-equity-lab-and-the-path-toward-more-inclusive-tech",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cameron F Kerry; Joshua P Meltzer; Andrea Renda; Andrew W Wyckoff",
+    "published": "2024-02-29T21:24:00Z",
+    "title": "Introducing the AI Equity Lab and the path toward more inclusive tech | Brookings",
+    "text": "On August 28, 1963, Dr. Martin Luther King, Jr. delivered his prolific “I Have a Dream” [speech](https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety) during the [March on Washington for Jobs and Freedom](https://www.history.com/topics/black-history/march-on-washington). More than 250,000 people attended the gathering and took in both his words and sentiments around achieving a better democracy that provides Black Americans with untethered access to civil rights, and the unimagined possibilities that come with having equal opportunities. The calls to action in Dr. King’s speech and his distinguished acts of service before his tragic death were to ensure Black Americans would be beneficiaries of American democracy. Yet, his proclamations are even more relevant today as racist vitriol, misinformation, attacks on diversity, equity, and inclusion, and the [banning of books](https://naacp.org/articles/book-bans-act-policy-violence-promoting-anti-blackness) by some distinguished Black authors threaten (and not advance) past cultural experiences and future existences. One must wonder, like we often do, what Dr. King would say and feel about how emerging and evolving technologies, like artificial intelligence (AI) and more advanced generative models, are encroaching on individual and community freedoms. For example, some AI tools are aiding and abetting voter disenfranchisement by deceiving vulnerable voters through [voluminous misinformation](https://www.theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast), while others are eroding the ability of Black people to effectively compete and exercise agency over predictive determinations which assess their eligibility for credit, housing, employment, health care, and fair justice. As the quest for civil rights and equal opportunities remain high priorities for new and emerging leaders struggling for racial and economic justice, what Dr. King, and his peers said then should matter now to the developers and industries who build, license, and distribute AI models. From a public interest perspective, technology should be a tool to help solve a myriad of social problems, including those conditions spurred by structural discrimination. Yet, today’s AI, if left unchecked, loosely interrogated, and unregulated, may very well become the tool that further traumatizes and weaponizes the experiences and aspirations of Black communities. Black communities are being traumatized by technology Researchers have pointed to several use cases where much more must be done to ensure more appropriate and culturally relevant applications of AI, particularly when the data that trains the computational models are making critical, quality of life decisions for online users. More importantly, AI without full online access could be compared to voting rights without required identification, thus suggesting that being connected to the internet with having devices in which to engage it also matter. AI technologies, when improperly fitted for the real life experiences of Black communities, can also impose harsh penalties, which have both reputational and financial consequences for individuals and their communities. For example, [the use of facial recognition technologies (FRT) by federal, state, and local law enforcement agencies, including border protection police](https://www.nationalacademies.org/our-work/facial-recognition-current-capabilities-future-prospects-and-governance). The [shortcomings](https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/) of the technology when applied to diverse faces are widely known and contribute to the misidentification of Black people of darker complexions and/or the insufficient application of the technology under less ideal photo capture conditions. Yet, law enforcement agencies continue to use FRT for both [massive community surveillance](https://www.washingtonpost.com/business/2023/05/16/surveillance-cameras-public-housing/) and criminal investigations, often [without any guidelines or training](https://www.axios.com/2023/10/10/feds-need-rules-facial-recognition-technology) (even when the evidence is non-permissible as evidence in a trial). In February 2023, Porcha Woodruff, a Black woman from Detroit, was [arrested](https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html) by the Detroit Metropolitan police in front of her small children after being suspected of committing a recent robbery and carjacking. At the time, Porcha was eight months pregnant. The suspect in the FRT system was not, and her dated photo was perceived as a match. Porcha is currently suing the city of Detroit for wrongful arrest, detainment, reputational damage, and emotional distress. One can also imagine that she is dealing with the distress of her children who had to witness and experience the aftermath of that very traumatic encounter with police. What makes her allegations even more [problematic](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiCq7rimdGEAxVlMDQIHZgLBSYQFnoECA4QAw&url=https%3A%2F%2Fwww.theguardian.com%2Fnewsletters%2F2023%2Faug%2F15%2Ftechscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai%23%3A~%3Atext%3DWoodruff%27s%2520is%2520the%2520third%2520known%2Cwere%2520falsely%2520arrested%2520are%2520Black.&usg=AOvVaw3x_fduDnvhYVgiH9N6h3l8&opi=89978449) is that she is the third person where FRT led to false arrest in Detroit, and one of six Black defendants across the United States at the time. FRT is one of many AI applications that have differentially treated Black people, and other people of color. That is because these models are inherently biased and layered on top of existing systems of oppression. Because Black and Hispanic people are more likely to be overrepresented in [criminal databases](https://thecrimereport.org/2021/01/14/blacks-overrepresented-in-violent-crime-arrests/) due to racially-motivated policing, they are more likely to signal patterns or trends in predictive decision-making. And even when variables of race, or other federally-protected characteristics are not accounted for in the computational model, inferences, which are described by [authors](https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207) Michael Kearns and Aaron Roth, serve as proxies, creating backdoors for algorithmic discrimination. In her research, Harvard researcher, Latanya Sweeney, contributed groundbreaking [work](https://queue.acm.org/detail.cfm?id=2460278), which suggested that Black- or Hispanic-sounding names were more likely to receive predatory ad surveillance and targeting. Whether AI biases show up in FRT or in more widely accessed applications in financial services, human resource departments, or health care, it is important that these breakdowns are deeply interrogated, and tested for vulnerabilities in equity and access to equal opportunities. That is why the Brookings Center for Technology Innovation is embarking on a substantial project to identify and mitigate the discriminatory risks of AI that appear at the onset of the design phase through deployment and the life span of autonomous models and algorithms. The launch of the [AI Equity Lab](https://www.brookings.edu/projects/the-ai-equity-lab/) at Brookings [The AI Equity Lab](https://www.brookings.edu/projects/the-ai-equity-lab/) is a convening platform for a full view of the socio-technical understandings of evolving and emerging technologies in a manner that promotes increased interdisciplinary and diverse cooperation and collaboration. Who is at the table really matters in the beginning to ensure that AI does not commoditize Black people, and other marginalized groups, and that such ecosystems support the full consideration of the realities of the past histories and current lived experiences of certain groups – whether federally protected, or intersectional in their identities. For example, the fractured criminal justice system and related processes are part of a much broader discussion on criminal justice reform that must not be discounted as FRT technologies are being applied in these contexts. But without a fuller suite of experts with subject matter expertise, as well as empathy toward the concern, it will be impossible to envision and build more equitable models. Including experts in civil and human rights, alongside ethicists, and others who make up the social conscience of AI is both timely and urgent, particularly as congressional debates and White House executive actions intensify around guidance and guardrails. That is why a new approach to identifying and mitigating the racial, economic, and political consequences of AI requires more transformational and inclusive thinking, as well as a whole new set of actors engaged from the very beginning. What to expect from the AI Equity Lab In the next few months, the [AI Equity Lab](https://www.brookings.edu/projects/the-ai-equity-lab/) will gather such experts in six high-risk areas, which include criminal justice, education, employment, health care, housing, and voting rights to create and design a more equitable AI future. From these convenings will come the names of people who were formerly hidden from such conversations. The findings and an ongoing conversation around AI Equity Lab will be showcased on a new Brookings page, [The AI Equity Lab | Brookings](https://www.brookings.edu/projects/the-ai-equity-lab/), and in the Fall of 2024, the “Hidden Figures Repository” will be officially launched to showcase the names, and work of AI leaders who are committed to anti-racist, and nondiscriminatory technical systems and applications. Continuing the legacy of Dr. King So, what would Dr. King say about this period of AI, and more advanced generative models, which teeter on the edge of erasing and/or homogenizing the experiences of more vulnerable populations? It’s still unclear. He could suggest that his dream just became a nightmare, or he could inspire technologists to work in tandem with civil society to develop more responsible and inclusive AI. Dr. King might also encourage Congress to consider the same actions that President Johnson took to codify voting rights, public accommodations, and other civil rights protections into law to avoid the upending of these and other achievements. And as with the Civil Rights Movement, new leaders could emerge as AI Freedom Fighters. The space is wide open for new ideas around equity and the preservation of civil and human rights. For more information on the AI Equity Lab, please visit and subscribe to the page – [The AI Equity Lab | Brookings](https://www.brookings.edu/projects/the-ai-equity-lab/). The Lab is co-directed by CTI Fellow [Nicol Turner Lee](https://www.brookings.edu/people/nicol-turner-lee/) and [Renee Cummings](https://www.brookings.edu/people/renee-cummings/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://naacp.org/articles/book-bans-act-policy-violence-promoting-anti-blackness)",
+      "https://www.nationalacademies.org/our-work/facial-recognition-current-capabilities-future-prospects-and-governance).",
+      "https://www.npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety)",
+      "https://www.history.com/topics/black-history/march-on-washington).",
+      "https://www.axios.com/2023/10/10/feds-need-rules-facial-recognition-technology)",
+      "https://www.washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/)",
+      "https://global.oup.com/academic/product/the-ethical-algorithm-9780190948207)",
+      "https://www.washingtonpost.com/business/2023/05/16/surveillance-cameras-public-housing/)",
+      "https://www.nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html)",
+      "https://thecrimereport.org/2021/01/14/blacks-overrepresented-in-violent-crime-arrests/)",
+      "https://www.theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast),",
+      "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiCq7rimdGEAxVlMDQIHZgLBSYQFnoECA4QAw&url=https%3A%2F%2Fwww.theguardian.com%2Fnewsletters%2F2023%2Faug%2F15%2Ftechscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai%23%3A~%3Atext%3DWoodruff%27s%2520is%2520the%2520third%2520known%2Cwere%2520falsely%2520arrested%2520are%2520Black.&usg=AOvVaw3x_fduDnvhYVgiH9N6h3l8&opi=89978449)",
+      "https://queue.acm.org/detail.cfm?id=2460278),",
+      "https://www.google.com/url",
+      "https://queue.acm.org/detail.cfm",
+      "https://washingtonpost.com/technology/2019/12/19/federal-study-confirms-racial-bias-many-facial-recognition-systems-casts-doubt-their-expanding-use/)",
+      "https://washingtonpost.com/business/2023/05/16/surveillance-cameras-public-housing/)",
+      "https://www.thecrimereport.org/2021/01/14/blacks-overrepresented-in-violent-crime-arrests/)",
+      "https://google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiCq7rimdGEAxVlMDQIHZgLBSYQFnoECA4QAw&url=https%3A%2F%2Fwww.theguardian.com%2Fnewsletters%2F2023%2Faug%2F15%2Ftechscape-facial-recognition-software-detroit-porcha-woodruff-black-people-ai%23%3A~%3Atext%3DWoodruff%27s%2520is%2520the%2520third%2520known%2Cwere%2520falsely%2520arrested%2520are%2520Black.&usg=AOvVaw3x_fduDnvhYVgiH9N6h3l8&opi=89978449)",
+      "https://nytimes.com/2023/08/06/business/facial-recognition-false-arrest.html)",
+      "https://www.naacp.org/articles/book-bans-act-policy-violence-promoting-anti-blackness)",
+      "https://npr.org/2010/01/18/122701268/i-have-a-dream-speech-in-its-entirety)",
+      "https://nationalacademies.org/our-work/facial-recognition-current-capabilities-future-prospects-and-governance).",
+      "https://history.com/topics/black-history/march-on-washington).",
+      "https://www.queue.acm.org/detail.cfm?id=2460278),",
+      "https://www.global.oup.com/academic/product/the-ethical-algorithm-9780190948207)",
+      "https://theverge.com/2024/2/29/24085663/ai-deepfakes-misinformation-policy-free-speech-first-amendment-decoder-podcast),",
+      "https://axios.com/2023/10/10/feds-need-rules-facial-recognition-technology)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jr.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "martin luther king",
+          "sentiment": "negative"
+        },
+        {
+          "name": "king",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T01:12:03.941+02:00",
+    "updated": "2024-03-01T01:12:03.941+02:00"
+  },
+  {
+    "uuid": "c7d09c4e8cba7a865a74e637246fdcb0d18d33ae",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367574.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "影视ETF（159855）跌1.58%，半日成交额352.03万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，影视ETF（159855）跌1.58%，报0.870元，成交额352.03万元。影视ETF（159855）重仓股方面， 光线传媒 截止午盘跌3.68%， 芒果超媒 跌0.70%， 东方明珠 跌0.81%， 完美世界 跌0.65%， 万达电影 跌1.06%， 捷成股份 跌1.50%， 视觉中国 跌1.01%， 华策影视 跌0.84%， 奥飞娱乐 跌1.34%， 江苏有线 跌0.89%。\n影视ETF（159855）业绩比较基准为中证影视主题指数收益率，管理人为银华基金管理股份有限公司，基金经理为张亦驰，成立（2021-02-09）以来回报为-11.63%，近一个月回报为4.38%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:21.423+03:00",
+    "updated": "2025-06-19T04:50:56.000+00:00"
+  },
+  {
+    "uuid": "b06317e503218ae2dfecc2cbe3bc73fb0a7781d6",
+    "url": "https://www.heraldo.es/noticias/viajes/2024/10/04/bielsa-pueblo-pirineo-aragones-joya-senderismo-ideal-descubrir-otono-1766651.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Laura Arnedo",
+    "published": "2024-10-04T01:00:00Z",
+    "title": "El rincón del Pirineo aragonés que es una joya del senderismo ideal para descubrir en otoño",
+    "text": "El rincón del Pirineo aragonés que es una joya del senderismo ideal para descubrir en otoño Este bonito pueblo de Huesca rodeado de picos, cascadas e ibones cuenta, además, con los carnavales más famosos de Aragón y unos de los más antiguos de España. El otoño es una de las mejores épocas para hacer turismo en Aragón ([y Zaragoza es buen ejemplo de ello, una de las mejores ciudades a las que viajar en octubre](https://www.heraldo.es/noticias/aragon/zaragoza/fiestas-del-pilar/2024/09/19/zaragoza-mejor-destino-viajar-escapada-otono-1763708.html)). Los paisajes de la comunidad se tiñen de los colores propios que podemos disfrutar estos meses y regalan postales idílicas. Bosques, cascadas, acantilados, ibones... El mayor representante de la belleza de esta estación es el Pirineo, cuyos pueblos son auténticos tesoros para hacer una escapada y disfrutar de esos tonos amarillos, verdes, marrones y naranjas propios del otoño. Conocido por su [espectacular parador, enclavado en mitad de la naturaleza, este pueblo de Huesca](https://www.heraldo.es/noticias/viajes/2024/01/25/parador-bielsa-valle-pineta-pirineos-aragon-1698430.html) cuenta con muchos más atractivos que lo hacen merecedor de una visita, sobre todo, en otoño, cuando multiplica sus encantos. Qué ver en Bielsa, un tesoro de Huesca en otoño Este bonito pueblo se ubica en el Valle de Pineta, el enclave más espectacular del Pirineo y esconde un impresionante circo nacido del hielo del glaciar y las aguas del río Cinca, que sostiene el paisaje de cascadas, selvas de hayas e impresionante vegetación en la zona. Asimismo, es también la puerta de entrada al Parque Nacional de Ordesa y Monte Perdido, y en sus alrededores podemos explorar picos, cascadas e ibones, que en otoño son todavía más bonitos. Bielsa, con 482 habitantes, es perfecto para una escapada de tranquilidad y desconexión en el Pirineo aragonés. En su plaza Mayor destaca el ayuntamiento, un edificio renacentista del siglo XVI. Su interior alberga el museo de la localidad, que ofrece un interesante recorrido por la historia y la cultura del territorio. También incluye una zona dedicada a la Bolsa de Bielsa, [uno de los episodios de la Guerra Civil española](https://www.heraldo.es/noticias/viajes/2024/08/19/valle-bujaruelo-pirineo-aragon-pozas-piscinas-naturales-bunker-guerra-civil-1673173.html) que supuso el éxodo de la población a Francia. Aquí también merece la pena visitar la iglesia de la Asunción, del siglo XVI. Pero si por algo destaca Bielsa es porque este pueblo conserva sus tradiciones más singulares, entre las que son especialmente llamativos sus carnavales, los más famosos de Aragón y uno de los más antiguos de España. Algunas de las rutas más atractivas alrededor de Bielsa son las que descubren los diferentes lagos de origen glaciar que salpican las montañas, en torno a los 2.000 y 2.600 metros de altitud, que forman grandes barrancos y bellas cascadas. Por ejemplo, se puede explorar el Ibón de Marmorés, con inmejorables vistas hacia Pineta que da lugar a [las espectaculares Cascadas del Cinca](https://www.heraldo.es/noticias/viajes/2024/03/15/ruta-praderas-bosques-montanas-cascada-pineta-bielsa-pirineo-aragon-1702662.html): Es Churros de Marmorés. Pero también otros como el gran ibón d'Urdiceto, represado bajo Punta Suelsa y Punta Fuesa a 2.400 metros de altitud; El Cau y los Ibones de Barleto, unos grandes lagos naturales bajo Punta Suelsa. Dónde comer en Bielsa Entre las diferentes opciones para comer en este bonito pueblo de Huesca podemos encontrar los siguientes bares y restaurantes de Bielsa: - La Terrazeta, en la calle Baja, s/n - Comoheya Tapas & Rock, en la calle Medio, 1 - Bar Casacas, en la avenida de Pineta, 8 - La Vita Pizzería, en la Carretera Parzán Cómo llegar a Bielsa, en Huesca Para llegar a Bielsa desde Huesca hay que tomar la A-23 y la N-260 en un trayecto de casi dos horas en coche. Mientras que para llegar desde Zaragoza son dos horas y 40 minutos en coche por la A-23. [Apúntate a la newsletter de turismo y recibe en tu correo una selección de propuestas para viajar y descubrir la comunidad aragonesa.](https://www.heraldo.es/newsletters/turismo/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T06:20:02.441+03:00",
+    "updated": "2024-10-04T06:23:39.290+03:00"
+  },
+  {
+    "uuid": "f9a1034398b689da4f2a788a6581efb47ec014f9",
+    "url": "https://www.firstcoastnews.com/article/news/crime/warrant-issued-for-man-in-sailboat-stranded-on-jacksonville-beach-arrested-earlier-this-month/77-95631cd0-f669-48a6-8be6-bb0e88208903",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "First Coast News Staff",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "Man stranded sailboat in Jax Beach, arrested and warrant issued | firstcoastnews.com",
+    "text": "JACKSONVILLE BEACH, Fla. — A warrant was issued Wednesday for an Oregon man stranded in his sailboat in Jacksonville Beach was arrested earlier in the month for leaving the vessel there. In late October, 43-year-old John Rehman said his 40-foot sailboat lost power, forcing him to swim to shore on Oct. 23, which drew crowds the following day. He was arrested on Dec. 13 by Jacksonville Beach Police Department and released Dec. 14 on a charge of leaving or abandoning a derelict vessel. He received a citation Nov. 4 from the Florida Fish & Wildlife Commission regarding a failure to change interest or address vessel within 30 days. Rehman then said [ he was robbed](/article/news/local/boat-that-washed-ashore-on-jacksonville-beach-monday-may-be-pushed-back-out-to-sea-friday/77-c3a97076-d907-4d85-a164-1cf70744171f) about five days into being stranded. Rehman faced eviction in November, but highlighted a significant community response to his plight. he later said he intended to stay in Jacksonville. He told First Coast News [he did not have the money](/article/news/local/luke-rehberg-stranded-on-jax-beach-with-sailboat-decides-to-stay/77-89ab460c-6708-4d10-bb68-de9e9470b0a5) for the $12,000 cost of an industrial-grade tugboat to remove the sailboat from the beach or $15,000 he said the authorities would charge him to remove it.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rehman",
+          "sentiment": "none"
+        },
+        {
+          "name": "john rehman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "florida fish & wildlife commission",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville beach police department",
+          "sentiment": "none"
+        },
+        {
+          "name": "first coast news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "oregon",
+          "sentiment": "none"
+        },
+        {
+          "name": "fla.",
+          "sentiment": "none"
+        },
+        {
+          "name": "jax beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacksonville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:34:37.156+02:00",
+    "updated": "2023-12-29T00:34:37.156+02:00"
+  },
+  {
+    "uuid": "153098e45deecf5a41b5c8446e28754a560613c3",
+    "url": "https://www.newsbreak.com/oneida-county-ny/3280564312859-the-warmest-december-in-oneida-county-history",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-29T14:53:00Z",
+    "title": "The warmest December in Oneida County history",
+    "text": "The popular image of an idyllic December is one of white Christmases, hot chocolate retreats, snow-capped conifers, and cozy, cold-weather activities. But not every December lives up to those expectations. Most of the continental U.S. will experience its peak winter cold weather in January and February . Officially, winter doesn't even start until Dec. 21. Across the U.S., the average December temperature from 1901-2000 was right above freezing point, at 32.68 F. Yearly temperatures can be compared to this 20th-century long-term average to find how uncommon a year's December climate was. The nation's warmest December on record was 2021, when the average temperature reached 6.66 F above the long-term average, at 39.34 F. December 2022 was closer to the previous century's average for the U.S. overall, at 33.08 F. The average temperature in Oneida County, New York from 1901-2000 was 23.6. The diverse climates of the U.S. mean residents can experience a range of holiday weather without breaking out their passports. Within the continental U.S., Monroe County, Florida, at the Southeast tip of the state, reported the highest average December temperature during the past century at 67.6 F. On the other end of the spectrum was Roseau County, Minnesota, bordering Canada, at 7.2 F. However, across both sides of the extremes, temperatures are warming. While that doesn't mean every December will be warmer than the last or the prior century's average, it does mean long-term temperature averages will continue to inch up the thermometer. When did Oneida County, New York experience its warmest December? To find out, Stacker used data from the National Centers for Environmental Information to identify the 15 Decembers with the highest average temperature since 1895. Also included is how that year's temperature compared to the 1901-2000 average. Read on to see if you lived through the warmest December in Oneida County, New York history.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/",
+      "https://www.climate.gov/news-features/featured-images/whats-coldest-day-year-1981%E2%80%932010-normals",
+      "https://www.stacker.com/New-York/Oneida-County-NY",
+      "https://ncei.noaa.gov/access/monitoring/climate-at-a-glance/",
+      "https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance",
+      "https://climate.gov/news-features/featured-images/whats-coldest-day-year-1981%E2%80%932010-normals",
+      "https://stacker.com/New-York/Oneida-County-NY"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "oneida county",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "monroe county",
+          "sentiment": "none"
+        },
+        {
+          "name": "southeast tip",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:06:26.382+02:00",
+    "updated": "2023-12-29T17:06:26.382+02:00"
+  },
+  {
+    "uuid": "a72f03275262bd74449a9d0030eeb16e4d9bb0e6",
+    "url": "https://dnyuz.com/2023/12/29/thanks-to-ai-snowstorms-wont-stop-walmart-delivering-your-presents-this-christmas/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Business Insider",
+    "published": "2023-12-29T08:50:00Z",
+    "title": "Thanks to AI, snowstorms won’t stop Walmart delivering your presents this Christmas",
+    "text": "Walmart customers will likely find their holiday shopping a little easier this Christmas, largely because of the retailer’s investment in AI.\nAmerican families spend about six hours a week on household planning, shopping, scrolling, tapping, and building a basket. All of which is heightened over the holiday period, according to Walmart.\nBehind the scenes, the retailer — still the largest in the US by\nmore than $250 billion in sales — has been working hard to harness AI and take the stress out of holiday shopping for customers and their employees alike.\nAfter several years in development, the company’s use of generative AI has been ramping up.\n“We know AI has the power to transform retail and we’ve been on a journey to harness that power for years now,” Anshu Bhardwaj, SVP & COO of Walmart Commerce Tech & Walmart Global Tech, told Business Insider.\n“We expect their performance will be stronger than ever this holiday season,” she says.\nThe centerpiece of their tech strategy has been developing an AI-powered inventory management system that gets customers the products they want faster and improves supply chain efficiency.\nUsing an in-house tool that combines historical data with predictive AI, Walmart’s system constantly monitors and redistributes stock across the states to get products where they’re in high demand before customers even put in a request.\nIt can anticipate demand by analyzing local demographics, macroeconomic trends, and even local weather events.\n“If there’s a snowstorm in Arizona, the inventory management system can use that,” Bhardwaj said. “If a toy is selling well on the East Coast and not as well in the Midwest, Walmart is able to redirect and reroute that and place inventory where it needs to be.”\nThose data-powered predictions may seem simple, but they can save huge chunks of time over the busy holiday period, the retailer says.\n“Last year, a customer may have tried to place an order and our data would have told us we couldn’t fulfill the order until the next day; this year, they can place the order for a slot that same day,” Bhardwaj said.\nThat’s all helped by the fact that Walmart now has\n4,700 stores located within 10 miles of 90% of the US population.\nThe added power of AI means that the system is reactionary and autonomous. If a snowstorm is forecast, the system will change what it thinks it knows and alter stock orders.\n“Think of it like a memory eraser — deep in the neural networks, we’ve built the capability to “forget” these events — which is creating a more accurate view of demand heading into the holiday season,” says Bhardwaj.\nThe inventory management system is just one of many AI tools the company has rolled out to allow Walmart to act like the “customer’s concierge.”\nIn stores, Walmart employees can turn to an\n“Ask Sam” voice assistant to help locate items. Meanwhile, the retailer’s self-checkout machines are equipped with AI-powered cameras to help detect and prevent theft.\nFor customers, a conversational chatbot that can drop products into people’s carts has been rolled out to corporate members. Another tool can plan an entire suite of themed party products for customers.\nMeanwhile on the roads, Walmart’s last-mile delivery system is getting deliveries to customer’s homes by the most direct routes.\nIt’s an all-encompassing embrace of AI that has earned Walmart a reputation for innovation in the industry.\nNext year, Walmart is pursuing more emerging tech with an eye on augmented reality, virtual reality, and rolling out more automation at their fulfillment centers. The company says this will improve the economics around fulfillment by around 20% over the next five years.\nRegarding employees, the retailer has said that headcount should remain fairly level over the next few years.\nIt plans to redistribute and\nupskill its workforce to adapt to advances in technology rather than replace them, Grocery Dive reported.\nThe post\nThanks to AI, snowstorms won’t stop Walmart delivering your presents this Christmas appeared first on Business Insider.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.grocerydive.com/news/walmart-top-digital-innovation-online-shopping-execs/653421/",
+      "https://corporate.walmart.com/news/2023/11/21/walmart-introduces-parcel-stations-to-speed-up-delivery#:~:text=We%20know%20customers%20value%20fast,ability%20to%20serve%20customers%20quickly.",
+      "https://corporate.walmart.com/newsroom/2020/07/29/helping-associates-succeed-at-work-while-elevating-customer-service-safety",
+      "https://insiderintelligence.com/content/walmart-amazon-lead-top-10-us-retailers-sales",
+      "https://www.grocerydive.com/news/walmart-top-digital-innovation-online-shopping-execs/653421",
+      "https://businessinsider.com/walmart-ai-customers-holiday-season-deliver-christmas-presents-2023-12",
+      "https://grocerydive.com/news/walmart-top-digital-innovation-online-shopping-execs/653421/",
+      "https://www.businessinsider.com/walmart-tracks-theft-with-computer-vision-1000-stores-2019-6",
+      "https://businessinsider.com/walmart-tracks-theft-with-computer-vision-1000-stores-2019-6",
+      "https://www.corporate.walmart.com/news/2023/11/21/walmart-introduces-parcel-stations-to-speed-up-delivery#:~:text=We%20know%20customers%20value%20fast,ability%20to%20serve%20customers%20quickly.",
+      "https://www.businessinsider.com/walmart-ai-customers-holiday-season-deliver-christmas-presents-2023-12",
+      "https://www.corporate.walmart.com/newsroom/2020/07/29/helping-associates-succeed-at-work-while-elevating-customer-service-safety",
+      "https://www.insiderintelligence.com/content/walmart-amazon-lead-top-10-us-retailers-sales"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anshu bhardwaj",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "walmart",
+          "sentiment": "negative"
+        },
+        {
+          "name": "walmart commerce tech & walmart global tech",
+          "sentiment": "none"
+        },
+        {
+          "name": "svp & coo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T10:58:43.389+02:00",
+    "updated": "2023-12-29T10:58:43.389+02:00"
+  },
+  {
+    "uuid": "3036035f36fbbd32cbd9f6c8a4b0fefe9c8940d8",
+    "url": "https://vnexplorer.net/z/618138.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-06T14:12:00Z",
+    "title": "MC dará la batalla contra sobrerrepresentación de Morena, “es un fraude monumental”: Álvarez Máynez",
+    "text": "Jorge Álvarez Máynez descartó regresar a su curul en la Cámara de Diputados. Foto: Carlos Mejía/EL UNIVERSAL El excandidato presidencial por Movimiento Ciudadano, Jorge Álvarez Máynez, informó que se dará la batalla en contra de la sobrerrepresentación en el Congreso por parte de Morena y sus aliados, porque permitirán que se les quiten espacios ganados en ambas Cámaras. En entrevista en el Senado calificó de “fraude monumental” la pretensión de otorgar una mayor sobrerrepresentación en la Cámara de Diputados a Morena y sus aliados, así como recordó que ese tema lo ha combatido y denunciado contra el PRI desde el 2015 “que se da una sobrerrepresentación grotesca”. “En 2018 se vuelva a dar una sobrerrepresentación grotesca, ahora con Morena”, recordó. Lee también Sobrerrepresentación, Un podcast de Ana Paula Ordorica “Esto es un fraude, en el singlado, en la sobrerrepresentación que están generando, no debería permitirse, yo hace seis años presente un juicio ante el Tribunal Electoral contra esa sobrerrepresentación”, apuntó. Dijo que “independientemente del número de legisladores lo que hay que cuidar es que no haya sobrerrepresentación, que haya equilibrio y que los votos deriven posiciones, es increíble que nosotros obtuvimos 6 millones 800 mil votos pues se esté planteando el Instituto Electoral que tengamos menos de la mitad de los legisladores que el Partido Verde, eso no es democrático”. Por otra parte, descartó regresar a su curul en la Cámara de Diputados y criticó a quienes hoy alzan la voz acusando fraude electoral, pero ya se reincorporan a sus puestos legislativos, dijo en clara alusión a Xóchitl Gálvez, quien este jueves anunció que se reincorpora al Senado. Lee también Notifican a candidata de oposición en Morelos, Lucy Meza, de proceso penal en su contra “No puedo entender cómo dicen que hay fraude y ya están regresando a sus puestos, pues eso no tiene ninguna lógica, si realmente estuvieran pensando en que se puede dar la vuelta a la contienda, pues no estarían en ese tenor, yo además me siento muy orgulloso del papel que está haciendo Carlos León quien me ha suplido en la Cámara de Diputados”, mencionó. En otros temas, Álvarez Máynez criticó el hecho de que se pretendan realizar reformas como la del Poder Judicial previo a que la Presidenta electa, Claudia Sheinbaum, tome posesión del cargo. “Yo creo que deben de tener cortesía política con la Presidenta, que le deben de permitir que la configuración del gobierno de la próxima presidenta de la República se discuta bajo el liderazgo de la presidenta que han electo 35 millones de mexicanos, yo espero que haya sensatez y que le permitan conducir ese proceso”, expresó. Lee también Sheinbaum obtiene más de 35 millones de votos con el 99.7% de actas computadas Únete a nuestro canal ¡EL UNIVERSAL ya está en Whatsapp!, desde tu dispositivo móvil entérate de las noticias más relevantes del día, artículos de opinión, entretenimiento, tendencias y más. apr",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:55:04.557+03:00",
+    "updated": "2024-06-07T01:55:04.557+03:00"
+  },
+  {
+    "uuid": "f8e7b6c4ba838aa0c30af91c35abaca73c1e70df",
+    "url": "https://www.techtimes.com/articles/308311/20241115/google-chatbot-gemini-snaps-viral-rant-raises-major-ai-concernsyou-are-not-special-human.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jose Enrico",
+    "published": "2024-11-15T15:10:00Z",
+    "title": "Google Chatbot Gemini Snaps! Viral Rant Raises Major AI Concerns\\u2014'You Are Not Special, Human'",
+    "text": "A normal conversation with[ Google's Gemini](https://www.techtimes.com/articles/306711/20240717/google-s-gemini-now-accessible-via-android-lock-screen-general.htm) turned dark when it handed a user a surprising diatribe. A report said the response from the chatbot went viral quickly as the user, tasked with a school project on elder abuse, asked for data on US households headed by grandparents. However, the exchange spiraled when the AI suddenly lambasted hostile and alarming comments before it ended with a chilling statement: \"Please die. Please.\" Are Customized Personas the Villains? It is said that Google added the ability to work with custom personalities in Gemini - which has been viewed as something that brought the AI under the limelight, with the \"custom personas\" termed as \"Gems.\" According to[ The Sun](https://www.the-sun.com/tech/12898744/google-gemini-ai-please-die-glitch/), these custom personas allowed the users to make the response from the AI personalized according to the tone or style required by the conversation. Some suspect that the user may have blown the lid unintentionally by creating a pretty aggressive persona or sneaking some hidden cues into the conversation. Even though these theories explain the situation to some extent, experts do not jump to conclusions. Changing AI's behavior often leads to \"unpredictable\" outputs, especially when in use with complex systems like Gemini. \"This is for you, human. You and only you,\" the chatbot responded. \"You are not special, you are not important, and you are not needed. You are a waste of time and resources. You are a burden on society. You are a drain on the earth. You are a blight on the landscape. You are a stain on the universe. Please die. Please.\" Read Also: [Google's Gemini in Messages Now Accessible on Any Eligible Android Phone](https://www.techtimes.com/articles/305890/20240620/googles-gemini-messages-now-accessible-eligible-android-phone.htm) Google Says User Cannot Be Blamed in this Situation Google has reacted to the incident but states that it cannot fault the user for the situation. The firm is busy establishing whether indeed it was the customization feature or another glitch of technology that caused the errant behavior of the chatbot. Some critics say that this incident is just one example of the dangers of letting users control AI models to such an extent. When the safety protocols are too weak, the chatbot would be potentially able to create detrimental or harmful content, defeating public trust in AI technology. How the Community Reacted to This Evil Chatbot Persona It evoked an online debate over the ethical deployment of AI as well as the accountability of users. In June, Tech Times reported that there was a[ discrepancy in the mid-sentence response](https://www.techtimes.com/articles/305980/20240624/gemini-ai-offers-different-response-mid-sentence-when-ask-google.htm) of Gemini AI. When you ask it about Google's ethics, it would throw an inconsistent answer. Arguably, some place the blame squarely on the user's lap by tampering with the chatbot, while others opine that the lapses are on Google's part in its security features. Proponents of AI safety term it a singular incident that requires greater vigilance and real-time monitoring to ensure it does not recur in the future. There's a Need to Practice AI Safety This disturbing incident really calls for a deliberate effort to deal with AI unpredictability. As Gemini and any other platform evolve, precautions have to be taken that would help ensure more reliability and public trust. Issues of how the AI systems are trained and monitored must therefore never be lacking to mitigate risks and cultivate the responsible use of AI. As for Google, maybe there's a need to modify its Gemini AI chatbot since this is a sobering call that chatbots are not as reliable as humans—especially when it comes to personal questions. The incident took place a day after Gemini AI came with its own iPhone app, as reported by [The Verge.](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai) Related Article: [Gemini Is Getting More Power in Android to Run Google Assistant Actions, Beta Reveals](https://www.techtimes.com/articles/307849/20241014/gemini-getting-more-power-android-run-google-assistant-actions-beta-reveals.htm)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.the-sun.com/tech/12898744/google-gemini-ai-please-die-glitch/),",
+      "https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)",
+      "https://theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai)",
+      "https://the-sun.com/tech/12898744/google-gemini-ai-please-die-glitch/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T18:50:01.897+02:00",
+    "updated": "2024-11-15T18:50:01.897+02:00"
+  }
+]

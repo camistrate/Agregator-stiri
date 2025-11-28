@@ -1,0 +1,412 @@
+[
+  {
+    "uuid": "484a950c6b4b671b4392ce69053de0b99e4da534",
+    "url": "https://www.mdjonline.com/fieldlevel/spirit-sign-d-tara-mckeown-to-4-year-contract/article_6ab60345-dcf4-5bc2-8849-6f25b25d5821.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Field Level Media",
+    "published": "2024-09-19T00:00:00Z",
+    "title": "Spirit sign D Tara McKeown to 4-year contract | Fieldlevel | mdjonline.com",
+    "text": "The Washington Spirit signed defender Tara McKeown to a new four-year contract Thursday.\nMcKeown's contract take effect immediately and now runs through the end of the 2027 season and includes a fifth-year option for 2028. Financial terms of the deal were not disclosed.\n\"I'm so happy and grateful to be extending my time with the Spirit,\" McKeown said in a news release. \"DC has become my second home and I'm looking forward to the future with this coaching staff and my teammates.\"\nMcKeown, 25, has tallied five goals and six assists in 73 matches (63 starts) over four seasons with Washington, which drafted her eighth overall out of Southern California in 2021. She spent her first two seasons with the team as a forward before moving to defender in 2023.\n\"Tara quickly became an important part of our back line last year and has grown into one of the best center backs in the league,\" team president Mark Krikorian said.. \"Keeping her with the club is an important step as we look to compete for championships.\"\nMcKeown has played every minute of all 20 of the Spirit's matches this season.\nWashington (14-4-2, 44 points) is in second place and trails the league-leading Orlando Pride by four points with six matches remaining in the regular season.\n--Field Level Media",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tara McKeown",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Mark Krikorian",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tara",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Southern",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:31:21.385+03:00",
+    "updated": "2024-09-20T04:12:14.676+03:00"
+  },
+  {
+    "uuid": "80eddb05e5bcf3f277fe4b4c8b351c334ad58ea9",
+    "url": "https://ubuntuhandbook.org/index.php/2023/11/install-dotnet-8-ubuntu-22-04/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ji m",
+    "published": "2024-01-05T05:00:00Z",
+    "title": "How to Install .NET 8 in Ubuntu 22.04 LTS | UbuntuHandbook",
+    "text": "Microsoft announced .NET 8 a few days ago. Here’s a step by step guide shows how to install it in Ubuntu 22.04 LTS. .NET 8 is a new LTS release with 3 years support. It features new code generator “Dynamic Profile-Guided Optimization” (PGO), AVX-512 instruction set, out-of-the-box AI features, first preview of .NET Aspire, native AoT, and various other changes. See the [release note](https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/) for details. How to Install .NET 8 SDK/Run-time in Ubuntu 22.04 Ubuntu has included the new release package into system repository for Ubuntu 23.10. Don’t know if it will be backported to Ubuntu 22.04 LTS repository, but here you can install it through Microsoft’s official apt repository. 1. install the key To add the Microsoft repository, you have to first download & install the key file. To do so, press Ctrl+Alt+T on keyboard to open terminal. When terminal opens, run single command: sudo wget -O - https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor | sudo tee /etc/apt/keyrings/microsoft.gpg This command will download the key, dearmor it (so it’s unreadable code, see the screenshot), and save to ‘/etc/apt/keyrings’ directory. 2. Add the Microsoft repository Next, in terminal window, run command to create & edit the sources file: sudo gedit /etc/apt/sources.list.d/microsoft.sources Depends on your desktop environment, replace gedit with mousepad for XFCE, pluma for MATE, or nano that works in most cases. When the file opens, add following lines and save it. Types: deb URIs: https://packages.microsoft.com/ubuntu/22.04/prod/ Suites: jammy Components: main Architectures: amd64 Signed-By: /etc/apt/keyrings/microsoft.gpg For Ubuntu 20.04, replace 22.04 with 20.04, and jammy with focal. 3. Install .NET 8 Finally, update system package cache by running command: sudo apt update And, install .NET 8 SDK, runtime: sudo apt install dotnet-sdk-8.0 I’m not .NET developer, but you can try dotnet --version after installation to verify. Uninstall .NET 8 To remove .NET 8, open terminal (Ctrl+Alt+T) and run command: sudo apt remove --autoremove aspnetcore-runtime-8.0 dotnet-sdk-8.0 dotnet-runtime-8.0 And, remove the Microsoft repository by running the 2 commands below to delete sources and key files: sudo rm /etc/apt/keyrings/microsoft.gpg sudo rm /etc/apt/sources.list.d/microsoft.sources Finally, run sudo apt update to refresh cache.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://packages.microsoft.com/ubuntu/22.04/prod/",
+      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-8/)",
+      "https://packages.microsoft.com/keys/microsoft.asc",
+      "https://packages.microsoft.com/ubuntu/22.04/prod",
+      "https://www.packages.microsoft.com/keys/microsoft.asc",
+      "https://www.devblogs.microsoft.com/dotnet/announcing-dotnet-8/)",
+      "https://www.packages.microsoft.com/ubuntu/22.04/prod/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ubuntuhandbook microsoft",
+          "sentiment": "negative"
+        },
+        {
+          "name": "avx",
+          "sentiment": "none"
+        },
+        {
+          "name": "microsoft",
+          "sentiment": "none"
+        },
+        {
+          "name": "sdk",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ubuntu 22.04 ubuntu",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T03:55:19.075+02:00",
+    "updated": "2024-01-06T03:55:19.075+02:00"
+  },
+  {
+    "uuid": "3983966df1ffaf7d7b5c408c57d6e8292f288f14",
+    "url": "https://elcomercio.pe/respuestas/farandula/belen-estevez-sorprende-en-el-el-gran-chef-con-emotivo-mensaje-por-navidad-es-dificil-estar-sola-tdpe-noticia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción EC",
+    "published": "2024-12-26T21:57:00Z",
+    "title": "Belén Estévez sorprende en el 'El Gran Chef' con emotivo mensaje por Navidad: \"Es difícil estar sola\"",
+    "text": "Saber más\nLa bailarina argentina Belén Estévez conmovió a todos los televidentes durante el especial navideño de ‘El Gran Chef Famosos’. Con lágrimas en los ojos, la artista expresó la difícil situación de pasar estas fiestas lejos de su familia, dejando un mensaje de esperanza y compañía para quienes se encuentran en una situación similar. A continuación, te contamos qué dijo.\n¿CUÁL FUE EL EMOTIVO MENSAJE QUE COMPARTIÓ BELÉN ESTÉVEZ POR NAVIDAD?\nDurante el intercambio de regalos navideño que realizó el reality ‘El Gran Chef Famosos’, la bailarina argentina no pudo contener las lágrimas al compartir con sus compañeros lo difícil que es estar lejos de su familia en estas fechas tan conmemorativas.\n“Son fechas muy especiales para mí, es muy difícil estar separada de tu familia (...) Es difícil estar solo. Yo sé que Dios siempre está, pero mamá y papá son mamá y papá. Navidad es importante para mi mamá, y es difícil estar lejos”, expresó con nostalgia.\nCon el corazón lleno de empatía, Belén Estévez quiso enviar un mensaje de aliento a todas las personas que, como ella, están pasando una Navidad lejos de sus familias. La artista resaltó la importancia de programas como ‘El Gran Chef Famosos’ para hacer sentir menos sola a la gente en estas fechas.\n“Yo sé que hay mucha gente sola en este momento, quizá por trabajo o porque formaron otra familia, pero este programa está para acompañarlos esta noche, para tratar de alegrarlos”, declaró.\nBelén finalizó su mensaje asegurando que, aunque esté lejos físicamente, siempre tratará de mantener vivo el espíritu navideño y el lazo afectivo con su familia.\nEl conmovedor relato de Belén Estévez provocó una ola de emociones entre sus compañeros. Leslie Stewart, Zelma Gálvez, José Peláez y otros miembros del programa se mostraron visiblemente conmovidos, derramando lágrimas al escucharla hablar sobre su nostalgia, según recoge el diario La República.\n¿QUIÉN SON LOS 12 FAMOSOS QUE FORMAN PARTE DE LA UNDÉCIMA TEMPORADA DE “EL GRAN CHEF FAMOSOS”?\nLa undécima temporada de “El Gran Chef Famosos”, denominada como ‘La Súper Revancha’, empezó con la participación de 12 famosos que ya participaron en ediciones anteriores.\nSe trata de Diana Sánchez, Jota Benz, Belén Estévez, Emilram Cossio, Zelma Gálvez, Luigi Carbajal, Lita Pezo, Ricky Trevitazzo, Rocky Belmonte, Joaquín Escobar, Leslie Stewart y Canchita Centeno, quienes volvieron al programa para darse otra oportunidad de intentar ganar la Olla de Oro.\nSin embargo, con el pasar de las semanas, hay competidores que ya se han despedido del programa. Los eliminados hasta el momento son Zelma Gálvez, Joaquín Escobar y Rocky Belmonte.\n¿CUÁNDO Y DÓNDE VER “EL GRAN CHEF FAMOSOS”?\nEl exitoso reality de cocina se transmite de lunes a viernes a las 7:25 de la noche por Latina TV y sus plataformas digitales. Mientras tanto, durante el fin de semana, el show gastronómico se emite todos los sábados a las 9 de la noche.\nSi no pudiste ver el programa en directo, no te preocupes. Puedes disfrutar de la emisión completa en cualquier momento a través de la plataforma de YouTube.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->festive event (culture)",
+      "Arts, Culture and Entertainment->dance",
+      "Arts, Culture and Entertainment->culture",
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Belén Estévez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:46:40.544+02:00",
+    "updated": "2024-12-27T00:46:40.544+02:00"
+  },
+  {
+    "uuid": "48ced09c4fb623082d4cbfabfdba1a79dbb22161",
+    "url": "https://elcomercio.pe/lima/surco-rescatan-a-trabajador-de-28-anos-que-quedo-atrapado-en-construccion-bomberos-municipalidad-de-surco-ultimas-noticia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción EC",
+    "published": "2024-06-20T22:22:00Z",
+    "title": "Surco: rescatan a trabajador de 28 años que quedó atrapado en construcción | VIDEO",
+    "text": "[1](/deporte-total/argentina/argentina-vs-canada-en-vivo-con-lionel-messi-hoy-por-copa-america-via-tyc-sports-telefe-directv-horarios-canales-y-donde-mirar-partido-gratis-video-ar-noticia/) [Saber más](https://elcomercio.pe/buenas-practicas/) / NoticiasInformación basada en hechos y verificada de primera mano por el reportero, o reportada y verificada por fuentes expertas. | Informativo Buenas noticias. Luego de cuatro horas de intenso trabajo, los bomberos lograron rescatar al obrero de 28 años que quedó atrapado en el pozo de una construcción en [Surco](https://elcomercio.pe/noticias/surco/?ref=ecr/). Afortunadamente, el hombre se encuentra estable y ya ha sido trasladado a un centro de salud para que reciba la atención correspondiente. La emergencia ocurrió en horas de la mañana de este jueves en la urbanización Chacarilla del Estanque. Félix Sosa estaba trabajando dentro de un pozo de 3 metros y medio de profundidad cuando los montículos de arena que estaban acumulados en los alrededores del hoyo, al parecer, se regresaron al hueco, lo que hizo que gran parte de su cuerpo quede cubierto. PUEDES VER: [Trata, sicariato y extorsión: la oscura red de Los Gallegos y sus S/15 millones en un año] De inmediato, personal especializado se acercó a la construcción para rescatar al obrero. Los trabajos de remoción duraron varias horas debido a que la arena debía retirarse cuidadosamente. La Superintendencia Nacional de Fiscalización Laboral (Sunafil) también se apersonó y, tras la inspección correspondiente, le colocaron una multa a la empresa constructora por no respetar las normas de seguridad. Al respecto, se conoció que la Municipalidad de Surco también paralizó la construcción por falta de medidas de seguridad, ya que esto ponía en riesgo al resto de trabajadores. La víctima está estable, consciente y se espera su pronta recuperación. Mientras tanto, continuará en observación. Contenido GEC",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-21T02:08:17.832+03:00",
+    "updated": "2024-06-21T08:23:45.603+03:00"
+  },
+  {
+    "uuid": "4ac8fcbe1496d586d7fbc846a16f7f0d8b0cd855",
+    "url": "https://abcnews.go.com/US/details-emerge-texas-head-crash-killed-6-members/story?id=105963643",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill Hutchinson",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Details emerge in Texas head-on crash that killed 6 members of same family - ABC News",
+    "text": "A 17-year-old driver of a pickup truck collided with the family's van. Six members of the same family, including two children, were killed in Texas when a 17-year-old pickup truck driver slammed head-on into their minivan while allegedly in the wrong lane of the two-lane highway, authorities said. Relatives of the deceased said they were returning from a post-Christmas outing to a wildlife safari park when the fatal accident occurred on U.S. 67, about 50 miles southwest of Fort Worth. The Texas Department of Public Safety (DPS) released details of the two-vehicle collision on Wednesday, saying its preliminary investigation revealed that the teenage driver of a Silverado pickup was heading south when the truck swerved into the northbound lane and slammed into the family's minivan. The DPS said the area where the crash occurred is in a \"no passing\" zone. Killed in the Tuesday evening crash, according to a statement from the Texas Department of Public Safety, were 28-year-old Rushil Barri; 9-year-old Nishidha Potabathula; 10-year-old Krithik Potabathula; 36-year-old Naveena Potabathula; 60-year-old Sitamahalakshmi Ponnada; and 64-year-old Nageswararao Ponnada. The DPS said that only two of the six family members killed were wearing seatbelts at the time of the collision. One person in the family's minivan, 43-year-old Lokesh Potabathula, who was not wearing a seatbelt, survived the crash and was taken to a hospital in critical condition, according to the DPS. The driver of the pickup truck that collided with the family and his 17-year-old passenger were also taken to a hospital in critical condition, the DPS said. The crash investigation is ongoing and it remained unclear on Thursday if any charges will be filed. Rushil Barri's brother, Rakesh Barri, told ABC affiliate station WFAA that his relatives had spent the day at the Fossil Rim Wildlife Safari Park in Glenn Rose, Texas, and were returning to Rakesh Barri's home in Irving, Texas when the crash occurred. Rakesh Barri said his cousin, Lokesh Potabathula, of Georgia, was visiting his brother along with his wife, his 9-year-old son and 10-year-old daughter, who were killed in the crash. He said Sitamahalakshmi and Nageswararao Ponnada were Lokesh Potabathula's in-laws who were visiting from India. \"It's so hard to take,\" Rakesh Barri told WFAA, describing his brother as \"my half.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.wfaa.com/article/traffic/loved-ones-mourn-loss-six-family-members-who-died-johnson-county-crash-while-seventh-family-member-is-still-fighting-for-life/287-7c7f886d-2769-4b99-978a-577b57d46349",
+      "https://www.wfaa.com/article/news/local/five-killed-johnson-county-crash/287-8b62a11e-69d5-48de-aca2-e2c579cbff97",
+      "https://wfaa.com/article/traffic/loved-ones-mourn-loss-six-family-members-who-died-johnson-county-crash-while-seventh-family-member-is-still-fighting-for-life/287-7c7f886d-2769-4b99-978a-577b57d46349",
+      "https://wfaa.com/article/news/local/five-killed-johnson-county-crash/287-8b62a11e-69d5-48de-aca2-e2c579cbff97"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "abc news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "silverado",
+          "sentiment": "none"
+        },
+        {
+          "name": "dps",
+          "sentiment": "none"
+        },
+        {
+          "name": "texas department of public safety",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "naveena potabathula",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "nishidha potabathula",
+          "sentiment": "none"
+        },
+        {
+          "name": "fort worth",
+          "sentiment": "none"
+        },
+        {
+          "name": "krithik potabathula",
+          "sentiment": "none"
+        },
+        {
+          "name": "rushil barri",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:05.356+02:00",
+    "updated": "2023-12-29T00:01:05.356+02:00"
+  },
+  {
+    "uuid": "e5b6e48e896f2186ea83f23af70deddecbba411c",
+    "url": "https://imemc.org/article/israeli-army-shoots-two-palestinians-abducts-nine-near-nablus-and-jericho/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ali Salam",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Israeli Army Shoots Two Palestinians, Abducts Nine, Near Nablus and Jericho | - IMEMC News",
+    "text": "On Thursday, occupation forces shot a child in Nablus, abducted six young men in Rujeib village, southeast of the city, in the northern West Bank, in addition to shooting a young man and abducting three in the Ein Al-Sultan refugee camp, northwest of Jericho in the Jordan Valley. In the predawn hours of Thursday, a large army force invaded the northern West Bank city of Nablus, storming and ransacking many homes, which sparked protests, and armed exchange between resistance fighters and the attacking army. Soldiers responded by firing live rounds, shooting a 17-year-old child with live ammunition. According to medical sources with the Palestinian Red Crescent Society said that the child was shot in the abdomen and was transported to hospital. It was added that the army broke into several money exchange shops, confiscated their contents and abducted their owners, the identities of whom were not revealed. In related news, the army invaded the village of Rujeib, southeast of Nablus, at dawn Thursday, and abducted six citizens. Soldiers stormed and ransacked several citizens’ homes, including the homes of Muhammad Radi Rawajba, Alaa Badie Shuraim, Issam Ghassan Abu Al-Adas, Faraj Akram Rawajba, Karim Saif Rawajba, and Yazan Jumaa Buhi, before abducting them. It was reported that occupation forces detained four other young men and subjected them to interrogation before releasing them. In the Jordan Valley, before dawn Thursday, Israeli troops, accompanied by a bulldozer, stormed the Ein Al-Sultan refugee camp, northwest of Jericho. Several military vehicles roamed the streets, while soldiers broke into and ransacked many citizens’ homes, triggering protests, while armed resistance fighters exchanged fire with the army. Soldiers opened fire with live ammunition at those who resisted the incursion, shooting a young man in the foot, and then obstructed ambulances from reaching him. Soldiers invaded and ransacked the homes of the doctor, Salem Muhammad Abu Kharbeesh, 40, Mahmoud Khaled Al-Ramouni, and Ahmed Al-Sarfandi, before abducting them.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "israeli army",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ein al",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestinian red crescent society",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nablus",
+          "sentiment": "none"
+        },
+        {
+          "name": "jericho",
+          "sentiment": "none"
+        },
+        {
+          "name": "rujeib",
+          "sentiment": "none"
+        },
+        {
+          "name": "west bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "jordan valley",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:06:24.752+02:00",
+    "updated": "2023-12-29T00:06:24.752+02:00"
+  },
+  {
+    "uuid": "4de7e92d520134c8197b0a0698e134ba058cf20b",
+    "url": "https://www.brasil247.com/mundo/funcionarios-da-fabrica-da-boeing-nos-eua-entram-em-greve-apos-96-votarem-pelo-movimento",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redação Brasil 247",
+    "published": "2024-09-13T06:54:00Z",
+    "title": "Funcionários da fábrica da Boeing nos EUA entram em greve após 96% votarem pelo movimento | Brasil 247",
+    "text": "[HOME](/)> [Mundo](/mundo) Funcionários da fábrica da Boeing nos EUA entram em greve após 96% votarem pelo movimento A paralisação, se prolongada, poderá impactar não apenas as finanças da Boeing, mas também as operações de companhias aéreas que dependem da fabricante ✅ Receba as notícias do Brasil 247 e da TV 247 no [canal do Brasil 247](https://whatsapp.com/channel/0029Va5CrrPD38COKOxDbM1M) e na [comunidade 247](https://chat.whatsapp.com/LnWE97DQIKF4fpwivt0f3h) no WhatsApp. Reuters – Funcionários das fábricas da Boeing na Costa Oeste dos Estados Unidos, mais precisamente nas áreas de Seattle e Portland, iniciaram uma greve na última sexta-feira, após 96% dos votos favoráveis ao movimento. A paralisação, a primeira desde 2008, ocorre em um momento delicado para a fabricante de aviões, que já enfrenta atrasos na produção e acúmulo de dívidas. A greve representa um desafio para o novo CEO, Kelly Ortberg, que assumiu o cargo em agosto com a missão de restaurar a confiança na empresa após incidentes recentes, como a perda de um painel da porta de um jato 737 MAX em pleno voo em janeiro. Os detalhes foram reportados pela Reuters em 13 de setembro. Cerca de 30.000 membros da Associação Internacional de Maquinistas e Trabalhadores Aeroespaciais (IAM), responsáveis pela produção dos jatos 737 MAX e outros modelos, rejeitaram a proposta de contrato que estava em negociação há 16 anos. As negociações, lideradas por Jon Holden, chefe do sindicato, culminaram na rejeição do acordo e na decisão pela greve. \"Isso é sobre respeito, é sobre resolver questões passadas e é sobre lutar pelo nosso futuro\", afirmou Holden antes de anunciar o resultado da votação na quinta-feira à noite. A Boeing, em declaração na quinta-feira, reconheceu que a rejeição ao acordo provisório indica a insatisfação dos membros do sindicato. A empresa expressou seu compromisso em retomar as negociações para alcançar um novo acordo, incluindo um aumento salarial geral de 25%, um bônus de assinatura de $3.000 e a promessa de construir o próximo jato comercial na área de Seattle, caso o programa seja lançado nos próximos quatro anos. Apesar da liderança da IAM recomendar a aceitação do contrato no domingo anterior à greve, muitos trabalhadores expressaram descontentamento, demandando um aumento salarial original de 40% e lamentando a perda de um bônus anual. \"Vamos retornar à mesa de negociações o mais rápido possível\", disse Holden, sem especificar a duração esperada da greve ou quando as negociações poderiam ser retomadas. A paralisação, se prolongada, poderá impactar não apenas as finanças da Boeing, mas também as operações de companhias aéreas que dependem dos jatos da fabricante e fornecedores que produzem peças e componentes para os aviões. A última greve da Boeing, em 2008, interrompeu as operações das fábricas por 52 dias e impactou a receita em aproximadamente $100 milhões por dia. A S&P Global Ratings advertiu que uma greve prolongada poderia atrasar a recuperação da Boeing e afetar sua classificação de crédito, atualmente apenas um nível acima do status de 'junk' (lixo). [iBest: 247 é o melhor canal de política do Brasil no voto popular](https://www.brasil247.com/midia/brasil-247-vence-o-premio-ibest-como-melhor-canal-de-politica-do-brasil-no-voto-popular) [Assine o 247](https://www.brasil247.com/apoio), [ apoie por Pix](https://docs.google.com/forms/d/e/1FAIpQLSfJOi0sp8RTiS91kHjo4uzLo97gMTG2ieIk-OOsdv7cvCgFnw/viewform), [ inscreva-se na TV 247](https://www.youtube.com/brasil247), no canal [Cortes 247](https://www.youtube.com/channel/UC_M1ek8fhnDkz5C2zfkTxpg) e assista:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://whatsapp.com/channel/0029Va5CrrPD38COKOxDbM1M)",
+      "https://docs.google.com/forms/d/e/1FAIpQLSfJOi0sp8RTiS91kHjo4uzLo97gMTG2ieIk-OOsdv7cvCgFnw/viewform),",
+      "https://chat.whatsapp.com/LnWE97DQIKF4fpwivt0f3h)",
+      "https://www.youtube.com/channel/UC_M1ek8fhnDkz5C2zfkTxpg)",
+      "https://www.youtube.com/brasil247),",
+      "https://youtube.com/brasil247),",
+      "https://www.docs.google.com/forms/d/e/1FAIpQLSfJOi0sp8RTiS91kHjo4uzLo97gMTG2ieIk-OOsdv7cvCgFnw/viewform),",
+      "https://youtube.com/channel/UC_M1ek8fhnDkz5C2zfkTxpg)",
+      "https://www.chat.whatsapp.com/LnWE97DQIKF4fpwivt0f3h)",
+      "https://www.whatsapp.com/channel/0029Va5CrrPD38COKOxDbM1M)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-13T11:57:18.629+03:00",
+    "updated": "2024-09-13T11:57:18.629+03:00"
+  },
+  {
+    "uuid": "4a11f41cf9365c8a3094fe27ede8692a139eea05",
+    "url": "https://la100.cienradios.com/espectaculos/luis-ventura-revelo-cual-es-el-preocupante-futuro-que-le-espera-a-morena-por-culpa-de-jorge-rial-no-esta-bien",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Martina Biglieri",
+    "published": "2024-01-25T22:03:00Z",
+    "title": "Luis Ventura reveló cuál es el preocupante futuro que le espera a Morena por culpa de Jorge Rial: “No está bien” | La 100",
+    "text": "Hace unos días salió a la luz la noticia de que Morena Rial, la hija del famoso conductor Jorge Rial, está atravesando una situación económica complicada. Según se reveló, la influencer no cuenta con una vivienda estable para vivir junto a su hijo Franceso de 4 años, [ ni tampoco recibe apoyo económico de ninguno de sus familiares](https://la100.cienradios.com/espectaculos/la-escalofriante-frase-de-morena-rial-que-alerto-a-luis-ventura-tema-de-vida-o-muerte/). El altísimo sueldo en dólares que exige Morena Rial por un trabajo de 8 horas: “Un nivel de vida distinto” Frente a esta situación, Luis Ventura no dudo en salir a expresarse y apuntar contra su ex compañero Jorge Rial. En el programa Socios del Espectáculo, el periodista manifestó: “hablo con frecuencia con ella, no está bien, no pasa por el mejor momento. Hay cosas que a mí me dan bronca, las ausencias, la falta de cariño”, comentó y agregó “después denuncian que yo estoy especulando y aprovechándome de una situación psiquiátrica”. Tras ese fuerte discurso, Ventura remarcó su preocupación por la joven de 25 años: “en realidad están enmascarando y quieren desviar la atención de lo que realmente está pasando, que todo el mundo lo sabe, y lo vengo diciendo hace meses” expresó y sumó: “si llevás a esa persona a la desesperación, a la necesidad extrema, creo que la estás empujando a un destino definitivamente oscuro”. Ventura le había ofrecido trabajo a Morena Rial Lo cierto es que a finales del 2023, Luis Ventura [le había ofrecido un trabajo a Morena Rial ](https://la100.cienradios.com/espectaculos/morena-rial-quedo-en-la-calle-con-su-hijo-y-lanzo-una-dura-denuncia-que-golpeo-a-jorge-es-intolerable/)como fotógrafa en una revista. “Ella quería hacer cosas de fotografía y le ofrecí que vaya de fotógrafa a la revista Paparazzi”, reveló. El dato clave que reveló Morena Rial sobre la denuncia contra su mamá Silvia D’Auro: “Voy sola” “Después le ofrecí el departamente de fotografía de diario Crónica donde estaba Carlos, mi hermano más chico, le dije que él la iba a formar” siguió explayando el periodista. Comentó que Morena había aceptado la oferta y arrancó en ese puesto, pero que “después finalmente no quiso. No sé si no quiso o no la dejaron”, finalizó Ventura.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:11:11.674+02:00",
+    "updated": "2024-01-26T00:11:11.674+02:00"
+  }
+]

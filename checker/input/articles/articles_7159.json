@@ -1,0 +1,420 @@
+[
+  {
+    "uuid": "eb0e845e431c0bfc1e6723392e7af4b383749ef5",
+    "url": "https://www.fox5dc.com/news/violent-crime-trends-down-in-the-district-us-attorney-disputes-claims-his-office-isnt-prosecuting-enough",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX 5 DC",
+    "published": "2024-03-14T18:17:00Z",
+    "title": "Violent crime trends down in the District; US Attorney disputes claims his office isn't prosecuting enough",
+    "text": "Three months into 2024, data shows violent crime is trending downward in the District. Homicides, assaults, and carjackings have all seen a decline from historically high numbers in 2023.But new data released from the D.C. U.S. Attorney&apos;s Office on Thursday shows the prosecution rate remains largely unchanged – about 55 percent for all crimes, including misdemeanors and felonies.That breaks down to roughly 6 in 10 people being charged on the day of arrest.However, U.S. Attorney Matthew Graves said he wants the focus to be on violent crime decreasing, rather than that prosecution rate.He also emphasized that the prosecution rate for serious violent crimes is 9 in 10 people charged at the time of arrest.\"There are nearly 2,000 people sitting in D.C. jail right now who will be a firsthand testament that D.C. is not light on crime,\" Graves said. \"We charged a record number of people with homicide last year. We dramatically increased our federal prosecutions. We hope people don&apos;t have to experience that to know that D.C. is not light on crime.\"Some of the reasons Graves gave for not prosecuting are that in half the cases, the victim does not move forward.In other instances, there are concerns about the constitutionality of the arrest or a lack of evidence to prove the case beyond a reasonable doubt.With regard to violent crime trending downward - January saw nine homicides. READ MORE: Mayor Bowser signs Secure DC crime bill into law The last time the District saw that low a number was April 2019, Graves said.Last year, 8,000 criminal cases were filed either in local or federal court.Graves said, on the local side, they weren&apos;t seeing the results they wanted in terms of holding offenders accountable.He said the recent passage of Secure D.C. will help with that in the future.\"&apos;This year is off to a historically good start in terms of violent crime, but we&apos;re not resting on our laurels,\" Graves said. \"One shooting is too many, one homicide is too many. Any homicides are unacceptable to us, and we are doing everything we can to drive the numbers down.\"And when it comes to charging juveniles as adults for crimes, Graves said his office is working with their law enforcement partners and city leaders.Only 16 or 17-year-olds can be charged as adults and only for certain crimes - the most serious violent crimes.\"We&apos;re working very closely with MPD to charge as adults those individuals who are driving violence in our communities,\" Graves added. \"Shootings, repeated carjackings, repeated armed robberies, we are charging those juveniles as adults and working with the mayor to hold those individuals accountable.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "graves",
+          "sentiment": "none"
+        },
+        {
+          "name": "matthew graves",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "district",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c. u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:22:25.949+02:00",
+    "updated": "2024-03-15T00:33:10.218+02:00"
+  },
+  {
+    "uuid": "29847b4dc05d3959b40548517019b759fdb12ada",
+    "url": "https://levelup.gitconnected.com/mastering-bulk-data-operations-with-spring-batch-in-spring-boot-8f687c53b676",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Urfanito",
+    "published": "2023-12-28T22:13:00Z",
+    "title": "Mastering Bulk Data Operations with Spring Batch in Spring Boot | by Urfanito | Dec, 2023 | Level Up Coding",
+    "text": "Mastering Bulk Data Operations with Spring Batch in Spring Boot Efficiently handling large volumes of data is a common challenge in modern applications. In this blog post, we’ll explore the power of batch processing for bulk data operations in Spring Boot. Whether you’re dealing with data imports, updates, or any form of mass data manipulation, harnessing the capabilities of batch processing can significantly enhance the performance and reliability of your Spring Boot applications. Understanding the Need for Batch Processing As applications evolve, the necessity to process data in bulk becomes apparent. Consider scenarios like: - Importing massive datasets into your system. - Performing periodic updates on a large set of records. - Executing complex business logic on extensive data collections. In such cases, traditional processing approaches might not scale well, leading to performance bottlenecks and potential issues. Batch processing provides a systematic way to handle these scenarios efficiently. Leveraging Spring Batch in Spring Boot Spring Batch, an extension of the Spring framework, is a powerful tool for building robust batch-processing applications. It simplifies the development of batch jobs and provides essential features such as transaction management, chunk-based processing, and error handling. Key Components of Spring Batch - Job: Represents a complete batch process and consists of one or more steps. - Step: Defines a single phase of a batch job. Each step typically includes reading data, processing it, and writing the results. - ItemReader: Reads input data for the batch job. - ItemProcessor: Processes each item read by the ItemReaderbefore writing it. - ItemWriter: Writes the processed items to the desired output. Step-by-Step Implementation Let’s illustrate the process with a simple example of processing user data.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:25:09.941+02:00",
+    "updated": "2023-12-29T00:25:09.941+02:00"
+  },
+  {
+    "uuid": "8f6c0497cf57f04a299450757be85db8f4ac89bf",
+    "url": "https://www.liherald.com/bellmore/stories/guest-speaker-rabbi-david-harris-speaks-on-the-state-of-israel,208105",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joseph D'Alessandro",
+    "published": "2024-05-31T17:15:00Z",
+    "title": "Guest speaker Rabbi David Harris speaks on the State of Israel | Herald Community Newspapers | www.liherald.com",
+    "text": "The Jewish community of Merrick and Bellmore celebrated the 76th Yom Ha’atzmaut, the anniversary of Israel’s founding, at the Merrick Jewish Center on May 14. The synagogue welcomed guest speaker Rabbi David Harris, whose visit was made possible by the Rabbi Charles and Betty Klein Legacy Fund. Harris is the former chief of the American Jewish Committee, and was praised as the “foreign minister of the Jewish people” by the late former prime minister and president of Israel, Shimon Peres. The legacy fund was created to “ensure that we have really quality programs in perpetuity,” Rabbi Joshua Dorsch, of the Merrick Jewish Center, said. “And every year, we use those funds to bring in really interesting programming and really engaging speakers. And this year, we’re lucky enough to have David Harris join us.” Rabbi Klein, who retired from the Merrick Jewish Centre in 2021, was also in attendance. “People understand the importance of being able to bring people like David Harris to our community,” Klein said, “and so they are willing to support it and make evenings like this possible.” This year’s Yom Ha’atzmaut was unique, coming 220 days after Hamas attacked Israel on Oct. 7. On May 20, the International Criminal Court requested arrest warrants for both Israeli and Hamas political leaders, making Harris’ words all the more relevant for those in attendance. A central theme of Harris’ speech was that the Jewish people are facing three battlefronts: the physical conflict in Gaza, the home front of Israel, and the political climate of the United States. “I believe the American Jewish community has a very key role to play, not just in supporting Israel from a distance, but engaging here in the United States, as Israel becomes more of a political football,” Harris said. “So my goal, particularly since Oct. 7, has been less to analyze and more to mobilize. And I see that very much in the spirit of tonight, as well as here in America.” Harris explained that it is important to begin reframing the current conflict around Oct. 7, when the international community came together to show its support. “The world would quickly forget the precipitating factors of Oct. 7,” Harris said. “And in the United States itself, that there would be voices that would begin to urge the president of the United States to pull back, to slow down, to stop. And that, ladies and gentlemen, members of the Merrick Jewish Center, was, is, and shall always be our third front.” Harris added that the Jewish voting block would be pivotal in the upcoming presidential election. “I have been, for 50 years, a nonpartisan, to the point where my beloved mother, who passed away nearly six years ago, never knew how I voted,” he said. “We have to have people active in both political parties so that one political party never, ever, ever again takes our vote for granted, and the other political party never, ever again believes that our vote is unobtainable.” Harris also expressed disapproval of the protests that have turned against Israel on college campuses. “I think his call to action was the most inspiring part of the evening,” Klein said. “He beseeched us to rise up from our complacency and become active in the struggle on behalf of not only Israel, but on behalf of the Jewish community, in America and worldwide, so that people understand that we will stand up for ourselves and our interests as well, because our interests align with American interests.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "david harris",
+          "sentiment": "negative"
+        },
+        {
+          "name": "charles",
+          "sentiment": "none"
+        },
+        {
+          "name": "rabbi klein",
+          "sentiment": "none"
+        },
+        {
+          "name": "shimon peres",
+          "sentiment": "none"
+        },
+        {
+          "name": "harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "klein",
+          "sentiment": "none"
+        },
+        {
+          "name": "joshua dorsch",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "herald community newspapers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "american jewish committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "betty klein legacy fund",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "bellmore",
+          "sentiment": "none"
+        },
+        {
+          "name": "merrick",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-01T16:59:35.908+03:00",
+    "updated": "2024-06-01T16:59:35.908+03:00"
+  },
+  {
+    "uuid": "9c1a937cb736718b2750d019e8d1214952819dc8",
+    "url": "https://vnexplorer.net/z/1464456.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-07-18T15:36:00Z",
+    "title": "Novel Single-Sensor System Enhances Solar Power Efficiency",
+    "text": "In a recent article published in the journal Energies, researchers introduced a novel approach to optimizing the performance of solar photovoltaic (PV) systems. The study aims to enhance the efficiency and accuracy of Maximum Power Point Tracking (MPPT) in PV systems by utilizing the Red-Tailed Hawk Algorithm. RTH-flowchart-based global MPPT. Image Credit: https://www.mdpi.com/1996-1073/17/14/3391 Background The need for efficient and reliable MPPT techniques in PV systems has become increasingly crucial due to the growing demand for renewable energy sources. Traditional MPPT methods often face challenges in optimizing power generation under varying environmental conditions, such as partial shading and temperature fluctuations. In scenarios with partial shading, PV systems exhibit multiple maximum power points (MPPs) on their power-voltage curves, complicating the tracking process for conventional MPPT algorithms. This complexity results in reduced efficiency and suboptimal power output, highlighting the necessity for advanced MPPT solutions capable of accurately identifying and tracking the global MPP amidst local MPPs. The proposed Single-Sensor Global MPPT system interconnected with a DC link using the Red-Tailed Hawk Algorithm addresses this critical need by offering a novel approach to optimizing PV system performance under shading conditions. The Current Study Related Stories The methodology employed in the study involved the implementation of the Single-Sensor Global MPPT system for optimizing the performance of PV systems. The experimental setup consisted of a PV system subjected to different shading scenarios to evaluate the algorithm&#039;s efficacy under varying conditions. To begin, the PV system&#039;s power-voltage curve was analyzed to identify multiple MPPs that occur during shading conditions. The Red-Tailed Hawk Algorithm was then integrated into the MPPT system to accurately track the global MPP amidst the presence of local MPPs, ensuring optimal power generation. An analysis of variance (ANOVA) was conducted to assess the system&#039;s performance across different shading scenarios. This statistical analysis allowed for the comparison of power output variations under various levels of shading, providing insights into the algorithm&#039;s stability and efficiency in capturing the global MPP. Furthermore, a Tukey Honest Significant Difference (Tukey HSD) post hoc test was performed to validate the ANOVA results and determine the statistical significance of the algorithm&#039;s performance improvements. The Tukey HSD analysis enabled a detailed comparison of power output values under different shading conditions, highlighting the algorithm&#039;s ability to consistently identify and track the global MPP. Additionally, simulations and real-time experiments were conducted to validate the algorithm&#039;s effectiveness in maximizing power output and mitigating the impact of shading on PV system efficiency. The experimental data collected during the study were analyzed to quantify the improvements achieved by the Single-Sensor Global MPPT system utilizing the Red-Tailed Hawk Algorithm. Results and Discussion The study&#039;s results demonstrated the effectiveness of the Single-Sensor Global MPPT system integrated with the Red-Tailed Hawk Algorithm in optimizing the performance of PV systems under shading conditions. The ANOVA revealed significant improvements in power output when utilizing the algorithm across different shading scenarios. Under varying levels of shading, the algorithm consistently identified and tracked the global MPP, leading to enhanced power generation efficiency. The comparison of power output values under different shading conditions showcased the algorithm&#039;s ability to adapt and adjust the PV system&#039;s operating point to maximize energy production. The Tukey HSD post hoc test further supported the ANOVA findings, confirming the statistical significance of the algorithm&#039;s performance enhancements. The detailed comparison of power output values validated the algorithm&#039;s precision in capturing the global MPP and optimizing the system&#039;s efficiency. Moreover, simulations and real-time experiments demonstrated the algorithm&#039;s robustness in mitigating the impact of shading on PV system performance. The algorithm&#039;s ability to accurately track the global MPP amidst local MPPs showcased its reliability and stability in varying environmental conditions. The results highlighted the algorithm&#039;s superiority over conventional MPPT techniques, particularly in scenarios with partial shading, where traditional methods struggle to differentiate between local and global MPPs. By reducing the number of required sensors and enhancing tracking accuracy, the Red-Tailed Hawk Algorithm-based MPPT system proved to be a cost-effective and reliable solution for maximizing power output in PV systems. Conclusion In conclusion, the study highlights the effectiveness of the Single-Sensor Global MPPT approach integrated with the Red-Tailed Hawk Algorithm for improving the efficiency and stability of PV systems. The research findings validate the algorithm&#039;s capability to optimize MPPT under varying shading conditions, showcasing its potential for enhancing the overall performance of solar energy systems. Journal Reference Almousa M.T., Gomaa M.R., et al. (2024). Single-Sensor Global MPPT for PV System Interconnected with DC Link Using Recent Red-Tailed Hawk Algorithm. Energies 17(14):3391. DOI: 10.3390/en17143391, https://www.mdpi.com/1996-1073/17/14/3391",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.mdpi.com/1996-1073/17/14/3391",
+      "https://mdpi.com/1996-1073/17/14/3391"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T02:39:35.743+03:00",
+    "updated": "2024-07-19T02:39:35.743+03:00"
+  },
+  {
+    "uuid": "5fcfe830823f2bf53fc90d7966b4923cc80b2b44",
+    "url": "https://www.salisburyjournal.co.uk/news/national/24016305.sharp-rise-religious-hate-crimes-recorded-uks-largest-police-forces/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2023-12-29T00:01:00Z",
+    "title": "Sharp rise in religious hate crimes recorded by UK’s largest police forces | Salisbury Journal",
+    "text": "The number of antisemitic hate crimes recorded by many of the UK’s largest police forces jumped sharply in the weeks following the outbreak of the Hamas-Israel conflict, new figures reveal. Islamophobic offences also rose for some forces, although the picture was more mixed across the country. Jewish charities called the findings “shocking”, while campaigners against anti-Muslim abuse said the data was “deeply worrying”. The Home Office condemned the rise in offences, adding: “There is no place for hate in our society.” The figures have been obtained by the PA news agency using Freedom of Information requests. They show that: – Greater Manchester Police recorded 74 antisemitic offences in the month following the Hamas attacks on Israel on October 7, compared with 15 for the same period in 2022 and 14 in 2021, while West Yorkshire Police recorded 53, compared with 10 (2022) and 14 (2021). – West Midlands Police recorded 22 antisemitic offences from October 7 to November 7, compared with one (2022) and eight (2021), while Merseyside Police recorded 20 compared with four (both 2022 and 2021). – The British Transport Police had one of the largest increases, recording 87 antisemitic offences in the month after October 7, up from eight in the same period in 2022 and 11 in 2021, as well as a jump in Islamophobic offences with 22 (2023), up from two (2022) and eight (2021). – West Yorkshire recorded 49 Islamophobic offences in this period in 2023, up from 29 (2022) and 38 (2021), but the pattern was not so clear for Greater Manchester (34 in 2023, 43 in 2022 and 42 in 2021) or West Midlands (25 in 2023, 33 in 2022 and 23 in 2021). The Community Security Trust described the figures as “shocking” and said they made clear “the extent of the unacceptable rise in anti-Jewish hatred across the country since the Hamas terror attack on October 7”. A spokesman for the Jewish charity said: “This wave of antisemitism was triggered by the mass murder, rape and kidnapping of Jews in Israel, and is fuelled and sustained by extremist hatred online and on our streets. “It is essential that perpetrators are identified and prosecuted, and that wider society shows its disgust for this racist hate crime.” Tell Mama, which monitors and works to tackle anti-Muslim sentiment and abuse in the UK, told PA that “levels of anti-Muslim hatred and discrimination are deeply worrying, impacting trust in authorities and their sense of identity and belonging”. Iman Atta, the organisation’s director, said there had been a “significant spike in anti-Muslim hate since the atrocities on October 7”, adding: “The nature of many offline cases sent to our service is often overtly racist – targeting Arab and Palestinian communities with dehumanising slurs, anti-Muslim slurs or in some cases targeting their homes, or when speaking Arabic in public, as well as targeting Muslim communities across all ages and gender. “We should never allow such hatred and intolerance to take root in our communities and at this time, please look out for each other, whether Muslim or Jewish. We must stand together against intolerance, hate and racism.” The Metropolitan Police, the largest force in the UK, said delays prevented it from supplying full figures until the new year, but it had previously reported 218 antisemitic and 101 Islamophobic offences between October 1 and 18 this year, compared with 15 and 42 respectively in the same period in 2022. PA obtained full responses from 31 of the 46 forces across the UK, with the data representing a snapshot of what has currently been recorded by forces and is therefore subject to change. Methods for recording hate crime are not consistent across forces, so the data cannot be used to compare the number of offences between different areas or provide an overall total for the whole of the UK. But the figures do point to a jump in antisemitic offences recorded by forces concentrated mostly in cities or across built-up areas, while the pattern for Islamophobic offences was more varied. Some forces that operate across a mix of urban and less populated areas tend to show a similar pattern, although with lower volumes of offences – for example Hertfordshire Police (17 antisemitic offences for the period in 2023, compared with six in 2022 and three in 2021) and Thames Valley Police (21 antisemitic offences in 2023, one in 2022 and four in 2021). Data obtained from smaller forces, or those covering areas with few towns or cities, typically showed low numbers of offences, often in single figures, meaning a clear trend was hard to determine. A spokesman for the Board of Deputies of British Jews said the findings “provide further evidence of the huge upsurge in antisemitism following the Hamas massacre of October 7”. The board, seen as the voice of the British Jewish community with over 300 deputies directly elected by the synagogues and communal organisations they represent, told PA the rise in antisemitism had “caused enormous anxiety for Jewish people, particularly children and Jewish students on campus or indeed anyone easily identified as Jewish by their dress”. A spokesman added: “We call on police to take strong action against anyone found to be perpetrating hate crimes.” The Muslim Council of Britain said: “Despite the extremely low reporting rate from Muslim communities, the huge increase in Islamophobic hate crimes recorded with the police reflects what we are seeing from third-party reporting groups. “The Government’s laissez-faire attitude to Islamophobia contrasts strongly with its no-tolerance approach to antisemitism. We are hopeful this will now change.” A spokesperson for the Home Office said: “There is no place for hate in our society and we condemn the recent rise in reported antisemitic and anti-Muslim hatred. “We expect the police to fully investigate all hate crimes and work with the CPS to make sure the cowards who commit these abhorrent offences feel the full force of the law. “Following recent events, we have also made further funding available to Jewish and Muslim communities, to provide additional security at places of worship and faith schools.” Comments: Our rules We want our comments to be a lively and valuable part of our community - a place where readers can debate and engage with the most important local issues. The ability to comment on our stories is a privilege, not a right, however, and that privilege may be withdrawn if it is abused or misused. Please report any comments that break our rules. [Read the rules here](/misc/comments) Comments are closed on this article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "pa news agency using freedom of information",
+          "sentiment": "none"
+        },
+        {
+          "name": "merseyside police",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "west yorkshire police",
+          "sentiment": "none"
+        },
+        {
+          "name": "west midlands police",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester police",
+          "sentiment": "none"
+        },
+        {
+          "name": "home office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:17:21.233+02:00",
+    "updated": "2023-12-29T02:17:21.233+02:00"
+  },
+  {
+    "uuid": "05b46076d0e48eaf97b5dede3664faa97754d4f6",
+    "url": "https://www.stern.de/panorama/schnelle-rettung--tunneleinsturz-in-los-angeles--31-arbeiter-gerettet-35882368.html",
+    "ord_in_thread": 0,
+    "author": "STERN.de",
+    "published": "2025-07-10T07:34:00Z",
+    "title": "Schnelle Rettung: Tunneleinsturz in Los Angeles: 31 Arbeiter gerettet",
+    "text": "Aufatmen in Kalifornien: Nach dem Einsturz eines Tunnels im Großraum der US-Metropole Los Angeles hat die Feuerwehr alle Eingeschlossenen bergen können. 31 Menschen, wohl alle Tunnelarbeiter, seien am Mittwochabend (Ortszeit) lebend und ohne sichtbare Verletzungen gerettet worden, teilte die Feuerwehr mit. Der Unglücksort befindet etwa 30 Kilometer südlich des Zentrums von Los Angeles.\nErsten Berichten der Feuerwehr zufolge gelang es einigen Arbeitern nach dem Einsturz, über einen Berg loser Erde zu klettern. Auf der anderen Seite trafen sie demnach auf Kollegen. Anschließend seien die Eingeschlossenen mit einem Tunneltransportmittel zum Ausgang gebracht worden. Sanitäter versorgten daraufhin die Geretteten und untersuchten sie genauer, hieß es.\nEin großer Rettungseinsatz\nMehr als 100 Einsatzkräfte waren nach Angaben der Feuerwehr zum Unglücksort geeilt, darunter spezialisierte Rettungsteams. Der Einsturz passierte demnach mehr als acht Kilometer vom einzigen Tunneleingang entfernt. Es handele sich um einen im Bau befindlichen Tunnel für die kommunale Abwasserentsorgung, hieß es weiter. Die Ermittlungen zur Ursache des Einsturzes dauern an.\nEtwa eine Stunde waren die Arbeiter in dem Tunnel eingeschlossen, meldete CBS News. Der Tunnel sei insgesamt mehr als 11 Kilometer lang und etwas mehr als fünf Meter breit, schrieb der US-Sender unter Berufung auf den Betreiber.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news_ch",
+        "top_news_at",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T12:04:29.050+03:00",
+    "updated": "2025-07-11T10:04:42.000+00:00"
+  },
+  {
+    "uuid": "bbf8c46a437324a72b4ff609a14525f4e46cc3f4",
+    "url": "https://www.zazoom.it/2024-12-20/escrementi-di-topi-chiusa-scuola-dellinfanzia/16037425",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@zazoomblog",
+    "published": "2024-12-19T23:09:00Z",
+    "title": "Escrementi di topi chiusa scuola dell’infanzia",
+    "text": "Escrementi di topi chiusa scuola dell’infanzia\nSan Miniato (Pisa), 19 dicembre 2024 – chiusa in anticipo rispetto alle vacanze di Natale per la presenza di topi la scuola dell'infanzia di Ponte a Egola. Lo rende noto il Comune di San Miniato (Pisa). Il plesso di piazza Marco Biagi dove, nei giorni scorsi, sono stati rinvenuti Escrementi di topi, è stato chiuso dal pomeriggio di oggi, si spiega in una nota, con un giorno e mezzo di anticipo rispetto alla pausa natalizia prevista dal calendario, per consentire l'intervento di disinfestazione e derattizzazione. \"Dopo il ritrovamento, siamo stati subito allertati dalla scuola e i nostri uffici hanno dapprima isolato gli spazi e poi spostato i bambini e le bambine in un'altra porzione del plesso, in modo che non entrassero in contatto con gli Escrementi - spiegano il sindaco di San Miniato, Simone Giglioli, e l'assessore alla scuola Matteo Squicciarini -.Leggi su Lanazione.it\nLanazione.it - Escrementi di topi, chiusa scuola dell’infanzia\n- Escrementi di topi, chiusa scuola dell’infanzia\n- Topi a scuola, Infanzia chiusa per due giorni\n- Scuola chiusa per tre giorni: ci sono escrementi di topo nelle aule\n- Topi in una scuola materna del Milanese\n- Trovati escrementi di topo in una scuola primaria di Cremona: lezioni sospese e 200 alunni a casa\n- Escrementi di topo a scuola (tre volte in un mese): i genitori scrivono alla procura\n- Escrementi di topi, chiusa scuola dell’infanzia - E’ accaduto a Ponte a Egola, nel comune di San Miniato. Sede chiusa con un giorno e mezzo di anticipo rispetto alla pausa natalizia prevista dal calendario, per consentire l'intervento di disinfestazi ... (lanazione.it)\n- Topi alla scuola dell'infanzia di Ponte a Egola, il Comune la chiude in anticipo - Vacanze di Natale anticipate per i bambini e le bambine della scuola dell'infanzia di Ponte a Egola. Il plesso di piazza Marco Biagi dove, nei giorni ... (gonews.it)\n- Trovati escrementi di topo a scuola, pronta la derattizzazione. Un genitore accusa: “Si sapeva già da un mese” - Dall’amministrazione comunale spiegano che la situazione è sotto controllo e che durante il week end, quando la scuola sarà chiusa ... visto i topi girare per le classi ed escrementi ovunque ... (orizzontescuola.it)\n[Sistema di valutazione dei risultati dei Dirigenti Scolastici, ANP: ‘permangono le criticità’](https://www.zazoom.it/2024-12-19/sistema-di-valutazione-dei-risultati-dei-dirigenti-scolastici-anp-permangono-le-criticita/16037249/)scuolalink.it\n[Arnautovic: «Periodo difficile, anche privatamente. Amo l’Inter!»](https://www.zazoom.it/2024-12-20/arnautovic-periodo-difficile-anche-privatamente-amo-linter-2/16037344/)inter-news.it\n[Milan, novità sul rinnovo di Theo Hernandez: ecco la situazione in casa rossonera](https://www.zazoom.it/2024-12-19/milan-novita-sul-rinnovo-di-theo-hernandez-ecco-la-situazione-in-casa-rossonera/16037258/)calcionews24.com\n[Arnautovic e le gravi difficoltà private: gol con dedica speciale](https://www.zazoom.it/2024-12-20/arnautovic-e-le-gravi-difficolta-private-gol-con-dedica-speciale/16037407/)inter-news.it\n[Frattesi: «So di dover migliorare. Non facile se gioco poco all’Inter!»](https://www.zazoom.it/2024-12-20/frattesi-so-di-dover-migliorare-non-facile-se-gioco-poco-allinter/16037376/)inter-news.it\n[Pagelle Guimaraes Fiorentina, TOP e FLOP del match di Conference League](https://www.zazoom.it/2024-12-20/pagelle-guimaraes-fiorentina-top-e-flop-del-match-di-conference-league/16037364/)calcionews24.com\n[Curiosità, gli auguri del sindaco e dell'assessore Natella ai dipendenti e al management di Salerno Pulita](https://www.zazoom.it/2024-12-20/curiosita-gli-auguri-del-sindaco-e-dellassessore-natella-ai-dipendenti-e-al-management-di-salerno-pulita/16037420/)salernotoday.it\nVideo Escrementi topi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health facility",
+      "Health->public health",
+      "Health->communicable disease",
+      "Social Issue->children",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Matteo Squicciarini",
+          "sentiment": "none"
+        },
+        {
+          "name": "Simone Giglioli",
+          "sentiment": "none"
+        },
+        {
+          "name": "Marco Biagi",
+          "sentiment": "none"
+        },
+        {
+          "name": "Topi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "San Miniato",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pisa",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ponte",
+          "sentiment": "none"
+        },
+        {
+          "name": "Egola",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:27:09.478+02:00",
+    "updated": "2024-12-20T01:27:09.478+02:00"
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "uuid": "90ca15c31703888a9685c628634cb3081b76270d",
+    "url": "https://www.stheadline.com/realtime-world/3303764/風暴吹襲英格蘭北部及蘇格蘭-屋頂被掀飛數萬戶一度停電",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電",
+    "published": "2023-12-29T06:52:00Z",
+    "title": "風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { if(isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined)){ if(debug_mode) console.log(\"Resized? IsMobile=TRUE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits_m['billborad']){ var a = adUnits_m['billborad'][i]; if(debug_mode) console.log(\"Resize MWEB billborad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"][id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"][data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits_m['LREC']){ var a = adUnits_m['LREC'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"][id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"][data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footerm-index'); if(i in adUnits_m['footer']){ var a = adUnits_m['footer'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits_m['popup']){ var a = adUnits_m['popup'][i]; if(debug_mode) console.log(\"Resize MWEB Popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits_m['1x1']){ var a = adUnits_m['1x1'][i]; if(debug_mode) console.log(\"Resize MWEB 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_leaderboard']){ var a = adUnits_m['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_flipad']){ var a = adUnits_m['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits_m['inarticlebanner']){ var a = adUnits_m['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize MWEB inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else if (!isMobile() && typeof adUnits === 'object' && adUnits.length ===undefined){ if(debug_mode) console.log(\"Resized? IsMobile=FALSE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits['billborad']){ var a = adUnits['billborad'][i]; if(debug_mode) console.log(\"Resize WEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"]').not('[data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits['LREC']){ var a = adUnits['LREC'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"]').not('[data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footer-index'); if(i in adUnits['footer']){ var a = adUnits['footer'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits['popup']){ var a = adUnits['popup'][i]; if(debug_mode) console.log(\"Resize popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits['1x1']){ var a = adUnits['1x1'][i]; if(debug_mode) console.log(\"Resize 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_leaderboard']){ var a = adUnits['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_flipad']){ var a = adUnits['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits['inarticlebanner']){ var a = adUnits['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else{ if(debug_mode) console.log(\"Do Nothing during resize\"); } if(isMobile()){ $(\"#keyimg\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg_m\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1\").length >0 ){ $(\"#img_gallery_flipad1\").attr(\"id\", \"img_gallery_flipad1-m\"); } if( $(\"#img_gallery_flipad2\").length >0 ){ $(\"#img_gallery_flipad2\").attr(\"id\", \"img_gallery_flipad2-m\"); } if( $(\"#img_gallery_flipad3\").length >0 ){ $(\"#img_gallery_flipad3\").attr(\"id\", \"img_gallery_flipad3-m\"); } }else{ if( $(\".share-box\").hide() ){ $(\".share-box\").show(); } $(\"#keyimg_m\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1-m\").length >0 ){ $(\"#img_gallery_flipad1-m\").attr(\"id\", \"img_gallery_flipad1\"); } if( $(\"#img_gallery_flipad2-m\").length >0 ){ $(\"#img_gallery_flipad2-m\").attr(\"id\", \"img_gallery_flipad2\"); } if( $(\"#img_gallery_flipad3-m\").length >0 ){ $(\"#img_gallery_flipad3-m\").attr(\"id\", \"img_gallery_flipad3\"); } } gallerynumber_ad(); }; function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 生活 飲食 好去處 旅遊 時尚購物 生活百科 ArtCan 汽車 財經 投資理財 商業創科 股市 ESG 區塊鏈 地產 樓市資訊 新盤速遞 筍盤推介 海外置業 家居裝修 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 健康 食用安全 保健養生 減肥運動 醫生教室 體育 即時體育 足球世界 波盤王 專家點睇 申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 PLUS 專欄 企業 ST+ 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 財經台 生活台 直播Live 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2023 SingTao Ltd.All rights reserved. 主頁 國際 即時國際 風暴吹襲英格蘭北部及蘇格蘭 屋頂被掀飛數萬戶一度停電 即時國際 更新時間：14:52 2023-12-29\n發佈時間：14:52 2023-12-29 字體大小 英格蘭北部及蘇格蘭周四遭受風暴「格里特」（Gerrit）吹襲，颳起12級陣風，還出現迷你龍捲風，就連磚造民宅的屋頂都被強風吹垮，一度有3.5萬戶斷電。另外，部份地區並有暴雪及暴雨。倫敦希斯路機場有一架美國航空班機降落時遭遇強側風，在搖搖晃晃中驚險降落，所幸人機平安。\n英國從12月27日開始受到「格里特」影響，颳強風又降下大雨，海陸交通都受到影響；英格蘭北部及蘇格蘭有數萬戶停電，曼徹斯特還有房屋屋頂被掀飛，上百棟房屋受損。\n強風增添飛機降落難度，一架客機在倫敦希斯路機場降落時左右劇烈搖晃，讓連線的記者驚呼連連。\n驚恐的畫面還出現在曼徹斯特，受到格里特風暴帶來的強風大雨侵襲，不少房屋的屋頂被掀飛，有上百棟房屋受損。\n當地居民麥克卡佛說：「說真的跟一些鄰居相比，我們很幸運；一些鄰居的房子簡直是一場災難，屋頂被吹飛、牆壁不見了，汽車被山上落下的石頭壓扁。」\n英國氣象局表示，一場雷暴席捲大曼徹斯特，並產生強烈旋轉上升氣流，形成龍捲風，持續約1分半鐘。\n在「格里特」風暴影響下，從南到北包括倫敦、布里斯托、伯明罕，與蘇格蘭、威爾斯等地都傳出災情。最大陣風超過時速130公里，強風挾帶超大雨量，導致部分航班取消，地面交通也受到淹水影響。\n蘇格蘭一些地區颳起時速近130公里的暴風，掉落的樹枝和碎片擊中公用事業線路，並切斷了數千個家庭和企業的電力。雖然已有超過3.1萬戶家庭重新連接，但仍有約1.4萬戶家庭停電。\n風暴也擾亂了蘇格蘭的火車服務，一些線路的旅行暫停進行檢查。大雪也封鎖了蘇格蘭的道路。\n在曼徹斯特，有報告指出房屋被迷你龍捲風破壞，約100處房屋被疏散。由於國內航線的空中交通管制限制，希斯路機場不得不取消18個航班，也影響了飛往歐洲目的地的航班。\n---\n《星島頭條》APP經已推出最新版本，請立即更新，瀏覽更精彩內容： https://bit.ly/3yLrgYZ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://bit.ly/3yLrgYZ",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://www.bit.ly/3yLrgYZ",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T10:44:55.657+02:00",
+    "updated": "2023-12-29T10:44:55.657+02:00"
+  },
+  {
+    "uuid": "47a12439f60f69c0e23395fc65fd8c6a9a69f1e1",
+    "url": "https://www.eluniversal.com.co/farandula/2025/04/30/toxi-costena-criticada-por-vulgaridad-en-la-casa-de-los-famosos",
+    "ord_in_thread": 0,
+    "author": "Redacción Farándula",
+    "published": "2025-04-30T21:02:00Z",
+    "title": "Toxi Costeña, criticada por vulgaridad en La casa de los famosos",
+    "text": "El juego de ‘Las etiquetas’ en La casa de los famosos Colombia 2025 suele dejar sinsabores y provocar más de una discusión en el reality de RCN. En las últimas horas, la dinámica pasó de tensa a explosiva, y los resentimientos estuvieron a flor de piel.\nTodo se encendió cuando la Toxi Costeña tildó de “víctima” a su compañera Karina García. “Karina, a ti solo te gusta que te digan lo que quieres escuchar (…) y cuando no es así, dices que te tenemos envidia, que te lastimamos, se te asoma la lágrima... estoy mamada de eso, por eso no te hablo”, expresó visiblemente molesta.\nLa Toxi también dejó claro que no siente “celos” por la relación de Karina con Altafulla. Sin embargo, Karina no se quedó callada y le devolvió la acusación: llamó “víctima” a la Toxi, dejando claro que la mala relación en el ‘Cuarto Fuego’ es una realidad palpable.\n“Para mí, la Tóxica es una mentirosa. Pensé que era mi amiga, le ofrecí una amistad sincera y leal, y ahora me doy cuenta de todas las cosas feas que siente hacia mí. Y recuerda que no soy Camila… a mí me respetas”, respondió Karina, visiblemente afectada. Lea: La Toxi Costeña revela infidelidad: su ex estuvo con una seguidora\nLa Toxi replicó con palabras soeces y un tono subido, lo que ha generado múltiples reacciones entre la audiencia del reality de RCN. Muchos internautas han pedido sanciones para la Toxi Costeña por su lenguaje, mientras que otros aseguran que su actitud revela celos hacia la cercanía entre Karina y Altafulla.\n“¿Cómo permiten tanta vulgaridad? Qué vergüenza, esta semana debería salir la Toxi Costeña”, “La Toxi ya confirmó que está celosa. No tengo dudas”, “Soy de La Guajira y apoyaba a la Toxi, pero se ha pasado de vulgar. Su comportamiento hacia Karina ha sido bajo”, son algunos de los comentarios que circulan en redes sociales.\nDurante la misma dinámica, Yina Calderón aprovechó para hacerle un llamado a Altafulla a no perder el rumbo, mientras que Emiro Navarro describió a Melissa Gate como su mejor amiga y cómplice en esta reñida competencia. Lea: Emiro Navarro, orgullo bolivarense en el Top 10 de La casa de los famosos\nLa Toxi Costeña, acusada por Altafulla de tener “celos de hermana”\nTras la eliminación de Leidy Tabares, Altafulla confrontó a La Toxi Costeña por su actitud hacia Karina y, en especial, hacia él. El participante barranquillero la abordó en la habitación y le preguntó por qué se estaba alejando de él.\n“Mi amor, o sea, yo te miro y te volteas, yo te llamo y te quitas, te dije para bailar y ayer no echamos ni una bailadita”, le reclamó Altafulla. Lea: La Toxi Costeña, acusada por Altafulla de tener “celos de hermana”\nLa Toxi Costeña no se quedó callada y respondió: “Me dejaste parada con la boca abierta allá arriba, a mí me tratas serio”.\nA lo que Altafulla remató: “Espero que esos sean celos de hermana, celos de hermanita, son celos de hermanita (...) me quieres poner en la mitad de un baile”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->game",
+      "Lifestyle and Leisure->gaming and lottery",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T00:14:06.506+03:00",
+    "updated": "2025-04-30T21:18:00.000+00:00"
+  },
+  {
+    "uuid": "f80a238c15e22197b772fed7eccefe1d2be68aa8",
+    "url": "https://www.broadwayworld.com/bwwmusic/article/Sierra-Hull-Releasing-Rendition-of-Black-Muddy-River-20240919",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josh Sharpe",
+    "published": "2024-09-19T17:42:00Z",
+    "title": "Sierra Hull Releasing Rendition of 'Black Muddy River'",
+    "text": "The song was originally released in 1987 by The Grateful Dead. SIERRA HULL, the 2x GRAMMY-nominated and 6x International Bluegrass Music Association Award-winning artist, has announced her roots-laced rendition of “Black Muddy River” — which has been a recurring gem in her live set for years — will be released on Friday, September 27. Originally released in 1987 by the legendary improvisational psychedelic rock group Grateful Dead, HULL’s version doubles down on earthy sonic tapestry and bluegrass-tinged musicianship. Fans can pre-order/pre-save the song [here](https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBvP2AC4l76JfluwQJTYx347Bf5K6bEhVMOiCYz50d_fnJXFoY80m8L9ToYbICjsRIDvprrqxBjiYyCfCRAZ7UqYGeR3-td0lRhu_GZursrNM=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==). ‘“Black Muddy River’ is the first song that really made me stop and truly appreciate the music of the Grateful Dead,” shares HULL. “There are so many Dead songs that folks cover and you kind of come to know a lot of them without even trying to some degree, but this beautiful song really made me pause and want to learn and sing it myself. It then led me to listen to the studio albums and explore and appreciate their music on a whole new level. ‘Black Muddy River’ has been one of my favorite songs to sing live for the past couple years and I’m so happy to have our own version recorded now.” The eclectic artist released another re-creation last month (8/23), new wave group Tears for Fears’ “ [Mad World](https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBwpCEOj2o_Xr9WsiIsqqJvQyinizCyjRhanFMZswQ2qSf10srblcON7bvS3Oz_CIylEW_o-x0InoWZHq8l8NvtJlD18s06oWDb34BezoXCsD8hBmmvivAXzXgYWWAos7dv5UfUlY1NVw2xjvn6zve5AXqtpWicwWOXcQXt37EWfxIM51JCnZL61wHmNcxsz-1rhnZTn017Kw=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).” The release marked HULL’s first new release in four years. She had previously performed “Mad World” live for a [Paste Session](https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo-s2G4k3ncPeMB33fXnH8m5p5eZ4c-tb9xTK-I59wbqHo7xX8LfBumaIejR00Lc04kFaIfy1DU3RyWhJtzdr8lNDJlOjemlryCovGr93koWhAYHKO6rl2aQ==&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==) in 2022 which quickly took a viral spin, garnering over 2 million views. Considering the high demand for her rendition of the iconic song, HULL was inspired to go into the studio and put her unique musical fingerprint on it, which is streaming across all DSPs now. SIERRA HULL is touring heavily throughout the remainder of the year with headline shows and festival appearances across the United States. For more information and to purchase tickets, [click here](https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo3f89JZaiNTw1COQJ87hRSqe9AlAdH7ixEOPz3HkEnwMAcmbx5ccAVj_yD9t6cmGKg_dN_Pes2dbETwL1i_DBuIbDROxyB4Ch&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==). SIERRA HULL is widely regarded to be a master of her instrument; A two-time GRAMMY-nominated artist and songwriter, recognized for both her most recent projects, 25 Trips (2020) and Weighted Mind (2016), she is also the 6x recipient of IBMA’s “Mandolin Player of the Year,” the first woman to ever receive this distinction. A pioneer for acoustic music throughout her already impressive multi-decade career, she has graced the country's most iconic stages, including Carnegie Hall, the Grand Ole Opry, and the White House. Her virtuosic abilities have garnered respect from genre-defining trailblazers, friends, and collaborators such as Alison Krauss, Sturgill Simpson, Garth Brooks, Dolly Parton, Béla Fleck, Bobby McFerrin, and Brandi Carlile. Originally hailing from Byrdstown, Tennessee, her unique sound is rooted in bluegrass, and she is widely considered one of acoustic music’s most inventive artists. Photo credit: Sam Wiseman Videos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo3f89JZaiNTw1COQJ87hRSqe9AlAdH7ixEOPz3HkEnwMAcmbx5ccAVj_yD9t6cmGKg_dN_Pes2dbETwL1i_DBuIbDROxyB4Ch&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).",
+      "https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBvP2AC4l76JfluwQJTYx347Bf5K6bEhVMOiCYz50d_fnJXFoY80m8L9ToYbICjsRIDvprrqxBjiYyCfCRAZ7UqYGeR3-td0lRhu_GZursrNM=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).",
+      "https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBwpCEOj2o_Xr9WsiIsqqJvQyinizCyjRhanFMZswQ2qSf10srblcON7bvS3Oz_CIylEW_o-x0InoWZHq8l8NvtJlD18s06oWDb34BezoXCsD8hBmmvivAXzXgYWWAos7dv5UfUlY1NVw2xjvn6zve5AXqtpWicwWOXcQXt37EWfxIM51JCnZL61wHmNcxsz-1rhnZTn017Kw=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).”",
+      "https://ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo-s2G4k3ncPeMB33fXnH8m5p5eZ4c-tb9xTK-I59wbqHo7xX8LfBumaIejR00Lc04kFaIfy1DU3RyWhJtzdr8lNDJlOjemlryCovGr93koWhAYHKO6rl2aQ==&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==)",
+      "https://www.ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBvP2AC4l76JfluwQJTYx347Bf5K6bEhVMOiCYz50d_fnJXFoY80m8L9ToYbICjsRIDvprrqxBjiYyCfCRAZ7UqYGeR3-td0lRhu_GZursrNM=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).",
+      "https://ouxnv9fbb.cc.rs6.net/tn.jsp",
+      "https://www.ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo-s2G4k3ncPeMB33fXnH8m5p5eZ4c-tb9xTK-I59wbqHo7xX8LfBumaIejR00Lc04kFaIfy1DU3RyWhJtzdr8lNDJlOjemlryCovGr93koWhAYHKO6rl2aQ==&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==)",
+      "https://www.ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo58ODJ8ohVZo3f89JZaiNTw1COQJ87hRSqe9AlAdH7ixEOPz3HkEnwMAcmbx5ccAVj_yD9t6cmGKg_dN_Pes2dbETwL1i_DBuIbDROxyB4Ch&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).",
+      "https://www.ouxnv9fbb.cc.rs6.net/tn.jsp?f=001zeN9HGqQdbPp3Afj2sqC7AHJ_RurYB1MzmkztM4104rxNSqx26lYo28hASl5BoTBwpCEOj2o_Xr9WsiIsqqJvQyinizCyjRhanFMZswQ2qSf10srblcON7bvS3Oz_CIylEW_o-x0InoWZHq8l8NvtJlD18s06oWDb34BezoXCsD8hBmmvivAXzXgYWWAos7dv5UfUlY1NVw2xjvn6zve5AXqtpWicwWOXcQXt37EWfxIM51JCnZL61wHmNcxsz-1rhnZTn017Kw=&c=8mXSnUikkuhwVn3e20XZMTNWFFnhjvCAz3URDZXZFyUpy5pSVT2Ocw==&ch=SR0ITiz2WKrwBTs6a4-v_-Ofx-alcP7lYCQkH-hf3zyGDWWPv3kDbQ==).”"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:20:06.336+03:00",
+    "updated": "2024-09-20T00:20:06.336+03:00"
+  },
+  {
+    "uuid": "561d941c827a85a1bc001a0c4968fe3d1221d796",
+    "url": "https://www.meneame.net/story/francisco-sobre-guerra-ucrania-son-mas-fuertes-quienes-tienen/c01",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sabaoth",
+    "published": "2024-03-09T18:22:00Z",
+    "title": "#1 Francisco sobre la guerra en Ucrania: \"Son más fuertes quienes tienen el coraje de izar la bandera blanca y negociar\" [Entrevista completa]",
+    "text": "Menéame\nLogo Menéame\nPortada\nPortada\nNuevas\nArtículos\nPopular\nMás visitadas\n50F0E052-9EF2-4C3C-849B-F46536B96FBF\nNótame\nmis comunidades\nCiencia\nPolítica\nEconomía\nActualidad\nSeries\notras secciones\nComunidades\nFisgona\nlogin\nregístrate\n×\nÚnete a Actualidad\nÚnete a Actualidad\nHace 6 minutos | Por\nLord_Cromwell\na\nreligiondigital.org\nPublicado hace 6 minutos por\nLord_Cromwell\na\nreligiondigital.org\nFrancisco sobre la guerra en Ucrania: \"Son más fuertes quienes tienen el coraje de izar la bandera blanca y negociar\" [Entrevista completa]\nreligiondigital.org\nLa guerra en Ucrania y lo que sucede entre israelíes y palestinos, en particular en Gaza, se encuentran entre los temas abordados por el papa Francisco en la entrevista concedida, a principios de febrero, a Lorenzo Buccella, periodista de la Radio Televisión Suiza, anticipada hoy por algunas agencias y que la emisora suiza retransmitirá el 20 de marzo. Ampliación de:\nEl papa Francisco pidió a Ucrania que levante la bandera blanca y negocie la paz\nHace 27 minutos | Por\nHackerRuso\na\nambito.com\nPublicado hace 27 minutos por\nHackerRuso\na\nambito.com\nEl papa Francisco pidió a Ucrania que levante la bandera blanca y negocie la paz\nambito.com\nEl pontífice le pidió a Kiev tener el coraje de enarbolar la bandera blanca de la paz y negociar el [...]\nEtiquetas\nentrevista\npapa\nfrancisco\nucrania\nguerra\ngaza\nmenéalo\n1\nDE3C548D-E347-406A-A60F-E6BBD322CAB7\n3\n1\nCopiar enlace\nCompartir en X\nCompartir en facebook\nCompartir en telegram\nEmbed\nVoto negativo\nMás información\nComunidad destacada de hoy\nActualidad\nActualidad y sociedad\nLoguéate si deseas escribir\ncomentarios. O crea tu cuenta\naquí.\nComentarios\nMejores hilos\nOrdenados\nHilos\nMejores hilos\nMás valorados\n#1\nSabaoth\nhace 4 minutos\nEso se lo ha copiado a Gandalf\n13932D1F-B487-4F84-A70E-083D40FCBE55\nV\n0\nK\n10\n666CDE23-7A1F-454F-9223-AF7ED9EAACA5\nresponder",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-09T21:27:19.831+02:00",
+    "updated": "2024-03-09T21:27:19.831+02:00"
+  },
+  {
+    "uuid": "d957feb6357b48e83edbfe82fa73dc6c8d2df1cc",
+    "url": "https://www.meneame.net/story/facultad-ciencias-informacion-complutense-confirma-vito-quiles/c025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "girombo",
+    "published": "2024-06-13T20:30:00Z",
+    "title": "#25 La Facultad de Ciencias de la Información de la Complutense confirma que Vito Quiles miente y no es licenciado en periodismo",
+    "text": "Portada\nmis comunidades\notras secciones\n[#5](c5#c-5) Es cloaquero porque miente más que habla, y lo hace para enfangar.\nY me disgusta el nombre, porque la gente que trabaja en las cloacas hace un trabajo muy digno y necesario.\n#_2 Si el encargado de prensa de un político alardea de licenciatura y resulta que es mentira es un escándalo y debería dimitir de cualquier relación politica que pueda tener.\nPara otro día dejamos que un señor que quiere vivir de paguitas públicas le vacile al empresario que ha montado un medio de comunicación, porque tiene cachindeíto.\nAnda que no hay gente que NO termina la carrera y luego se cuelgan medallas como si la hubieran terminado.\nEn mi opinión, cuando es alguien muy conocido debería ser algo que se pueda consultar públicamente. Veo bien que tener un título pueda ser algo privado, que no se pueda saber si tienes X o Y titulación si no lo dices tú, pero una vez lo dices, no veo mal que se pueda consultar, sobre todo en casos como este donde la persona es muy conocida.\nEs tan mentiroso que si le das un reloj y le quita las pilas, este no llegaría dar la hora correcta dos veces al día.\nEn realidad aunque tuviera el título (la facultad dice que no), tampoco sería periodista.\n[#17](c17#c-17) A ver, que ya sabíamos que le comías los huevos a pagascal con absoluta efusividad, no hacía falta que te retratases aún más.\nQué grande el excoletas por haber retratado a toda la escoria fascista, aplastapobres y vendepatrias de este país. Todavía se sabe que escuece viendo que tienen a bastardos malpagados defendiendo lo indefendible por doquier. Son tan tiernos.\nPues hay que ser muy lerdo, negado, para no acabar la carrera de periodismo, esas carreras de pintar y colorear; Si me dijeras una carrera de ciencias, quizás.\nMira que no valer ni pa eso.\nAlvise es un tentetieso para salir de Ayuso. Me dan ganas de votar cada noticia de Alvise SPAM a partir de ahora.\nAdemás de mentiroso es que es subnormal: la figura del licenciado hace años que no existe. En todo caso sería graduado. Es más, lo pone en la banda.\nEstá claro que se hizo la foto de graduación con créditos pendientes y ahora va de que ha terminado la carrera.\nBueno, quizás haya acabado las asignaturas que le acababan en Mayo o Junio...\nLa prueba que dice la chavala resentida esta de que está matriculada con ella no me parece que signifique mucho a estas alturas del año.\nQue el colegio le pida cuentas a él por decir que es Periodista sin serlo, si es que es así.\nPero no sé porque tanto revuelo, la verdad, es periodismo, ni que fuese una carrera de ciencias.\n[#4](c4#c-4) bueno, pero eso también aplica a muchos de los que a día de hoy ya tienen el titulo. Incluso a muchos que llevan décadas con el titulo\n[#10](c10#c-10) además, esa afirmación la dijo Pablo Iglesias sí, pero estando soltero, sin hijos, sin mercenarios de la derecha amenazando a su familia.\nComo mínimo, una persona de \"bien\" con un mínimo de razonamiento, se daría cuenta que una afirmación así estando soltero, no se puede mantener cuando estas en pareja, o formando una familia, porque esa decisión ya no es sólo tuya.\nPor lo tanto, solo un necio puede llamar hipócrita a Pablo Iglesias por no seguir viviendo en Vallecas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:45:08.081+03:00",
+    "updated": "2024-06-14T00:45:08.081+03:00"
+  },
+  {
+    "uuid": "83842bce6eaf96f442eed50074ade1f7bc4d27c4",
+    "url": "https://www.newsbreak.com/business-insider-562169/3684437666811-american-airlines-is-starting-to-shame-passengers-who-try-to-board-too-early",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grace Eliza Goodwin",
+    "published": "2024-11-21T20:00:00Z",
+    "title": "American Airlines is starting to shame passengers who try to board too early",
+    "text": "By Grace Eliza Goodwin, 2 hours ago- American Airlines is rolling out tech that calls out passengers who try to board before their turn. - Travelers can expect to see it in action at more than 100 airports this holiday season. - The new tech also gives staff more info on passengers' connections and boarding groups. American Airlines is cracking down on passengers who try to sneak their way into an earlier boarding group. The airline is introducing new technology that helps gate agents catch overeager boarders at more than 100 airports across the country, the company said in a press release Wednesday. When a flyer tries to board their flight in an earlier boarding group than they're assigned, the gate agent's scanner will recognize the incorrect boarding group and notify them with a special two-tone sound. That alerts the agent to tell the passenger to wait their turn — and could also draw unwanted attention to the passenger. Boarding groups are designed to allow passengers with more expensive tickets, US military members, and certain airline status-holders to get on the plane earlier than those who haven't earned or bought these benefits. \"We've heard from our customers that the ability to board with their assigned group is important to them because it's a benefit associated with their AAdvantage status or fare purchase,\" Julie Rath, a senior vice president at the airline, said in the company's press release. American has tested out this new software over the past month at airports in Tucson, Arizona; Albuquerque, New Mexico; and Washington, DC. The airline said that because it received a positive response from both customers and team members during this trial period, it decided to roll out the tech in time for the holiday travel season. Flyers can now expect the updates at non-hub airports in cities like Austin, Texas, and Atlanta. The company's hubs — which include airports in New York, Chicago, and Los Angeles — will be getting the tech in the coming months, the airline said. While the crackdown may be bad news for boarding group hoppers, it's likely great news for airline workers. Seasoned travelers, flight attendants, and gate staff say that people crowding the gate before boarding begins or trying to jump the boarding line is one of their biggest pet peeves. They even call some of these passengers \"gate lice.\" Business Insider Comments / 2 YOU MAY ALSO LIKE I toured the world's first Airbus A321XLR business class. The lie-flat seats lack one popular feature — but are easy to love anyway. An AI startup CEO on a Forbes '30 Under 30' list has been charged with defrauding investors out of $10 million New York City's Fifth Avenue has been dethroned as the world's most expensive shopping street — here's the new Top 10 I went to law school in Mexico and an Ivy League in the US. It was cheaper and easier to make friends in Mexico. National Geographic unveiled its Pictures of the Year. Here are 7 of the most stunning wildlife photos. US admiral says sending Israel and Ukraine weapons like Patriot missiles is eating into what's needed for countering China Trump said he'd use the military for mass deportations. Here are the industries with the most immigrant workers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.businessinsider.com/flight-attendant-pet-peeves-passengers-gate-lice-boarding-crowds-2023-3",
+      "https://news.aa.com/news/news-details/2024/American-Airlines-expands-boarding-technology-to-more-than-100-airports-to-support-customers-and-team-members-this-holiday-season-OPS-POL-11/",
+      "https://www.businessinsider.com/american-airlines-cracks-down-passengers-hop-boarding-groups-2024-11",
+      "https://www.news.aa.com/news/news-details/2024/American-Airlines-expands-boarding-technology-to-more-than-100-airports-to-support-customers-and-team-members-this-holiday-season-OPS-POL-11/",
+      "https://businessinsider.com/american-airlines-cracks-down-passengers-hop-boarding-groups-2024-11",
+      "https://businessinsider.com/flight-attendant-pet-peeves-passengers-gate-lice-boarding-crowds-2023-3",
+      "https://news.aa.com/news/news-details/2024/American-Airlines-expands-boarding-technology-to-more-than-100-airports-to-support-customers-and-team-members-this-holiday-season-OPS-POL-11"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T00:15:35.276+02:00",
+    "updated": "2024-11-22T00:15:35.276+02:00"
+  },
+  {
+    "uuid": "24d273ca53c1f9dd725cafcdf3604bb5d2eaf87a",
+    "url": "https://www.thepaper.cn/newsDetail_forward_31045019",
+    "ord_in_thread": 0,
+    "author": "直击现场",
+    "published": "2025-06-26T00:00:00Z",
+    "title": "有男子穿女装替考？中南大：拟开除委托人，代考者身份核实中_直击现场_澎湃新闻-The Paper",
+    "text": "- +1\n有男子穿女装替考？中南大：拟开除委托人，代考者身份核实中\n中南财经政法大学网站、@扬子晚报\n字号\n中南财经政法大学教务部6月25日发布：2024-2025学年第二学期期末考试违纪舞弊情况通报（五）。\n在2025年6月24日08:00-10:00文泰306考场进行的《高级会计学》考试过程中，会计学院学生李某扬（2021*****102）有违纪舞弊行为：委托他人代为考试。\n根据《中南财经政法大学全日制学生考试违纪舞弊处理办法（修订）》第九条第二款的规定，拟决定给予李某扬开除学籍处分。\n代考人为李某扬从网络平台结识，事发后逃离现场，其身份在调查核实中。\n此前据@扬子晚报 消息，6月24日，有网友在社交平台上发帖称，武汉中南财经政法大学某场考试中一男子着女装替考，引发网友热议。\n据网传论坛图片，有网友发帖表示，“听说上午考高会（高级会计）的时候有一个人替考被抓了？好像还是男扮女装去替考的？”帖子发出后引来不少评论，有网友表示自己也对此有所耳闻，称“那个男的戴着假发和口罩去考试，然后被监考老师发现了”“就是我们考场的”……帖子经转载后，很多网友直呼“咋想的天呐”“可能想复读了吧”“千万别替考呀，替考双方都没学籍了。”……\n25日下午，记者电话联系了中南财经政法大学考务与学位管理办公室，办公室工作人员告诉记者，网传男扮女装替考的事情还在调查当中。“后续可以关注我们教务部的官网，对于考试违纪舞弊情况会有相关通报。”该工作人员回应称。\n责任编辑：王建亮\n图片编辑：乐浴峰\n澎湃新闻报料：021-962866\n澎湃新闻，未经授权不得转载\n+1\n收藏\n我要举报\n查看更多\n扫码下载澎湃新闻客户端\n互联网新闻信息服务许可证：31120170006\n增值电信业务经营许可证：沪B2-2017116\n© 2014-2025 上海东方报业有限公司\n反馈",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->fraud",
+      "Education->educational testing and examinations",
+      "Education->college and university",
+      "Education->students",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T09:29:56.102+03:00",
+    "updated": "2025-06-26T06:33:08.000+00:00"
+  },
+  {
+    "uuid": "6c5add16d1d73788eb6e6013447c300310eb96f1",
+    "url": "https://www.newkerala.com/news/2023/131437.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Awin P",
+    "published": "2023-12-28T19:00:00Z",
+    "title": "Dream come true for me: Katrina Kaif on working with Sriram Raghavan in 'Merry Christmas'",
+    "text": "Mumbai, December 28 A ctor Katrina Kaif is all set to come up with her upcoming movie 'Merry Christmas', which is directed by Sriram Raghavan. ctor Katrina Kaif is all set to come up with her upcoming movie 'Merry Christmas', which is directed by Sriram Raghavan. Sharing the experience of working with director Sriram Raghavan, actor Katrina Kaif shared, \"Working with Sriram Raghavan was a dream come true for me. I feel incredibly fortunate to have had that opportunity. He's a phenomenal director with an incredible mind, and being on his set is like entering a whole different world.\" She added, \"He's an amazing collaborator, both as a filmmaker and as a person. It was a very intense experience, especially doing the film in two languages. All of us have been very passionate about making this film from day 1 and are very excited for the release.\" Earlier, on the occasion of Christmas, the makers of the Katrina Kaif and Vijay Sethupathi-starrer 'Merry Christmas' unveiled the film's title track. The song is sung by Ash King and composed by Pritam. Unveiling the song's audio, Tips' social media took to Instagram and wrote, \"The perfect #MerryChristmas song is here. In Cinemas 12th Jan.\" https://www.instagram.com/p/C1R7vu4Njic/?hl=en 'Merry Christmas' is directed by Sriram Raghavan, who has earlier helmed hits like 'Badlapur' and 'Andhadhun.' A few days ago, the film's trailer was released and it left everyone intrigued. https://www.instagram.com/p/C1Er3TWxEiH/?hl=en Going by the trailer of the film, director Sriram Raghavan has put his signature spin on the traditional structure of romance, as suspense, seduction, and surprises await the audience. Vijay and Katrina's chemistry is refreshing and is bound to impress the audience. Merry Christmas is shot in two languages, with different supporting actors. The Hindi version also features Sanjay Kapoor, Vinay Pathak, Pratima Kannan, and Tinnu Anand. On the other hand, the Tamil version stars Radhika Sarathkumar, Shanmugaraja, Kevin Jay Babu, and Rajesh Williams in the same roles. 'Merry Christmas' is slated to release in theatres on January 12, 2024. It is produced by Ramesh Taurani, Sanjay Routray, Jaya Taurani, and Kewal Garg. Dream come true for me: Katrina Kaif on working with Sriram Raghavan in 'Merry Christmas' Found this article helpful? Spread the word and support us!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/p/C1Er3TWxEiH/?hl=en",
+      "https://www.instagram.com/p/C1R7vu4Njic/?hl=en",
+      "https://instagram.com/p/C1R7vu4Njic/?hl=en",
+      "https://www.instagram.com/p/C1Er3TWxEiH/",
+      "https://instagram.com/p/C1Er3TWxEiH/?hl=en",
+      "https://www.instagram.com/p/C1R7vu4Njic/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "katrina kaif",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sriram raghavan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kaif",
+          "sentiment": "none"
+        },
+        {
+          "name": "vijay sethupathi",
+          "sentiment": "none"
+        },
+        {
+          "name": "pritam",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "mumbai",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:44:44.049+02:00",
+    "updated": "2023-12-29T00:44:44.049+02:00"
+  },
+  {
+    "uuid": "1b075189b425237e9542f8c901cda266bd11449c",
+    "url": "https://www.aljazeera.net/health/2025/7/3/%d9%85%d8%a7%d8%b0%d8%a7-%d8%aa%d9%81%d8%b9%d9%84-%d8%a5%d8%b0%d8%a7-%d9%83%d9%86%d8%aa-%d8%aa%d8%b9%d8%a7%d9%86%d9%8a-%d9%85%d9%86-%d8%b3%d9%84%d8%b3-%d8%a7%d9%84%d8%a8%d9%88%d9%84",
+    "ord_in_thread": 0,
+    "author": "الجزيرة نت",
+    "published": "2025-07-03T05:05:00Z",
+    "title": "ماذا تفعل إذا كنت تعاني من سلس البول؟ | صحة | الجزيرة نت",
+    "text": "تفسد بعض العوارض الصحية حياة الأفراد وتجعلهم يترددون عند الخروج من المنزل أو ممارسة الأنشطة المعتادة، وأسوأ هذه العوارض تلك التي تتعلق بتسرب البول من المثانة رغما عن إرادة الإنسان.\nيعاني ما يصل إلى 30% من كبار السن من سلس البول ، وهو خروج البول دون قصد، وتنتشر هذه المشكلة بشكل أكبر بين النساء، وقد ارتفعت نسبة الرجال الذين يعانون من هذه المشكلة خلال العقد الماضي تقريبا. إليك ما يجب معرفته حول سلس البول ومتى يجب زيارة الطبيب.\nما الذي يسبب سلس البول؟\nيوجد عدة أنواع من سلس البول، تعتمد إستراتيجيات العلاج على نوعه وشدّته، ومدى انزعاج المريض واعتلال صحته.\nيحدث سلس البول الإلحاحي، وهو نوع شائع من سلس البول، عند الشعور بحاجة مفاجئة أو شديدة للذهاب إلى الحمام، ولكن البول يتسرب قبل أن يتمكن المريض من ذلك، عادة ما يكون سببه عامل مهيج يدفع المثانة إلى الانقباض في وقت لا ينبغي لها فيه ذلك، تشمل العوامل المهيجة القهوة والأطعمة الحارة والمحليات الصناعية.\nويحدث سلس البول الإجهادي عند العطس أو السعال أو الضحك، مما يزيد الضغط على المثانة، كما أن زيادة الوزن والإمساك يمكن أن يزيدا الضغط الكلي على المثانة.\nتشبه المثانة الخزان الممتلئ بالبول طوال اليوم، غالبا ما يحدث التسرب عند انقباضها أو عند وجود ضغط شديد عليها.\nيقول ستيفن سامرز، المدير الطبي لعيادة المسالك البولية للبالغين في جامعة يوتا هيلث في الولايات المتحدة لصحيفة واشنطن بوست الأميركية: \"يتفاعل الجسم بتسريب القليل من البول لتقليل الضغط\".\nكيف تقي نفسك من سلس البول؟\nتقول جينيفر مايلز توماس، الأستاذة المساعدة في جراحة المسالك البولية بكلية فاينبرغ للطب بجامعة نورث وسترن في الولايات المتحدة: \"ابدأ بإعطاء الأولوية لنمط حياة صحي بشكل عام\".\nيعد تناول الفواكه والخضروات جزءا أساسيا من النظام الغذائي الصحي، وهي غنية بالألياف، مما يساعد على الوقاية من الإمساك، ومن المهم أيضا الحد من مهيجات المثانة، مثل القهوة (حتى منزوعة الكافيين).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->therapy",
+      "Health->health treatment and procedure",
+      "Health->medical condition",
+      "Social Issue->disabilities",
+      "Social Issue->social problem",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ma",
+        "top_news_iq",
+        "top_news_il",
+        "top_news_dk",
+        "top_news_se",
+        "top_news_ae",
+        "top_news_rs",
+        "top_news_qa",
+        "top_news_hr",
+        "top_news_eg",
+        "top_news_sa",
+        "top_news_kw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T09:00:27.991+03:00",
+    "updated": "2025-07-03T06:04:58.000+00:00"
+  },
+  {
+    "uuid": "717aa8cda55de4f3678d7c06415702eef42a528e",
+    "url": "https://www.diariodelaltoaragon.es/noticias/actualidad/2024/09/26/bombardeos-de-israel-contra-el-libano-dejan-60-muertos-1765401-daa.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diario del AltoAragón",
+    "published": "2024-09-26T20:32:00Z",
+    "title": "Los bombardeos de Israel contra el Líbano dejan 60 muertos y 81 heridos en una sola jornada",
+    "text": "Los bombardeos de Israel contra el Líbano dejan 60 muertos y 81 heridos en una sola jornada Netanyahu reiteró que el país seguirá “golpeando a Hezbolá” con todas sus fuerzas Israel lanzó el jueves un total de 115 ataques aéreos que causaron la muerte de al menos 60 personas en diferentes puntos del sur y el este del Líbano, pero también contra los barrio del sur de Beirut conocidos como el Dahye, uno de los principales bastiones del grupo chií libanés Hezbolá. El ministro de Medioambiente y coordinador del Plan Nacional de Emergencia del Líbano, Nasser Yassin, dijo en un informe que “hoy se registraron alrededor de 115 ataques en varias zonas del Líbano, lo que provocó 60 mártires y 81 heridos”, según un recuento de datos del Ministerio de Salud Pública del país mediterráneo. Estos bombardeos, que desde que Israel inició su campaña de ataques el lunes se concentran en el sur y el este del Líbano, han forzado el desplazamiento de decenas de miles de personas, entre ellas al menos 77.100, que se han registrado en los centros de acogida habilitados por el Gobierno en los últimos días. Ante estos movimientos, las autoridades libanesas han ampliado a 565 el número de instalaciones públicas (principalmente escuelas e institutos) destinadas a recibir a los desplazados, de acuerdo con el ministro. “También hay un gran número de desplazados que se han trasladado a otras casas en diferentes zonas, se están quedando con familiares o están en casas de alquiler, hoteles u otros lugares públicos o privados”, añadió. Por otra parte, Yassin indicó que en los últimos días las autoridades han registrado “el cruce de 15.600 ciudadanos sirios y otros 16.130 ciudadanos libaneses hacia territorio sirio”, mientras que indicó que “miles han viajado por aire” a otros países, por lo que “el número real” de desplazados “sea probablemente mucho mayor”. La campaña de ataques de Israel ha dejado desde el lunes alrededor de 700 muertos, un número de víctimas sin precedentes desde la guerra civil libanesa (1975-1990), lo que ha provocado un aumento de los llamados de la comunidad internacional para lograr un alto el fuego. Netanyahu niega cualquier posible tregua en Líbano El primer ministro israelí, Benjamín Netanyahu, enfrió ayer la posibilidad de una tregua en Líbano. “Las noticias sobre un alto el fuego son incorrectas. Se trata de una propuesta franco-estadounidense, a la que el primer ministro ni siquiera respondió”, indicó esta mañana, después de que trascendiera una propuesta de alto el fuego de 21 días. Horas después, tras su llegada a Nueva York para participar en la Asamblea General de la ONU, el propio Netanyahu reiteró que el país seguirá “golpeando a Hezbolá ” con todas sus fuerzas. “No pararemos hasta lograr todos nuestros objetivos”, dijo en un vídeo compartido por su oficina. “No debemos dar tiempo al enemigo con el fin que se reorganice para continuar la guerra pasados 21 días”, dijo el ministro de Finanzas, Bezalel Smotrich, en la red social X. המערכה בצפון צריכה להסתיים בתרחיש אחד - ריסוק חיזבאללה ושלילת יכולותיו לפגוע בתושבי הצפון. — בצלאל סמוטריץ' (@bezalelsm) אסור לתת זמן לאוייב להתאושש מהמכות הקשות שחטף ולהתארגן מחדש להמשך המלחמה אחרי 21 יום. כניעה של חיזבאללה או מלחמה, רק ככה נחזיר את התושבים והביטחון לצפון ולמדינה.[September 26, 2024] \"La campaña en el norte debería terminar en un escenario: aplastar a Hezbolá y negar su capacidad de dañar a los residentes del norte. No se debe dar tiempo al enemigo para que se recupere de los fuertes golpes recibidos y se reorganice para continuar la guerra después de 21 días. La rendición de Hezbolá o la guerra, es la única manera de devolver a los residentes y la seguridad al norte y al país.\", escribió. Estados Unidos envía más ayuda militar a Israel Israel recibirá más de 5.000 millones de dólares adicionales en ayuda militar por parte de Estados Unidos, anunció ayer el Ministerio de Defensa de Israel. Los fondos irán dirigidos a mejorar el sistema de defensa aérea israelí, en plena escalada del fuego cruzado con el grupo chií Hezbolá en Líbano. En concreto, la nueva ayuda permitirá reforzar los sistemas de la Cúpula de Hierro y la Honda de David (David’s Sling), que permiten a Israel interceptar misiles de corto y largo alcance, y poner en marcha un nuevo “sistema de defensa láser” que se encuentra en sus últimas etapas de desarrollo, según un comunicado del Ministerio de Defensa. Los 5.000 millones se unen a los más de 3.000 millones de dólares en asistencia militar que Israel recibe anualmente como parte de un acuerdo de 10 años con Washington, que entró en vigor en 2019.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:06:48.686+03:00",
+    "updated": "2024-09-27T01:06:48.686+03:00"
+  }
+]

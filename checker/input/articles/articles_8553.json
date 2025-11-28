@@ -1,0 +1,163 @@
+[
+  {
+    "uuid": "5137f0f753655d7fcf7624ac012325683c98d2c0",
+    "url": "https://www.ilmessaggero.it:443/italia/papa_francesco_testamento_morale_messaggio_mondo_cosa_ha_detto-8676017.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Papa Francesco, messaggio al mondo: «Umanità piena di odio, il futuro è nel perdono»",
+    "published": "2025-02-23T23:15:00Z",
+    "title": "Papa Francesco, messaggio al mondo: «Umanità piena di odio",
+    "text": "Papa Francesco, messaggio al mondo: «Umanità piena di odio, il futuro è nel perdono» L’omelia scritta dal Pontefice nella stanza del Gemelli ricalca l’enciclica Fratelli Tutti: «Ci si salva insieme o non si salva nessuno. Dare senza chiedere nulla in cambio unisce»",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "topics": [
+      "Religion and Belief->pope",
+      "Religion and Belief->christianity",
+      "Religion and Belief->religious leader",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->discrimination",
+      "Social Issue->values"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Francesco",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-24T01:22:06.304+02:00",
+    "updated": "2025-02-24T01:22:06.304+02:00"
+  },
+  {
+    "uuid": "8a14272ebaeff74208022e3a788932fbf44db973",
+    "url": "https://netfla.com.br/noticias/assinatura-de-contrato-e-1a-vez-no-ninho-do-urubu-confira-como-foi-o-primeiro-dia-de-juninho-no-flamengo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@netfla_oficial",
+    "published": "2025-01-16T19:10:00Z",
+    "title": "Assinatura de contrato e 1ª vez no Ninho do Urubu: Confira como foi o primeiro dia de Juninho no Flamengo",
+    "text": "O atacante Juninho oficializou seu vínculo com o Flamengo na manhã desta quarta-feira, no Ninho do Urubu. Contratado por 5 milhões de euros (aproximadamente R$ 31 milhões na cotação atual), o jogador firmou um acordo válido por quatro anos, tornando-se o primeiro reforço da gestão Bap.\nApós realizar exames médicos na última terça-feira, em um hospital na Barra da Tijuca, Juninho foi aprovado e teve o laudo encaminhado à delegação que está nos Estados Unidos, recebendo o aval necessário para a assinatura.\nO atacante visitou o Ninho do Urubu pela primeira vez para formalizar o contrato. Durante a manhã, ele conheceu a estrutura do centro de treinamento e realizou uma breve atividade na academia.\nAgora, o processo aguarda as assinaturas finais do presidente Bap e do Qarabag, clube vendedor, para ser concluído. O dirigente viajará nesta quinta-feira aos Estados Unidos, onde representará o Flamengo em um evento da Fifa relacionado ao Mundial de Clubes. Com a oficialização completa, o nome de Juninho será registrado no BIRA e BID.\nEnquanto isso, Juninho permanecerá no Ninho do Urubu, aguardando o retorno da delegação rubro-negra dos Estados Unidos. O jogador não participará das primeiras rodadas do Carioca, que estão sendo disputadas no Nordeste.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->regular competition",
+      "Sport->soccer",
+      "Sport->sports transaction"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:08:14.487+02:00",
+    "updated": "2025-01-17T00:08:14.487+02:00"
+  },
+  {
+    "uuid": "f10d74f502b5af316b4877e9b5e034db2d9def4b",
+    "url": "https://community.netgear.com/t5/ReadyNAS-Storage-Apps-Old-Legacy/ReadyNAS-RNDP6000-RND-6B-stuck-at-quot-ReadyNAS-quot-state-when/m-p/2405741",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "viktor77796",
+    "published": "2024-11-22T08:58:00Z",
+    "title": "Re: ReadyNAS RNDP6000 RND-6B stuck at \"ReadyNAS\" s... - NETGEAR Communities",
+    "text": "Good day!\nThere is a problem - ReadyNAS RNDP6000 RND-6B freezes at \"ReadyNAS\" state when turned on.\nAccording to the owner of the device, first the raid disappeared, then the disks were disconnected, and then everything froze. There was no upgrade from OS 4 to 6.\nActions taken:\n1) Test replacement of the power supply to ATX with 300W did not help\n2) The RAM was replaced - did not help\n3) Replacing the 2032 battery - did not help\n4) Cleaning the cooler and replacing thermal paste - did not help\n5) A factory reset is not performed according to the instructions, the system does not react to it in any way\nAmong the anomalies and nuances:\n1) On the Flame6 ver: 1.1 motherboard, the red LED1 light is on. I did not find information on this motherboard and, accordingly, documentation to understand the reason.\n2) Also, when starting up, the LAN1,2 light does not light up, so I also cannot access the device via the network.\n3) The Backup light is on.\nPlease tell me in which direction to dig on this problem?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T16:05:35.057+02:00",
+    "updated": "2024-11-22T16:05:35.057+02:00"
+  },
+  {
+    "uuid": "43b1d33f5d4e9330b123f9a430b0b689cd82bc28",
+    "url": "https://www.cronica.com.mx/nacional/morena-suma-embestida-ernesto-zedillo-culpa-fobaproa.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alejandro Páez",
+    "published": "2024-01-25T20:48:00Z",
+    "title": "Morena se suma a embestida contra Ernesto Zedillo; lo culpa del Fobaproa",
+    "text": "Morena se suma a embestida contra Ernesto Zedillo; lo culpa del Fobaproa “Luego de una de las peores crisis económicas que ha tenido nuestro país, su gobierno absorbió las deudas privadas de la oligarquía para convertirlas en deuda pública”, acusó el partido apoyo a amlo La dirigencia nacional de Morena se sumó a la embestida del Presidente [Andrés Manuel López Obrador](https://www.cronica.com.mx/opinion/amlo-sombra-campanas.html) contra el expresidente Ernesto Zedillo y lo responsabilizó del Fobaproa mediante—según dijo— la absorción, las deudas privadas y las convirtió en públicas para salvar a los bancos de la crisis económica que se registró a principios de ese sexenio. “Luego de una de las peores crisis económicas que ha tenido nuestro país, su gobierno absorbió las deudas privadas de la oligarquía para convertirlas en deuda pública, misma que el pueblo sigue pagando al día de hoy y así lo hará durante décadas”, acusó el dirigente nacional de Morena, [Mario Delgado,](https://www.cronica.com.mx/nacional/confirma-mario-delgado-ernestina-godoy-senaduria-morena.html) quien es economista egresado del Instituto Tecnológico. Autónomo de México (ITAM). Luego de que Zedillo reapareció en México en un evento público donde criticó a los gobiernos populistas y advirtió los riesgos que entrañan para la democracia en la región latinoamericana, el presidente Andrés Manuel López Obrador arremetió contra el exmandatario a quien acusó de miembro de la oligarquía y gobernar “para los de arriba”. López Obrador mencionó que durante el gobierno de Zedillo no hubo democracia, y el exmandatario se enfocó en beneficiar a la oligarquía y los de arriba. “Eso se llama oligarquía con fachada de democracia, discurso democrático, pero los hechos es un gobierno faccioso, no es un gobierno que esté pensando en beneficiar al pueblo”, fustigó. En ese tenor, el dirigente nacional de Morena se subió al “ring” y acusó a la derecha de hipocresía e incluso culpó a Zedillo de que en su gobierno se despojó a los trabajadores de su derecho a una pensión digna. “En verdad que la doctrina de la derecha es la hipocresía. En el gobierno de Zedillo las y los trabajadores fueron despojados de su derecho a tener una pensión digna para su retiro”, aseveró. Explicó que el neoliberalismo es una visión de país que beneficia a unos cuantos a costa del empobrecimiento de la mayoría, por lo cual consideró que tuvo que llegar el humanismo mexicano para enseñarle a los neoliberales cómo se gobierna por y para la gente. En ese sentido, recordó que López Obrador enviará el próximo 5 de febrero una iniciativa para remediar “la larga noche neoliberal” y regresarle a los trabajadores su derecho a tener una jubilación digna.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:03:01.775+02:00",
+    "updated": "2024-01-26T00:03:01.775+02:00"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "uuid": "c2c3ff953f93a175824c6b0cc419df0882d412b8",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3928885.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "MSCIESGETF（159621）跌0.91%，半日成交额582.57万元|ESG_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，MSCIESGETF（159621）跌0.91%，报0.975元，成交额582.57万元。MSCIESGETF（159621）重仓股方面， 贵州茅台 截止午盘涨0.00%， 宁德时代 跌1.13%， 招商银行 跌0.70%， 兴业银行 跌0.08%， 农业银行 涨0.17%， 工商银行 涨0.14%， 长江电力 跌0.33%， 中国平安 跌0.93%， 迈瑞医疗 跌1.30%， 比亚迪 跌1.40%。\nMSCIESGETF（159621）业绩比较基准为MSCI中国A股人民币ESG通用指数(MSCI China A RMB ESG Universal Index)收益率，管理人为国泰基金管理有限公司，基金经理为苗梦羽，成立（2022-08-30）以来回报为-1.65%，近一个月回报为0.14%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->debt market",
+      "Economy, Business and Finance->business reporting and performance",
+      "Social Issue->adults",
+      "Social Issue->welfare",
+      "Social Issue->social condition",
+      "Politics->government budget",
+      "Politics->regulation of industry",
+      "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:28.262+03:00",
+    "updated": "2025-06-20T05:05:52.000+00:00"
+  },
+  {
+    "uuid": "289599cb604b240e11727c43db1313a2fc98d86c",
+    "url": "https://whtc.com/2024/02/01/cloudflare-says-state-backed-hackers-tried-to-burrow-into-its-global-network",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2024-02-01T21:59:00Z",
+    "title": "Cloudflare says state-backed hackers tried to burrow into its global network",
+    "text": "By Raphael Satter\nWASHINGTON (Reuters) – Internet firm Cloudflare said in a statement on Thursday that an advanced group of hackers tried to burrow deep into its global network late last year but were thwarted.\nThe company, which did not identify the hackers, said in a blog post that it had discovered the intruders on Thanksgiving in late November and ejected them the following day. The spies were able to access “some documentation and a limited amount of source code” but Cloudflare said the operational impact of the intrusion was “extremely limited.”\n“Based on our collaboration with colleagues in the industry and government, we believe that this attack was performed by a nation state attacker with the goal of obtaining persistent and widespread access to Cloudflare’s global network.”\nCloudflare said it had called in cybersecurity firm CrowdStrike to help remediate the breach and that the company confirmed that the last evidence of “threat activity” was left on Nov. 24.\nCrowdStrike did not immediately respond to a request for comment. The FBI and the American cyber watchdog agency CISA also did not immediately respond to a message seeking comment.\nCloudflare offers a suite of web and application services, including content delivery and network protection. A large chunk of the internet relies on the San Francisco-based company to deliver its web content to users, so any disruption to its network can have serious knock-on effects.\n(Reporting by Raphael Satter; Editing by Bill Berkrot)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "raphael satter",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cloudflare",
+          "sentiment": "negative"
+        },
+        {
+          "name": "crowdstrike",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cloudflare",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:19:05.653+02:00",
+    "updated": "2024-02-02T00:19:05.653+02:00"
+  },
+  {
+    "uuid": "4705377b5dd2113b06fc47eb5930d07978e6807e",
+    "url": "https://www.eldiario.es/politica/distopia-mental-ayuso-espana-1984-mejor-comida_129_11761593.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jesús Hellín \\/ Europa Press",
+    "published": "2024-10-24T20:53:00Z",
+    "title": "En la distopía mental de Ayuso, España ya es como 1984 pero con mejor comida",
+    "text": "En la distopía mental de Ayuso, España ya es como 1984 pero con mejor comida 48 Ya no tiene tanta gracia decir 'pa’lante' cuando el que está sudando es tu novio. O cuando los demás hacen contigo lo mismo que tú llevas tiempo haciendo a tus adversarios políticos. Es más complicado presentarse como víctima si la gente piensa en ti viviendo en un piso de un millón de euros o subida a un Maserati junto a un comisionista que luce un Rolex que ha intentado colar como gasto desgravable. Tus compañeros de partido no te ven igual después de que hayas dicho que no vas a la Moncloa porque no quieres “blanquear” a Pedro Sánchez, con lo que les estás acusando de hacer precisamente eso. Aquel al que le gusta amenazar lo pasa mal cuando él es el amenazado. El doctor Feijóo ya tiene un diagnóstico sobre el estado de la paciente. Isabel Díaz Ayuso no se reunirá con el presidente porque está muy afectada por los ataques que recibe. “Cómo no voy a entender que cualquier persona con estas condiciones simplemente desde el punto de vista anímico no está en condiciones”, dijo el miércoles con su alambicada retórica de costumbre. Al menos, no anunció que ella se va a tomar cinco días de asuntos propios para reflexionar sobre su situación personal. Llamó la atención que Feijóo se mostrara comprensivo de esa manera. Pareció un poco condescendiente, pero Ayuso siempre ha sabido defenderse por sí misma y no se entiende que ahora el líder del PP afirme que ha llegado a su límite. En el pleno de la Asamblea de Madrid del jueves, no se la vio en plenitud de facultades. En circunstancias similares, habría lanzado una tormenta despiadada de ataques contra las críticas de la oposición a cuenta de los negocios del novio. [“¿Cómo hay que llamar a una persona](https://x.com/eldiarioes/status/1849366795854954634) que ha admitido por escrito que ciertamente se cometieron delitos? Delincuente, no le gusta. ¿Prefiere defraudador? ¿Moroso fiscal? ¿Estafador quizás?”, le preguntó Manuela Bergerot, de Más Madrid. En televisión, Bergerot ya había respondido antes a esas alternativas: [“El novio de la presidenta es un delincuente,](https://x.com/manuelabergerot/status/1849008836461425107) él mismo lo ha confesado”. La respuesta de Alberto González Amador ha sido [presentar una demanda](https://www.eldiario.es/madrid/pareja-ayuso-demanda-lider-madrid-llamarle-delincuente-le-pide-20-000-euros_1_11760789.html) contra la líder de Más Madrid y exigirle una rectificación, porque de lo contrario exigirá una indemnización de 20.000 euros en concepto de “daños morales”. Debe de tener la moral hecha polvo. Ya son nueve las demandas que ha presentado, incluida una contra Sánchez, contra todos aquellos que han recordado que su abogado admitió en una comunicación con el fiscal que su cliente había cometido dos delitos fiscales por una deuda con Hacienda de 350.000 euros. No se le puede negar que ganar dinero con demandas por el derecho al honor sí es legal. Amador y su novia se encuentran [ante un problema legal con el que no contaban.](https://www.eldiario.es/politica/jueza-investiga-pareja-ayuso-abre-pieza-separada-investigar-relacion-quiron_1_11758650.html) La jueza había desestimado la petición del PSOE y Más Madrid de ampliar la investigación de los delitos fiscales a sus negocios con la empresa sanitaria Quirón, pero esta semana ha rectificado y ha abierto una pieza separada. El Grupo Quirón ha recibido adjudicaciones por el gobierno madrileño por un valor de cientos de millones. La nueva vía de investigación puede afectar al presidente de una filial de Quirón que está en el consejo de administración de la compañía con la que Amador obtuvo dos millones de euros de comisión por una venta de mascarillas. El problema no sería solo no haber declarado todos esos ingresos a Hacienda, sino cómo los obtuvo. Todo empezó a torcerse para Díaz Ayuso cuando decidió aplicar su manual de combate a las primeras informaciones de este diario sobre los presuntos delitos fiscales de su pareja. En vez de circunscribirlo a sus responsabilidades como contribuyente, se convirtió en su principal abogada defensora. Afirmó en una rueda de prensa en Leganés en marzo que [se estaba utilizando “todo el poder del Estado”](https://www.eldiario.es/politica/diaz-ayuso-feliz-novio-casa-maserati_129_11209190.html) contra Amador y pretendió darle la vuelta a toda la historia. Era Hacienda la que debía dinero a Amador, no al revés, dijo. Su jefe de gabinete, Miguel Ángel Rodríguez, se ocupó de [amenazar a los medios de comunicación](https://www.eldiario.es/politica/ayuso-guerra-periodistas-feijoo-corrupcion_129_11232571.html) que informaron del caso. También puso en circulación el bulo de que el fiscal había ofrecido a Amador un pacto para cerrar el caso, pero se echó atrás por “órdenes de arriba”. [Lo hizo el mismo día en que Ayuso](https://www.eldiario.es/politica/maniobras-ayuso-miguel-angel-rodriguez-caso-fraude-fiscal-pareja-presidenta_1_11744407.html) daba la rueda de prensa de Leganés. La información era falsa, lo que no impidió que apareciera en varios medios. Ayuso no deja de llamar a su pareja “ciudadano particular” –lo hizo también este jueves– y, sin embargo, ella fue la que quiso asumir la defensa política de sus intereses personales desde el primer momento. La oposición le tomó la palabra inmediatamente. Desde entonces, la presidenta madrileña no ha dejado de insistir en que investigan a su novio porque es su novio. “Todo lo que está pasando obedece a una cacería política”, ha dicho Ayuso. Es lo mismo que afirman Sánchez y sus ministros sobre el caso de Begoña Gómez. Los socialistas acaban de encajar tres derrotas jurídicas con la decisión de la Audiencia de Madrid de permitir al juez Peinado que continúe con sus investigaciones y el rechazo del TSJ de Madrid a aceptar las querellas por prevaricación presentadas por Sánchez como presidente del Gobierno y por su esposa a título particular. Ayuso no ha dicho su última palabra. De hecho, continúa en su empeño de sostener que España no es realmente una democracia, una idea tan solvente como cuando dice que “ETA está más fuerte que nunca”. Esta semana, ha subido el nivel de alarma hasta [afirmar que “España ya es un Estado policial”.](https://www.eldiario.es/politica/ayuso-cree-espana-policial-ejerciendo-control-autoritario-ciudadania_1_11759141.html) Le parece muy mal que se conozca que su novio intentó desgravar gastos personales como la compra de un Rolex y la reparación del Porsche a través de su empresa. La Ayuso más 'borroka' y antisistema afirmó en una entrega de premios que la policía actúa con frecuencia “fuera de los límites del Estado de Derecho” y presentó como ejemplos “prácticas como la vigilancia masiva, la censura y la represión de la disidencia para mantener el control social”. La verdad es que si España fuera un Estado policial, ella no sería presidenta de Madrid y el Partido Popular no gobernaría en 13 comunidades autónomas. Es indudable que su amor por Amador es mucho más grande que sus conocimientos sobre dictaduras.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:38:55.157+03:00",
+    "updated": "2024-10-25T11:42:28.001+03:00"
+  },
+  {
+    "uuid": "911904806c75dfa0765cf1b8a7237818088746f9",
+    "url": "https://wonderfulengineering.com/scientist-are-now-transforming-cigarette-butts-into-diesel-fuel/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Taimur",
+    "published": "2023-12-28T17:23:00Z",
+    "title": "Scientist Are Now Transforming Cigarette Butts Into Diesel Fuel",
+    "text": "Lithuanian scientists from Kaunas University of Technology (KTU) and the Lithuanian Energy Institute (LEI) have introduced an innovative method to repurpose cigarette waste for biodiesel production, contributing to sustainable fuel alternatives. Biodiesel, derived from vegetable oils or animal fats, has gained attention due to its biodegradability and reduced toxicity compared to petroleum diesel. However, its high production costs and potential environmental impact from biomass sources have limited its widespread adoption. The researchers’ breakthrough involves utilizing triacetin, a key biodiesel production compound found abundantly in cigarette filters. By employing pyrolysis, a thermal decomposition process, the team successfully extracted valuable components from cigarette waste through experiments conducted at varying temperatures. The resulting products included oil, char, and gas, with the oil content being notably rich in triacetin. The environmental impact of cigarette waste is effectively addressed through this process, and the components extracted offer practical applications. The porous char, enriched with calcium, has potential uses in fertilizers, wastewater treatment, and energy storage. Additionally, the extracted gas can serve as an energy source, contributing to sustainable power generation. The most significant breakthrough lies in the oil extracted from cigarette waste, which is rich in triacetin. This oil can be integrated as an additive in biodiesel production, potentially reducing production costs and enhancing efficiency. Given that over 6.5 trillion cigarettes are purchased worldwide annually, the large volume of cigarette waste represents both a challenge and an opportunity. The scientists’ innovative approach provides a solution to repurpose this waste and suggests scalable implementation in waste management systems. The researchers emphasize their commitment to integrating this breakthrough into circular economy systems. They foresee promising avenues for utilizing cigarette waste further by envisioning a comprehensive strategy involving waste collection, recycling infrastructure, and a transformative approach to waste repurposing through pyrolysis treatment. This research marks a significant advancement in sustainable fuel production, offering a pioneering solution to address environmental concerns and exploring novel avenues in waste management. The potential for scalable implementation and the commitment to further exploration of cigarette waste utilization highlight the researchers’ dedication to paving the way for a more sustainable future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "lithuanian energy institute",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kaunas university of technology",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:23.149+02:00",
+    "updated": "2023-12-30T10:02:10.183+02:00"
+  },
+  {
+    "uuid": "04af8a8fa5b599fdf4ebbb1799d307ca5998a535",
+    "url": "https://chicago.suntimes.com/the-watchdogs/2024/11/22/comed-electric-bills-quantum-computing-data-centers-ai-pritzker-pjm-cub",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan Gearino | Inside Climate News",
+    "published": "2024-11-22T11:30:00Z",
+    "title": "Why electric bills are going up and how AI, new data centers are to blame - Chicago Sun-Times",
+    "text": "ComEd electric bills to go up more than $10 a month. Here's why.\nEnergy-hungry data centers will dramatically increase demand for power as the U.S. races to be a world leader in artificial intelligence. ComEd and other utilities pay up front to make sure the electric grids won’t see blackouts because of these electricity hogs. When their costs go up, so do our bills.\nYou might have no clue what a data center does. But a boom in these high-tech operations in the Chicago area and around the country will hit home next year in the form of higher electricity bills.\nThe average increase is expected to be $10.50 a month for each ComEd residential customer by the middle of next year.\nThat’s on top of the typical electricity bill in the Chicago area, which is about $100 a month.\nThe price of electricity is going up due to energy-hungry big data centers that are expected to dramatically increase demand for power as the United States races to be a world leader in artificial intelligence.\nComEd and other utilities pay up front to make sure the electric grid that extends from Chicago to the East Coast has plenty of power over the coming years and won’t see blackouts because of these new electricity hogs.\nA typical consumer probably doesn’t have a sense of how these high-tech operations affect electricity demand. It’s unlikely that most people will have heard of PJM Interconnection, a government-regulated nonprofit that operates the grid and oversaw the process that led to the coming rise in electric bills.\nBut customers notice when their bills start to rise. And so do politicians.\nGov. JB Pritzker blames PJM for the rising cost of electricity. The grid operator said: Don’t blame us. We exist to make sure the lights stay on even as power usage soars.\nA large data center uses enough electricity to power entire neighborhoods or even small cities. This is happening as Illinois and other states seek to [phase out fossil fuel energy sources to fight climate change](https://chicago.suntimes.com/2021/9/17/22678787/clean-energy-law-illinois).\nLinda Young, 68, sees nothing positive about a proposed [“quantum computing” project at a long-abandoned steel mill site](https://chicago.suntimes.com/technology/2024/07/26/pritzker-silicon-valley-quantum-development-south-works-crg-related-midwest) along Lake Michigan just over 2 miles from her South Shore home. She worries about the effects on the lake and other environmental ramifications from the almost 130-acre development, but is also concerned about the potential for higher property taxes.\nThe South Side quantum project is separate from AI research and is not a data center. But its electricity use is likely to be similar to that of a “small” data center, a spokesman for the company PsiQuantum said.\nTold that data centers and other projects by tech companies are helping to increase ComEd bills because of high electricity demand, Young, a retiree and grandmother of four, said: “Just living is enough of a struggle. Is quantum computing really about making our lives better?”\nA data center is basically a building or complex that houses the equipment used for applications such as cloud computing and AI, among other things. Leading data center companies include subsidiaries of Amazon, Meta and Microsoft.\nThe consulting firm McKinsey and Co. said data centers are responsible for up to 4% of the country’s electricity demand today, and this will grow to 11% or 12% by 2030.\nChicago is the third-largest data center market in the country, just behind Dallas-Fort Worth and way behind the leader, northern Virginia, according to the real estate firm CBRE.\nPritzker said data centers are a huge piece of Illinois’ economic future. There’s a competition among states to lure and build massive data centers as the United States races to beat China to be the world’s AI leader.\nThere’s also a huge potential cost as these operations suck huge amounts of power.\nAnd ComEd customers might feel the pinch.\nEven with the boom in data centers in Illinois, ComEd said it still has plenty of power. There are more than 80 data centers sucking up power now, and more than 30 planned, in addition to the quantum project. That still leaves the Chicago area with more than enough power, ComEd said.\nThere’s “a critical need for infrastructure investments to ensure the strength and reliability of the energy grid now and in the foreseeable future,” ComEd spokeswoman Lauren Huffman said.\nThe expected $10.50 rise in ComEd customers’ monthly bills is tied to an auction process that PJM holds each year to make sure that its multistate territory has enough power to meet demand. The most recent auction resulted in higher electricity prices in part because of an increase in projected electricity demand, which contributed to high auction prices.\nThat comes as a shock to Liyola Taylor, 51, who lives in Austin. She said she battled ComEd last year to keep the lights on at her West Side apartment where she and her teenage son live. The disconnection notices have stopped for now, but having to come up with the money she owes will be “painful.”\n“It’s more of a headache,” Taylor said. “I don’t really have income right now.”\nPritzker lashed out last month in a letter to PJM, whose electric grid keeps the lights on in all or part of 13 states and Washington, D.C. Northern Illinois is on the western edge of this grid. Southern Illinois is served by another power grid.\n“These record-high prices are a serious concern,” Pritzker wrote in the letter that also was signed by the governors of Delaware, Maryland, New Jersey and Pennsylvania.\nThey complained that the costs “will be paid by our residents and our businesses and could deter future economic development.”\nThis demand for more power comes as Illinois and other states carry out plans to retire fossil fuels for electric power generation in favor of renewable energy, such as solar and wind. Hundreds of renewable projects are waiting to be connected to the electric grid in ComEd’s territory.\nPritzker’s office and clean energy organizations have been frustrated, saying PJM-related costs are soaring because of rising demand for electricity even as the grid operator has been slow to approve connections for new power plants to come online.\nA report from Lawrence Berkeley National Laboratory found that 295 projects were in the PJM queue for grid connections in ComEd territory as of the end of last year. Solar farms were No. 1 among those waiting to connect.\nPJM, based in Pennsylvania, said it has increased its pace for approving grid connections and that part of the problem is that older power plants are closing prematurely.\n“PJM has been warning for some time that policy pressure on generators to retire before their replacement is in place could result in a supply crunch,” PJM spokesman Jeff Shields said.\nShields said thousands of renewable projects across the grid need to be studied and approved before they can connect and that PJM is doing what it can to get through the applications.\nHe also pointed to some renewable projects that don’t end up being completed.\n“These projects are not coming online at the pace we need to replace retiring generators,” he said. “This is not due to PJM’s interconnection process, but due to difficulties with siting, supply chain and financing.”\nThe policy pressure to shift energy sources is coming from several states in PJM’s territory, including Illinois, which passed the Climate and Equitable Jobs Act in 2021. The landmark law was part of an effort to shift from coal and natural gas power plants and boost carbon-free resources such as nuclear and renewables.\nBut it would be wrong to blame the law for the plant closings that are contributing to high prices in Illinois, said Will Kenworthy, Midwest regulatory director for the advocacy group Vote Solar. Kenworthy said closings related to the law won’t happen until at least 2030.\nKenworthy and other renewable energy advocates said wind and solar power are being blamed for rate increases, when the main culprit is the increase in demand for electricity.\n“We’re heading toward a period of higher prices,” he said.\nSarah Moskowitz, executive director of the Citizens Utility Board, a Chicago consumer advocacy group, said many share in the blame for rising utility bills, including politicians, regulators, PJM, ComEd and the companies developing data centers and other electricity-hungry projects.\n“There isn’t one single entity that we can blame for high electric bills because our power bills are the result of a plethora of public policy and regulatory decisions,” Moskowitz said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://insideclimatenews.org/",
+      "https://insideclimatenews.org/profile/dan-gearino/",
+      "https://insideclimatenews.org/profile/dan-gearino",
+      "https://www.insideclimatenews.org/",
+      "https://insideclimatenews.org",
+      "https://www.insideclimatenews.org/profile/dan-gearino/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "East Coast",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T13:44:54.129+02:00",
+    "updated": "2024-11-27T16:33:51.700+02:00"
+  },
+  {
+    "uuid": "3cb3b84aca0a3a999e20a8eac62ed2712539e155",
+    "url": "https://www.terra.com.br/noticias/bailarina-pode-pegar-15-anos-de-prisao-na-russia-por-doar-us-51-a-ucrania,5ed4eae69c253c39b96507e373d8976bg2cnr4i1.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deutsche Welle",
+    "published": "2024-08-08T00:00:00Z",
+    "title": "Bailarina pode pegar 15 anos de prisão na Rússia por doar US$ 51 à Ucrânia",
+    "text": "Ksenia Karelina, uma cidadã russo-americana, foi presa em fevereiro na Rússia e acusada de \"traição\" após doar em 2022 o equivalente a R$ 280 para uma ONG humanitária que atua na Ucrânia.O Ministério Público da Rússia solicitou nesta quinta-feira (08/07) uma pena de 15 anos de prisão para a cidadã russo-americana Ksenia Karelina, de 33 anos, que foi acusada pelo Kremlin de alta traição por enviar US$ 51,80 (R$ 283) a uma ONG que atua na Ucrânia. \"O Ministério Público pediu 15 anos de prisão\", disse o advogado da acusada, Mikhail Mushailov, citado pela agência de notícias russa Interfax. Segundo o advogado, a sentença será proferida em 15 de agosto pelo Tribunal Regional de Sverdlovsk, nos Urais russos. Na quarta-feira, Karelina, uma bailarina amadora, declarou-se culpada das acusações apresentadas pelo Ministério Público. Em fevereiro, Karelina, que mora em Los Angeles, nos EUA, foi presa em Ecaterimburgo, na região dos Urais russos, enquanto viajava para visitar parentes. Nascida na Rússia e cidadã americana desde 2021, Karelina foi inicialmente acusada de desacato, supostamente por xingar policiais. Posteriormente, agentes do FSB, a principal agência de segurança russa, examinaram seu telefone e disseram ter descoberto que, antes de viajar para a Rússia, ela havia feito uma doação para uma organização com sede nos EUA que fornece assistência à Ucrânia. A ONG, chamada Razom, fundada em 2014 por ucranianos que vivem nos EUA, coleta fundos para fornecer equipamento médico e alimentos para a população da Ucrânia. As acusações e o julgamento de Karelina ocorrem depois que o líder russo, Vladimir Putin, assinou um decreto em abril do ano passado aumentando a pena máxima por traição para prisão perpétua, em vez de 20 anos, como parte de um esforço para aumentar a repressão à dissidência no país. A sentença de Karelina também será proferida apenas duas semanas após uma troca de prisioneiros entre a Rússia e o Ocidente, que incluiu 24 pessoas, a maior desde o fim da Guerra Fria. Três dos trocados eram cidadãos americanos, incluindo o jornalista Evan Gershkovich, que também foi detido em Ecaterimburgo. Outros prisioneiros trocados incluíam a artista russa Sasha Skochilenko, de 33 anos, que foi condenada a sete anos de prisão por espalhar adesivos com mensagens antiguerra em produtos à venda num supermercado. Os Estados Unidos e a oposição russa acusam o Kremlin de tomar como reféns prisioneiros políticos e cidadãos estrangeiros para posteriormente trocá-los por russos que cumprem penas em prisões ocidentais. Em troca de jornalistas, ativistas políticos e artistas, a Rússia obteve a libertação de figuras como Vadim Krasikov, um agente do FSB condenado na Alemanha por assassinar um exilado checheno num parque de Berlim em 2019. jps (EFE, ots) A Deutsche Welle é a emissora internacional da Alemanha e produz jornalismo independente em 30 idiomas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.dw.com/pt-br/not%C3%ADcias/s-7111",
+      "https://dw.com/pt-br/not%C3%ADcias/s-7111"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:46:59.215+03:00",
+    "updated": "2024-08-09T11:26:19.424+03:00"
+  }
+]

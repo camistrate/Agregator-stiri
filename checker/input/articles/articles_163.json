@@ -1,0 +1,613 @@
+[
+  {
+    "uuid": "4c1a0d49755743077512f83bacf1e16310b3c1b5",
+    "url": "https://bengalswire.usatoday.com/2023/12/28/jamarr-chase-rips-chiefs-bengals-visit-kansas-city/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Roling",
+    "published": "2023-12-28T22:28:00Z",
+    "title": "Ja’Marr Chase rips Chiefs before Bengals visit Kansas City",
+    "text": "Cincinnati Bengals wide receiver Ja’Marr Chase didn’t hold back when asked about the Kansas City Chiefs this week.\nAsked about one of his team’s biggest rivals over the last few years, Chase provided some eyebrow-raising answers, especially when it comes to what might stand out to him about the Chiefs defense.\n“If I’m being honest, nothing,” Chase said, as captured by CLNS Media’s Mike Petraglia . “They just know how to play us. They know the leverages; they know what splits we gonna be in. They throw a little double-doubles at us to stop the two best players on the outside. That’s all they do. It’s not like they got a Jalen Ramsey on they squad.”\nRaw, real and unfiltered, Chase has never really shied away from comments that might come across as controversial — when he’s not outright messing around through the media.\nCase in point, Chase followed up with this when asked if he’s worried about how the Chiefs might set the stage: “They can take it how they want. That’s why they double everybody because they can’t do it one-on-one.”\nThat’s certainly one way to set the stage for a showdown with a rival, as Chase’s comments will undoubtedly go down as bulletin board material around the Chiefs.\nMore Latest News Willie Anderson named Hall of Fame finalist for third straight time Orlando Brown Jr. missed son's birth for game vs. Steelers NFL Week 17 best bets: One wager to make for every team",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://twitter.com/Trags/status/1740478104886546451",
+      "https://www.twitter.com/Trags/status/1740478104886546451"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ja’marr chase",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jalen ramsey",
+          "sentiment": "none"
+        },
+        {
+          "name": "mike petraglia",
+          "sentiment": "none"
+        },
+        {
+          "name": "chase",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kansas city cincinnati bengals",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bengals",
+          "sentiment": "negative"
+        },
+        {
+          "name": "clns media",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kansas city chi",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:06:30.447+02:00",
+    "updated": "2023-12-29T12:03:00.511+02:00"
+  },
+  {
+    "uuid": "8ad92021cecad675bb9bcffc8d1236cb08b9ee07",
+    "url": "https://www.trendmicro.com/en_no/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Maglaque; Jay Nebre; Allixon Kristoffer Francisco Read time",
+    "published": "2025-01-09T15:00:00Z",
+    "title": "How Cracks and Installers Bring Malware to Your Device | Trend Micro (NO)",
+    "text": "Key Takeaways\n- Attackers use platforms such as YouTube and social media to share download links for fake installers to capitalize on user trust and drive clicks to malicious sites.\n- Threat actors often use reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.\n- Many malicious downloads are password-protected and encoded, which complicates analysis in security environments such as sandboxes and allows malware to evade early detection.\n- Once infected, malware collects sensitive data from web browsers to steal credentials. This situation shows the serious risks of exposing your personal information by unknowingly downloading fraudulent software.\nIntroduction\nThe increase of fake installers bundled with info stealers is a growing threat for users looking for pirated software. These malicious programs disguise themselves as legitimate applications, often appearing in search results or [comments on platforms like GitHub](https://www.gendigital.com/blog/news/innovation/lumma-stealer-github). Unfortunately, many users fall prey to these tricks. The [Trend Micro™ Managed XDR](https://www.trendmicro.com/en_no/business/services/managed-xdr.html) service frequently sees the fallout, with the Lumma stealer being a prominent example. This highlights the hidden dangers of piracy that can jeopardize personal security and data integrity.\nInfo stealers are a type of malware that is designed to steal sensitive information from an infected system. This can include credentials, financial information, personal data, and other sensitive information that can be used for identity theft, fraud, or other malicious purposes.\nHow they lure their victims\nInfo stealers operate deceptively, luring victims into downloading the malware disguised as legitimate software installers. These download links often originate from fake websites or are shared as a link in messages from social platforms, as discussed in our [previous blog](https://www.trendmicro.com/en_no/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html).\nIn this blog, we want to highlight and break down how a typical user may stumble upon these download links of fake installers.\nVictims are lured into piracy by individuals posing as guides on popular video-sharing platforms like YouTube. These deceitful actors create a pretense of offering legitimate software installation tutorials to entice viewers to click on malicious links in the video descriptions or comments. This compromises users' devices and promotes a culture of theft. Here is an example.\nUpon accessing the link, a separate post on YouTube opens, revealing the download link for the fake installer.\nIn the following example, it leads to a download of the file from the Mediafire file hosting site:\nIn another case, the threat was uploaded to another file-hosting site called Mega.nz.\nIt's clear that the threat utilizes known file hosting services as another layer to obscure its download further and evade detection.\nIn the cases we will discuss in this blog, we observed that these threats are often distributed as fake installers or cracked software, which victims inadvertently encounter while searching for them on search engines.\nIn the sample below, specific keywords trigger search results for these entries.\nThe third item in the search results (refer to screenshot above) comes from OpenSea (an NFT marketplace), which is unusual because it hosted a downloadable file. The entry contains a shortened link that redirects to the actual link. One assumption is that they use shortened links to prevent scraping sites from accessing the download link.\nThe following link will prompt you for the actual download link and the zip file's password. Password-protecting the files can help prevent sandbox analysis of the initial file upon arrival, which can be a quick win for an adversary.\nThe fourth and last entry in the search results (refer to the search results screenshot above) came from SoundCloud, a music-sharing platform that hosted the download link with a corresponding description. In this case, the download link was shortened using Twitter.\nThe same user also posted additional entries that include means to download a specific file.\nContent from another entry made by the same user.\nSimilar to the first case, another site displays the download link and password.\nIn one of our download links, we discovered evidence of other entries they are attempting to fake, as shown in VirusTotal (VT).\nInfection analysis as seen by Managed XDR (post download)\nIn the next section, we will discuss instances where the download was successful and the content was executed. This case sample highlights the activities observed on the host.\nCase 1\nOne observation about the unpacked file is that its size is 900 MB. This large file size helps defense evasion and allows it to bypass sandbox analysis to appear more legitimate as an installer. Moreover, it is restricted from submission in VT.\nThe infection sequence is triggered upon executing the .exe file contained within the zip file.\nA threat has been detected involving the execution of batch files. The content of the batch file was sourced and, while different from the Managed XDR case, is still functionally similar.\nThe batch file contains obfuscated entries.\nThe first cleanup involves removing garbage entries.\nThe next step is to replace the variables, resulting in a clearer script.\nAccording to the batch file, it builds the AutoIt script by combining the multiple created files and executes it. Upon execution, we observed that it dropped several additional files.\nProcesses may be injected with its code, and a new legitimate binary is sometimes introduced for process injection.\nCollecting and preparing sensitive data from browser environments for credential access was completed through a copy file operation.\nThe process introduced by threat is also seen to establish connections to multiple command and control (C&C) addresses.\nBesides accessing its C&C, our investigation observed the threat committing a series of queries related to Domain Generation Algorithm (DGA) domains.\nCase 2\nIn this second case, the infection started when a user downloaded a compressed file from a known file hosting site. Once downloaded, the user unpacks the file, which would require a password, and executes the installer. Upon execution, it proceeds to do a series of suspicious events, such as spawning a legitimate process and injecting its code into it. The threat also introduces a known scripting tool, AutoIt, to further obfuscate its execution, and later, it connects to its C&C to download and execute additional malware, typically different variants of infostealer.\nA snippet of the content of the zip file shows that, at a quick glance, it is just a standard application installer.\nSetup.exe is a version of rustdesk.exe, an open-source remote desktop access software identified on VirusTotal.\nThe zip file contains a trojanized file for rustdesk.exe, where one of the DLLs is tampered with. For this specific sample, the tampered DLL that was loaded by Setup.exe was flutter_gpu_texture_renderer_plugin.dll.\nWhen the file is executed, it displays an error but is already running in the background.\nIn the background, the following events have already taken place.\nInjecting malicious code into legitimate binaries, such as more.com, StrCmp.exe, SearchIndexer.exe, and explorer.exe, to evade detection by security defenses.\nIt drops additional files that are information stealers or malware from a different family.\nCreates autorun registry entry and scheduled tasks to ensure ongoing persistence.\nInjected processes were later observed, which initiated C&C communication.\nBundle of Stealers/Loaders\nThis time, it's not just a single info stealer but an army of recent noisy ones. This is not new, as it was also observed before with [raccoon stealers](https://threatpost.com/raccoon-stealer-google-seo/168301/).\nObserved stealers in the cases:\n- LUMMASTEALER\n- PRIVATELOADER\n- MARSSTEALER\n- AMADEY\n- PENGUISH\n- VIDAR\nRecap of the different methods of defense evasion observed in the case:\n- Utilization of large file size – a means to bypass sandbox capabilities\n- A password-protected zip file hinders content scanning and can complicate investigations if the password is unavailable.\n- The files are uploaded to known media-sharing sites, which most antivirus programs would only detect if the exact link is discovered before the download.\n- In some cases, download links are shortened, preventing scraping from sites.\n- The operation uses legitimate files and employs DLL sideloading or process injection to execute its payload.\nHow Managed XDR helps in the case of an info-stealer infection from fake installers\nDefense-in-depth is an important strategy that organizations use to protect their environments. In situations where a threat might have evaded some of these defense layers, Managed XDR can detect these incidents in real time. It offers the necessary analysis and actions to effectively contain the threat.\n- Threat hunting and human analyst augmented alerting - Some activities may not be captured by alerts or could generate low-severity alerts, which Trend Vision One users might overlook. Threat hunting proactively searches for known tactics, techniques, and procedures (TTPs) or emerging threats, ensuring that alerts are issued. Additionally, Managed Detection and Response (MDR) analysts can determine whether certain detections require further attention from the customer, reducing the burden on Trend Vision One users to check every alert.\n- Understanding the context of the alert – When a threat activity generates a detection, further correlation is necessary to provide context and capture the complete narrative of the events. Upon linking our findings to the initial alert, it becomes evident that most of the findings in the draft are not included in a single alert or detection. Additionally, some instances lack any related detection and were only connected through further investigation using the search application. As illustrated in the case findings shared earlier, these insights are obtained through the MXDR analyst's deeper investigation of the initial triggers, which may include threat hunting or alerts generated from a workbench.\n- Implementing response actions – As the fake installer infection progresses, MXDR analysts can initiate response actions to contain the threat on behalf of the customer. In the case we are dealing with, we have isolated the affected machines to prevent further spread. Indicators of Compromise (IOCs) have been added to the Suspicions Objects (SO) list to block any additional execution, and the suspicious files have been submitted to the analysis team for accurate detection.\nConclusion\nThreat actors continue to use social engineering tactics to target its victims and apply different methods to avoid security defenses, including: DLL sideloading, using large installer files, password-protected ZIP files, process injection into legitimate processes, connections to legitimate websites, and creating copies of files and renaming them to appear benign.\nIt is important to stay updated on current threats and to remain vigilant regarding detection and alert systems. Visibility is important because solely relying on detection can result in many malicious activities going unnoticed. Organizations should consider the following to stay ahead of these threats:\n- Implement a multi-layered defense approach for in-depth defense.\n- Provide user education.\n- Establish an incident response plan.\n- Engage in threat hunting.\n- Use a Managed Security Service Provider (MSSP).\nOrganizations can take advantage of [Trend Vision One™ – Endpoint Security](https://www.trendmicro.com/en_no/business/products/endpoint-security.html) for prevention, detection, and response for user endpoints, servers, cloud workloads, and data centers.\nManaged XDR offers a 24/7 managed detection and response (MDR) for email, endpoint, server, cloud workloads, and networks from our world-class MDR team\nTrend Vision One Threat Intelligence\nTo stay ahead of evolving threats, Trend Micro customers can also access a range of Intelligence Reports and Threat Insights within [Trend Vision One](https://www.trendmicro.com/en_no/business/products/one-platform.html). Threat Insights helps customers stay ahead of cyber threats before they happen and be better prepared for emerging threats. It offers comprehensive information on threat actors, their malicious activities, and the techniques they use. By leveraging this intelligence, customers can take proactive steps to protect their environments, mitigate risks, and respond effectively to threats.\nTrend Vision One Intelligence Reports App [IOC Sweeping]\n- How Cracks and Installers Bring Malware to Your Device\nTrend Vision One Threat Insights App\n- Emerging Threats:\n[How Cracks and Installers Bring Malware to Your Device](https://portal.xdr.trendmicro.com/index.html#/app/ti/intelligence_insights?name=How%20Cracks%20and%20Installers%20Bring%20Malware%20to%20Your%20Device)\nHunting Queries\nTrend Vision One Search App\nTrend Vision One customers can use the Search App to match or hunt the malicious indicators mentioned in this blog post with data in their environment.\nPotential autoit script construction\nparentCmd:(\"*.exe\") AND processCmd:(\"*/c move*.cmd*&*.cmd\") AND objectCmd:(\"*/c copy /b ..\\*+ ..\\*\")\nMore hunting queries are available for Trend Vision One customers with [Threat Insights Entitlement enabled](https://www.trendmicro.com/en_no/business/products/one-platform/threat-insights.html).\nIndicators of Compromise (IoC)\nDownload the full list of IOCs [here](https://documents.trendmicro.com/assets/txt/Fakeinstallers-IOCswCQX6fX.txt).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Crime, Law and Justice->cyber crime"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://www.threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "YouTube",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:25:33.178+02:00",
+    "updated": "2025-01-10T09:25:33.178+02:00"
+  },
+  {
+    "uuid": "18e66aaf15f0a40cac1aeda07b5e1b1a94e2823a",
+    "url": "https://www.vancouverisawesome.com/national-news/tory-mp-says-he-misspoke-after-ndp-mp-accuses-him-of-making-anti-indigenous-comment-9010890",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mickey Djuric; The Canadian Press",
+    "published": "2024-06-06T20:20:00Z",
+    "title": "Tory MP says he misspoke after NDP MP accuses him of making anti-Indigenous comment",
+    "text": "OTTAWA — A Conservative MP apologized in the House of Commons on Thursday after an Indigenous colleague from across the political aisle called him out for linking an offender's criminal record to his race. Brad Redekopp says he misspoke earlier this week when he brought up the 2022 mass stabbings in Saskatchewan during a debate about measures to address systemic racism within the RCMP. On Tuesday, the Saskatoon MP criticized parole officers for releasing Myles Sanderson on parole before the James Smith Cree Nation member perpetrated the killings. He incorrectly suggested that the parole board predicted Sanderson \"was likely to reoffend because of his racial background.\" The Conservative party sought to correct the record — not by striking the claim altogether but by changing it to say \"regardless\" of his racial background, instead of \"because\" of his racial background. In a statement to The Canadian Press, Redekopp said he misspoke, and \"proactively asked that the record be corrected\" to reflect his intent and \"to avoid any misunderstanding or offence.\" Winnipeg MP Leah Gazan said she noticed the change in the House of Commons official record-keeping the next day, and said she expected an apology to follow. On Thursday, Gazan stood in the House of Commons and demanded that he take accountability. He stood in response and delivered an apology. \"Once again, I apologize for misspeaking. I never meant to offend anyone. I never meant to cast any aspersions on anyone because of race,\" he said in the House. But Gazan said in the House that she doesn't accept Redekopp's explanation, or the way he apologized. She asked the Speaker to make a ruling that the House of Commons should revert the record back to the original language, arguing that the Conservatives are trying to \"whitewash\" what happened. \"I would ask that the member reflect upon this, and I would ask that the official record actually reflect what occurred — what we all heard, and what the member has admitted to having said — rather than being rewritten to avoid accountability and responsibility,\" Gazan said. The matter is under consideration. \"What he said in there was hurtful, it was harmful, it was offensive and it was racist,\" Gazan said in an interview earlier on Thursday. Redekopp insisted in his written statement that his comment had nothing to do with race, \"only the facts of the case at hand.\" An investigation into the earlier release of Sanderson, who was accused of killing 11 people and injuring 17 others, found the Parole Board of Canada could not have foreseen the worst mass murder in Saskatchewan's history. The National Joint Board of Investigation also found there were \"no pre-incident indicators or precipitating events that were known to staff, or that staff could have acted upon to prevent this incident.\" For Gazan, it's another example of what she calls a pattern of anti-Indigenous rhetoric by Conservative politicians. She listed off several examples. Earlier this year, Saskatchewan MP Kevin Waugh apologized after he accused First Nations of burning down water treatment plants because they're frustrated with the Liberals. In 2018, an NDP motion that called on the Pope to apologize for residential schools got overwhelming support in the House of Commons — except from 10 Conservative MPs. And in 2008, before he was leader of the Conservative party, Pierre Poilievre apologized after saying Indigenous people need to learn the value of hard work more than they need compensation for abuse suffered in residential schools. Last year, Poilievre also came under fire for speaking to a Winnipeg-based group that ran radio ads in 2018 that said it was a myth that residential schools robbed Indigenous children of their childhood. \"There's a pattern of anti-Indigenous racism that occurs in the House,\" Gazan said, \"and certain members of political parties want to protect the rights and freedoms for some, but not others.\" A spokesperson for Poilievre didn't respond to a request for comment. This report by The Canadian Press was first published June 6, 2024. Mickey Djuric, The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brad redekopp",
+          "sentiment": "none"
+        },
+        {
+          "name": "redekopp",
+          "sentiment": "none"
+        },
+        {
+          "name": "leah gazan",
+          "sentiment": "none"
+        },
+        {
+          "name": "sanderson",
+          "sentiment": "none"
+        },
+        {
+          "name": "myles sanderson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ndp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "house of commons",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ottawa — a conservative",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "rcmp",
+          "sentiment": "none"
+        },
+        {
+          "name": "conservative",
+          "sentiment": "none"
+        },
+        {
+          "name": "james smith cree nation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "winnipeg",
+          "sentiment": "none"
+        },
+        {
+          "name": "saskatoon",
+          "sentiment": "none"
+        },
+        {
+          "name": "saskatchewan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T02:02:43.948+03:00",
+    "updated": "2024-06-07T02:27:06.961+03:00"
+  },
+  {
+    "uuid": "510b04f48c8854aaa2f0c2e83382fa667e5de051",
+    "url": "https://www.ladepeche.fr/2025/07/17/incendies-en-serie-un-pompier-volontaire-devant-la-justice-ce-jeudi-12829868.php",
+    "ord_in_thread": 0,
+    "author": "@ladepechedumidi",
+    "published": "2025-07-17T03:14:00Z",
+    "title": "Incendies en série : un pompier volontaire devant la justice ce jeudi",
+    "text": "Incendies en série : un pompier volontaire devant la justice ce jeudi\nCe jeudi 17 juillet, un sapeur-pompier volontaire de l’Aude sera présenté devant le tribunal correctionnel de Carcassonne, dans le cadre d’une comparution à délai différé. Il lui est reproché d’avoir déclenché un incendie, le vendredi 30 mai dernier, en bordure de la route départementale 135 entre Trèbes et Laure-Minervois. Une cinquantaine de pompiers avaient été dépêchés sur le sinistre, qui avait en fin de compte détruit trois hectares de végétation et menacé des habitations à proximité du hameau de Py.\nCe sont les gendarmes qui, se rendant sur les lieux, sont tombés sur lui avant de l’interpeller et de la placer en garde à vue. Le jeune homme, âgé de 19 ans, a rejoint les sapeurs-pompiers de l’Aude en tant que volontaire il y a environ deux ans. Dans la vie, il fait partie d’une unité d’instruction et d’intervention de la sécurité civile.\nAprès son interpellation, une enquête a été ouverte, confiée à la brigade de recherche de la gendarmerie de Carcassonne. Dans ce cadre, les investigations se sont également dirigées vers plusieurs autres incendies dans le même secteur, à savoir les communes de Trèbes, Laure-Minervois, Bouilhonnac ou encore Rustiques, où un hectare de friches a été détruit le 28 mars dernier. Mais les enquêteurs se sont également intéressés à des départs de feux suspects, toujours sur la même zone à l’été 2024. Dans un triangle entre Trèbes, Bouilhonnac et Rustiques, pas moins de six incendies ont été déclenchés entre le 2 août et le 16 septembre, avec des dégâts allant de 1 000 m² à près de 50 hectares.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->court",
+      "Crime, Law and Justice->arson",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_ma",
+        "top_news_ch",
+        "top_news_be",
+        "top_news_fr",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:48:15.345+03:00",
+    "updated": "2025-07-18T05:09:29.000+00:00"
+  },
+  {
+    "uuid": "19b5155a61267573fb93fc859fcb3ac447bfbc7c",
+    "url": "https://trak.in/stories/indians-can-visit-59-nations-without-any-visa-passport-becomes-stronger/",
+    "ord_in_thread": 0,
+    "author": "Mohul Ghosh",
+    "published": "2025-07-24T03:28:00Z",
+    "title": "Indians Can Visit 59 Nations Without Any Visa: Passport Becomes Stronger - Trak.in - Indian Business of Tech, Mobile & Startups",
+    "text": "India’s passport has significantly improved in the global mobility ranking, moving up 8 spots to rank 77th on the Henley Passport Index released on July 22.\nThis is the biggest jump by any country in this year’s index.\nIndia Makes Biggest Leap in 2024 Henley Passport Index, Climbs to 77th Rank\nIndian passport holders now have visa-free or visa-on-arrival access to 59 destinations.\nPopular Asian countries such as Malaysia, Indonesia, Maldives, and Thailand are included in this list.\nCountries like Sri Lanka, Macau, and Myanmar offer visa-on-arrival, depending on the purpose and duration of travel.\nThis gain follows a five-spot drop last year, indicating a recovery in India’s global travel access.\nDespite this improvement, Indian passport holders still face more travel limitations compared to those from top-ranking countries.\nThe Henley Passport Index is a widely respected measure that ranks passports based on how many countries allow entry without a pre-arranged visa.\nThis year’s rankings reflect a stronger Asian presence at the top, with Singapore leading by offering visa-free access to 193 destinations.\nJapan and South Korea Secure Top Passport Ranks with Access to 190 Countries\nJapan and South Korea follow closely, with access to 190 countries each, showcasing the benefits of steady diplomatic relationships.\nDr. Christian H. Kaelin, creator of the passport index, remarked that the rankings highlight how “global access depends on sustained diplomacy and international relationships.”\nThe United Arab Emirates has seen notable progress, rising from 42nd to 8th over the past decade.\nChina has also climbed, moving from 94th in 2015 to 60th this year, aided by efforts to provide visa-free access in South America and the Gulf.\nAmong European nations, seven EU countries — Denmark, Finland, France, Germany, Ireland, Italy, and Spain — are tied at third place, with access to 189 destinations.\nAnother group, including Austria, Belgium, Luxembourg, the Netherlands, Norway, Portugal, and Sweden, ranks fourth, allowing travel to 188 countries.\nAt the bottom of the list, Afghanistan remains in last place, with visa-free or visa-on-arrival access to just 25 countries, reflecting a 168-country gap from the top-ranking passport.\nTraditional leaders like the United States and United Kingdom have declined in the rankings, now at 10th and 6th place, respectively.\nThese shifts are attributed to changing diplomatic dynamics and the rise of new global alliances.\nCitizens of the U.S. and UK are increasingly exploring second passports or migration options to maintain global travel freedom.\nWhile India’s passport ranking improvement may not dramatically change travel routines right away, it reflects a positive long-term trend.\nThe upward movement suggests that more countries may open their doors to Indian travelers in the future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->citizens' initiative and recall",
+      "Politics->international relations",
+      "Politics->government",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Social Issue->immigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://zeenews.india.com/india/indian-passport-gets-biggest-boost-in-years-enters-global-top-80-club-59-countries-now-open-doors-without-visa-2935464.html/amp",
+      "https://www.zeenews.india.com/india/indian-passport-gets-biggest-boost-in-years-enters-global-top-80-club-59-countries-now-open-doors-without-visa-2935464.html/amp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:41:07.070+03:00",
+    "updated": "2025-07-24T07:44:21.000+03:00"
+  },
+  {
+    "uuid": "94fe67ebe51a3a00dea603b6ad37db6a89809395",
+    "url": "https://gbtimes.com/why-does-my-mic-sound-bad-on-discord",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GB Times",
+    "published": "2024-08-30T05:02:00Z",
+    "title": "Why does my mic sound bad on discord?",
+    "text": "Why Does My Mic Sound Bad on Discord?\nAre you frustrated with the poor sound quality of your microphone on Discord? You’re not alone. Many users have experienced this issue, and it can be a real annoyance when trying to communicate with friends, colleagues, or teammates. In this article, we’ll explore the common reasons why your mic might sound bad on Discord and provide you with solutions to improve the audio quality.\nHardware and Software Issues\nBefore we dive into the potential causes, let’s consider the basics:\nHardware : Your microphone might be of poor quality or not suitable for voice communication.\nSoftware : Discord’s settings, your computer’s operating system, or other applications might be affecting the audio quality.\nTable of Contents\nToggle\n1. Incorrect Microphone Settings 2. Microphone Volume Levels 3. Audio Enhancement Software 4. Interference from Other Applications 5. Internet Connection Issues 6. Discord’s Server and Region Settings 7. Audio Processing Settings Conclusion 1. Incorrect Microphone Settings\nMake sure you have the correct microphone selected in Discord’s settings. To do this:\nGo to User Settings > Voice & Video\nSelect the correct microphone from the drop-down menu\nIf you’re using a USB microphone , ensure it’s properly connected to your computer and selected in the settings.\n2. Microphone Volume Levels\nCheck your microphone volume levels :\nIn System Settings (Windows) or Audio Settings (Mac), adjust the microphone volume levels to an appropriate range.\nOn Windows, you can do this by right-clicking on the Volume Mixer icon in the system tray and adjusting the Microphone level.\n3. Audio Enhancement Software\nDisable any audio enhancement software :\nNahimic , Realtek Audio Console , or similar software can affect your microphone’s sound quality.\nDisable or uninstall these programs to see if it improves the audio quality.\n4. Interference from Other Applications\nClose unnecessary applications :\nMusic players , video streaming services , or chat applications might be consuming bandwidth and affecting your microphone’s audio quality.\nClose these applications or disable their audio functions to see if it improves the audio quality.\n5. Internet Connection Issues\nCheck your internet connection :\nSlow internet speed can cause audio quality issues. Check your internet speed using tools like Speedtest.net .\nPoor network quality can also cause issues. Try restarting your router or switching to a different network.\nCommon Mic Sound Issues and Solutions\nHere are some common mic sound issues and potential solutions:\nIssue\nSolution\nEcho or Reverb\nTry using a noise-cancelling microphone or adjust your recording environment.\nBackground Noise\nInvest in a directional microphone or adjust your recording environment .\nDistortion or Crackling\nCheck your microphone’s cable or adjust the volume levels .\nLack of Clarity\nAdjust the gain or try using a microphone with a built-in amplifier .\n6. Discord’s Server and Region Settings\nCheck your Discord server and region settings :\nServer region : Ensure your server is set to the correct region. You can do this by clicking on the Server Settings icon () and selecting the desired region.\nVoice Region : Make sure the voice region is set to the same region as your server. You can do this by clicking on the Voice Settings icon () and selecting the desired region.\n7. Audio Processing Settings\nAdjust Discord’s audio processing settings :\nAudio Quality : Experiment with different audio quality settings to find the best balance between quality and lag.\nEcho Cancellation : Enable or disable echo cancellation depending on your recording environment.\nNoise Suppression : Enable or disable noise suppression depending on your recording environment.\nConclusion\nPoor microphone sound quality on Discord can be frustrating, but it’s often a solvable issue. By troubleshooting the common causes listed above, you should be able to improve the audio quality of your microphone on Discord. Remember to check your hardware, software, and internet connection settings, as well as adjust your recording environment and audio processing settings. If you’re still experiencing issues, consider investing in a higher-quality microphone or seeking help from Discord’s support team.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T10:50:54.579+03:00",
+    "updated": "2024-08-30T10:50:54.579+03:00"
+  },
+  {
+    "uuid": "54c5fc6681967c002f4d8a5a4701db0277d346b4",
+    "url": "https://www.vetogate.com/5438718",
+    "ord_in_thread": 0,
+    "author": "sync",
+    "published": "2025-06-26T06:18:43Z",
+    "title": "قلق أولياء الأمور أمام لجان الثانوية العامة بالدقهلية تزامنا مع بدء امتحاني الفيزياء والتاريخ (صور)",
+    "text": "سيطرت حالة من القلق على أولياء أمور طلاب وطالبات الثانوية العامة بمحافظة الدقهلية تزامنا مع بدء امتحان الفيزياء للشعبة العلمية والتاريخ للشعبة الأدبية.\nوقوف أولياء الأمور بعد الحرم الآمن للجان والقلق يسيطر على وجوههم خضع طلاب وطالبات الثانوية العامة بمحافظة الدقهلية للتفتيش الذاتي وفقا لإجراءات تأمين ماراثون الامتحانات وضمان الشفافية والنزاهة في سير الامتحانات .\nتفتيش طلاب الثانوية العامة وقف الطلاب والطالبات في صفين أمام كل لجنة وخضعوا جميعا للتفتيش، وانتشرت تعزيزات أمنية مشددة بمحيط 162 لجنة امتحانية بمحافظة الدقهلية حيث تم فرض حرم أمني بمحيط كل لجنة وانتشار لرجال الشرطة لإقصاء أولياء الأمور تزامنا مع أداء الامتحانات.\nتعزيزات أمنية مشددة لتأمين ماراثون امتحانات الثانوية العامة وأشاد المهندس محمد فؤاد الرشيدي وكيل وزارة التربية والتعليم بالدقهلية بجهود وزارة الداخلية في تأمين ماراثون امتحانات الثانوية العامة على مستوى الجمهورية عموما وعلى مستوى محافظة الدقهلية بوجه خاص.\nظهرت الدراجات النارية والتوك توك كوسيلة نقل للطلاب والطالبات للجان امتحان الثانوية العامة بمحافظة الدقهلية.\nيؤدي 64 ألفا و320 طالبا وطالبة في الثانوية العامة بمحافظة الدقهلية، اليوم الخميس، امتحان الفيزياء للشعبة العلمية، والتاريخ للشعبة الأدبية في 3 ساعات داخل 162 لجنة.\nومن المقرر بدء الامتحان في الساعة التاسعة صباحا والانتهاء منه في الساعة الثانية عشرة.\nوكانت محافظة الدقهلية أعلنت الانتهاء من التجهيزات داخل لجان الثانوية العامة 2025 على مستوى المحافظة، والبالغ عددها 162 لجنة موزعة على 17 إدارة تعليمية قبل انطلاق ماراثون الامتحانات.\nتجهيز 162 لجنة وتعزيزات أمنية مكثفة وتشهد أبواب ومحيط اللجان بمحافظة الدقهلية إقامة حرم آمن لاستقبال الطلاب، وتفتيشهم على أبواب اللجان قبل الدخول للامتحان.\n64 ألفا و320 طالبا وطالبة ثانوية عامة في الدقهلية وقال المهندس محمد الرشيدي ، أن عدد الطلاب المتقدمين لأداء امتحانات الثانوية العامة هذا العام بمحافظة الدقهلية يبلغ 64320 طالبًا وطالبة، موزعين على 162 لجنة امتحانية تغطي كافة الإدارات التعليمية ما بين 158 لجنة وأربع لجان السجن والأورام المتفوقين المكفوفين.\nوأوضح وكيل التعليم بالدقهلية عدد طلاب كل شعبة بالثانوية العامة كالتالي:\n-طلاب الشعبة الأدبية 9422\n-طلاب الشعبة العلمية علوم 44790\n-طلاب الشعبة العلمية رياضيات 9666\n-طلاب تعليم دولي 377\n-طلاب المنتظم 51311\n-الخدمات 2843\n-المنازل 9724\nإجراءات مشددة لضمان انتظام سير الامتحانات وتحقيق الانضباط يشار إلى أن المهندس محمد الرشيدي وكيل أول وزارة التربية والتعليم في الدقهلية عقد اجتماعا مع رؤساء لجان امتحانات الثانوية العامة بالدقهلية للتأكيد على تنفيذ إجراءات مشددة لضمان انتظام سير الامتحانات وتحقيق الانضباط.\nامتحانات الثانوية العامة تمثل مرحلة فارقة في حياة الطلاب وأسرهم ومن جانبه، قال اللواء طارق مرزوق محافظ الدقهلية : إن امتحانات الثانوية العامة تمثل مرحلة فارقة في حياة الطلاب وأسرهم، وأن الدولة بكامل أجهزتها تولي هذه المرحلة أهمية قصوى، مشددًا على ضرورة تضافر الجهود والعمل بروح الفريق الواحد لعبور هذه الفترة بأعلى درجات النجاح والانضباط\nتأمين مقار اللجان وخطوط سير أوراق الامتحانات بالشكل الكامل وشدد محافظ الدقهلية خلال الاجتماع على ضرورة الانتهاء من جميع التجهيزات داخل لجان الامتحانات، ومراجعة كفاءة وصلاحية جميع المقرات، وتوفير وسائل الراحة اللازمة لرؤساء اللجان و المراقبين والملاحظين، مع التأكيد على تأمين مقار اللجان وخطوط سير أوراق الامتحانات بالشكل الكامل، مشيرًا إلى أن المحافظة بجميع أجهزتها في حالة استعداد قصوى لضمان أداء الطلاب للامتحانات في أجواء آمنة ومنظمة.\nنقاط خاصة بتنظيم امتحانات الثانوية العامة أبرز النقاط خاصة بتنظيم امتحانات الثانوية العامة من أهمها:\nدعم الوزارة الكامل للمديريات التعليمية لتيسير أداء المهام المكلفة بها بكفاءة\nمدير المديرية هو المشرف العام على الامتحانات داخل المحافظة\nوكيل المديرية رئيس اللجنة الثلاثية أو من ينوب عنه ويشرف علي اللجان وتجهيزها وتأمينها ومراكز توزيع الأسئلة والاستراحات البالغ عددها 68 استراحة على مستوى 17 إدارة تعليمية.\nيكلف مديرو الإدارات التعليمية بعمل كردون أمني حول اللجان.\n-تكليف عضوين من الإدارة لتنظيم دخول الطلبة داخل اللجان.\n-علي كل مدير إدارة التأكد من وجود عضو قانوني داخل اللجنة.\n-التأكيد علي تسليم وتسلم أوراق الأسئلة من خلال عضو التسليم والتسلم.\n-لا يتم فتح صندوق الطوارئ إلا من خلال مدير المديرية وغرفة العمليات الرئيسة.\nإجراءات مشددة لضمان انتظام سير الامتحانات وتحقيق الانضباط.\nالتفتيش الدقيق للطلاب قبل دخول اللجان لا تهاون في عمليات الغش وتطبيق القانون الخاص بشأن مكافحة أعمال الإخلال بالامتحانات تجاه المخالف.\n-التأكيد على وصول ورق الأسئلة في الميعاد المحدد للجان.\n-التأكيد على عدم اصطحاب التليفون المحمول داخل اللجنة.\nتقدم كافة سبل الدعم كي تتم امتحانات الثانوية العامة بصورة منضبطة ومؤمنة وبما يحقق مبدأ العدالة وتكافؤ الفرص لجميع الطلاب.\nوأكد وكيل تعليم الدقهلية أن المديرية قد انتهت بالفعل من التنسيق الكامل مع الجهات الأمنية، والصحة، والإسعاف، والكهرباء، والمجالس المحلية، لضمان سير الامتحانات في سهولة ويسر، ولتوفير أقصى درجات الأمان والرعاية للطلاب.\n20 لجنة امتحانية في ميت غمر ويترأس غرفة عمليات امتحانات الثانوية العامة عبد الحميد شعيب وكيل إدارة ميت غمر التعليمية، حيث تضم إدارة ميت غمر 20 لجنة وتستقبل 7 آلاف 406 طلاب، في شعبة علمي علوم 3861 طالبا وشعبة علمي رياضة 2006 والشعبة الأدبية 1539 طالبا.\nجدول امتحانات شهادة إتمام الدراسة للثانوية العامة اليوم الأول:- يوم الأحد الموافق 15 / 6 / 2025 ( مادتين )\n- التربية الدينية ومدتها ساعة ونصف من الساعة 9 إلى الساعة 10:30 صباحا\n- التربية الوطنية ومدتها ساعة ونصف من الساعة 11 إلى الساعة 12:30 ظهرا.\n اليوم الثانى الموافق 17 / 6/ 2025( مادة واحدة ) -اللغة الأجنبية الثانية ومدتها ساعتين من الساعة 9 إلى الساعة 11 صباحا\n يوم الأحد الموافق 22 / 6 / ٢٠٢٥ ( مادة واحدة ) يؤدون امتحان\n-اللغة العربية ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا\nواليوم الخميس الموافق 26 / 6/ 2025 ( مادتين ) يؤدون امتحان الفيزياء لشعبة العلوم والرياضيات ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\n-التاريخ لشعبة أدبى ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\nاليوم الخامس:- يوم الأحد الموافق 29 / 6 / 2025( مادة واحدة )\n-اللغة الأجنبية الأولى ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\nاليوم السادس:- يوم الخميس الموافق 3/ 7/ 2025 ( مادتين )\n-الكيمياء لشعبة العلوم والرياضيات ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\n-الجغرافيا لشعبة أدبى ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\nاليوم السابع:- يوم الأحد الموافق 6 / 7/ 2025 ( مادة واحدة )\n-الرياضيات البحتة لشعبة الرياضيات ومدتها ساعتين من الساعة 9 إلى الساعة 11 صباحا.\nاليوم الثامن:- يوم الخميس الموافق 10/ 7 / 2025( ثلاث مواد )\n-الأحياء لشعبة العلوم ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\n-الرياضيات التطبيقية لشعبة الرياضيات ومدتها ساعتين من الساعة 9 إلى الساعة 11 صباحا.\n-الإحصاء لشعبة أدبى ومدتها ثلاث ساعات من الساعة 9 إلى الساعة 12 ظهرا.\nويبلغ عدد الطلاب المتقدمين لامتحانات الثانوية العامة العام الحالي حوالي 45 ألفا و522 طالبا بالنظام القديم، وعدد المتقدمين بالنظام الحديث يبلغ 768 ألفا و353 طالبا، ويبلغ عدد اللجان 1973، بالإضافة إلى 9 لجان بالسجون، و6 لجان بالمستشفيات، و24 لجنة للطلاب المكفوفين، و17 لجنة لطلاب مدارس المتفوقين فى العلوم والتكنولوجيا، ويبلغ عدد الملاحظين 120232، وعدد اللجان الكلية 2029 لجنة بجميع أنحاء الجمهورية.\nونقدم لكم من خلال موقع ( فيتو )، تغطية ورصدًا مستمرًّا على مدار الـ 24 ساعة لـ أسعار الذهب ، أسعار اللحوم ، أسعار الدولار ، أسعار اليورو ، أسعار العملات ، أخبار الرياضة ، أخبار مصر ، أخبار اقتصاد ، أخبار المحافظات ، أخبار السياسة ، أخبار الحوداث ، ويقوم فريقنا بمتابعة حصرية لجميع الدوريات العالمية مثل الدوري الإنجليزي ، الدوري الإيطالي ، الدوري المصري ، دوري أبطال أوروبا ، دوري أبطال أفريقيا ، دوري أبطال آسيا ، والأحداث الهامة و السياسة الخارجية والداخلية بالإضافة للنقل الحصري لـ أخبار الفن والعديد من الأنشطة الثقافية والأدبية.\nتابع موقع فيتو عبر قناة (يوتيوب) اضغط ه نا\nتابع موقع فيتو عبر قناة (واتساب) اضغط ه نا\nتابع موقع فيتو عبر تطبيق (نبض) اضغط ه نا\nتابع موقع فيتو عبر تطبيق (جوجل نيوز) اضغط ه نا",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->educational testing and examinations",
+      "Education->parents group",
+      "Education->upper secondary education",
+      "Social Issue->social condition",
+      "Social Issue->children",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://nabd.com/source/1242-a37bb9/%D9%85%D9%88%D9%82%D8%B9+%D8%A8%D9%88%D8%A7%D8%A8%D8%A9+%D9%81%D9%8A%D8%AA%D9%88",
+      "https://www.youtube.com/user/VetogateOfficial",
+      "https://news.google.com/publications/CAAqBwgKMP67qgsw7sbCAw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "https://www.whatsapp.com/channel/0029VaG6d5P8aKvOa7J1GY34",
+      "https://www.news.google.com/publications/CAAqBwgKMP67qgsw7sbCAw?hl=ar&gl=EG&ceid=EG%3Aar",
+      "https://whatsapp.com/channel/0029VaG6d5P8aKvOa7J1GY34",
+      "https://www.nabd.com/source/1242-a37bb9/%D9%85%D9%88%D9%82%D8%B9+%D8%A8%D9%88%D8%A7%D8%A8%D8%A9+%D9%81%D9%8A%D8%AA%D9%88",
+      "https://news.google.com/publications/CAAqBwgKMP67qgsw7sbCAw",
+      "https://youtube.com/user/VetogateOfficial"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": null,
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T09:18:43.877+03:00",
+    "updated": "2025-06-26T06:32:08.000+00:00"
+  },
+  {
+    "uuid": "b3a7340aee1319196e52fa278c6b2d2474ac3fdb",
+    "url": "https://fr.sharecast.com/actualit%C3%A9s/nouvelles-et-annonces/le-minist%C3%A8re-de-la-Justice-propose-de-forcer-Google-%C3%A0-vendre-le-navigateur-Chrome-18136298.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iain Gilbert",
+    "published": "2024-11-21T11:11:00Z",
+    "title": "Le ministère de la Justice propose de forcer Google à vendre le navigateur Chrome",
+    "text": "Le ministère de la Justice propose de forcer Google à vendre le navigateur Chrome\n[ALPHA BETA ](https://fr.sharecast.com/%C3%A9quit%C3%A9/ALPHA-BETA)\n$167.63\n12:39 21/11/24\nLes Etats Unis Ministère de la Justice a appelé la société mère de Google Alphabet de se débarrasser de sa branche navigateur Chrome afin d'empêcher le groupe de maintenir son monopole de recherche en ligne.\n[Nasdaq 100](https://fr.sharecast.com/indice/Nasdaq_100)\n20,740.78\n12:15 21/11/24\nEn plus de la vente, un dossier du DOJ déposé mercredi soir recommandait également au juge de district Amit Mehta de forcer Alphabet à cesser de conclure des contrats avec des sociétés comme Apple et Samsung qui font de son moteur de recherche le moteur par défaut sur les smartphones et les navigateurs.\nPlusieurs États américains ont rejoint le ministère de la Justice dans le dossier, arguant que les changements proposés contribueraient à ouvrir un marché monopolisé.\nLes mesures proposées découlent d’une décision anticoncurrentielle historique rendue en août, lorsque Mehta a estimé que Google avait illégalement écrasé sa concurrence sur le marché de la recherche en ligne.\nGoogle a déclaré que le ministère de la Justice avait choisi de « promouvoir un programme interventionniste radical » qui nuirait à la fois aux « Américains et au leadership technologique mondial de l'Amérique ».\n« La proposition du ministère de la Justice, qui est d'une portée excessive, va bien au-delà de la décision de la Cour », a déclaré Kent Walker, président des affaires mondiales de Google. « Elle détruirait toute une gamme de produits Google, au-delà même de Search, que les gens aiment et trouvent utiles dans leur vie quotidienne. »\nÀ 1045h0.37 GMT, les actions Alphabet étaient en baisse de 177.33% à XNUMX $ chacune.\nReportage de Iain Gilbert sur Sharecast.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:31:43.149+02:00",
+    "updated": "2024-11-22T11:31:43.149+02:00"
+  },
+  {
+    "uuid": "7769c36e33087865cd281f3af0354c977c46f40d",
+    "url": "https://www.gbnews.com/news/us/video-princess-gloria-catholic-church",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gabrielle Wilde Published",
+    "published": "2024-05-24T19:28:00Z",
+    "title": "Princess Gloria says the Catholic Church ‘has no option’ but to deal with China",
+    "text": "Princess Gloria says the Catholic Church ‘has no option’ but to deal with China",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "eamonn holmes",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gloria",
+          "sentiment": "negative"
+        },
+        {
+          "name": "isabel webste",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nigel farage",
+          "sentiment": "negative"
+        },
+        {
+          "name": "stephen dixon",
+          "sentiment": "none"
+        },
+        {
+          "name": "philip davies",
+          "sentiment": "none"
+        },
+        {
+          "name": "liam halligan",
+          "sentiment": "none"
+        },
+        {
+          "name": "michelle-dewberry",
+          "sentiment": "none"
+        },
+        {
+          "name": "andrew doyle",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark dolan",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom harwood",
+          "sentiment": "none"
+        },
+        {
+          "name": "andrew pierce",
+          "sentiment": "none"
+        },
+        {
+          "name": "stephen-dixon",
+          "sentiment": "none"
+        },
+        {
+          "name": "michelle dewberry",
+          "sentiment": "none"
+        },
+        {
+          "name": "neil oliver",
+          "sentiment": "none"
+        },
+        {
+          "name": "nana akua",
+          "sentiment": "none"
+        },
+        {
+          "name": "beverley turner",
+          "sentiment": "none"
+        },
+        {
+          "name": "camilla tominey",
+          "sentiment": "none"
+        },
+        {
+          "name": "simon evans",
+          "sentiment": "none"
+        },
+        {
+          "name": "michael portillo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "catholic church",
+          "sentiment": "negative"
+        },
+        {
+          "name": "gloria de piero",
+          "sentiment": "none"
+        },
+        {
+          "name": "anne diamond",
+          "sentiment": "none"
+        },
+        {
+          "name": "jacob rees-mogg",
+          "sentiment": "none"
+        },
+        {
+          "name": "olivia utley",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "china",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-24T23:40:22.137+03:00",
+    "updated": "2024-05-25T00:06:39.138+03:00"
+  }
+]

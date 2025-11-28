@@ -1,0 +1,578 @@
+[
+  {
+    "uuid": "e506477d61e45d0ab50f54d6bcaa28977a7492d5",
+    "url": "https://torrentfreak.com/real-debrid-implements-extreme-anti-piracy-filters-to-appease-film-companies-241122",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ernesto Van der Sar",
+    "published": "2024-11-22T11:28:00Z",
+    "title": "Real-Debrid Implements Extreme Anti-Piracy Filters to Appease Film Companies",
+    "text": "Real-Debrid is nifty tool that provides access to premium and unrestricted downloads from a variety of file hosting and torrent websites. The popular download service operates as a middleman to access file-hosting platforms, for example, and also uses cached content to stream content from torrent sites instantly. These features appear to be quite appealing to pirates. This hasn’t gone unnoticed by Real-Debrid, which has an active DMCA removal policy to deal with complaints from rightsholders. However, according to French film distribution companies, this didn’t go far enough. Real-Debrid Goes Full Anti-Piracy Mode A few hours ago Real-Debrid informed its users that it will strengthen its anti-piracy measures. This drastic measure comes after a formal notice from the French Federation of Film Distributors ( FNEF ), which previously took several popular file hosting services to court . Faced with FNEF’s demands, which could potentially escalate into a full-fledged legal battle, Real-Debrid has decided to take several steps to appease rightsholders. The service says it will block content from ‘a number of’ cyberlockers that are on the US Trade Representative’s “Notorious Markets” list , as well as the EU “Piracy Watchlist” . No names are mentioned, but RapidGator, Mega, Dbree, and KrakenFiles are potential candidates. Real-Debrid will also deactivate its API , which could be used by third-party services and applications, including media centers such as Kodi and Plex. The same applies to the ‘instantAvailability’ feature, which made it possible to instantly stream and download cached videos, including pirated content. Upload Filters & More The service appears to be leaving no stone untouched to combat piracy. It has announced several filtering measures, including keyword filters. Real-Debrid acknowledges that this may lead to false positives, but it appears that the service doesn’t have much choice. Private torrent trackers aren’t safe either. The download service says it will block all torrent hashes from trackers mentioned in lawsuits filed at the Paris Judicial Court. Furthermore, Real-Debrid also promises to purge all currently cached files matching these filters. Action to ban “all counterfeit Kodi and Stremio applications” is most likely a reference to any third party tools and extensions that enhance Kodi and Stremio with near-instant playback features. What’s Next? As expected, many of Real-Debrid’s paying customers are not pleased with these planned changes. To what degree it will affect the broader user base has yet to be seen, however. Not all users of the service utilize its ‘instant’ streaming tool. The torrent download functionality is also quite popular. For these people, the impact will largely depend on the breadth and effectiveness of the hash and filename filters. That said, the pressure applied by French movie distributors will clearly have an impact on Real-Debrid. If the current measures prove insufficient, the same rightsholders will likely come back with new demands.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://api.real-debrid.com/",
+      "https://www.reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work/",
+      "https://real-debrid.com/",
+      "https://x.com/RealDebrid/status/1859673163681960169",
+      "https://fnef.fr/les-adherents/",
+      "https://api.real-debrid.com",
+      "https://www.fnef.fr/les-adherents/",
+      "https://www.real-debrid.com/",
+      "https://www.reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work",
+      "https://www.x.com/RealDebrid/status/1859673163681960169",
+      "https://www.api.real-debrid.com/",
+      "https://reddit.com/r/RealDebrid/comments/ziowca/how_exactly_does_caching_work/",
+      "https://fnef.fr/les-adherents",
+      "https://real-debrid.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "French Federation of Film Distributors",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T15:20:17.445+02:00",
+    "updated": "2024-11-28T11:26:58.257+02:00"
+  },
+  {
+    "uuid": "a39c3825690d5256760e405ba66326965ab780b3",
+    "url": "https://www.wkyc.com/video/news/local/3news-at-5/sneaker-camp-sparks-innovation-in-young-akron-designers-growing-stem/95-3b250336-c895-4a45-a1f5-4234b362f382",
+    "ord_in_thread": 0,
+    "author": "Author wkyc com",
+    "published": "2025-07-23T00:00:00Z",
+    "title": "Sneaker Camp sparks innovation in young Akron designers: Growing STEM | wkyc.com",
+    "text": "Skip Navigation\nNavigation\nNews\nSearch\nSearch:\nSearch\nRight Now\nCleveland, OH »\n75°\nCleveland, OH »\nAdvertise With Us\nCleveland\nAkron\nMission Possible\nEducation Station\nLakeside Today\nTV listings\nContests\nA Turning Point\nLeBron James Family Foundation\nGO-HIO\nPets\nGo! 4:30-7 a.m.\n3News at 4\n3News at 5\n3News at 6\n3News at 7\nWhat's Next: 11 p.m.\nFront Row Friday\nBreaking News\nMore (\n) »\nSneaker Camp sparks innovation in young Akron designers: Growing STEM\nTo stream WKYC on your phone, you need the WKYC app.\nDownload the WKYC app\nLocal middle school students at Akron's Sneaker Camp explore STEM ideas through sneaker culture, design and creativity.\nBefore You Leave, Check This Out",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->vocational education",
+      "Education->teachers",
+      "Human Interest->record and achievement",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Brooklyn",
+          "Cleveland"
+        ],
+        "state": [
+          "Ohio",
+          "New York"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:47:42.675+03:00",
+    "updated": "2025-07-24T07:51:52.000+03:00"
+  },
+  {
+    "uuid": "ebb93e9ebe86c7d936383f7893c14927b6cab1a8",
+    "url": "https://www.courrierinternational.com/article/verbatim-pour-la-senatrice-italienne-mennuni-les-jeunes-femmes-ont-une-mission-devenir-mere",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Courrier international",
+    "published": "2023-12-29T12:42:00Z",
+    "title": "Verbatim. Pour la sénatrice italienne Mennuni, “les jeunes femmes ont une mission : devenir mère”",
+    "text": "“Ma mère me disait toujours, rappelle toi que peu importe quelle aspiration tu as [..] la première doit être celle de devenir mère à ton tour. C’est quelque chose que même les femmes de ma génération doivent rappeler à nos filles […] il faut rappeler qu’il existe la nécessité, la mission, de mettre au monde des enfants, c’est une approche culturelle […] Nous devons aider les institutions, le Vatican, les associations, à faire devenir la maternité à nouveau cool. On doit faire en sorte que les filles de 18, 20 ans, veuillent se marier avec des garçons de cet âge et veuillent fonder une famille.” Lavinia Mennuni Sénatrice de la République italienne Déjà protagoniste la semaine dernière d’une initiative très contestée, lorsqu’elle avait présenté un projet de loi visant à “interdire d’interdire” la célébration des fêtes chrétiennes dans les écoles publiques , la sénatrice de la majorité Lavinia Mennuni a de nouveau fait parler d’elle le jeudi 28 décembre. Invitée d’une émission télé , cette membre du parti de Giorgia Meloni , Fratelli d’Italia, a affirmé que “les jeunes femmes ont une mission : devenir mère”, résume à sa façon le média d’opposition La Repubblica , pour qui “Mennuni a lancé la machine à remonter le temps sur la famille, les droits des personnes et l’émancipation féminine”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.repubblica.it/politica/2023/12/29/news/mennuni_senatrice_fdi_figli_donne-421770961/",
+      "https://www.repubblica.it/politica/2023/12/29/news/mennuni_senatrice_fdi_figli_donne-421770961",
+      "http://www.youtube.com/watch?v=B_7tYztZjPU",
+      "http://youtube.com/watch?v=B_7tYztZjPU",
+      "http://www.youtube.com/watch",
+      "https://repubblica.it/politica/2023/12/29/news/mennuni_senatrice_fdi_figli_donne-421770961/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:09:58.369+02:00",
+    "updated": "2023-12-29T16:09:58.369+02:00"
+  },
+  {
+    "uuid": "595e50bdb7d8d8dea9034184631caab284e73ff7",
+    "url": "https://www.world-today-news.com/zelensky-putin-is-planning-attacks-on-ukraines-nuclear-infrastructure-2024-09-26-164511",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-09-26T14:45:00Z",
+    "title": "Zelensky: Putin is planning attacks on Ukraine’s nuclear infrastructure – 2024-09-26 16:45:11",
+    "text": "Ukrainian President Volodymyr Zelensky today accused his Russian counterpart Vladimir Putin of planning attacks on Ukraine’s nuclear infrastructure.\n“I recently received other alarming information from our intelligence services that Putin appears to be planning attacks on our nuclear facilities and their infrastructure,” Zelensky said during his address to the UN General Assembly.\n“You will not increase your power at the expense of Ukraine”\nThe Ukrainian president also cast doubt on the “genuine interest” of a push by China and Brazil to end Russia’s war in Ukraine, saying: “You will not increase your power at the expense of Ukraine.”\n“When some propose alternative, half-hearted settlement plans, so-called package proposals, they not only ignore the interests and suffering of Ukrainians but also give (Russian President Vladimir) Putin political space to continue the war,” he said.\nDenouncing “colonialist wars and conspiracies of big powers against small” countries, the Ukrainian president said that “Ukrainians will never accept” a possible peace agreement with Moscow that would be “imposed” on them.\n#Zelensky #Putin #planning #attacks #Ukraines #nuclear #infrastructure",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T01:03:17.678+03:00",
+    "updated": "2024-09-27T01:03:17.678+03:00"
+  },
+  {
+    "uuid": "cf5cab26687dd6878b116ab6289ddd161cd3d72b",
+    "url": "https://www.zazoom.it/2025-03-28/metalmeccanici-sciopero-e-presidio-anche-a-salerno/16661469",
+    "ord_in_thread": 0,
+    "author": "@zazoomblog",
+    "published": "2025-03-28T12:01:28Z",
+    "title": "Metalmeccanici sciopero e presidio anche a Salerno",
+    "text": "Metalmeccanici sciopero e presidio anche a Salerno\nTempo di lettura: < 1 minuto“Siamo una platea di circa 1 milione e mezzo di lavoratrici e lavoratori che rappresentano un pezzo di industria e di professionalità preziose per lo sviluppo del paese e che tuttavia sta vivendo un clima di enorme incertezza sul salario sulla crescita e sul futuro”. È quanto scritto nel documento che le segreterie provinciali dei sindacati dei Metalmeccanici hanno consegnato nelle mani del prefetto di Salerno, Francesco Esposito al termine di un presidio che si è svolto questa mattina in piazza Amendola, terza manifestazione nel corso di una serie di iniziative nazionali che vanno avanti da mesi. Il 30 maggio del 2024 la rottura del tavolo di trattativa per il rinnovo del contratto nazionale di lavoro. I sindacati ritengono irresponsabile il comportamento di Federmeccanica e Unionmeccanica che con la loro intransigenza impediscono la ripresa delle trattative.Leggi su Anteprima24.it\nAnteprima24.it - Metalmeccanici, sciopero e presidio anche a Salerno\n- ROMAGNA: Metalmeccanici in sciopero, presidio a Cesena e Forlì | VIDEO\n- Sciopero dei metalmeccanici: lanciata la manifestazione a Pisa\n- Sciopero metalmeccanici: presidio a Savona\n- Metalmeccanici, otto ore di sciopero e un presidio a difesa del settore in crisi\n- Metalmeccanici, sciopero e presidio anche a Salerno\n- Metalmeccanici in sciopero per il contratto: 28 marzo presidio a Montevarchi\nNe parlano su altre fonti\n- Sciopero dei metalmeccanici, a Savona corteo e presidio in via Gramsci (FOTO e VIDEO) - Attenzione sul rinnovo del contratto nazionale, l'aumento del salario e la riduzione delle ore lavorative, la formazione e i contratti stabili ... (savonanews.it)\n- Metalmeccanici, otto ore di sciopero e un presidio a difesa del settore in crisi - Sono molte le aziende metalmeccaniche della provincia con problemi legati alla crisi del settore che si ripercuote sui lavoratori, sotto forma di trasferimenti della produzione, cassa integrazione e m ... (informazione.it)\n- Metalmeccanici, presidio davanti al Caleotto: “Rinnoviamo il contratto, non svuotiamolo” - Sciopero nazionale di 8 ore, in piazza anche Uilm Lario, Fiom Lecco e Fim Cisl Monza Brianza Lecco “Vogliamo un passo avanti sulle nostre proposte in materia di salario, orari di lavoro, formazione e ... (lecconotizie.com)\nVideo Metalmeccanici sciopero",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Labor->employment",
+      "Labor->labour dispute",
+      "Labor->unions",
+      "Social Issue->social condition",
+      "Social Issue->social problem",
+      "Politics->civil rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "consegnato nelle",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "di Salerno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Francesco Esposito al termine di",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "piazza Amendola",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "la ripresa delle trattative",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Leggi su Anteprima24.it",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Gramsci",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "forma di trasferimenti della produzione",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "presidio davanti al Caleotto",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "piazza anche",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Uilm Lario",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Fiom Lecco",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "materia di salario",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Salerno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "sciopero",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Cesena",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Pisa",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Savona\n- Metalmeccanici",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "del settore",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "il",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "lavorative",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "sul salario sulla crescita e sul futuro”",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "È quanto scritto nel documento che le segreterie",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "provinciali dei sindacati dei",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "terza manifestazione nel corso di una serie di iniziative nazionali che vanno avanti da mesi",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "ritengono irresponsabile il",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Anteprima24.it - Metalmeccanici",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sciopero e presidio anche",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "lanciata la manifestazione",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "e un presidio",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "marzo presidio",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Montevarchi\nNe parlano su altre fonti\n-",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Savona corteo e presidio",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "la formazione e",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "stabili",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "aziende metalmeccaniche della provincia con problemi legati alla crisi del settore che si ripercuote sui lavoratori",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "cassa integrazione e m",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Rinnoviamo il contratto",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "nostre proposte",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "orari di lavoro",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T15:01:28.344+03:00",
+    "updated": "2025-03-28T15:01:28.344+03:00"
+  },
+  {
+    "uuid": "faadd8887b77b1238d4b49c4b5ef19d43bb5fce5",
+    "url": "https://www.edu.cn/ke_yan_yu_fa_zhan/zui_jin_geng_xin/202506/t20250612_2674274.shtml",
+    "ord_in_thread": 0,
+    "author": "www.edu.cn",
+    "published": "2025-06-12T07:16:19Z",
+    "title": "丁薛祥：支持各国相关科研机构、高校、企业、智库建立合作网络，携手攻克重大科技难题-高校科技-中国教育和科研计算机网CERNET",
+    "text": "中共中央政治局常委、国务院副总理丁薛祥11日上午在成都出席第二届“一带一路”科技交流大会开幕式并发表主旨讲话。\n6月11日上午，中共中央政治局常委、国务院副总理丁薛祥在成都出席第二届“一带一路”科技交流大会开幕式并发表主旨讲话。（新华社记者 刘卫兵/摄）\n丁薛祥表示，中国国家主席习近平对“一带一路”科技交流合作高度重视，提出一系列重大倡议和举措，为推进国际科技创新合作提供了重要遵循。中国与各方共同努力，持续实施“一带一路”科技创新合作计划，搭建科技“连心桥”，织就创新协作网，为高质量共建“一带一路”注入了强劲动力。\n丁薛祥强调，新一轮科技革命和产业变革深入发展，大数据、云计算、人工智能等技术正在全面赋能经济社会发展，但技术鸿沟、数字鸿沟、智能鸿沟仍在扩大，一些霸权霸道霸凌行径对全球发展造成巨大障碍。我们要加强团结合作，深入践行国际科技合作倡议，构建创新驱动、开放包容、公平公正、共同繁荣、普惠可持续的“一带一路”科技创新共同体，促进科技创新更好造福全人类。\n丁薛祥提出4点建议：一是进一步加强科技创新开放合作，共同探索互利共赢的全球科技合作新模式，支持各国相关科研机构、高校、企业、智库建立合作网络，携手攻克重大科技难题。二是进一步推动科技成果普惠共享，坚持“科学无国界、惠及全人类”，大力提升科学技术的可及性，实施好“一带一路”科技减贫专项合作计划，使科技创新成果更好惠及各国特别是全球南方国家。三是进一步扩大科技人文交流，强化创新伙伴关系，广泛开展往来互访、互派留学生、技术培训、学术会议等多种形式的交流，拉紧科技与教育合作的友好纽带。四是进一步完善全球科技治理体系，妥善应对科技发展可能带来的规则冲突、社会风险、伦理挑战，反对把科技合作泛政治化、泛安全化，推动科技创新始终朝着有利于人类文明进步的方向发展。\n伊朗副总统阿夫辛、乌兹别克斯坦第一副总理拉马托夫、塞尔维亚国民议会副议长拉古什出席开幕式并致辞，联合国秘书长技术特使吉尔视频致辞。\n本届大会由科技部等部门和四川省人民政府、重庆市人民政府共同主办。国内外科技人员、企业负责人、政府官员和国际组织代表等约1500人参加了开幕式。（新华社成都6月11日电）\n原标题：丁薛祥出席第二届“一带一路”科技交流大会开幕式并发表主旨讲话\n特别声明：本站注明稿件来源为其他媒体的文/图等稿件均为转载稿，本站转载出于非商业性的教育和科研之目的，并不意味着赞同其观点或证实其内容的真实性。如转载稿涉及版权等问题，请作者在两周内速来电或来函联系。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Education"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Education->college and university",
+      "Education->educational grading",
+      "Education->vocational education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:16:19.442+03:00",
+    "updated": "2025-06-12T07:25:26.000+00:00"
+  },
+  {
+    "uuid": "b85f7906e9138b0ba19d5d5bf491ed418c4a784a",
+    "url": "https://globalnews.ca/news/10194955/warm-weather-bc-ski-hills/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chuck Chiang The Canadian Press",
+    "published": "2023-12-29T15:01:00Z",
+    "title": "‘Definitely behind the 8-ball’: Warm weather wreaks havoc with B.C. ski hills | Globalnews.ca",
+    "text": "British Columbia’s abnormally warm winter has left local ski resorts grappling with the lack of snow during the holiday tourism season.\nFewer than half of Whistler Blackcomb’s trails are open, while Vancouver’s Mount Seymour is closed entirely as it waits for better conditions.\nWarmth related to the El Niño climate phenomenon this week has pushed temperatures to record highs in regions including Metro Vancouver, Greater Victoria, the Sunshine Coast and the Okanagan.\nIn Whistler, 120 kilometres north of Vancouver, Environment Canada reported no snow on the ground on Christmas Day, compared to 40 centimetres last Christmas.\nOn Thursday, the Whistler Blackcomb resort reported 117 of its 275 trails were open, as well as only 42 per cent of its terrain.\nWarm weather has hit Metro Vancouver’s three main ski hills even harder, with Cypress and Grouse mountains operating only one or two runs each.\nStory continues below advertisement Mount Seymour closed entirely on Wednesday, Thursday and Friday, pending more snow.\nJames Shalman, general manager at Apex Mountain Resort in the Okanagans, says resorts across the province are “definitely behind the 8-ball” because of the warm weather, with visitors lost during the holidays unlikely to return later in the season.\n“All resorts in B.C. are very reliant on the Christmas holidays as a significant portion of their financial picture for the season,” Shalman said. “This is not something where you can make up what you’re down during Christmas break. You won’t make that up later in the season, even if we get amazing snowfall in January, February, March.”\n2:09 B.C. evening weather forecast: Dec. 28 Apex on Thursday had about a third of its roughly 79 runs open, a stark contrast from 2022 when every run was open in the first week of December thanks to heavy snowfalls.\nStory continues below advertisement Shalman said Apex had significant snow-making capacity and used it to combat the lack of precipitation, but there were weeks this month where the temperatures were too warm to make snow.\nGet the latest National news. Sent to your email, every day. “I mean, we are essentially snow farmers,” he says. “We’re Mother Nature-dependent, and we just have to take what we get.”\nAt Cypress Mountain in West Vancouver, management warned skiers of “thin snow coverage” for what little of the hill was open.\nTrending Now Cher files for conservatorship of son Elijah, claims his life is ‘at risk’ Canadians could see changes in banking next year. What to expect More on BC Accused in Olympic Village double stabbing struggled with mental health: Brother Baby boom helps critically endangered Vancouver Island marmot population B.C. suspends company’s fleet after yet another truck hits yet another overpass B.C. woman stages rally to highlight plight of seniors living in poverty Several resorts have been offering discounted passes and tickets to entice skiers to visit.\n“Rain’s the star of the show today,” Cypress Mountain’s update on Thursday said, noting that night skiing had been cancelled.\nEnvironment Canada meteorologist Brian Proctor said that in addition to El Niño, a ridge of high pressure had created a “blocking pattern” across much of North America. That was preventing the warm air generated by El Niño from passing over mountains and continuing inland.\nProctor said it meant the warm air mass had lingered over B.C., unable to go east due to high pressure acting like “a wall.”\nHe said Environment Canada’s long-term forecast called for more seasonal temperatures to return for the first week of January, bringing potential snowfall to higher elevations in the Interior. But Proctor said snowfall was less certain for coastal areas in coming weeks, adding that skiers and resorts should temper expectations.\nStory continues below advertisement “We may see potential for some snowfall,” Proctor says. “But really longer term it does look like an El Niño winter at this point in time, continuing and remaining fairly significant into the early spring.”\n1:25 Planning a ski trip? Canada’s mild winter keeps fewer hills open",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather"
+    ],
+    "external_links": [
+      "https://d21y75miwcfqoq.cloudfront.net/70c8fc80",
+      "https://www.d21y75miwcfqoq.cloudfront.net/70c8fc80"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "james shalman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "el niño",
+          "sentiment": "none"
+        },
+        {
+          "name": "cypress",
+          "sentiment": "none"
+        },
+        {
+          "name": "environment canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "whistler blackcomb",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "columbia",
+          "sentiment": "none"
+        },
+        {
+          "name": "greater victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "okanagan",
+          "sentiment": "none"
+        },
+        {
+          "name": "whistler",
+          "sentiment": "none"
+        },
+        {
+          "name": "metro vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "mount seymour",
+          "sentiment": "none"
+        },
+        {
+          "name": "sunshine coast",
+          "sentiment": "none"
+        },
+        {
+          "name": "whistler blackcomb",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:15:38.294+02:00",
+    "updated": "2023-12-29T19:15:38.294+02:00"
+  }
+]

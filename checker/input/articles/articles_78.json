@@ -1,0 +1,417 @@
+[
+  {
+    "uuid": "a3bc1aa606569d9ab07b92b69f17758304cad0f7",
+    "url": "https://forums.oracle.com/ords/r/apexds/community/q?question=export-query-result-fails-if-the-second-to-last-line-is-a-c-5025&session=5277290834296",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "user5841680",
+    "published": "2024-02-01T18:55:00Z",
+    "title": "Export query result fails If the second to last line is a comment - Oracle Forums",
+    "text": "I noticed that when the second to last line is a comment, the query will run fine, but then the query result export (to CSV) will fail.\nI'm still new-ish to SQL, and I noticed that in Oracle SQL Developer Extension for VS Code I will get a syntax error unless the last line is a semi-colon/I end my query with a semi-colon. I previously did not do this when using Oracle SQL Developer.\nConsider this:\nSELECT * FROM V$VERSION --comment ;\nHere's the error message:\nError starting at line : 4 in command -\nSELECT *\nFROM V$VERSION\n--comment;\nSET SQLFORMAT DEFAULT\nSET FEEDBACK ON\nError at Command Line : 7 Column : 1\nError report -\nSQL Error: ORA-00933: SQL command not properly ended\n00933. - \"unexpected keyword at or near %s\"\n*Cause: An unexpected keyword was encountered in the SQL statement at\nor near the position printed in the error message.\nOne of the following occurred:\n1. You had a typo in your SQL statement.\n2. Unsupported syntax was encountered for a clause in the\nstatement.\n3. An unsupported clause was encountered in the statement.\n4. A string was terminated prematurely leading to the rest\nof the string to be interpreted as keywords. For example, an\napostrophe in the string may be causing it to\nend prematurely.\n*Action: Take the action that corresponds with the Cause\n1. Check that your SQL statement has no typos.\n2. Check Oracle Database documentation to find the\ncorrect syntax for the clause and update the problematic\nclause appropriately.\n3. Check Oracle Database documentation to find the correct\nsyntax for the statement and remove the unsupported clause.\n4. Enter two single quotes instead of one to represent an\napostrophe within a string.\n*Params: 1) keyword_value\nkeyword near the keyword causing the error. The keyword value\nmay be truncated for readability if it is too long.\nMore Details :\nhttps://docs.oracle.com/error-help/db/ora-00933/\nHowever, this will export fine:\nSELECT * FROM V$VERSION ;\nMy actual query is more like this, where I will denote the beginning and end of blocks of code I may comment in/out later.\nSELECT TABLE_ONE.SYSTEM_ID ,TABLE_ONE.SYSTEM_NAME ,TABLE_TWO.RULE_ID --,TABLE_TWO.DISPLAY_NAME ,TABLE_TWO.DESCRIPTION FROM TABLE_ONE LEFT OUTER JOIN TABLE_TWO ON TABLE_TWO.SYSTEM_ID=TABLE_ONE.SYSTEM_ID WHERE /* --list A TABLE_ONE.SYSTEM_ID IN ( 2201 ,2202 ,2203 ) --list A */ --list B TABLE_ONE.SYSTEM_ID IN ( 2204 ,2205 ,2206 ) --list B ;\nI'm using:\nVSCode 1.86.0\nOracle SQL Developer Extension for VSCode v23.4.0\nThanks to the developers on this! It's great to be able to write using VSCode!!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:12:38.616+02:00",
+    "updated": "2024-02-02T01:12:38.616+02:00"
+  },
+  {
+    "uuid": "5984d36bc6f71e213416c412b8e9c4df3beeb6bd",
+    "url": "https://www.greenbiz.com/article/these-workshops-offer-alternative-throwaway-culture",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2024-02-16T09:22:00Z",
+    "title": "These workshops offer an alternative to throwaway culture",
+    "text": "Although disposability often reigns supreme in our culture, local repair clinics are slowing down consumption and prioritizing the practice of repair, fostering principles of the circular economy. In [Berlin](https://remap-berlin.de/projekte/817), [London](https://www.nlwa.gov.uk/reducereuserecycle/reduceandreuse/repair-cafes) and [New York](https://thetoollibrary.org/daretorepair/), they have become commonplace. These educational and hands-on workshops, offered at libraries, schools and local government offices, bring together communities while extending the lifespans of products. \"There are more repair cafes than ever before,\" Elizabeth Chamberlain, director of sustainability at the global repair organization [iFixit](https://www.ifixit.com/), said via email. \"Repair cafes help fill the void left by the decline of the independent repair market.\" In California, [Fixit Clinic](https://fixitclinic.blogspot.com/p/bring-your-broken-non-functioning.html) is leading the way, started by right-to-repair advocate Peter Mui in 2009. Its volunteer staffers help to disassemble, troubleshoot and repair a wide variety of broken items for free, including computers, clocks, clothing, bicycles and kitchen gadgets. What began as a small initiative has grown into a movement: 200 Fixit Clinics were held across the United States in 2023. Connections for communities Grassroots community repair efforts around the world share similar goals. Dutch journalist [Martine Postma](https://www.ifixit.com/News/33384/the-woman-behind-the-repair-cafe-movement) organized her first [Repair Cafe](https://www.repaircafe.org/en/) in Amsterdam in 2009. The decentralized network now has 3,009 free-repair cafes [from Japan to Iceland to Brazil](https://www.repaircafe.org/en/visit/). Tools, materials and about 45,240 skilled volunteers help mend an estimated 54,288 items per month. The organization promises at least an attempt to repair anything that \"you can manage to carry on your own to the Repair Cafe.\" Both [Fixit Clinic](https://fixitclinic.blogspot.com/p/start-one_13.html) and [Repair Cafe](https://www.repaircafe.org/en/join/start-your-own/) offer resources to help organizers recruit experts, engage community and kickstart recurring workshops. Repair clinics serve as vibrant hubs for community engagement and connection. Organizers often strive for broader, less tangible goals than maximizing the numbers of items fixed: instilling confidence and equipping people with critical thinking skills to repair independently. Chamberlain underscored the value of skill-building and self-sufficiency. Often people who show up at repair clinics to watch and learn eventually become experts in their own right, she said. Implications for businesses The rise of repair initiatives carries significant implications for corporate sustainability practitioners. Ultra-fast fashion companies such as Shein and e-commerce platforms such as Temu are escalating low-quality, high-consumption habits. Repair clinics offer a different ethos and different habits. Businesses have many options to meet and support this movement. They can foster an ecosystem of repair by supporting [right to repair legislation](https://www.ncsl.org/technology-and-communication/right-to-repair-2023-legislation); designing for modularity, durability and standardization; and providing accessible parts and repair manuals. Companies can also send their repair experts to local events to share best-practices. \"At repair cafes, everyone's favorite devices to work on are the ones with lots of clear troubleshooting information and readily available parts,\" says Chamberlain. \"The best repair documentation goes beyond just describing how to replace parts and actually includes schematics and wiring diagrams.\" Companies committed to enabling the circular economy should also consider supporting and participating in these community-driven repair initiatives. Last year, [a repair event organized by and for HP employees in Boise, Idaho,](https://www.repaircafe.org/en/hp-hosts-first-repair-cafe-at-product-manufacturer/) prompted conversations about the repairability of the company’s own laptops and printers. By hosting repair clinics, companies can demonstrate their commitment to sustainability while engaging with communities. Embracing repair initiatives often aligns with existing corporate circularity goals and can enhance brand reputation and customer loyalty. Businesses that champion repairability and promote sustainable consumption can position themselves as leaders and forge deeper connections with their customers, ultimately contributing to the emergence of a more circular economy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.repaircafe.org/en/visit/",
+      "https://www.repaircafe.org/en/",
+      "https://www.ifixit.com/",
+      "https://www.ifixit.com/News/33384/the-woman-behind-the-repair-cafe-movement",
+      "https://www.repaircafe.org/en/join/start-your-own/",
+      "https://thetoollibrary.org/daretorepair/",
+      "https://www.repaircafe.org/en/hp-hosts-first-repair-cafe-at-product-manufacturer/",
+      "https://fixitclinic.blogspot.com/p/start-one_13.html",
+      "https://remap-berlin.de/projekte/817",
+      "https://www.ncsl.org/technology-and-communication/right-to-repair-2023-legislation",
+      "https://fixitclinic.blogspot.com/p/bring-your-broken-non-functioning.html",
+      "https://www.nlwa.gov.uk/reducereuserecycle/reduceandreuse/repair-cafes",
+      "https://www.repaircafe.org/en/hp-hosts-first-repair-cafe-at-product-manufacturer",
+      "https://repaircafe.org/en/hp-hosts-first-repair-cafe-at-product-manufacturer/",
+      "https://www.ifixit.com",
+      "https://ncsl.org/technology-and-communication/right-to-repair-2023-legislation",
+      "https://ifixit.com/News/33384/the-woman-behind-the-repair-cafe-movement",
+      "https://thetoollibrary.org/daretorepair",
+      "https://www.repaircafe.org/en/join/start-your-own",
+      "https://www.repaircafe.org/en",
+      "https://repaircafe.org/en/visit/",
+      "https://www.repaircafe.org/en/visit",
+      "https://www.fixitclinic.blogspot.com/p/bring-your-broken-non-functioning.html",
+      "https://www.fixitclinic.blogspot.com/p/start-one_13.html",
+      "https://repaircafe.org/en/",
+      "https://www.remap-berlin.de/projekte/817",
+      "https://repaircafe.org/en/join/start-your-own/",
+      "https://ifixit.com/",
+      "https://www.thetoollibrary.org/daretorepair/",
+      "https://nlwa.gov.uk/reducereuserecycle/reduceandreuse/repair-cafes"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "peter mui",
+          "sentiment": "none"
+        },
+        {
+          "name": "elizabeth chamberlain",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fixit clinic",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "berlin",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "california",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T13:05:42.173+02:00",
+    "updated": "2024-02-23T19:56:52.611+02:00"
+  },
+  {
+    "uuid": "4a1b5f37aea92626b6607ec51fcad210692fcee5",
+    "url": "https://bnnbreaking.com/world/india/delhi-high-court-denies-prayer-rights-at-demolished-historic-mosque-site-for-shab-e-barat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dil Bar Irshad",
+    "published": "2024-02-23T10:24:00Z",
+    "title": "Delhi High Court Denies Prayer Rights at Demolished Historic Mosque Site for Shab-e-Barat",
+    "text": "In a city cradled by centuries of history, the recent demolition of the Akhoondji Masjid in Mehrauli, Delhi, has sparked a complex legal and cultural battle. The Delhi High Court's decision to dismiss a plea seeking permission for individuals to offer prayers at the graves of their family members on this contentious site, especially during the significant night of 'Shab-e-barat', illuminates the intricate intersection of faith, heritage, and urban development. This story unfolds in the heart of India's capital, where the past and the future are in a constant tug-of-war.\nThe Heart of the Matter\nThe Akhoondji Masjid, a structure with six centuries of history embedded in its walls, was demolished by the Delhi Development Authority (DDA) on January 30, leaving the local Muslim community in a state of shock and grief. The Delhi Waqf Board, representing the community's interests, moved the High Court seeking permission for the public to offer prayers at the site, especially considering the upcoming 'Shab-e-barat' - a night dedicated to praying for the deceased. The plea, however, was dismissed by the Delhi High Court, which ordered the maintenance of the status quo, leaving the community without a place to observe their traditional ceremonies on this holy night.\nLegal and Emotional Repercussions\nThe court's decision has not only legal implications but also deeply emotional ones. For generations, the site of the Akhoondji Masjid had been a spiritual and communal haven for the local Muslim population. The dismissal of the plea underscores the ongoing challenges faced by religious and minority communities in preserving their heritage and practicing their faith amidst rapid urban development. The Delhi Waqf Board argued that the locals have celebrated Shab-e-barat at the site for generations, marking a tradition that intertwines their faith with the very fabric of Mehrauli's history.\nLooking Forward\nWhile the Delhi High Court's decision has momentarily halted the possibility of prayer at the demolished mosque site, it has also ignited a broader conversation about the rights of religious communities, the preservation of historical sites, and the complexities of urban development in a city as diverse and storied as Delhi. The main writ petition regarding the matter is scheduled for hearing on March 7, promising another chapter in this ongoing saga. As the community and the authorities await further developments, the tale of the Akhoondji Masjid remains a poignant reminder of the delicate balance between preserving the past and making way for the future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "delhi high court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "delhi development authority",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi waqf board",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "mehrauli",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T14:26:16.917+02:00",
+    "updated": "2024-02-23T14:26:16.917+02:00"
+  },
+  {
+    "uuid": "bc8e19d8b0e5d989f23cfac87a67a82ad33b1b96",
+    "url": "https://timesofindia.indiatimes.com/city/lucknow/cm-accuses-india-bloc-of-engaging-in-anti-hindu-politics/articleshow/110430658.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-05-25T23:55:55Z",
+    "title": "Hindu Politics: CM accuses INDIA bloc of engaging in 'anti-Hindu politics' | Lucknow News - Times of India",
+    "text": "Lucknow: Hitting out at West Bengal chief minister Mamata Banerjee for her recent remarks where she claimed that some members of the Bharat Sevashram Sangh and the Ramakrishna Mission were acting at the behest of BJP, CM Yogi Adityanath accused her and other members of the INDIA bloc like Congress, SP and RJD of engaging in “anti-Hindu politics”.Speaking to the media in Gorakhpur on Saturday, the CM accused the opposition of wanting to form the govt at any cost, adding that no Indian would allow this to happen. He said that the Bharat Sevashram Sangh and Ramakrishna Mission were esteemed religious and spiritual institutions. The Ramakrishna Mission, which follows the ideals of Swami Vivekananda, is known for its commendable work in promoting the values and principles of Sanatan dharma and India’s spiritual heritage across the country and the world. It was Vivekananda, he said, who had proclaimed that ‘we should say with pride that we are Hindus’. The CM added that the Bharat Sevashram Sangh was an influential spiritual organisation, working to promote values and principles of Sanatan dharma both within India and globally.“Opposing Sanatan dharma and Hindus is the foundation of the politics of the INDIA bloc which includes Congress, SP, TMC, RJD and Aam Aadmi Party. The statements made by its leaders, including Mamata Banerjee, reflect their frustration over their impending defeat in the Lok Sabha polls,” he said. The CM said that the followers and devotees of these organisations would give a befitting reply to Congress, TMC and other INDIA bloc members. Comparing the current situation with the era of Ravana when sages were under threat, the CM said that Sanatan dharma would not be intimidated by such provocations and would respond decisively. “While the INDIA bloc parties are threatening Hindu religious and spiritual institutions, they are also undermining the rights of backward caste people. In 2010, the TMC govt in West Bengal diluted OBC reservations by including 118 Muslim castes in the OBC category, depriving millions of individuals from backward castes of reservation benefits over the past 14 years,” the CM said, demanding an apology from the TMC govt and Congress for this decision.He added that this decision was also contrary to the principles of Babasaheb Bhimrao Ambedkar, who had said that reservations should not be based on religion.Saying that implementation of reservations based on religion was part of a conspiracy to divide India further, the CM praised a recent Kolkata high court order to cancel OBC certificates issued since 2010, calling it highly commendable. This ruling, he added, was a strong rebuke to the TMC, Congress and other INDIA bloc parties.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mamata banerjee",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vivekananda",
+          "sentiment": "none"
+        },
+        {
+          "name": "yogi adityanath",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lucknow news - times of india lucknow",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "bharat sevashram sangh",
+          "sentiment": "none"
+        },
+        {
+          "name": "bjp",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramakrishna mission",
+          "sentiment": "none"
+        },
+        {
+          "name": "rjd",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west bengal",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "gorakhpur",
+          "sentiment": "none"
+        },
+        {
+          "name": "swami vivekananda",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-26T02:55:55.056+03:00",
+    "updated": "2024-05-26T02:55:55.056+03:00"
+  },
+  {
+    "uuid": "8273dfd941189fd2bdf969552d2823659f84644d",
+    "url": "https://www.cairo24.com/2235036",
+    "ord_in_thread": 0,
+    "author": "@cairo24_",
+    "published": "2025-06-26T10:51:03Z",
+    "title": "التحقيق مع طالبة بعد نشرها أسئلة امتحان الفيزياء على فيسبوك بالأقصر",
+    "text": "التحقيق مع طالبة بعد نشرها أسئلة امتحان الفيزياء على فيسبوك بالأقصر\nفتحت الجهات المختصة بوزارة التربية والتعليم تحقيقًا عاجلًا مع طالبة بالثانوية العامة، بلجنة مدرسة أرمنت الثانوية بنات بمحافظة الأقصر، بعد تسريبها امتحان مادة الفيزياء عبر صفحتها الشخصية على موقع التواصل الاجتماعي “فيسبوك”.\nالامتحان نُشر بعد 10 دقائق من بدايته.. والباركود يكشف التفاصيل\nوبحسب مصادر مطلعة، فإن الطالبة قامت بتصوير ورقة الامتحان بعد مرور 10 دقائق فقط من بدء اللجنة رقم (14)، ونشرتها على صفحتها الخاصة. وقد ساعد “الباركود” الموجود على ورقة الأسئلة في التعرف على بيانات الطالبة وتحديد لجنتها بدقة.\nالوزارة ترصد وتتحرك فورًا.. والتحفظ على الهاتف والطالبة\nورصدت غرفة العمليات بوزارة التربية والتعليم الواقعة بشكل فوري، وأبلغت بدورها إدارة اللجنة التي تحركت بسرعة وقامت بالتحفظ على الهاتف المحمول والطالبة، وتم تحرير محضر رسمي بالواقعة، مع اتخاذ الإجراءات القانونية اللازمة حيالها.\nتحذيرات مشددة واستنفار في اللجان\nوأكدت وزارة التربية والتعليم أنها تتابع باهتمام بالغ سير امتحانات الثانوية العامة، وتشدد على التصدي الحازم لأي محاولة للإخلال بنزاهة الامتحانات، داعية الطلاب إلى الالتزام وعدم الانسياق وراء دعوات الغش التي تضر بمستقبلهم.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Education",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Education->educational testing and examinations",
+      "Education->teachers",
+      "Education->students",
+      "Social Issue->teenagers",
+      "Social Issue->social services",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_iq",
+        "top_news_kw",
+        "top_news_eg",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T13:51:03.473+03:00",
+    "updated": "2025-06-27T11:06:16.000+00:00"
+  },
+  {
+    "uuid": "ae33c69adc95dfcf5350e01d6cd6b547ccb63af6",
+    "url": "https://www.livehindustan.com/bihar/bhagalpur/story-fire-safety-awareness-campaign-in-urban-and-rural-areas-201745448569892.html",
+    "ord_in_thread": 0,
+    "author": "@Live_Hindustan",
+    "published": "2025-04-23T22:49:00Z",
+    "title": "अग्निशमन कर्मी ने मॉकड्रील कर किया जागरूक",
+    "text": "अग्निशमन कर्मी ने मॉकड्रील कर किया जागरूक\nसुल्तानगंज, निज संवाददाता। प्रखंड के शहरी और ग्रामीण क्षेत्रों में आगजनी की बढ़ती घटना\nNewswrapहिन्दुस्तान, भागलपुरThu, 24 April 2025 04:19 AM\nप्रखंड के शहरी और ग्रामीण क्षेत्रों में आगजनी की बढ़ती घटना से बचाव को लेकर अग्निशमन कर्मी द्वारा जगह-जगह जागरूकता अभियान चलाया जा रहा है। अग्निशमन चालक सतेन्द्र राम ने बताया कि बुधवार को अग्नि सुरक्षा सह जागरूकता अभियान अग्निशमन सेवा भागलपुर के तत्वावधान में प्रखंड के नवादा, कटहरा, नारायणपुर, गंगटी, अब्जूगंज में चलाया गया। जिसमें लोगों को मॉकड्रील कर जागरूक किया गया।\nलेटेस्ट Hindi News ,\n बॉलीवुड न्यूज, बिजनेस न्यूज, टेक\n, ऑटो, करियर , और राशिफल,\nपढ़ने के लिए Live Hindustan App डाउनलोड करें।",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Health",
+      "Education"
+    ],
+    "topics": [
+      "Social Issue->social problem",
+      "Social Issue->social condition",
+      "Health->medical service",
+      "Health->public health",
+      "Health->emergency care",
+      "Education->students",
+      "Education->state school",
+      "Education->teachers"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:53:44.498+03:00",
+    "updated": "2025-04-24T01:53:44.498+03:00"
+  },
+  {
+    "uuid": "565a00d92735c6d42bb80b6b46a1c7496aeb7843",
+    "url": "https://vnexplorer.net/z/934554.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-21T13:28:00Z",
+    "title": "Tras ocho días desaparecida: Confirman hallazgo de estudiante que se extravió rumbo al colegio en La Cisterna",
+    "text": "Fuente: Facebook “¡Encontrada! Carabineros nos ha informado, cerca de las 20:00 horas, que Dafne fue encontrada y, luego de verificar que está físicamente bien gracias a examen de constatación de lesiones, fue entregada a su madre”. Con ese comunicado, la Municipalidad de La Cisterna confirmó el hallazgo de la estudiante de 15 años, Dafne Zapata, que se encontraba perdida hace ocho días. El hallazgo ocurrió la noche del jueves, aunque sin revelarse mayores detalles de los motivos del extravío ni cómo dieron con su paradero. “¡Gracias a todas y todos quienes ayudaron a difundir esta búsqueda!”, agregaron desde el municipio. Fue el pasado 12 de junio cuando la afectada madre dio a conocer que no supo más de su hija, luego que saliera de su casa en la comuna de La Cisterna para encaminarse a su Liceo Laura Vicuña, pero no había llegado al establecimiento educacional. En dicha ocasión, Francisca Campos habló con Meganoticias y señaló que “llevaba dos semanas yéndose sola, ella siempre me iba ‘whatsappeando’, diciéndome ‘en tal parte voy’”, mensajes que no llegaron esa afligida mañana. Estudiante dejó de enviar mensajes Pierdo el rastro de ella a las 08:26 horas que fue cuando yo le hablo”. Campos detalló que el último mensaje que su hija le envió fue a las 07:55 am, en donde le contó que había una congestión vehicular. “Me llamó una compañera de ella y me dice que no ha llegado al colegio porque ella tenía una presentación, no llegó al colegio. De ahí, yo le empecé a mandar mensajes hasta las 08:33 horas ella me recibió los mensajes, dos tickets, pero no me respondió ninguno”, continuó. Francisca especificó que el trayecto al colegio es bastante corto, y un viaje en auto se demora aproximadamente 5 a 6 minutos. “Esperé que llegara mi esposo a la casa y salimos a buscarla. La busqué en el Intermodal, en cada piso y nada. Después llamé a las amigas, si alguien sabía algo, algún contacto y nada”, agregó. La madre describió a su hija Dafne Zapata señalando que tiene la tez blanca, pelo castaño claro y ojos color miel. La joven vestía el buzo gris del colegio con las iniciales del establecimiento, llevaba un polerón GAP azul con las letras de color blanco, y una chaqueta ploma Everlast grande. Su mochila rosada tiene flores y es de la marca Puma.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-22T00:44:50.395+03:00",
+    "updated": "2024-06-22T00:44:50.395+03:00"
+  }
+]

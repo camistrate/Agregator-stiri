@@ -1,0 +1,340 @@
+[
+  {
+    "uuid": "577b26745c80ab038f42df2c771b9a440842157f",
+    "url": "https://www.abola.pt/futebol/noticias/video-mas-que-golo-mbappe-2025011621223299477",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abola.pt",
+    "published": "2025-01-16T20:22:00Z",
+    "title": "Vídeo: mas que golo, Mbappé! | Abola.pt",
+    "text": "Avançado do Real Madrid desbloqueou o marcador frente ao Celta com uma bela iniciativa individual\nEstá aberto o marcador no Real Madrid - Celta e com direito a espetáculo! Na sequência de um contra-ataque, Kylian Mbappé conduziu, foi à linha e, com pouco ângulo, fuzilou a baliza adversária. Belo lance do astro francês, a abrir a contagem ao minuto 37.\nMbappé, quem mais poderia ter sido 👑 #sporttvportugal #taçadorei #realmadrid #celta pic.twitter.com/QI2YtwRbA8\n— sport tv (@sporttvportugal) January 16, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->soccer",
+      "Arts, Culture and Entertainment->festival",
+      "Arts, Culture and Entertainment->mass media",
+      "Arts, Culture and Entertainment->news media"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/sporttvportugal/status/1880000987840004401?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/celta?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/sporttvportugal?src=hash&ref_src=twsrc%5Etfw",
+      "https://t.co/QI2YtwRbA8",
+      "https://twitter.com/hashtag/ta%C3%A7adorei?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/realmadrid?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/sporttvportugal?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/ta%C3%A7adorei?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/celta?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/ta%C3%A7adorei",
+      "https://twitter.com/hashtag/sporttvportugal",
+      "https://twitter.com/sporttvportugal/status/1880000987840004401",
+      "https://www.twitter.com/hashtag/realmadrid?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.t.co/QI2YtwRbA8",
+      "https://www.twitter.com/sporttvportugal/status/1880000987840004401?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/realmadrid",
+      "https://twitter.com/hashtag/celta"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:01:57.267+02:00",
+    "updated": "2025-01-17T00:52:09.947+02:00"
+  },
+  {
+    "uuid": "8bc58ad02a4da17d2c36db6da667c40924382cbd",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/finance-industry-vulnerabilities",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Help Net Security",
+    "published": "2024-11-15T04:30:00Z",
+    "title": "Critical vulnerabilities persist in high-risk sectors",
+    "text": "Finance and insurance sectors found to have the highest number of critical vulnerabilities , according to Black Duck.\nFinance and insurance industry faces highest vulnerabilities The report, which analyzes data from over 200,000 dynamic application security testing (DAST) scans conducted by Black Duck on approximately 1,300 applications across 19 industry sectors from June 2023 to June 2024, found variations in vulnerability types and remediation practices.\nOf the 96,917 total vulnerabilities identified, the two most critical categories were cryptographic failures (weaknesses in how an application secures sensitive information), with over 30,000 instances, and injection vulnerabilities (when malicious code tricks an application into executing unintended actions or accessing data without proper authorization), with just over 4,800 instances.\nBoth pose threats to data across all industries, and potential breaches could lead to the theft of personally identifiable information (PII), financial data, and medical records, resulting in severe financial losses and reputational damage.\nThe Finance and Insurance industry (FSI) had the highest number of critical vulnerabilities across all site complexities, with 565 critical vulnerabilities identified for small FSI sites, 580 for medium sites,and 154 for large sites. The next-highest industry was Healthcare and Social Assistance, with 367, 486, and 139 critical vulnerabilities for small, medium, and large sites respectively.\nAdditionally, the report found that there’s no one-size-fits-all timeline for remediation approaches. In fact, there’s variance when it comes to the mean time to remediate (MTTR) across industries, with stringent regulations forcing finance and insurance to move quicker (28 days for smaller/lower complexity web assets), compared to the Utilities sector, which had the longest time to close (107 days for smaller/lower complexity web assets). This is likely due to the sector operating on legacy systems that are difficult to patch and update.\nOperational disruptions pose a large business risk Operational disruptions pose a large business risk, no matter the industry. The research found that widespread security misconfigurations (98% of applications affected) threaten business continuity and service availability.\nSensitive data exposure and injection vulnerabilities pose threats to sensitive data across all industries, potentially leading to data leaks, fines, financial losses, and reputational damage. Sensitive data at risk includes personally identifiable information such as Social Security numbers, banking information, login credentials, credit card numbers, medical records, and trade secrets.\nIn the educational services sector, an unaddressed vulnerability in a student information system could lead to the exposure of sensitive student data, including personal information, academic records, and financial details. Such a breach could result in identity theft, academic fraud, and violation of privacy laws like FERPA, leading to legal consequences and loss of trust in the institution.\n“The high number of vulnerabilities found from the past year is a clear wake-up call that businesses cannot remain stagnant when deploying new security measures,” said Jason Schmitt , CEO, Black Duck. “The longer it takes for an organization to patch a vulnerability, the larger the chance of exploitation. Software risk equates to business risk, and with today’s malicious actors being more sophisticated than ever, it’s increasingly important that businesses across every sector build trust in their software by implementing a comprehensive and integrated approach.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.linkedin.com/in/mjasonschmitt/",
+      "https://www.linkedin.com/in/mjasonschmitt",
+      "https://linkedin.com/in/mjasonschmitt/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "8bc58ad02a4da17d2c36db6da667c40924382cbd",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T10:20:18.623+02:00",
+    "updated": "2024-11-15T14:41:24.686+02:00"
+  },
+  {
+    "uuid": "54b05e221a0462ea64f3706da806496c80c5c97f",
+    "url": "https://www.silive.com/weather-alerts/2024/11/ny-weather-prepare-for-elevated-fire-danger-in-sullivan-county-until-early-friday-evening.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Advance Local Weather Alerts",
+    "published": "2024-11-01T14:11:00Z",
+    "title": "NY weather: Prepare for elevated fire danger in Sullivan County until early Friday evening - silive.com",
+    "text": "By Advance Local Weather Alerts A weather alert was issued by the National Weather Service on Friday at 10:05 a.m. for elevated fire danger until 5 p.m. for Sullivan County.\n\"Northwest winds of 10 to 20 mph, gusting to 25 to 30 mph, low relative humidity, dry fuels, and leaf litter will support wildfire spread if any fire were to ignite. Any outdoor burning is strongly discouraged. Use extra caution if handling any potential ignition sources, such as machinery or matches, and ensure to properly extinguish or dispose cigarette butts,\" says the weather service.\nAdvance Local Weather Alerts is a service provided by United Robots, which uses machine learning to compile the latest data from the National Weather Service.\nIf you purchase a product or register for an account through a link on our site, we may receive compensation. By using this site, you consent to our User Agreement and agree that your clicks, interactions, and personal information may be collected, recorded, and/or stored by us and social media and other third-party partners in accordance with our Privacy Policy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.advancelocal.com/advancelocalUserAgreement/privacy-policy.html",
+      "https://www.advancelocal.com/advancelocalUserAgreement/user-agreement.html",
+      "https://advancelocal.com/advancelocalUserAgreement/user-agreement.html",
+      "https://advancelocal.com/advancelocalUserAgreement/privacy-policy.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Weather Service",
+          "sentiment": "negative"
+        },
+        {
+          "name": "United Robots",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Sullivan County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T17:58:02.697+02:00",
+    "updated": "2024-11-01T17:58:02.697+02:00"
+  },
+  {
+    "uuid": "426f1ace735ef22478ea0cd0c2f0d3ed77e06b37",
+    "url": "https://time.news/complication-rate-92-the-most-dangerous-plastic-surgery-is-this",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "times news cr",
+    "published": "2024-08-29T22:42:00Z",
+    "title": "Complication rate 92%… The most dangerous plastic surgery is ‘this’",
+    "text": "Photo = Getty Images Korea. Not related to the article.\nThe human desire to pursue beauty is endless. Cosmetic surgery for aesthetic purposes is increasing every year. According to the 2023 announcement of the International Society of Aesthetic Plastic Surgery (ISAPS), 15.8 million cosmetic surgeries and 19.1 million non-surgical procedures were performed worldwide. This is a 5.5% increase from the previous year. The overall increase rate over the past four years is 40%.\nBut obsession with external beauty can come at a huge cost. Beyond just financial issues, it can also have lifelong consequences.\nAccording to the 2023 Procedure Statistics Report recently released by the American Society of Plastic Surgeons (ASPS), the most dangerous plastic surgeries were analyzed and ranked, and some plastic surgeries had a complication rate of over 90%. This is eye color change surgery, which has a complication rate of 92.3%.\nEye color alterations, including cosmetic iris transplants, laser pigment removal, and corneal pigment injections, ranked overwhelmingly first among the ten most dangerous cosmetic surgeries (with a combined score of 0.8313). Complications include vision loss, blindness, glaucoma, and uveitis (eye inflammation).\nPhoto = Getty Images Korea. Not related to the article. Some ophthalmologists warn that the surgery, which costs around 16 million won, is “like gambling with your eyesight.”\n“Any unnecessary eye surgery is a bad idea,” Dr. Colin McCannell, an ophthalmologist at the University of California, Los Angeles (UCLA) School of Medicine, told Healthline, because of the risk of complications.\nThe second risky surgery is ‘thigh lift surgery’. This is a cosmetic surgery that removes excess fat and loose skin from the thigh area. There is a risk of blood clots, infection, and changes in skin sensation. The probability of complications is 78% (total score 0.6361).\nThe Brazilian Butt Lift (complication risk 37.94%, overall score 0.5759), which transplants fat from the stomach or sides to the buttocks, was ranked as the third most dangerous plastic surgery. This surgery, which is especially popular among young women, is notorious for complications such as fat embolism.\nNext, body lift, commonly referred to as ‘sagging skin surgery’, ranked 4th with a total score of 0.5759 (complication rate of 42%).\nThe fifth is filler treatment. The risk of complications was 64.61%. Filler treatment, known as the so-called ‘lunchtime treatment’, is a procedure in which a substance similar to skin is injected under the skin with a syringe. The recovery period is short at 1~2 days, but the frequency of complications such as allergic reactions or asymmetry is known to be worrisome.\nNext, breast reduction surgery (38% risk of complications), buttock implants (21.6% risk of complications), breast augmentation (14.4% risk of complications), arm augmentation (21% risk of complications), and mastopexy (10.4% risk of complications) were included in the top 10.\nASPS announced that it calculated the overall score by adding up the weighted scores for each surgery (procedure) and ranked the surgeries in order of risk based on this score.\nReporter Park Hae-sik, Donga.com pistols@donga.com\ngreat 0 dog I’m sad 0 dog I’m angry 0 dog I recommend it dog Hot news right now 2024-08-29 18:42:14",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "american society of plastic surgeons",
+          "sentiment": "none"
+        },
+        {
+          "name": "international society of aesthetic plastic surgery",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "korea",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T01:43:05.864+03:00",
+    "updated": "2024-08-30T01:43:05.864+03:00"
+  },
+  {
+    "uuid": "b72a707d80f4be627a1ba878772db928baf932aa",
+    "url": "https://lasillarota.com/estados/2024/8/22/michoacan-en-crisis-exigen-aparicion-de-policias-comunales-queman-traileres-para-presionar-al-gobierno-498334.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CARLOS ARRIETA / CORRESPONSAL",
+    "published": "2024-08-22T23:43:00Z",
+    "title": "Michoacán en crisis: Exigen aparición de policías comunales y queman tráileres para presionar al gobierno | La Silla Rota",
+    "text": "MORELIA, Michoacán. - Este jueves se cumplen 48 horas de la desaparición de siete policías comunales de la localidad indígena de La Cantera, municipio de Santiago Tangamandapio, Michoacán. Para exigir la aparición de sus autoridades de seguridad, los habitantes quemaron esta tarde, dos tráileres y una camioneta de una empresa de mensajería. Con este hecho, suman ya cinco unidades las incendiadas por los pobladores, quienes tienen bloqueada la carretera Los Reyes-Zamora. TAMBIÉN LEÉ: [CJNG convierte a comunidad de Jalisco en pueblo fantasma](https://lasillarota.com/estados/2024/8/21/cjng-convierte-comunidad-de-jalisco-en-pueblo-fantasma-498028.html) Te podría interesar Los informes señalan que la tarde del pasado martes, uno de los integrantes de la Policía Comunal, llamó a sus demás compañeros para que lo auxiliaran, porque supuestamente se le había descompuesto su camioneta. Seis de los oficiales indígenas se trasladaron al punto que les señaló su compañero y ya no se supo más de ellos, ni del otro policía que pidió ser auxiliado. Familiares de las víctimas presentaron la denuncia ante la Fiscalía de Michoacán, que emitió las fichas de búsqueda. Te podría interesar [ÚNETE A NUESTRO CANAL DE WHATSAPP. EL PODER DE LA INFORMACIÓN EN LA PALMA DE TU MANO](https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B) Comunidad realiza movilizaciones Los habitantes de esa localidad iniciaron sus movilizaciones para exigir a las autoridades la búsqueda y aparición de los policías comunales. Por la noche, los pobladores bloquearon la carretera Los Reyes-Zamora, y más tarde le prendieron fuego a dos tráileres. Además, se reunieron en la plaza principal del pueblo, para hacer oraciones masivas, por los siete elementos de la Policía Comunal. ¿Quiénes son los policías comunales desparecidos? Se trata del director de la corporación indígena de seguridad, Israel Maravilla Juan, así como, Patricia Mateo Victoriano, Marco Antonio Reyes Amezcua, Luis Fernando Lucas Maravilla, Brayan Javier Hernández Pablo, Oscar Martínez Cuellar y Ricardo Ángel Ascencio Bravo. Gobierno de Michoacán: ¿Qué ha hecho? Mediante comunicado, el gobierno de Michoacán, informó que, con el despliegue de un helicóptero y diversas unidades terrestres, continúa la búsqueda de los siete elementos. Indicó que, al momento, fueron localizadas una camioneta y una patrulla donde al parecer viajaban los policías comunales. El boletín señala que el operativo es encabezado por el subsecretario de Operación Policial, de la Secretaría de Seguridad Pública del estado, José Ortega Silva. La administración estatal, explicó que el despliegue contempla tareas de búsqueda en zonas serranas de la región, donde los agentes de la Guardia Civil, en coordinación con el personal de la Secretaría de la Defensa Nacional (Sedena), la Guardia Nacional (GN), y la Fiscalía General del Estado (FGE), recorren las zonas de difícil acceso, así como las comunidades aledañas. También se efectúan puestos de inspección en puntos estratégicos y se llevan a cabo tareas de investigación para dar seguimiento a cualquier pista que contribuya a la localización de los policías comunales. Más hechos delictivos En la localidad indígena de Tarecuato, colindante con La Cantera, los pobladores reportaron que un grupo de civiles armados irrumpieron e intentaron llevarse a otro comunero, el cual logró escapar de los criminales. En San Lorenzo, municipio de Uruapan, otra célula delictiva, también ingresó, sin que hasta el momento se haya dado a conocer el saldo de esa ofensiva. Las localidades de La Cantera y de Tarecuato, se ubican en el ya conocido corredor de la muerte, línea territorial que comprende 13 municipios michoacanos, la mayoría colindante con el estado de Jalisco. [SÍGUENOS EN EL SHOWCASE DE LA SILLA ROTA DE GOOGLE NEWS](https://news.google.com/publications/CAAqBwgKMKffiQswz_qbAw?hl=es-419&gl=MX&ceid=MX%3Aes-419) Ese corredor atraviesa los municipios de Cotija, Jiquilpan, Sahuayo, Marcos Castellanos, Villamar, Venustiano Carranza, Briseñas, Pajacuarán, Vista Hermosa, Chavinda, Tangamandapio, Jacona y Zamora. Es considerado así, debido a su alta peligrosidad para habitantes de la zona, automovilistas y autoridades. En ese corredor, operado y controlado por el Cártel Jalisco Nueva Generación, son muy frecuentes las desapariciones de personas, ataques a autoridades y multihomicidios.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B",
+      "https://news.google.com/publications/CAAqBwgKMKffiQswz_qbAw?hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "https://whatsapp.com/channel/0029Va6evSkGk1Ftej78ks0B",
+      "https://news.google.com/publications/CAAqBwgKMKffiQswz_qbAw",
+      "https://www.news.google.com/publications/CAAqBwgKMKffiQswz_qbAw?hl=es-419&gl=MX&ceid=MX%3Aes-419"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T03:08:43.677+03:00",
+    "updated": "2024-08-23T06:59:15.825+03:00"
+  },
+  {
+    "uuid": "eca7dedafd08a01631c022069fe5527b359d3485",
+    "url": "https://it.minghui.org/html/articles/2023/12/24/25054.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Di un corrispondente Minghui della provincia del Liaoning; Cina",
+    "published": "2023-12-24T00:00:00Z",
+    "title": "Liaoning: Donna di 70 anni perde l'appello contro la condanna a quattro anni di prigione per la sua fede nel Falun Gong | Falun Dafa - Minghui.org",
+    "text": "(Minghui.org) Una donna di 70 anni, della città di Fushun nella provincia del Liaoning, ha recentemente perso l'appello contro la condanna a quattro anni di prigione per la sua fede nel Falun Gong, una pratica per il benesere fisico e spirituale che viene perseguitata dal Partito Comunista Cinese dal luglio 1999. Il 16 novembre scorso il tribunale intermedio della città di Fushun ha ascoltato il caso di appello di Wang Caiyun. Né la polizia né il pubblico ministero hanno tentato di rispondere alle domande sollevate dal suo avvocato in merito alle prove discutibili presentate durante il processo, in particolare un testimone misterioso, che non si è mai presentato in tribunale per accettare il controinterrogatorio e che ha firmato il suo nome con calligrafie diverse su cinque diversi moduli. In seguito il tribunale superiore si è pronunciato contro Wang in data sconosciuta. Al momento in cui scriviamo, la donna è probabilmente ancora rinchiusa nel centro di detenzione della città di Fushun. Arresto e processo Il 17 maggio dell’anno scorso Wang è stata arrestata. È stata rilasciata dopo 15 giorni di detenzione amministrativa, per poi essere nuovamente arrestata il 4 marzo di quest’anno.Il tribunale distrettuale di Dongzhou ha tenuto due udienze sul suo caso, il 12 luglio e l'11 settembre, prima di condannarla, alla fine di settembre, a quattro anni di prigione e multarla di 16.000 [yuan] (circa 2.030 euro). Durante la prima udienza, il [procuratore] Yang Kun della Procura distrettuale di Dongzhou ha presentato un testimone misterioso, ma non lo ha chiamato a deporre. Il testimone si chiamava Xu Dawei, ma non sono state fornite altre informazioni, come il sesso o l'età. Xu avrebbe assistito all'interrogatorio di Wang e all'irruzione nel suo appartamento. Le cinque firme di Xu su cinque moduli diversi erano tutte differenti. Durante la seconda udienza, Yang ha insistito sul fatto che Xu, che non era presente in aula, fosse un testimone legittimo, nonostante le prove dimostrassero il contrario (il marito di Wang, che era presente durante l'irruzione della polizia, non ha mai visto nessuno di nome Xu in casa sua). Yang ha anche presentato una foto in bianco e nero di Wang che cammina per strada, affermando che stava distribuendo materiale del Falun Gong. Tuttavia, non è stata fornita alcuna prova a sostegno di questa tesi. Udienza di appello Dopo la condanna, alla fine dello scorso mese di settembre, Wang ha presentato ricorso in appello. Il 16 novembre si è tenuta l'udienza del tribunale intermedio della città di Fushun, presso il locale centro di detenzione. Il giudice Jin Dingwei ha innanzitutto verificato le informazioni personali di Wang. In seguito, il procuratore Lan Longwei della Procura della città di Fushun ha letto ad alta voce l'atto d'accusa utilizzato nel processo. Quando il giudice Jin ha chiesto a Wang se avesse domande sull'atto d'accusa, la donna ha risposto che le prove in esso contenute erano state inventate per intero dalla polizia. Il 17 maggio dell’anno scorso, quando è stata arrestata per la prima volta, la donna stava comprando della carne per suo padre alla fiera comunitaria di Cigou, nel distretto di Dongzhou. Gli agenti della stazione di polizia di Longfeng, che supervisiona l'area di Cigou, hanno preso la sua borsa e vi hanno trovato un volantino del Falun Gong. Alla donna è stata inflitta una detenzione amministrativa di 15 giorni. Il giudice ha cercato di impedirle di parlare, sottolineando che ciò che aveva detto non sarebbe stato rilevante per il suo caso. Il difensore della sua famiglia ha sostenuto che invece era direttamente collegato alla sua successiva condanna. Gli agenti della Stazione di polizia di Dongzhou, nel distretto omonimo, hanno cercato di spiegare che, poiché Wang il 4 marzo è stata nuovamente arrestata mentre statva partecipando a un'altra fiera comunitaria nel distretto di Dongzhou, hanno deciso di intentare un processo penale contro di lei, a causa delle sue due detenzioni amministrative in due anni consecutivi. Quando il difensore della famiglia di Wang ha sollevato dubbi sulle cinque diverse firme del presunto testimone Xu Dawei su cinque diversi documenti del caso, il giudice ha detto che la Stazione di polizia di Dongzhou ha fornito la propria autenticazione interna delle firme e delle testimonianze di Xu. Per legge, tuttavia, solo agenzie forensi indipendenti e terze sono autorizzate a esaminare e verificare le prove dell'accusa. Né Xu né gli altri due testimoni dell'accusa (gli agenti Zheng Wang e Jiang Liqiang che hanno fatto irruzione in casa di Wang e l'hanno interrogata dopo il suo arresto) sono comparsi al processo o all'udienza d'appello. L'avvocato della donna ha aggiunto che il procuratore Yang non ha mostrato nel processo di Wang le persone che sarebbero state vittime della sua pratica del Falun Gong o della diffusione di informazioni al riguardo. Inoltre, durante l'udienza d'appello, il procuratore Lan non è riuscito a spiegare come la donna abbia minato l’applicazione della legge praticando il Falun Gong. Pertanto il suo avvocato ha chiesto l'annullamento del verdetto di colpevolezza. Anche Wang ha testimoniato in propria difesa, affermando di non aver violato alcuna legge parlando del Falun Gong. Il giudice non ha risposto né al commento degli avvocati né a quello della donna, ma ha chiesto al cancelliere di prendere nota delle loro dichiarazioni. Articoli correlati: [Liaoning: La Corte suprema ascolta il caso di appello di un'anziana donna, ma non affronta le prove discutibili che hanno portato alla sua condanna a quattro anni di prigione](https://it.minghui.org/html/articles/2023/12/4/24860.html) [Liaoning: Praticante di 70 anni condannata a quattro anni sulla base di prove inconsistenti](https://it.minghui.org/html/articles/2023/10/11/24239.html) [Prosecutor Introduces Mysterious Witness in Trial Against Falun Gong Practitioner](https://en.minghui.org/html/articles/2023/9/17/211370.html) [Liaoning Woman Tried for Her Faith in Falun Gong](https://en.minghui.org/html/articles/2023/7/17/210342.html) Tutti i contenuti pubblicati su questo sito sono protetti dal copyright di Minghui.org. Per l’uso non commerciale si deve citare la fonte (Es.: “Come riportato da Minghui.org,…”) e indicare il link dell’articolo originale. Per uso commerciale contattare la nostra redazione per ottenere l’autorizzazione.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T12:10:54.219+02:00",
+    "updated": "2023-12-24T12:10:54.219+02:00"
+  },
+  {
+    "uuid": "c88e321f6ff844127eba45b0e91f695493456ce2",
+    "url": "https://www.miragenews.com/freshman-helps-with-groundbreaking-cancer-1213544",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mirage News",
+    "published": "2024-04-11T11:35:00Z",
+    "title": "Freshman Helps With Groundbreaking Cancer Research | Mirage News",
+    "text": "Baylee Holcomb has accomplished, at only 19 years old, what many scientists spend years dreaming about: Having research she participated in published in a major, high-impact academic journal. The [FIU Honors College](https://honors.fiu.edu) student, now a sophomore, spent her freshman year in the lab of FIU cancer researcher [Diana Azzam,](https://stempel.fiu.edu/research/labs/cancer-research/) assisting with a groundbreaking clinical trial that successfully guided treatment for hard-to-treat, relapsed pediatric cancers. The [results of that trial](https://news.fiu.edu/2024/new-cancer-treatment-approach-helped-pediatric-patient-reach-remission) were recently published in Nature Medicine. Now, Holcomb is now sharing how she got a jump start on her research career as an undergraduate, what skills she's taking away from this experience and what she hopes to do next. What do you study at FIU? When I first joined Dr. Azzam's lab, I was majoring in environmental engineering. Once I fell in love with Dr. Azzam's research, though, I changed my major. Now I am a chemistry major. Chemistry is directly applicable to the work we do in the lab, specifically to the drug sensitivity testing that we perform on patient tumor samples. For example, my knowledge of chemistry has helped me understand the way chemotherapy drugs work within the tumor samples and gain a deeper appreciation for the basic science principles underlying the techniques we perform. How did you start working in Dr. Azzam's lab? I started my undergraduate research journey by going to a Stempel College event for the FIU Honors College. When I realized that the presentations were about research in public health, this further piqued my interest, as I had been passionate about getting involved in research since I started at FIU. After listening to Dr. Azzam present on the clinical trial she was working on with Nicklaus Children's Hospital, alongside other projects occurring in her lab, I then got the opportunity to tour the lab and learn more firsthand about their research process. After the tour, I knew I wanted to be a part of the lab and help with such meaningful work and the clinical trial. \"Learning about Dr. Azzam's research reignited my childhood dream of curing cancer.\" My grandfather had multiple myeloma and fought his cancer for six years. He relapsed multiple times before eventually succumbing to the disease. I was young when he died, but I knew then that I wanted to help find the cure for cancer. Then, as I became older, I drifted away from that dream until I started working in Dr. Azzam's lab. Learning about the direct impact that Dr. Azzam's research has on the lives of cancer patients solidified my decision to pursue cancer research. Many scientists dream about publishing a paper in a prestigious journal. What does it feel like to be a part of such a major paper as an undergraduate? It's completely unreal. I feel so incredibly lucky that I was able to be a contributing author to this paper. I am speechless and astonished that I was able to be published in Nature Medicine, one of the most prestigious journals in the world. What is one thing you will never forget about your experience helping with this study? Meeting Logan [a young cancer patient] was one of my favorite parts of this experience because it allowed me to see the success of the clinical trial. I first met Logan when he was touring the lab with his mother in January. He was smiling and laughing, telling us about his recent trip to Disney and how much fun he had with his mom. Knowing that the work we are doing contributed to the fact that he can continue to make memories with his mother was so heartwarming. This was an incredibly rewarding experience. I was able to directly see the impact and importance of the work we are doing. It showed me that all of the long hours and hard work were completely worth it. I always knew that the work we are doing in the lab helps people, but it adds an extra special element to meet one of the people we have helped. What did you get out of contributing to this research and being on this paper that you hope to take with you to other opportunities? Contributing to this research has taught me a multitude of valuable skills and lessons that I will take with me. When I started at the Azzam Lab, I had no lab experience, so everything was new to me. I learned how to think critically and persevere when experiments don't go according to plan. I have also gained a lot of hands-on experience with different experimental techniques, which gave me a deeper understanding and appreciation of the research process. I have gained a deep sense of accomplishment from seeing that my work has the potential to help others. Overall, the experience and skills I have gained at the Azzam Lab have been invaluable and have motivated me to continue to pursue research. Groundbreaking treatment approach shows promise in hard-to-treat cancers [here](/freshman-helps-with-groundbreaking-cancer-1213544/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://news.fiu.edu/2024/new-cancer-treatment-approach-helped-pediatric-patient-reach-remission)",
+      "https://honors.fiu.edu)",
+      "https://stempel.fiu.edu/research/labs/cancer-research/)",
+      "https://www.honors.fiu.edu)",
+      "https://www.stempel.fiu.edu/research/labs/cancer-research/)",
+      "https://www.news.fiu.edu/2024/new-cancer-treatment-approach-helped-pediatric-patient-reach-remission)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "baylee holcomb",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "azzam",
+          "sentiment": "none"
+        },
+        {
+          "name": "holcomb",
+          "sentiment": "none"
+        },
+        {
+          "name": "diana azzam",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fiu",
+          "sentiment": "none"
+        },
+        {
+          "name": "fiu honors college",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:41:25.452+03:00",
+    "updated": "2024-04-12T01:41:25.452+03:00"
+  }
+]

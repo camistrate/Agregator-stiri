@@ -1,0 +1,250 @@
+[
+  {
+    "uuid": "6e609182a1c7694477a240e8ff4fb726f4cf468c",
+    "url": "https://www.wbfo.org/2024-05-06/hamas-has-accepted-a-cease-fire-deal-proposed-by-egypt-and-qatar",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vincent Ni",
+    "published": "2024-05-06T13:42:00Z",
+    "title": "Hamas has accepted a cease-fire deal proposed by Egypt and Qatar | WBFO",
+    "text": "Hamas has accepted a cease-fire deal proposed by Egypt and Qatar TEL AVIV, Israel — Hamas has accepted a proposal from Egypt and Qatar for a cease-fire in its seven-month war with Israel, the Palestinian group said in a statement Monday. The announcement came hours after [Israel ordered](https://www.npr.org/2024/05/06/1249298738/israel-palestinians-evacuate-rafah) tens of thousands of displaced Palestinians to evacuate parts of southern Gaza, signaling a ground assault might be imminent. It is not immediately clear what the proposal entails, nor what Israel's position is. An Israeli official [told local TV](https://www.i24news.tv/en/news/israel-at-war/artc-hamas-announces-it-has-agreed-to-proposed-ceasefire-and-hostage-deal-with-israel) that the Israeli government was \"checking which formula Hamas has agreed to.\" In a statement late Monday, Hamas said its top leader, Ismail Haniyeh, had informed Qatar's prime minister and Egypt's intelligence minister \"of the Hamas movement's approval of their proposal regarding the cease-fire agreement.\" The announcement on Monday — on the eve of the Gaza war's seven-month mark — raised hopes for some that the fighting may come to a pause. This is a developing story, which will be updated. Copyright 2024 NPR",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.npr.org/2024/05/06/1249298738/israel-palestinians-evacuate-rafah)",
+      "https://www.i24news.tv/en/news/israel-at-war/artc-hamas-announces-it-has-agreed-to-proposed-ceasefire-and-hostage-deal-with-israel)",
+      "https://npr.org/2024/05/06/1249298738/israel-palestinians-evacuate-rafah)",
+      "https://i24news.tv/en/news/israel-at-war/artc-hamas-announces-it-has-agreed-to-proposed-ceasefire-and-hostage-deal-with-israel)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ismail haniyeh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wbfo hamas",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "qatar",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T21:13:30.988+03:00",
+    "updated": "2024-05-06T21:13:30.988+03:00"
+  },
+  {
+    "uuid": "f0101de5911310dab9e078afd2b279011ae3993b",
+    "url": "https://www.cbsnews.com/sacramento/news/sacramento-county-man-suspected-child-sex-crimes-in-california-nevada",
+    "ord_in_thread": 0,
+    "author": "@downsbrandon2",
+    "published": "2025-04-09T21:11:00Z",
+    "title": "Google cyber tip helps arrest Sacramento-area man accused of several child sex crimes - CBS Sacramento",
+    "text": "SACRAMENTO – A Sacramento County man is accused of multiple child sex crimes after an investigation into a tip that a Google account was uploading videos and photos of child pornography, authorities said on Wednesday.\nThe Sacramento County Sheriff's Office said Google made a cyber tip to the National Center for Missing and Exploited Children, saying that some of the child pornography content that was uploaded was newly created or produced.\nThe account holder was identified as 39-year-old Adam Fitzgerald Williams, deputies said.\nDeputies said additional evidence found Williams was recording himself performing various sexual acts with multiple female children.\n\"Detectives learned of at least 10 of Williams' victims, but fear there are more,\" the sheriff's office said in a news release.\nThe ages of the victims ranged from infant to pubescent over numerous years throughout California and Nevada, deputies said.\nWhen Williams was arrested in late March at his home, deputies said he was in possession of thousands of child pornography images and thousands of images of computer-generated child porn.\nAlthough the sheriff's office didn't specify locations where they believe there are more victims, they said the Alameda and Contra Costa sheriff's offices assisted in the investigation. They also said the Walnut Creek Police Department, Homeland Security Investigations, FBI, and the ICAC units of the Sacramento Valley Hi-Tech Crimes Task Force and the Nevada Internet Crimes Against Children Task Force participated in the investigation.\nWilliams was booked into jail on multiple charges and is being held on a $1 million bail.\nAnyone with information is urged to contact the Sacramento County Sheriff's Office at (916) 874-5115 or Sacramento Valley Crime Stoppers at (916) 443-4357.\nIn: Brandon Downs Brandon Downs is a digital content producer at CBS Sacramento.\nTwitter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/downsbrandon2",
+      "https://www.twitter.com/downsbrandon2"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Adam Fitzgerald Williams",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Sacramento County Sheriff's Office",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Google",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "GOOG",
+              "exchange": "NASDAQ"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:21:48.248+03:00",
+    "updated": "2025-04-10T01:05:10.039+03:00"
+  },
+  {
+    "uuid": "effc299da11b5a376e67bd62d19a705fb0753e4b",
+    "url": "https://www.livemint.com/news/world/white-house-walks-back-biden-comment-on-venezuela-election-11723756615605.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "list.metadata.agency",
+    "published": "2024-08-16T00:00:00Z",
+    "title": "White House Walks Back Biden Comment on Venezuela Election",
+    "text": "The White House on Thursday walked back President Joe Biden’s apparent suggestion that Venezuela hold a new election after the comment prompted questions about the US position on a July vote that it has consistently said Nicolas Maduro’s regime rigged. Bloomberg Published 16 Aug 2024, 02:46 AM IST White House Walks Back Biden Comment on Venezuela Election The White House on Thursday walked back President Joe Biden’s apparent suggestion that Venezuela hold a new election after the comment prompted questions about the US position on a July vote that it has consistently said Nicolas Maduro’s regime rigged.\nBiden was asked as he exited the White House to board his Marine One helicopter for an afternoon event in Maryland whether he supported new elections in Venezuela, and he responded “I do.”\nBut the scene was chaotic, with reporters shouting other questions and cast members from the long-running TV drama, The West Wing –- including fictional President Jed Bartlet, otherwise known as the actor Martin Sheen –- on hand.\nA spokesperson for the White House’s National Security Council said Biden intended to speak to the absurdity of Venezuelan President Maduro failing to come clean after claiming victory in the July 28 vote, with data suggesting that opposition candidate Edmundo González prevailed.\n“It is abundantly clear that Edmundo González Urrutia won the most votes,” White House National Security Council spokesman Sean Savett added in a message posted to social media. “We call for the will of the people to be respected and for discussions to begin on a transition back to democratic norms.”\nStill, Biden’s original comments echoed some leaders in the region, including Brazilian President Luiz Inácio Lula da Silva and Colombian President Gustavo Petro, who have suggested the possibility Venezuela could hold fresh elections. That stance was seen as more forgiving than other regional powers like Argentina that have recognized González as president-elect, as well as three weeks of US calls for countries to acknowledge his victory.\nLula on Thursday said that Maduro owes the world an explanation about what happened in Venezuela’s election, and that the ongoing dispute over the outcome has caused relations between Brasilia and Caracas to deteriorate.\nEarlier: Lula Warns Maduro Brazil’s Ties With Venezuela Are Worsening\nMaduro, the incumbent socialist, says that he defeated his opposition rival by about 1 million votes in the disputed election, the result announced by Venezuela’s National Electoral Council. Maduro earned 52% compared to 43% for González, according to the council’s tabulation of 97% of ballots cast.\nBut Venezuelan opposition leader Maria Corina Machado, who was banned from running, has accused Maduro and his allies of fraud. She says her party has compiled results from witnesses and a network of citizen observers that show González, her stand-in candidate, received nearly 70% support.\nMaduro has called for Machado and González to be jailed for fomenting protest. He has already arrested 2,400 people, including protesters, and promised to send them to maximum-security prisons for 30 years, the same sentence doled out to murderers.\nMore than a dozen media workers have been deported, according to the country’s union for journalists.\nThis article was generated from an automated news agency feed without modifications to text.\nCatch all the Business News , Breaking News Events and Latest News Updates on Live Mint. Download The Mint News App to get Daily Market Updates.\nMore Less First Published: 16 Aug 2024, 02:46 AM IST Home News World White House Walks Back Biden Comment on Venezuela Election Get Instant Loan up to ₹10 Lakh! Enter Mobile Number Employment Type Salaried Self-Employed Business Apply Now Most Active Stocks Tata Steel 146.20 03:59 PM | 14 AUG 2024 -2.7 (-1.81%) Tata Power 405.55 03:59 PM | 14 AUG 2024 -2.75 (-0.67%) Vedanta 420.05 03:51 PM | 14 AUG 2024 -2.65 (-0.63%) Indian Oil Corporation 163.75 03:48 PM | 14 AUG 2024 -0.45 (-0.27%) More Active Stocks Market Snapshot Top Gainers Top Losers 52 Week High Chennai Petroleum Corporation 965.65 03:47 PM | 14 AUG 2024 70.45 (7.87%) One 97 Communications 539.60 03:59 PM | 14 AUG 2024 33.75 (6.67%) PB Fintech 1,571.00 03:29 PM | 14 AUG 2024 90 (6.08%) Uno Minda 1,098.95 03:29 PM | 14 AUG 2024 51.35 (4.9%) More from Top Gainers Trending In Market Stocks to Buy Stock market today Top Stock Recommendations Bansal Wire Industries IPO Recommended For You More Recommendations Gold Prices 24K 22K Bangalore\n72,209.00 145.00 Chennai\n72,492.00 76.00 Delhi\n72,988.00 712.00 Kolkata\n71,996.00 -139.00 Fuel Price Petrol Diesel Bangalore\n102.86 /L 0.00 Chennai\n100.85 /L -0.33 Kolkata\n104.95 /L 0.00 New Delhi\n94.72 /L 0.00 Popular in News News Ousted Sheikh Hasina releases first statement since fleeing Bangladesh 2 min read 13 Aug 2024 News Long lines, delays at Delhi airport; Radhika Gupta says ‘was fortunate…’ 3 min read 14 Aug 2024 More From Popular in News OPEN IN APP Story Url has been added to your clipboard Home Markets Premium Instant Loan Mint Shorts",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "edmundo gonzález",
+          "sentiment": "none"
+        },
+        {
+          "name": "edmundo gonzález urrutia",
+          "sentiment": "none"
+        },
+        {
+          "name": "jed bartlet",
+          "sentiment": "none"
+        },
+        {
+          "name": "martin sheen",
+          "sentiment": "none"
+        },
+        {
+          "name": "sean savett",
+          "sentiment": "none"
+        },
+        {
+          "name": "maduro",
+          "sentiment": "none"
+        },
+        {
+          "name": "nicolas maduro",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "white house",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national security council",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house national security council",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "venezuela",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "maryland",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:19:00.112+03:00",
+    "updated": "2024-08-16T02:13:30.697+03:00"
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "uuid": "b0392b80e00a3dfb1d70c72b083c4c7bd94d75ff",
+    "url": "https://m.economictimes.com/news/politics-and-nation/karnatakas-temple-tax-bill-falls-through-in-state-assembly-amid-bjp-uproar/articleshow/107956174.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ET Online",
+    "published": "2024-02-23T23:18:00Z",
+    "title": "Karnataka's temple tax bill falls through in state assembly amid BJP uproar - The Economic Times",
+    "text": "Two days after the Karnataka assembly passed the Hindu Religious Institutions & Charitable Endowment (Amendment) Bill, 2024, which rejigged existing matrix to collect more taxes from earnings of state-owned temples, the contentious bill fell through in legislative council Friday, with BJP and JD(S) joining forces to defeat it in a potential display of solidarity ahead of Lok Sabha elections.Political Maneuvering in Karnataka Legislative CouncilThe Congress had ensured the smooth passage of the bill in the assembly as it has a majority in the Lower House. However, the BJP-JD(S) combine, taking advantage of their majority in the Upper House, threw a spanner in the works of the government and thwarted the proposal. The bill was rejected by a voice vote conducted by deputy chairperson M K Parnesh.In the 75-member legislative council, BJP has 35 members, including the chairperson, while JD(S) has eight. Congress has 29 members, besides an independent. Two seats are currently vacant.Though existing rules allow the government to reintroduce a bill in the assembly, Congress sources suggested the legislation could be pushed to the backburner until after LS polls and taken up again during the monsoon session in June.Contentious Provisions of the BillWhile the government reasoned that the bill, once enacted into law, would enable it to take a portion of revenues from temples with higher earnings and reallocate the funds to those with lower earnings, the BJP-JD(S) combine termed the move anti-Hindu and a ploy to seize a significant portion of temple revenues.Under the existing law, temples are divided into three categories based on revenues they generate. Temples earning more than Rs 25 lakh are classified as Grade A, those earning between Rs 5 lakh and Rs 25 lakh fall in Grade B while the ones with earnings below Rs 5 lakh are designated as Grade C. The state has approximately 34,000 Grade C temples, besides 250 Grade B, and 67 Grade A temples.Currently, the government is allowed to allocate 5% of Grade B revenues and 10% of Grade A revenues to Grade C temples for their upkeep. The new legislation mandates muzrai temples with annual revenues of over Rs 1 crore to contribute 10% of their income to the common pool (Dharmik Parishad) and 5% to be paid by shrines with revenues of Rs 10 lakh to Rs 1 crore, & redistribute it among Grade C temples.Political ReactionsMinister for Transport, Ramalinga Reddy, alleged that BJP is 'anti-Hindu' adding that the party which was in power in 2011 had made the amendments to the Bill.Minister for Health, Dinesh Gundu Rao, said that the BJP should realize the Bill is for the benefit of the temples.Karnataka Chief Minister Siddaramaiah said that the allegations regarding the amendments to the Bill appear to be misrepresented , aiming only at misleading the public and polarizing people along communal lines for political leverage. Karnataka government passed 'Karnataka Hindu Religious Institutions and Charitable Endowments Bill 2024' that mandates the state to collect 10 per cent tax from temples that have revenues exceeding Rs 1 crore and 5 per cent from those with revenues ranging between Rs 10 lakh and Rs 1 crore.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "m k parnesh.in",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bjp",
+          "sentiment": "negative"
+        },
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "upper house",
+          "sentiment": "none"
+        },
+        {
+          "name": "karnataka legislative councilthe congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "lower house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "karnataka",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-24T03:57:21.854+02:00",
+    "updated": "2024-02-24T03:57:21.854+02:00"
+  },
+  {
+    "uuid": "d26b0d8c3acaf36579af19a09250e9cbe7d0775f",
+    "url": "https://kulturegeek.fr/news-326893/gpt-4-5-disponible-chatgpt-sameliore-nouvelle",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jean-Baptiste A.",
+    "published": "2025-02-27T22:34:00Z",
+    "title": "GPT-4.5 est disponible : ChatGPT s'améliore une nouvelle fois",
+    "text": "OpenAI a annoncé la sortie de son nouveau modèle linguistique GPT-4.5, qui se veut le plus intelligent à jour ce jour. GPT-4.5 repose sur GPT-4o, qu’il a enrichi en augmentant l’échelle de son pré-entraînement. Bien qu’il ne soit pas un modèle de pointe, le nouveau modèle se distingue par une connaissance plus étendue du monde, des capacités d’écriture améliorées et une personnalité affinée par rapport à son prédécesseur.\nDes performances en légère amélioration pour GPT-4.5 Les premiers résultats des benchmarks montrent que GPT-4.5 constitue une mise à jour modeste par rapport à GPT-4o . Sur le benchmark SWE-bench Verified, le modèle a atteint 38 %, soit une amélioration de 2 à 7 % par rapport à GPT-4o, mais reste à 30 % derrière les performances basées sur o3 , le modèle de recherche approfondie d’OpenAI. À titre de comparaison, le modèle Claude 3.7 Sonnet d’Anthropic a atteint un score de 62,3 % sur ce même benchmark.\nSur le benchmark SimpleQA Accuracy, GPT-4.5 a obtenu un score de 62,5 %, bien au-dessus des 38,2 % de GPT-4o. Par ailleurs, sur le benchmark Hallucination Rate (qui se focalise sur les hallucinations de l’intelligence artificielle), GPT-4.5 a obtenu le meilleur score parmi les modèles linguistiques d’OpenAI, indiquant ainsi une réduction des erreurs des contenus hallucinés.\nLe modèle GPT-4.5 a également été évalué sur une nouvelle métrique appelée SWE-Lancer, développée par OpenAI. Ce benchmark évalue la performance des modèles sur des tâches réelles d’ingénierie logicielle. Le modèle a résolu 20 % des tâches pour ingénieur et 44 % des tâches pour manager, marquant ainsi une légère amélioration par rapport au modèle précédent, o1 .\nEn matière de sécurité, GPT-4.5 a été classé comme représentant un risque moyen par le Safety Advisory Group d’OpenAI. Il a également obtenu des résultats faibles pour la cybersécurité et l’autonomie des modèles.\nDisponible dès maintenant GPT-4.5 est désormais disponible pour les utilisateurs de ChatGPT Pro (l’abonnement coûte 200$/mois). Il prend en charge des fonctionnalités telles que la recherche, l’envoi de fichiers et d’images, ainsi que des outils de canvas. Des fonctionnalités multimodales, comme le mode vocal, la vidéo et le partage d’écran, devraient être intégrées dans les prochaines versions. GPT-4.5 sera accessible la semaine prochaine pour les utilisateurs de ChatGPT Plus et Teams.\nLes développeurs payants peuvent également utiliser GPT-4.5 via l’API Chat Completions, l’API Assistants et l’API Batch, avec des fonctions telles que l’appel de fonctions, les sorties structurées et le streaming.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://openai.com/index/introducing-gpt-4-5/",
+      "https://openai.com/index/introducing-gpt-4-5",
+      "https://www.openai.com/index/introducing-gpt-4-5/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:49:49.551+02:00",
+    "updated": "2025-02-28T00:49:49.551+02:00"
+  },
+  {
+    "uuid": "5d55b5bc566f65c0a026adf0d7b09df38194cc90",
+    "url": "https://es-us.noticias.yahoo.com/deportes/estados-unidos-mujer-revel%C3%B3-evit%C3%B3-010751251.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "yahoo",
+    "published": "2024-06-24T01:07:00Z",
+    "title": "Estados Unidos: una mujer reveló cómo evitó la muerte tras haber permanecido sepultada por media hora",
+    "text": "Leer todo el artículo LA NACION Estados Unidos: una mujer reveló cómo evitó la muerte tras haber permanecido sepultada por media hora El País (Uruguay) 24 de junio de 2024, 4:07 a. m. · 3 min de lectura Enlace copiado Ashley Piccirilli en el hospital Baystate Medical Center tras ser sepultada con vida durante al menos treinta minutos\nLa víctima de este episodio aterrador y casi fatal se llama Ashley Piccirilli , quien en 2021 trabajaba en una construcción en Northampton , ciudad del estado de Massachusetts, Estados Unidos, y fue sepultada viva mientras se encontraba en una zanja.\nUn compañero de trabajo le avisó que una de las paredes de tierra de la zanja se estaba deshaciendo, y a Piccirilli no le dio tiempo de reaccionar, por lo que quedó totalmente enterrada bajo una gran cantidad de tierra .\nSegún medios estadounidenses, los compañeros de trabajo de la mujer tuvieron que usar una excavadora para remover la tierra que la cubría. Ashley quedó completamente sepultada por aproximadamente 30 minutos.\nEl impacto le causó la fractura de todas las costillas del lado derecho, un pulmón colapsado y múltiples hemorragias internas. Pese a la desesperación, Ashley se concentró en mantener la calma y administrar su respiración para conservar el oxígeno disponible.\n“Era un día hermoso, acabábamos de almorzar y yo estaba en la zanja, sin apoyo, sin apuntalamiento. Al principio, me sentí como cuando un amigo se acerca y te da ese ‘abrazo de oso’ y es un poco incómodo. Entonces pensé ‘saben dónde estoy y vienen a buscarme’, así que me quedé tranquila durante todo el proceso... Respiré muy, muy poco. No podía respirar profundamente porque no había espacio para que mis pulmones se expandieran”, relató Ashley.\nEl rescate de Ashley Piccirilli Una vez desenterrada, Ashley fue llevada de urgencia al Baystate Medical Center, donde un equipo médico la esperaba para iniciar el tratamiento necesario. Aunque no recuerda con claridad su llegada al hospital, tenía la consciencia de estar perdiendo una gran cantidad de sangre.\n“Lucharon mucho para sacarme de allí. No lo sabía, me rompí todas las costillas del lado derecho y creo que del izquierdo. Mi pulmón colapsó, tuve una hemorragia interna. No recuerdo haber llegado allí, pero recuerdo que me llevaron directamente al quirófano. Vi algunas cosas confusas y también recuerdo a la gente corriendo y a un médico que me decía que iba a estar bien”, compartió Ashley.\nCómo vivió para contarlo a pesar de sufrir un paro cardíaco El pronóstico no era alentador. El equipo médico del hospital tuvo que solicitar asistencia adicional debido a la gravedad de sus heridas y la cantidad de sangre que estaba perdiendo.\n“Estaba desangrándose cuando llegó. Estaba muy claro que necesitaba cirugía de inmediato. Estaba sangrando tanto que cuando encontramos el lugar (por donde) sangraba, pudimos escucharlo. Se llama ‘sangrado audible’. Por eso pedimos ayuda adicional”, explicó Kristina Kramer, la cirujana de trauma del Baystate Medical Center.\nDurante su primera cirugía, Ashley sufrió un paro cardíaco, pero fue reanimada. A pesar de la gravedad de la situación y el intenso susto, logró recuperarse después de 30 días de tratamiento en el hospital.\nHoy, habiendo superado esta traumática experiencia, Ashley siguió adelante con su vida y cumplió uno de sus sueños: se formó como piloto y actualmente sirve en la Base de la Guardia Nacional Aérea de Barnes .\nEl País (Uruguay)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.lanacion.com.ar/",
+      "https://s.yimg.com/os/creatr-uploaded-images/2020-11/a2882be0-2dd1-11eb-ae8d-5dbf320a694a",
+      "https://s.yimg.com/ny/api/res/1.2/2KNYNTRGBWa_xiAtee37PA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NTQ-/https://media.zenfs.com/es/lanacion.com.ar/fc3bf99215510f51a33bfa05244e4666",
+      "https://www.facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Festados-unidos-mujer-revel%25C3%25B3-evit%25C3%25B3-010751251.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://twitter.com/intent/tweet?text=Estados%20Unidos%3A%20una%20mujer%20revel%C3%B3%20c%C3%B3mo%20evit%C3%B3%20la%20muerte%20tras%20haber%20permanecido%20sepultada%20por%20media%20hora&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Festados-unidos-mujer-revel%25C3%25B3-evit%25C3%25B3-010751251.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://s.yimg.com/ny/api/res/1.2/eJ48ogzilwVwktCGPguFRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM2ODtoPTYw/https://s.yimg.com/os/creatr-uploaded-images/2020-11/a2882be0-2dd1-11eb-ae8d-5dbf320a694a",
+      "https://s.yimg.com/ny/api/res/1.2/s0LDhUJZst3UlbMJzkRooA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDU2/https://media.zenfs.com/es/lanacion.com.ar/fc3bf99215510f51a33bfa05244e4666",
+      "https://s.yimg.com/ny/api/res/1.2/yCInt4Gwh.oRDEZjywtJDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://media.zenfs.com/es/lanacion.com.ar/6aaa3de94be060e8264a7646674a660b",
+      "https://www.twitter.com/intent/tweet?text=Estados%20Unidos%3A%20una%20mujer%20revel%C3%B3%20c%C3%B3mo%20evit%C3%B3%20la%20muerte%20tras%20haber%20permanecido%20sepultada%20por%20media%20hora&url=https%3A%2F%2Fes-us.noticias.yahoo.com%2Festados-unidos-mujer-revel%25C3%25B3-evit%25C3%25B3-010751251.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dtw%26tsrc%3Dtwtr&via=Yahoo",
+      "https://www.facebook.com/dialog/feed",
+      "https://www.s.yimg.com/ny/api/res/1.2/2KNYNTRGBWa_xiAtee37PA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyNDI7aD04NTQ-/https://www.media.zenfs.com/es/lanacion.com.ar/fc3bf99215510f51a33bfa05244e4666",
+      "https://www.s.yimg.com/ny/api/res/1.2/s0LDhUJZst3UlbMJzkRooA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTE1MzY7aD0xMDU2/https://www.media.zenfs.com/es/lanacion.com.ar/fc3bf99215510f51a33bfa05244e4666",
+      "https://www.s.yimg.com/ny/api/res/1.2/eJ48ogzilwVwktCGPguFRQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTM2ODtoPTYw/https://www.s.yimg.com/os/creatr-uploaded-images/2020-11/a2882be0-2dd1-11eb-ae8d-5dbf320a694a",
+      "https://www.s.yimg.com/ny/api/res/1.2/yCInt4Gwh.oRDEZjywtJDw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjU-/https://www.media.zenfs.com/es/lanacion.com.ar/6aaa3de94be060e8264a7646674a660b",
+      "https://www.s.yimg.com/os/creatr-uploaded-images/2020-11/a2882be0-2dd1-11eb-ae8d-5dbf320a694a",
+      "https://facebook.com/dialog/feed?app_id=458584288257241&link=https%3A%2F%2Fes-us.noticias.yahoo.com%2Festados-unidos-mujer-revel%25C3%25B3-evit%25C3%25B3-010751251.html%3Fsoc_src%3Dsocial-sh%26soc_trk%3Dfb%26tsrc%3Dfb",
+      "https://www.lanacion.com.ar",
+      "https://twitter.com/intent/tweet",
+      "https://lanacion.com.ar/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-24T04:17:27.438+03:00",
+    "updated": "2024-06-24T04:17:27.438+03:00"
+  },
+  {
+    "uuid": "bc20497f15475dbdf8d95bc518a352e89eaeeb2f",
+    "url": "https://arabic.cnn.com/miscellaneous/video/2025/07/10/v177357-los-angeles-workers-tunnel-rescue-ldn-digvidhtml",
+    "ord_in_thread": 0,
+    "author": "@CNNARABIC",
+    "published": "2025-07-10T11:33:00Z",
+    "title": "باستخدام رافعة.. لحظة إنقاذ 31 عاملاً بعد انهيار نفق بأمريكا",
+    "text": "باستخدام رافعة.. لحظة إنقاذ 31 عاملاً بعد انهيار نفق بأمريكامتفرقاتنشر الخميس، 10 يوليو / تموز 2025تم رفع 31 عاملًا من نفق صناعي بعد انهيار جزء منه، وتم نشر أكثر من 100 مستجيب من دائرة إطفاء لوس أنجلوس، بحسب عمدة المدينة كارين باس.لم يتم الإبلاغ عن أي إصابات ولا يُعتقد أن هناك مفقودين.قراءة المزيد",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Politics"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Disaster and Accident->industrial accident and incident",
+      "Human Interest->human mishap",
+      "Politics->safety of citizens"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_ar",
+        "top_news_cz",
+        "top_news_nz",
+        "top_news_au",
+        "top_news_ae",
+        "top_news_us",
+        "top_news_at",
+        "top_news_tw",
+        "top_news_pt",
+        "top_news_pl",
+        "top_news_gb",
+        "top_news_th",
+        "top_news_kr",
+        "top_news_sa",
+        "top_news_co",
+        "top_news_vn",
+        "top_news_hu",
+        "top_news_sg",
+        "top_news_ph",
+        "top_news_rs",
+        "top_news_bg",
+        "top_news_br",
+        "top_news_hk",
+        "top_news_nl",
+        "top_news_qa",
+        "top_news_hr",
+        "top_news_ie",
+        "top_news_ro",
+        "top_news_pk",
+        "top_news_se",
+        "top_news_id",
+        "top_news_dk",
+        "top_news_de",
+        "top_news_eg",
+        "top_news_pe",
+        "top_news_sk",
+        "top_news_ch",
+        "top_news_za",
+        "top_news_ma",
+        "top_news_my",
+        "top_news_il",
+        "top_news_kw",
+        "top_news_in",
+        "top_news_fr",
+        "top_news_ve",
+        "top_news_fi",
+        "top_news_be",
+        "top_news_mx",
+        "top_news_no",
+        "top_news_ca",
+        "top_news_cl",
+        "top_news_iq",
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": "left",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T16:41:07.713+03:00",
+    "updated": "2025-07-11T14:04:53.000+00:00"
+  },
+  {
+    "uuid": "e0bee1f9b68d3bfe9c776c813b9689acdd52569f",
+    "url": "https://www.devdiscourse.com/article/science-environment/3039341-monsoon-fury-heavy-rains-drench-southern-west-bengal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-08-02T03:23:00Z",
+    "title": "Monsoon Fury: Heavy Rains Drench Southern West Bengal | Science-Environment",
+    "text": "Monsoon Fury: Heavy Rains Drench Southern West Bengal Heavy rains battered parts of southern West Bengal, with regions like Bardhaman and Panagarh receiving nearly 200 mm of rainfall in 24 hours. The Met office forecasts more rain until Saturday. While Kolkata saw moderate rain, the sub-Himalayan districts also received significant rainfall. [Devdiscourse News Desk](/devdiscourse-stories)| Kolkata | Updated: 02-08-2024 11:23 IST | Created: 02-08-2024 11:23 IST - Country: - India Heavy downpour lashed parts of southern West Bengal as an active monsoon is likely to bring more rain in some districts of the region till Saturday, the Met office said. Bardhaman, Panagarh, and Sriniketan recorded nearly 200 mm of rainfall in 24 hours till 8.30 am on Friday, according to the Met office. Purulia, Paschim Bardhaman, and Birbhum are also likely to receive heavy rain till Saturday morning. Kolkata received 46 mm of rainfall during the same period, with light to moderate rain expected. Bardhaman and Sriniketan topped the rainfall chart at 192 mm each, closely followed by Panagarh at 186 mm. Other areas like Asansol, Canning, Kalyani, Suri, and Kalaikunda also witnessed heavy downpours. The Met office further forecasts heavy rain in the sub-Himalayan districts of northern West Bengal, with Kalimpong recording 62 mm and Darjeeling 33 mm of rainfall in 24 hours till 8.30 am on Friday. (With inputs from agencies.) - READ MORE ON: - [monsoon](/news?tag=monsoon) - [West Bengal](/news?tag=West+Bengal) - [heavy rains](/news?tag=heavy+rains) - [Bardhaman](/news?tag=Bardhaman) - [Panagarh](/news?tag=Panagarh) - [Kolkata](/news?tag=Kolkata) - [Met office](/news?tag=Met+office) - [sub-Himalayan](/news?tag=sub-Himalayan) - [forecast](/news?tag=forecast) - [rainfall](/news?tag=rainfall) ALSO READ [Human Skeleton Discovered During Kolkata Building Renovation](/article/law-order/3021959-human-skeleton-discovered-during-kolkata-building-renovation) [Rs 2,500-Crore Cryptocurrency Scam Mastermind Arrested in Kolkata](/article/headlines/3021596-rs-2500-crore-cryptocurrency-scam-mastermind-arrested-in-kolkata) [National Landslide Forecasting Centre Launched in Kolkata](/article/science-environment/3023541-national-landslide-forecasting-centre-launched-in-kolkata) [Protests Ignite: Kolkata Students Rally in Solidarity with Bangladesh](/article/politics/3022973-protests-ignite-kolkata-students-rally-in-solidarity-with-bangladesh) [National Landslide Forecasting Centre Launched in Kolkata](/article/science-environment/3023135-national-landslide-forecasting-centre-launched-in-kolkata)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sriniketan",
+          "sentiment": "none"
+        },
+        {
+          "name": "panagarh",
+          "sentiment": "none"
+        },
+        {
+          "name": "paschim bardhaman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "heavy rains drench southern west bengal heavy",
+          "sentiment": "negative"
+        },
+        {
+          "name": "devdiscourse news desk",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west bengal",
+          "sentiment": "none"
+        },
+        {
+          "name": "kolkata",
+          "sentiment": "none"
+        },
+        {
+          "name": "purulia",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T09:05:36.433+03:00",
+    "updated": "2024-08-02T09:05:36.433+03:00"
+  },
+  {
+    "uuid": "bf4d54af42112d1e0f2a0cedfe12cbf62d5b5def",
+    "url": "https://thewest.com.au/news/worker-suddenly-dies-at-nations-most-remote-brewery-in-broome-c-19012089",
+    "ord_in_thread": 0,
+    "author": "Emma Kirk NewsWire",
+    "published": "2025-06-12T07:14:00Z",
+    "title": "Worker suddenly dies at nation's most remote brewery in Broome",
+    "text": "Worker suddenly dies at nation’s most remote brewery in Broome\nA staff member at the nation’s most remote brewery has died at work.\nMatso’s Brewery confirmed one of their team members passed away “suddenly and tragically” on Tuesday, in a statement shared to social media this week.\n“We suddenly and tragically lost one of our Matso’s team last night,” the statement read.\n“To allow us all to process this and look after each other, Matso’s will be closed (on) Wednesday.”\nEmergency services were called to the brewery about 9.25pm and found a 52-year old man unresponsive.\nHe was rushed to Broome District Hospital, where he was declared dead.\n“The death is being treated as non-suspicious, and a report will be prepared for the Coroner,” a police spokesman said.\nThe brewery is located in the Kimberley town of Broome, about 2220 km north of Perth and is a popular destination for tourists visiting the region.\nThe brewery became famous for creating the nation’s first alcoholic ginger beer and is well known for its refreshing drinks.\nIt first opened in 1997, with the owners opening a second brewery on the Sunshine Coast two years ago.\nOriginally published as Worker suddenly dies at nation’s most remote brewery in Broome\nGet the latest news from thewest.com.au in your inbox.\nSign up for our emails",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Social Issue->death and dying",
+      "Social Issue->social condition",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.news.com.au/national/western-australia/worker-suddenly-dies-at-nations-most-remote-brewery-in-broome/news-story/9e8c532e75e6f92cc62e4a350a458065",
+      "https://news.com.au/national/western-australia/worker-suddenly-dies-at-nations-most-remote-brewery-in-broome/news-story/9e8c532e75e6f92cc62e4a350a458065"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_au",
+        "top_news"
+      ],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:22:26.959+03:00",
+    "updated": "2025-06-13T08:07:18.000+00:00"
+  },
+  {
+    "uuid": "d7238226eaef3d6915c47199e0725b35443982a4",
+    "url": "https://thedailyguardian.com/special-trains-announced-from-amritsar-bathinda-and-chandigarh-to-ayodhya-for-ram-mandir-consecration-ceremony/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Priyanka Koul",
+    "published": "2023-12-28T06:06:00Z",
+    "title": "Special Trains Announced from Amritsar, Bathinda, and Chandigarh to Ayodhya for Ram Mandir Consecration Ceremony - The Daily Guardian",
+    "text": "In anticipation of the significant demand for the consecration ceremony of the newly built Ram Mandir in Ayodhya, the Ambala Division of Railways has revealed plans to operate special trains from Amritsar, Bathinda, and Chandigarh to Ayodhya. The consecration of Ram Lalla is scheduled to take place on January 22, prompting preparations to accommodate devotees who prefer rail travel. Ambala Divisional Railway Manager (DRM) Mandeep Bhatia stated, “Most people prefer to travel by railway, for which the Railways have also made their preparations. Special trains for Ayodhya can run from Amritsar, Bathinda, and Chandigarh, the schedule of which will be released soon. Extra counters can also be set up for tickets.” Regarding ticketing, DRM Bhatia mentioned, “Although 80 per cent of people are inclined towards e-ticketing in which people get the facility sitting at home, extra counters can also be set up if needed.” The consecration ceremony, scheduled to start on January 16 and span seven days, will witness the opening of the Ram Mandir to the public and the consecration of Lord Sri Ram’s idol. Ayodhya is set to be connected to various regions and cities, including Delhi, Mumbai, Chennai, Bangalore, Pune, Kolkata, Nagpur, Lucknow, and Jammu, to facilitate travel for devotees. In addition to the railway preparations, the Indian Railway Catering and Tourism Corporation (IRCTC) is gearing up to provide round-the-clock catering services to meet the needs of the large number of pilgrims visiting Ayodhya during this period. For enhanced security during the January 22 event, officials have planned the installation of boom barriers, bollards, and CCTV cameras at all entrances of the Ram Janmbhoomi Mandir in Ayodhya. Boom barriers, or tyre killers, are devices designed to prevent unauthorized vehicles from entering a property. The security measures aim to ensure a safe and organized environment for the consecration ceremony.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ram mandi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bathinda",
+          "sentiment": "none"
+        },
+        {
+          "name": "ram lalla",
+          "sentiment": "none"
+        },
+        {
+          "name": "bhatia",
+          "sentiment": "none"
+        },
+        {
+          "name": "mandeep bhatia",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ambala division of railways",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bathinda",
+          "sentiment": "none"
+        },
+        {
+          "name": "chandigarh",
+          "sentiment": "none"
+        },
+        {
+          "name": "amritsar",
+          "sentiment": "none"
+        },
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:28:41.547+02:00",
+    "updated": "2023-12-29T00:28:41.547+02:00"
+  }
+]

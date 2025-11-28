@@ -1,0 +1,527 @@
+[
+  {
+    "uuid": "2658c73d5c07cc7e42257a658864cf36fbbe39ac",
+    "url": "https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jessica Lyons",
+    "published": "2024-11-15T06:32:00Z",
+    "title": "Microsoft Power Pages misconfigs exposing sensitive data • The Register",
+    "text": "Private businesses and public-sector organizations are unwittingly exposing millions of people's sensitive information to the public internet because they misconfigure Microsoft’s Power Pages website creation program.\nSo says Aaron Costello, chief of SaaS security research at security-for- SaaS vendor AppOmni, who uncovered the issue in September.\nIn a post published Thursday, Costello details how he uncovered \"significant amounts of data\" – both internal org files and personal identifiable information (PII) – left out in the open for anyone to take a look at thanks to misconfigured access controls in websites built using Power Pages.\nIt's a big deal because more than 250 million users use Power Pages – a Microsoft website design service - each month.\n\"In one case, a large shared business service provider for the [UK National Health Service] NHS was leaking the information of over 1.1 million NHS employees, with large portions of the data including email addresses, telephone numbers, and even home addresses of the employees,\" he wrote.\nThat leak has been plugged and the employees' details are no longer exposed.\nWhen asked about other organizations' leaking data, Costello declined to name names. \"Several million records of sensitive data were found exposed to the public internet from authorized testing alone, and both private organizations and government entities are known to be affected, including those in technology, health, and finance,\" he told The Register .\n\"It's clear that organizations need to prioritize security when managing external-facing websites, and balance ease of use with security in SaaS platforms – these are the applications holding the bulk of confidential corporate data today, and attackers are targeting them as a way in to enterprise networks,\" Costello added.\nPower Pages is a low-code, software-as-a-service platform that makes it easy for organizations to build external-facing websites on Microsoft infrastructure. The tool includes preconfigured role-based access controls and three out-of-the-box roles that may not be deleted or deactivated.\nTwo of these roles are especially important to exploit this security oversight: \"anonymous users,\" which represents everyone who has not authenticated to the site, and \"authenticated users\" - anyone logged into the site.\nThe latter is relevant because many organizations allow anyone to register for an account on a website created using Power Pages. Those who register become an \"authenticated user,\" with the elevated permissions that come with that role.\nThe problem is that many companies treat the \"authenticated user\" role as belonging to someone inside the organization and grant permissions accordingly – even for outsiders who register for their websites.\n\"This is of key significance … as organizations are far more likely to grant excessive permissions to a role that they believe is internal in nature,\" Costello wrote. In other words, Power Pages users who allow public registration, need to treat \"authenticated users\" just as if they were an \"anonymous user\" outside the organization.\nFiddly access controls are hard to nail Power Pages also uses a layered approach to access controls. If you think about its four layers as a pyramid, then the bottom – foundation level –is the site-level access controls, which control site authentication settings and determine which tables and columns in the database are accessible through the public web API. Any of those database resources marked as Web API accessible are at risk of being leaked to unauthorized viewers.\nThe next level up on the Power Pages management security pyramid is a Table Permissions section, and this is where the site administrator defines:\nTable – The name of the table to which access is granted; Role(s) – The roles to which this access is granted; Permission To – The CRUD operations that an authorized user may perform, which include \"read,\" \"update,\" \"append,\" \"append to,\" \"create,\" and \"delete\" data; Access Type – A list of options from which only one may be selected, which determines which records a user can access from the table. \"Nearly all\" of the data leaks that Costello said he's spotted are due to overly permissive table access control definitions. For instance, he's seen sites where public registration is enabled and the access type is set to \"global access\" – which, as the name the suggests, grants access to all rows within a table.\nThousands of orgs at risk of knowledge base data leaks via ServiceNow misconfigurations Microsoft slips Task Manager and processor count fixes into Patch Tuesday Admins can give thanks this November for dollops of Microsoft patches Fortinet patches VPN app flaw that could give rogue users, malware a privilege boost After the table permissions are determined, Power Pages applies any column access controls as another layer of security. This uses data masking to protect sensitive information and allows customers to obfuscate certain columns that match a regex pattern from users without the correct roles.\nThat arrangement could see an organization could use masking to prevent an unauthenticated user from seeing a column that stores people's home addresses.\nHowever, setting up these masking rules is a complex, lengthy process. Because of this, many orgs simply skip it. \"Throughout the entirety of my testing, not a single implementation of column-level security was present to prevent access to sensitive columns,\" Costello noted.\nThe primary types of misconfiguration noted by Costello were: Exposing too many or even all columns to the Web API; Allowing open registration and external authentication (that is, giving authenticated users elevated access when they may actually be anonymous); Granting global access for anonymous users; and not enabling column security.\nHe also provides a proof-of-concept (POC) of how these misconfigured access controls could be exploited to access sensitive information – but adds that a proxy tool such as Burp Suite is required to exploit Power Page’s problems.\nBurp Suite sits between the user's browser and the website being probed, intercepting HTTP requests and allowing the user to modify them. In this case, it allowed Costello – posing as a would-be attacker – to capture and modify a request, identify exposed tables, and find columns containing sensitive data.\nMicrosoft does alert users via banners and other warnings when it detects potentially dangerous configurations, such as those exposing data to the public internet. Still, \"the most effective way to resolve this issue in its entirety is to remove excessive levels of access to external users,\" Costello wrote.\nThe Register sought comment from Microsoft and had not received a response at the time of publication. ®\nGet our Tech Resources",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities/",
+      "https://learn.microsoft.com/en-us/power-platform/admin/security-roles-privileges",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://learn.microsoft.com/en-us/power-pages/security/table-permissions",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed/",
+      "https://learn.microsoft.com/en-us/power-platform/admin/field-level-security",
+      "https://www.microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed/",
+      "https://www.learn.microsoft.com/en-us/power-platform/admin/field-level-security",
+      "https://pubads.g.doubleclick.net/gampad/ad",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.learn.microsoft.com/en-us/power-pages/security/table-permissions",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://appomni.com/ao-labs/microsoft-power-pages-data-exposure-reviewed",
+      "https://pubads.g.doubleclick.net/gampad/jump",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://microsoft.com/en-us/power-platform/blog/power-pages/microsoft-power-pages-is-bringing-the-new-standard-in-secure-ai-powered-capabilities/",
+      "https://www.learn.microsoft.com/en-us/power-platform/admin/security-roles-privileges",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/front&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33Zzbzbop0bT2mC0zlRIegYQAAAE8&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Aaron Costello",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        },
+        {
+          "name": "UK National Health Service",
+          "sentiment": "none"
+        },
+        {
+          "name": "NHS",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T09:09:54.223+02:00",
+    "updated": "2024-11-18T19:45:24.001+02:00"
+  },
+  {
+    "uuid": "c5ebd97d88bf8a733e03ef83ee7c3a41dff4b4c7",
+    "url": "https://www.soychile.cl/Iquique/Sociedad/2024/01/05/842469/estudiante-alto-hospicio-puntaje-pae.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SoyChile",
+    "published": "2024-01-05T00:00:00Z",
+    "title": "Alumno del Liceo Juan Pablo II de Alto Hospicio logró puntaje máximo en matemáticas en PAES 2024",
+    "text": "Un gran logro registró en el último proceso de admisión universitaria el Liceo Bicentenario Minero Juan Pablo II de Alto Hospicio, tras conocerse que uno de sus estudiantes obtuvo un puntaje máximo de 1000 en matemáticas en la Prueba de Acceso a la Educación Superior (PAES) 2024.Se trata de Sebastián Ayaviri (18), egresado de humanista científico, cuyo resultado lo sitúa como una de las más alta rendición a nivel nacional en esta prueba, lo que representa un inédito hito en la historia de este establecimiento. “Me tomo este logro de muy buena manera, ya que dediqué mi mayor esfuerzo en esta prueba porque es mi área y también es un requisito importante para estudiar medicina, que es la carrera que quiero estudiar. La confianza y seguridad en sí mismo es clave para rendir una buena PAES”, sostuvo Sebastián, quien entre sus opciones de postulación está la Universidad de Valparaíso, Universidad de Chile y la Universidad Austral.Este buen desempeño es parte de los 31 alumnos que reportaron puntajes destacados en PAES 2024, alcanzando 17 de ellos sobre 700 puntos en promedio en las pruebas de competencia lectora y de matemáticas; y otros 5 jóvenes sobre 800 puntos promedio.Goighet Andrade, directora del Liceo Juan Pablo II, precisó que “PAES 2024 marca un hito en los resultados que hemos obtenido históricamente como establecimiento, desde que se implementó este nuevo proceso de admisión. Esta generación tiene muchas posibilidades de acceder a estudios superiores, considerando también aquellos alumnos que lograron bajo los 700 puntos, ya que tienen muy buen promedio de Notas en Educación Media (NEM), por lo que más el programa PACE del Mineduc, estimo que sobre el 90% se integrará a la educación superior”.Cabe destacar que el rendimiento de estos jóvenes ha impactado positivamente en el promedio de evaluación de este proceso, entre quienes cursan las áreas humanista científico y técnico profesional en el Liceo Juan Pablo II. Expresado en cifras, el establecimiento subió 10 puntos, alcanzando un promedio total de 600; mientras que por área de especialidad ascendió a 624 puntos el promedio en humanista científico y 575 en técnico profesional.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Education",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:22:51.190+02:00",
+    "updated": "2024-01-06T00:22:51.190+02:00"
+  },
+  {
+    "uuid": "923f61498e97dc28bb0fe1a115985a9857f1ed18",
+    "url": "https://www.newindianexpress.com/states/andhra-pradesh/2025/Jun/12/andhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu",
+    "ord_in_thread": 0,
+    "author": "Express News Service",
+    "published": "2025-06-12T06:43:00Z",
+    "title": "Andhra ministers inaugurate key tribal education projects in Palnadu",
+    "text": "They formally opened a newly constructed Tribal Ashram School, built at a cost of Rs 8.2 crore, which includes residential, educational, and nutritional facilities. Andhra Pradesh Tribal Welfare and Women & Child Development Minister Gummadi Sandhyarani along with Minister Gottipati, MLA Aravind Babu, and MP Lavu Sri Krishna Devarayalu inaugurated a newly built tribal ashram school in Turakapalem village in Palnadu district. Photo | Express Express News Service Updated on: 12 Jun 2025, 6:43 am 1 min read\nCopied\nFollow Us\nGUNTUR: In a major step towards strengthening tribal education in the State, Tribal Welfare Minister Gummadi Sandhyarani and Electricity Minister Gottipati Ravi Kumar inaugurated key infrastructure projects in Pedda Turkapalem village of Narasaraopet constituency on Wednesday. The visit underscored the State government’s commitment to improving learning facilities for tribal students in Palnadu district.\nTribal Welfare and Women & Child Development Minister Gummadi Sandhyarani and Energy Minister and Palnadu district in-charge Gottipati Ravi Kumar were accompanied by Narasaraopet MLA Aravind Babu and MP Lavu Sri Krishna Devarayalu during the visit.\nThey formally opened a newly constructed Tribal Ashram School, built at a cost of Rs 8.2 crore, which includes residential, educational, and nutritional facilities.\nThey also inaugurated a Rs 1.2 crore cement concrete (CC) road providing direct connectivity to the school. Sandhyarani inspected the school’s infrastructure and directed officials to maintain high standards. She emphasised the government’s focus on ensuring holistic development for tribal children.\nRavi announced the seting up of two additional tribal Gurukul schools in the district within a year, reaffirming the government’s aim to provide quality education.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Education->primary education",
+      "Education->state school",
+      "Education->students",
+      "Social Issue->demographics",
+      "Social Issue->social services",
+      "Politics->government",
+      "Politics->education policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu",
+      "https://news.google.com/publications/CAAqBwgKMKKdpQEw4-Ea?hl=en-IN&gl=IN&ceid=IN%3Aen",
+      "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu&title=Andhra%20ministers%20inaugurate%20key%20tribal%20education%20projects%20in%20Palnadu%20",
+      "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu&text=Andhra%20ministers%20inaugurate%20key%20tribal%20education%20projects%20in%20Palnadu%20&hashtags=",
+      "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu",
+      "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu&text=Andhra%20ministers%20inaugurate%20key%20tribal%20education%20projects%20in%20Palnadu%20&hashtags=",
+      "https://www.linkedin.com/shareArticle",
+      "https://news.google.com/publications/CAAqBwgKMKKdpQEw4-Ea",
+      "https://linkedin.com/shareArticle?url=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu&title=Andhra%20ministers%20inaugurate%20key%20tribal%20education%20projects%20in%20Palnadu%20",
+      "https://www.facebook.com/sharer.php",
+      "https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu",
+      "https://www.news.google.com/publications/CAAqBwgKMKKdpQEw4-Ea?hl=en-IN&gl=IN&ceid=IN%3Aen",
+      "https://www.api.whatsapp.com/send?text=https%3A%2F%2Fwww.newindianexpress.com%2Fstates%2Fandhra-pradesh%2F2025%2FJun%2F12%2Fandhra-ministers-inaugurate-key-tribal-education-projects-in-palnadu",
+      "https://api.whatsapp.com/send",
+      "https://twitter.com/intent/tweet"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lavu Sri Krishna Devarayalu",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gottipati Ravi Kumar",
+          "sentiment": "none"
+        },
+        {
+          "name": "Gummadi Sandhyarani",
+          "sentiment": "none"
+        },
+        {
+          "name": "Aravind Babu",
+          "sentiment": "none"
+        },
+        {
+          "name": "GUNTUR",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Palnadu",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pedda Turkapalem",
+          "sentiment": "none"
+        },
+        {
+          "name": "Turakapalem",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_qa",
+        "top_news"
+      ],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:08:49.107+03:00",
+    "updated": "2025-06-13T08:05:38.000+00:00"
+  },
+  {
+    "uuid": "1f0f1a5cbaa7de1d852aa1067c630839bff1a00c",
+    "url": "https://www.20minutos.es/noticia/5695332/0/huelga-seguridad-social-se-intensificara-abril-con-paros-indefinidos",
+    "ord_in_thread": 0,
+    "author": "20minutos",
+    "published": "2025-03-27T20:55:00Z",
+    "title": "La huelga en la Seguridad Social se intensificará en abril con paros indefinidos",
+    "text": "Los secretarios y subdirectores provinciales del Instituto Nacional de la Seguridad Social (INSS), unos 200 empleados públicos, van a intensificar las protestas iniciadas el 10 marzo -y que este jueves ha celebrado la cuarta jornada- con convocatorias de paros indefinidos a partir del 1 de abril durante tres días a la semana. Los convocantes denuncian en un comunicado la falta de respuesta del Ministerio de Inclusión, Seguridad Social y Migraciones ante lo que definen como una \"situación de colapso de la gestión de este organismo\".\nEn la nota detallan que durante las últimos semanas de paros parciales, han tenido un seguimiento masivo, con el 88% de las provincias secundando los paros, y una participación total del 64%. Además, en las principales provincias del país (Madrid, Valencia, Sevilla, Málaga, Alicante, Zaragoza, Asturias y Murcia) el seguimiento de huelga ha sido de más del 90%.\n\"Ante la falta de respuesta de los responsables del Ministerio de Inclusión, Seguridad Social y Migraciones a la situación de colapso de la gestión de este organismo que vienen denunciando estos directivos, se intensifican las protestas con convocatorias de paros indefinidos a partir del 1 de abril durante tres días a la semana\", señalan. Con estos paros, los directivos territoriales del INSS exigen \"soluciones estructurales\" para revertir la situación de \"caos de una entidad gestora que con una estructura del siglo pasado y con unas plantillas envejecidas y mermadas pretende hacer frente a los colosales retos de la protección social del siglo XXI\".\nParalización en la gestión de prestaciones\n\"Allí donde está coincidiendo con la jornada y horario de los paros, se están viendo paralizadas las comisiones ejecutivas del INSS, por ausencia del secretario de las mismas, así como las comisiones de seguimiento del Convenio de la Incapacidad temporal, las mesas de contratación y los comités de seguridad y salud laboral donde asistan estos directivos provinciales\", añaden.\nAsí, la huelga convocada ha supuesto la suspensión de la actividad regular de los Tribunales médicos (Equipos de Valoración de Incapacidades) en muchas provincias, donde la mayoría de estos directivos son sus presidentes. En concreto, en estas cuatro jornadas de huelga se han visto afectados más de 6.000 expedientes de incapacidad laboral por esta circunstancia, según el comunicado.\nEn este sentido, denuncian que existen más de 90.000 expedientes de incapacidad permanente pendientes de calificación. Asimismo, reprochan que casi 50.000 trabajadores alcanzan con \"enorme facilidad\" el plazo máximo legal de 545 días para las bajas laborales, con un incremento del 30% y 10.000 trabajadores en el último año.\n\"Las consecuencias para empresas y Mutuas y en general para todo el sistema de seguridad social son nefastas, con trabajadores sin un pronunciamiento sobre su situación médico laboral, que se alejan cada vez de sus empresas o negocios, con una generación de falsas expectativas de prestaciones y desconexión del mundo laboral y dificultades para su reinserción\", reiteran.\nPor otro lado, advierten que la creación de la nueva prestación del Ingreso mínimo vital (IMV) en 2020 se ha tenido que asumir por unas unidades de gestión que \"no estaban preparadas ni formadas y que carecían de recursos humanos y materiales\" para gestionar una \"avalancha de tres millones y medio de expedientes\".\n\"Cuatro años después, una prestación tan importante para las familias se gestiona prácticamente en exclusiva por funcionarios interinos, con decenas de miles de expedientes sin resolver y con cambios continuos de criterio de los requisitos de acceso que han generado inseguridad jurídica con miles de reclamaciones y deudas a estas familias en situaciones de vulnerabilidad\", recoge el comunicado.\nPor todo ello, las oficinas de atención al ciudadano de la seguridad social están \"desbordadas\". \"La creación de nuevas prestaciones como el IMV, el descontrol de las incapacidades laborales, el aumento de las solicitudes de jubilación por los cambios normativos y la llegada a la edad legal de la generación del baby boom, la dilatación de los tiempos de tramitación, el incremento de las reclamaciones y revisiones está colapsando las oficinas del INSS con dificultades para obtención de cita previa e incrementado la conflictividad y empeorando considerablemente las condiciones de trabajo\", aseveran.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Labor->labour dispute",
+      "Labor->employee",
+      "Labor->unions",
+      "Politics->civil rights",
+      "Politics->government department",
+      "Politics->political process",
+      "Social Issue->social services",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Los convocantes denuncian en un comunicado la falta de respuesta del Ministerio de Inclusión",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Madrid",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Valencia",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Sevilla",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Málaga",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Alicante",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Zaragoza",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Asturias",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Murcia",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Con estos paros",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Convenio de la Incapacidad",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Tribunales",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Equipos de Valoración de Incapacidades",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Asimismo,",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "IMV",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Instituto Nacional de la Seguridad Social",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "INSS",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Seguridad Social y Migraciones",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Mutuas",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Ingreso mínimo vital",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T23:09:49.601+02:00",
+    "updated": "2025-03-27T23:09:49.601+02:00"
+  },
+  {
+    "uuid": "ab89f391e316f673f3375e437289c139775775ea",
+    "url": "https://www.mining.com/web/us-withdrawing-from-plan-to-help-major-polluters-move-from-coal-sources-say",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@MiningDotCom",
+    "published": "2025-03-06T00:16:00Z",
+    "title": "US withdrawing from plan to help major polluters move from coal, sources say - MINING.COM",
+    "text": "US withdrawing from plan to help major polluters move from coal, sources say\nThe United States is withdrawing from the Just Energy Transition Partnership (JETP), a collaboration between richer nations to help developing countries transition from coal to cleaner energy, several sources in key participating countries said.\nJETP, which consists of 10 donor nations, was first unveiled at the U.N. climate talks in Glasgow, Scotland in 2021.\nSouth Africa, Indonesia, Vietnam and Senegal were subsequently announced as the first beneficiaries of loans, financial guarantees and grants to move away from coal.\nJoanne Yawitch, head of the Just Energy Transition Project Management Unit in South Africa, said on Wednesday that the United States had communicated its withdrawal from the plan there.\nIn Vietnam, two foreign officials with direct knowledge of the matter said Washington was withdrawing from JETP in the country, and one of them said the U.S. was also exiting from all JETP programmes, including in Indonesia.\nAnother source familiar with the matter said the U.S. had withdrawn from the JETP in Indonesia and South Africa.\nJoanne Yawitch, head of the Just Energy Transition Project Management Unit in South Africa, said on Wednesday that the United States had communicated its withdrawal from the plan there.\nIn Vietnam, two foreign officials with direct knowledge of the matter said Washington was withdrawing from JETP in the country, and one of them said the U.S. was also exiting from all JETP programmes, including in Indonesia.\nAnother source familiar with the matter said the U.S. had withdrawn from the JETP in Indonesia and South Africa.\nU.S. commitments for Indonesia and Vietnam exceeded $3 billion in total, mostly through commercial loans, while in South Africa the commitment was for $1.063 billion out of $11.6 billion pledged for the country.\n(Reporting by Tim Cocks in Johannesburg, Francesco Guarascio in Hanoi, and Fransiska Nangoy in Jakarta; Writing by Sudarshan Varadhan; Editing by Tony Munroe and Sharon Singleton)\nComments\nMore News\nUS withdrawing from plan to help major polluters move from coal, sources say\nJust Energy Transition Partnership, which consists of 10 donor nations, was first unveiled at the U.N. climate talks in Glasgow, Scotland in 2021.\nMarch 05, 2025 | 04:16 pm\nTriple Flag acquires streams on Peruvian mines for $35M\nCollectively, Arcata and Azuca are expected to have at least a 10-year mine life.\nMarch 05, 2025 | 10:05 am\n{{ commodity.name }}\n[{{ post.title }}]\n{{ post.excerpt }}\n{{ post.date }}",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Politics->environmental policy",
+      "Politics->government policy",
+      "Politics->international relations",
+      "Environment->environmental pollution",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->energy and resource"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joanne Yawitch",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Just Energy Transition Project Management Unit",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "U.N.",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T02:29:34.076+02:00",
+    "updated": "2025-03-06T02:29:34.076+02:00"
+  },
+  {
+    "uuid": "af0c8612c69a281b421e7a17384a3e017ef11641",
+    "url": "https://www.semana.com/tecnologia/articulo/ante-un-ciberataque-que-buscaba-robar-cuentas-comerciales-de-facebook-expertos-recomiendan-como-protegerse/202545",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Tecnología",
+    "published": "2025-01-09T21:06:00Z",
+    "title": "Ante un ciberataque que buscaba robar cuentas comerciales de Facebook, expertos recomiendan cómo protegerse - Semana",
+    "text": "Un reciente ciberataque ha generado preocupación sobre la seguridad de las cuentas comerciales de Facebook , afectando tanto a usuarios como a empresas que utilizan esta red social para sus estrategias de marketing digital. A continuación, se detallan los principales aspectos del ataque, la respuesta de los expertos y las medidas preventivas recomendadas.Extensiones de Chrome comprometidas y el objetivo de las cuentas comercialesFacebook sigue siendo una herramienta esencial para muchas compañías y micronegocios. Esto la convierte en un blanco atractivo para los ciberdelincuentes.La empresa de ciberseguridad Cyberhaven identificó que el ataque se realizó mediante extensiones maliciosas de Chrome, diseñadas para recopilar información sensible de los usuarios.El análisis inicial del ataque indica que fue parte de una campaña más amplia que apuntaba a desarrolladores de extensiones de Chrome. Según los expertos, las extensiones comprometidas activaban un flujo malicioso cuando los usuarios accedían a Facebook.com , aprovechando la API de la plataforma para recolectar datos.“El atacante utilizó este acceso para publicar una versión maliciosa de nuestra extensión de Chrome (extensión de Chrome Cyberhaven versión 24.10.4, Hash DDF8C9C72B1B1061221A597168f9BB2C2BA09D38D7B3405E1DACE37AF1587944)” indicó el portal cyberhaven.Cronología del ataque y la respuesta de los expertosEl incidente comenzó el 24 de diciembre de 2024, cuando un ataque de phishing permitió a los ciberdelincuentes comprometer el acceso de un empleado de Cyberhaven a la tienda web de Chrome. Esto les permitió publicar una versión maliciosa de la extensión de Cyberhaven para Chrome (versión 24.10.4).El equipo de seguridad de la empresa detectó la vulnerabilidad el 25 de diciembre a las 11:54 p. m. (hora local) y eliminó el paquete malicioso en menos de una hora. Sin embargo, durante este período , las cuentas comerciales de Facebook quedaron expuestas a accesos no autorizados , lo que obligó a emitir recomendaciones para mitigar los posibles daños.Recomendaciones para mitigar los riesgos de seguridadHoward Ting, CEO de Cyberhaven, emitió una serie de recomendaciones para los usuarios potencialmente afectados por el ataque:Este incidente resalta la importancia de la ciberseguridad en redes sociales y no solo en cuentas personales sino también comerciales, especialmente en un contexto donde los ciberdelincuentes desarrollan métodos cada vez más sofisticados para vulnerar la privacidad de los usuarios y empresas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->social sciences",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T00:28:59.015+02:00",
+    "updated": "2025-01-10T00:28:59.015+02:00"
+  },
+  {
+    "uuid": "eb5c147812e38420b71baeb815612dbc05bd9011",
+    "url": "https://www.quotidiano.net/economia/ultimaora/ig-metall-minaccia-sciopero-volkswagen-bd033305",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Quotidiano Nazionale",
+    "published": "2024-11-30T09:00:00Z",
+    "title": "Ig Metall minaccia sciopero, 'Volkswagen ha superato i limiti'",
+    "text": "La tregua con l'azienda scade oggi, da lunedì possibili proteste\nIl sindacato metalmeccanico tedesco Ig Metall annuncia una possibile tornata di scioperi a partire da lunedì, primo giorno utile dalla data di scadenza della tregua con Volkswagen, prevista alla mezzanotte di oggi. Per il colosso tedesco di Wolfsburg sarebbe la prima grande protesta dal 2018. Le proteste potrebbero essere di alcune ore o di un'intera giornata, mentre il prossimo incontro del sindacato con l'azienda è fissato per il prossimo 9 dicembre. La possibile protesta segue il nulla di fatto nel negoziato tra l'azienda e il sindacato, che aveva proposto un taglio dei bonus per il management in risposta alla richiesta del gruppo di una riduzione del 10% degli stipendi per oltre 1/3 dei 300mila dipendenti in Germania, tagliando anche i benefit aziendali. A fine ottobre il colosso di Wolfsburg, alle prese con le difficoltà del mercato dell'auto per la concorrenza delle vetture elettriche importate dalla Cina, aveva proposto di chiudere almeno 3 fabbriche sulle 10 attive in Germania, licenziando migliaia di lavoratori e riducendo del 10% il salario a quelli rimasti. In una nota diffusa nella vigilia Volkswagen ha definito 'non sufficienti' le proposte dei sindacati per raggiungere l'obiettivo di tagliare i costi per 1,5 miliardi di euro. Il gruppo afferma comunque di \"mantenere il dialogo aperto\" con i rappresentanti dei lavoratori per raggiungere \"soluzioni percorribili\". Ig Metall, dal canto suo, ha definito \"estremamente deplorevole\" il fatto che il gruppo abbia respinto le \"proposte costruttive\" che erano state avanzate. Secondo Ig Metall Volkswagen \"si è spinta oltre i limiti di quello che i lavoratori possono accettare\".\nWhatsApp\nFacebook\nX\nPrint\n© Riproduzione riservata",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305&t=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;",
+      "https://web.whatsapp.com/send?text=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;%20https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305",
+      "https://x.com/share?url=https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305&text=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;",
+      "https://www.web.whatsapp.com/send?text=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;%20https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305",
+      "https://x.com/share",
+      "https://www.x.com/share?url=https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305&text=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.quotidiano.net%2Feconomia%2Fultimaora%2Fig-metall-minaccia-sciopero-volkswagen-bd033305&t=Ig%20Metall%20minaccia%20sciopero%2C%20&#x27;Volkswagen%20ha%20superato%20i%20limiti&#x27;",
+      "https://web.whatsapp.com/send",
+      "https://www.facebook.com/sharer/sharer.php"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": " Volkswage",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": " Ig Metal",
+          "sentiment": "none"
+        },
+        {
+          "name": " Germani",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-30T12:25:03.754+02:00",
+    "updated": "2024-11-30T12:25:03.754+02:00"
+  }
+]

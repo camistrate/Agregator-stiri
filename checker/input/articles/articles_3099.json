@@ -1,0 +1,490 @@
+[
+  {
+    "uuid": "e8268c63490e0e80d3cace2cb54802ad10de55e6",
+    "url": "https://www.stheadline.com/realtime-china/3412247/%E4%B8%8A%E6%B5%B7%E5%A3%AF%E5%B9%B4%E7%94%B7%E9%9B%A2%E5%A5%87%E6%82%A3%E6%80%AA%E7%97%85-%E9%86%AB%E7%94%9F%E4%B8%80%E8%A8%80%E9%A9%9A%E9%86%92%E6%8F%AD%E7%97%85%E6%BA%90%E4%BF%82%E7%BC%BA%E5%BE%B7%E9%84%B0%E5%B1%85",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "上海壯年男離奇患怪病 醫生一言驚醒揭「病源」係缺德鄰居",
+    "published": "2024-12-19T23:00:00Z",
+    "title": "上海壯年男離奇患怪病 醫生一言驚醒揭「病源」係缺德鄰居",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 我要讚佢 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 中國 即時中國 上海壯年男離奇患怪病 醫生一言驚醒揭「病源」係缺德鄰居 即時中國 更新時間：07:00 2024-12-20\n發佈時間：07:00 2024-12-20 字體大小 上海年僅三十多歲的周先生，早前發現身體出現不明無病，四肢總感覺到關節疼痛，頭部還常常發昏惡心。求診期間，經醫生了解，發現「病源」竟在自己家中。\n離奇患偏頭痛 內地《新聞坊》報道，家住虹口區的周先生今年初開始，四肢感覺到疼痛，頭部有發昏情況，後來情況未有改善，去醫院檢查後，被確診有類風濕，還有偏頭痛。\n相關新聞： 泰憤怒︱疑中國女遊客動物園彈弓射馬騮 同伴歡呼無視泰人喝止︱有片\n醫生著他查下自己家裡的情況，周先生移開一個衣櫃，竟然發現櫃後的窗外堆滿建築和生活垃圾，垃圾數量多至將窗封死，完全無法打開。家中太過潮濕，牆壁更出現發霉。\n早出晚歸未有理會問題 周先生表示，自2018年，鄰居進行僭建，家中就開始有發霉牆體開裂還有滲水。由於自己一直早出晚歸，故未有關注這些問題。直至發現窗外堆滿垃圾，周先生自5月開始就在外面租房子住。\n相關新聞： 杭州登山會群眾野路闖民宅 泳池集體洗腳變泥水池\n報道指，周先生住所與邊上一幢居民樓之間有一條約半米多寬的夾縫。鄰居直接把垃圾全部扔進夾縫裡面了。當地街道城運中心後來採取行動，樓上居民承認曾扔垃圾，當局後來協調物業公司進行垃圾清理。\n至於潮濕問題，經過物業調查，發現有人在周先生家上方私接排水管，生活用水直接排放至夾縫內，久而久之造成了周先生家牆面的霉變。該物業工作人員表示，將要求對方予以整改。\n↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:11:39.557+02:00",
+    "updated": "2024-12-20T01:11:39.557+02:00"
+  },
+  {
+    "uuid": "3a09909635105ec24e24d16c7cf1d6eb502b9860",
+    "url": "https://yen.com.gh/entertainment/259064-25thtgma-john-dumelo-turns-award-ceremony-campaign-trail-hopeful-wining-parliamentary-seat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peter Ansah",
+    "published": "2024-06-02T01:49:00Z",
+    "title": "25thTGMA: John Dumelo Adds Award Ceremony To Campaign Trail: \"I'll Win My Elections In Jesus Name\" - YEN.COM.GH",
+    "text": "25thTGMA: John Dumelo Adds Award Ceremony To Campaign Trail: \"I'll Win My Elections In Jesus Name\" - John Dumelo joined Lydia Forson on stage to unveil this year's Telecel Ghana Music Awards recipient of the Collaboration of the year - Kidi's record with Stonebwoy, Likor was announced as the winner - John Dumelo's political introduction as he prepared to announce the winner stunned many fans The Telecel [Ghana Music](https://yen.com.gh/entertainment/music/) Awards came off on June 1 in Accra to celebrate the over 150 artistes nominated for [this year's edition](https://yen.com.gh/entertainment/254632-vgma-tgma-organisers-confirm-sposnor-unveil-date-25th-edition/). Scores of Ghanaian socialites gathered for the celebration, including actress Lydia Forson and John Dumelo, who is aspiring to be the Member of the Parliament for Ayawaso West Wuogon constituency. [John Dumelo](https://yen.com.gh/tags/john-dumelo/) and Lydia Forson tag-teamed to present this year's winner for the Collaboration of the Year category. John Dumelo turns TGMA into the campaign trail [Kidi's Likor](https://www.youtube.com/watch?v=aYDAog8Qh6E), featuring [Stonebwoy](https://yen.com.gh/tags/stonebwoy/), was adjudged the winner of the Collaboration of the Year category. The song narrowly edged past top contenders like FRA and Nana Yaw Ofori Atta's You Dey Feel The Vibe, Mr Drew and Mophty's [Case Remix](https://trendybeatz.com/download-mp3/40851/mr-drew-case-remix-ft-mophty), and Kwaku Ananse Remix by Amerado and [Fameye](https://yen.com.gh/137993-fameye-age-real-girlfriend-hometown-family-songs-albums-instagram.html). [John Dumelo](https://yen.com.gh/139397-john-dumelo-wife-age-biography-movies.html) sent an inspiring message to all the great contenders who missed out on the win, saying, \"If you didnt win. you wil definitely win. Just like I didn't win in 2020, I will win in 2024 in Jesus name.\" The actor, now turned politician, is in pole position to win this year's bid, crowning an explosive campaign trail ahead of the [2024 elections](https://yen.com.gh/ghana/258717-special-voting-election-2024-held-december-2/). Netizens react to John Dumelo's campaign message YEN.com.gh gathered a few comments from fans in reaction to John Dumelo's message to TGMA contenders who missed out on winning their awards. @knii_enoch said: John Dumelo de campaign vibes nam mu @Nene_Larbi wrote: Chale John Dumelo just had to @naa_yorks noted: John Dumelo will do aa and lose this year again @dollarsnti2 commented: John dumelo dey do campaign @Eddy_Acquah added: John Dumelo take the stage dey do campaign. 3b3 fa? PAY ATTENTION: [Stay informed and follow us on Google News!](https://news.google.com/publications/CAAiED-kkM3VetXoUfGei2K5uIIqFAgKIhA_pJDN1XrV6FHxnotiubiC?hl=en-US&gl=US&ceid=US%3Aen) Source: YEN.com.gh [](https://yen.com.gh/authors/peter-ansah/) Peter Ansah (Entertainment Editor) Ansah Peter is an entertainment editor at YEN.com.gh. He studied Development Planning at the Kwame Nkrumah University of Science and Technology, graduating in 2018. His professional career in entertainment journalism dates eight years back as a showbiz and arts blogger for the now-defunct motionhypegh.net, continuing to Muse Media Networks, acting as the editorial manager for the network's flagship multimedia platforms. He has also managed several PR roles with top clients, including Afro Nation Ghana and Morgan Heritage. You can reach him at peter.ansah@yen.com.gh",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://trendybeatz.com/download-mp3/40851/mr-drew-case-remix-ft-mophty),",
+      "https://news.google.com/publications/CAAiED-kkM3VetXoUfGei2K5uIIqFAgKIhA_pJDN1XrV6FHxnotiubiC?hl=en-US&gl=US&ceid=US%3Aen)",
+      "http://www.youtube.com/watch?v=aYDAog8Qh6E),",
+      "https://www.news.google.com/publications/CAAiED-kkM3VetXoUfGei2K5uIIqFAgKIhA_pJDN1XrV6FHxnotiubiC?hl=en-US&gl=US&ceid=US%3Aen)",
+      "http://youtube.com/watch?v=aYDAog8Qh6E),",
+      "https://www.trendybeatz.com/download-mp3/40851/mr-drew-case-remix-ft-mophty),",
+      "https://news.google.com/publications/CAAiED-kkM3VetXoUfGei2K5uIIqFAgKIhA_pJDN1XrV6FHxnotiubiC",
+      "http://www.youtube.com/watch"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "john dumelo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kidi",
+          "sentiment": "none"
+        },
+        {
+          "name": "likor",
+          "sentiment": "none"
+        },
+        {
+          "name": "stonebwoy",
+          "sentiment": "none"
+        },
+        {
+          "name": "lydia forson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "telecel ghana music awards",
+          "sentiment": "none"
+        },
+        {
+          "name": "parliament for ayawaso west wuogon",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "accra",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T07:22:41.333+03:00",
+    "updated": "2024-06-02T07:22:41.333+03:00"
+  },
+  {
+    "uuid": "4ee20483e1b45381750f567aef2051b7c232efb2",
+    "url": "https://www.newcastleherald.com.au/story/8476541/lifeguards-warn-public-of-beach-dangers-in-busy-summer-season/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@madeline_link",
+    "published": "2024-01-03T18:00:00Z",
+    "title": "Lifeguards warn public of beach dangers in busy summer season | Newcastle Herald | Newcastle, NSW",
+    "text": "A CRACKER start to summer has the region's pools and beaches absolutely chockers, as locals take a dip to escape the heat. Finding a spot to park the umbrella and towel has proved a difficult task this season, with the region's sandy beaches and crystal blue waters proving to be a more cost-effective option for holidaymakers than the Isle of Capri. But the sunny weather comes with a warning from lifeguards, who've been put through their paces with a surge in rescues this season. Between December 23 and New Year's Day, almost 106,000 people visited Newcastle's beaches and lifeguards have already been involved in 17 rescues. In Lake Macquarie, lifeguards have undertaken 99 rescues - a significant increase from the same period in 2022. Lake Macquarie beach lifeguards team leader Lucas Samways said warm, dry conditions had seen visitor numbers increase significantly across all four patrolled beaches compared to last season. \"We're particularly seeing larger visitation numbers in the mornings and late afternoons, and have consequently increased patrol hours to 6pm, unless it's raining,\" he said. \"Our lifeguards are noticing people spreading along the beach, often resulting in them not swimming between the flags.\" Mr Samways said most rescues come down to people getting caught in rips and not swimming between the flags. \"Lifeguards have also responded to a number of incidents via jet-skis, well outside our normal patrol areas, where people have been caught in dangerous rips, and we've had quite a large number of significant incidents occur at beaches where visitors required further medical attention,\" he said. He's seen people with fractures, dislocations and possible spinal injuries that occurred during a dip, surfing or body-surfing more often than not due to shore-dump waves. \"There have also been quite a few people treated for heat-related illness and injuries from marine stingers,\" he said. Mr Samways said even though large swells haven't come through, people are still underestimating the power of the ocean and rips, and quite often don't know what to do when they're caught in them. \"Our lifeguards have been doing a great job throughout the course of the holidays, avoiding potentially serious situations by directing people in the water to safety before they get in trouble,\" he said. Mr Samways reminded members of the public to make smart decisions in the water, to know their own ability and swim when lifeguards are on duty. \"And if you do find yourself needing help in the water, don't panic, raise an arm in the air and we will get to you,\" he said. Through the whole month of December, close to 270,000 people visited Newcastle's beaches, and the swell in numbers is happening across the Hunter. Since the start of summer through to January 3, 328,403 beachgoers have hit the sand during patrolled periods at Port Stephens - that's a 66 per cent increase on the same time last year. Birubi is by far the busiest beach in the area, followed by One Mile and Fingal. Thankfully, rescues are down from 28 last season to just four since the start of December at Port Stephens, despite being inundated with visitors this year. Australian Lifeguard Service commercial aquatic and event service state manager Chris O'Rorke said Birubi beach was by far the busiest in the area and was a key focus for lifeguards due to dangerous conditions, because of a permanent rip in front of the surf club. \"This has resulted in additional staff being deployed to this location,\" he said. \"Lifeguards are once again encouraging all beachgoers to follow the simple message of swimming at a patrolled location and always swimming between the flags. \"Lifeguards and lifesavers are on patrol at three key locations across the Port Stephens area, and remember that if they can't see you, they can't save you.\" In 2022-23, there were 831,000 visits to Lake Macquarie's four patrolled beaches up from 785,000 the year before, and 375,056 to the city's pools. Lake Macquarie uses data from its Smart Beaches program to better understand beach visitation, which led to a two-hour extension of patrols through December 2022 to January 2023, after it showed an influx of people heading to the coast before and after work. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lucas samways",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "newcastle herald",
+          "sentiment": "negative"
+        },
+        {
+          "name": "newcastle",
+          "sentiment": "negative"
+        },
+        {
+          "name": "isle of capri",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lake macquarie",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-04T08:23:14.435+02:00",
+    "updated": "2024-01-04T08:23:14.435+02:00"
+  },
+  {
+    "uuid": "bc2d81c0e18a3be51f4ead2b415fae00b5ff5548",
+    "url": "https://www.abc10.com/article/news/local/lodi/pipe-bomb-found-lodi-deputies-search-residence/103-6a740c43-eaf6-4b62-a3ab-6129aca68c0d",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Muegge",
+    "published": "2023-12-28T17:55:00Z",
+    "title": "Lodi: Deputies find pipe bomb after serving search warrant | abc10.com",
+    "text": "LODI, Calif. — Law enforcement says the scene is clear after a search Thursday for explosives or other potentially harmful devices at a home in Lodi after finding a homemade pipe bomb while serving a search warrant. Deputies with the [San Joaquin County Sheriff’s Office](https://sjsheriff.org/) served a search warrant Wednesday to a home on the 1000 block of Church Street in Lodi, according to [a social media post](https://www.facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl) by the sheriff’s office. Authorities said they found a homemade pipe bomb in a person's vehicle parked at the house. The sheriff’s office continues to search the home Thursday due to locating the device, the news release said. “The residence is packed with miscellaneous items, making it challenging for our EOD (Explosive Ordinance Detail) team to properly search,” the sheriff’s office said. Law enforcement said there was no immediate threat to the community. The FBI and other law enforcement agencies assisted the sheriff's office.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl)",
+      "https://sjsheriff.org/)",
+      "https://www.sjsheriff.org/)",
+      "https://facebook.com/SJSheriff/posts/pfbid0X2XS7jvfaHF6bYsDh2LCzYAPUsJwmYgEtRZjKftVUyzkfMLqiigeFzHnpRuDEXTkl)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "san joaquin county sheriff’s office",
+          "sentiment": "none"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lodi",
+          "sentiment": "none"
+        },
+        {
+          "name": "lodi",
+          "sentiment": "none"
+        },
+        {
+          "name": "calif.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:51:38.893+02:00",
+    "updated": "2023-12-29T00:51:38.893+02:00"
+  },
+  {
+    "uuid": "e9af563205d64e933dc8db141e653d6206f04007",
+    "url": "https://www.kait8.com/2024/06/13/missing-8-month-olds-maternal-grandparents-arrested-joining-parents-other-grandparents-custody",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mitchell Carter",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "Missing 8-month-old’s maternal grandparents arrested, joining parents and other grandparents in custody",
+    "text": "DAVIESS CO., Ky. ( WFIE /Gray News) - The maternal grandparents of missing 8-month-old Miya Rudd, Taletha and David Tucker, who have been raising her three siblings, were arrested late Wednesday afternoon on warrants, Kentucky State Police said. Kentucky State Police were at a scene in Daviess County on Wednesday in connection to the search for Miya, according to law enforcement officials. They left around 5 p.m. Miya hasn’t been seen since late April. Authorities have been searching for her for about a week. Troopers said they served a search warrant at the Tuckers’ home but didn’t find anything connected to Miya’s case. The Tuckers are booked in the Daviess County Detention Center in Owensboro, Kentucky. The three other children are now with family services. Seven people have been arrested since Miya’s disappearance was reported last week, including her parents, Tesla Tucker and Cage Rudd; her grandparents, Ricky Smith and Billie Smith; and Timothy Roach. Kentucky State Police say family services removed three older siblings some time ago. They said Miya was born in October, and her umbilical cord tested positive for meth. Troopers said the intent was for her to join her siblings, but on May 30, other family members notified them they hadn’t seen Miya since late April. During a search for her, state police say they found the parents with meth and fentanyl pills in plain view at an Owensboro hotel but no baby. Troopers said the parents told them that family services took the baby. When double-checked against the records of family services, Kentucky State Police said that’s not true. Kentucky State Police used cadaver dog teams to search the area near the family’s home. Neighbors said they saw troopers thoroughly searching the backyard. “This is related to a missing kid and you know, that’s scary as hell because you never know who lives around here or what their intentions are or anything else,” said one neighbor. Officials said they found no evidence of Miya at her grandparents’ home. Earlier this week, officials said there’s still little to go on as to the child’s whereabouts. “We have no evidence that that’s the case that she’s deceased, but we also don’t have anything to suggest she’s alive either,” said Kentucky State Trooper Corey King. “We’ve gotten little to no information from those who should know the most.” Wednesday in Daviess County Court Rudd and Ricky Smith made brief court appearances on video from the Daviess County Jail. Both are facing a list of charges including criminal abuse of a minor, abandonment of a minor and engaging in organized crime. The only movement in their cases was to extend their preliminary hearings a week. Kentucky State Police is still looking for baby Miya and are planning to bring specialized equipment out to the home she shared with her parents. There’s no word yet on when that’s going to happen. Copyright 2024 WFIE via Gray Media Group, Inc. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.14news.com/2024/06/12/heavy-law-enforcement-presence-daviess-co-home/",
+      "https://www.14news.com/2024/06/12/heavy-law-enforcement-presence-daviess-co-home",
+      "https://14news.com/2024/06/12/heavy-law-enforcement-presence-daviess-co-home/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "miya rudd",
+          "sentiment": "negative"
+        },
+        {
+          "name": "miya",
+          "sentiment": "none"
+        },
+        {
+          "name": "billie smith",
+          "sentiment": "none"
+        },
+        {
+          "name": "timothy roach",
+          "sentiment": "none"
+        },
+        {
+          "name": "david tucker",
+          "sentiment": "none"
+        },
+        {
+          "name": "cage rudd",
+          "sentiment": "none"
+        },
+        {
+          "name": "ricky smith",
+          "sentiment": "none"
+        },
+        {
+          "name": "tesla tucker",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wfie /gray news",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "kentucky state police",
+          "sentiment": "none"
+        },
+        {
+          "name": "tuckers",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ky.",
+          "sentiment": "none"
+        },
+        {
+          "name": "daviess county detention center",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "daviess county",
+          "sentiment": "none"
+        },
+        {
+          "name": "owensboro",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:53:29.859+03:00",
+    "updated": "2024-06-14T00:53:29.859+03:00"
+  },
+  {
+    "uuid": "ead348adf3d4d21a72770d48572e72f16dc0d1d0",
+    "url": "https://dailytimes.com/lifestyles/is-god-dead/article_7d94337a-eb2c-11ef-8b67-9f8c2987f5ea.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ty B. Kerley",
+    "published": "2025-02-15T00:00:00Z",
+    "title": "Is God dead?",
+    "text": "On Good Friday 1966, Time issued their magazine with the cover emblazoned with just three words: “Is God Dead?”\nWhat followed was a firestorm; Christians once again feeling threatened by an ever more hostile culture, atheists and free-thinkers eagerly awaiting what they just knew would this time be the final victory. But both the question itself and what played out was really nothing new. To be sure, the cover garnered much attention and sparked much debate, but it was really nothing new under the sun. The same question had been raised for centuries, millennia even.\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%96 ECFE9 :D[ E96 BF6DE:@? @7 E96 562E9 @7 v@5 H2D 7:CDE C2:D65 3J {F4:76C[ H96? tG6[ :? D@>6 D6?D6[ 28C665 H:E9 9:>] xE D66>D E@ >6 E96C6 ECF=J :D ?@E9:?8 ?6H F?56C E96 DF?[ ?@E 6G6? 2 BF6DE:@? 23@FE E96 562E9 @7 v@5]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm$FC6 6?@F89[ E9@FD2?5D @7 J62CD =2E6C[ uC65C:49 }:6EKD496’D |25>2? 2D<D E96 D2>6 286=6DD BF6DE:@?i “s@ H6 ?@E 962C E96 ?@:D6 @7 E96 8C2G6\\5:886CD H9@ 2C6 3FCJ:?8 v@5n … (92E 2C6 E96D6 49FC496D ?@H[ :7 E96J 2C6 ?@E E96 E@>3D 2?5 >@?F>6?ED @7 v@5n”kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%96D6 2C6 A@H6C7F= 2?5 E:>6=6DD BF6DE:@?D E92E C6D:56 566A :? E96 D@F= @7 >@DE 2== >6?j BF6DE:@?D E92E 56>2?5 2?DH6CDj BF6DE:@?D E92E 56D6CG6 2?DH6CD] p?5 E92E :D AC64:D6=J E96 :?E6?E @7 E9:D 4@=F>?[ E@ =@@< 2E E96 6G:56?46 2G2:=23=6 E@ 96=A 2?DH6C E96 E:>6=6DD BF6DE:@?i xD v@5 5625n (96E96C J@F 2C6 2 r9C:DE:2?[ 2 $66<6C @C 2 }@?\\36=:6G6C[ x H6=4@>6 J@F E@ ;@:? 2=@?8 6249 H66< E@ 4@?D:56C E96 6G:56?46 7@C J@FCD6=7]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%@ 368:? E@ 2?DH6C E96 BF6DE:@?[ r9C:DE:2? A9:=@D@A96C r92C=6D %2J=@C >2J 36 @? E@ D@>6E9:?8 H96? 96 2D<D 2 C6=2E65 BF6DE:@?i “(9J H2D :E G:CEF2==J :>A@DD:3=6 ?@E E@ 36=:6G6 :? v@5 :? D2J[ E96 J62C `d__[” H9:=6 E@52J E9:?8D 2C6 D@ G6CJ 5:776C6?En x? E96 J62C `d__ E96C6 C62==J H2D ?@ BF6DE:@? 2D E@ H96E96C J@F H@F=5 36=:6G6 :? v@5] x? 724E[ :E H2D 2 7@C68@?6 4@?4=FD:@? E92E 2?J@?6 J@F >6E @? E96 DEC66E H@F=5 36=:6G6 :? v@5] %@52J[ @3G:@FD=J[ E92E :D ?@E E96 42D6]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm$@[ H92E 492?865n p =@E @7 E9:?8D 492?865] qFE E96D6 E9:?8D E92E 92G6 492?865[ 2D E96J C6=2E6 E@ C6=:8:@? 2?5 36=:67 :? v@5[ 42? 36 8C@FA65 :?E@ E9C66 3C@25 42E68@C:6D]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%96 7:CDE 42E68@CJ :D E96 ?2EFC2= H@C=5 H96C6[ :? E96 J62C `d__[ E96 ?2EFC2= H@C=5 H2D D66? 2D 8C2?5 2?5 4@?DE2?E E6DE:>@?J E@ E96 56D:8? 2?5 AFCA@D6 @7 v@5] {@@<:?8 :?E@ E96 4@D>@D[ E96C6 H2D ?@ BF6DE:@? H9@ >256 E96 >@@? 2?5 DE2CD 2?5 H9@ 4@?DE2?E=J <6AE E96 A=2?6ED :? A6C764E @C3:E2= >@E:@?]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`QmqFE E96 D4:6?E:7:4 C6G@=FE:@? 368:??:?8 :? E96 `fE9 46?EFCJ 6G6?EF2==J 82G6 A6@A=6 2 D4:6?E:7:4 E96@CJ 23@FE 9@H E96 >@@? 2?5 E96 DE2CD 42>6 :?E@ 36:?8 H:E9@FE E96 96=A @7 v@5] x? E92E H2J[ D4:6?46 82G6 A6@A=6 2? @AE:@? @7 36=:67]k^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%96 D64@?5 42E68@CJ :D E92E D@4:6EJ :ED6=7 H2D F?56CDE@@5 :? E96 J62C `d__ E@ 6I:DE 2D 36:?8 8C@F?565[ @C 2?49@C65[ :? D@>6E9:?8 9:896C E92? E96 24E:@?D @7 >2?] v@5[ :E D66>65[ H2D E:89E=J :?E6CH@G6? :?E@ 6G6CJ 2DA64E @7 D@4:6EJ] |2? @? 9:D @H?[ :E H2D E9@F89E[ 4@F=5 ?@E 92G6 @C82?:K65 E96>D6=G6D :?E@ AC@5F4E:G6 D@4:6E:6D[ 2?5 E96C6 H6C6 ?@ BF6DE:@?D 23@FE :E[ v@5’D 92?5 24E:G6=J 96=5 D@4:6EJ E@86E96C]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm|@56C? >2?[ @? E96 @E96C 92?5[ 4@?D:56CD D@4:6EJ 2?49@C65 2?5 8C@F?565 :? 9:D @H? 3C:==:2?46 2?5 :?5FDECJ[ 2?5 E92E >2? 2=@?6 :D E96 >2DE6C @7 9:D 56DE:?J] %92E :?56A6?56?E 2?5 2FE@?@>@FD >:?5D6E 3642>6 6DA64:2==J 6?EC6?4965 2D 2 C6DF=E @7 E96 p86 @7 t?=:89E6?>6?E :? E96 `gE9 46?EFCJ]k^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%96 E9:C5 42E68@CJ @7 E9:?8D E92E 92G6 492?865 D:?46 `d__ E92E :>A24E65 36=:67 :? v@5 :D E92E A6@A=6[ E96?[ C64@8?:K65 E92E E96J =:G65 :? 2? 6?492?E65 H@C=5] %96D6 E9C66 =:G65 42E68@C:6D[ H@C<:?8 E@86E96C[ A@:?E65 A6@A=6 =:G:?8 :? E96 J62C `d__ :?6D42A23=J E@H2C5 v@5]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm%2J=@C 2C8F6D :E H2D E96 FA6?5:?8 @7 E96D6 E9C66 >@56D @7 “v@5’D 76=E AC6D6?46” :? E96 H@C=5 E92E 92D F=E:>2E6=J =65 FD E@ H96C6 H6 2C6 E@52J] p=E9@F89 E96 564=:?6 :? 36=:67 :? v@5 :D 2? 6IEC6>6=J 4@>A=6I :DDF6[ x E9:?< %2J=@C :D DA@E @? H:E9 E96D6 E9C66 G6CJ 3C@25 42E68@C:6D @7 =:G65 2?5 76=E 492?86D E92E 92G6 @44FCC65 @G6C E96 =2DE d__ J62CD]k^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm*6E 282:?[ E96 BF6DE:@? AC6D6?ED :ED6=7i xD v@5 5625nkDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qmw@H 2 A6CD@? 2?DH6CD E92E BF6DE:@? :D 2 5:C64E C67=64E:@? @7 E92E A6CD@?’D H@C=5G:6H] tG6CJ@?6 92D 2 H@C=5G:6H] qFE E96 H@C=5G:6H @7 E96 r9C:DE:2? 2?5 E96 H@C=5G:6H @7 E96 2E96:DE 2C6[ :? >2?J H2JD[ G6CJ 5:776C6?E 7C@> @?6 2?@E96C] $@ 5:776C6?E[ 244@C5:?8 E@ D@>6[ E92E E96C6 42? 36 ?@ >62?:?87F= 4@?G6CD2E:@? 23@FE E96 6I:DE6?46 @7 v@5 36EH66? E96>] qFE E96C6 5@6D 6I:DE 36EH66? E96 36=:6G6C 2?5 E96 ?@?36=:6G6C D@>6 4@>>@? 8C@F?5]kDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qmr9C:DE:2?D 36=:6G6 E9:D 4@>>@? 8C@F?5 6I:DED 2D 2 C6DF=E @7 2== 9F>2?D 36:?8 4@>>@?=J 4C62E65 :? E96 :>286 @7 v@5 Wv6? `i ae\\afX] p?5 :E :D 7C@> E9:D D92C65 4@>>@? 8C@F?5 E92E 6G:56?46 7C@> 9:DE@CJ[ A9:=@D@A9J 2?5 D4:6?E:7:4 5:D4@G6CJ 42? 36 :?G6DE:82E65 E@ 96=A 2?DH6C @FC F=E:>2E6 BF6DE:@?i xD v@5 5625nkDA2? 4=2DDlQpAA=6\\4@?G6CE65\\DA246Qm k^DA2?mk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQDaQmw@H6G6C[ :? ECFE9[ E96 BF6DE:@? @7 H96E96C v@5 :D 5625 9:?86D FA@? H96E96C E96C6 :D[ @C 6G6C H2D[ 2 v@5 E@ 368:? H:E9] \"F:E6 D:>A=J[ 7@C v@5 E@ 36 5625[ 96 >FDE 92G6 7:CDE 6I:DE65] p?5 E9:D ECF=J :D E96 BF6DE:@?i s@6D v@5 6I:DEn $@[ E96?[ :E H@F=5 D66>[ 367@C6 FD =:6D 2 E2D< E@ 2?DH6C E96 BF6DE:@? @7 H96E96C v@5 6I:DED[ @?=J 92G:?8 2?DH6C65 E92E E:>6=6DD BF6DE:@? 42? H6 E96? 2?DH6C E96 BF6DE:@? @7 H96E96C H6 92G6 <:==65 9:>]k^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qmv=@C:2 :? 6I46=D:D s6@Pk^DA2?mk^Am\nkA 4=2DDlQA`QmkDA2? 4=2DDlQD`Qm k^DA2?mk^Am\nkA 4=2DDlQAaQmkDEC@?8m%J q] z6C=6J :D 2? @C52:?65 >:?:DE6C H9@ E62496D r9C:DE:2? 2A@=@86E:4D 2?5 C6=:67 AC62496D :? $@FE96C? ~<=29@>2] z6C=6J 2?5 9:D H:76[ ':4<:[ 2C6 >6>36CD @7 E96 (2FC:<2 r9FC49 @7 r9C:DE 2?5 =:G6 :? pC5>@C6[ ~<=29@>2] r@?E24E 9:> 2E k2 9C67lQ>2:=E@i5C]<6C=6Jo:Dv@55625]4@>Qm5C]<6C=6Jo:Dv@55625]4@>k^2m]k^DEC@?8mk^Am",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Religion and Belief->religious conflict",
+      "Religion and Belief->christianity",
+      "Religion and Belief->atheism and agnosticism"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Time",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-15T09:30:10.096+02:00",
+    "updated": "2025-02-15T09:30:10.096+02:00"
+  },
+  {
+    "uuid": "8506ef55be54619b8456b4d604f4cb9bf7ce7a7a",
+    "url": "https://www.elperiodicoextremadura.com/caceres-local/2023/12/29/policia-nacional-evita-robo-veintena-96365008.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ángel García Collado",
+    "published": "2023-12-29T11:27:00Z",
+    "title": "La Policía Nacional evita el robo en una veintena de viviendas de la zona de El Rodeo de Cáceres",
+    "text": "Agentes de la Policía Nacional adscritos a la Comisaría Provincial de Cáceres procedieron en la madrugada del pasado 23 de diciembre a la detención de dos hombres, de 22 y 47 años, como presuntos responsables de un delito de robo con fuerza en viviendas en grado de tentativa. Han sido puestos a disposición judicial. Se tuvo conocimiento a través de una llamada en la que el requiriente informaba de que en su urbanización había observado a dos hombres desconocidos con una actitud sospechosa. Fue en la zona de 'El Rodeo'.\nLa detención\nLos agentes se desplazaron hasta la zona de forma inmediata, localizando a dos personas que coincidían con la descripción que les había sido aportada. Tras ser identificados y realizar un cacheo de seguridad, entre sus pertenencias se localizaron numerosos útiles que coincidían en los utilizados habitualmente en el robo con fuerza en viviendas. Al mismo tiempo, otra dotación policial comprobó como las puertas de una veintena de viviendas de la urbanización estaban marcadas con un hilo de pegamento. Esto les permitía comprobar en días posteriores si la vivienda está o no habitada para cometer el robo en el interior de los domicilios.\nEntre los efectos intervenidos hay: teléfonos móviles, linternas, dos juegos de llaves, guantes y gorros negros, ganzúas, dos botes de pegamento adhesivo, jeringuillas con adhesivo en su interior y una bolsa con otras jeringuillas aún vacías.\nLos agentes procedieron a la detención de estos hombres como presuntos responsables de un delito de robo con fuerza en grado de tentativa y fueron trasladados hasta dependencias policiales.\nColaboración ciudadana\nLa Policía Nacional ha querido agradecer la colaboración ciudadana: \"Fue clave para el desarrollo de este operativo, ya que se detectó rápidamente la presencia de personas extrañas merodeando la urbanización\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:29:27.714+02:00",
+    "updated": "2023-12-29T14:29:27.714+02:00"
+  }
+]

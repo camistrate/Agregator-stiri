@@ -1,0 +1,311 @@
+[
+  {
+    "uuid": "6dff17aef54666fccac230dba5c0f074e6294893",
+    "url": "https://www.thestar.com.my/news/world/2025/03/13/int039l-amber-jewelry-fair-showcases-baltic-amber",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cui Li,Zhang Zhang",
+    "published": "2025-03-13T00:45:18Z",
+    "title": "Int'l amber, jewelry fair showcases Baltic amber | The Star",
+    "text": "WARSAW, March 12 (Xinhua) -- The AMBERIF Spring 2025 trade fair, a leading European event for jewelry and amber, opened Wednesday in Gdansk, Poland, attracting global exhibitors and designers.\nRunning through March 14, the event highlights Baltic amber craftsmanship, with a fashion and jewelry showcase on opening day and a public open day for art students on Friday.\nAMBERIF strengthens Gdansk's legacy as a global amber hub, blending commerce with centuries-old tradition.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Social Issue->demographics",
+      "Social Issue->social services",
+      "Social Issue->diversity, equity and inclusion"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T02:45:18.602+02:00",
+    "updated": "2025-03-13T02:45:18.602+02:00"
+  },
+  {
+    "uuid": "ee735864a8f0523feb24022ef16625bfc735eb98",
+    "url": "https://www.dzwww.com/xinwen/guojixinwen/gjsx/202508/t20250814_16341500.htm",
+    "ord_in_thread": 0,
+    "author": "liyunxia",
+    "published": "2025-08-14T05:54:19Z",
+    "title": "爆料：美国秘密在芯片货物中安了追踪器_国际时讯_大众网",
+    "text": "长安街知事\n据环球时报8月13日消息，最近，国家网信办就美国英伟达算力芯片漏洞后门安全风险约谈该公司问题受到关注。与此同时，越来越多美国给芯片安“后门”的内幕也被曝光。\n8月13日，路透社又刊发独家报道爆料，美国秘密在人工智能相关芯片中设置追踪器，以发现“芯片被转运至中国的情况”。\n路透社报道截图\n报道称，据两位知情人士透露，美国政府已秘密在他们认为有可能被转运至中国的先进芯片目标货物中植入位置追踪装置。知情人士称，这些措施“仅适用于部分受调查的货件”。追踪器可为美方搜集个人或机构违反出口管制的信息。\n位置追踪器是美国执法机构数十年来一直使用的一种调查工具，用于追踪受出口限制的产品，例如飞机零部件。\n另外五名人工智能服务器供应链相关人士表示，他们知道戴尔和超微 (Super Micro）的服务器货物中使用了这些追踪器，这些服务器中包含英伟达和AMD公司的芯片。这些人表示，追踪器通常隐藏在服务器的产品包装中。\n两名参与服务器供应链的人士描述，2024年的一个案例中，一批搭载英伟达芯片的戴尔服务器不仅运输箱上装有大型追踪器，还在包装内甚至服务器内部隐藏了更小、更隐蔽的追踪装置。\n消息人士称，负责监督出口管制和执法的美国商务部工业与安全局通常参与这类行动中，另外联邦调查局（FBI）等部门也可能参与其中。\n对于美国限制对华出口先进人工智能芯片相关问题，中国外交部发言人林剑11日表示，中方反对将科技和经贸问题政治化、工具化、武器化，反对对中国进行恶意封锁和打压的立场是一贯、明确的。这种做法扰乱全球产供链稳定，不符合任何一方利益。\n责编：\n审核：李云霞\n责编：李云霞",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->corporate crime",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Politics->government policy",
+      "Politics->international relations",
+      "Politics->electoral system",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T08:54:19.727+03:00",
+    "updated": "2025-08-14T09:09:46.000+03:00"
+  },
+  {
+    "uuid": "5344565fa5ba5a7516ec0bbc6b31d0399175e660",
+    "url": "https://www.eleconomista.es/salud-bienestar/ejercicios/noticias/13133187/12/24/los-ejercicios-fisicos-que-han-sorprendido-a-los-deportistas-por-provocar-mas-lesiones-estos-son.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "elEconomista.es",
+    "published": "2025-01-30T21:07:00Z",
+    "title": "Los ejercicios físicos que han sorprendido a los deportistas por provocar más lesiones: estos son",
+    "text": "Última hora en elEconomista.es15\nActualmente, son muchas las personas que parecen haber escuchado el consejo de los médicos de hacer actividad física para mejorar su salud. De hecho, practicar deportes -en función de los gustos de cada uno, claro está- puede ser un modo divertido de empezar a moverse.\nEn profundidad\nAhora bien, el lado negativo de participar en estas actividades deportivas son las lesiones. Aunque pueda parecer que no, los deportistas jóvenes corren un riesgo muy elevado de sufrir lesiones, ya que sus huesos, músculos, tendones y ligamentos aún están creciendo.\nLas lesiones relacionadas con los deportes pueden ir desde raspones y moretones hasta lesiones graves en el cerebro y la médula espinal. Eso sí, lo más común, sobre todo en los más pequeños, son los esguinces y las torceduras, las lesiones por movimientos repetitivos y las enfermedades relacionadas con el calor.\nA tener en cuenta\nAnte este panorama, son muchos los españoles y españolas que se preguntan cuáles son los deportes que provocan más lesiones. Pues bien, los estudios con el paso de los años lo tienen bastante claro: el running, el crossfit y el fútbol.\nLa probabilidad de lesión, cabe destacar, se mide en función de las que ocurren por cada 1.000 horas de práctica de una actividad. En crossfit, las investigaciones aseveran que es de 3.1 por cada 1.000 horas de entrenamiento, en fútbol no profesional está entre 2,3 y 7,6, y en el running, entre 2,5 y 12,1.\n¿Esto significa que hay que tener miedo a practicar estos deportes? Desde luego que no. Es más, no hace falta practicar cualquier de los tres citados anteriormente para lesionarse; basta, por ejemplo, con subir o bajar escaleras, algo cotidiano que solemos hacer a diario.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Health->medical condition",
+      "Health->injury",
+      "Health->health treatment and procedure",
+      "Social Issue->social problem",
+      "Social Issue->communities",
+      "Social Issue->social services",
+      "Lifestyle and Leisure->exercise and fitness"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T03:10:02.492+02:00",
+    "updated": "2025-01-31T03:10:02.492+02:00"
+  },
+  {
+    "uuid": "cdd705e5c73fcc71d30483284aa56ca0362de84f",
+    "url": "https://theprint.in/world/paks-islamic-educational-institute-issues-fatwa-declaring-tiktok-as-illegal-and-haram/1898926/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2023-12-24T04:02:00Z",
+    "title": "Pak's Islamic educational institute issues Fatwa declaring TikTok as 'Illegal and Haram' – ThePrint – ANIFeed",
+    "text": "Home World Pak's Islamic educational institute issues Fatwa declaring TikTok as 'Illegal and Haram' World Pak’s Islamic educational institute issues Fatwa declaring TikTok as ‘Illegal and Haram’ ANI 24 December, 2023 02:32 pm IST Facebook Twitter WhatsApp Linkedin Representative Image Text Size: A- A+\nKarachi [Pakistan], December 24 (ANI): Jamia Binoria Town, a prominent religious school in Karachi, the capital of Sindh province, has issued a fatwa (a religious decree) declaring the use of TikTok illegal and haram, terming it the biggest temptation of the modern era, Pakistani vernacular media reported.\nIn Fatwa No. (144211200409), the institution outlined ten reasons supporting its stance.\nShow Full Article\nIn the past, religious scholars have been calling for a ban on TikTok as a reason for spreading immorality, and a partial ban has also been imposed on TikTok time and again in Pakistan, Dawn News TV reported.\nThe fatwa, delivered online by Jamia Binoria, asserts that TikTok poses an increasing danger as a fitna (temptation) in the present age and is considered illegal and haram from a Shariah perspective.\nAmong the reasons cited, the app’s inclusion of photos and videos of animals is deemed forbidden in Sharia, and the creation and dissemination of obscene videos by women on the platform is highlighted, Dawn News TV report added.\nFurthermore, the fatwa condemns the practice of men and women on TikTok making videos involving dancing and singing, which is viewed as a means of spreading obscenity and nudity, deemed a waste of time and leading to moral decay.\nJamia Banoria’s fatwa underscores that TikTok not only contains videos that mock scholars and religion but is a platform where everything can be subjected to mockery and ridicule.\nAccording to the fatwa, as reported by Dawn News TV, engaging with TikTok inevitably involves participating in activities that are considered sinful in Sharia, making it nearly impossible to avoid falling into such transgressions. Consequently, the fatwa declares the use of TikTok impermissible.\nWith over 39 million downloads in 2022 alone, TikTok, owned by China-based ByteDance, is under increasing scrutiny and calls for bans worldwide, including in Pakistan, according to data from Sensor Tower, a mobile and digital analytics firm, The Express Tribune reported.\nEarlier this year, a petition was filed in the Lahore High Court, urging a ban on the TikTok application. The petition highlighted concerns about the platform’s perceived detrimental effects on the youth of society, adding to the growing chorus of voices advocating for restrictions.\nIn 2021, the Pakistan Telecommunication Authority imposed a five-month ban on the video-sharing app from July to November. The ban was lifted after TikTok provided assurances that it would enhance measures to control indecent or immoral content on the platform, The Express Tribune reported. (ANI)\nThis report is auto-generated from ANI news service. ThePrint holds no responsibility for its content.\nSubscribe to our channels on YouTube & Telegram\nSupport Our Journalism\nIndia needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.\nSustaining this needs support from wonderful readers like you.\nWhether you live in India or overseas, you can take a paid subscription by clicking here .\nSupport Our Journalism\nTags Facebook Twitter WhatsApp Linkedin LEAVE A REPLY Cancel Comment: Please enter your comment! Name:* Please enter your name here Email:* You have entered an incorrect email address! Please enter your email address here Save my name, email, and website in this browser for the next time I comment.\nΔ\nMost Popular IMA welcomes lower jail term for medical negligence, but it’s fighting for total ‘decriminalisation’ Sumi Sukanya Dutta - 24 December, 2023 Cross 50% vote share in 2024 — Modi sets a new target for BJP Shanker Arnimesh - 24 December, 2023 Forget blush. Try tomatoes, carrots, peppers for skin glow Deepali Bhardwaj - 24 December, 2023",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.facebook.com/plugins/like.php?href=https://theprint.in/world/paks-islamic-educational-institute-issues-fatwa-declaring-tiktok-as-illegal-and-haram/1898926/&layout=button_count&show_faces=false&width=105&action=like&colorscheme=light&height=21",
+      "https://t.me/ThePrintIndia",
+      "https://api.whatsapp.com/send?text=Pak%E2%80%99s+Islamic+educational+institute+issues+Fatwa+declaring+TikTok+as+%E2%80%98Illegal+and+Haram%E2%80%99",
+      "https://www.youtube.com/ThePrintIndia/?sub_confirmation=1",
+      "https://www.youtube.com/ThePrintIndia/",
+      "https://www.api.whatsapp.com/send?text=Pak%E2%80%99s+Islamic+educational+institute+issues+Fatwa+declaring+TikTok+as+%E2%80%98Illegal+and+Haram%E2%80%99",
+      "https://facebook.com/plugins/like.php?href=https://theprint.in/world/paks-islamic-educational-institute-issues-fatwa-declaring-tiktok-as-illegal-and-haram/1898926/&layout=button_count&show_faces=false&width=105&action=like&colorscheme=light&height=21",
+      "https://youtube.com/ThePrintIndia/?sub_confirmation=1",
+      "https://www.facebook.com/plugins/like.php",
+      "https://api.whatsapp.com/send",
+      "https://www.t.me/ThePrintIndia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "haram",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pak",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jamia binoria",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fatwa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jamia binoria town",
+          "sentiment": "none"
+        },
+        {
+          "name": "dawn news tv",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "karachi",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "sindh province",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T11:28:03.097+02:00",
+    "updated": "2023-12-24T12:09:07.499+02:00"
+  },
+  {
+    "uuid": "f726546bf0f47ca80e4cb2aefff6998f45717114",
+    "url": "https://www.vaticannews.va/es/iglesia/news/2024-09/iglesias-de-oriente-medio-condenan-el-conflicto-armado.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vatican News",
+    "published": "2024-09-26T17:45:00Z",
+    "title": "Iglesias de Oriente Medio condenan el conflicto armado en el Líbano",
+    "text": "Iglesias de Oriente Medio condenan el conflicto armado en el Líbano\nAriana Pernía Paolini – Ciudad del Vaticano\nEl Consejo de Iglesias de Oriente Medio (MECC, Middle East Council of Churches) se pronunció este martes ante el conflicto armado que acaece en el Líbano, el cual “se ha convertido en una agresión generalizada contra diversas regiones libanesas, con el resultado del martirio de miles de ciudadanos”.\nEl órgano eclesiástico, con presencia en 14 países en la Región del Medio Oriente y Norte de África, condenó enérgicamente a través del comunicado “el asesinato de personas inocentes, niños, mujeres, ancianos y otros civiles” y lamentó los ataques efectuados por las fuerzas agresoras “contra zonas densamente pobladas que han causado la muerte de unas 500 personas en un solo día y el desplazamiento de cientos de miles de ciudadanos”.\nPor tal motivo, el MECC llevó a cabo una reunión de emergencia en Beirut, presidida por el secretario general, el Dr. Michel Abs, con el objetivo de estudiar la situación de emergencia que acontece en el Líbano y Levante, supervisar las necesidades humanitarias urgentes y “tomar medidas que garanticen la continuación del trabajo en caso de que se produzca una escalada de la seguridad y gravedad de las condiciones de vida”.\nEn este sentido, el MECC exhortó a la comunidad internacional a intervenir prontamente y a emitir “una posición clara de condena de los crímenes de guerra cometidos contra la población civil mediante el lanzamiento de incursiones, así como de la destrucción sistemática de bienes y la interrupción del suministro de alimentos y material sanitario”.\nDel mismo modo, los asistentes a la reunión debatieron sobre las formas de apoyar a las familias en distintos niveles, a la vez que elogiaron la “solidaridad humana nacional de la cual la sociedad libanesa ha sido testigo desde el inicio de los atentados”; a este respecto, el Consejo decidió establecer una célula de emergencia para “monitorear las necesidades, hacer un seguimiento de las cuestiones logísticas sobre el terreno y seguir la situación de las familias desplazadas de sus zonas, apoyándolas tanto en el plano humano como en el de los medios de subsistencia”.\nAl mismo tiempo, decidieron apoyar “a los medios de comunicación en cuestiones humanitarias para poner de relieve el sufrimiento y las necesidades de las familias”, a fin de poder visibilizar las tragedias que afectan a los ciudadanos del Líbano. Finalmente, “todos rezaron por la paz, la verdad y la justicia, y porque se acallen las voces de guerra que siembran muerte y destrucción”.\nGracias por haber leído este artículo. Si desea mantenerse actualizado, suscríbase al boletín[ pulsando aquí](/es/inscripcion-boletin-de-noticias.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T00:32:14.438+03:00",
+    "updated": "2024-09-27T00:32:14.438+03:00"
+  },
+  {
+    "uuid": "c65205dd5e44094cab5bdb23d516893f92673646",
+    "url": "https://france3-regions.francetvinfo.fr/hauts-de-france/oise/creil/affaire-shaina-une-association-apporte-son-soutien-a-la-famille-pour-un-lieu-d-hommage-a-creil-shaina-est-un-symbole-2897693.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anas Daif",
+    "published": "2023-12-29T10:02:00Z",
+    "title": "Affaire Shaïna : une association apporte son soutien à la famille pour un lieu d'hommage à Creil : \"Shaïna est un symbole\"",
+    "text": "À l'heure où la pétition pour avoir un lieu d'hommage à Shaïna a atteint les 37 000 signatures, l'association Mouv'Enfants qui lutte contre les violences faites aux enfants a pris la parole publiquement pour soutenir la famille. Pour eux, la jeune fille tuée à l'âge de 15 ans un est \"un symbole pour différentes raisons\".\n\"Bien sûr que Shaïna est un symbole\" , lance Arnaud Gallais, cofondateur de Mouv'Enfants, qui lutte contre toutes les formes de violences faites aux enfants, invité du 19/20 de France 3 Picardie le 28 décembre. L'association a décidé de prendre position et de soutenir publiquement la famille de Shaïna qui réclame depuis le meurtre de l'adolescente en 2019 un lieu d'hommage. Le grand frère de la victime, Yasin Hansye, a lancé une pétition en ligne qui cumule plus de 37 000 signatures en moins d'un mois.\n\"C'est un symbole pour différentes raisons , poursuit-il. Déjà, parce que les violences faites aux enfants sont bien souvent des violences sexuées : vous regardez les violences sexuelles, par exemple, 80 % des victimes sont des filles\" . Et par la suite, une majorité de femmes sont victimes de violences \"avec les féminicides\" .\nVoici en 2023 comment on rend hommage à Shaïna assassinée\nCreil restera l’une des plus pires villes de France\nHonte à la @Ville_de_Creil les élus et le maire à avoir tenu de fausses promesses devant les caméras tv\nMerci de partagé au max ma pétition\nhttps://t.co/9q1ri5a6IN pic.twitter.com/LLCGtijMMA\n— Yasin Hansye (@moicestyasin) December 4, 2023 \"Le maire s'était engagé il y a déjà 3-4 ans\" Pour Arnaud Gallais, ce qui est essentiel dans cette histoire, c'est l'engagement du maire \"il y a déjà 3, 4 ans, à ce que le nécessaire soit fait, et ce qui est quand même terrible dans cette histoire, une fois de plus, c'est que ce sont les victimes, les familles de victimes qui quémandent quelque chose\" .\nC'est ce qui pousse l'association à venir en soutien de la famille de Shaïna, \"en disant qu'à un moment donné, c'est inacceptable, insupportable, et je pense qu'on demande simplement aussi un peu de dignité pour les victimes et que cette famille puisse enfin vivre son deuil, on trouve ça vraiment affolant\" , déplore-t-il. Le maire, de son côté, affirmait début décembre se tenir à disposition de la famille .\nMouv'Enfants est un mouvement de survivants et de survivantes de violences durant leur enfance, et nous tiendrons bon aux côtés de la famille de Shaïna.\nArnaud Gallais, co-fondateur de Mouv'Enfants\nLe drame du meurtre de Shaïna est \"symptomatique\" de ce que peuvent vivre \"dans ce pays de nombreuses filles, femmes, et pour nous, c'est pour ça qu'il faut que le nécessaire soit fait, et il en revient, à notre sens, au maire de Creil de faire le nécessaire assez rapidement\" afin de montrer l'exemple à d'autres.\n\"On voit bien qu'il y a un peu de résistance\" Selon Arnaud Gallais, au niveau des violences faites aux enfants, aux adolescents ou aux femmes, les choses ne changent pas toujours dans le bon sens et l'évolution se fait en dents de scie. \"On le voit bien actuellement avec l'affaire Depardieu, on voit bien qu'il y a un peu de résistance, on ne va pas se mentir\" , admet-il.\nNéanmoins, il estime \"qu'on s'organise de plus en plus, et on est là avec Mouv'Enfants pour dire que nous, survivants, survivantes et les alliés, on est là pour que les choses changent pour de bon pour les enfants, pour les générations à venir\" . D'où leur soutien pour la famille de Shaïna.\nhttps://t.co/9q1ri5a6IN\n— Yasin Hansye (@moicestyasin) December 5, 2023 La société française prend-elle pour autant la mesure de ces violences ? \"On prend la mesure. Je pense qu'on a entendu qu'il y avait un problème\" mais il n'y a \"pas suffisamment\" d'actions mises en place. \"On est quand même en retard par rapport à d'autres pays, ajoute-t-il. Je dirais qu'on prend la demi-mesure de ce qui se passe\" .\nPour le cofondateur de l'association, s'il y a des choses mises en place, elles ne sont pas suffisantes. \"Vous voyez, dans cette histoire, on pourrait même imaginer que la déléguée interministérielle, Alexandra Louis, puisse se saisir de cette affaire-là\" , suggère-t-il.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://t.co/9q1ri5a6IN",
+      "https://www.change.org/p/n-oublions-pas-sha%C3%AFna-hansye-poignard%C3%A9e-et-br%C3%BBl%C3%A9e-vive-%C3%A0-l-%C3%A2ge-de-15-ans-%C3%A0-ville-de-creil)",
+      "https://change.org/p/n-oublions-pas-sha%C3%AFna-hansye-poignard%C3%A9e-et-br%C3%BBl%C3%A9e-vive-%C3%A0-l-%C3%A2ge-de-15-ans-%C3%A0-ville-de-creil)",
+      "https://www.t.co/9q1ri5a6IN"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:03:44.364+02:00",
+    "updated": "2023-12-29T13:19:45.718+02:00"
+  }
+]

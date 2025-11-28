@@ -1,0 +1,148 @@
+[
+  {
+    "uuid": "12d4b9c05bf104b5f43f73ea2b77286551cfc7b6",
+    "url": "https://siliconangle.com/2024/02/01/cloudflare-atlassian-server-hacked-suspected-nation-state-attacker",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Duncan Riley",
+    "published": "2024-02-02T00:15:00Z",
+    "title": "Cloudflare Atlassian server hacked by suspected nation-state attacker - SiliconANGLE",
+    "text": "Cloudflare Inc. disclosed today that one of its internal Atlassian servers was hacked by a suspected nation-state attacker in November and provided details of what occurred so that others know the risks.\nThe hack in question was detected on Nov. 23, Thanksgiving Day in the U.S., with Cloudflare’s security team immediately cutting off the threat actor’s access and launching an investigation. Realizing that the breach was more than minor, CrowdStrike brought in its Forensic team on Nov. 26 to perform an independent analysis.\nThe release today includes the findings from the Forensic team’s report. The report found that between Nov. 14 and 17, a threat actor undertook reconnaissance and then accessed Corwdstrike’s internal wiki, which uses Atlassian Corp.’s Confluence and its bug database, powered by Atlassian Jira. Further activity was found on Nov. 20 and 21, with the threat actor believed to have returned to test access to ensure they had connectivity.\nThe threat actor then returned on Nov. 22 and established persistent access to the Atlassian server using ScriptRunner for Jira, gained access to Crowdflare’s source code management system, which uses Atlassian Bitbucket and tried unsuccessfully to access a console server that had access to a data center that Cloudflare had not yet put into production in São Paulo, Brazil.\nWhere it gets interesting is how the threat actor gained access – they did so through one access token and three service account credentials that had been compromised in the October breach of Okta Inc. To its absolute credit, Cloudflare admits it was a mistake as they had failed to change the access following the Okta hack. All threat actor access and connections were then terminated on Nov. 24.\nIt is noted by Cloudflare that no customer data or systems were impacted by the event. Cloudflare’s security, including access controls, firewall rules, hard security keys and zero trust tools, limited the attacker’s ability to move laterally across the network. No services were interrupted and no changes need to be made to global network systems or configurations.\nThe only data the threat actor was able to access during that time was on the Atlassian server. It was found that the attacker was looking for information about the architecture, security and management of Cloudflare’s global network, likely looking for a way to gain a deeper foothold.\nIn response to the attack, Cloudflare has now, out of a sense of caution, rotated every production credential – over 5,000 individual credentials, physically segment-tested all staging systems, performed forensic triages on 4,893 systems and reimaged and rebooted every machine in its global network, including all Atlassian products – Jira, Confluence and Bitbucket.\n“This was a security incident involving a sophisticated actor, likely a nation-state, who operated in a thoughtful and methodical manner,” Cloudflare concludes. “The efforts we have taken to ensure that the ongoing impact of the incident was limited and that we are well-prepared to fend off any sophisticated attacks in the future.”\nPhoto: HaeB/Wikimedia Commons",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://blog.cloudflare.com/thanksgiving-2023-security-incident",
+      "https://www.blog.cloudflare.com/thanksgiving-2023-security-incident"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "atlassian jira",
+          "sentiment": "none"
+        },
+        {
+          "name": "jira",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "siliconangle cloudflare inc.",
+          "sentiment": "negative"
+        },
+        {
+          "name": "atlassian corp.",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T02:16:45.303+02:00",
+    "updated": "2024-02-02T02:16:45.303+02:00"
+  },
+  {
+    "uuid": "6fbbda7831f19dd9222f7eea2e333b8e7deb23bc",
+    "url": "https://malayalam.samayam.com/latest-news/kerala-news/kerala-rain-news-imd-issues-orange-and-yellow-alerts-in-some-districts-on-today/articleshow/116287512.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ദീപു ദിവാകരൻ",
+    "published": "2024-12-13T10:40:00Z",
+    "title": "Kerala Rainfall Alert IMD Issues Warnings for Several Districts Today - മൂന്ന് ജില്ലകളിൽ അതിശക്തമായ മഴയ്ക്ക് സാധ്യത, ഓറഞ്ച് അലേർട്ട്; ആറ് ജില്ലകളിൽ യെല്ലോ അലേർട്ട്",
+    "text": "മൂന്ന് ജില്ലകളിൽ അതിശക്തമായ മഴയ്ക്ക് സാധ്യത, ഓറഞ്ച് അലേർട്ട്; ആറ് ജില്ലകളിൽ യെല്ലോ അലേർട്ട് Authored by ദീപു ദിവാകരൻ | Samayam Malayalam 13 Dec 2024, 3:40 pm Follow Subscribe സംസ്ഥാനത്ത് അതിശക്തമായ മഴയ്ക്ക് സാധ്യതയെന്ന് കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ്. തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട ജില്ലകളിൽ അതിശക്തമായ മഴയ്ക്ക് സാധ്യതയുള്ളതിനാൽ ഓറഞ്ച് അലേർട്ട് പ്രഖ്യാപിച്ചു. ആലപ്പുഴ, കോട്ടയം, എറണാകുളം, ഇടുക്കി, തൃശൂർ, കോഴിക്കോട് ജില്ലകളിൽ ശക്തമായ മഴയ്ക്ക് സാധ്യതയെന്ന് മുന്നറിയിപ്പ്. ഈ ജില്ലകളിൽ യെല്ലോ അലേർട്ട് പ്രഖ്യാപിച്ചു. ഹൈലൈറ്റ്: മൂന്ന് ജില്ലകളിൽ ഇന്ന് അതിശക്തമായ മഴയ്ക്ക് സാധ്യത. തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട ജില്ലകളിൽ ഓറഞ്ച് അലേർട്ട്. ആറ് ജില്ലകളിൽ ശക്തമായ മഴയ്ക്ക് സാധ്യത. പ്രതീകാത്മക ചിത്രം. തിരുവനന്തപുരം: സംസ്ഥാനത്ത് മൂന്ന് ജില്ലകളിൽ ഇന്ന് അതിശക്തമായ മഴയ്ക്ക് സാധ്യതയെന്ന് കേന്ദ്ര കാലാവസ്ഥ വകുപ്പ്. തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട ജില്ലകളിലാണ് മഴ മുന്നറിയിപ്പ്. ജില്ലകളിൽ ഓറഞ്ച് അലേർട്ട് പ്രഖ്യാപിച്ചു. ആലപ്പുഴ, കോട്ടയം, എറണാകുളം, ഇടുക്കി, തൃശൂർ, കോഴിക്കോട് ജില്ലകളിൽ ശക്തമായ മഴയ്ക്ക് സാധ്യതയുള്ളതിനാൽ യെല്ലോ അലേർട്ടും പ്രഖ്യാപിച്ചു. ഓറഞ്ച് അലേർട്ട്\n13/12/2024: തിരുവനന്തപുരം, കൊല്ലം, പത്തനംതിട്ട യെല്ലോ അലേർട്ട്\n13/12/2024: ആലപ്പുഴ, കോട്ടയം, എറണാകുളം, ഇടുക്കി, തൃശൂർ, കോഴിക്കോട് 17/12/2024: ഇടുക്കി, തൃശൂർ, പാലക്കാട്, മലപ്പുറം Allu Arjun: നടൻ അല്ലു അർജുൻ അറസ്റ്റിൽ, പുഷ്പ 2 ന്‍റെ പ്രീമിയറിനിടെ സ്ത്രീ മരിച്ച സംഭവത്തിലാണ് നടപടി\nമത്സ്യത്തൊഴിലാളികൾക്ക് ജാഗ്രതാ നിർദേശം\nകേരള - ലക്ഷദ്വീപ് തീരങ്ങളിൽ ഇന്ന് (13/12/2024); മത്സ്യബന്ധനത്തിന് പോകാൻ പാടില്ലെന്നും; കർണാടക തീരങ്ങളിൽ ഇന്ന് (13/12/2024) മത്സ്യബന്ധനത്തിന് തടസമില്ലെന്നും കേന്ദ്ര കാലാവസ്ഥാ വകുപ്പ് അറിയിച്ചു.\nഇന്ന് (13/12/2024): കേരള - ലക്ഷദ്വീപ് തീരങ്ങളിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത.\nNirmal Lottery Result Today: ഇന്നത്തെ 70 ലക്ഷം ഈ ടിക്കറ്റിന്, പോക്കറ്റിലുണ്ടോ? നിർമൽ ലോട്ടറി ഫലം പുറത്ത്\nപ്രത്യേക ജാഗ്രതാ നിർദേശം (മത്സ്യബന്ധനം പാടില്ല)\n13/12/2024: കന്യാകുമാരി പ്രദേശം, ഗൾഫ് ഓഫ് മന്നാർ, തമിഴ്നാട് തീരം എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത.\n14/12/2024: ആൻഡമാൻ കടലിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത.\n15/12/2024: തെക്കു കിഴക്കൻ ബംഗാൾ ഉൾക്കടൽ അതിനോട് ചേർന്ന പ്രദേശങ്ങൾ, ആൻഡമാൻ കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത.\nകോയമ്പത്തൂരിൽ നിന്ന് കോഴിക്കോട് വഴി മംഗലാപുരത്തേക്ക് ഇന്‍റർസിറ്റി; റെയിൽവേ മന്ത്രിയ്ക്ക് മുന്നിൽ ആവശ്യം\n16/12/2024: തെക്കൻ ബംഗാൾ ഉൾക്കടലിന്റെ മധ്യ ഭാഗങ്ങൾ അതിനോട് ചേർന്ന മധ്യ ബംഗാൾ ഉൾക്കടൽ എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത.\n17/12/2024: ഗൾഫ് ഓഫ് മന്നാർ അതിനോട് ചേർന്ന കന്യാകുമാരി പ്രദേശം, തെക്കു പടിഞ്ഞാറൻ ബംഗാൾ ഉൾക്കടൽ അതിനോട് ചേർന്ന മധ്യ പടിഞ്ഞാറൻ ബംഗാൾ ഉൾക്കടൽ തമിഴ്നാട് തീരം എന്നിവിടങ്ങളിൽ മണിക്കൂറിൽ 35 മുതൽ 45 കിലോമീറ്റർ വരെയും ചില അവസരങ്ങളിൽ മണിക്കൂറിൽ 55 കിലോമീറ്റർ വരെയും വേഗതയിൽ ശക്തമായ കാറ്റിനും മോശം കാലാവസ്ഥയ്ക്കും സാധ്യത. ഓതറിനെ കുറിച്ച് ദീപു ദിവാകരൻ ദീപു ദിവാകരൻ സമയം മലയാളത്തിലെ സീനിയര്‍ ഡിജിറ്റൽ കണ്ടൻ്റ് പ്രൊഡ്യൂസര്‍ ആണ്. എംജി സര്‍വകലാശാലയിൽനിന്നു രസതന്ത്രത്തിൽ ബിരുദവും കോട്ടയം പ്രസ് ക്ലബ്ബിൽനിന്നു ജേര്‍ണലിസത്തിൽ പിജി ഡിപ്ലോമയും നേടിയ ദീപു മംഗളം ഓൺലൈനിലാണ് മാധ്യമപ്രവര്‍ത്തനം ആരംഭിച്ചത്. 2018 ഓഗസ്റ്റ് മുതൽ സമയം മലയാളത്തിനൊപ്പം. നിലവിൽ സമയത്തിൻ്റെ ജനറൽ ന്യൂസ് വിഭാഗത്തിൽ പ്രവര്‍ത്തിച്ചുവരുന്നു. ... കൂടുതൽ വായിക്കൂ Follow",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/search?for=malayalam+samayam&hl=ml&gl=IN&ceid=IN%3Aml",
+      "https://navbharattimes.indiatimes.com/youtubesubscribe.cms?channelid=UCozaoypPySB4MKUi19p2HDA",
+      "https://static.langimg.com/thumb/67415762/Samayam",
+      "https://photogallery.navbharattimes.indiatimes.com/dmp_orion.cms?msid=116287512&sec=kerala-news&secmsid=48235209&wapCode=malayalam&apikey=malaweba5ec97054033e061&rvMsid=51632329&isXpVdo=mly&isAmp=false",
+      "https://dealspakki.com/inArticleAdvertorial.htm?host=mly&platform=desktop&subsec1=48237651&subsec2=48235209",
+      "https://navbharattimes.indiatimes.com/youtubesubscribe.cms",
+      "https://photogallery.navbharattimes.indiatimes.com/dmp_orion.cms",
+      "https://www.static.langimg.com/thumb/67415762/Samayam",
+      "https://www.news.google.com/search?for=malayalam+samayam&hl=ml&gl=IN&ceid=IN%3Aml",
+      "https://www.photogallery.navbharattimes.indiatimes.com/dmp_orion.cms?msid=116287512&sec=kerala-news&secmsid=48235209&wapCode=malayalam&apikey=malaweba5ec97054033e061&rvMsid=51632329&isXpVdo=mly&isAmp=false",
+      "https://www.dealspakki.com/inArticleAdvertorial.htm?host=mly&platform=desktop&subsec1=48237651&subsec2=48235209",
+      "https://dealspakki.com/inArticleAdvertorial.htm",
+      "https://www.navbharattimes.indiatimes.com/youtubesubscribe.cms?channelid=UCozaoypPySB4MKUi19p2HDA",
+      "https://news.google.com/search"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T13:01:31.151+02:00",
+    "updated": "2024-12-13T13:01:31.151+02:00"
+  },
+  {
+    "uuid": "724e21c53de1aeff9143767dbabf8e741d4d5db1",
+    "url": "https://www.univision.com/local/tampa-wvea/shows/la-voz-de-la-manana/a-abrigarse-muy-bien-frio-extremo-y-fuertes-lluvias-en-eeuu-en-los-proximos-dias-video",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Univision",
+    "published": "2024-12-12T13:28:00Z",
+    "title": "Se prevé frío extremo y fuertes lluvias en EEUU en los próximos días | Shows La Voz de la Mañana | Univision",
+    "text": "null: nullpx\nA Bordo\nDelicioso\nDeportes\nFútbol\nLiga MX\nUEFA Champions\nBoxeo\nEstadísticas\nEstilo de Vida\nFamosos\nHoróscopos\nTu ciudad\nNoticias\nAmérica Latina\nCoronavirus\nEstados Unidos\nNews in English\nPolítica\nInmigración\nMundo\nUforia\nVix\nNoticias\nShows\nFamosos\nDeportes\nLifestyle\nRadio\nShop\n51ºF\nTodo\nLotería\nEl Tiempo\nLocal 24/7\nRepórtalo\nTrabajos\nComunidad\nQuiénes somos\nVideo\nCargando Video...\nA abrigarse muy bien: frío extremo y fuertes lluvias en EEUU en los próximos días\nDe acuerdo con los pronósticos del tiempo, en los próximos días las personas en el este de Estados Unidos experimentarán un descenso notorio en las temperaturas debido al aire Ártico. Asimismo, en el oeste del país se prevén fuertes lluvias y nieve hasta el lunes de la próxima semana.\nNo dejes de ver:\nImágenes de la destrucción que deja el incendio Franklin en Malibú, California\n.\nPor:\nUnivision\n,\nPublicado 12 Dic 2024 – 08:28 AM EST | Actualizado 12 Dic 2024 – 09:12 AM EST\nComparte\nCargando Playlist...\nEstás viendo\nLA VOZ DE LA MAÑANA\nA abrigarse muy bien: frío extremo y fuertes lluvias en EEUU en los próximos días\n2:21",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T06:40:55.703+02:00",
+    "updated": "2024-12-13T06:40:55.703+02:00"
+  }
+]

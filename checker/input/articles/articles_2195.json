@@ -1,0 +1,483 @@
+[
+  {
+    "uuid": "3e49b9c451af87fe483d247f0857d09e3804a601",
+    "url": "https://www.crikey.com.au/2024/02/02/israel-gaza-artificial-intelligence-war-crimes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alice Osborne",
+    "published": "2024-02-01T12:25:00Z",
+    "title": "Israel is using AI in Gaza. Who (or what) is responsible for war crimes?",
+    "text": "It [came to light last year](https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/) that the Israel Defence Forces (IDF) is using an artificial intelligence-based system called “Habsora” (Hebrew for “The Gospel”) to generate targets for its strikes in Gaza at an astonishing rate. The IDF says on its [website](https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%94%D7%A4%D7%A6%D7%95%D7%AA/%D7%9E%D7%9C%D7%97%D7%9E%D7%94-%D7%9E%D7%98%D7%A8%D7%95%D7%AA-%D7%A9%D7%94%D7%95%D7%AA%D7%A7%D7%A4%D7%95-%D7%9B%D7%95%D7%97%D7%95%D7%AA-%D7%A6%D7%94-%D7%9C-%D7%90%D7%92%D7%A3-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%97%D7%99%D7%9C-%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%97%D7%99%D7%9C-%D7%94%D7%99%D7%9D/) that it uses “artificial intelligence systems” to produce targets “at a fast pace”. One of the most important rules of international humanitarian law (IHL, otherwise known as the law of armed conflict) is that “indiscriminate attacks”, which are those that strike military objectives and civilians or civilian objects (like homes, schools and hospitals) without distinction, are absolutely prohibited.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/",
+      "https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%94%D7%A4%D7%A6%D7%95%D7%AA/%D7%9E%D7%9C%D7%97%D7%9E%D7%94-%D7%9E%D7%98%D7%A8%D7%95%D7%AA-%D7%A9%D7%94%D7%95%D7%AA%D7%A7%D7%A4%D7%95-%D7%9B%D7%95%D7%97%D7%95%D7%AA-%D7%A6%D7%94-%D7%9C-%D7%90%D7%92%D7%A3-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%97%D7%99%D7%9C-%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%97%D7%99%D7",
+      "https://idf.il/%D7%90%D7%AA%D7%A8%D7%99-%D7%99%D7%97%D7%99%D7%93%D7%95%D7%AA/%D7%99%D7%95%D7%9E%D7%9F-%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94/%D7%9B%D7%9C-%D7%94%D7%9B%D7%AA%D7%91%D7%95%D7%AA/%D7%94%D7%A4%D7%A6%D7%95%D7%AA/%D7%9E%D7%9C%D7%97%D7%9E%D7%94-%D7%9E%D7%98%D7%A8%D7%95%D7%AA-%D7%A9%D7%94%D7%95%D7%AA%D7%A7%D7%A4%D7%95-%D7%9B%D7%95%D7%97%D7%95%D7%AA-%D7%A6%D7%94-%D7%9C-%D7%90%D7%92%D7%A3-%D7%94%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F-%D7%97%D7%99%D7%9C-%D7%94%D7%90%D7%95%D7%95%D7%99%D7%A8-%D7%97%D7%99%D7",
+      "https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza",
+      "https://972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "israel defence forces",
+          "sentiment": "negative"
+        },
+        {
+          "name": "idf",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ihl",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:47:50.640+02:00",
+    "updated": "2024-02-09T03:29:37.601+02:00"
+  },
+  {
+    "uuid": "8b96ada7772c06e66ed7e0ca02ba7e38d19a6c02",
+    "url": "https://n.yam.com/Article/20250724417649",
+    "ord_in_thread": 0,
+    "author": "澳門銀河",
+    "published": "2025-07-24T03:20:00Z",
+    "title": "銀河娛樂集團隆重首獻「Bruno Moinard 意象境界」 - 「藝文薈澳：澳門國際藝術雙年展2025 」特展",
+    "text": "銀河娛樂集團隆重首獻「Bruno Moinard 意象境界」 — 「藝文薈澳：澳門國際藝術雙年展2025 」特展\n於「銀河藝萃」沉浸式呈現法國殿堂級創作巨匠Bruno Moinard精雕藝術之旅\n澳門特別行政區 - Media OutReach Newswire - 2025年7月24日 - 銀河娛樂集團（下稱「銀娛」）今天於「澳門銀河™」綜合度假城旗下的「銀河藝萃」隆重揭幕「Bruno Moinard 意象境界」 — 「藝文薈澳：澳門國際藝術雙年展2025 」（下稱「藝文薈澳」）特展，即日起至2025年12月31日引領觀眾走進享譽國際的法國國寶級室內設計大師 Bruno Moinard 的創意宇宙，探索大師級藝術家背後的靈感與匠心。此為 Moinard首度在澳門舉辦個人作品展，超過300件原創作品首度亮相，當中包括手繪速寫、設計手稿及油畫作品，更首度發表其工作室Moinard Betaille為即將開幕之全套房式酒店澳門銀河 嘉佩樂操刀、將頂級奢旅體驗提升至全新高度的定製設計概念。\n開幕禮榮幸邀得中央人民政府駐澳門特別行政區聯絡辦公室宣傳文化部副部長白冰女士、澳門特區政府文化局副局長鄭繼明先生、旅遊局副局長程衛東先生、教育及青年發展局教育資源廳廳長鄧偉強先生，以及展覽策展人及藝術家Moinard出席，並與銀河娛樂集團董事程裕昇先生共同主禮見證這場藝術盛事。\n鄭繼明副局長在開幕致辭中表示：「2019年以來，特區政府攜手六大綜合度假休閒企業，悉心打造『藝文薈澳』這個城市藝術節慶品牌，成為澳門的一張亮麗名片。銀娛的特展呈獻法國設計大師Bruno Moinard作品，更首次揭曉他與搭檔為澳門銀河即將開幕的酒店量身定制的空間設計，令人期待。感謝是次特展中每一位參與者的熱情與專業，成就了這場國際級的藝文盛會，更為澳門文化事業的長遠發展注入了源源不斷的動力。讓我們攜手以藝術為媒，書寫澳門文化的新篇章，共同打造一個更加開放、充滿活力、具國際影響力的文化交流舞台。」\n程裕昇先生於致辭中表示：「衷心感謝澳門特別行政區文化局一直以來的支持，讓銀娛得以自『藝文薈澳』開展以來，第四度參與這項大型國際文化藝術盛會。透過今次與國際知名室內設計大師 Bruno Moinard攜手策劃這個別具意義的展覽，將世界級的藝術家和頂尖設計師作品帶到澳門，銀娛希望能進一步助力豐富本澳的文化藝術底蘊，支持澳門『以中華文化為主流，多元文化共存的交流合作基地』的建設。」\nBruno Moinard先生表示：「這次『Bruno Moinard意象世界』展覽，誠摯地邀請各位走進這個看不見的創作空間，繪畫、設計、室內建築、場景藝術等不同領域的作品在此對話交融，共同訴說著我對世界的理解。今次能在『藝文薈澳』這個國際級平台上，於『銀河藝萃』呈現這次展覽，我感到無比榮幸。特別感謝銀河藝萃團隊的鼎力支持，亦衷心感謝銀河娛樂集團主席呂耀東先生的信任與遠見，以及他對推動澳門及國際當代藝術發展的堅定承諾。」\nMoinard擅長將傳統法國工藝與當代美學巧妙地融為一體，憑藉精湛的工匠精神，使其於2010年獲授予法國國家榮譽軍團騎士勳位。與此同時，展覽亦慶祝其職業創作生涯30周年、及其同名設計品牌Bruno Moinard Éditions成立12周年誌慶。作為國際知名的法國室內建築師、場景設計師及畫家的Moinard亦是澳門銀河 嘉佩樂的設計軍師之一，為獲獎無數、集多個精巧酒店品牌於一身的澳門銀河再添耀目亮點。\n「Bruno Moinard 意象境界」全面呈現 Moinard作為獨立藝術家與超凡設計師的多重身份以及多元創意才能，讓觀眾深入了解其成獨樹一幟的設計理念，同時展示全球各大標誌性奢華建築和空間背後的藝術思維。展覽透過多幅當代畫作、攝影作品及多媒體創作，從頂尖奢華設計到日常奢華風格的作品，展現直覺與靈感的脈動。\n此外，展覽亦會首度公開其與創作夥伴 Claire Betaille 共同創立的設計工作室 Moinard Betaille 為澳門銀河 嘉佩樂構思的全新設計概念，展現二位對「客製化奢華品味」的堅持，藉此創出建基於文化、社區、傳統和傳承的共同語言，打造優雅獨特、經典不朽的非凡奢華體驗。\n為進一步推動藝術文化普及，銀娛特別邀請 Moinard 於訪問「澳門銀河」期間，舉辦社區藝術活動。今天（23日），近20名來自澳門理工大學、澳門青年美術協會、澳門視覺藝術教師協會及銀娛青少年成就計劃的本地藝術愛好者及專業人士參與了Moinard主持的藝術分享會，透過與領先世界的當代藝術及設計家深度對話，讓參與者進一步拓寬國際藝術視野，推動本地藝術社群在相關領域的交流。\n「Bruno Moinard 意象境界」現正於「澳門銀河」銀河時尚匯1樓「銀河藝萃」展出，展期至2025年12月31日，開放時間為每日上午10時至晚上10時，免費入場。\n了解「澳門銀河」的更多訊息，請瀏覽www.galaxymacau.com\nHashtag: #GalaxyMacau #澳門銀河\n發佈者對本公告的內容承擔全部責任\n有關 「澳門銀河」 綜合度假城\n「澳門銀河™」世界級奢華綜合度假城打造全世界最多元化的娛樂及綜合旅遊度假熱點。整個項目的總投資額高達430億港元，佔地110萬平方米，為澳門帶來嶄新的休閒娛樂設施。 「澳門銀河」雲集8家世界知名豪華酒店，包括澳門悦榕庄、「銀河酒店™」、澳門大倉酒店、澳門JW萬豪酒店、澳門麗思卡爾頓酒店、「百老匯酒店」、澳門銀河 萊佛士以及澳門安達仕酒店，共提供約5,000 間豪華客房、奢華套房及別墅。天浪淘園佔地75,000平方米，設有全球最長 575 米空中激流、能掀起1.5米人造海浪的空中衝浪池、全150米的白沙灘，以及澳門首個高達9米的刺激滑水天梯衝天激流。兩間五星級國際水療品牌─澳門悦榕SPA和澳門麗思卡爾頓水療中心讓賓客煥發心靈、徹底放鬆。\n「澳門銀河」其他設施包括超過120個餐飲選擇，涵蓋米芝蓮星級體驗及地道美食，以多元風 味、獨特體驗及頂級食材打造「舌尖品亞洲 峰味聚銀河」的餐飲體驗; 面積超過10萬平方米的銀河時尚匯，雲集了超過200個國際時尚豪華品牌，為客人提供從高端精品旗艦店到潮流時尚生活、精彩多元的品牌選擇，是追求全新時尚與創意體驗的潮流熱點，及購物的人氣之選；極具規模的 3D影城「銀河影院」設有10間影院，以4K鐳射映畫打造無可比擬的電影體驗；以上海流金歲月為設計靈感的頂級娛樂聖殿【紅伶】，在華麗典雅的氛圍下呈獻醉人娛樂表演；悠然自足以傳統手法帶領賓客領略養生奧秘恢復活力。從「澳門銀河」穿過設有空調的行人天橋，90秒即可直達「澳門百老匯」，零距離體驗最地道的澳門特色及亞洲魅力。百老匯美食街搜羅了 35 種澳門及亞洲地道特色美食，從街頭小吃至老字號餐廳，每家店的招牌名菜都令人難忘。設有約2,500個座位的百老匯舞台匯聚世界級表演盛事。「澳門銀河」備有獨特完善的活動場地，專業的服務團隊為賓客籌辦不同類型的會議展覽活動。\n銀河國際會議中心（GICC）為澳門會展業開啟新篇章，同時拓展集團在澳門的度假城版圖。其會展空間總面積達40,000平方米，並設有16,000座位、全澳最大的室内綜藝館─銀河綜藝館。\n詳情請瀏覽 www.galaxymacau.com, www.broadwaymacau.com.mo及www.galaxyicc.com。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->art exhibition",
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->visual arts",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->holiday",
+      "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.galaxymacau.com",
+      "https://www.media-outreach.com/",
+      "https://www.galaxyicc.com/",
+      "https://www.galaxymacau.com/",
+      "https://www.broadwaymacau.com.mo/",
+      "https://galaxymacau.com/",
+      "https://galaxyicc.com/",
+      "https://broadwaymacau.com.mo/",
+      "https://galaxymacau.com",
+      "https://media-outreach.com/",
+      "https://www.galaxymacau.com",
+      "https://www.media-outreach.com",
+      "https://www.broadwaymacau.com.mo",
+      "https://www.galaxyicc.com"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:38:58.406+03:00",
+    "updated": "2025-07-24T07:43:23.000+03:00"
+  },
+  {
+    "uuid": "11eeebd699e8462526fa9a3e1b0a62f90134b265",
+    "url": "https://fontsinuse.com/uses/61223/blessed-in-the-mess-how-to-experience-god-s-g",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bryson Stohr",
+    "published": "2024-06-02T20:16:00Z",
+    "title": "Blessed in the Mess: How to Experience God’s Goodness in the Midst of Life’s Pain by Joyce Meyer",
+    "text": "Blessed in the Mess: How to Experience God’s Goodness in the Midst of Life’s Pain by Joyce Meyer Contributed by Bryson Stohr on Jun 2nd, 2024. Artwork published in 2022. Source: www.amazon.com License: All Rights Reserved. The cover artwork for Joyce Meyer’s Blessed in the Mess: How to Experience God’s Goodness in the Midst of Life’s Pain, which is a book about finding peace and blessing amongst life’s hardships. The title of the book is set in Lydia, Colophon’s digital revival of Lydian’s bold condensed style. The secondary typeface is Brandon Grotesque. Typefaces Formats Books (5530) Topics Literature (2567) Religion/Spirituality (343) Designers/Agencies unknown (3359) Tagged withJoyce Meyer (1)book covers (4887)contrasting typefaces (396)FaithWords (1)all caps (6061)center-aligned text (1582)reversed type on an image (1027)image masking type (113) Artwork location United States (8432) Post a comment Name Email – will not be published Website Your response Submit Comment More Lydia (Colophon) in use Beloved Stranger titles and credits2018TreintayaseisNina SansRafa GoicoecheaContributed by Florian Hardwig Nike Jordan Gotta Shine event & sticker2017GallagherDerrick C. LeeContributed by Gareth Hague The Catholic School by Edoardo Albinati2019Rodrigo CorralAbby KaganContributed by Florian Hardwig Sponsor More in Religion/Spirituality Series of Bible translationsc. 2015muflon studioContributed by muflon studio The Colmanaires – The Colmanaires of Washington, D.C. album art1971Loring EutemeyContributed by Florian Hardwig In the Name of the Image, Museum Rietbergc. 2022Rüdiger SchlömerContributed by Nouvelle Noire The Little Book of Bhakti-Yoga2006Christoffer LekaKaisa LekaMåns BrooContributed by Christoffer Leka Staff Pick More in Books Baukunst monograph2020Olivier BertrandOlivier LamyContributed by 205TF Petronius: The Satyricon (Mentor Books MD 283)1960unknownPhoto(s) by Steve on Flickr. E. E. Cummings: Complete Poems 1904–19622013Contributed by Stephen Coles Briefe aus Norwegen by Isidora Sekulićc. 2019Pauline AltmannChristian ThanhäuserContributed by Frode Helland (Monokrom Skriftforlag) More Fonts In Use Eastman Jazz Ensemble – Live! album art1976Bruce MarshContributed by Florian Hardwig Staff Pick Battle of Vimy Ridge Visitor Education Centre2017cl designContributed by Production Type Staff Pick Soulful Sessions2021Tijsje RevalkContributed by Anastasia Balashova (Contrast Foundry) Staff Pick Flexe2021One Design CompanyContributed by David Sieren Staff Pick",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joyce meyer blessed",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joyce meyer con",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joyce meyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "bryson stohr",
+          "sentiment": "none"
+        },
+        {
+          "name": "brandon grotesque",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "lydia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-03T00:10:11.017+03:00",
+    "updated": "2024-06-03T00:10:11.017+03:00"
+  },
+  {
+    "uuid": "5fbae8e74b72c4eb7143914aed029d397a140635",
+    "url": "https://www.kompasiana.com/kanopi_febui/674b0cfa34777c0e61679e92/journey-through-time-make-labor-union-sexy-again",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kanopi FEBUI",
+    "published": "2024-11-30T13:02:00Z",
+    "title": "Journey Through Time: Make Labor Union Sexy Again Halaman 1 - Kompasiana.com",
+    "text": "At the height of the United States Port strike, the media's representation of the situation gave a bad light on strikes and unions. They call the strikers greedy while creating a story that this strike would be cataclysmic to the economy. On the other hand, they demanded a basic right to protect themselves. They gathered and unionized their power to voice their concern to the firms.\n\"I'm going to fight for it because those greedy companies are making billions of dollars and they don't want to share.\"\n-Harold Daggett\nWhile unions today are considered weak, it's not always been like that. Historically, unions in the United States have been a formidable force in shaping labor rights. But now, their appearance is declining every year. Where are they now and should we bring them back?\nThe Beginning\nEven though the labor movement in the United States had already appeared in 1619, labor unions really started in 1866 when The National Labor Union was founded in Baltimore, Maryland. Their movement became the beginning of the campaign for an 8-hour workday. Over the next decades, it became more and more widespread with the progressive campaign of Theodore Roosevelt in 1912 and the Adamson Act in 1916 (Terrel, 2020)\nOn October 24, 1929, the stock market crashed and the United States entered the Great Depression. unemployment reached 25%, wage was halved, and productivity dropped to its lowest point. In March 1930, hundreds of thousands of unemployed workers marched through New York City, Detroit, Washington, San Francisco, and other cities in a mass protest (FDR library, n.d.).\nPresident Herbert Hoover seemed to do little to stop the crisis. In a widespread backlash over his weak leadership, which caused voters to overwhelmingly elect Franklin D. Roosevelt in 1932. Roosevelt ushered in a broad range of economic programs designed to improve conditions under the aegis of the \"New Deal.\"(FDR library, n.d.).\n\"Employees shall have the right to organize and bargain collectively through representative of their own choosing, and shall be free from the interference, restraint, or coercion of employers.\"\n-National Labor Relations Act 1935\nHALAMAN : 1 2 3 4 5",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://widget.kompas.com/survey/226?separator=survey__separator",
+      "https://widget.kompas.com/survey/226",
+      "https://www.widget.kompas.com/survey/226?separator=survey__separator"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Labor Union",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Port",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-30T15:19:04.632+02:00",
+    "updated": "2024-11-30T15:19:04.632+02:00"
+  },
+  {
+    "uuid": "8a6028e4d29ce90396ede1ef66544f9c0048b485",
+    "url": "https://www.advfn.com/stock-market/stock-news/95533057/billiontoones-pioneering-study-demonstrates-100-a",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "advfn.com",
+    "published": "2025-02-27T18:17:00Z",
+    "title": "BillionToOne's Pioneering Study Demonstrates 100% Accuracy for Non-Invasive Fetal RhD Detection in US Population",
+    "text": "Peer reviewed research published in Green Journal shows BillionToOne's NGS technology excels in testing diverse US populations\nMENLO PARK, Calif. , Feb. 27, 2025 /PRNewswire/ -- BillionToOne, a molecular diagnostics company with a mission to create powerful and accurate tests that are accessible to all, announced today the groundbreaking results from a recent large US-based clinical study demonstrating 100% accuracy in its non-invasive prenatal test (NIPT) for fetal RhD status. This is BillionToOne's third peer reviewed study of its fetal antigen assay, and the second published in The Journal of Obstetrics and Gynecology, the official journal of the American College of Obstetricians and Gynecologists (ACOG), also known as \"The Green Journal,\" which showcases the accuracy and clinical validity of BillionToOne's fetal RhD NIPT.\nApproximately 15% of pregnant individuals in the US are RhD-negative. However, in ~40% of these pregnancies, the fetus is also RhD-negative, making RhoGAM administration unnecessary. To date, BillionToOne has conducted RhD testing on 469 participants through clinical validation studies, while providing over 150,000 commercial RhD tests to patients nationwide.\nThis study demonstrates that BillionToOne's proprietary next-generation sequencing (NGS) with Quantitative Counting Template™ (QCT™) technology provides conclusive results with 100% accuracy. BillionToOne's study included all samples, including difficult to identify variants such as RHDѰ and RHD-C-DE , which are often excluded in other studies; therefore, it reflected true clinical performance. Across 401 pregnancies, the test achieved 100% sensitivity, specificity, positive predictive value, and negative predictive value when compared to the ground-truth neonatal RhD serology.\n\"This study provides compelling evidence that our QCT™ technology can revolutionize prenatal care for RhD-negative individuals in the US,\" said Jennifer Hoskovec , VP of Medical Affairs at BillionToOne. \"Our approach accurately determines fetal RhD status even in the presence of complex genetic variants, representing a significant advancement over existing methodologies.\"\nA critical differentiator of BillionToOne's technology is its unique ability to detect challenging RhD variants that other commercial tests typically exclude. The study demonstrated 100% accuracy in identifying fetal RHDѰ variants, found in approximately 25% of Black Rh-negative individuals, and RHD-CE-D hybrid variants. Other commercially available fetal RhD NIPTs are unable to detect the fetal RhD status when these variants are present in the pregnant individual, limiting applicability in a general obstetric population. This capability is particularly crucial for ensuring accurate testing across diverse populations, especially in the US.\nThe research demonstrates clinical validity, with healthcare providers already implementing the test results to guide RhoGAM administration. The study observed a significant reduction in unnecessary RhoGAM administration for pregnancies with RhD-negative fetuses as clinician confidence in the test grew over time.\nThis third major fetal antigen publication from BillionToOne follows a recent ACOG clinical practice advisory update supporting the use of non-invasive cell-free DNA screening for fetal RhD during the RhoGAM shortage, and also as an option in alloimmunized pregnancies when amniocentesis is declined. These ACOG updates cited BillionToOne's previous studies.\n\"By accurately identifying fetal RhD status, we can avoid unnecessary RhoGAM administration in approximately 40% of patients carrying RhD-negative fetuses,\" said first author of the study, Dr. Julio Mateus Nino , MD, Maternal & Fetal Medicine. \"BillionToOne's QCT™ technology also provides critical information for patients with RhD alloimmunization, giving physicians the tools to guide antenatal management based on actual fetal genotype rather than assumption. This is a meaningful advancement in personalized prenatal care that benefits both patients and healthcare systems.\"\nAbout BillionToOne\nHeadquartered in Menlo Park, California , BillionToOne is a precision diagnostics company on a mission to make molecular diagnostics more accurate, efficient, and accessible for all. The company's patented Quantitative Counting Template™ (QCT™) molecular counting platform is the only multiplex technology that can accurately count DNA molecules at the single-molecule level as early as 9 weeks gestation. For more information, please visit www.billiontoone.com.\nMedia Contact: billiontoone@moxiegrouppr.com\nMateus-Nino, Julio F. MD; Wynn, Julia MS, MS; Wiggins-Smith, Jenny MD; Bryant, J. Brett MD; Citty, J. Kris MD; Citty, J. Kyle MD; Ahuja, Samir MD; Newman , Roger MD. Clinical Performance of Cell-Free DNA for Fetal RhD Detection in RhD-Negative Pregnant Individuals in the United States . Obstetrics & Gynecology ():10.1097/AOG. 5850, February 27, 2025 . | DOI: 10.1097/AOG. 5850\nView original content:https://www.prnewswire.com/news-releases/billiontoones-pioneering-study-demonstrates-100-accuracy-for-non-invasive-fetal-rhd-detection-in-us-population-302388055.html\nSOURCE BillionToOne\nCopyright 2025 PR Newswire",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Health->medical test",
+      "Health->health treatment and procedure",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.prnewswire.com/news-releases/billiontoones-pioneering-study-demonstrates-100-accuracy-for-non-invasive-fetal-rhd-detection-in-us-population-302388055.html",
+      "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+      "https://www.static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+      "https://prnewswire.com/news-releases/billiontoones-pioneering-study-demonstrates-100-accuracy-for-non-invasive-fetal-rhd-detection-in-us-population-302388055.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "8a6028e4d29ce90396ede1ef66544f9c0048b485",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:34:07.663+02:00",
+    "updated": "2025-02-28T01:34:07.663+02:00"
+  },
+  {
+    "uuid": "8f5ccde647852e0eb39377256e41e539c15dc30f",
+    "url": "https://www.thueringer-allgemeine.de/lokales/eichsfeld/article409238361/kleine-eichsfelder-sind-landessieger.html",
+    "ord_in_thread": 0,
+    "author": "Sigrid Aschoff",
+    "published": "2025-06-12T07:00:00Z",
+    "title": "Kleine Eichsfelder sind Landessieger",
+    "text": "Eichsfeld. Kindergartenkinder aus Leinefelde beteiligen sich an einem bundesweiten Wettbewerb der Handwerkskammer. Sie holen sich mehr als nur einen Titel.\nTextToSpeechModule\nEichsfeld. Kindergartenkinder aus Leinefelde beteiligen sich an einem bundesweiten Wettbewerb der Handwerkskammer. Sie holen sich mehr als nur einen Titel.\nKennen Sie schon unsere PLUS-Inhalte?\n Jetzt\nTA\ntesten",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Education"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->early childhood education",
+      "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Leinefelde",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "TextToSpeechModule\nEichsfeld",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": null,
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:05:35.582+03:00",
+    "updated": "2025-06-12T07:25:43.000+00:00"
+  },
+  {
+    "uuid": "6aa6002abdf11536dff87b4fd646d11f979120b2",
+    "url": "https://housing.com/news/kuber-yantra-vastu-benefits-activation-and-placement-direction/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Harini Balasubramanian",
+    "published": "2023-12-29T04:03:00Z",
+    "title": "Kuber Yantra Vastu benefits, activation and direction for placement",
+    "text": "According to the Vedic scriptures, Kuber, also known as Kubera or Kuberan, is the god of wealth and the king of Yakshas, a class of nature spirits. According to Vastu Shastra, Kuber rules the north direction associated with wealth and career. To attract wealth and protect the existing wealth, Vastu experts suggest keeping a Kuber Yantra in homes and office areas. In this article, we share tips to activate and place the Kuber Yantra and discuss its benefits and uses. What is Kuber Yantra? Kuber Yantra is a geometric diagram or a symbol characterised by simple geometric forms arranged symmetrically, representing Lord Kuber. The yantra is ideally made from metal. However, one can keep an image of the Kuber Yantra at home but the interaction of the paper with the elements around may not be the same as in the case of a metal. Thus, a metal yantra is always preferred. The Kuber Yantra is specifically designed to boost the flow of wealth and prosperity in life. By worshipping the Kuber Yantra, one can attract positive vibrations and abundance in life. Source: Pinterest (vedicvaani.com) See also: [Vastu yantra](https://housing.com/news/vastu-yantra/) for home: Benefits and correct placement at home Where should you place the Kuber Yantra? The Kuber Yantra must be placed in the Vastu-recommended direction to attract maximum benefits and invite the blessings of Lord Kubera. - The north, east or northeast directions are the ideal Vastu direction for keeping a Kuber Yantra. - If you are keeping the yantra in the north or northeast direction, place it facing towards the south. - If you are placing the Kubera Yantra in the east, keep it facing the west direction. The yantra gets energised by the rays of the rising Sun and the positive energies of the east corner. Choose an elevated platform, such as a table, for placing the Kubera Yantra. Make sure that the area is clean and dust-free. If you have a Kubera Yantra as an image, hang it on a wall. Pooja room The puja room is the ideal location for a Kubera Yantra. It will attract positive energies and ensure financial well-being. Cash locker or safe One can keep the Kubera Yantra inside a locker at home or in the office. It is the place for keeping important documents, cash and valuable items. Keeping the Kubera Yantra here can boost the energy of the accumulated wealth and safeguard it from negative forces. Entrance area You can keep the Kubera Yantra in the home or office entrance or reception area. Business or financial area If there is a space in your home for financial or business activities, such as a home office or study, keep a Kubera Yantra at this location to invite success, growth and business opportunities. How to use the Kuber Yantra? - Install the Kubera Yantra in the Vastu-recommended direction. The yantra is believed to energise the area where it is placed. - Praying on the Kubera Yantra evokes positive vibrations and attracts Choose a dedicated time of the day for praying and chanting the Kuber Mantra to seek the deity’s blessings. Light a ghee lamp (diya) and incense sticks before worshipping. - Meditation while praying or chanting the mantra is considered beneficial. Focus on realising the financial goals and thank the deity while visualising the realisation of the goals. How to activate Kuber Yantra? According to Vastu, one should activate the Kubera Yantra before placing and worshipping it. - Purchase the Kubera Yantra and place it in a vessel. - Wrap the yantra in a cloth. - Keep the vessel with the yantra near or inside the mandir. - Take a bath to cleanse yourself. Take Gangajal, water and milk in different vessels. - Take the Kubera Yantra from the cloth and keep it on an elevated seat. - Offer water to the Kubera Yantra with your hands. - Pour or rub the Kubera Yantra with Gangajal and milk. - Clean the yantra. Chant the mantra and offer prayers to Lord Kubera. How to worship Kuber Yantra? - Cleanse yourself. - Consider a quiet, clean and clutter-free area facing the east, preferably the puja room. - Keep the Kubera Yantra near the gods associated with the Yantra. - Draw four dots using sandalwood paste on the four corners of the Kubera Yantra. - Light a diya and incense sticks near the deities. - Offer flowers or fruit by placing them near the yantra. - Take rose water in a small pot and fresh leaves from the tree. - Sprinkle water on yourself and then on the yantra. - Chant the Kubera Mantra 21 times and seek blessings from the god. - Express your wishes and request the deities to fulfil them. Kuber Yantra: Vastu benefits - Financial benefits: Keeping a Kubera Yantra in the Vastu-recommended location increases the flow of finances and boosts financial stability. It elevates positive energies in financial transactions, promoting monetary gains. - Wealth accumulation: The Kubera Yantra boosts wealth accumulation over time. It enriches one’s financial management skills and creates a favourable environment for long-term prosperity. - Safeguards wealth: The Kubera Yantra is a protector of wealth from the evil eye. - Boosts career growth: The Kubera Yantra attracts new income opportunities and opens doors for career growth. - Tackles financial losses: According to Vastu, worshipping a Kubera Yantra is beneficial for those suffering from financial losses. It empowers an individual with decision-making in financial matters. - Influence of Jupiter (Brihaspati): Kubera Yantra brings the influence and positive energies of the planet Jupiter or Brihaspati/ This brings success in one’s professional life. What is Lakshmi Kuber Yantra? While Lord Kuber is the god of material wealth and prosperity, Goddess Lakshmi is associated with auspiciousness, happiness, spiritual fulfilment, fortune and prosperity. Lord Kuber is the custodian and distributor of wealth generated by Goddess Lakshmi. According to Vastu, one can keep a Lakshmi Kuber Yantra to invite the blessings of Goddess Lakshmi and Lord Kubera. In the case of Kuber Yantra, one must chant only the mantras to invoke Lord Kubera’s blessings. For the Lakshmi Kuber Yantra, invite the blessings of both Goddess Lakshmi and Lord Kuber. While one should place a Kuber Yantra mainly in the northeast direction, a Lakshmi Kuber Yantra can be placed in the east or north direction. FAQs What is the yantra for money? You can keep a Lakshmi Kuber Yantra to attract wealth, fortune and prosperity in the house. What is Kuber Yantra used for? A Kuber Yantra is used to attract wealth and prosperity in the house. Can we keep Kuber Yantra at home? You can keep a Kuber Yantra if you are looking to boost finances. Can we gift Kuber Yantra? One can gift a Kuber Yantra as it is considered auspicious. How do you pray to Kuber Yantra? Place the Kuber Yantra in the pooja room. Draw four dots with sandalwood paste. Light a diya and incense sticks and offer flowers. Take rose water in a small pot and fresh leaves from the tree. Sprinkle water on yourself and then on the yantra. Chant the Kuber Mantra, Om Hreem Shreem Hreem Kuberaya Namaha, 21 times. How to activate Kuber Yantra? To activate the Kuber Yantra, wash it with Gangajal, milk and water. Offer prayers and worship the Yantra. |Got any questions or point of view on our article? We would love to hear from you. Write to our Editor-in-Chief Jhumur Ghosh at | Harini is a content management professional with over 12 years of experience. She has contributed articles for various domains, including real estate, finance, health and travel insurance and e-governance. She has in-depth experience in writing well-researched articles on property trends, infrastructure, taxation, real estate projects and related topics. A Bachelor of Science with Honours in Physics, Harini prefers reading motivational books and keeping abreast of the latest developments in the real estate sector. Email: balasubramanian.harini@housing.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kubera",
+          "sentiment": "negative"
+        },
+        {
+          "name": "vastu",
+          "sentiment": "none"
+        },
+        {
+          "name": "yantra",
+          "sentiment": "none"
+        },
+        {
+          "name": "vastu shastra",
+          "sentiment": "none"
+        },
+        {
+          "name": "kuber yantra",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kuber yantra vastu",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kuber",
+          "sentiment": "none"
+        },
+        {
+          "name": "lord kuber",
+          "sentiment": "none"
+        },
+        {
+          "name": "kuber yantra",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:01:43.319+02:00",
+    "updated": "2023-12-29T14:01:43.319+02:00"
+  },
+  {
+    "uuid": "c53918ac1a2e997906b02840c26006f417409c38",
+    "url": "https://www.ansa.it/sito/notizie/economia/pmi/2023/12/30/pomilio-blumm-bonus-welfare-da-1.300-euro-ai-dipendenti_46712a68-1506-47bf-9da0-bf25eb443274.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agenzia ANSA",
+    "published": "2023-12-30T00:00:00Z",
+    "title": "Pomilio Blumm, bonus welfare da 1.300 euro ai dipendenti - PMI - Ansa.it",
+    "text": "L'agenzia di comunicazione istituzionale Pomilio Blumm conclude il 2023 con un bonus straordinario di 1.300 euro per dipendenti e collaboratori, distribuendo un terzo degli utili come stabilito dall'iniziativa Blumm Share. L'agenzia contribuirà inoltre all'ambiente: dopo avere donato un visore notturno al Parco Nazionale d'Abruzzo, Lazio e Molise (Pnalm), nel 2024 saranno acquistate fototrappole per il monitoraggio faunistico e le attività di polizia giudiziaria. La conferma è arrivata all'Aurum, luogo iconico della famiglia Pomilio nel quale si sono ritrovati gli oltre 200 componenti del gruppo che si preparano alla grande sfida del G7 nel 2024 in Italia, che vivrà un evento prestigioso a Pescara con il meeting su cooperazione e sviluppo annunciato dal ministro degli Esteri, Antonio Tajani. Celebrati i successi internazionali, il presidente Franco Pomilio evidenzia la crescita riconosciuta da ICCO e Forbes, annunciando misure di 'smart living' come lo smart working. \"Vogliamo continuare il nostro percorso di crescita - ha spiegato - e dare al tempo stesso un contributo concreto anche all'ambiente e in particolare al nostro territorio» Nel corso dell'anno, come annunciato nei mesi scorsi, è stato acquistato grazie al contributo dei dipendenti di Pomilio Blumm integrato dalla proprietà della società, un visore notturno per il Pnalm, utilizzato per le attività di cattura degli orsi in free ranging. Con questo strumento è stato possibile individuare due orse confidenti, Licia e Petra, attualmente monitorate con il radiocollare. Inoltre, dopo la morte dell'orsa Amarena, il visore notturno è stato impiegato per il monitoraggio a distanza dei due cuccioli rimasti orfani. Riproduzione riservata © Copyright ANSA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T14:18:02.673+02:00",
+    "updated": "2023-12-30T14:18:02.673+02:00"
+  },
+  {
+    "uuid": "b07297e2cbeebf47c0ea4a2ab465d7bb6e1d090b",
+    "url": "https://www.sdpnoticias.com/estados/guerrero/que-esta-pasando-en-acapulco-hoy-viernes-29-de-diciembre/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pamela Grande",
+    "published": "2023-12-29T14:20:00Z",
+    "title": "¿Qué está pasando en Acapulco hoy viernes 29 de diciembre?",
+    "text": "A 65 días desde que el [huracán Otis tocó tierra en Acapulco](https://www.sdpnoticias.com/estados/tormenta-tropical-otis-hoy-24-de-octubre-trayectoria-se-mantiene-al-sur-de-guerrero-y-se-convertiria-en-huracan-categoria-1/), Guerrero, los municipios continúan con los trabajos para atender la emergencia hoy jueves 28 de diciembre. La Fiscalía General el Estado mantiene las cifras oficiales hasta la fecha y resalta que hay [ 52 muertos y 32 desaparecidos](https://www.sdpnoticias.com/mexico/cuantas-personas-murieron-en-acapulco-por-el-huracan-otis-surgen-terribles-reportes/); la última persona localizada sin vida hasta el momento es Mauricio Adrián Bibiano Ochoa, de 22 años de edad, capitán del yate “Vida”. El gobierno federal continúa este viernes 29 de diciembre con la entrega de apoyos directos en los municipios de Acapulco y Coyuca de Benítez; el presidente Andrés Manuel López Obrador (AMLO) visitó Guerrero para supervisar los avances. [Diputada Selene Ávila, de Morena, estalla contra su propia bancada por no destinar recursos para Acapulco](/mexico/diputada-selene-avila-de-morena-estalla-contra-su-propia-bancada-por-no-destinar-recursos-para-acapulco/) [NASA revela las impactantes imágenes satelitales de Acapulco tras el huracán Otis](/estados/guerrero/nasa-revela-las-impactantes-imagenes-satelitales-de-acapulco-tras-el-huracan-otis/) [Claudia Anaya acusa a Morena de usar los víveres donados por la Cámara de Senadores como suyos](/mexico/claudia-anaya-acusa-a-morena-de-usar-los-viveres-donados-por-la-camara-de-senadores-como-suyos/) [¿Quién era José Andrés Soberano Mellado, el piloto naval que murió en el yate AcaRey de Acapulco?](/estados/guerrero/quien-era-jose-andres-soberano-mellado-el-piloto-naval-que-murio-en-el-yate-acarey-de-acapulco/) [Adela Micha se compromete a reconstruir 10 casas en Acapulco](/mexico/adela-micha-se-compromete-a-reconstruir-10-casas-en-acapulco/) [Hoteles de Acapulco abrirán parcialmente antes de Navidad: Esta es la fecha y todo lo que debes de saber](/estados/guerrero/hoteles-de-acapulco-abriran-parcialmente-antes-de-navidad-esta-es-la-fecha-y-todo-lo-que-debes-de-saber/) [¿Ya hay luz en Acapulco, Guerrero? CFE incumple y reporta avance del 55% de restablecimiento](/estados/guerrero/ya-hay-luz-en-acapulco-guerrero-cfe-incumple-y-reporta-avance-del-55-de-restablecimiento/) [¿Cuántas personas murieron en Acapulco por el huracán Otis? Funerarias reportan más de 350 muertos, pero ésta es la cifra oficial hasta ahora ](/mexico/cuantas-personas-murieron-en-acapulco-por-el-huracan-otis-surgen-terribles-reportes/) [¿Qué pasó con el hotel de Roberto Palazuelos en Acapulco? La Casa de la Ensenada fue protegida por una montaña](/estados/guerrero/que-paso-con-el-hotel-de-roberto-palazuelos-en-acapulco-esto-es-lo-que-sabemos/) [Leo Zuckermann hizo una indolente pregunta sobre Acapulco y su reconstrucción que no libró las críticas](/mexico/leo-zuckermann-hizo-una-indolente-pregunta-sobre-acapulco-y-su-reconstruccion-que-no-libro-las-criticas/) AMLO vigila entrega de apoyos directos a damnificados de Acapulco y Coyuca de Benitez El presidente AMLO visitó Acapulco para vigilar la entrega de apoyos directos a los damnificados que dejó el huracán Otis en este municipio, así como en Coyuca de Benitez. De acuerdo con Luisa María Alcalde, secretaria de Gobernación, el presidente, a través del Plan General de Reconstrucción, mantiene el respaldo a todas las familias afectadas. Cabe señalar que la segunda entrega de los apoyos en efectivo para la reconstrucción en Acapulco y Coyuca de Benitez concluye el domingo 31 de diciembre por lo que se llamó a no dejar pasar la fechas. Sube 105% casos de dengue en Acapulco: Secretaría de Salud A poco más de 4 meses desde que el huracán Otis pasó por Acapulco, la Secretaría de Salud compartió que los casos de dengue incrementaron en un 105.03%. En el estado se tiene el registro de 3 mil 668 contagios con corte al 25 de diciembre de los que mil 879 casos están en Acapulco, es decir, el municipio concentra el 67.97% de los casos totales de dengue. Coyuca de Benitez realiza torneo de basquetbol para impulsar el deporte tras paso de huracán Otis El gobierno de Coyuca de Benitez realizó un torneo de basquetbol para impulsar el deporte en la entidad a más de 2 meses desde que el huracán Otis pasara por Guerrero. Tras llevarse a cabo el torneo, la Dirección del Deporte Municipal premió a los equipos ganadores de la Liga Municipal de Basquetbol “Coyuca Nos Une” Se trata de los equipos en sus categoría varonil y femenil: - 1er lugar: San Nicolás (segunda fuerza varonil) - 2do lugar: Embarcadero (segunda fuerza varonil) - 1er lugar: Coyuca C (femenil) - 2do lugar: Coyuca Team (femenil) - 1er lugar: Lomas (primera fuerza varonil) - 2do lugar: Coyuca Team (primera fuerza varonil)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:49:09.223+02:00",
+    "updated": "2023-12-29T16:49:09.223+02:00"
+  }
+]

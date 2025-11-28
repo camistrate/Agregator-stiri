@@ -1,0 +1,241 @@
+[
+  {
+    "uuid": "4281b1cc76ed668e5ccb4ca3165af57f5f9a40dd",
+    "url": "https://wsau.com/2024/08/15/factbox-indias-struggles-with-high-rape-cases-low-conviction-rates",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2024-08-15T19:19:00Z",
+    "title": "Factbox-India’s struggles with high rape cases, low conviction rates",
+    "text": "By Shivam Patel\nNEW DELHI (Reuters) – The rape and murder of a trainee doctor in Kolkata last week has brought women onto the streets across India, furious at persistently high levels of sexual violence despite legal reforms and promised crackdowns.\nThe government brought in sweeping changes to the criminal justice system, including tougher sentences, after the gang-rape and murder of a 23-year-old in 2012. But campaigners say little has changed.\nBelow are some details of the scale of the crisis and the challenges ahead.\nNUMBERS HIGH\nAround the time of the 2012 attack, police were recording up to 25,000 rape cases a year across India, according to data from the National Crime Records Bureau (NCRB).\nSince then, the annual number has largely remained above 30,000, barring the COVID-19 pandemic year of 2020, which saw a sharp fall.\nAttacks peaked at nearly 39,000 in 2016. In 2018, on average one woman reported a rape every 15 minutes across the country, according to a government report.\nThere were more than 31,000 reported rapes in 2022, the latest year for which data is available.\nThe numbers have stayed persistently high, even as the authorities ramped up the penalties, including a minimum sentence of 10 years with a possible extension to life – or the death penalty if the victim is younger than 12.\nOther legal reforms have included widening the definition of rape to include non-penetrative acts, bringing in fast-track courts and reducing the age threshold so 16-year-olds can be tried as adults for such offences.\nSenior criminal lawyer Rebecca M. John, who has represented many rape victims, says some rapists still believe they can get away with their crime.\n“One of the factors would be the absence of fear of the law,” she told Reuters.\n“There is no consistent application of the law, that’s one aspect. There is very poor policing, that’s another aspect.”\nCONVICTIONS LOW\nConviction rates for rape ranged between 27%-28% from 2018-2022, according to NCRB data.\nOver much of that time, that was second lowest rate out of five serious crimes, also including murder, kidnapping, rioting and causing grievous hurt.\nThe lawyer, John, said some judges had become more reluctant to convict since the tougher sentences came in.\n“If a judge feels that there is some doubt and he’s pushing somebody away for life without remission, or maybe even death, on evidence which doesn’t stand up to judicial scrutiny, not entirely at least, then he’s compelled to acquit,” she said.\n“Whereas if he had some discretion in the matter, he could have lowered the sentence, ensure that he’s convicted.”\nMAJOR CASES SINCE 2012\nA number of highly publicised cases have kept the crisis in the headlines since 2013.\nIn 2018 a 26-year-old man in central India was sentenced to death three weeks after his arrest on charges of rape and murder of a baby girl.\nIn 2019, police officers shot dead four men suspected of raping and killing a 27-year-old veterinarian near southern city of Hyderabad. The men had been in police custody and officers said they were shot dead near the scene of the crime where they tried to snatch the weapons of accompanying policemen.\nThe 2020 gang-rape of a 19-year-old girl in northern India’s Hathras district and her death weeks later in a hospital triggered nationwide outrage.\n(Reporting by Shivam Patel; Editing by Andrew Heavens)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shivam patel",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "national crime records bureau",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "kolkata",
+          "sentiment": "none"
+        },
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:13:19.907+03:00",
+    "updated": "2024-08-16T00:13:19.907+03:00"
+  },
+  {
+    "uuid": "83fc129232933b0251a7746499b6c203e0c74775",
+    "url": "https://securityonline.info/critical-laravel-flaw-cve-2024-52301-exposes-millions-of-web-applications-to-attack",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "do son",
+    "published": "2024-11-15T02:27:00Z",
+    "title": "Critical Laravel Flaw (CVE-2024-52301) Exposes Millions of Web Applications to Attack",
+    "text": "A critical security vulnerability, CVE-2024-52301 , has been identified in the Laravel framework, a popular web application framework known for its elegant syntax and comprehensive toolset for building robust applications. Rated 8.7 on the CVSS scale, this vulnerability could expose a vast number of Laravel-based applications to unauthorized access, data tampering, and privilege escalation.\n\\nCVE-2024-52301 revolves around improper input validation, specifically exploiting Laravel\\u2019s environment configuration. The root of the issue lies in Laravel\\u2019s handling of PHP\\u2019s register_argc_argv directive, which enables command-line arguments to be processed in scripts. If this directive is set to on, the framework can potentially be manipulated by attackers through crafted URLs, changing the environment variables used by Laravel when processing requests.\n\\nThis improper validation provides a pathway for attackers to bypass input validation or inject malicious data. Since register_argc_argv allows access to command-line arguments, Laravel applications with this setting enabled face increased risk, as malicious actors may exploit PHP\\u2019s default behavior, gaining unauthorized control over application environments.\n\\nLaravel is widely used for developing web applications and APIs, making this vulnerability particularly concerning due to its broad potential impact. The flaw affects multiple versions of Laravel, including:\n\\n \\n Versions < 6.20.45 \\n Versions >= 7.0.0 and < 7.30.7 \\n Versions >= 8.0.0 and < 8.83.28 \\n Versions >= 9.0.0 and < 9.52.17 \\n Versions >= 10.0.0 and < 10.48.23 \\n Versions >= 11.0.0 and < 11.31.0 \\n \\nOrganizations relying on these versions of Laravel for public-facing applications are particularly at risk, as attackers could exploit this vulnerability to escalate privileges, access sensitive data, and even inject malicious code.\n\\nIn response to CVE-2024-52301, Laravel has issued patches across affected versions, with the updated versions being:\n\\n\\nThe latest patch ensures that Laravel ignores argv values for environment detection on non-CLI SAPIs (Server Application Programming Interfaces), closing the vulnerability. For developers, this patch is essential, and Laravel advises immediate upgrading to these patched versions.\n\\n Related Posts: \\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://github.com/laravel/framework/security/advisories/GHSA-gv7v-rgg6-548h",
+      "https://www.github.com/laravel/framework/security/advisories/GHSA-gv7v-rgg6-548h"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T05:10:14.865+02:00",
+    "updated": "2024-11-15T05:10:14.865+02:00"
+  },
+  {
+    "uuid": "67626da2722b84e266d83581b5a0dc93a4bc1a46",
+    "url": "https://www.healthcareitnews.com/news/anz/nz-awards-first-contract-2m-shared-digital-health-record-project",
+    "ord_in_thread": 0,
+    "author": "Adam Ang",
+    "published": "2025-04-23T22:29:00Z",
+    "title": "NZ awards first contract for $2M shared digital health record project | Healthcare IT News",
+    "text": "Te Whatu Ora Health New Zealand has awarded a contract to enable interoperability of the upcoming Shared Digital Health Record system.\nThe organisation seeks to consolidate clinicians' access to patient information nationwide.\nIn an update to Healthcare IT News , the organisation's acting chief information and technology officer Darren Douglass said local IT service and consultancy Middleware New Zealand will provide FHIR expertise, architecture, development, testing, and project management capability for the NZ$4 million ($2 million) project.\nTe Whatu Ora is now in talks with health and healthcare organisations to contribute to and integrate with the SDHR.\nThere will be more procurements to support this, Douglass said, subject to future funding.\nWHY IT MATTERS\nNew Zealand has adopted FHIR, along with SNOMED-CT and International Patient Summary, as the primary standard for electronic health information exchange. Te Whatu Ora takes a FHIR-first policy, requiring its adoption in health data exchange solutions, including APIs and messaging services.\nThe standard, developed by HL7, currently enables the health sector's access to the National Health Index and Health Practitioner Index . It is also adopted for the national digital health program Hira, which features the My Health Record platform and the Digital Services Hub for developers.\nTHE LARGER CONTEXT\nThe SDHR will initially connect nationally available clinical data and data from existing shared digital health records into a \"consistent view.\" At present, access to existing shared health records, including Health One, Your Health Summary, and TestSafe, is fragmented and inconsistent, while clinicians have yet to have access to patients' health records across the country. Providers participating in the project have the option to leave and return at any time.\nOne of the first uses of the SDHR, Douglass previously shared, is supporting the 24/7 GP telehealth service , for which a contract to implement has yet to be awarded. \"The procurement process for this service is still progressing, and we will update the primary care sector with next steps and timeframes once they are confirmed,\" said Martin Hefford, director of Te Whatu Ora Living Well. \"The service is still on track to be launched later this year,\" he added.\nThe SDHR will also have future applications in urgent care facilities and emergency departments.\n, ,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->health organisation",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->healthcare industry"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Darren Douglass",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "67626da2722b84e266d83581b5a0dc93a4bc1a46",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:34:02.802+03:00",
+    "updated": "2025-04-24T01:34:02.802+03:00"
+  },
+  {
+    "uuid": "e96d8a37d6ce3f6c0aa8399c1cd1182b413b4f01",
+    "url": "https://flipboard.com/topic/mobile/iqoo-z10x-to-debut-in-india-on-april-11-alongside-z10-here-s-what-we-know-so-fa/a-s69v9p6fTVGkczCpKb0lJA%3Aa%3A2990329151-0373bb1561%2Fmashable.com",
+    "ord_in_thread": 0,
+    "author": "Mashable - Omair Pall",
+    "published": "2025-04-02T21:22:00Z",
+    "title": "iQOO Z10X To Debut In India On April 11 Alongside Z10; Here's What We Know So Far | Flipboard",
+    "text": "iQOO Z10X To Debut In India On April 11 Alongside Z10; Here's What We Know So Far iQOO, the well-known smartphone brand, is all set to launch its latest models in India, the iQOO Z10X and iQOO Z10. As the launch date approaches, the buzz around these devices is growing, with the company sharing some key details about their features and design. Let’s take a closer look at what’s …\nMashable - Omair Pall • 57m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->consumer goods",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->trend"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:22:17.329+03:00",
+    "updated": "2025-04-03T01:22:17.329+03:00"
+  },
+  {
+    "uuid": "67a3bfdd930f962448971c2f92f1a2fbbd80dca5",
+    "url": "https://www.expreso.ec/actualidad/mundo/miles-desplazados-puerto-principe-causa-violencia-bandas-188187.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencia EFE",
+    "published": "2024-02-01T22:44:00Z",
+    "title": "Miles de desplazados en Puerto Príncipe a causa de la violencia de las bandas",
+    "text": "[Mundo] Miles de desplazados en Puerto Príncipe a causa de la violencia de las bandas En diciembre, 310.000 personas habían dejado sus hogares. La creciente violencia criminal afecta a unos 170.000 niños Varios miles de personas han sido desplazadas en una zona de la comuna de Pétion-ville, en la capital de Haití, que ha sufrido repetidos ataques en los últimos días por parte de individuos de la poderosa banda Vitelhomme, que quiere hacerse con el control del lugar. El papa, \"aliviado\" por la liberación de 6 monjas, pide el apoyo para Haití [Leer más](/actualidad/mundo/papa-aliviado-liberacion-6-monjas-pide-apoyo-haiti-187670) \"Ha habido muertos, pero no muchos\", declaró a EFE Balmyr, habitante de la zona de Pernier, ubicada en las colinas que dominan la capital. A raíz de estos ataques, los residentes han huido en masa de la zona para buscar refugio en otros lugares de Pétion-ville. Este hombre afirmó que uno de sus vecinos fue alcanzado en un ojo por una bala. Como la Policía no acudió en su ayuda, los vecinos huyeron. Dijo que está esperando a que la zona se estabilice antes de volver, para no convertirse en una víctima. (Los invitamos también a leer: [La violencia callejera deja ya casi 4.000 muertos y 1.800 secuestros en Haití](https://www.expreso.ec/actualidad/mundo/violencia-callejera-deja-4-000-muertos-1-800-secuestros-haiti-180882.html)) \"Las bandas armadas me están echando. Me echaron de mi barrio. Y ahora, un hermano de la iglesia me ha ofrecido un sitio para dormir en Pernier, y me están echando otra vez\", se quejó Balmyr, quien vivía en la zona conocida como l'autre Bord de la Rivière. En definitiva, él y miles más están eternamente desplazados. Algunos han sido desplazados dos veces, otros tres. Miles de estos desplazados han creado un nuevo campamento en Pétion-ville, frente a la zona conocida como Club Internacional. Muchos de ellos son personas que han abandonado sus propios hogares. MÁS DE 170.000 NIÑOS DESPLAZADOS El recrudecimiento de la violencia armada en Haití ha desencadenado una profunda crisis humanitaria y, como consecuencia, un aumento del número de niños desplazados, que asciende ya a 170.000, según ha informado Unicef en una nota publicada este miércoles. Esta alarmante cifra, que se ha duplicado desde el año pasado, pone de manifiesto el rápido deterioro de la situación en el país y sus profundas repercusiones en los niños y las familias más vulnerables, señaló el organismo de las Naciones Unidas. (También les puede interesar: [Haití: MSF suspende actividades en hospital tras ataque a una de sus ambulancias](https://www.expreso.ec/actualidad/mundo/haiti-msf-suspende-actividades-hospital-ataque-ambulancias-182778.html)) \"En Haití, los niños y las familias están sometidos a constantes episodios de violencia extrema, cada día con sus propios horrores, como la pérdida de seres queridos o el incendio de sus hogares. El miedo es omnipresente\", dijo Bruno Maes, representante de Unicef en Haití, que visitó tres lugares de acogida para personas desplazadas en el centro de Puerto Príncipe. República Dominicana denuncia que haitianos violan territorio en zona fronteriza [Leer más](/actualidad/mundo/republica-dominicana-denuncia-haitianos-violan-territorio-zona-fronteriza-178738) \"Privados de todos los servicios esenciales, incluidos la alimentación, la atención sanitaria y la educación, estos niños se enfrentan a una crisis que les está robando la esencia misma de su infancia. Estamos siendo testigos de una catástrofe humanitaria\", se lamentó. Los informes preliminares recibidos por Unicef presentan un panorama desgarrador de la crisis actual, revelan graves violaciones de los derechos de los niños, incluidos niños atrapados en el fuego cruzado, heridos o muertos, algunos de camino a la escuela. BRUTALIDAD DE LOS DESPLAZAMIENTOS La Organización Internacional para las Migraciones (OIM) ha publicado su última evaluación de los desplazamientos internos en Haití, que refleja la gravedad de la crisis actual. En diciembre de 2023, más de 310.000 personas estaban desplazadas dentro del país, en un contexto de creciente brutalidad. La mayoría de las armas llega a Haití desde R. Dominicana y EE.UU., según la ONU [Leer más](/actualidad/mundo/mayoria-armas-llega-haiti-r-dominicana-ee-uu-onu-176903) Más de la mitad de los desplazamientos ocurrieron el año pasado, lo que ilustra el constante empeoramiento de la situación humanitaria y de seguridad, especialmente en la capital, Puerto Príncipe. El gran número de niños desplazados es especialmente preocupante. \"La violencia en el área metropolitana de Puerto Príncipe es el resultado de conflictos entre bandas, extorsiones, secuestros y actos delictivos más amplios\", puntualizó la OIM. (Les recomendamos también: [Haití celebra 220 años de independencia en medio de una crisis sin salida](https://www.expreso.ec/actualidad/mundo/haiti-celebra-220-anos-independencia-medio-crisis-salida-184563.html)) La extrema brutalidad a la que se enfrentan los haitianos agrava las profundas desigualdades, los altos niveles de privación de las necesidades humanas básicas y un entorno de seguridad fragmentado. El 94 % de las personas desplazadas en Haití proceden del departamento Oeste, siendo la capital el lugar más afectado. La evaluación de la OIM muestra que mujeres, niños y hombres se han visto obligados a abandonar sus hogares en busca de refugio frente a la violencia y la destrucción. \"La tendencia de los desplazamientos forzosos pone de manifiesto un deterioro constante de la situación humanitaria y de seguridad. Es necesario invertir más en soluciones a largo plazo para reforzar los servicios estatales en todo el país\", declaró Philippe Branchat, responsable de la OIM en Haití. ¿Quieres acceder a todo el contenido de calidad sin límites? [¡SUSCRÍBETE AQUÍ!](https://suscripcion.expreso.ec/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:57:23.835+02:00",
+    "updated": "2024-02-02T03:01:36.863+02:00"
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "uuid": "316a7254dccd7c6e8d2de68ace03e6936747d6ff",
+    "url": "http://m.cyol.com/gb/articles/2025-03/13/content_4w5o9lcWZP.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "陈戈辉",
+    "published": "2025-03-12T23:27:56Z",
+    "title": "杭州运用AI技术\"智斗\"扬尘",
+    "text": "杭州的大气走航监测平台画面。杭州市生态环境局 供图\n中新网杭州3月12日电(王逸飞 陈爱民)2024年，杭州通过纯电动公交车、出租车搭载的移动监测设备与AI大模型联动，实现扬尘污染“秒级预警、分钟级响应、小时级整改”，努力削减本地扬尘污染时长，全年市区PM10平均浓度47.1微克/立方米，同比下降6.7%。\n12日，记者从杭州市生态环境局获悉上述信息。这组数据也是杭州运用AI技术“智斗”扬尘的缩影。近年来，以数字化改革为牵引的杭州创新构建了“移动监测+AI分析+闭环治理”的扬尘污染管控体系，助力本地环境空气质量持续改善。\n杭州市生态环境局相关负责人介绍，借助城市级大气移动监测模型，可以实时对海量监测数据进行自动筛选、深度解析与高速运算，并将杭州主城区精细划分为48000余个300米×300米的微网格单元，显著提升城市空气质量监管颗粒度。目前，该模型每小时能高效处理超50万组数据，污染源解析速度提升300%以上。\n值得一提的是，通过融合多源数据，这套模型已经建立多源数据联动与区域AI特征校验分析机制，截至目前共捕捉扬尘高值问题4000余条，预警准确率超95%，溯源成功率达80%。\n发现了问题，就要立马办。在发现“高值点”后，相关部门会第一时间通过杭州市“生态智卫”系统交办至综合行政执法部门或乡镇街道的具体责任人，责任人可参照平台给出的预警信息与处置建议，精准溯源污染事件发生位置，迅速采取措施，并核查周边扬尘管控情况，上传相关处理资料，从而落实闭环整改，切实提升处置效能。目前，该市的高值问题24小时闭环处置率为100%，平均处置时长大幅缩短。\n责任编辑：陈戈辉 编辑：罗征",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Environment->environmental clean-up",
+      "Environment->air pollution",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->natural science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:27:56.794+02:00",
+    "updated": "2025-03-13T01:27:56.794+02:00"
+  },
+  {
+    "uuid": "bb44aee942c07b3063afc7763ac1919f4d153d72",
+    "url": "https://newsnownigeria.ng/gunmen-in-niger-abduct-assistant-controller-of-correctional-facility-minna",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mariam Abdullahi",
+    "published": "2024-04-25T20:10:00Z",
+    "title": "Gunmen in Niger abduct Assistant Controller of Correctional facility Minna",
+    "text": "Reports indicate that the Assistant Controller of Corrections at the Niger State Correctional Centre Minna, ACC Abdulrahamam Ibrahim Gelele, has been abducted by unidentified gunmen.\nThe Command’s Public Relations Officer (PRO), CSC Rabiu Mohammed Shuaibu, stated that the ACC was reportedly taken captive on April 17, 2024.\nShuaibu mentioned that the officer was kidnapped while returning from Ilorin on vacation, along the Ilorin – Minna road.\nThe incident was initially shrouded in secrecy, with hopes of his prompt release. However, after more than a week, it has now become a topic of discussion at the center’s headquarters.\nIt was also disclosed that the abductors have had contact with the victim’s family once, but have since ceased communication with both the family and his workplace.\nThe statement from the Controller of Corrections, Niger State CC Mohammed Hamisu Isa, appeals for prayers for the safe release and freedom of the captive.\nInitially kept under wraps in anticipation of his imminent release, the duration of his captivity has now become widely known within the facility.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "minna",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shuaibu",
+          "sentiment": "none"
+        },
+        {
+          "name": "rabiu mohammed shuaibu",
+          "sentiment": "none"
+        },
+        {
+          "name": "mohammed hamisu isa",
+          "sentiment": "none"
+        },
+        {
+          "name": "abdulrahamam ibrahim gelele",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "assistant controller of corrections",
+          "sentiment": "negative"
+        },
+        {
+          "name": "csc",
+          "sentiment": "none"
+        },
+        {
+          "name": "controller of corrections",
+          "sentiment": "none"
+        },
+        {
+          "name": "niger state",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "niger state correctional centre",
+          "sentiment": "none"
+        },
+        {
+          "name": "niger",
+          "sentiment": "none"
+        },
+        {
+          "name": "ilorin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:21:21.802+03:00",
+    "updated": "2024-04-26T00:21:21.802+03:00"
+  },
+  {
+    "uuid": "165f88bb0a8a6070700f4de829e0df205b2072f9",
+    "url": "https://www.world-today-news.com/pope-francis-calls-for-ceasefire-and-negotiations-in-ukraine-urges-waving-white-flag",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-03-10T12:48:00Z",
+    "title": "Pope Francis Calls for Ceasefire and Negotiations in Ukraine, Urges Waving White Flag - World Today News",
+    "text": "With his words about Ukraine, Pope Francis intended to call for a ceasefire and renew the courage of negotiations . This was stated by Matteo Bruni, director of the Press Service of the Holy See, quoted by Vatican News .\nBruni explained that the Pope’s desire for Ukraine, which he always describes as “martyrdom”, was fully expressed in his words to the Archangel on February 25, the day after the second anniversary of the outbreak of war. The head of the Catholic Church confirmed his “deep affection” for the Ukrainian people. He also called on all countries to “create the conditions for a diplomatic solution in search of a just and lasting peace.”\nBruni pointed out that using the expression “white flag” Pope Francis does not mean the capitulation of Ukraine, but a ceasefire and focus on negotiations.\nStronger is the one who sees the situation, who thinks about the people, who has the courage of the white flag, to negotiate. Even today, negotiations are possible with the help of international forces, the Pope pointed out. In his words, when you see that things are not going well, you must have the courage to negotiate. According to him, there are many countries that are willing to mediate on this.\nThe Vatican points out that since the beginning of the war in Ukraine, Pope Francis has repeatedly emphasized the importance of dialogue. The Pope’s hope is to find some humanity to allow the creation of conditions for a diplomatic solution in search of a just and lasting peace.\nThe Pope called on Ukraine to wave the white flag and negotiate with Russia\nMore important than pride was that the number of those killed should not increase\n2024-03-10 08:46:54\n#Vatican #Pope #Francis #called #Ukraine #capitulate\nRelated posts: UNICEF Warns of Unprecedented Child Migration Crisis in Latin America and Caribbean Region \"Lolita, after fifty years of captivity, is liberated from Seaquarium at 57 years of age.\" For the first time in the United States, a successful human heart transplant has been performed Prime Minister Jonas Gahr Støre's Strong Criticism of Israel's Violation of International Law Predictions of Florida vs Tennessee Predictions 68 bodies recovered from the site of a passenger plane crash in Nepal (second and final expansion) Do you have an advantage? What the \"Corona superimmunity\" is all about The flipped trailer complicates the passage into the Peripheral Ring Oil price drops worldwide | Financial Naila Usha's Fun-filled Bali Vacation Goes Viral Among Fans Share this: Facebook X",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "external_links": [
+      "https://premium.vgc.no/v2/images/34684b17-b5bf-49c2-8a37-3de9ee2db814?fit=crop&format=auto&h=1072&w=2048&s=321b9e8fc57ba9972a7bccafb076d5478e1868f8)",
+      "https://premium.vgc.no/v2/images/34684b17-b5bf-49c2-8a37-3de9ee2db814",
+      "https://www.premium.vgc.no/v2/images/34684b17-b5bf-49c2-8a37-3de9ee2db814?fit=crop&format=auto&h=1072&w=2048&s=321b9e8fc57ba9972a7bccafb076d5478e1868f8)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "francis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pope francis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "matteo bruni",
+          "sentiment": "none"
+        },
+        {
+          "name": "bruni",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vatican news",
+          "sentiment": "none"
+        },
+        {
+          "name": "catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "press service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-10T14:50:14.952+02:00",
+    "updated": "2024-03-10T14:50:14.952+02:00"
+  },
+  {
+    "uuid": "ed1cc5dc727c23f6292ba88ed16f1485457430a6",
+    "url": "https://flipboard.com/topic/helicopter/heavy-smoke-seen-in-osoyoos-from-washington-fire/a-jnPB3KmxTfOOCx6DRe6rHw%3Aa%3A3249317471-07e497bbfd%2Fcastanet.net",
+    "ord_in_thread": 0,
+    "author": "castanet.net - Sarah Crookall",
+    "published": "2025-05-07T23:05:00Z",
+    "title": "Heavy smoke seen in Osoyoos from Washington fire (Oliver/Osoyoos) | Flipboard",
+    "text": "Heavy smoke seen in Osoyoos from Washington fire (Oliver/Osoyoos) Heavy smoke can be seen from Osoyoos regarding a fire in Washington State Wednesday afternoon. The Wanacut fire was reported between Oroville and …\ncastanet.net - Sarah Crookall • 1h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->air pollution",
+      "Crime, Law and Justice->arson",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sarah Crookall",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T03:19:42.541+03:00",
+    "updated": "2025-05-08T00:24:15.000+00:00"
+  },
+  {
+    "uuid": "0a0a2c9dab792fa5a6ef0efe9f205412f0e1134d",
+    "url": "https://www.bonde.com.br/entretenimento/celebridades/papa-nao-esta-fora-de-perigo-e-paciente-fragil-e-nao-tem-previsao-de-alta",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eduarda Esteves - UOL/Folhapress",
+    "published": "2025-02-21T23:14:00Z",
+    "title": "Papa não está fora de perigo, é paciente frágil e não tem previsão de alta",
+    "text": "O papa Francisco não está fora de perigo e a condição clínica do pontífice ainda é complexa. A equipe médica detalhou nesta sexta-feira (21) que o religioso argentino Jorge Bergolio ficará internado por pelo menos mais uma semana.\nO QUE ACONTECEU\nO papa não corre risco de morte, ainda de acordo com os médicos. A equipe realizou uma coletiva de imprensa nesta sexta-feira (21). O religioso argentino Jorge Bergolio está hospitalizado há uma semana e não há previsões de quando deixará o hospital.\nO jesuíta de 88 anos foi internado em 14 de fevereiro. Segundo os médicos, a princípio, não havia indícios de inflamação, de pneumonia, nos pulmões. Mas após uma tomografia computadorizada, a equipe detectou uma pneumonia bilateral.\n\"Se a pergunta for: O papa está fora de perigo? Não, ainda não. Mas ele está em perigo mortal agora? A resposta, mais uma vez, é não. Há alguns minutos ele saiu da sala para ir à capela rezar. A cabeça é de um homem de cinquenta anos. Mas ele me disse: 'Eu percebo que a situação é séria'. A doença crônica continua, às vezes ele fica com falta de ar e a sensação não é agradável para ninguém\", disse o médico Sergio lfieri.\nO pontífice ficará internado pelo menos mais uma semana. De acordo com o médico Sergio lfieri, o papa está lendo, faz brincadeiras, mas está com pneumonia.\n\"Ele vai ter alta quando não for mais necessário administrar terapias hospitalares\", disse. O papa está uma infecção polimicrobiana, com vírus, fungos e bactérias. Apesar disso, mantém o bom humor. O médico contou que na manhã desta sexta, cumprimento o papa e lhe disse: \"Bom dia, Santo Padre\", ele respondeu: \"Bom dia, Santo Filho\".\nO médico Sergio lfieri lembrou que o religioso começou a ser tratado com uma gripe em casa. \"Como um paciente de 88 anos, quando não é mais possível tratar em casa, a gente interna o paciente\", relatou. Ele acrescentou que o papa é diferente de outros pacientes idosos. \" A diferença é que as outras pessoas de 88 anos ficam em casa vendo televisão em uma cadeira de rodas. Vocês conhecem outro senhor de 88 anos que governa um estado e é também o pai espiritual dos católicos no mundo? Ele não se poupa, então se cansou muito\", afirmou.\nO papa está respondendo bem aos tratamentos. \"Temos visto melhorias, mas é preciso muito pouco para ficar desequilibrado. É impossível dar um prazo\", disse lfieri após ser questionado sobre uma nova previsão de alta. A equipe médica também detalhou que o religioso argentino Jorge Bergolio \"não está acamado, não está preso a nenhuma máquina. No máximo, ele recebe um pouco de oxigênio quando tem uma crise asmática, de vez em quando. Ele está respirando espontaneamente e se alimentando\", acrescentou.\nSobre a não divulgação de imagens do papa na última semana, o médico citou a privacidade do religioso. \"Não queremos uma foto do papa de pijama no jornal, vamos respeitar a privacidade de qualquer pessoa. Quando ele quiser se mostrar, ele vai se mostrar. Mas tem que se vestir como papa, ele não está na cama com roupa de papa\", ressaltou Sergio lfieri.\nMédicos temem que infecção se espalhe para o sangue. \"O papa sabe que está em perigo. Pode acontecer que esses germes, que nesta sexta-feira (21) estão no trato respiratório e nos pulmões, infelizmente passem para o sangue, ele teria sepse. E uma sepse, com a idade e a condição dele, seria difícil... o risco real, nesses casos, é que os germes passem para o sangue. O risco é de sepse\", alertou Sergio lfieri.\nAGENDA CANCELADA\nAgenda do papa está cancelada até domingo (23). Em um primeiro momento, a Santa Sé havia cancelado a agenda de Francisco até esta quarta, mas nesta quinta-feira (20) anunciou o cancelamento de sua audiência jubilar de sábado (22) e informou que o papa não presidiria a missa de domingo.\nEssa é a quarta internação do papa desde que assumiu o pontificado, em 2013. Francisco tem um histórico de problemas respiratórios.\nNos últimos meses, pontífice sofreu duas quedas em sua residência no Vaticano. Em dezembro, bateu o queixo na mesa de cabeceira, e em janeiro, machucou o braço direito, precisando imobilizá-lo por precaução. Além disso, tem dores crônicas no joelho, que o obrigam a usar cadeira de rodas ou bengala em algumas ocasiões.\nPAPA TEM CARTA DE RENÚNCIA PRONTA CASO SAÚDE O IMPEÇA DE SEGUIR NO CARGO\nCarta de renúncia ao cargo de líder da Igreja Católica está pronta. Papa Francisco assinou a carta há cerca de dez anos. Foi o próprio pontífice que confirmou a existência do documento em entrevista ao jornal espanhol ABC, em dezembro de 2022.\nCarta está de posse do secretário de Estado do Vaticano, cardeal Pietro Parolin. \"Assinei a renúncia e disse a ele: 'em caso de impedimento médico ou algo assim, aqui está minha renúncia. Você a tem'\", declarou Francisco.\nNa ocasião, Francisco afirmou não ter receio que o mundo saiba da existência de sua carta de renúncia. \"É por isso que estou contando, para que saibam\", disse, ressaltando não saber o que Parolin fez com o documento.\nLeia também:\nSTF: Moraes determina que Rumble indique representante legal no Brasil\nO ministro Alexandre de Moraes, do STF (Supremo Tribunal Federal), determinou nesta quinta-feira (20) que a rede social Rumble indique um representante legal no Brasil. O prazo deverá ser cumprido em 48 horas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "topics": [
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity",
+      "Religion and Belief->pope"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-22T02:01:45.793+02:00",
+    "updated": "2025-02-22T02:01:45.793+02:00"
+  },
+  {
+    "uuid": "97e7f9fcfffe921cd246d13f850a699bf91b7106",
+    "url": "https://news.knowledia.com/us/en/articles/red-flag-signs-of-common-sleep-disorder-affecting-millions-that-raises-2410ca48c62f86be53d13a57db2abdc6ef02d177",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Fiona Callingham",
+    "published": "2024-11-15T01:58:00Z",
+    "title": "Red flag signs of common sleep disorder affecting millions that 'raises risk of dementia'",
+    "text": "This relatively common condition has also been linked to an increased risk of heart problems. If you are snoring at night you could have sleep apnoea, which could raise your risk of dementia\nHealth experts have issued a warning as a common sleep disorder that affects millions of Brits can raise your risk of some devastating conditions. The disorder, symptoms of which include loud snoring and waking up a lot, can lead to dementia, according to research. They have also warned that untreated obstructive sleep apnoea (OSA) can result in dangerous heart issues. The Sleep Apnoea Trust states that around 10 million people in the UK are living with OSA, with four million experiencing \"moderate\" or \"severe\" symptoms. OSA causes the walls of the throat to become narrower as you sleep. This results in a range of symptoms such as loud snoring, waking up a lot and making gasping, snorting or choking noises while the person rests. As a result this can also lead to tiredness during the day…\nFiona Callingham , Bradley Jolly",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.express.co.uk/life-style/health/1975463/symptoms-sleep-apnoea-dementia",
+      "https://express.co.uk/life-style/health/1975463/symptoms-sleep-apnoea-dementia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Fiona Callingham",
+          "sentiment": "none"
+        },
+        {
+          "name": "Bradley Jolly",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T04:38:16.249+02:00",
+    "updated": "2024-11-15T04:38:16.249+02:00"
+  },
+  {
+    "uuid": "b9cc7285644237fece832130aa1649ed419401ac",
+    "url": "https://www.chroniclejournal.com/news/national/london-attack-deemed-terrorism-veltman-gets-life-sentence-with-no-parole-for-25-yrs/article_503a8525-a445-544f-8656-456679c714c3.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maan Alhmidi in London, Ont., and Paola Loriggio in Toronto The Canadian Press",
+    "published": "2024-02-22T03:00:00Z",
+    "title": "London attack deemed terrorism, Veltman gets life sentence with no parole for 25 yrs | National | chroniclejournal.com",
+    "text": "The murder of four members of a Muslim family in southwestern Ontario by a self-described white nationalist was an act of terrorism, a judge ruled Thursday as she sentenced the man to life in prison with no chance of parole for 25 years. Nathaniel Veltman was also sentenced to a concurrent life sentence for the attempted murder of a boy who survived the 2021 attack in London, Ont., that sent shockwaves across the country and sparked calls to combat Islamophobia. Veltman, 23, was found guilty in November of four counts of first-degree murder and one count of attempted murder for hitting the Afzaal family with his truck while they were out for a walk. Veltman \"exemplified the prototypical 'lone wolf',\" keeping his beliefs – and a written manifesto – to himself until after he committed his crimes, said Justice Renee Pomerance, who presided over the trial. But once he carried out his deadly plan, Veltman \"made it clear that he wanted the world to know what he had done and why he had done it,\" she said in delivering her sentencing decision to a packed London courtroom. \"This was part of a plan. He wanted to intimidate the Muslim community. He wanted to follow in the footsteps of other mass killers, and he wanted to inspire others to commit murderous acts.\" Pomerance, who explicitly chose not to name Veltman in her ruling to deny him the publicity he sought for his beliefs, said \"the brutality of the crime, its random character, the hatred that fuelled that and the consequences ... calls for the imposition of the strictest penalty known to Canadian law.\" First-degree murder carries an automatic life sentence with no chance of parole for 25 years, but there is discretion in sentencing for attempted murder. Veltman showed no visible emotion and was seen asking his lawyer a question after the sentencing concluded. Outside court, one of his lawyers said the defence would later be getting instructions on whether or not to appeal. Forty-six-year-old Salman Afzaal; his 44-year-old wife, Madiha Salman; their 15-year-old daughter, Yumna; and her 74-year-old grandmother, Talat Afzaal were killed in the attack. The couple's nine-year-old son was seriously hurt but survived. Members of the Afzaal family were seen crying and nodding during the sentencing and some later hugged each other after the judge left the courtroom. Outside court, Salman's mother, Tabinda Bukhari, said the sentencing acknowledged the hate that took the lives of their loved ones, but it cannot bring back what was stolen from them. \"It will not mend the fractured pieces of our lives, our identity, and our security,\" she said in reading a statement on the family's behalf. \"This trial wasn't just about one act. It was a stark reminder of the fault lines that run deep within our society, the stereotypes that can erupt into violence ... We must confront the hate, not just condemn it.\" The case was the first time Canada's terrorism laws were put before a jury in a first-degree murder trial. Pomerance ruled it was an \"inescapable conclusion\" that Veltman committed a terrorist act. \"The offender did not know the victims. He had never met them. He killed them because they were Muslim,\" she said. \"One might go so far as to characterize this as a textbook example of terrorist motive and intent.\" The terror finding is \"a very important one,\" Crown prosecutor Sarah Shaikh said outside court. \"It is an acknowledgment that the offender's attack was not only targeted at the Afzaal family, it was also targeted and directed towards the entire Muslim community,\" she said. \"It was also an attack on values that we as Canadians hold very dear – inclusiveness, community, decency and multiculturalism.\" Amira Elghawaby, Canada's Special Representative on Combatting Islamophobia, said the decision will have \"profound reverberations across Canada\" as it marks the first time a case involving white nationalism has met the threshold for terrorism. 'We must also clearly see urgent efforts to address the proliferation of online hate which can include dangerous hateful narratives about Islam and Muslims,\" Elghawaby said outside court. Faisal Bhabha, an associate professor at York University's Osgoode Hall law school, said the ruling provides Canadian Muslims with \"important moral validation of their experiences with hate and discrimination and the consequent fear that is produced.\" It's obvious from the facts of the case that Veltman was motivated by hate, he said. \"The sad reality, however, is that in Canada the use of the word terrorist is almost exclusively applied to Muslims. This has contributed to a situation in which Canadian Muslims do not feel that their lives are valued equally by their fellow citizens or by their political leaders when Muslims are victims of violence,\" Bhabha wrote in an email. \"This is why today is a critical moment for Canadian Muslims to receive validation from the judiciary ... that Muslim lives matter too.\" Prosecutors had argued Veltman was a white supremacist with a plan to commit violence, while the defence argued his actions shouldn't be considered terrorism because he kept his beliefs to himself. Pomerance rejected that argument, finding that Veltman only kept his beliefs private to avoid detection before he could carry out his plan. He expected his manifesto, in which he described himself as a white nationalist, to be made public after his arrest, she said. Veltman was \"a voracious consumer of extremist right wing internet content\" who became inspired by other mass killers, Pomerance said, describing him as believing \"in the superiority of the white race, and the related aspiration for an all-white society.\" During the trial, Veltman testified he had been considering using his pickup truck to carry out an attack and felt an \"urge\" to hit the Afzaal family after seeing them walking on a sidewalk. He said he knew they were Muslims from the clothes they were wearing and he noticed the man in the group had a beard. The jury also watched video of Veltman telling a detective his attack had been motivated by white nationalist beliefs. Jurors were told they could convict Veltman of first-degree murder if they unanimously agreed the Crown established he intended to kill the victims, and planned and deliberated his attack. Pomerance said they could also reach that same verdict if they found that the killings were terrorist activity. The terror component wasn't a separate charge, and juries don't explain how they reach their verdict, so it's unclear what role – if any – the terror allegations played in their decision. In making her findings of fact on the issue, Pomerance said it was not possible to separate the two paths to conviction in this case. \"The evidence in this case does not logically permit a binary choice between one basis for liability and the other,\" she said. \"To choose one is to choose both. If there was a plan, it was to carry out terrorist activity. If there was terrorist activity, it was planned and deliberate.\" At a sentencing hearing last month, Veltman apologized for the pain he had caused but that apology was promptly rejected by the victims' family outside of court as \"strategic words coming from a killer after he is convicted.\" This report by The Canadian Press was first published Feb. 22, 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "veltman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nathaniel veltman",
+          "sentiment": "none"
+        },
+        {
+          "name": "renee pomerance",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "ontario",
+          "sentiment": "none"
+        },
+        {
+          "name": "ont.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T01:17:06.923+02:00",
+    "updated": "2024-02-23T01:17:06.923+02:00"
+  },
+  {
+    "uuid": "6ebeccf550e7d75e30a3b159bc6aa90512947cbf",
+    "url": "https://1news.az/news/20250717084130989-Televedushcii-SHakhriyar-Abilov-ushyol-s-AzTV-posle-mnogikh-let-raboty",
+    "ord_in_thread": 0,
+    "author": "First News Media",
+    "published": "2025-07-17T04:45:00Z",
+    "title": "Телеведущий Шахрияр Абилов ушёл с AzTV после многих лет работы | 1news.az | Новости",
+    "text": "Lifestyle Телеведущий Шахрияр Абилов ушёл с AzTV после многих лет работы First News Media 08:45 - Сегодня Известный телеведущий Шахрияр Абилов объявил о своем уходе с Азербайджанского государственного телевидения (AzTV).\nОб этом он написал на своей странице в соцсетях.\n\"Я проработал на Азербайджанском телевидении много лет. За это время мне удалось реализовать множество ценных и запоминающихся проектов. Для меня AzTV был не просто местом работы, но и местом, где я завел настоящих друзей, познакомился с замечательными людьми и стал частью большой семьи.\nОднако всему приходит конец, и сегодня мой путь с этим телеканалом завершается. От всего сердца благодарю руководство и весь коллектив за поддержку, уважение и теплое отношение.\nЖизнь продолжается. Впереди - новые телеканалы, новые проекты и новые начинания. Желаю всем удачи и благополучия\", - подчеркнул телеведущий.\nОтметим, что последним проектом, где работал Ш.Абилов на AzTV, была программа Düşən pullar.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/p/DMLVGVVMRBV/?utm_source=ig_web_copy_link",
+      "https://instagram.com/p/DMLVGVVMRBV/?utm_source=ig_web_copy_link",
+      "https://www.instagram.com/p/DMLVGVVMRBV/"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:48:25.489+03:00",
+    "updated": "2025-07-17T05:01:58.000+00:00"
+  },
+  {
+    "uuid": "20115c259a5557867fa5b3173a363751081a6c3f",
+    "url": "https://www.essentiallysports.com/f1-news-guenther-steiner-mocks-mclarens-hungarian-gp-blunder-with-an-ominous-lando-norris-prediction",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Riddhi Mondal",
+    "published": "2024-07-26T00:00:00Z",
+    "title": "Guenther Steiner Mocks McLaren’s Hungarian GP Blunder With an Ominous Lando Norris Prediction - EssentiallySports",
+    "text": "All Latest ES FanCast NBA NFL NASCAR Golf Tennis Boxing Formula 1 UFC WWE Olympics Swimming MLB Soccer Home / F1 Guenther Steiner Mocks McLaren’s Hungarian GP Blunder With an Ominous Lando Norris Prediction By Riddhi Mondal\nJul 25, 2024 | 9:26 PM EDT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://youtu.be/jADr5POx-7E?si=IrCrCn78ufaAeEis",
+      "https://www.youtu.be/jADr5POx-7E?si=IrCrCn78ufaAeEis",
+      "https://youtu.be/jADr5POx-7E"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "guenther steiner mocks mclaren",
+          "sentiment": "negative"
+        },
+        {
+          "name": "norris",
+          "sentiment": "none"
+        },
+        {
+          "name": "lando norris",
+          "sentiment": "none"
+        },
+        {
+          "name": "max versta",
+          "sentiment": "none"
+        },
+        {
+          "name": "oscar piastri",
+          "sentiment": "none"
+        },
+        {
+          "name": "piastri",
+          "sentiment": "none"
+        },
+        {
+          "name": "steiner",
+          "sentiment": "none"
+        },
+        {
+          "name": "guenther steiner",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "haas",
+          "sentiment": "none"
+        },
+        {
+          "name": "woking",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "budapest",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T04:30:21.743+03:00",
+    "updated": "2024-07-26T05:03:40.187+03:00"
+  }
+]

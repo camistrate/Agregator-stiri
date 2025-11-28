@@ -1,0 +1,163 @@
+[
+  {
+    "uuid": "e68fff7d5c939af3de2cb0026e58931e5f62b4c6",
+    "url": "https://www.scmagazine.com/perspective/by-caring-about-insider-threats-cisos-show-they-care-about-their-coworkers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lea Kissner",
+    "published": "2023-12-29T06:00:00Z",
+    "title": "By caring about insider threats, CISOs show they care about their coworkers | SC Media",
+    "text": "[The 2023 Insider Threat Report](https://www.cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/) from Cybersecurity Insiders found that 74% of organizations are moderately vulnerable to insider threats. Insider threats have become a serious worry for many executives – not only do I hear concerns about insider threats from organizations looking to bring on a CISO, but also from CISOs themselves. Despite this, insider threats are often not acknowledged because they create tension between coworkers and peers. Being concerned about insider threats might imply the company worries that its coworkers are behaving unethically. No one wants to think the worst in people, but insider threats are a genuine danger to all organizations. That said, CISOs must protect both a company’s product and its employees from malicious actors. By acknowledging and addressing insider threats, CISOs can show they care for their coworkers by keeping them – and their accounts – safe from exploitation, as opposed to being suspicious of them. The protocols a CISO would follow if an employee’s account was taken over by an external bad actor with nefarious intent are virtually identical to those taken to protect from similar actions by the employee themselves. The difference is that a CISO can prevent an insider threat through a combination of those existing measures and additionally ensuring that employees recognize that these protocols are in place for their own protection – and not because the company doesn't trust them. Here's my advice for empathetically addressing insider threats from the get-go and how to facilitate a thoughtful and actionable dialogue around navigating insider threats within the organization: - Mitigate insider threats from the get-go. As a CISO, it’s in my nature to be sensitive to the risk of malware or account hijacking, but the consequences of a malicious actor controlling an employee's access are always unsettling. It’s not just business assets someone might acquire, but the serious long term harm someone can inflict on our customers or coworkers. That’s why we put protections in place to prevent that takeover: For example, phishing-resistant two-factor authentication (like YubiKeys or other security keys) and making sure people keep their laptops and any additional software on them patched to try to avoid malware. But we also take other precautions, like removing unnecessary access that an insider could misuse. We even re-engineer to make more fine-grained access possible. - Help coworkers navigate insider threats. The role of the CISO isn’t just about protecting assets, it’s about caring for the organization’s people. And that doesn’t just mean protecting potential victims. It’s my job to prevent people from making a decision they will later regret by helping them make better choices. Even if they’re leaving the company, it’s the last thing I can do to take care of them as my coworker. With that in mind, it’s imperative to educate colleagues on the dangers of insider threats and how to protect themselves from risky situations. In an ideal world, our colleagues would never face any harm, but there will come a time when they might encounter a dicey situation with a malicious actor. Rather than fear, they should feel empowered and knowledgeable on what actions they need to take to handle the situation. It's often difficult to swallow, but sometimes the bad actor is someone internal, within the organization. And yes, governments do plant people in a surprising number of companies. With the security industry and private sector at an inflection point, I want to provide those governments with incentives to work with the company directly instead of trying to work through a backdoor. - Talk about insider threats with the team. Talking about insider threats with the team can be tricky – CISOs need to reinforce the message that their foremost concern is taking care of employees. Keep the focus on their safety, using anecdotes if it helps. For example, I like to use the story of a coworker of mine from a previous job going back to his home country to give a talk, and being cornered by government officials pressuring him to turn over information about some specific users. That coworker, fortunately, hadn’t had access to the info to begin with and was able to say so truthfully and avoid further danger. The protocols we’d used to prevent insider threats had empowered him with the (lack of) information needed to get out of a sticky situation. Keep in mind that it’s not enough to just talk about insider threats like this with the team – CISOs have to think about it that way, too. If we think about the insider risks in this proactive way, we are acting with respect towards our coworkers and more effectively ameliorating the threats by considering the motivations behind potential attacks. We are covering the case in which the employee acts badly, but it’s just one of multiple extremely real and generally more worrying possibilities that fall under the umbrella of our protective responsibilities. Most of all though, if we treat insider threat as a personal and customer as well as corporate safety issue, we won’t alienate our people. Security is a team sport. As CISOs, we have to get the entire organization onboard to adhere to the changes to their systems and processes needed for security. Antagonizing or nagging does not make that work happen faster. But by making it clear to my coworkers that I aim to make sure that they and our customers are protected, we can progress. Once they understand that I have their best interests at heart, the rest falls into place. Lea Kissner, chief information security officer, Lacework",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://www.cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/)",
+      "https://cybersecurity-insiders.com/portfolio/2023-insider-threat-report-gurucul/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "sc media",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ciso",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:25:05.387+02:00",
+    "updated": "2023-12-29T11:25:05.387+02:00"
+  },
+  {
+    "uuid": "e989609464ea689e8a507485cfbbfeeb20660aad",
+    "url": "https://www.fastcompany.com/91144047/google-using-ai-to-predict-floods-and-send-families-cash-before-disaster-hits",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adele Peters",
+    "published": "2024-06-24T08:00:00Z",
+    "title": "Google is using AI to predict floods—and sending cash to people before disaster hits",
+    "text": "When a disaster hits, it usually takes time for aid to arrive. But Google is now using AI to predict severe flooding in advance —and the company’s nonprofit arm is working with humanitarian organizations to give people cash to prepare in the days before a flood happens.\nThis summer, two nonprofits will begin rolling out the program in Nigeria, where climate change is raising the risk of extreme flooding. Google.org is giving $4.6 million to the International Rescue Committee and GiveDirectly. The groups will in turn send cash to 7,500 people.\n“During flood season, we’ll be using Google’s AI model, as well as government data, to monitor for flood risk and figure out in real time which communities are most exposed to an oncoming flood,” says Vera Lummis, Senior Manager, Digital Innovation at GiveDirectly. “Using digital cash technology, we can send them payments straight into their bank account within a day. That enables us to reach people in advance of the flood.”\nThe advantages of giving out cash before a disaster There’s early evidence that the approach works. In 2022, the International Rescue Committee tested cash transfers before flooding in Nigeria. In late July, after flood predictions, the group gave some families around $400. In early August, a severe flood hit. Heavy rain caused a nearby dam to overflow, and flash floods cut off roads to three of the six communities where the organization gave out cash. To study the effect of “anticipatory aid,” they gave a second group of people warnings, but didn’t give them cash until after floodwaters had receded.\nUnsurprisingly, advance aid helps. The group studied several factors, from food security and household income to whether families were forced to sell off some of their belongings because of the disaster. With the extra cash in hand, many people stockpiled food. “That’s important when half of these communities were entirely cut off from markets,” says Clare Clingain, a researcher in economic recovery and development at International Rescue Committee’s Airbel Impact Lab. Some farmers harvested their crops early before flooding ruined the food. Others evacuated their families and livestock.\nGiveDirectly also piloted the idea in Mozambique last year, giving families $225 three or four days before a flood. “Some families used [the cash] to purchase essential supplies like food and medicine,” Lummis says. “Some people relocated to safer areas. In some cases, people immediately started to make reinforcements to their homes, building stronger structures. Some people spent the cash immediately after to reinvest in businesses or buy seeds to replant because their crops had been destroyed.”\nCash transfers have already been proven as an effective way of giving aid, since recipients can decide how to spend the money in a way that’s most helpful for their specific situation. (In the past, some donations after disasters have been more of a burden than a help—for example, sending useless winter coats after a summer hurricane.) As technology improves, it’s becoming easier to take the next logical step and offer cash in advance.\nThe role for AI In its Flood Hub tool, Google uses satellite images to build a detailed map of a region. Then it uses AI to analyze local conditions and model potential flooding as early as seven days in advance . The forecasts can be more accurate than existing weather services. In some areas, like parts of Nigeria, governments have little or no existing infrastructure to predict flooding. The new tool can be used to give critical warnings; it can also help groups like GiveDirectly and the IRC provide more effective aid.\n“When you’re talking about climate-driven disasters—and the case of floods, which we’re focusing on in this project—a big challenge is figuring out who will be most affected,” says Lummis. AI can now help with that step, she says. (AI can also help identify people who need help after a disaster, something GiveDirectly and Google did after Hurricane Ian in Florida.) It’s also now easier to enroll people in advance via mobile phones, using databases to verify where they live. Some past attempts at anticipatory aid have been slowed down by the fact that organizations had to go door to door in a lengthy and expensive process. The ubiquity of mobile money also makes it easy to quickly send cash to the people who need it.\nSimilar AI tools could help better predict other climate disasters like drought and extreme heat, and organizations could give out cash in advance in those cases, too. As climate change progresses, multiple disasters are repeatedly hitting places like Nigeria, putting food security and incomes at risk. Communities obviously need longer-term solutions—from repairing aging infrastructure like dams to helping people make their homes more resilient or even permanently relocate. But emergency aid is also critical, and can also help families take steps to prepare for future disasters.\n“We’ve seen from some of the early results from the IRC studies that when [flood victims] can receive this cash in advance, they’re much more resilient to future floods,” says Alex Diaz, head of AI for social good at Google.org. “Because they had a big lump sum, they were able to take on a more expensive infrastructure project like hardening their homes that they wouldn’t have been able to do.”\nHow the work can grow Nigeria makes sense as a place to begin to scale this type of work because it’s at high risk of climate disasters. It’s also a place that’s often left out of climate action because conflicts make it a dangerous place to work, says Tara Clerkin, director of climate resilience research and innovation at the International Rescue Committee. “We’re really centering the protracted conflict settings, the ones that get the least amount of climate finance,” she says. “They’ve also by and large contributed the least to the climate crisis, and they’re bearing some of the worst impacts.”\nThe model could be used globally, and it’s something that governments and organizations like the UN can replicate. There’s growing interest in this type anticipatory action, but it still only makes up a tiny percentage of humanitarian aid. “We need partnerships with the multilaterals and governments that really embed this as part of social protection systems,” Diaz says. “The digital infrastructure is there, or can be built, in many places. We’ve seen how this can be done. But it’s going to take collective willpower to really move the system from being an entirely reactive one on realized loss to a more proactive one to mitigate harms.”\nRecognize your brand’s excellence by applying to this year’s Brands That Matter Awards before the extended deadline, June 14.\nSign up for Brands That Matter notifications here .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.sites.research.google/floods/l/0/0/3",
+      "https://www.fastcompany.swoogo.com/24btmnotifications/register?ref=article",
+      "https://fastcompany.swoogo.com/24btmnotifications/register?ref=article",
+      "https://www.blog.google/technology/ai/google-ai-global-flood-forecasting/",
+      "https://www.cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief/",
+      "https://blog.google/technology/ai/google-ai-global-flood-forecasting/",
+      "https://www.cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief",
+      "https://cbsnews.com/news/best-intentions-when-disaster-relief-brings-anything-but-relief/",
+      "https://sites.research.google/floods/l/0/0/3",
+      "https://blog.google/technology/ai/google-ai-global-flood-forecasting",
+      "https://fastcompany.swoogo.com/24btmnotifications/register"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vera lummis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "google",
+          "sentiment": "negative"
+        },
+        {
+          "name": "international rescue committee",
+          "sentiment": "none"
+        },
+        {
+          "name": "google.org",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-24T13:32:29.651+03:00",
+    "updated": "2024-06-24T13:32:29.651+03:00"
+  },
+  {
+    "uuid": "7b258ad79ac81155ae59b7c4b8f6a5836a14a62e",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5073003",
+    "ord_in_thread": 0,
+    "author": "自由時報電子報",
+    "published": "2025-06-12T07:29:00Z",
+    "title": "宜中陳思果3年磨一劍如願從醫 蘭女廖心瑀一圓台大體育夢",
+    "text": "宜中陳思果3年磨一劍如願從醫 蘭女廖心瑀一圓台大體育夢\n大學個人申請入學放榜，宜蘭高中204人上榜，錄取率七成四，數理資優班陳思果，苦讀3年一舉拿下今年宜花東地區學測唯一60級分滿級分，如願錄取台北醫學大學醫學系。（宜蘭高中提供）\n〔記者王峻祺／宜蘭報導〕大學個人申請入學放榜，宜蘭縣宜蘭高中204人上榜，錄取率七成四，蘭陽女中則有196人，錄取率六成七。宜中數理資優班陳思果，苦讀3年一舉拿下今年宜花東地區學測唯一60級分滿級分，如願錄取台北醫學大學醫學系；蘭女鐵餅好手廖心瑀則是文武雙全，將延續運動長才，一圓台灣大學國際體育運動事務學程的體育夢。\n宜蘭高中個人申請連同繁星推薦，今年共計3人錄取醫學系，其中學測自然組榜首陳思果，高一時考取中央研究院高中人才培育計畫後，開啟對生命科學領域的研究興趣，並立志披白袍。\n陳思果在個人申請中正取成功大學醫學系等校，但最後選填離家近的北醫就讀。他說，感謝父母支持，也謝謝數理資優班導師林承遠的教導，以及同儕間彼此的激勵，並鼓勵立志從醫的學弟妹，未來務必著重訓練清晰的邏輯思辯與口語發表，才能在面試中一展身手，錄取心中最佳志願。\n就讀蘭女語文資優班的廖心瑀，父親是宜蘭龍潭國小校長廖世凱，父女倆都是體育健將，廖心瑀遺傳到父親的好身手，屢次在全國鐵餅運動賽事中拿下好成績，選填志願則在台大國際企業學系與國際體育運動事務學程間徘徊，最終遵循內心聲音，決定繼續邁向體育路。\n她說，自己透過運動紓解壓力，從中提升抗壓性及恆心毅力，期盼能將過去3年培養的能力與未來大學階段所學專業，結合自己對運動的熱愛，為台灣的體育環境做出貢獻。\n蘭陽女中廖心瑀（中）一圓台大體育夢，和導師許秀華（左）、校長陳銓合影。（蘭陽女中提供）\n大學個人申請入學放榜，宜蘭高中204人上榜。（宜蘭高中提供）",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->entrance examination",
+      "Education->college and university",
+      "Human Interest->graduation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_hk",
+        "top_news_nz",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:36:28.779+03:00",
+    "updated": "2025-06-13T08:07:59.000+00:00"
+  }
+]

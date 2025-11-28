@@ -1,0 +1,289 @@
+[
+  {
+    "uuid": "cf3a68da097ec1269548864b83f841ab9f17f5f9",
+    "url": "https://www.maz-online.de/lokales/potsdam-mittelmark/unfall-auf-a9-bei-koeselitz-fahrer-wird-in-auto-eingeklemmt-vollsperrung-am-16-juli-3624DKMIFZAFZG6C6RTPMN7W2E.html",
+    "ord_in_thread": 0,
+    "author": "Sven Schuster",
+    "published": "2025-07-17T04:42:00Z",
+    "title": "Unfall auf A9 bei Köselitz: Fahrer wird in Auto eingeklemmt - Vollsperrung am 16. Juli",
+    "text": "Unfall auf A9 bei Köselitz: Fahrer wird in Auto eingeklemmt\nAus bislang ungeklärter Ursache ist es am Mittwochabend zu einem Unfall auf der A9 zwischen Klein Marzehns und Köselitz (Potsdam-Mittelmark) gekommen. (Symbolbild)\nQuelle: Stefan Puchner/dpa\nKöselitz. Am Mittwochabend (16. Juli) ist ein Mann bei einem Unfall auf der Autobahn A9 in Fahrtrichtung Leipzig in seinem Fahrzeug eingeklemmt worden. Zu dem Vorfall kam es zwischen den Anschlussstellen Klein Marzehns und Köselitz (Potsdam-Mittelmark). Die Autobahn musste zeitweise voll gesperrt werden.\nDie Feuerwehr rückte mit mehreren Einsatzfahrzeugen an und befreite die Person, die anschließend dem Rettungsdienst übergeben wurde. Wie schwer der Mann verletzt wurde, dazu konnte ein Polizeisprecher am Abend keine Angaben machen. Wie es zu dem Unfall kommen konnte, ist derzeit Gegenstand polizeilicher Ermittlungen.\nRettungshubschrauber habe nicht landen können\nNach Informationen der Märkischen Allgemeinen Zeitung wurde für den Einsatz auch ein Rettungshubschrauber alarmiert. Aufgrund starker Regenwolken konnte dieser jedoch nicht direkt an der Unfallstelle landen.\nDie Autobahn wurde zunächst voll gesperrt, später konnte die linke Spur wieder für den Verkehr freigegeben werden. Die mittlere und rechte Spur blieben während der Bergungsarbeiten weiterhin gesperrt.\nMAZ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->transportation accident and incident",
+      "Crime, Law and Justice->reckless driving",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Stefan Puchner",
+          "sentiment": "none"
+        },
+        {
+          "name": "Klein Marzehns",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Köselitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "Potsdam-Mittelmark",
+          "sentiment": "none"
+        },
+        {
+          "name": "Leipzig",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Märkischen Allgemeinen Zeitung",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "dpa",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "DPA",
+              "exchange": "LON"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:49:56.694+03:00",
+    "updated": "2025-07-18T05:05:08.000+00:00"
+  },
+  {
+    "uuid": "50dcf09c6e24417cb371a36dbb5354e2cc81430e",
+    "url": "https://gbtimes.com/why-can%ca%bct-i-open-discord",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GB Times",
+    "published": "2024-08-30T11:13:00Z",
+    "title": "Why canʼt I open discord?",
+    "text": "Why Can’t I Open Discord?\nAre you experiencing issues opening Discord? You’re not alone. Many users have reported difficulties launching the popular communication platform, and it can be frustrating to resolve. In this article, we’ll explore the most common reasons why you can’t open Discord and provide solutions to get you back up and running.\nWhy Can’t I Open Discord?\nBefore we dive into the troubleshooting process, let’s identify the most common reasons why you can’t open Discord:\n• Corrupted files or settings : Discord’s files or settings may be corrupted, preventing the app from launching.\n• Outdated or incompatible software : Discord may not be compatible with your operating system, browser, or other software.\n• Network issues : Connection problems or firewall restrictions may block access to Discord.\n• Account issues : Your Discord account may be compromised, suspended, or experiencing technical difficulties.\n• Hardware or software conflicts : Conflicts with other software or hardware components may prevent Discord from launching.\nCommon Issues and Solutions\nHere are some common issues and their solutions to help you troubleshoot and resolve the problem:\nTable of Contents\nToggle\nCorrupted Files or Settings Outdated or Incompatible Software Network Issues Account Issues Hardware or Software Conflicts Corrupted Files or Settings\nSolution: Try reinstalling Discord or resetting the app to its default settings. Step 1: Close Discord and any other related processes.\nStep 2: Go to the Discord installation folder (usually C:Users<YourUsername>AppDataLocalDiscord ) and delete the app-0.X.X folder (replace X.X.X with your Discord version).\nStep 3: Restart your computer and try launching Discord again.\nOutdated or Incompatible Software\nSolution: Ensure your operating system, browser, and other software are up-to-date. Step 1: Check for updates for your operating system, browser, and other software.\nStep 2: Update any outdated software and restart your computer.\nStep 3: Try launching Discord again.\nNetwork Issues\nSolution: Check your internet connection and adjust your firewall settings. Step 1: Check your internet connection and ensure you’re connected to a stable network.\nStep 2: Check your firewall settings and ensure Discord is allowed to access the internet.\nStep 3: Try launching Discord again.\nAccount Issues\nSolution: Check your Discord account status and reset your password if necessary. Step 1: Log out of Discord and log back in.\nStep 2: Check your email for any account-related notifications or updates.\nStep 3: If you’re unable to log in, try resetting your password and logging back in.\nHardware or Software Conflicts\nSolution: Identify and resolve any conflicts with other software or hardware components. Step 1: Close all other software and background applications.\nStep 2: Restart your computer and try launching Discord again.\nStep 3: If the issue persists, try disabling any recently installed software or hardware components.\nAdditional Troubleshooting Steps\nIf the above solutions don’t resolve the issue, try the following additional steps:\nClear your cache and cookies : Clearing your browser’s cache and cookies may resolve issues related to corrupted files or settings.\nDisable antivirus software : Temporarily disable your antivirus software to rule out any conflicts or issues.\nRun a system file check : Run a system file check (SFC) to identify and repair any corrupted system files.\nReinstall your operating system : As a last resort, you may need to reinstall your operating system to resolve the issue.\nConclusion\nIn conclusion, there are several reasons why you can’t open Discord, and by following the troubleshooting steps outlined in this article, you should be able to identify and resolve the issue. Remember to check for updates, clear your cache and cookies, and disable antivirus software to help resolve common issues. If the problem persists, it may be worth reaching out to Discord’s support team for further assistance.\nTable: Discord Troubleshooting Steps\nIssue\nSolution\nCorrupted files or settings\nReinstall Discord or reset app settings\nOutdated or incompatible software\nUpdate operating system, browser, and other software\nNetwork issues\nCheck internet connection and adjust firewall settings\nAccount issues\nCheck account status and reset password if necessary\nHardware or software conflicts\nIdentify and resolve conflicts with other software or hardware components\nAdditional Resources\nFor more information and support, please visit the following resources:\nDiscord’s official website: www.discord.com\nDiscord’s support page: support.discord.com\nDiscord’s community forums: forum.discord.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.discord.com",
+      "http://support.discord.com",
+      "http://forum.discord.com",
+      "http://www.support.discord.com",
+      "http://www.forum.discord.com",
+      "http://discord.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T16:44:58.774+03:00",
+    "updated": "2024-08-30T16:44:58.774+03:00"
+  },
+  {
+    "uuid": "efc0946b30881e213b0a2f9066a98cbe835848f9",
+    "url": "https://www.ladepeche.fr/2023/12/30/un-bon-bilan-pour-sauvons-le-patrimoine-de-pompignan-11669626.php",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Correspondant",
+    "published": "2023-12-30T03:09:00Z",
+    "title": "Un bon bilan pour \"Sauvons le patrimoine de Pompignan\" - ladepeche.fr",
+    "text": "John Dumoutier, nouveau résident de l’association Sauvons le patrimoine de Pompignan, qui œuvre en particulier à restaurer les trésors de l’église, dresse un bilan de l’année 2023 dans sa lettre d’information largement diffusée.\nUne des actions importantes de l’année a été la mise en place d’une commission histoire animée par Jacques Carral, de l’académie de Montauban et spécialiste du marquis Lefranc de Pompignan. Un projet au long cours est envisagé pour le moment encore tenu secret ! En 2023 également, une lettre d’information a vu le jour qui met en lumière les actions de l’ASPP.\nCôté animation, un après-midi gratuit de découverte du patrimoine culturel du village a été offert au public, ainsi qu’une conférence (le 29 avril) sur le voyage de M. de Pompignan par J. Carral, suivie par l’interprétation d’une mazurka de salon de Joseph Bazin, intitulée \"Souvenirs de Pompignan\" jouée pour la première fois depuis sa création en 1888 par le pianiste de l’association Amadeus de Grisolles. Cet événement a été suivi par environ quatre-vingts personnes.\nUne conférence de l’abbé Passerat le 16 mars 2024 Pour se faire mieux connaître, l’association a participé au forum des associations à la rentrée et rencontré ainsi de nombreux habitants qui ne la connaissaient pas pour les sensibiliser à l’importance de préserver le patrimoine communal. Cet automne, le grand tableau \"Regina Pacis\" a été emporté pour une cure de jouvence qui va durer plusieurs mois. Retour courant 2024.\nDéjà John Dumoutier pense à 2024 avec une conférence de l’abbé Passerat, historien et occitaniste, le 16 mars, sur \"Les Reliques et les reliquaires de Pompignan : une forme de la piété à l’âge classique\". En novembre, le public sera sûrement nombreux pour une soirée contes avec un conteur-paysan du Quercy. D’autres actions auront lieu qui seront annoncées au fur et à mesure. En 2024 aussi, l’association devra trouver de nouveaux partenaires et mécènes pour pouvoir continuer son travail autour de la restauration des œuvres. Chaque membre peut et doit s’investir dans cette tâche importante et nécessaire. Bien sûr, la municipalité est très présente dans cette action de protection du patrimoine communal collectif, église et autres.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T06:47:14.374+02:00",
+    "updated": "2023-12-30T06:47:14.374+02:00"
+  },
+  {
+    "uuid": "23b5657188b0ef9f61b7d88753f066923eb95eea",
+    "url": "https://www.caughtoffside.com/2023/12/28/1565390/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jake Staniland",
+    "published": "2023-12-28T23:22:00Z",
+    "title": "Arsenal make unwanted history in 2-0 loss to West Ham",
+    "text": "The loss to West Ham underscores the need for Arsenal to reinforce their attack, particularly with a striker, as they enter the January transfer window. Despite dominating possession and recording 30 shots on goal, the Gunners were unable to convert their chances, resulting in a frustrating 2-0 defeat and a missed opportunity to claim the top spot in the Premier League. As the season reaches its midpoint, Liverpool holds a two-point lead at the top. Arsenal’s defeat to West Ham should be a wake-up call, marking their first home loss of the season. While David Moyes’ team showcased strong defensive skills and could have secured a larger margin of victory, Arsenal’s inefficiency in front of goal contributed to the disappointing outcome, emphasiaing the need for improvement. Mikel Arteta must have found the lack of finishing frustrating, especially against a West Ham defence missing key players. Despite numerous opportunities and good positions, Arsenal’s attack lacked precision, deviating from the controlled style they’ve exhibited this season. Arsenal made history tonight against West Ham as they registered the most touches ever in the opposition box without finding the net (77). ??| Arsenal took a record 77 touches inside the opposition’s box without scoring a goal tonight against West Ham. Blockage. [pic.twitter.com/ugnQy7vLqA] — CentreGoals. (@centregoals) [December 28, 2023] As the title race unfolds, Arteta will need to address these issues, and the upcoming match against Fulham presents an opportunity for improvement. If similar misfirings happen again, it is likely the Gunners will shoot their shot in a bid to find themselves a proven goalscorer in the January transfer window.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mikel arteta",
+          "sentiment": "none"
+        },
+        {
+          "name": "david moyes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "liverpool",
+          "sentiment": "none"
+        },
+        {
+          "name": "arsenal",
+          "sentiment": "none"
+        },
+        {
+          "name": "premier league",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "west ham",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:25:26.757+02:00",
+    "updated": "2023-12-29T01:57:05.209+02:00"
+  },
+  {
+    "uuid": "c7ac6df1683333ab4d2d79820d19802ed0ca0154",
+    "url": "https://www.lecturas.com/diario/jorge-rey-lanza-devastador-mensaje-su-prevision-tiempo-para-este-fin-semana-sobre-dana-no-ha-terminado_165335",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alicia Alarcón",
+    "published": "2024-11-01T09:08:00Z",
+    "title": "\\\"No ha terminado\\\": Jorge Rey lanza un devastador mensaje con su previsión del tiempo para este fin de semana sobre la DANA",
+    "text": "Parece que la catastrófica DANA que devastó Valencia el pasado martes todavía no abandonará el país. Según el último pronóstico del joven gurú del tiempo, Jorge Rey, este fin de semana se esperan más lluvias y preocupantes tormentas. De hecho, la Agencia Estatal de Meteorología (AEMET) ha lanzado nuevos avisos naranjas y amarillos ante la alarmante situación y asegura que la gota fría \"todavía puede dar algún susto\". La previsión del tiempo para este fin de semana empeora en algunas áreas de España \"Desesperación en Valencia y absoluto caos, pero todavía toca hablar de fuertes tormentas estos próximos días en España. Por tanto, precaución\", así ha comenzado el joven burgalés su última previsión meteorológica para este fin de semana en la que ha señalado que la DANA \"no ha terminado\". Aunque si parece que el tiempo ha dado tregua en ciertas áreas de la Comunidad Valencia devastadas por la gota fría, no lo hará en el resto del país. Todo señala que la DANA se extenderá durante los próximos días al norte de Levante, Baleares y suroeste de Andalucía . \"Tenemos todavía una zona de inestabilidad, de bajas presiones. Una DANA sobre España que nos seguirá afectando todavía dejándonos más tormentas fuertes\", subraya Jorge Rey. Las distintas comunidades donde se espera que la gota fría provoque inundaciones ya se han puesto en alerta. Los expertos piden \"máxima precaución\" y aseguran que es clave evitar las carreteras sin un motivo de fuerza mayor . En esta misma línea, la AEMET ha lanzado varios avisos naranjas y amarillos para la jornada de hoy en Extremadura, oeste de Andalucía y la costa de Cataluña. Además, la agencia ha puesto en alerta roja a la provincia de Huelva ante la inminente llegada de fuertes precipitaciones. \"En zonas como Huelva, se espera que las tormentas se intensifiquen dejando así un día lluvioso en Extremadura y áreas de Aragón\", señala Jorge Rey. Desde ayer, Andalucía y Huelva han registrado alrededor de 1.600 incidencias relacionadas con la DANA. El Ayuntamiento de Hueva ha pedido se extreme precaución ante la peligrosa situación. Los expertos aseguran que, tras la catástrofe sufrida en Valencia, no es momento de \"bajar la guardia\" . \"Avisos naranjas, fuertes tormentas y lluvias\" son los fenómenos que ha destacado el joven burgalés hoy en España y por los que también ha pedido que se mantenga \"la precaución\". \"Se están registrando lluvias torrenciales en localidades como Cartaya, con 117 litros por metro cuadrado en menos de tres horas. 70 de ellos en solo una hora. El aviso sigue activo, por ahora. La DANA va a seguir provocando hoy tiempo adverso\", ha sentenciado la AEMET. Descienden los termómetros mientras que las lluvias se intensifican en la costa mediterránea \"Por San Quintín, el calor toca su fin\". Esta es una de las célebres expresiones que ha utilizado el joven gurú del tiempo para referirse al pronóstico que nos espera este fin de semana. Además de las preocupantes lluvias, las temperaturas también van a sufrir un notable descenso . Según el último pronóstico de Jorge Rey, los termómetros no van a superar los 23ºC. \"Máximas que, de momento, se mantendrán en torno a los 22ºC en Barcelona, 17ºC en Soria o 20ºC en Ciudad Real\", explica. Si el joven burgalés está en lo cierto, los avisos \"se expanden a áreas como las Baleares\". Además del descenso generalizado de las temperaturas y las fuertes lluvias, la AEMET también ha destacado fuertes ráfagas de viento durante la jordana de hoy en las zonas más afectadas por la DANA. Según Jorge Rey, de cara a mañana persisten varias alertas. \"El sábado los avisos seguirán naranjas, aunque en menos sitios, en áreas como Baleares con chubascos importantes en zonas del Levante y máximas que llegarán a los 17ºC en Valencia, 21ºC en Castellón o 18ºC en Burgos\" explica. En general, se esperan tormentas localmente fuertes en el extremo occidental de Andalucía, bajo Ebro y Baleares mientras el resto de España podrá registrar cielos muy nubosos y temperaturas en descenso. Según Jorge Rey, se prevé un pronóstico similar para terminar la semana. \"El domingo quizás lluvias menos fueres, menos importantes, pero todavía hará chubascos en áreas de Levante, por ejemplo, en Castellón o Tarragona y con máximas que llegarán a los 16ºC en Soria a los 23ºC en Cáceres a los 24ºC en Córdoba o a los 22ºC en Castellón\", explica. Eso sí, \"hasta el domingo las acumulaciones se centran en áreas como Huelva del suroeste o incluso costas de Málaga\". Si los pronósticos se cumplen, las \"tormentas llegarán a los 100 y 120 litros especialmente en algunas zonas del sur de Tarragona\" . Aunque todavía es pronto para señalar una fecha exacta en la que se marche la DANA, los expertos y Jorge Rey hablan de la próxima semana. \"El lunes tendremos una DANA ya muy desgastada y se prevé un día mucho más tranquilo. Aun así, todavía se esperan algunos chubascos en áreas del sur de Cataluña, Valle del Ebro, Murcia incluso, pero ya sin mucha importancia\", sentencia Jorge Rey. El joven burgalés ha puesto de manifiesto la importancia de seguir \"los pronósticos del tiempo, mantener la precaución y, por supuesto, evitar los desplazamientos\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jorge Rey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Agencia Estatal de Meteorología",
+          "sentiment": "none"
+        },
+        {
+          "name": "AEMET",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Comunidad",
+          "sentiment": "none"
+        },
+        {
+          "name": "Baleares",
+          "sentiment": "none"
+        },
+        {
+          "name": "Levante",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T12:54:43.561+02:00",
+    "updated": "2024-11-01T12:54:43.561+02:00"
+  }
+]

@@ -1,0 +1,451 @@
+[
+  {
+    "uuid": "581882d7f37e24a867dda19ef85e184bb116d02c",
+    "url": "https://www.techspot.com/news/106954-doom-defies-impossible-running-typescript-type-system.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cal Jeffrey",
+    "published": "2025-02-27T22:49:00Z",
+    "title": "Doom defies the impossible by running in TypeScript's type system | TechSpot",
+    "text": "In context: People have ported Doom to everything from calculators to McDonald's cash registers. There has recently been a push to get the software running on platforms with no actual processing power – PDF and Word documents are the latest examples. Of course, these methods are painfully slow, but it's incredible that the game can even execute on non-computer platforms.\nSoftware engineer Dmitri Mitropoulos has taken porting Doom to non-computing platforms to a whole new level. The programmer managed to get Doom running inside TypeScript's type system – a feat so mind-bogglingly complex that it took him an entire year to pull off.\nTypeScript is a language developed by Microsoft that builds on JavaScript by adding static type-checking to catch coding mistakes before execution. Think of it as a spelling or grammar checker for code, ensuring functions and variables are entered correctly. Developers commonly use it to build large JavaScript applications.\nRunning a game within TypeScript's type system is considered \"impossible.\" Even Mitropoulos noted that he started the project to \"quickly\" prove why it could not be done. However, as he got into it, he became obsessively motivated to make it work. In the end, even seasoned TS developers were left impressed and speechless.\nMitropoulos reacting to TypeScript finally rendering its first frame of Doom. Mitropoulos's version of Doom runs inside 3.5 trillion lines of types, consuming a staggering 177 terabytes. Compiling a single frame takes 12 days, resulting in an excruciatingly slow 0. 9645 frames per second. The TypeScript type tracker must process 20 million type instantiations per second to generate the output, resulting in the extremely slow frame rate.\nDespite the massive overhead, Mitropoulos believes performance improvements are possible. In the Michigan TypeScript Discord server , he suggested that compilation could be reduced to \"1 to 12 hours\" with further optimizations. He has already identified areas where he can improve the speed.\nTo make it all work, he built a virtual machine entirely from TypeScript types, including logical implementations of all 116 WebAssembly instructions required to run Doom. Every element of a functioning computer – RAM, disk space, even an L1 CPU cache – had to be painstakingly recreated within the type system. Since TypeScript only allows string iterations from the left, he had to input binary algorithms in reverse.\nTypeScript community reactions: \"What!?\" \"This is a masterpiece.\" \"I have so many questions.\" Running the program required a custom WebAssembly runtime, processing everything within a TypeScript editor. The TypeScript compiler also had to be modified to handle the project's extreme scale, as its type tracker alone consumed over 90GB of RAM during execution.\nMitropoulos described the effort as a grueling challenge. He wrote 12,364 handwritten tests, learned multiple programming languages, and initially estimated the project would require up to 1.25 petabytes before optimization. At one point, compiling a single frame took three months of continuous type instantiation. He remarked that AI was no help.\n\"Oh, and AI can't help with any of this stuff,\" Mitropoulos said in his brief seven-minute video explanation (masthead). \"It's so low-level that there are no arrays or objects or strings or booleans inside the engine – only binary numbers and Doom only uses 64-bit and 32-bit integers, that's it. Oh, and those integers are neither signed nor unsigned. I spent a whole day figuring that one out.\"\nThe gargantuan task took an entire year of 18-hour days to complete. Other TS developers had so many questions about the project that Mitropoulos plans to release two more videos explaining the highly technical details and his motivations. For now, we have one more piece of evidence proving Doom can run on anything – including things that were never meant to run games at all.\n4 comments 48 likes and shares",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Lifestyle and Leisure->gaming and lottery"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://discord.com/invite/pfKUSmSY",
+      "https://www.typescriptlang.org",
+      "https://www.discord.com/invite/pfKUSmSY",
+      "https://typescriptlang.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "581882d7f37e24a867dda19ef85e184bb116d02c",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:11:51.909+02:00",
+    "updated": "2025-03-07T08:43:29.159+02:00"
+  },
+  {
+    "uuid": "68dc62c1632d7a03b6a73de93689086208de5092",
+    "url": "https://nypost.com/2024/08/15/us-news/cuny-cops-fear-schools-unprepared-for-looming-onslaught-of-anti-israel-protests",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuven Fenton",
+    "published": "2024-08-15T00:00:00Z",
+    "title": "Exclusive | CUNY cops fear schools unprepared for looming onslaught of 'potentially dangerous' anti-Israel protests",
+    "text": "Big Apple college campuses are woefully unprepared to respond to the fresh wave of “potentially dangerous” anti-Israel protests expected when students return to the classroom this fall, CUNY cops warned. The CUNY officers, who blame a systematic dismantling of the public university system’s police forces for the lack of preparation, sounded the alarm after violent demonstrations erupted at campuses across the city in response to the Israel-Hamas war. “The university is going into this under fire – they have no idea what’s going to happen. There’s no preparation,” a CUNY officer speaking on condition of anonymity told The Post. CUNY schools were the scene of some of the ugliest campus violence in the five boroughs last spring — from the occupation of CUNY Graduate Center’s library to a series of violent riots at City College of New York (CCNY)’s Upper Manhattan campus that caused more than $3 million in damage . Even with upcoming events like the anniversary of the Oct. 7 massacre and the presidential elections promising “turmoil,” CUNY officers said school safety officials have done no preparation whatsoever. “There have been no meetings about any of this. Ever since the encampment ended, everyone went on vacation. There’s no ‘Let’s prepare for September,'” he said, noting the schools will likely have a cursory meeting to “check the box” but won’t form any actual battle plan. “It’s going to be bad. Our numbers just aren’t there. If there’s a spontaneous protest that we don’t have any knowledge of, we’re going to be outnumbered – just by the sheer number of students enrolled, we’re outnumbered,” another officer shared. Students will head back to CUNY classrooms on August 28. Meanwhile, the officers’ fingers point squarely at CUNY Executive Public Safety Director André Brown, who took office in 2020. Brown, they claim, epitomizes the post-George Floyd “hands off” policing approach that’s taken hold at universities and police departments across the country, emphasizing “de-escalation” above all, even while officers were being pelted with rocks at campus protests earlier this year. At the same time, officers said Brown has steadily replaced trained CUNY cops with contracted private security contractors — who lack any formal law enforcement training, including how to handle crowd control, they claim. “They just want them to observe and report. It’s absolutely zero. All it is is a window dressing of convenience. They don’t have any sort of requirements that we require for our civil service positions. They’re replacing the civil servants with contractors,” the officer said. Officers say Brown’s approach to campus safety has gutted CUNY’s police force from within, causing attrition rates to skyrocket and department morale to plummet. “There’s no retention anymore with our police. Our academy class used to be 100-to-150. We’ve got five now – five in the academy class. That’s how bad it got,” an officer said, bemoaning the inefficient use of campus safety funds. “They pay is so low for these guys and they’re paying millions for contractors to be here with no training, no background,” he added. “The safety of the campus community is totally not their concern. They’re not concerned about the students and the staff. They’re worried about their image and making sure the students express their freedom of speech.” CUNY’s Public Safety Department did not respond to The Post’s request for comment from Brown. An email sent to Brown’s official CUNY email bounced back as undeliverable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cuny",
+          "sentiment": "none"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "city college",
+          "sentiment": "none"
+        },
+        {
+          "name": "cuny graduate center",
+          "sentiment": "none"
+        },
+        {
+          "name": "ccny",
+          "sentiment": "none"
+        },
+        {
+          "name": "post",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "upper manhattan",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:55:11.013+03:00",
+    "updated": "2024-08-16T00:55:11.013+03:00"
+  },
+  {
+    "uuid": "27026d19d7f3e1beefbac6e1df74583c615d3efe",
+    "url": "https://it.dayfr.com/trends/2066808.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "uline.",
+    "published": "2024-11-28T18:28:00Z",
+    "title": "i sindacati hanno ricevuto venerd\\u00ec, prima di nuove mobilitazioni?",
+    "text": "Venerdì il ministro dell'Agricoltura riceverà i rappresentanti di diversi sindacati degli agricoltori. Ma mentre il governo dovrà fare nuovi annunci all’inizio di dicembre, alcuni prevedono già una mobilitazione che “assomiglierà a quella dell’anno scorso” quest’inverno.\n28/11/24 – 23:05 – I sindacati degli agricoltori sono stati ricevuti venerdì dal ministro Annie Genevard\nI rappresentanti di diversi sindacati degli agricoltori saranno ricevuti venerdì 29 novembre dal ministro dell'Agricoltura, Annie Genevard. Tra questi, quelli della FNSEA, Giovani Agricoltori, Coordinamento Rurale, ma anche Modef. La Confederazione contadina, invece, verrà ricevuta “nei prossimi giorni”, si legge, come nota franceinfo. Obiettivo di questi incontri? “Raccogliere le loro richieste di semplificazione normativa e prendere nota dell'attuazione delle misure più urgenti”, afferma il ministero.\n28/11/24 – 22:07 – In Charente-Maritime, gli agricoltori restituiscono alcuni… 250 segnali stradali\nIn tutta la Francia, quando la rabbia comincia a rimbombare nelle campagne, molti cartelli vengono capovolti per significare che il mondo cammina sulla testa, o talvolta addirittura rubati. È il caso di circa 250 pannelli della Charente-Maritime che sono stati finalmente restituiti giovedì, riferisce [France](/tag/France) Bleu. Utilizzando tre grandi trattori, gli agricoltori hanno restituito ai sindaci i cartelli che indicavano l'entrata o l'uscita dal loro comune.\n28/11/24 – 21:06 – Diversi “fuochi di rabbia” si sono accesi nella Somme giovedì sera\nQuesta sera gli agricoltori della Somme si mobilitano. Su iniziativa della FDSEA e dei Giovani Agricoltori locali, “fuochi di rabbia” sono stati accesi in una decina di comuni, tra cui Essertaux, Albert, Bayonvillers, Friville-Escarbotin, Hornoy-le-Bourg, Oisemont, Villers-Bocage e Ponthieu-Marquenterre. comunità di comuni, elenchi Francia 3. Il loro obiettivo: “mostrare il disordine e l’incomprensione degli agricoltori di fronte ad un’amministrazione in superficie.\n28/11/24 – 20:09 – Dovremmo aspettarci “qualcosa che assomiglierà all'anno scorso”\nDal lato dei Giovani Agricoltori 31, alcuni vedono la mobilitazione durare “tutto l’inverno”. A seconda degli annunci del governo del 6 dicembre, il movimento potrebbe riprendere slancio. Per il rappresentante della JA31, Tristan Fava d'Albert, dobbiamo aspettarci “qualcosa che assomiglierà all'anno scorso, qualcosa che durerà tutto l'inverno”, spiega come riportato da France Bleu. E ha aggiunto: “Penso che non abbiano compreso appieno che le misure che vogliono annunciarci non saranno sufficienti. Siamo nella mentalità di lasciare stare il Natale, di lasciare soli i cittadini, ma penso che accadrà all'inizio del prossimo anno.”\n28/11/24 – 19:04 – Una nuova mobilitazione a metà dicembre a Tolosa, promette la FDSEA 31\nMentre la manifestazione di giovedì a Tolosa ha riunito solo una ventina di agricoltori – che sono comunque riusciti a stendere la paglia sui gradini della città amministrativa e a saldare un cancello bloccando così l'accesso all'agenzia dell'acqua e all'Ufficio francese per la biodiversità -, un nuovo annuncio del Il governo previsto per il 6 dicembre potrebbe rimettere in moto la macchina. Nel caso in cui gli annunci dell'esecutivo non dovessero soddisfare le aspettative degli agricoltori, il 12 dicembre sarà organizzata una nuova giornata di azione, promette la FDSEA 31, con la possibilità di trovare i trattori sulla tangenziale e forse anche all'aeroporto di Blagnac, staffette Francia Blu.\n28/11/24 – 14:43 – La fabbrica della Danone Gers è stata sbloccata\nQuesto martedì, il Coordinamento rurale (CR) ha bloccato l'ingresso di quattro camion stranieri pieni di prodotti lattiero-caseari deperibili nello stabilimento di Gervois di Danone, situato a Villecomtal-sur-Arros. Dopo 24 ore di blocco, gli agricoltori presenti hanno finalmente deciso di sgomberare i locali mercoledì 27 novembre sera. “Per noi è un'ottima cosa perché abbiamo l'impegno tripartito che volevamo e saremo in grado di creare il settore locale dell'avena”, indica Lionel Candelon, presidente del Gers della CR Occitanie.\n28/11/24 – 13:37 – Azione di punch a Clermont-Ferrand\nQuesta mattina presto, numerosi agricoltori della FNSEA si sono riuniti davanti alla Direzione regionale per l'ambiente, lo sviluppo e l'edilizia abitativa (DREAL) di Clermont-Ferrand, a Puy-de-Dôme. Secondo France 3 Auvergne-Rhône-Alpes, avrebbero scaricato rifiuti e macerie per segnalare la loro insoddisfazione per questo servizio dello Stato francese che accusano di “ostacolare” le pratiche agricole. “Eravamo in un piccolo gruppo e scaricavamo pneumatici, borse e scrivevamo un certo numero di cose sui vetri della facciata. Oggi consideriamo che la DREAL è una di quelle amministrazioni che superano gli standard europei, vale a dire che andare oltre le normative richieste”, spiega Sylvain Deloche, segretario generale della FDSEA di Puy-de-Dôme.\n28/11/24 – 12:10 – Il ministro dell'Agricoltura parla delle mobilitazioni\nDopo le azioni portate avanti dagli agricoltori in tutta la Francia, il ministro dell'Agricoltura Annie Genevard è intervenuto per “condannare con la massima fermezza qualsiasi attacco alle persone e alle proprietà”. I manifestanti hanno eretto strutture di blocchi di cemento e cartone davanti all'Agenzia nazionale per la sicurezza sanitaria (ANSES) e all'Istituto nazionale di ricerca per l'agricoltura, l'alimentazione e l'ambiente (INRAE).\nFrance",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T03:58:10.702+02:00",
+    "updated": "2024-11-29T03:58:10.702+02:00"
+  },
+  {
+    "uuid": "a74c551e3d0549e69ffc11350104a98b76b3b269",
+    "url": "https://www.thedailystar.net/news/world/middle-east/news/hopes-gaza-ceasefire-rise-3602096",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dailystarnews",
+    "published": "2024-05-04T18:00:00Z",
+    "title": "Hopes of Gaza ceasefire rise | The Daily Star",
+    "text": "Hopes of Gaza ceasefire rise Hamas negotiators yesterday began intensified talks on a possible Gaza truce that would see a halt to the fighting and the return to Israel of some hostages, a Hamas official told Reuters, with the CIA director already present in Cairo for the indirect diplomacy. The Hamas delegation arrived from the Palestinian movement's political office in Qatar, which, along with Egypt, has tried to mediate a follow-up to a brief November ceasefire amid mounting international dismay over the soaring death toll in Gaza and the plight of its 2.3 million inhabitants. Taher Al-Nono, a Hamas official and advisor to Hamas chief Ismail Haniyeh, said meetings with Egyptian and Qatari mediators had begun and Hamas was dealing with their proposals \"with full seriousness and responsibility\". However, he reiterated the group's demand that any deal should include an Israeli pullout from Gaza and an end to the offensive, conditions that Israel has previously rejected. \"Any agreement to be reached must include our national demands; the complete and permanent ending of the aggression, the full and complete withdrawal of the occupation from Gaza Strip, the return of the displaced to their homes without restriction and a real prisoner swap deal, in addition to the reconstruction and ending the blockade,\" the Hamas official told Reuters. An Israeli official signalled its core position on this was unchanged, saying \"Israel will under no circumstances agree to ending the war as part of a deal to free our hostages.\" More than 34,600 Palestinians have been killed - 32 of them in the past 24 hours - and more than 77,000 have been wounded in Israel's military operation, according to Gaza's health ministry. The bombardment has laid waste to much of the coastal enclave. - 32 more Palestinians killed in Israeli strikes - Any deal should include Israeli pullout from Gaza: Hamas - Death toll in enclave now 34,654 Before the talks began there was some optimism over a potential deal. \"Things look better this time but whether an agreement is on hand would depend on whether Israel has offered what it takes for that to happen,\" a Palestinian official with knowledge of the mediation efforts, who asked not to be named, told Reuters. Meanwhile, Gaza's Civil Defence agency and hospitals reported several more deaths from strikes in Gaza's north, centre, and in Rafah.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "taher al-nono",
+          "sentiment": "none"
+        },
+        {
+          "name": "ismail haniyeh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "daily star hopes",
+          "sentiment": "negative"
+        },
+        {
+          "name": "cia",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "cairo",
+          "sentiment": "none"
+        },
+        {
+          "name": "qatar",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-04T21:27:18.319+03:00",
+    "updated": "2024-05-04T21:27:18.319+03:00"
+  },
+  {
+    "uuid": "60fb9ef95c277c4fdbaea3cd74fc9e59a1692570",
+    "url": "https://en.pressbee.net/show4043417.html?title=oc-animal-control-seizes-at-least-120-cats-from-fullerton-home",
+    "ord_in_thread": 0,
+    "author": "The Orange County Register",
+    "published": "2025-07-03T06:17:08Z",
+    "title": "OC Animal Control seizes at least 120 cats from Fullerton home",
+    "text": "At least 120 cats of various breeds and ages were seized from a home in a quiet Fullerton neighborhood on Wednesday, July 2, much to the surprise of some nearby residents.\nOrange County Animal Control spokesperson Jackie Pratt said a community member had called the agency and reported seeing “a large number of cats at the residence and were concerned about their welfare.”\nAnimal control officers were dispatched around noon to the 2600 block of Balfour Avenue, near Chapman Avenue and west of the 57 Freeway, along with several Fullerton Police officers. The cats, which ranged from kittens to older adult cats, were found in and around the home.\nThe total amount of cats seized has not been determined yet, as animals were still being processed for intake at the agency’s headquarters in Tustin. Pratt said a lot of the cats suffered from some form of contagious illness and would receive proper treatment and care with the agency. She added that it didn’t appear that the cats were mistreated, there were just unfortunately too many.\nNeighbors described the whole ordeal as odd, and many said the large police presence was unexpected for their area. One 68-year-old woman, who asked not to be named, said animal control officers had come around a week prior asking about cats in the neighborhood.\nNo arrests were made. Residents living inside the home where the animals were seized declined to comment.\nPratt said the case is being investigated as a criminal matter and if charges were filed, it would likely be for a misdemeanor animal cruelty charge, citing a failure to properly care for the animals. The animals will eventually be available for adoption after they receive medical treatment and the investigation is complete.\n“We have tons of cats at the shelter, so if they want to foster or adopt any of our current residents, it’ll help us make room for these rescues,” she added.\nThe shelter is located at 1630 Victory Rd. Tustin, CA 92782.\nRelated Articles\nSilverwood Lake Recreation Area closed through July 4th holiday weekend Couple whose failure to care for their son led to permanent brain damage convicted in OC of child abuse YouTuber gets 6 months for street racing in Orange County, but can wear monitor instead of jail CHP officer suffers apparent medical emergency, crashes into tree in Culver City and dies Charter Communications calls Van Nuys attack ‘domestic terrorism,’ LAPD calls it vandalism Read More Details\nFinally We wish PressBee provided you with enough information of ( OC Animal Control seizes at least 120 cats from Fullerton home )\nAlso on site :",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Health",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Social Issue->charity",
+      "Social Issue->communities",
+      "Social Issue->social services",
+      "Health->public health",
+      "Health->health organisation",
+      "Crime, Law and Justice->animal abuse"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ocregister.com/2025/07/02/oc-animal-control-seizes-at-least-120-cats-from-fullerton-home",
+      "https://ocregister.com/2025/07/02/oc-animal-control-seizes-at-least-120-cats-from-fullerton-home"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jackie Pratt",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Chapman Avenue",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Orange County Animal Control",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Fullerton Police",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T09:17:08.091+03:00",
+    "updated": "2025-07-03T06:20:57.000+00:00"
+  },
+  {
+    "uuid": "6a0843ff21af83647d077d54611668a47e93a7ca",
+    "url": "https://whbl.com/2023/12/28/tnf-week-17-preview-props-prediction/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Syndicated Content",
+    "published": "2023-12-28T21:31:00Z",
+    "title": "TNF Week 17: Preview, Props, Prediction",
+    "text": "All the New York Jets wanted in 2023 was one healthy and productive quarterback. Looking back, they might wish they had answered when Joe Flacco knocked in September.\nFlacco instead played catch with his brother an hour away from the Jets’ facility and waited three more months for the Cleveland Browns to call.\nAnd did he ever answer.\nFlacco has the Browns (10-5) on the doorstep of an improbable playoff bid and gets a visit from his old team, the Jets (6-9), on Thursday night with a chance to hand-deliver a reminder of what might have been for the beleaguered New York franchise.\nBeat the Jets, and the Browns can clinch a spot in the playoffs.\n“We talked about it a little bit this past week. Every week you look at the game and you’re like, ‘Man, it’s a big win. Another big one,'” Flacco said.\nQUICK PICK\nJourneyman Trevor Siemian is the Jets’ fourth starting quarterback of the year and his experience is very valuable, especially behind an inconsistent offensive line. However, that will be put to the ultimate test on the road, on a short week and against Cleveland’s top-ranked defense with the Browns trying to clinch a playoff spot.\nPrediction: Browns 23, Jets 13\nTRENDING\nThe Browns are consensus 7.5-point favorites. That includes at BetMGM, where the line moved from opening at 7.0 with Cleveland backed by 73 percent of the bets and 67 percent of the money.\nThe Browns’ moneyline has also been popular, with it shifting from -300 to -350 while drawing 78 percent of the money. However, the Jets have been backed by 52 percent of the total bets at +280.\nThe Over/Under has been split with the point total settling at 34.5 by Thursday. The Over has drawn 57 percent of the bets and 51 percent of the money at the book.\nPROP PICK\nBrowns TE David Njoku Anytime TD (+185 at DraftKings): Njoku has found quick chemistry with Flacco, catching 22 passes for 239 yards and four touchdowns over the past three games. He’s also averaging 10.3 targets over that span. Njoku has been a popular player in the prop market at both books, but you’ll get a slightly better payout at DraftKings than the same prop at +160 at BetMGM.\nTHE NEWS\nThe fourth quarterback to start for the Browns this season, Flacco took over in Week 13. Since then, he leads the NFL with 1,307 yards and 10 touchdowns. The Jets have 10 total TD passes in 2023.\nWhen New York and 30 other teams passed, Flacco said he fell right into the ideal spot with the Browns.\n“You think you are coming into a good situation,” Flacco said of signing with the Browns. “There’s a possibility for this. I think you assume from the outside this is a pretty good situation. When you get here it’s an even better situation than you’ve imagined.”\nThe Jets expected to be in this position but with another heavily seasoned quarterback, Aaron Rodgers, at the controls. Without Rodgers, a championship-caliber defense wasn’t enough to consistently generate wins using Zach Wilson, Tim Boyle and Siemian at quarterback.\nRunning back Breece Hall is proving to be a lifeline for the Jets’ offense with 39 receptions in the past six games. Hall had 191 yards from scrimmage (95 rushing, 96 receiving) in last week’s win against the Commanders.\nThe Browns’ defense has allowed fewer than 300 yards in five of its past six games. Cleveland is first against the pass (160.1 yards per game), total defense (260.3 yards per game), yards per play (4.46 yards) and interception rate (3.46 percent).\n“I think the fans are going to bring the energy, I think we’re going to bring the energy,” Browns guard Joel Bitonio said.\nKEY STAT\nDefensive end Myles Garrett has 13 of the Browns’ 44 sacks in 2023.\nINJURY REPORT\nWilson will not play because of a concussion. Siemian is expected to get his second consecutive start after throwing for 217 yards and a touchdown during Sunday’s 30-28 victory over Washington.\nThe Jets will also be without offensive tackle Duane Brown (back) and tight end Jeremy Ruckert, while running back Israel Abanikanda (ankle), wide receiver Allen Lazard (illness) and kicker Greg Zuerlein (right quadriceps) are questionable.\nThe Browns have lost multiple quarterbacks to season-ending injuries. Deshaun Watson (shoulder) and rookie Dorian Thompson-Robinson (hip) are on injured reserve along with running back Nick Chubb (knee) and both of the Browns’ starting offensive tackles.\nAlso out for Cleveland are defensive end Ogbo Okoronkwo (pectoral) and linebacker Anthony Walker (knee). Punter Corey Bojorquez (left quad) is doubtful, while wide receivers Amari Cooper (heel) and Marquise Goodwin (knee) and free safety Juan Thornhill (calf) are questionable.\nTHEY SAID IT\nJets head coach Robert Saleh, who interviewed to be Cleveland’s head coach in 2020 and coached Flacco in New York, isn’t surprised by Flacco steering the Browns into the playoff picture.\n“I’ve said it before, he’s like a Ford pickup truck. You might not like it in the summer but in the winter months that son of a gun starts humming,” Saleh said.\n–Field Level Media",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe flacco",
+          "sentiment": "none"
+        },
+        {
+          "name": "flacco",
+          "sentiment": "none"
+        },
+        {
+          "name": "journeyman trevor siemian",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new york jets",
+          "sentiment": "negative"
+        },
+        {
+          "name": "browns",
+          "sentiment": "none"
+        },
+        {
+          "name": "cleveland",
+          "sentiment": "none"
+        },
+        {
+          "name": "cleveland browns",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:12:31.369+02:00",
+    "updated": "2023-12-29T00:12:31.369+02:00"
+  },
+  {
+    "uuid": "99be1b18eb6a4b009cf65f817bb3bc455704c670",
+    "url": "https://news.knowledia.com/au/en/articles/t-rex-researchers-eviscerate-misleading-dinosaur-leather-announcement-099502cb2d629a89108309c83ccd2adb76d2cd0c",
+    "ord_in_thread": 0,
+    "author": "Patrick Pester",
+    "published": "2025-04-30T23:16:16Z",
+    "title": "T. rex researchers eviscerate 'misleading' dinosaur leather announcement",
+    "text": "Companies claim that Tyrannosaurus rex leather could soon be entering the luxury fashion market, but dinosaur researchers say you can't make genuine T. rex skin. The companies want to make luxury goods out of T. rex skin-inspired material. The bag in this image is crocodile leather.\nA partnership of companies has announced that it plans to make luxury fashion accessories out of Tyrannosaurus rex \"leather\" — but researchers say it won't be the real deal.\nThe T. rex leather will be produced in a lab and is intended to be an \"eco-friendly\" and \"cruelty-free\" alternative to traditional leather, according to a statement released by creative agency VML, one of the three companies involved.\nThe partnership, which also includes biotechnology companies Lab-Grown Leather Ltd and The Organoid Company, plans to base its new material on fossilized T. rex collagen, a common protein that provides structure to skin and other tissues. It will then make the material by engineering cells with synthetic, or artificially created, DNA.\nHowever, dinosaur experts told Live Science that making real T. rex leather would require DNA from the extinct predator, and there isn't any. Furthermore, paleontologists have only found T. rex collagen in bone, not skin, and skin is the basis for leather.\nThomas Holtz, Jr. , a vertebrate paleontologist at the University of Maryland, told Live Science that he thought the T. rex leather claim was \"misleading\" after reading the announcement. \"What this company is doing seems to be fantasy,\" Holtz said in an email.\nLive Science approached VML for comment, but it didn't provide one.\nRelated: 'Dispiriting and exasperating': The world's super rich are buying up T. rex fossils and it's hampering research\nSign up for the Live Science daily newsletter now Get the world's most…\nPatrick Pester",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->biology",
+      "Science and Technology->scientific research",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.livescience.com/animals/dinosaurs/t-rex-researchers-eviscerate-misleading-dinosaur-leather-announcement",
+      "https://livescience.com/animals/dinosaurs/t-rex-researchers-eviscerate-misleading-dinosaur-leather-announcement"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Lab-Grown Leather Ltd",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Organoid Company",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "VML",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T02:16:16.100+03:00",
+    "updated": "2025-05-01T00:19:30.000+00:00"
+  }
+]

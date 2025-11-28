@@ -1,0 +1,369 @@
+[
+  {
+    "uuid": "7a116466dc0b7e8a399b527704e52edf3d17a990",
+    "url": "https://www.cnnbrasil.com.br/internacional/analise-russia-avanca-sobre-leste-da-ucrania-apos-ofensiva-em-kursk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "afonsobenites",
+    "published": "2024-08-22T22:14:00Z",
+    "title": "Análise: Rússia avança sobre leste da Ucrânia após ofensiva em Kursk",
+    "text": "A guerra na Ucrânia continua a se intensificar, com novos desenvolvimentos em várias frentes. De acordo com o analista sênior de Internacional da CNN Américo Martins, a Rússia está avançando significativamente no leste da Ucrânia, enquanto as forças ucranianas tentam manter suas posições após recentes ofensivas na região de Kursk.\nAs autoridades russas afirmaram ter detido uma nova tentativa de invasão por parte de militares ucranianos em seu território nos últimos dias.\nO incidente teria ocorrido na cidade de Bryansk, localizada a aproximadamente 250 km de Kursk.\nLeia Mais\nMoscou abre investigação contra correspondente da CNN na Rússia\nPutin faz reunião de governo para avaliar incursão ucraniana em Kursk\nRússia afirma ter frustrado nova incursão ucraniana na fronteira Segundo os russos, unidades de inteligência e de elite das forças ucranianas teriam tentado realizar atos de sabotagem na fronteira para facilitar uma invasão, mas foram impedidas pelas tropas russas.\nZelensky visita tropas na fronteira Em resposta à situação, o presidente ucraniano, Volodymyr Zelensky, visitou as tropas na região de Sumy, que faz fronteira com a Rússia.\nDurante a visita, Zelensky reafirmou a intenção de manter uma “área tampão” na região para evitar possíveis ataques russos a partir de Kursk, área recentemente ocupada pelas forças ucranianas.\nEntretanto, nem todas as notícias são favoráveis à Ucrânia. A cidade de Pokrovsk, localizada no leste do país, na região de Donbass, está sendo evacuada devido ao avanço das tropas russas.\nPokrovsk é considerada um importante centro logístico para o exército ucraniano, sendo utilizada para movimentação de tropas, armamentos e suprimentos para a linha de frente.\nImpacto estratégico da possível queda de Pokrovsk A possível perda de Pokrovsk para as forças russas representa uma séria ameaça à logística ucraniana na frente de batalha no leste do país.\nAmérico Martins destaca que, se a cidade for tomada, como parece provável, a capacidade de abastecimento e movimentação das tropas ucranianas será significativamente comprometida.\nEstes eventos demonstram que, apesar dos avanços ucranianos em algumas áreas, a Rússia mantém uma forte pressão no leste da Ucrânia, indicando que o conflito está longe de uma resolução e que ambos os lados continuam a buscar vantagens estratégicas no campo de batalha.\nOs textos gerados por inteligência artificial na CNN Brasil são feitos com base nos cortes de vídeos dos jornais de sua programação. Todas as informações são apuradas e checadas por jornalistas. O texto final também passa pela revisão da equipe de jornalismo da CNN . Clique aqui para saber mais .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T03:39:00.436+03:00",
+    "updated": "2024-08-23T03:39:00.436+03:00"
+  },
+  {
+    "uuid": "cef34284b5652578e1dc679e5be7fab91c52dd04",
+    "url": "https://yro.slashdot.org/story/25/01/09/2116231/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyright-works-filing-claims",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BeauHD",
+    "published": "2025-01-09T00:00:00Z",
+    "title": "Mark Zuckerberg Gave Meta's Llama Team the OK To Train On Copyright Works, Filing Claims - Slashdot",
+    "text": "[use a dataset of pirated ebooks and articles for training](https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/). They further accuse the company of concealing its actions by stripping copyright information and torrenting the data. TechCrunch reports: In\n[newly unredacted documents filed](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf)(PDF) with the U.S. District Court for the Northern District of California late Wednesday, plaintiffs in Kadrey v. Meta, who include bestselling authors Sarah Silverman and Ta-Nehisi Coates, recount Meta's testimony from late last year, during which it was revealed that Zuckerberg approved Meta's use of a data set called LibGen for Llama-related training. LibGen, which describes itself as a \"links aggregator,\" provides access to copyrighted works from publishers including Cengage Learning, Macmillan Learning, McGraw Hill, and Pearson Education. LibGen has been sued a number of times, ordered to shut down, and fined tens of millions of dollars for copyright infringement.\nAccording to Meta's testimony, as relayed by plaintiffs' counsel, Zuckerberg cleared the use of LibGen to train at least one of Meta's Llama models despite concerns within Meta's AI exec team and others at the company. The filing quotes Meta employees as referring to LibGen as a \"data set we know to be pirated,\" and flagging that its use \"may undermine [Meta's] negotiating position with regulators.\" The filing also cites a memo to Meta AI decision-makers noting that after \"escalation to MZ,\" Meta's AI team \"[was] approved to use LibGen.\" (MZ, here, is rather obvious shorthand for \"Mark Zuckerberg.\")\nThe details seemingly line up with reporting from\n[The New York Times](https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html)last April, which suggested that Meta cut corners to gather data for its AI. At one point, Meta was hiring contractors in Africa to aggregate summaries of books and considering buying the publisher Simon & Schuster, according to the Times. But the company's execs determined that it would take too long to negotiate licenses and reasoned that fair use was a solid defense. The filing Wednesday contains new accusations, like that Meta might've tried to conceal its alleged infringement by stripping the LibGen data of attribution.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->social sciences",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/",
+      "https://www.nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html",
+      "https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf",
+      "https://nytimes.com/2024/04/06/technology/tech-giants-harvest-data-artificial-intelligence.html",
+      "https://www.techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims/",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.376.0.pdf",
+      "https://techcrunch.com/2025/01/09/mark-zuckerberg-gave-metas-llama-team-the-ok-to-train-on-copyrighted-works-filing-claims"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mark Zuckerberg Gave Meta",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Ta-Nehisi Coates",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sarah Silverman",
+          "sentiment": "none"
+        },
+        {
+          "name": "McGraw Hill",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Macmillan Learning",
+          "sentiment": "none"
+        },
+        {
+          "name": "Pearson Education",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:25:46.357+02:00",
+    "updated": "2025-01-10T01:25:46.357+02:00"
+  },
+  {
+    "uuid": "da89b331e638e4366c87c3cea7c0af9013368598",
+    "url": "https://aventurasnahistoria.uol.com.br/noticias/reportagem/julfest-como-o-nazismo-usou-o-natal-como-propaganda.phtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ingredi Brunato",
+    "published": "2023-12-24T11:00:00Z",
+    "title": "Julfest: Como o nazismo usou o Natal como propaganda",
+    "text": "O governo nazista fez de tudo para desencorajar a festa cristã centrada em Jesus Cristo, um messias judeu; criando assim sua própria versão do Natal\nA propaganda foi uma parte essencial da Alemanha nazista. Uniformes, bandeira, símbolos, cumprimentos e muito mais: a ideologia pregada pelo Partido Nazista comandado por Adolf Hitler tomou conta da cultura alemã da época.\nJoseph Goebbels, o ministro da propaganda, era o braço direito do\nFührer e a mente por trás de muitas das estratégias de marketing que ajudaram a consolidar a popularidade do regime.\nO\nNatal, por sua vez, que era uma festividade cuja comemoração pela população alemã era muito enraizada no século 20, não ficou de fora da intervenção do governo nazista. A data de origens cristãs, afinal, é centrada na celebração do nascimento de Jesus Cristo, um menino judeu visto como o salvador da humanidade.\nNão é difícil entender, portanto, porque o período natalino era uma fonte de muitos incômodos para Hitler — que conduziu a perseguição e posterior genocídio do povo judeu, e era frequentemente retratado como uma figura messiânica nos materiais nazistas.\nO regime ditatorial não podia, contudo, banir a festividade completamente, dada sua força na Alemanha, de forma que optou por, em vez disso, modificar as tradições natalinas a fim de refletirem sua ideologia. Entenda abaixo alguma das maneiras através das quais isso foi feito!\nNa tentativa de separar o Natal de suas raízes cristãs, o\nPartido Nazista promoveu uma volta da cultura pagã germânica. Eles pediram, por exemplo, que a população comemorasse a data no dia 21 de dezembro, que é quando ocorre o solstício de inverno no Hemisfério Norte, em vez do dia 25. Também passaram a chamar a celebração de \"Julfest\".\nAlém disso, fizeram uma repaginada nos principais personagens natalinos:\nJesus Cristo, o messias judeu, começou a ser chamado de \"menino solar\" (que renascia das cinzas ao fim do inverno); enquanto o Papai Noel se tornou \"Wotan\", conforme repercutiu o Smithsonian Magazine.\nAs melodias típicas do Natal são uma parte fundamental da cultura natalina, e também algo que o Führer não conseguiria eliminar. Assim, a alternativa foi reescrever muitos dos jingles das datas, com as novas letras refletindo as crenças da ideologia nazista. \"Noite Feliz\", por exemplo, ganhou uma nova versão que glorificava Hitler:\nTudo é calmo, tudo é esplendido. Apenas o Chanceler fica em guarda. O futuro da Alemanha para vigiar e proteger. Guiando nossa nação certamente\", diziam os primeiros versos da canção.\nA releitura foi incluída em livros de partituras da época, além de ter tomado os rádios e a televisão, assim se fixando na mente dos alemães.\n+ Hitler criou uma versão nazista do clássico 'Noite Feliz'\nOs enfeites natalinos são outro elemento importante do Natal, e frequentemente simbolizam detalhes da história bíblica do nascimento de Cristo. Por isso, o Partido Nazista também precisou modificá-los.\nEle incentivou, em vez disso, que os pinheirinhos do Julfest fossem decorados com objetos em forma de suástica, Rodas do Sol de Odin (que é um ícone pagão pertencente à mitologia nórdica) e águias douradas. Ainda de acordo com o Smithsonian Magazine, também existem relatos das famílias assando biscoitos natalinos trazendo esses símbolos.\nPara completar essa campanha de substituição do Natal pela Julfest, o governo de Hitler também distribuiu diversos materiais de propaganda, trazendo o foco para ações de caridade realizadas pelo regime.\nDurante a comemoração, a juventude hitleriana também recebia presentes que reforçavam a ideologia nazista, como calendários tematizados com símbolos das crenças na supremacia racial ariana.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://pt.wikipedia.org/wiki/F%C3%BChrer",
+      "https://pt.wikipedia.org/wiki/Partido_Nacional-Socialista_dos_Trabalhadores_Alem%C3%A3es",
+      "https://www.pt.wikipedia.org/wiki/F%C3%BChrer",
+      "https://www.pt.wikipedia.org/wiki/Partido_Nacional-Socialista_dos_Trabalhadores_Alem%C3%A3es"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T13:57:52.261+02:00",
+    "updated": "2023-12-24T13:57:52.261+02:00"
+  },
+  {
+    "uuid": "da505fc1de7cda03e84eec9f1aa75327b69376db",
+    "url": "https://www.meneame.net/story/condenas-no-mientas-oscar-puente-desmonta-agitador-ultra-javier/c096",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sideshow",
+    "published": "2024-01-25T21:06:00Z",
+    "title": "#96 \"Condenas, no mientas\": Óscar Puente desmonta al agitador ultra Javier Negre en un tuit",
+    "text": "[Delay](/user/Delay)a [publico.es](/go/link/3901173) [#14](c14#c-14): Hay una diferencia: Óscar Puente en su gestión no ha provocado la muerte de muchísimos ancianos.\nY el no-populismo es ser valiente y rechazar un proyecto que había en\n#Valladolor que llenaba muchos titulares, pero que la ciudad NO se podía permitir por ser muy caro.\nA ver cuántos alcaldes en su posición hubieran hecho eso, decir \"lo siento vecinos, esto no va a ser posible, os han engañado\", y que llore el que tenga que llorar, pero si no hay dinero, no se hace.\n[#77](c77#c-77): ¿Cuál, una promesa para una legislatura en la que se presentó y perdió? Cuando perdió eso quedó finiquitado, los programas electorales son para la legislatura en la que los presentas, luego ya no valen (vale el programa nuevo que se haga).\nA lo mejor a ti se te ha caído un soterramiento también, pero junto a un minibernabeu, un plan de limpieza, ensanchar un puente y yo que sé cosas más que aún no vemos avances, y en el caso del soterramiento, mejor que no se vean.\n¿Sabes algo más? Agradecido estoy de que mandara a la basura la idea de soterrar sin ancho ibérico, como usuario del tren agradezco poder seguir usándolo, algo que estaría en el aire de haberse ejecutado un soterramiento tal y como se planteaba, le doy las gracias por cambiar de idea respecto a 2011, y digo esto cruzando la vía casi a diario. Doy las gracias de que impusiera la sensatez al populismo barato.\nEdito: de barato nada, la deuda iba por 400 millones de euros y subiendo. ¿Cuánto nos hubiera costado soterrar? Y mientras tanto estábamos sin trenes de proximidad, que los pusieron hace un año.\nEn\n[#83](c83#c-83) cuento más.\n[#79](c79#c-79): Para los que lean este mensaje, que sepan que es un vídeo sacado de contexto.\nEn\n[#82](c82#c-82) cuento lo que pasó, aunque en mensajes anteriores míos podréis ver más detalles.\nSoterramiento, pero solo para el AV€ (y otra avifauna similar), y los que íbamos (y seguimos yendo) en trenes regionales que nos den. ¿No? ¿Ese era el concepto de ciudad del PP que promovía ese proyecto, olvidar los trenes que paran en pueblos?\nHabía una campaña de \"mi pueblo no se cierra\", pero sí lo dejaban sin tren con ese proyecto.\nY a los que no se puedan pagar la alta v€locidad, que les den también. ¿No?\n[#82](c82#c-82) Preguntate por que en Murcia lo tienen (Viendo lo que pasó a Valladolid salieron a la calle gorbenando el PP), Getafe lo tiene desde hace años. Ni que fueras del PSOE diciendo que esta fuera de contexto, deja que la gente lo vea opine limpiamente. Creo que era una línea roja el sorretamiento.\n[#90](c90#c-90): En Murcia que hagan lo que estimen más conveniente, ya son varios los pueblos que se han quedado sin tren con eso de poner solo ancho internacional. Aquí tenemos una ciudad con unas características y unas posibilidades económicas. plantear eliminar todo lo que no sea AV€ (y avifauna similar: Avant, Alvia...) es una agresión contra aquellos que viajan en trenes regionales.\nEn Getafe lo que tienen es que soterraron el tren para dejar más sitio para los coches:\nhttps://www.google.com/maps/@40.3109836,-3.7333314,195m/data=!3m1!1e3?entry=ttu\n¿Soterrar para los que van en coche? Que lo financien poniendo un peaje en la avenida que se ponga, y una indemnización a los que nos toque tragar la contaminación.\nNi que fueras del PSOE diciendo que esta fuera de contexto, deja que la gente lo vea opine limpiamente. Creo que era una línea roja el sorretamiento.\n¿Está fuera de contexto poner aquí un vídeo de hace 13 años y no decirlo?\nPor supuesto, que la gente opine libremente sabiendo los detalles que no cuentas:\n- El soterramiento no tiene apoyo vecinal salvo cuatro asociaciones del PP (manifestaciones donde van más políticos que ciudadanos).\n- 400 millones sin soterrar nada en la ciudad, solo en El Pinar, y sin completar las \"obras auxiliares\".\n- Un crédito leonino, y no lo digo por el firmante (firma ilegal), sino por el tipo de interés.\n- ¿Dije ya que era solo con vías UIC para alta velocidad y que los demás no pintábamos nada en ese 2016 que finalmente no fue?\nOjalá más alcaldes se animasen a abandonar el titular fácil y mirasen por el futuro de la ciudad.\n[#14](c14#c-14) La frutas es mucho peor que este. La frutas, en ocasiones, interviene sola y exclusivamente para acaparar titulares diciendo burradas. La frutas no tiene ideología, dice lo necesario para enervar rojos. La frutas es un muñeco en manos de un borracho.\n[#41](c41#c-41) No, el objetivo de la hijafruta es marcar el debate. Ella suelta la animalada a primera hora y ese día ya solo se habla de eso y no de otras cosas que a ella no le apetece que se comenten. Cuánto más gorda la animalada mejor, que si dijera algo más suave igual alguien se distraía y se ponía a hablar de otra cosa.\nVamos a hablar de una cosita, y es que desde siempre el ala derecha ha jugado a hacerse los muy indignados puño de hierro mandibula de cristal\nY les funciona.\nTiene su publico.\nSi los ignoras eres izquierda buenista y supremacia moral y patatas y si les devuelves el golpe ah es que politica de zascas y populismo.\nEntonces sinceramente llegados a este punto del barrizal, casi mejor zascas y que haya lol.\n[#17](c17#c-17) De hecho es para lo que parece que lo han metido en este gobierno. Claro que nombrarlo ministro de \"Zascas y Loles\" todavía no se ve aceptable así que le han dado una cartera con otro nombre más serio.\n[#19](c19#c-19) Tambien es diver ver como la misma gente que ve obvia y muy indignante la tarea de Óscar Puente, misteriosamente sufre una ceguera atroz ante Ayuso...\n[#19](c19#c-19): Ni caso a lo del soterramiento, es un vídeo fuera de contexto, como siempre.\nEn 2011 hizo esa promesa, pero no ganó ese año sino a la legislatura siguiente.\nEs un engaño, y no tenían ancho ibérico, era un soterramiento solo para trenes avícolas caros, si ibas en tren regional no tenías vía, y la deuda iba por 400 millones de euros, que eso tampoco te lo van a decir. Eso era lo que nos querían colocar, que solo fueran en tren los rico$, los pobres fuera, que hagan autoestop.\nEl rechazo del soterramiento del tren fue una bala esquivada.\n[#85](c85#c-85) Jo macho, deja de guiar a la gente que ya es mayorcita y no hace faltan que les dicten. Parecéis una secta.\n[#10](c10#c-10) Tienen tendencia a insultar e inventarse cosas, y cuando se enfrentan a las consecuencias, se rasgan las vestiduras gritando \"censura!!! dictadura!!! quiero libertad!!!\".\nCuando veo esta gente, no puedo evitar recordar a qué les pasó a los SD con Hitler en el poder, o la falange con Franco asentado. Suelen mantener a los matones y librarse de los bokachanclas.\n[#13](c13#c-13) No sólo tiene la valentía de responder como se merece la chusma de fachos que tenemos la desgracia de padecer en este país, es que además es un gran gestor y un gran orador. Habla muy clarito y nunca se esconde en los tópicos y palabrería banal que tanto abunda en la política y que tanto aburre.\nQuien lo compara con Ayuso está al mismo nivel de estupidez que la muñeca diabólica.\n[#13](c13#c-13) a mí me pone cachondo cuando se pone en ese plan con los fachas pringados que se creen alguien en este dichoso país.\nEste señor escribe un artículo sobre sí mismo y se pone en tercera persona...\nhttps://www.edatv.news/noticias/57428/la-fiscalia-investiga-el-patrimonio-de-javier-negre-por-orden-del-ministro-oscar-puente\n[#7](c7#c-7) yo creo que está tan acostumbrado a hacer cuentas troll que se le ha cortocircuitado la neurona y ha escrito el artículo pensando que estaba suplantando la identidad de otro, ese es el nivel de negre\nNo veo apropiado que un ministro tenga que, ni que responder a este saco de mierda bulero y mentiroso, ni rebajarse a utilizar este lenguaje, por muy \"de la calle\" que sea.\nAparte de quedar fatal es dar carta de valor y relevancia a este triste y patético hombrecillo. Cuanto más se le ignore, mejor.\n[#4](c4#c-4) Ya le ha recomendado Pedro Sánchez que delegue la gestión de las redes sociales.\nEstoy plenamente de acuerdo en que no se puede bajar al barro y ponerse a la altura con los agitadores. Cuesta más desmentir bulos que inventarse otros bulos nuevos. Están mejor ignorados. Hay personas que solo meten mierda y es preferible no tener que verla.\n[#3](c3#c-3) en realidad su dialéctica es buena porque normalmente -como en este caso- usa argumentos racionales e vez de inventarse cosas o recurrir al insulto como hacen sus rivales.\n[#2](c2#c-2) No estaría mal que tampien se ocupe del ministerio. A mí me parece un bocachanclas. Además ese tal condenas no es su rival político, es una mierda.\n[#23](c23#c-23) Te equivocas.... ese bokachanclas da \"argumentos\" (por cutres y cínicos que sean) a muchos miles de fachas. Les proporciona lemas, chascarrillos y repliques, sin que haya que argumentarlo razonadamente. \"Es un ruín y un corrupto! ¿Cómo lo sé? Fácil... es un rojo. Táklaro.\"\nÉstos no necesitan ni quieren saber qué es el IPC, qué parte de la luz viene del precio del gas, a quién beneficia el control de CGPJ o a quién se queda con la tajada del aceite de oliva. Para eso están estos agitadores: para confirmarles a gritos lo que sospechaban: es culpa todo del \"enemigo\".\n[#5](c5#c-5) Mal hecho.\nEl ministro no está para eso, no se le pagan 50000 al año para que suelte magufadas por twitter.\n[#5](c5#c-5) Yo tampoco entiendo porque a un mentiroso profesional reconocido y condenado se le tiene de hablar con mucha educación porque lo mismo le sienta mal y se ponga a llorar el mierdecilla.\n[#91](c91#c-91) La fauna de Twitter es la que hace ver que es periodista en el congreso, a esa fauna hay que darle lo mismo que ella da, sin insultar pero con verdades, totalmente al revés que ellos.\n[#36](c36#c-36) En el congreso intergaláctico de Betelgeusse debatiendo cuánto tiempo les queda para colonizar otro planeta habitable por la inminente muerte de su estrella y nosotros aquí midiendo quién tiene el ombligo más de centro\n[#44](c44#c-44) Te han engañado vilmente.\nLa estrella estalló hace ya 300 años pero nosotros no lo veremos aquí en la tierra hasta dentro de otros 407 años.\nLo que discute el congreso intergaláctico de Betelgeuse es a quien corresponden los derechos de imagen multiespectral por el soberbio espectáculo pirotécnico que es su fase de supernova Tipo II, ya que muchos sistemas cercanos están organizando viajes turísticos para poder contemplar el momento desde distintos puntos estelares de tal forma que se ha convertido en una moda galáctica el llevar un librito de piel de kroneline de Gliese 581g e ir coleccionando los sellos de los distintos patronatos de turismo de esos sistemas y luego presumir con los amigos y familiares de que han visto la explosión desde 8 y hasta 11 sitios distintos.\nLa patente operacional cultural 34H7B esta en tramites para homologarla a la par que hacer el camino de Santiago, la peregrinación al agujero negro central Sagitario a o la Estampida Mecánica Firme del cúmulo globular Omega Centauri.\n[#76](c76#c-76) Si sólo está a 500 años luz de nosotros,,, me parece que será difícil que veamos tal espectáculo desde aquí, desgraciadamente\n...algunos señalan que la actual variabilidad de la estrella indicaría que está en la fase de \"quema\" (fusión) del carbono de su ciclo de vida y, por lo tanto, explotará en algún punto de los próximos 100 000 años.20 Los escépticos disienten de este cálculo y creen que la estrella podría sobrevivir mucho más, en torno a 10 millones de años.\nY de Wired, de este verano\nEl estudio liderado por el astrónomo japonés Hideyui Saio, de la universidad de Tohoku, sugiere que la supernova de Betelgeuse ocurrirá en solo mil años\nhttps://es.wired.com/articulos/supernova-de-la-gigante-roja-betelgeuse-llegara-antes-de-lo-previsto#:~:text=Sin%20embargo%2C%20de%20acuerdo%20con,se%20redujo%20en%20un%2099%25.&text=El%20estudio%20liderado%20por%20el,ocurrir%C3%A1%20en%20solo%20mil%20a%C3%B1os.\nEn cuanto a esta chusma se le pone los puntos sobre las íes se esfuman cual Skibidi cuando se le tira de la cadena.\n[#30](c30#c-30) No creo.\nPonerse al nivel de esos despreciables es darles una popularidad que precisamente buscan y que ni de coña se merecen.\nSólo pueden callarles dándoles hostias, judiciales a ser posible, hasta anularles económicamente el chiringuito que tienen montado junto con sus sponsors.\nQue un ministro (representante público hablando en nombre de todos los españoles) dé réplica a un cualquiera como al energúmeno ese, es ponerse a su nivel, rebajando el nivel del ministerio y del gobierno al de esa chusmilla.\n[#38](c38#c-38) Para nada, esa gente usa todos los insultos que quieren y en voz muy alta para que se les oiga bien y se les tiene que responder igual, en el mismo tono, por que si no podria parecer que tienen razón.\nQuien calla otorga.\nVa para\n#_1 , de uno que le tosió.\nAnda que está para dar lecciones, el defensor de Ayuso y Ortega Smith.\n[#24](c24#c-24) cuando era alcalde soltaba zascas todos los días pero no salía en los periódicos.\nSigue siendo igual de glorioso.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.edatv.news/noticias/57428/la-fiscalia-investiga-el-patrimonio-de-javier-negre-por-orden-del-ministro-oscar-puente",
+      "https://www.google.com/maps/@40.3109836,-3.7333314,195m/data=!3m1!1e3?entry=ttu",
+      "https://es.wired.com/articulos/supernova-de-la-gigante-roja-betelgeuse-llegara-antes-de-lo-previsto#:~:text=Sin%20embargo%2C%20de%20acuerdo%20con,se%20redujo%20en%20un%2099%25.&text=El%20estudio%20liderado%20por%20el,ocurrir%C3%A1%20en%20solo%20mil%20a%C3%B1os.",
+      "https://edatv.news/noticias/57428/la-fiscalia-investiga-el-patrimonio-de-javier-negre-por-orden-del-ministro-oscar-puente",
+      "https://google.com/maps/@40.3109836,-3.7333314,195m/data=!3m1!1e3?entry=ttu",
+      "https://www.google.com/maps/@40.3109836,-3.7333314,195m/data=!3m1!1e3",
+      "https://www.es.wired.com/articulos/supernova-de-la-gigante-roja-betelgeuse-llegara-antes-de-lo-previsto#:~:text=Sin%20embargo%2C%20de%20acuerdo%20con,se%20redujo%20en%20un%2099%25.&text=El%20estudio%20liderado%20por%20el,ocurrir%C3%A1%20en%20solo%20mil%20a%C3%B1os."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:11:00.063+02:00",
+    "updated": "2024-01-26T00:11:00.063+02:00"
+  },
+  {
+    "uuid": "8d3ab5d698d6c35a017493825aef2c23989f1e72",
+    "url": "https://www.informazione.it/n/D5BCB0E9-4AB7-4C4E-95A7-0C93C3EB85AB/Un-indagine-rivela-una-setta-di-fanatici-religiosi-dietro-un-triplice-omicidio",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infoitinterno",
+    "published": "2024-02-22T20:57:00Z",
+    "title": "Un'indagine rivela una setta di fanatici religiosi dietro un triplice omicidio",
+    "text": "[ ](/a/F224F48D-D4FB-48B8-92BC-2BC8E5C2CA42/Orrore-ad-Altavilla-la-coppia-di-predicatori-pronta-a-parlare-ai-magistrati) [Leggi](https://www.blogsicilia.it/palermo/orrore-altavilla-coppia-predicatori-parlare-magistrati/983312/) Nella tranquilla località di Altavilla Milicia, in provincia di Palermo, una tragedia ha sconvolto la comunità. Giovanni Barreca, un muratore locale, è accusato di aver ucciso la moglie Antonella Salamone e due dei loro tre figli, Kevin ed Emanuel, rispettivamente di 16 e 5 anni. Le indagini hanno rivelato che dietro a Barreca e ai suoi due complici, c'è un gruppo più ampio di fanatici religiosi. Questi \"adepti\" avrebbero spinto Barreca a commettere l'orribile delitto durante un folle rito di purificazione dal demonio. La setta, quindi, sembra essere più estesa rispetto alla sola coppia di \"guru\" inizialmente sospettata. I cellulari sequestrati a Massimo Carandente e Sabrina Fina, la coppia di palermitani finita in carcere per il triplice omicidio, stanno fornendo elementi utili agli inquirenti. Dai telefonini, di cui è stata acquisita una copia forense, stanno emergendo i contatti tra i due e con la famiglia Barreca, ma anche con altre persone, probabilmente i \"fratelli di fede\" di cui lo stesso Carandente aveva parlato ai carabinieri al momento del suo fermo. Gli inquirenti stanno ricostruendo il contesto - certamente a sfondo parareligioso - in cui sarebbe maturato l'orribile delitto. Antonella e i suoi figli sarebbero stati uccisi per \"liberarli dai demoni\". La setta non è più soltanto un sospetto nell'indagine sulla tragedia di Altavilla Miliacia. Gli inquirenti hanno nomi e cognomi, e l'indagine continua.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://palermo.gds.it/articoli/cronaca/2024/02/23/la-strage-di-altavilla-milicia-ora-la-coppia-di-predicatori-vuole-parlare-e55f2cb7-19cc-4dae-9bbc-94eaf0df7999/)",
+      "https://www.palermo.gds.it/articoli/cronaca/2024/02/23/la-strage-di-altavilla-milicia-ora-la-coppia-di-predicatori-vuole-parlare-e55f2cb7-19cc-4dae-9bbc-94eaf0df7999/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T08:56:03.939+02:00",
+    "updated": "2024-02-23T11:20:50.418+02:00"
+  },
+  {
+    "uuid": "f406e3bb520f12cd83bfb152360a2f7576da59d9",
+    "url": "https://m.dailyhunt.in/news/india/english/rtnews-epaper-dh96328373a69d4bb48b5584371207706f/india+test+fires+nextgeneration+torpedo+system+video-newsid-n605436082",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Dailyhuntapp",
+    "published": "2024-05-03T02:01:00Z",
+    "title": "India test fires next-generation torpedo system (VIDEO)",
+    "text": "The hybrid weapon can target submarines hundreds of kilometres away, the military said India has tested a new missile-assisted torpedo delivery system off the east coast, the Defence Ministry announced on Wednesday. The next-generation delivery system is aimed at boosting the Indian Navy's anti-submarine warfare capabilities 'far beyond the conventional range of lightweight torpedo,' the statement said.\nThe Defence Research and Development Organisation (DRDO), India's main military design and development agency, successfully fired the Supersonic Missile-Assisted Release of Torpedo (SMART) from from a ground-based mobile launcher on Dr APJ Abdul Kalam Island, off the coast of Odisha state.\nThe canister-based missile is able to travel up to 643 km, before releasing a torpedo into the water with a 20 km range, armed with a 50 kg warhead.\nThe test was performed to validate mechanisms including symmetric separation, ejection and velocity control, the Defence Ministry noted. It was the third publicly reported test of the SMART system, the previous ones being in December 2021 and October 2020, according to Indian media.\n\\n DRDO today successfully flight tested Supersonic Missile Assisted Release of Torpedo( SMART) from Dr APJ Abdul Kalam Island off the coast of Odisha. https://t.co/sbrcms4Upn @DefenceMinIndia @SpokespersonMoD pic.twitter.com/xAVBoQ5gF5\n— DRDO (@DRDO_India) \\n May 1, 2024 \\n\nIndian Defence Minister Rajnath Singh commented on the test, saying the system will 'further enhance the strength of [the Indian] Navy.'\nThe development comes weeks after the test-firing of a new generation of nuclear-capable ballistic missile - Agni Prime - off the coast of the same state. The medium-range surface-to-surface missile is the latest addition to the Agni 1 to 4 series, with ranges of 700 to 3,500km\nEarlier, the country also conducted a first test flight of the domestically developed Agni 5 missile equipped with Multiple Independently Targetable Re-entry Vehicle technology, which can be aimed at enemy targets thousands of kilometers apart, making them much more difficult to defend against. The test launch was announced by Indian Prime Minister Narendra Modi.\nIndia is also believed to be developing large consignments of Pralay, a surface-to-surface short-range missile similar to Russia's Iskander, which would reportedly be deployed along the borders with China and Pakistan.\nWhere India Meets Russia - We are now on WhatsApp! ‎Follow and share RT India in English and in Hindi\nImage © Ministry of Defence",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.co/xAVBoQ5gF5\\",
+      "https://t.co/sbrcms4Upn",
+      "https://twitter.com/SpokespersonMoD?ref_src=twsrc%5Etfw\\",
+      "https://twitter.com/DefenceMinIndia?ref_src=twsrc%5Etfw\\",
+      "https://twitter.com/DRDO_India/status/1785566658402349217?ref_src=twsrc%5Etfw\\",
+      "https://t.co/sbrcms4Upn\\",
+      "https://www.t.co/sbrcms4Upn",
+      "https://twitter.com/DefenceMinIndia",
+      "https://www.t.co/xAVBoQ5gF5\\",
+      "https://www.twitter.com/SpokespersonMoD?ref_src=twsrc%5Etfw\\",
+      "https://twitter.com/SpokespersonMoD",
+      "https://www.t.co/sbrcms4Upn\\",
+      "https://twitter.com/DRDO_India/status/1785566658402349217",
+      "https://www.twitter.com/DRDO_India/status/1785566658402349217?ref_src=twsrc%5Etfw\\",
+      "https://www.twitter.com/DefenceMinIndia?ref_src=twsrc%5Etfw\\"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abdul",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "defence ministry",
+          "sentiment": "none"
+        },
+        {
+          "name": "drdo",
+          "sentiment": "none"
+        },
+        {
+          "name": "indian navy",
+          "sentiment": "none"
+        },
+        {
+          "name": "defence research and development organisation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "odisha",
+          "sentiment": "none"
+        },
+        {
+          "name": "kalam island",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T20:01:34.421+03:00",
+    "updated": "2024-05-03T20:01:34.421+03:00"
+  },
+  {
+    "uuid": "dcc2e5e6f4daa4ea4be1752082424a378be85d11",
+    "url": "https://report.az/en/foreign-politics/global-dialogue-for-peace-at-the-6th-world-forum-in-baku/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Department News Department Report az https; Static Report Az; Photo; A",
+    "published": "2024-05-03T13:25:00Z",
+    "title": "Global Dialogue for Peace at 6th World Forum in Baku | Report.az",
+    "text": "In the vibrant city of Baku, at the crossroads of Eastern Europe and Western Asia, the 6th World Forum on Intercultural Dialogue recently unfolded, showcasing Azerbaijan’s burgeoning role as a pivotal player in the Caucasus region. This forum, often referred to as the \"Baku Process,\" is not merely a diplomatic or cultural gathering. Instead, it addresses the profound global challenges of cultural divisiveness and intolerance, making it a crucial platform for discussing sustainable development, peace, and cooperation. Under the leadership of President Ilham Aliyev, Azerbaijan has strategically positioned itself as a leader in the Caucasus through proactive diplomacy and cultural initiatives. By hosting this significant event, the country underscores its commitment to global cultural integration and its ambition to mediate in a region often strained by geopolitical tensions. President Aliyev's vision is clear—Azerbaijan is to be seen as a central and invaluable part of the Caucasus, a vision that was palpable throughout the forum. His speeches and initiatives advocate for viewing cultural diversity as a strength rather than a vulnerability, promoting Azerbaijan as a bridge between the East and the West. The forum brought together leaders, policymakers, cultural advocates, and scholars from across the globe to discuss and deliberate on enhancing intercultural dialogue. One of the key outcomes was the Baku Declaration, which emphasizes the creation of inclusive societies that are resilient to discrimination and inequality. This declaration advocates for reinforced policies that promote cultural diversity and intercultural dialogue at both national and international levels. Additionally, several new initiatives were launched during the forum, including educational programs aimed at teaching the youth about the importance of cultural diversity and digital platforms designed to facilitate intercultural learning and exchange. Such initiatives are crucial for educating a generation that is technologically savvy and culturally aware. Azerbaijan's commitment to cultural diplomacy is also evident in its strategic initiatives that enhance regional cooperation. The country has developed cultural corridors that not only boost tourism but also facilitate cultural exchanges, crucial for fostering understanding and reducing conflicts in the Caucasus and beyond. The discourse at the forum also delved into the digital transformation's impact on cultural exchanges. In an era where digital communication platforms dominate, there is a pivotal shift towards using these technologies to bridge cultural gaps. Discussions focused on how digital tools can be harnessed to promote not just dialogue but also cultural preservation. By integrating traditional cultural expressions with modern technology, there is a tremendous opportunity to keep cultural heritage alive and relevant for future generations. The implications of the 6th World Forum on Intercultural Dialogue are extensive. By providing a platform for the exchange of ideas and best practices, the forum has helped develop strategies to tackle cultural stereotyping and prejudice. It has also fostered increased cooperation between nations and cultures, creating a global community keen on achieving peace and sustainable development. Furthermore, the forum has strengthened the role of cultural diplomacy in international relations, proving that cultural exchanges can pave the way for solving complex global issues such as climate change, economic disparity, and international conflict. This enhanced focus on cultural diplomacy can lead to more robust international alliances and cooperative strategies that transcend traditional political and economic negotiations. Moreover, the forum has elevated Azerbaijan’s international profile. By leading such a prestigious event, Azerbaijan has not only showcased its rich cultural heritage but also demonstrated its capability to facilitate significant global discussions. The success of the forum in Baku is a testament to the power of cultural diplomacy in addressing global challenges. The success of the forum in Baku is a testament to the power of cultural diplomacy in addressing global challenges. As nations around the world grapple with issues of cultural divisiveness and social fragmentation, platforms like the Baku Forum are essential for promoting understanding and cooperation. The continuity of this dialogue is crucial, and it is necessary for international leaders and communities to sustain the momentum generated by the forum. This ensures that intercultural dialogue remains a vital tool in the global quest for peace and prosperity. The 6th World Forum on Intercultural Dialogue was more than an event; it was a resonant call to action for all stakeholders to embrace the diversity of our global community. Under the steady leadership of President Ilham Aliyev, Azerbaijan is not only leading the way in the Caucasus but also setting a global standard for celebrating and utilizing cultural diversity as a resource for peace. As we move forward, it is incumbent upon all nations to heed this call and work towards a world where dialogue triumphs over division, and peace over prejudice. By Maarij Farooq, deputy editor-in-chief at Pakistan Economic Net & Daily Ittehad Media Group",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "aliyev",
+          "sentiment": "none"
+        },
+        {
+          "name": "ilham aliyev",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "global dialogue for peace",
+          "sentiment": "negative"
+        },
+        {
+          "name": "intercultural dialogue",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "eastern europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "baku",
+          "sentiment": "none"
+        },
+        {
+          "name": "western asia",
+          "sentiment": "none"
+        },
+        {
+          "name": "azerbaijan",
+          "sentiment": "none"
+        },
+        {
+          "name": "caucasus",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T16:43:26.004+03:00",
+    "updated": "2024-05-03T16:43:26.004+03:00"
+  }
+]

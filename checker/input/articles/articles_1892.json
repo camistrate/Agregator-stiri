@@ -1,0 +1,544 @@
+[
+  {
+    "uuid": "6f8a00090c1c30db2e9c2ae6ee405cdd64e7b79e",
+    "url": "https://www.correiodopovo.com.br/not%C3%ADcias/cidades/temporal-causa-danos-em-diversos-munic%C3%ADpios-ga%C3%BAchos-1.1454613",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Felipe Faleiro",
+    "published": "2023-12-29T16:02:00Z",
+    "title": "Temporal causa danos em diversos municípios gaúchos",
+    "text": "Temporal causa danos em diversos municípios gaúchos Segundo MetSul, tormenta foi causada por encontro da frente fria com ar quente, bem como nuvens com temperaturas negativas publicidade O temporal que atingiu o Rio Grande do Sul nesta sexta-feira causou danos em diversos municípios, ocasionando ao menos 236 mil pontos sem energia elétrica até o final da manhã. Destes, 212 mil estão na área da RGE, especialmente no Norte gaúcho e Missões, e outros 24 mil nos locais de concessão da CEEE Equatorial, principalmente regiões Metropolitana e Centro-Sul. Conforme a Defesa Civil estadual, houve registro de danos em Cândido Godói, Cerro Largo, Giruá, Horizontina, Santa Rosa, Santo Cristo, São Luiz Gonzaga, São Nicolau e Tucunduva, todos no Noroeste. Em Cerro Largo, as rajadas atingiram 106,2 km/h no final da madrugada, causando destelhamentos de residências, além da derrubada da decoração natalina da Praça Central, quedas de árvores e postes. A principal entrada do município chegou a ficar bloqueada. A chuva foi de 54 milímetros em apenas uma hora, entre 6h e 7h de sexta, e as rajadas de vento alcançaram 115 km/h. O município já havia passado por três situações de emergência, de acordo com o prefeito Paulo Kipper. “Precisamos agradecer que ninguém precisou sair das casas. Dentro do possível, estamos distribuindo lonas e trabalhando desde cedo. Temos de encarar esta situação com bastante tranquilidade e paciência, que vamos conseguir nos recuperar”, afirmou ele, acrescentando que não houve desabrigados. Em Ubiretama, a cobertura de uma quadra esportiva junto a praça Telmo Motta caiu, sem deixar feridos. O local havia sido inaugurado pela Prefeitura em junho deste ano. Em Santa Rosa, também houve queda de postes e árvores. Nas duas cidades, houve falta de energia elétrica. Na região Central, houve registro de estragos em Candelária, onde o posto de saúde do bairro Marilene ficou alagado e apresentou problemas de energia elétrica. O local precisou ser fechado. Já em Santa Cruz do Sul, houve queda de granizo, além do vento forte, danificando telhados de cerca de 20 moradias e parte da Escola Municipal José Leopoldo Rauber. As regiões com os maiores estragos foram os bairros Esmeralda e Rauber. Conforme a Defesa Civil, foram feitos cerca de 50 pedidos de lona. Oito árvores caíram a força do vendaval, com rajadas estimadas em 60 km/h, de acordo com o balanço da prefeitura. Em Boa Vista das Missões, também houve estragos e quedas de árvores, e ao menos 20 residências foram destelhadas, registrou a MetSul Meteorologia. Em São Nicolau, também de acordo com a MetSul, galpões com estruturas de ferro caíram, e diversos postes de luz de estradas vicinais tombaram. Bairros sofreram destelhamentos. Em Vera Cruz, uma árvore caiu na pista na localidade de Entrada Ferraz. Houve danos ainda em Tenente Portela, com ao menos 40 casas e prédios comerciais danificados, e ainda em Erechim e na ERS 480, entre Barão de Cotegipe e São Valentin, o posto de saúde do bairro Marilene alagou, e ainda foram registradas falhas na energia elétrica. O local não funcionou ontem. Em Porto Alegre, uma árvore caiu na rua Pinheiro Borda, bairro Cristal, na zona Sul, interrompendo o trânsito na via, e houve acúmulo de água no cruzamento da avenida Sertório com a rua Voluntários da Pátria. Faltou energia elétrica na Estação de Tratamento de Água (ETA) Belém Novo por duas horas, porém, de acordo com a Prefeitura, o abastecimento não foi comprometido devido aos reservatórios estarem cheios. Conforme a MetSul Meteorologia, as rajadas de vento chegaram a 90 km/h em São Vicente do Sul e São Borja, 87 km/h em Maçambará, 85 km/h em São Luiz Gonzaga e 84 km/h em Júlio de Castilhos. Explicação Ainda segundo a MetSul, os temporais foram causados pelo encontro da frente fria com o ar quente, que formou grandes nuvens de tempestade. No final da madrugada da sexta, imagens de satélite mostravam que a temperatura no topo das nuvens na fronteira oeste era de 90ºC negativos, indicando nuvens verticais imensas de temporal com altitudes de até 15 quilômetros. Neste final de semana, o tempo melhora, com uma massa de ar seco e frio, e a instabilidade se desloque para o norte, rumo a Santa Catarina, Paraná, além das regiões Sudeste e Centro-Oeste do país.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:19:29.757+02:00",
+    "updated": "2023-12-30T00:16:26.231+02:00"
+  },
+  {
+    "uuid": "ed79b81027dc997ea9ebb9b644c4a243c7f9d500",
+    "url": "https://lwn.net/Articles/998236",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bignose",
+    "published": "2024-11-15T02:22:00Z",
+    "title": "PyPI dropped existing support for digital attestations",
+    "text": "PyPI dropped existing support for digital attestations\nPyPI dropped existing support for digital attestationsPosted Nov 15, 2024 2:22 UTC (Fri) by bignose (subscriber, #40)\nIn reply to:\n[PyPI dropped existing support for digital attestations](/Articles/998235/)by Cyberax\nParent article:\n[PyPI now supports digital attestations](/Articles/998215/)\n> Right here:\nhttps://docs.pypi.org/trusted-publishers/internals/\nThat does not show any existing Trusted Providers with user control over their identity, as I asked for. (Because it does not show any Trusted Providers at all.)\nThe issue I'm raising is not \"how do I, a hosting provider, create a new Trusted Provider and get it accepted by PyPI?\".\nThe issue I'm raising is: there was community-controlled, user-sovereign identity. Flawed, of course, but it was ours, not a closed platform. In 2023 it was taken away (for problems that, I've repeatedly said, were real and needed to be addressed).\nApparently that was removed without any community-controlled, user-sovereign replacement. And still I don't see any that PyPI has, in fact, accepted. Where are they? If they don't exist, yet the one we had was removed, then *that's* the issue I'm pointing to.\nRemoving support for the existing community-controlled, user-sovereign identity, and expecting that people will just use the closed-platform providers, sucks the urgency to come up with a proper community controlled replacement because most people will just accept the closed web solution. Which is how it becomes worse, not better.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://docs.pypi.org/trusted-publishers/internals/",
+      "https://docs.pypi.org/trusted-publishers/internals",
+      "https://www.docs.pypi.org/trusted-publishers/internals/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T05:00:27.695+02:00",
+    "updated": "2024-11-15T05:00:27.695+02:00"
+  },
+  {
+    "uuid": "28e2659312cdc7dab98b165360545ec0790d3a99",
+    "url": "https://www.freiepresse.de/sport/lokalsport/mittelsachsen/hockey-freiberger-schuelerinnen-gewinnen-landesfinale-und-duerfen-nach-berlin-artikel13846326",
+    "ord_in_thread": 0,
+    "author": "@freie_presse",
+    "published": "2025-06-12T08:30:00Z",
+    "title": "Hockey: Freiberger Schülerinnen gewinnen Landesfinale und dürfen nach Berlin",
+    "text": "Freiberg\nDie Hockey-Mädchen des Geschwister-Scholl-Gymnasiums haben das Landesfinale von „Jugend trainiert für Olympia“ für sich entschieden. Nun geht es im September gegen die besten Schulmannschaften der Republik.\nDie Schülerinnen (Jahrgänge 2010 bis 2013) des Geschwister-Scholl-Gymnasiums haben am Mittwoch ihren Heimvorteil genutzt. Beim Feldhockey-Landesfinale des Bundeswettbewerbs „Jugend trainiert für Olympia“ haben sie sich den 1. Platz gesichert. Lohn ist nun die Teilnahme am Bundesfinale im September. „Es ist schon ein großer Erfolg für...\nRegistrieren und testen.\nJetzt mit Ihrer Registrierung 1 Monat gratis testen und alle Beiträge lesen.\nSchon Abonnent? Melden Sie sich mit ihren Zugangsdaten an.\n© Copyright Chemnitzer Verlag und Druck GmbH & Co. KG",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Education"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->ice hockey",
+      "Human Interest->record and achievement",
+      "Education->students",
+      "Education->upper secondary education",
+      "Education->school"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Freiberg",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Olympia",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:40:01.441+03:00",
+    "updated": "2025-06-12T08:46:12.000+00:00"
+  },
+  {
+    "uuid": "38e7cb8e64f59bf0ba710bd545b917a12af730e8",
+    "url": "https://www.amny.com/politics/hochul-war-hate-crimes-new-york",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aidan Graham",
+    "published": "2024-01-25T22:01:00Z",
+    "title": "War on hate crimes: Hochul launches massive effort to stop bias-motivated attacks on New Yorkers | amNewYork",
+    "text": "Following a major rise in hate crimes across New York state, Gov. Kathy Hochul on Thursday proposed expanding the list of charges that can be prosecuted as bias-motivated offenses, and announced millions in new funding to protect vulnerable institutions across the Empire State.\n“The rising tide of hate is abhorrent and unacceptable – and I’m committed to doing everything in my power to keep New Yorkers safe,” Gov. Hochul said in a statement.\nAccording to the most recent statewide data, the number of hate crimes in the state increased by a stunning 90% between 2020 and 2022 — with another major jump coming after Oct. 7, 2023, when Hamas launched a series of terrorist attacks against Israel and kicked off a war in Gaza.\nIn New York City alone, the NYPD saw 230 hate crimes on the streets of the five boroughs between early October and the end of December 2023 — marking a 43% uptick from the 161 such crimes that occurred during the same time last year. The majority of those incidents were classified as antisemitic .\n“Since the despicable Hamas attacks of Oc. 7, there has been a disturbing rise in hate crimes against Jewish and Muslim New Yorkers,” Hochul said. “[And], in recent years, we’ve seen hate-fueled violence targeting Black residents of Buffalo and disturbing harassment of AAPI and LGBTQ+ individuals on the streets of New York City. We will never rest until all New Yorkers feel safe, regardless of who they are, who they love, or how they worship.”\nWhile statewide data for 2023 is not currently available, police and sheriff departments across the state reported 959 hate crimes in 2022 — the most since 2017, and a 20 percent increase compared to 2021.\nIn an effort to tackle the growing problem, Hochul has proposed legislation that would expand the list of offenses eligible for prosecution as hate crimes.\nWhile only 66 offenses are currently eligible to be classified as hate crimes, Hochul has asked state lawmakers to add 34 more offenses — including vandalism, arson, gang assault, first-degree rape, criminal possession of a weapon, and sex trafficking.\nWhile those are already crimes, the ability of prosecutors to classify them as hate crimes could allow them to seek harsher punishments, and possibly get convictions at higher rates than they currently can.\n“As we witness an unprecedented rise in bias-motivated crimes against Jewish, Muslim, Asian American and LGBTQ people, it’s of utmost importance that New York closes the dozens of loopholes in our hate crime statute to send the urgent message that hatred won’t be tolerated in our state,” said Manhattan state Sen. Brad Hoylman-Sigal.\nBoosting nonprofit security Prior to her Jan. 25 announcement, Gov. Kathy Hochul and Lieutenant Gov. Antonio Delgado met with community leaders about the rise of hate crimes in New York state. Office of Governor Kathy Hochul In addition to the changes in the criminal justice laws, Hochul also used the opportunity to announce that she is seeking millions in new funding, through the Securing Communities Against Hate initiative.\nWhile the governor secured $25 million in additional funding for the program in Fiscal Year 2024, she is looking to boost that funding to $35 million for the Fiscal Year 2025 — marking a combined $60 million over the next two budget cycles.\nThe state funding goes towards helping nonprofit organizations in New York to improve the security of their facilities, which helps to protect against the risk of hate crimes.\nEligible organizations can request up to $200,000 each, and can be used for physical security and cybersecurity projects, Hochul said.\nOrganizations that have previously received security grants under the program, according to the governor’s office, could reapply for greater levels of funding.\nEstablished in 2017, the Securing Communities Against Hate Crimes Grant program is open for applicants that run nonprofit community and civic centers, cultural museums, day care centers, and other nonprofit organizations that may be vulnerable because of their ideology, beliefs, or mission.\nAround 300 projects are expected to be given funding through the program, and will result in improvements to “lighting, locks, alarms, panic buttons, fencing, barriers, access controls, shatter-resistant glass and blast-resistant film, public address systems, strengthening cybersecurity, and impact protection enhancements,” the governor’s office said.\nMaria Imperial, the Commissioner of the state’s Division of Human Rights, hailed the move as a major win for organizations fighting against a wave of criminal bias.\n“Sadly, we are seeing the need for greater security at nonprofit and faith-based community centers that are becoming targets of hate,” said Imperial. “Everyone – no matter their religion or national origin – should feel safe when they connect with their community, family, friends and neighbors.”\nThe deadline for applicants to seek funds through the Securing Communities Against Hate Crimes Grant program is May 17, and more information about eligibility can be found at the Division of Criminal Justice Services website .\n“New York State has a long and storied tradition of embracing people from all cultures and walks of life, yet too many individuals, groups and organizations remain targets for crime because of the very diversity they embody,” said Division of Criminal Justice Services Commissioner Rossana Rosado. “DCJS is proud to help protect our neighbors and communities against hate crimes by providing funding to organizations that know their neighborhoods best so they can continue to safely provide services and safe places for those who may be at risk.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=551839;type=js;sw=",
+      "https://nynj.adl.org/news/2022-audit-ny/",
+      "https://www.addtoany.com/share",
+      "https://www.criminaljustice.ny.gov/ofpa/index.htm",
+      "https://www.governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program#:~:text=The%20New%20York%20State%20Division,ideology%2C%20beliefs%2C%20or%20missions.",
+      "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.amny.com%2Fpolitics%2Fhochul-war-hate-crimes-new-york%2F&linkname=War%20on%20hate%20crimes%3A%20Hochul%20launches%20massive%20effort%20to%20stop%20bias-motivated%20attacks%20on%20New%20Yorkers",
+      "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.amny.com%2Fpolitics%2Fhochul-war-hate-crimes-new-york%2F&linkname=War%20on%20hate%20crimes%3A%20Hochul%20launches%20massive%20effort%20to%20stop%20bias-motivated%20attacks%20on%20New%20Yorkers",
+      "https://addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.amny.com%2Fpolitics%2Fhochul-war-hate-crimes-new-york%2F&linkname=War%20on%20hate%20crimes%3A%20Hochul%20launches%20massive%20effort%20to%20stop%20bias-motivated%20attacks%20on%20New%20Yorkers",
+      "https://addtoany.com/share",
+      "https://www.nynj.adl.org/news/2022-audit-ny/",
+      "https://nynj.adl.org/news/2022-audit-ny",
+      "https://www.addtoany.com/add_to/twitter",
+      "https://www.ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=551839;type=js;sw=",
+      "https://criminaljustice.ny.gov/ofpa/index.htm",
+      "https://addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.amny.com%2Fpolitics%2Fhochul-war-hate-crimes-new-york%2F&linkname=War%20on%20hate%20crimes%3A%20Hochul%20launches%20massive%20effort%20to%20stop%20bias-motivated%20attacks%20on%20New%20Yorkers",
+      "https://www.addtoany.com/add_to/facebook",
+      "https://governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program#:~:text=The%20New%20York%20State%20Division,ideology%2C%20beliefs%2C%20or%20missions."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kathy hochul",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hochul",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york state",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york city",
+          "sentiment": "none"
+        },
+        {
+          "name": "empire state",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:18:56.246+02:00",
+    "updated": "2024-01-26T00:18:56.246+02:00"
+  },
+  {
+    "uuid": "7bfc0c9ef1dafe668d8faf75a7b0f9f3f0072c82",
+    "url": "https://lettersandscience.ucdavis.edu/news/aggie-alum-and-astronaut-tracy-c-dyson-travel-space-third-time",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tracy L Sellers",
+    "published": "2024-01-05T05:00:00Z",
+    "title": "Aggie Alum and Astronaut Tracy C. Dyson to Travel to Space for Third Time | UC Davis College of Letters and Science",
+    "text": "Aggie Alum and Astronaut Tracy C. Dyson to Travel to Space for Third Time Only a select few have viewed our delicate planet from the heavens. Even fewer have journeyed beyond the Earth’s embrace multiple times. And a UC Davis Aggie is among those latter ranks. “When you look at the Earth, to call it Earth is hardly descriptive enough,” said astronaut Tracy C. Dyson, who graduated from the College of Letters and Science at UC Davis with a doctorate in chemistry in 1997. “You see the beautiful hue of our protective atmosphere; the horizon takes on new meaning to you and as the sun sets and peaks up over, as the moon comes and goes through that when you go from light to dark, the planet just takes on a form that is so astounding.” This March, Dyson will travel to the International Space Station (ISS) as a flight engineer and member of the Expedition 70/71 crew. The journey marks her third trip to space. Dyson previously served as a mission specialist on the space shuttle Endeavour in 2007 and as a flight engineer for Expedition 23/24 in 2010, logging more than 188 days in space. “It’s such a stark contrast of life, order, beauty and then blackness, chaos, nothingness, harsh environment,” said Dyson, reflecting on our planet’s place in the cosmos. “It’s almost like the Earth is like an infant that you’ve got swaddled up and its skin is so pink and precious and plump and new.” Over her six-month stay on the ISS, Dyson will conduct a slew of experiments and technology demonstrations, including studying how fire spreads in space using the Combustion Integrated Rack and photographing our ever-shifting planet, among many other experiments and maintenance tasks, according to [NASA.](https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment/) But like all astronauts and NASA personnel, Dyson is always ready to pivot when necessary due to the unpredictable nature of space endeavors. “If there’s anything I’ve learned in the 25 years that I’ve been doing this, it’s that the plan changes,” she said. “So, I’m prepared for the plan to change.” Patterns and symmetries Dyson’s desire to pursue science stretches back to her youth in Southern California. As a high school student, she gravitated towards chemistry, fascinated by subject’s ability to answer questions percolating in her inquisitive mind, like why is the sky blue? Or why does water boil? “I’m not satisfied unless I understand how something works and so I think that’s where the love of chemistry comes from,” said Dyson. “Plus, it was systematic. There were patterns and symmetries and just so much order to chemistry that I really liked.” Her mechanistic mind and love for working with tools were further forged by her father, an electrician. Around age 16, Dyson learned about NASA’s plan to send schoolteacher Christa McAuliffe to space. Dyson’s own schoolteachers were enormously influential in her life. They weren’t just educators; they were counselors and coaches. Inspired, Dyson started learning about McAuliffe and what it takes to become a NASA astronaut. “I found that becoming an astronaut required teamwork, communication, and a knack for using tools; the perfect job for me,” she wrote in a [personal essay ](https://www.nasa.gov/people/tracy-caldwell-dyson/)published by NASA. Though McAuliffe, along with the rest of the Challenger crew, passed away when the shuttle broke apart 73 seconds after liftoff, the tragedy served only to strengthen Dyson’s resolve to join NASA. She just needed to find the path there. Pathways to space Following high school, Dyson enrolled in the chemistry program at California State University, Fullerton. As graduation neared, her research advisor encouraged her to attend graduate school. “Graduate school was not even on my radar until he said, ‘Have you thought about getting a Ph.D.?’” Dyson said. “I thought that was the funniest thing because nobody in my family ever went to college. So, I said, ‘Don’t you need to be a cerebral giant to do that?’ And he said, ‘Well, you do need to be smart, but if you’re here, you’re smart enough.’” Heartened by her advisor’s encouragement, Dyson applied to various graduate schools but set her sights on UC Davis after attending a lecture given by UC Davis Distinguished Research and Emeritus Professor [William Jackson](https://chemistry.ucdavis.edu/people/william-jackson), a pioneer in astrochemistry who worked with NASA. “I said to myself, ‘You’ve got to go there,’” recalled Dyson, who eventually visited the campus and fell in love with its idyllic vibe. “I really enjoyed not just the department but the whole campus. I was enthralled by the bus system and how it’s run by students. It was so different from the SoCal kind of environment that I grew up in.” While studying at UC Davis, Dyson [ learned to fly and speak Russian](https://www.ucdavis.edu/news/alumna-tracy-caldwell-headed-space-station). Her doctoral work was supervised by Professor of Chemistry [Donald Land,](https://chemistry.ucdavis.edu/people/donald-land) who Dyson noted was pivotal in preparing her for her work as an astronaut. After obtaining a Ph.D. in chemistry, Dyson decided to apply to become an astronaut. She waited for a reply and in the interim began a postdoctoral fellowship at UC Irvine. About one year later, she received a call from the Chief of the Astronaut Office who invited her to begin training as an astronaut. SciComm in the Space Age In addition to her myriad scientific duties as an astronaut, Dyson is a passionate science communicator. She’s hosted the NASA TV series “StationLife,” served as a guest judge for a space-themed episode of Food Network’s Cupcake Wars and advised actress Jessica Chastain during the production of Ridley Scott’s film The Martian, among many other science communication endeavors. “We need people to understand that we’re not getting food out of tubes; we’re having actual meals up there,” said. Dyson, referencing her involvement in Cupcake Wars “If we hope to go beyond low Earth orbit and sustain human presence in space, food is a huge part of that.” On the filmmaking front, Dyson hopes to help add doses of reality to how space flight is represented in entertainment, whether through scientific accuracy or helping actors better portray the human element. For The Martian, Dyson recalled being impressed with Chastain’s commitment to accuracy. During one of their consultations, Chastain noticed Dyson’s wedding and engagement rings. The actress inquired if Dyson wore the jewelry during missions. Dyson answered in the affirmative. “If you watch the movie, you’ll notice that she’s got a ring on,” said Dyson, noting the actress zeroed in on that tiny detail. “Those are moments where you really feel like you’ve connected on that human level with someone who now is going to take that knowledge and then use her art, her craft to then communicate further.” According to Dyson, such outreach is imperative to NASA’s mission to educate the public about the realities and importance of space travel for humanity. Dyson will head up to the ISS this March, launching on the Roscosmos Soyuz MS-25 spacecraft. To learn more about Dyson, check out her [ biography](https://www.nasa.gov/people/tracy-caldwell-dyson-2/) on NASA’s website.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment/)",
+      "https://www.nasa.gov/people/tracy-caldwell-dyson-2/)",
+      "https://www.nasa.gov/people/tracy-caldwell-dyson/)published",
+      "https://nasa.gov/people/tracy-caldwell-dyson/)published",
+      "https://nasa.gov/people/tracy-caldwell-dyson-2/)",
+      "https://nasa.gov/news-release/nasa-astronaut-tracy-c-dyson-receives-third-space-station-assignment/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tracy c. dyson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "dyson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "aggie alum",
+          "sentiment": "negative"
+        },
+        {
+          "name": "uc davis college of letters and science aggie alum",
+          "sentiment": "negative"
+        },
+        {
+          "name": "college of letters and science",
+          "sentiment": "none"
+        },
+        {
+          "name": "uc davis",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "earth",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:15:56.988+02:00",
+    "updated": "2024-01-06T00:15:56.988+02:00"
+  },
+  {
+    "uuid": "66298be8db17eb3ee1492bda50744446f426cd13",
+    "url": "https://article.wn.com/view/2025/05/08/Uh_Oh_Theres_a_Problem_With_Psyches_Propulsion_System",
+    "ord_in_thread": 0,
+    "author": "System",
+    "published": "2025-05-08T00:00:00Z",
+    "title": "Uh Oh, There's a Problem With Psyche's Propulsion System - Worldnews.com",
+    "text": "NASA’s Psyche mission is on its way to explore a metal-rich asteroid in the asteroid belt between Mars and Jupiter. All was going well since its launch in October 2023 until nasa announced a decrease in fuel pressure...\nread full story\nNASA’s Psyche mission is on its way to explore a metal-rich asteroid in the asteroid belt between Mars and Jupiter. All was going well since its launch in October 2023 until nasa announced a decrease in fuel pressure...\nread full story",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->astronomy",
+      "Science and Technology->scientific exploration",
+      "Science and Technology->scientific research",
+      "Social Issue->mankind",
+      "Environment->energy resources",
+      "Environment->natural resources",
+      "Environment->sustainability"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.universetoday.com/articles/uh-oh-theres-a-problem-with-psyches-propulsion-system",
+      "https://universetoday.com/articles/uh-oh-theres-a-problem-with-psyches-propulsion-system"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Mars",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NASA",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T04:06:18.387+03:00",
+    "updated": "2025-05-08T01:15:34.000+00:00"
+  },
+  {
+    "uuid": "25ee7e992e9a43f2a81741285f1f21fab93c3f8a",
+    "url": "https://prime.peta.org/news/peta-pack-nyc-marathon-christine-graham",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Haley Van Horn",
+    "published": "2024-02-29T21:09:00Z",
+    "title": "Meet the Pack: Christine Graham",
+    "text": "When it comes to raising money for animals, PETA loves to be creative. And that’s when our [PETA Pack](https://petapack.peta.org/) program often comes into play. The PETA Pack is a group of runners who participate in various races—from full marathons to 5Ks—in the name of animal liberation. This year, six of our runners will take on the United Airlines NYC Half marathon on March 17. This 13.1-mile race will begin in Brooklyn, make its way over the historic Manhattan Bridge and up FDR Drive, wind through Times Square (one of only two times it’s closed each year), and finish in Central Park. Each of our vegan runners will raise funds for PETA causes close to their hearts. We’ll introduce you to one of our runners each week during the lead-up to the big race. [Meet Christine Graham!](https://petapack.peta.org/283/peta-pack/144416/running-for-teachkind) She’s running to support PETA’s humane education division, [TeachKind, ](https://www.peta.org/teachkind/)and its vital work to foster compassion and empathy in students. It provides educational materials and presentations to encourage kindness in students and works with educators and other school staff to help replace animal dissection with effective humane methods, incorporate healthy vegan options in cafeterias, and much more. Teachers are highly influential on their students, and by promoting compassion for all sentient beings at a young age, they can help create a kinder future. By donating to Christine’s fundraiser, you’ll help expand TeachKind’s important impact. [Support Christine’s Run!](https://petapack.peta.org/283/peta-pack/144416/running-for-teachkind) Want to help even more? [Create your own PETA Pack fundraiser today!](https://petapack.peta.org/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Environment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "christine graham",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "peta",
+          "sentiment": "negative"
+        },
+        {
+          "name": "united airlines",
+          "sentiment": "none"
+        },
+        {
+          "name": "peta pack",
+          "sentiment": "none"
+        },
+        {
+          "name": "times square",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "central park",
+          "sentiment": "none"
+        },
+        {
+          "name": "manhattan bridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "brooklyn",
+          "sentiment": "none"
+        },
+        {
+          "name": "fdr drive",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-01T00:34:19.252+02:00",
+    "updated": "2024-03-15T01:27:00.583+02:00"
+  },
+  {
+    "uuid": "ac298ae8e0f4f252a8b5af327fe4695362cdef1d",
+    "url": "https://www.elpais.com.co/deportes/dorival-junior-elogia-a-colombia-previo-al-encuentro-por-eliminatorias-es-un-equipo-que-propone-1918.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción El País / AFP",
+    "published": "2025-03-19T22:11:00Z",
+    "title": "Dorival Junior elogia a Colombia previo al encuentro por Eliminatorias: \"es un equipo que propone\" - El País",
+    "text": "Deportes\nDorival Junior elogia a Colombia previo al encuentro por Eliminatorias: “es un equipo que propone”\nEl duelo de este jueves es de los más esperados de esta fecha de Eliminatorias.\nBrasil espera una Colombia propositiva para el partido clasificatorio que sostendrán el jueves en Brasilia, debido a que es un “equipo que propone” y se esfuerza por atacar a sus rivales, dijo este miércoles el seleccionador brasileño, Dorival Júnior.\n“Colombia no solamente tiene juego físico, juega al fútbol. Pone el balón en el suelo, busca asociarse, tiene muchas cualidades. Tiene un jugador como James (Rodríguez), que todos conocemos muy bien. Un medio campo muy fuerte, de combate y salida de la pelota”, dijo el técnico en una rueda de prensa en la capital brasileña.\n“Es un equipo que propone, que en todo momento buscará jugar contra la selección brasileña. Tenemos que tener los cuidados y actitudes suficientes para neutralizar, lo máximo posible, las embestidas de nuestro adversario y confiar en nuestra evolución”, agregó.\nBrasileños y colombianos chocarán en el estadio Mané Garrincha a las 7:30 p.m., por la jornada 13 de la eliminatoria sudamericana para el Mundial de 2026.\nNinguno de los dos combinados venció en la pasada doble fecha de noviembre, pero ambos están en zona de clasificación directa a falta de seis partidos para el final: la ‘Seleção’ es quinta, con 18 puntos, mientras que los cafeteros son cuartos, con 19.\n“Colombia tiene una estructura de juego muy bien definida (...) No creo que por dos o tres resultados (malos) cambien nada”, sostuvo Dorival Júnior.\nEl seleccionador de 62 años lamentó la baja del astro Neymar, que sufre de una lesión muscular, pero dijo que tiene prácticamente definida la titular contra Colombia, salvo “una o dos dudas” del medio campo y el ataque. Uno de los interrogantes es si se decantará por el centrodelantero Joao Pedro, del Brighton, o por el extremo Savinho, del Manchester City.\n“Confío y creo mucho en el trabajo que estamos haciendo y creo en un futuro muy prometedor. Todo es cuestión de tiempo, trabajo y repetición”, afirmó sobre las críticas contra el fútbol de los pentacampeones del mundo.\nDespués de recibir a Colombia, subcampeona de la Copa América de 2024, Brasil tendrá otro duelo de alta exigencia: el clásico sudamericano contra la líder Argentina, sin el lesionado Lionel Messi, el martes en Buenos Aires.\n“Quiero ver a la selección brasileña capaz de rendir en cualquier momento, en cualquier situación, en cualquier circunstancia, independientemente del adversario que tengamos. Vamos a tener dos partidos muy complicados, muy difíciles”, afirmó.\nRegístrate gratis al boletín de noticias El País\nTe puede gustar",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sports coaching",
+      "Sport->sport event",
+      "Sport->soccer",
+      "Human Interest->high society",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:04:13.407+02:00",
+    "updated": "2025-03-20T01:04:13.407+02:00"
+  },
+  {
+    "uuid": "02e35c1230b369db0d840bd5311a3d51b3a016f0",
+    "url": "https://www.times-georgian.com/times_georgian/hernandez-building-success-through-leadership-and-construction/article_8bb011a1-3344-5529-b702-e97e04950a04.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JULIANNE FOSTER SPECIAL TO THE TIMES-GEORGIAN",
+    "published": "2024-12-05T08:17:00Z",
+    "title": "Hernandez building success through leadership and construction | Times Georgian | times-georgian.com",
+    "text": "When Jocelyn Lorena Hernandez was a junior at Carrollton High School, her first semester included a construction class, a course she didn’t recollect requesting but one that would have a tremendous impact on her future plans.\n“Honestly, I like to call it a ‘happy accident,’” she recalls. “It turned out that I quite enjoyed the class, and Mr. Stone said I should consider the RaLin Construction Academy.”\nMr. Stone is Chris Stone, a long-time construction superintendent who served as RaLin Construction’s director of Field Operations when the partnership between Carrollton High School and RaLin was developed in 2018. At that time, RaLin President and CEO Ben Garrett said Stone was the perfect person for the job.\n“Chris is a natural,” Garrett said, noting that Stone’s years of mentoring and teaching RaLin field workers would transfer well to an internship program. “He was made for this job.”\nStone’s mentoring ability did not go unnoticed by Jocelyn either, who took his advice to continue on with the academy. In fact, she flourished, deciding to attend the Women in Construction Summer Camp at Auburn University between her junior and senior years. She was later hired as a summer intern for RaLin’s pre-construction team after she graduated in 2024. She also received the RaLin Memorial Scholarship, administered by the Carrollton City Schools Education Foundation, to further her education.\nToday, Joselyn, the daughter of Efren Hernandez and Lorena Perez Alvarez, is a freshman at Auburn majoring in construction and building science. She found out earlier this fall that she is also the recipient of the McWhorter School of Building Science RaLin Annual Scholarship, presented to a student who exhibits academic excellence, leadership and a commitment to the construction industry.\nJocelyn has never considered herself a leader, but she said Stone pushed past her comfort zone, encouraging her to challenge her own expectations.\n“I can be quite shy. It takes me a while to open up to people,” she says. “Mr. Stone didn’t let me stick to my corner. I think he saw potential in me that I wasn’t even aware existed.” Jocelyn said Stone was the one who pushed her to do the Auburn summer camp, the RaLin internship, and to enter the Associated General Contractors of America high school student competitions, where she performed well.\n“Jocelyn Hernandez never shied away from a task or challenge; maybe skeptical at first, but soon to overcome and succeed,” says Stone. “She was a delight to instruct because of her enthusiasm and energy, which was contagious to those around her.”\nFor Jocelyn, the RaLin Construction Academy experience led to an epiphany for the high school student who had no idea what she wanted to do after graduation.\n“I always knew that I was going to go to college, but I never really knew what I wanted to study,” she says. “I would jump back and forth from ideas without a concrete path. For a while, I wanted to be a mechanical engineer. Then, a writer. Then, a physical therapist. Journalism was even thrown into the mix at one point. There was so much I could choose from, but nothing felt solid. Now look where I am. I’m quite content with my choice.”\nFacebook Twitter WhatsApp SMS Email Print Copy article link Save",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://wa.me/?text=https://www.times-georgian.com/times_georgian/hernandez-building-success-through-leadership-and-construction/article_8bb011a1-3344-5529-b702-e97e04950a04.html",
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.times-georgian.com%2Ftimes_georgian%2Fhernandez-building-success-through-leadership-and-construction%2Farticle_8bb011a1-3344-5529-b702-e97e04950a04.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://twitter.com/intent/tweet?&text=Hernandez%20building%20success%20through%20leadership%20and%20construction&via=timesgeorgian&url=https%3A%2F%2Fwww.times-georgian.com%2Ftimes_georgian%2Fhernandez-building-success-through-leadership-and-construction%2Farticle_8bb011a1-3344-5529-b702-e97e04950a04.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.times-georgian.com%2Ftimes_georgian%2Fhernandez-building-success-through-leadership-and-construction%2Farticle_8bb011a1-3344-5529-b702-e97e04950a04.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+      "https://www.twitter.com/intent/tweet?&text=Hernandez%20building%20success%20through%20leadership%20and%20construction&via=timesgeorgian&url=https%3A%2F%2Fwww.times-georgian.com%2Ftimes_georgian%2Fhernandez-building-success-through-leadership-and-construction%2Farticle_8bb011a1-3344-5529-b702-e97e04950a04.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+      "https://wa.me/",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://wa.me/?text=https://times-georgian.com/times_georgian/hernandez-building-success-through-leadership-and-construction/article_8bb011a1-3344-5529-b702-e97e04950a04.html",
+      "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jocelyn Lorena Hernandez",
+          "sentiment": "none"
+        },
+        {
+          "name": "Chris Stone",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ben Garrett",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Carrollton High School",
+          "sentiment": "none"
+        },
+        {
+          "name": "RaLin Construction Academy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "02e35c1230b369db0d840bd5311a3d51b3a016f0",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-06T01:13:58.438+02:00",
+    "updated": "2024-12-06T01:13:58.438+02:00"
+  }
+]

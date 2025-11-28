@@ -1,0 +1,257 @@
+[
+  {
+    "uuid": "9d0ecd728aac74eb14e56b40ea8abf4263eb9f05",
+    "url": "https://news.myseldon.com/en/news/index/332624200",
+    "ord_in_thread": 0,
+    "author": "@newsinfo",
+    "published": "2025-07-24T04:36:07Z",
+    "title": "Африка удивила: в горах Тибести нашли город, который старше египетских пирамид | Culture | Seldon News",
+    "text": "В июле 2025 года, международная группа археологов объявила об обнаружении древнего поселения в районе гор Тибести, Чад. Раскопки, которые начались в 2022 году, привели к обнаружению руин поселения, датируемого поздним неолитом, что стало значительным открытием для изучения истории Африки. Обнаружение уникального поселения Поселение, получившее название \"Тибести-I”, поражает своим масштабом и сохранностью. Археологи обнаружили остатки домов, общественных зданий и даже системы орошения, что указывает на развитую систему земледелия и организацию жизни. Ведущий исследователь, профессор... Copyright information of photo and video materials was taken from the website «NewsInfo» , more details in our Terms of Service",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->history",
+      "Science and Technology->archaeology",
+      "Science and Technology->social sciences",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.newsinfo.ru/news/v-chade-obnaruzheno/903141/",
+      "https://newsinfo.ru/news/v-chade-obnaruzheno/903141/",
+      "https://www.newsinfo.ru/news/v-chade-obnaruzheno/903141"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:36:07.673+03:00",
+    "updated": "2025-07-24T07:41:05.000+03:00"
+  },
+  {
+    "uuid": "494eb40cf1ba02dd6330cd3bc15d614f7116c6f9",
+    "url": "https://unn.ua/en/news/ferry-sinks-off-bali-four-dead-38-missing",
+    "ord_in_thread": 0,
+    "author": "Vita Zelenetska",
+    "published": "2025-07-03T04:04:00Z",
+    "title": "Ferry sinks off Bali: four dead, 38 missing",
+    "text": "Ferry sinks off Bali: four dead, 38 missing\nKyiv • UNN\nThe KMP Tunu Pratama Jaya ferry, with 65 people on board, sank off the Indonesian island of Bali. As a result of the incident, four people died, 38 are considered missing, and 23 were rescued.\nFour people have died, 38 are considered missing, and 23 were rescued after a ferry carrying 65 people sank near the Indonesian island of Bali. This was reported by the agency Reuters, citing the country's National Search and Rescue Agency, UNN reports.\nDetails\nIt is noted that the KMP Tunu Pratama Jaya ferry sank almost half an hour after leaving the port of Banyuwangi in East Java province on its way to Bali late on Wednesday, July 2.\nThe vessel was carrying 53 passengers and 12 crew members, as well as 22 vehicles.\nAccording to Reuters, the search and rescue operation is ongoing, but it is complicated by strong currents and wind.\nFerries are a common mode of transport in Indonesia, an archipelago of more than 17,000 islands, and accidents are frequent as lax safety standards allow vessels to be overloaded without proper life-saving equipment.\nRecall\nIn December 2024, 38 people died and over 100 went missing after a ferry capsized on the Busira River in Congo. The vessel was overloaded with passengers returning home for Christmas; only 20 people were rescued.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->disaster",
+      "Disaster and Accident->transportation accident and incident",
+      "Health->injury",
+      "Social Issue->population and census",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.reuters.com/world/asia-pacific/two-dead-43-missing-after-ferry-sinks-near-bali-ap-reports-2025-07-03/",
+      "https://reuters.com/world/asia-pacific/two-dead-43-missing-after-ferry-sinks-near-bali-ap-reports-2025-07-03/",
+      "https://www.reuters.com/world/asia-pacific/two-dead-43-missing-after-ferry-sinks-near-bali-ap-reports-2025-07-03"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Bali",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "KMP Tunu Pratama Jaya",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "National Search and Rescue Agency",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Reuters",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TRI",
+              "exchange": "NASDAQ"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ua",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:57:54.932+03:00",
+    "updated": "2025-07-04T05:09:30.000+00:00"
+  },
+  {
+    "uuid": "853e4d2017950a6701bf16f35f7386052e87c43d",
+    "url": "https://kesq.com/kunamundo/noticias-cnn/cnn-spanish/2024/05/24/sacerdote-es-acusado-de-morder-a-una-mujer-durante-una-disputa-por-una-hostia-mientras-se-repartia-la-comunion",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2024-05-24T16:28:00Z",
+    "title": "Sacerdote es acusado de morder a una mujer durante una disputa por una hostia mientras se repartía la comunión",
+    "text": "Sacerdote es acusado de morder a una mujer durante una disputa por una hostia mientras se repartía la comunión\nSofía Benavides\n(CNN) — Un sacerdote de Florida está acusado de morder a una mujer mientras repartía la comunión durante una misa en la iglesia católica de Santo Tomás de Aquino en St. Cloud el domingo, en un supuesto “intento por defender el pan de la comunión”, según la declaración jurada del caso.\nLa policía dijo que inicialmente el sacerdote, identificado como el padre Fidel Rodríguez, le negó la comunión a la mujer, quien le había informado que “no había hecho los pasos previos necesarios para recibir el pan” en una misa anterior ese día. La mujer le dijo a la policía que regresó e informó al sacerdote que, de hecho, había hecho los pasos necesarios y que “ahora era aceptada por Dios, lo que le otorgaba la capacidad de participar en la (ceremonia)”.\nLa mujer dijo a la policía que el sacerdote supuestamente “se molestó y trató de meterse la ‘galleta’ en la boca”, según la declaración jurada. A su vez, ella dijo que intentó agarrar otro pan de comunión, que el sacerdote sostenía, cuando él la tomó y le mordió el brazo.\n“El influencer de Dios”: el adolescente italiano que la Iglesia católica quiere convertir en el primer santo millennial\nUn comunicado proporcionado por la diócesis de Orlando dijo que el sacerdote le preguntó a la mujer si “había asistido al Sacramento de la Penitencia (confesión), a lo que ella respondió que no era asunto suyo”.\n“En ese momento, el padre Rodríguez ofreció a la mujer la sagrada comunión en la lengua. La mujer metió con fuerza su mano en el recipiente y agarró unas hostias sagradas, aplastándolas. Teniendo solo una mano libre, el padre Rodríguez luchó por sujetar a la mujer mientras ella se negaba a soltar las hostias. Cuando la mujer lo empujó y reaccionando ante lo percibido como un acto de agresión, el padre Rodríguez le mordió la mano para que soltara las hostias que agarraba. Inmediatamente se le pidió a la mujer que se fuera”, continúa el comunicado.\nCuando fue interrogado por la policía, el sacerdote le dijo al oficial investigador que la mujer lo había empujado y que “no soltaba la bandeja de la comunión y la única manera que pensó para que la soltara fue morderle el brazo”, según la declaración jurada.\n“En la tradición católica, la Eucaristía es considerada ‘la fuente y cumbre’ del culto y la fe. Por lo tanto, el acto de participar en la sagrada comunión requiere una comprensión, reverencia y devoción adecuadas. No es algo que una persona pueda exigir arbitrariamente y ciertamente no es una simple ‘galleta’ como la llamó la denunciante”, escribió la diócesis.\nLa policía de St. Cloud ha enviado un resumen de los acontecimientos en forma de declaración jurada a la oficina del fiscal del Estado para su revisión. CNN se comunicó con la Oficina del Fiscal Estatal del Noveno Circuito Judicial para solicitar comentarios.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T19:48:59.535+03:00",
+    "updated": "2024-05-24T19:48:59.535+03:00"
+  },
+  {
+    "uuid": "7683ab423aa831a5567654c96188633f3bf1b5d1",
+    "url": "https://kahawatungu.com/kpc-launches-foundation-to-support-education-for-students-with-disabilities",
+    "ord_in_thread": 0,
+    "author": "David Wafula",
+    "published": "2025-06-12T06:21:00Z",
+    "title": "KPC Launches Foundation To Support Education For Students With Disabilities",
+    "text": "The Kenya Pipeline Company (KPC) has launched a foundation to support the education of bright students living with disabilities, lawmakers have been told.\nKPC Managing Director Joe Sang told the National Assembly Committee on Cohesion and Equal Opportunities that the new initiative, known as the Inuka Foundation , aims to uplift students with disabilities and those from poor backgrounds.\n“In an effort to support Persons Living with Disabilities (PLWDs) in our society, the company has proactively established the Inuka Foundation,” Sang said during a session chaired by Nakuru County MP Liza Chelule.\nHe said the foundation will sponsor the secondary and university education of two bright students each year, selected from across the country.\nSince its launch, the foundation has supported 735 students through its education programme.\n“This is part of the company’s broader efforts to ensure that less privileged children access education, which is a fundamental right,” he said.\nSang added that KPC will continue working closely with the National Council for Persons with Disabilities (NCPD) during future recruitment to ensure inclusivity.\n“To help bridge the gap, KPC informs the NCPD of all arising vacancies so they can recommend qualified members,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->educational grading",
+      "Education->primary education",
+      "Social Issue->disabilities",
+      "Social Issue->social services",
+      "Social Issue->diversity, equity and inclusion",
+      "Human Interest->graduation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Liza Chelule",
+          "sentiment": "none"
+        },
+        {
+          "name": "Joe Sang",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "KPC",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Kenya Pipeline Company",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "National Assembly Committee",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Inuka Foundation",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:02:25.586+03:00",
+    "updated": "2025-06-12T07:10:32.000+00:00"
+  }
+]

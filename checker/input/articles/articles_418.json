@@ -1,0 +1,254 @@
+[
+  {
+    "uuid": "60edafae98ebd9a08a17cfc224576fea0459892d",
+    "url": "http://en.freshnewsasia.com/index.php/en/internationalnews/62063-2025-07-17-04-14-23.html",
+    "ord_in_thread": 0,
+    "author": "ngovheng66",
+    "published": "2025-07-17T04:37:02Z",
+    "title": "South Korea lashed by heavy rain, one dead and more than 100 evacuated",
+    "text": "SEOUL, Jul. 17 (Reuters): One person has died and more than 100 people have been evacuated in South Korea after the country was lashed by torrential rain on Thursday, the safety ministry said.\nAs of Thursday morning, some parts of the South Chungcheong region to the south of the capital Seoul had received more than 400 millimetres (15.7 inches) of rain since Wednesday, the Ministry of the Interior and Safety said.\nLandslide alerts were raised to the highest level for several regions including Chungcheong as the heavy rains continued, according to the Korea Forest Service.\nTwo people trapped in a landslide in South Chungcheong had been rescued, the Yonhap News Agency said.\nPhoto from Yonhap",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->emergency response",
+      "Disaster and Accident->natural disaster",
+      "Social Issue->population and census",
+      "Social Issue->social problem",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "South Chungcheong",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TRI",
+              "exchange": "NASDAQ"
+            }
+          ]
+        },
+        {
+          "name": "Korea Forest Service",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Yonhap News Agency",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:37:02.099+03:00",
+    "updated": "2025-07-17T04:42:57.000+00:00"
+  },
+  {
+    "uuid": "b048a4d0900bac5367b18f42a43c8a5bcb788097",
+    "url": "https://www.deccanchronicle.com/nation/politics/301223/pm-modi-fulfilled-dream-of-ram-temple-in-ayodhya-uttarakhand-cm-dhami.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deccan Chronicle",
+    "published": "2023-12-30T00:19:00Z",
+    "title": "PM Modi fulfilled dream of Ram temple in Ayodhya: Uttarakhand CM Dhami",
+    "text": "PM Modi fulfilled dream of Ram temple in Ayodhya: Uttarakhand CM Dhami Nation DC Correspondent 30 Dec 2023 5:19 AM GMT (Update: 2024-01-04 17:30:55.0 ) Dhami said that under the leadership of Modi, India is continuously moving ahead in terms of development and progress x Uttarakhand Chief Minister Pushkar Singh Dhami (PTI)\nMathura: Uttarakhand Chief Minister Pushkar Singh Dhami on Friday said it is a matter of great pride for every devotee of Lord Ram that due to the efforts of Prime Minister Narendra Modi, the dream of a majestic Ram temple in Ayodhya will become a reality next month. Talking to reporters here, he also attacked the opposition parties, saying those who opened fire on the devotees of Lord Ram could neither build a temple nor abolish Article 370 of the Constitution and the practice of instant triple talaq.\nArticle 370 accorded special status to Jammu and Kashmir.\n\"Due to the determination of Prime Minister Modi, Ram temple in Ayodhya could be constructed and it is a matter of pride for every Ram Bhakt,\" Dhami said.\nThe consecration ceremony at the Ram temple in Ayodhya will be held on January 22.\nTo a question on the proposed 'Bharat Nyay Yatra\" of Congress leader Rahul Gandhi, he said, \"People know the character of these people who had made every effort to foil the bid to build Ram temple.\"\nHe said that under the leadership of Modi, India is continuously moving ahead in terms of development and progress.\nDhami also praised Uttar Pradesh Chief Minister Yogi Adityanath and said under his dynamic leadership, the state is scripting a story of development.\n( Source : PTI )",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "narendra modi",
+          "sentiment": "none"
+        },
+        {
+          "name": "pushkar singh dhami",
+          "sentiment": "none"
+        },
+        {
+          "name": "dhami",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "uttarakhand",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ayodhya",
+          "sentiment": "none"
+        },
+        {
+          "name": "mathura",
+          "sentiment": "none"
+        },
+        {
+          "name": "kashmir",
+          "sentiment": "none"
+        },
+        {
+          "name": "jammu",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T07:26:30.042+02:00",
+    "updated": "2024-01-17T00:04:43.955+02:00"
+  },
+  {
+    "uuid": "1acd1150ec9029205ac714072a3b7c6b26d43d81",
+    "url": "https://www.ledroit.com/arts/theâtre/2024/10/03/un-emprojet-arbresem-pour-pousser-la-reflexion-ecologique-OZO35DUXLJCHXGIMHFCKG5PLYU",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Claudia Blais-Thompson, Le Droit",
+    "published": "2024-10-03T20:27:00Z",
+    "title": "Un Projet Arbres pour pousser la réflexion écologique",
+    "text": "Pendant une vingtaine de minutes, le public est invité à s’installer à l’intérieur de la voiture pour prendre part à cette installation théâtrale immersive et enveloppante. Comme s’il s’agissait d’un musée hommage dans un monde dystopique où il n’y aurait plus d’arbres, raconte Marie-Ève Fontaine, artiste et membre du collectif Projet Arbres. À l’intérieur, on entend les voix d’André Perrier et de Marie-Ève Fontaine lire le poème Arbres de Paul-Marie Lapointe comme une trame sonore qui rythme l’histoire à travers un lexique très précis lié à ce grand végétal. Sur chacune des fenêtres, des marionnettes font leur apparition pour réfléchir sur les conséquences de nos choix. «Avec les images et l’atmosphère, tu peux lire une histoire dans les éléments qui se présentent, affirme Marie-Ève Fontaine. C’est très ouvert à l’interprétation. Le spectateur compose une histoire à partir de tous les éléments qui lui sont lancés. C’est un spectacle qui passe par les sens.» Le collectif a aussi pensé une version pour les enfants en adaptant le poème et la trame audio pour rendre l’expérience plus ludique pour les plus jeunes. La pièce pour les adultes comporte une montée dramatique plus importante avec une forêt qui brûle, par exemple. L’endroit bien choisi L’endroit choisi n’est pas anodin. En sortant de la voiture, l’odeur de l’essence et l’environnement bétonné frappent. L’idée du collectif Projet Arbres est d’augmenter l’appréciation des spectateurs pour les arbres et la nature. «Tu vois toutes les belles projections et quand tu ouvres la porte, tu es de retour dans un environnement qui a été manipulé pour éliminer tout ce dont on vient de parler, explique Marie-Ève Fontaine. Ça crée un genre de choc émotif.» Le même choc que le metteur en scène André Perrier a vécu lorsqu’il a assisté à une scène plutôt bouleversante pendant la pandémie. En face de chez lui, un énorme arbre a été abattu pour une raison qu’on ne connaît pas, poursuit Marie-Ève Fontaine. «Il est resté un tronc sur lequel on a déposé plus tard des nains de jardin. André (Perrier) a vécu une réaction émotive très forte, une sorte de deuil, un bouleversement.» Projet Arbres est aussi un cri du cœur de la part du collectif composé de Martin Dawagne (conception sonore et cocréation), John Doucet (scénographie et cocréation), Marie-Ève Fontaine (création des marionnettes, manipulation, comédienne et cocréatrice), Sasha Hayashi (manipulation, intégration des images et cocréatrice) et d’André Perrier (directeur artistique, comédien et cocréateur). «Ça fait partie de notre vie de tous les jours maintenant de voir des arbres malades ou qui sont coupés. Les gens essaient de renouveler la nature, mais de manière très organisée. Même si on plante et renouvelle les espaces verts autour de nous, il y a quelque chose de pas aussi organique que ça.» — Sasha Hayashi Mais le but n’est pas d’imposer un sentiment de culpabilité aux gens, dit Marie-Ève Fontaine, mais plutôt de conscientiser sur les projets d’infrastructures qui nécessitent de supprimer certaines choses. «Comment on fait pour cohabiter avec le règne végétal?» Benoit Bruneau-Poirier (création des images), Pixie Cram (création des images et cocréatrice), Gabriel Pilon (direction technique et de production) et Sarah Migneron (adaptatrice du poème pour la jeunesse) ont aussi participé à la création de Projet Arbres. Les représentations de l’activité présentée par la Maison des arts littéraires sont prévues les 3, 4 et 5 octobre à 18 h 30, 19 h 15, 20 h 15 et 21h.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T00:26:59.305+03:00",
+    "updated": "2024-10-04T00:26:59.305+03:00"
+  },
+  {
+    "uuid": "e5e060ac5b06ffbe2f6753d432150813bebc14b4",
+    "url": "https://finance.sina.com.cn/jjxw/2025-05-08/doc-inevvhaz2756706.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-05-08T01:48:00Z",
+    "title": "南方降雨进入核心影响时段 华北东北多地凉意加重|华北_新浪财经_新浪网",
+    "text": "来源：中国天气网\n中国天气网讯 今明天(5月8日至9日)，中东部将现大范围降雨，南方部分地区雨势较强，或遭遇大暴雨侵袭并伴有强对流天气，当地需警惕山体滑坡、泥石流等次生灾害，公众关注预警预报信息，途经积水路段尽量绕行。同时，华北周边也可能有明显降水现身，受阴雨影响，气温偏低，凉意加重，需注意添衣防着凉。\n中东部降雨范围扩大 南方降雨进入核心时段\n昨天，南方新一轮降雨过程已经展开影响。监测显示，昨天8时至今天6时，重庆东部、湖北西南部、湖南西北部、广西东北部、广东中西部及台湾岛北部等地部分地区出现大到暴雨，重庆彭水、湖北恩施、湖南张家界、广东肇庆和江门等局地大暴雨。\n今天，南方降雨进入核心影响时段，范围扩大，强度增强。同时，北方多地降雨发展增多。中央气象台预计，江淮大部、江汉东部、江南西南部和中东部、华南北部以及华北东北部等地部分地区有大到暴雨，其中，安徽西南部、湖北东部、江西东北部、浙江西部、广西北部等地部分地区有大暴雨，上述部分地区伴有短时强降水，局地有雷暴大风或冰雹等强对流天气。\n明天，华北大部、黄淮东部、江南南部、华南等地部分地区有中到大雨，其中，河北中部、北京西南部、广西东北部、广东西北部等地部分地区有暴雨。\n后天，华南大部、云南东部、新疆伊犁河谷、台湾岛等地部分地区有中到大雨，其中，广西东南部、广东西南部、海南岛中部等地部分地区有暴雨。\n今明两天，中东部将迎大范围降雨过程，其中今天江南局地雨势较强，安徽、湖北、江西、浙江、广西等地部分地区将有大暴雨，降水量将超过100毫米，需警惕各类次生灾害。同时，上述部分地区还伴有强对流天气，公众需关注预警预报信息，注意出行安全。同时，华北周边也可能出现明显降水，还伴有雷电天气，外出也需带好雨具。\n北方多地将现大风沙尘 华北东北凉意加重\n受冷空气影响，今明天，北方多地还可能出现大风沙尘天气，西北地区东部、内蒙古、华北部分地区有4至6级风，阵风7可达10级，内蒙古西部、新疆南疆等地部分地区伴有沙尘天气。\n在阴雨和冷空气的双重打压下，华北、东北多地气温偏低，尤其是明天，东北最高气温在15℃上下，华北多地在20℃上下，气温水平较同期明显偏低。\n不过，后天随着阴雨范围收缩，中东部大部将重启晴热升温模式。11日至13日，东北、华北多地气温将创今年来新高。大城市中，石家庄9日的最高气温将只有21℃，但12日可能会冲上36℃，高温再现，前后冷暖差异较大，公众需密切关注气温变化，及时增减衣物，谨防感冒。(来源：中国天气网)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Weather->weather forecast",
+      "Weather->weather phenomena",
+      "Environment->natural resources",
+      "Environment->environmental pollution",
+      "Environment->water",
+      "Social Issue->demographics",
+      "Social Issue->population and census",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T05:56:04.914+03:00",
+    "updated": "2025-05-08T03:01:13.000+00:00"
+  }
+]

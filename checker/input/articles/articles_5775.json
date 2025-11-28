@@ -1,0 +1,312 @@
+[
+  {
+    "uuid": "7bfcc65b3683520b20b4c01a523fa9edfa715fa9",
+    "url": "https://scienmag.com/ancient-texts-decoded-by-neural-networks",
+    "ord_in_thread": 0,
+    "author": "SCIENMAG",
+    "published": "2025-07-24T01:34:00Z",
+    "title": "Ancient Texts Decoded by Neural Networks",
+    "text": "In a groundbreaking fusion of ancient history and cutting-edge artificial intelligence, researchers have unveiled Aeneas, a sophisticated machine learning model designed to revolutionize the study of Latin inscriptions. This technological marvel aims to assist historians by restoring fragmented texts, dating undocumented carvings, and pinpointing their geographic origins within the vast expanse of the Roman Empire. The advent of Aeneas heralds a new era for digital humanities, where deep learning meets millennia-old stone, unearthing insights previously buried under the patina of time.\nThe impetus for Aeneas stems from recent strides in machine learning, particularly the proliferation of transformer architectures, which have excelled in natural language processing. Unlike conventional approaches that often rely on rigid rule-based systems or manual curation, Aeneas integrates both textual data and visual imagery, harnessing a multimodal framework that taps into the physicality of inscriptions. This allows the system to engage with nuances such as the carving style, material wear, and layout—factors that are crucial in epigraphic interpretation.\nCentral to Aeneas’s success is the Latin Epigraphic Dataset (LED), meticulously compiled from leading epigraphic repositories including the Epigraphic Database Roma (EDR), Epigraphic Database Heidelberg (EDH), and the Electronic Archive of Greek and Latin Epigraphy (EDCS_ETL). This formidable dataset encompasses over 16 million characters sourced from inscriptions spanning an extensive timeline, approximately 800 BCE to 800 CE, and covering diverse Roman provinces. The careful curation involved normalizing metadata, standardizing ancient provincial nomenclature, and retaining the original epigraphic conventions, such as editors’ restoration brackets and placeholders for missing characters, to preserve historical authenticity and challenge the model’s learning capacity.\nImportantly, the dataset also includes a limited but representative selection of inscription images. These visual data underwent rigorous preprocessing, including the exclusion of non-photographic artefacts, the removal of blurry frames using Laplacian variance analysis, and conversion to greyscale, ensuring uniformity suitable for deep learning. However, only about 5% of textual inscriptions are accompanied by images, presenting limitations that highlight the scarcity of multimodal epigraphic data, a bottleneck that Aeneas’s creators aim to alleviate with future dataset expansions.\nAeneas is architected to undertake four principal epigraphic tasks: fixed-length text restoration, restoration of missing sequences with unknown length, geographical attribution, and chronological dating. To do this, it processes sequences up to 768 characters long, marked with placeholder symbols denoting absent or uncertain text portions, and pairs these with corresponding inscription images. The model’s transformer-based design enables it to capture both linguistic context and subtle visual cues, such as inscriptive style or stone type, thereby enhancing its predictive accuracy beyond traditional text-only analyses.\nNotably, the system confronts the challenge of editorial circularity, a phenomenon in which previous human restorations—especially the expansion of abbreviations and speculative text restorations—might inadvertently bias model training. While expansions were removed from the dataset to avoid outright replication of editorial interpolations, conjectured restorations marked by square brackets were retained to maximize the quantity of learning material. Trials showed that excluding these conjectures diminished model performance, indicating that including carefully curbed editorial input strikes a balance between dataset richness and bias mitigation.\nBeyond raw algorithmic prowess, Aeneas boasts a contextualization mechanism that retrieves historically and linguistically relevant parallel inscriptions, serving as a research assistant that extends beyond mere pattern matching. An extensive historian–AI evaluation involving 23 epigraphers validated this feature: participants found that Aeneas’s suggested parallels dramatically reduced the time taken to identify contextual analogues from days to mere minutes, facilitating more profound and nuanced historical interpretations. The experts reported significant increases in confidence—up to nearly 70%—when equipped with Aeneas’s parallels and predictive suggestions, underscoring its potential as a collaborative tool complementing expert judgment.\nHowever, Aeneas is not without constraints. Its effectiveness correlates strongly with the data density of specific regions and periods. For example, the model excels in attributing inscriptions from central Roman provinces such as Roma and Africa Proconsularis due to abundant high-quality data. Conversely, regions like Sicily and Sardinia, where inscriptions are sparse and data coverage is patchy, exhibit notably decreased attribution accuracy. Furthermore, the model’s ability to date inscriptions peaks around 200 CE, aligning with a historically prolific phase of Latin epigraphy and rich dataset representation, while earlier periods with scarcer and less precisely dated texts yield more ambiguous results.\nThe model’s multimodal approach also ushers in novel investigative avenues beyond textual analysis. Image saliency maps reveal that Aeneas leverages architectural and iconographic elements, such as altar shapes or carving techniques, to substantiate its geographical predictions. This capacity to incorporate visual context mimics expert epigraphers’ archaeological acumen, enabling the model to identify subtler markers of provenance that escape pure linguistic scrutiny. Such integrations hint at the transformative potential of combining AI with traditional epigraphic methodologies.\nOne illustrative case study involves an inscribed limestone altar dedicated to the Deae Aufaniae in Germania superior, dating to 211 CE. Aeneas accurately restores missing text fragments, assigns precise chronological dates within tight brackets, and situates the inscription geographically with remarkable precision. Moreover, through its parallel retrieval function, the model identifies related altars and formulaic expressions spanning contiguous Roman provinces, emulating and extending human scholarly insight. This exemplifies how Aeneas can uncover epigraphic networks and shared cultural practices previously obscured by fragmented or dispersed evidence.\nBeyond research, Aeneas is paving the way for educational innovation. Collaborations with educational institutions in Belgium have produced curricula integrating Aeneas as a pedagogical tool, enabling high school and university students to engage directly with ancient Latin inscriptions mediated by AI. This approach cultivates digital literacy alongside classical scholarship, aligned with contemporary frameworks such as the European Digital Competence Framework and UNESCO’s AI competency standards, fostering critical engagement with both AI technologies and historical sources.\nLooking ahead, the team behind Aeneas envisions enriching its capabilities via integration with large-scale dialogue models. Such enhancements could facilitate interactive research workflows, allowing historians to query the system dynamically and receive transparent, explainable insights. The researchers also highlight the need for improved methods to handle chronological uncertainty inherent in ancient data, advocating for evaluation metrics that accommodate variable date ranges rather than rigid point estimates.\nFundamental to the project’s ethos is an ethical commitment. Recognizing the risk of AI reinforcing biases or misclassifying sensitive historical contexts, the developers stress the indispensability of human oversight and caution against blind reliance on automated interpretations. Their interdisciplinary collaboration espouses responsible AI deployment, championing tools that augment rather than replace the nuanced judgment of humanities scholars, and emphasize inclusivity by highlighting epigraphy’s potential to illuminate marginalized voices in the ancient world.\nIn sum, Aeneas stands as a landmark achievement at the intersection of artificial intelligence and historical inquiry. Through sophisticated multimodal learning, expansive datasets, and human-centric evaluations, it charts a transformative path for epigraphy and ancient studies. By marrying the computational rigor of machine learning with the interpretive subtleties of scholarly expertise, Aeneas exemplifies how AI can deepen our dialogue with the past, unlocking the silent stories etched in stone through the ages.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->history",
+      "Arts, Culture and Entertainment->visual arts",
+      "Arts, Culture and Entertainment->mass media",
+      "Arts, Culture and Entertainment->culture"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Aeneas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:42:24.566+03:00",
+    "updated": "2025-07-24T07:47:16.000+03:00"
+  },
+  {
+    "uuid": "d0ad6676cddeeaab41bac45458829e015ee3b49e",
+    "url": "https://www.ilgiornaledivicenza.it/news/italia/fine-settimana-con-il-sole-soprattutto-al-centro-sud-1.12466173",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Società Editrice Athesis S.p.A.",
+    "published": "2024-10-12T08:30:00Z",
+    "title": "Fine settimana con il sole, soprattutto al Centro-Sud | G. di Vicenza",
+    "text": "ROMA, 12 OTT - Dopo la pioggia dei giorni scorsi torna il sole e promette un fine settimana di bel tempo, soprattutto al Centro-Sud. E' l'inzio di una fase di alta pressione che dovrebbe inaugurare la prossima settimana. Lo indicano le previsioni del meteorologo Mattia Gussoni, del sito iLMeteo.it. \"Nelle prossime ore avremo prevalenza di sole\", si legge nella nota, mentre a Nord \"il cielo sarà più nuvoloso su Piemonte poi su Liguria, Valle d'Aosta e Lombardia occidentale; dal pomeriggio qualche addensamento non è escluso anche su Appennini, Alpi orientali ed Alta Toscana. Altrove il sole sarà dominante e le temperature massime saranno gradevoli: al Nord tra i 18°C e i 23°C, al Centro tra i 21°C e i 25°C, al Sud tra i 23°C e i 28°C\". Cielo sereno e sole sulla maggior parte delle regioni sono previsti anche per domenica 13 ottobre, \"salvo nubi medio-basse su Piemonte meridionale e Friuli Venezia Giulia, specie al mattino. Durante tutto il weekend non sono attese precipitazioni se non qualche piovasco sabato su Valle d'Aosta, Alto Piemonte, Alta Lombardia e Liguria\". Una situazione simile si annuncia anche per la prossima settimana, prosegue il meteorologo, con tempo \"piuttosto stabile e soleggiato quasi ovunque\". E' comuque atteso pe rlunedì \"un aumento della nuvolosità sul settentrione con la possibilità di isolata pioviggine, più probabile al Nord-Ovest\". In generale si profila sull'Italia un periodo di alta pressione, \"circondato a destra e sinistra da due zone cicloniche, una sulla Spagna ed una sulla Turchia\". Nel dettaglio: sabato 12: al Nord nuvoloso; al Centro soleggiato; al Sud soleggiato. domenica 13: al Nord nubi irregolari; al Centro via via più nuvoloso; al Sud bel tempo. lunedì 14: al Nord piovaschi a ovest; al Centro poco nuvoloso; al Sud bel tempo..",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T12:09:12.762+03:00",
+    "updated": "2024-10-12T12:09:12.762+03:00"
+  },
+  {
+    "uuid": "f943ec433700aeab443986fbe6b825c36f197b67",
+    "url": "https://www.rionegro.com.ar/gremios/conflicto-en-altec-el-duro-documento-de-upcn-rio-negro-por-los-recortes-de-salarios-3904883",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción",
+    "published": "2024-11-28T16:44:00Z",
+    "title": "Conflicto en Altec: el duro documento de UPCN R\\u00edo Negro por los recortes de salarios",
+    "text": "Conflicto en Altec: el duro documento de UPCN Río Negro por los recortes de salarios\nLos trabajadores de la empresa estatal denuncian una pérdida de poder adquisitivo y un \"clima laboral deteriorado\".\n[https://www.rionegro.com.ar/gremios/conflicto-en-altec-el-duro-documento-de-upcn-rio-negro-por-los-recortes-de-salarios-3904883/]\nDesde el gremio UPCN emitieron un duro documento respecto a la actual situación de los trabajadores de la [empresa estatal rionegrina Altec](https://www.rionegro.com.ar/politica/igual-que-invap-rio-negro-transforma-otras-empresas-publicas-en-sociedades-anonimas-3896724/). Denunciaron recortes salariales y «un clima laboral deteriorado».\nEste viernes habrá una asamblea de trabajadores para definir posibles medidas, en caso de no obtener prontas novedades desde el directorio.\nSegún expusieron, la situación se acentuó en el último año a raíz de los cambios en el contexto macroeconómico del país. «Para nosotros fue una pérdida de poder adquisitivo bastante grande y a todo eso se sumó que no tuvimos una compensación, como si se produjo en otros organismos. Quedamos muy atrás y solo pedimos una recomposición antes de fin de año«, comentó Federico Fontana, delegado de UPCN, en diálogo con Diario RÍO NEGRO.\nEstimaron que el atraso salarial se ronda el 75% respecto a la inflación acumulada en el año. Asimismo el sindicato reportó que el 45% del salario no realiza aportes previsionales.\nDesde UPCN precisaron, además, que la nueva presidencia de Altec implementó medidas que provocaron «una grave crisis laboral y financiera para los empleados». Entre ellas, se mencionó la reducción de los costos de los servicios ofrecidos, lo que implicó una considerable baja en los ingresos y su posterior impacto en los sueldos.\n[El Gobierno de Río Negro aplica cambios en Altec para su plan modernizador](https://www.rionegro.com.ar/politica/el-gobierno-de-rio-negro-aplica-cambios-en-altec-para-su-plan-modernizador-3575387/)\n«Se redujeron los valores de los contratos, lo que generó un ahorra a los organismos del Estado que tienen adquiridos los servicios de Altec. El sueldo se mantuvo en los mismos niveles, pero no habilitó a aumentos para equilibrar la situación con la inflación», expresó Fontana.\nSegún estimaciones de los trabajadores, esta reducción de ingresos implicó una pérdida de 700 mil pesos mensuales por cada uno de los 190 empleados. Este número representaría una «pérdida total que supera los $1.300 mil millones entre todos los trabajadores».\nEn ese contexto, unas 20 personas decidieron dejar la compañía en 2024 como consecuencia. «Con mejores ofertas en el sector privado, estos trabajadores no ven razones para permanecer en una empresa que no valora su esfuerzo. Esta pérdida ha incrementado la carga laboral de quienes se quedan, afectando tanto la moral como el rendimiento general de la empresa«, agregaron en el escrito de UPCN.\nMalestar interno en Altec: el cambio a sociedad anónima\nEl gobierno de Río Negro decidió acoplarse a la manda del DNU 70/23, firmado en diciembre pasado por el presidente Javier Milei, y transformar sus empresas estatales en sociedades anónimas, un proceso que ya avanzó en Invap y ahora también se acelera en Altec.\nEste cambio generó desconcierto entre los empleados, quienes denunciaron «falta de comunicación y reconocimiento por parte de la actual gestión». «Desde la empresa no se traslado información y es lo que se estaba pidiendo: que se explique en qué va a repercutir», agregó Fontana.\nSegún advirtieron desde UPCN, el gremio permanece «abierto al diálogo» y mantiene la esperanza de destrabar el conflicto. En tanto, los empleados ya están planificando una nueva asamblea, que podría determinar eventuales medidas de fuerza.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T02:03:12.816+02:00",
+    "updated": "2024-11-29T02:03:12.816+02:00"
+  },
+  {
+    "uuid": "cdf50f67dddad21883658c72255d69b43120839c",
+    "url": "https://noticias.uol.com.br/ultimas-noticias/rfi/2024/02/23/ima-tunisiano-deportado-por-apologia-ao-odio-aciona-tribunais-para-retornar-a-franca.ht",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "UOL",
+    "published": "2024-02-23T14:43:00Z",
+    "title": "Imã tunisiano deportado por apologia ao ódio aciona tribunais para retornar à França",
+    "text": "Um imã tunisiano expulso na quinta-feira (22) pela França, onde as autoridades o acusam de ter feito apologia ao ódio, denunciou em uma declaração oficial uma decisão \"injusta\" e \"arbitrária\", e anunciou que tomará medidas legais para anulá-la e voltar para sua família, que continua em terras francesas. Mahjoub Mahjoubi, o imã da pequena cidade de Bagnols-sur-Cèze, no sul da [França](https://www.rfi.fr/br/tag/frança/), foi preso e deportado na quinta-feira (22) para a [Tunísia](https://www.rfi.fr/br/tag/tunísia/), onde chegou pouco antes da meia-noite em um voo saindo de Paris. O imã [nome dado aos pregadores da religião islâmica], que vive na França desde meados da década de 1980, é casado e tem cinco filhos, e estava na mira do ministro do Interior da França, Gérald Darmanin, que pediu a retirada de sua autorização de residência na França no domingo. Mahjoub Mahjoubi foi acusado, em particular, de transmitir um vídeo no qual descreveu a \"bandeira tricolor\" - sem especificar se mencionava na ocasião a bandeira francesa - como uma \"bandeira satânica\" que não teria \"nenhum valor aos olhos de Alá\" (Deus em árabe). Ele se defendeu referindo-se a um \"lapso de linguagem\", explicando que, na verdade, estava denunciando rivalidades entre torcedores de países do Magrebe (no norte da [África](https://www.rfi.fr/br/tag/áfrica/)) durante o recente torneio de futebol da Copa das Nações Africanas ( [CAN](https://www.rfi.fr/br/tag/can/)). \"Vou me defender e fazer tudo o que puder para voltar para minha esposa e meus filhos\", disse ele da casa de seus sogros em Soliman, a cerca de 30 km a leste de Túnis. Sua esposa e filhos, o mais novo dos quais está hospitalizado com câncer, dependem inteiramente dele, enfatizou o imã, que também é chefe de uma empresa de construção, acrescentando: \"Sou apenas um contribuinte, um homem sem problemas\". \"Meu advogado vai me levar ao tribunal na França e, se o tribunal não me fizer justiça, vou recorrer e, depois, recorrerei à Corte Europeia de [Direitos Humanos](https://www.rfi.fr/br/tag/direitos-humanos/)\", acrescentou. \"Decisão arbitrária\" O imã de 52 anos, cuja esposa e filhos são cidadãos franceses, disse que \"acreditava e tinha confiança no sistema judiciário francês, que [o ministro do Interior da França, Gérard] Darmanin assumiu\". \"Não há dúvida de que uma injustiça foi cometida contra mim, a lei de imigração foi aprovada há cerca de três semanas, e eu sou a primeira vítima dessa lei\", disse o imã. Darmanin disse no X nesta quinta-feira que a expulsão do imã era \"prova de que a lei de imigração (recentemente aprovada), [sem a qual uma expulsão tão rápida não teria sido possível](https://www.rfi.fr/br/frança/20231219-lei-de-imigração-conheça-os-principais-pontos-do-acordo-polêmico-votado-na-frança), torna a França mais forte\". \"A firmeza é a regra\", acrescentou o ministro francês, denunciando um \"imã radical\" cujas observações eram inaceitáveis. Negando categoricamente qualquer \"insulto à comunidade judaica ou à bandeira francesa\", ele disse que as autoridades de sua cidade o conheciam como \"um homem de paz, equilibrado\". \"Nunca defendi o ódio ou o radicalismo - pelo contrário, todos me conhecem\", acrescentou. \"Minha expulsão foi resultado de uma decisão arbitrária do Ministro do Interior. Darmanin está tentando criar um burburinho em torno da lei de imigração usando Mahjoub Mahjoubi\", retrucou o imã, enfatizando a rapidez da decisão de expulsão. Mahjoubi acrescentou: \"Darmanin está coletando apoiadores no [partido de extrema direita] Reunião Nacional, com as eleições europeias chegando\" em junho, num momento em que õ partido governista está atrás do RN nas pesquisas. (Com AFP)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.rfi.fr/br/frança/20231219-lei-de-imigração-conheça-os-principais-pontos-do-acordo-polêmico-votado-na-frança),",
+      "https://www.rfi.fr/br/tag/áfrica/))",
+      "https://www.rfi.fr/br/tag/tunísia/),",
+      "https://www.rfi.fr/br/tag/can/)).",
+      "https://www.rfi.fr/br/tag/frança/),",
+      "https://www.rfi.fr/br/tag/direitos-humanos/)",
+      "https://rfi.fr/br/tag/tunísia/),",
+      "https://rfi.fr/br/frança/20231219-lei-de-imigração-conheça-os-principais-pontos-do-acordo-polêmico-votado-na-frança),",
+      "https://rfi.fr/br/tag/áfrica/))",
+      "https://rfi.fr/br/tag/direitos-humanos/)",
+      "https://rfi.fr/br/tag/frança/),",
+      "https://rfi.fr/br/tag/can/))."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T16:56:58.762+02:00",
+    "updated": "2024-02-23T16:56:58.762+02:00"
+  },
+  {
+    "uuid": "5f611599b67f2d51c0071cdfff688e4adaa79bdb",
+    "url": "https://www.elnuevosiglo.com.co/caleidoscopio/ocho-senadores-de-comision-vii-honraron-confianza-depositada-por-sus-electores",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@elnuevosiglo",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "\"Ocho senadores de Comisión VII honraron confianza depositada por sus electores\" | El Nuevo Siglo",
+    "text": "[Jueves, 14 de Marzo de 2024] “Los ocho senadores de la Comisión VII honraron la confianza depositada por sus electores. La reforma a la salud quedaría archivada. Ojalá el Gobierno atienda este contundente mensaje que le mandan desde el Congreso. Bien por la democracia, la representación y el control político”, Horacio José Serpa, exsenador liberal Los ocho Senadores de la Comisión VII honraron la confianza depositada por sus electores.— Horacio José Serpa (@HoracioJSerpa) La reforma a la salud quedaría archivada. Ojalá el Gobierno atienda este contundente mensaje que le mandan desde el Congreso. Bien por la democracia, la representación y el control… [March 12, 2024] “La empresa francesa Systra, que ha diseñado más de 100 metros en el mundo, y Deloitte (una de las \"big four\"), contratada en su momento por el DNP, realizaron dos evaluaciones económicas que confirmaron el proyecto de metro elevado que contratamos era muy superior al subterráneo. Sorprende el resultado sesgado que entrega la SCI y manipula el Mintransporte”, Enrique Peñalosa, exalcalde de Bogotá La empresa francesa SYSTRA que ha diseñado más de 100 metros en el mundo y Deloitte (una de las \"big four\") contratada en su momento por el DNP realizaron 2 evaluaciones económicas que confirmaron el proyecto de metro elevado que contratamos era muy superior al subterráneo.…— Enrique Peñalosa (@EnriquePenalosa) [March 13, 2024] “Mala noticia: la productividad de la economía colombiana cayó en 2023 un 1,7%, según el cálculo del DANE. Esta menor productividad muestra que nuestra economía carece de fuentes de crecimiento, de generación de ingresos, diferentes al consumo y, en algo, a las exportaciones”, Jorge Restrepo, director del Cerac Mala noticia: La productividad de la economía colombiana cayó en 2023 un 1.7%, según el cálculo del DANE. Esta menor productividad muestra que nuestra economía carece de fuentes de crecimiento, de generación de ingresos, diferentes al consumo y, en algo, a las exportaciones.— Jorge Restrepo (@JorgeARestrepo) [pic.twitter.com/dsq4tS3mau] [March 14, 2024] “Después de la reunión sostenida hace dos semanas con el presidente Petro, adelantamos mesa técnica con los ministros de Transporte y Ambiente para revisar inicio de las obras del Regiotram de Occidente por el corredor central. Los propósitos del análisis: discernir cuál es el mejor camino que nos permita consolidar el proyecto; cumplir con todas las normas establecidas; entregarle a la Sabana Occidente un sistema de movilidad en los tiempos establecidos”, Jorge Emilio Rey, gobernador de Cundinamarca Después de la reunión sostenida hace dos semanas con el señor presidente de la República,— Jorge Emilio Rey Ángel (@JorgeEmilioRey) [@petrogustavo], adelantamos mesa técnica con los [@MinTransporteCo]y [@MinAmbienteCo]para revisar temas cruciales en torno al inicio de las obras del [#Regiotram]de Occidente por el correcto… [pic.twitter.com/h0VMt3Efut] [March 14, 2024] “Oiga Fico, ¿no pues que ya los informes estaban listos y por eso se los presentó a la opinión pública y a los entes de control? O le mintió al país o le está mintiendo al Congreso. La contradicción es evidente. ¿O es verdad que esta puesta en escena, como dicen desde su alcaldía, la hicieron con papeles en blanco?”, Alex Flórez, senador Pacto Histórico Fico que si le damos más tiempo para enviar la información de los supuestos hallazgos porque es mucha.— Alex Flórez Hernández (@AlexFlorezH) Oiga Fico, ¿no pues que ya los informes estaban listos y por eso se los presentó a la opinión pública y a los entes de control? O le mintió al país o le está mintiendo al… [pic.twitter.com/DYjnSseXBv] [March 14, 2024]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-15T01:16:33.632+02:00",
+    "updated": "2024-03-15T01:16:33.632+02:00"
+  },
+  {
+    "uuid": "c0080c48dbc66f510313c0871418696a2a15c7ab",
+    "url": "https://www.meneame.net/story/belen-blasfemo-personas-mismo-sexo-indigna-conservadores/c021",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "pviruela32",
+    "published": "2023-12-24T07:11:00Z",
+    "title": "#21 Belén \"blasfemo\" con personas del mismo sexo indigna a los conservadores italianos",
+    "text": "[gelatti](/user/gelatti)a [es.investing.com](/go/link/3890231)\nPuedo entender que les moleste por \"romper la tradición\" a mi también me molesta cuando le quitan la barba a un personaje de comic que la lleva.\nAhora, que les moleste porque sea del mismo sexo,,, recordemos que a esta mujer le preño una paloma y vamos a tirarnos ahora de los pelos porque esté con una mujer?\n[#4](c4#c-4) Eso explicaría de forma que todo el mundo pueda entender como María llegó virgen a su cita con la paloma pese a estar casada.\n[#4](c4#c-4) mira que podía haber optado por convertir a los reyes en gays, o hacer una carroza del orgullo con los pastorcillos, pero poner dos vírgenes María es un sinsentido. Respeta lo básico del Belén y a partir de ahí añade lo que quieras, no te pases tomando licencias que luego queda irreconocible.\n[#2](c2#c-2) Ojalá algún día se pueda extraer energía de la subnormalidad y la estupidez. Conquistariamos el universo.\nA mi me la pela. Esta bien lo de defender la libertad de expresión y la libertad para creer o no creer.\nTus creencias para ti y yo en un país libre haré lo que quiera.\nPero luego vemos la otra cara de la moneda.\nQue si una diputada de podemos dice que el islam es el feminismo e invento la seguridad social.\nhttps://www.google.com/amp/s/amp.antena3.com/noticias/espana/polemicas-declaraciones-nora-banos-candidata-podemos-islam-feminista-invento-seguridad-social_202002245e53d5a00cf2a8ef178bab57.html\nPúblico, el periódico que izquierdas llamando la atención por que no se enseña suficiente islam en las escuelas.\nhttps://www.google.com/amp/s/www.publico.es/sociedad/asignatura-religion-islamica-colegios-espana-alumnos-musulmanes.html/amp\nSe puede reivindicar con el belen, pero hay que retirar cerdo para no ofender a los musulmanes.\nhttps://www.google.com/amp/s/www.elespanol.com/espana/20230626/cup-exige-retirar-alimentos-cerdo-fiestas-cataluna-respeto-musulmanes/774422768_0.amp.html\nMuy buena esta libertad.\n[#12](c12#c-12) Lo que tú no entiendes es que si metes en el juego las creencias de unos no puedes sacar las de otros. Y para que no se ofendan los capillitas somos capaces de comer por todos lados. Yo estoy COMPLETAMENTE EN CONTRA de que haya CUALQUIER religión en educación, sanidad o en el ejercicio, pero por otro lado, entiendo que si esta presente una, los demás pidan lo propio.\nSe nos olvida que la iglesia se lleva un buen pico por dar \"ese servicio\" no solo en colegios\n[#17](c17#c-17) tu comentario esta mal desarrollado y carece de sentido.\nEstas \"COMPLETAMENTE EN CONTRA de que haya CUALQUIER religión en educación, sanidad o en el ejército \" pero por otro lado \"entiendo que si esta presente una, los demás pidan lo propio.\"\nNo ves falta de lógica en tu argumento? Estas en contra y al mismo tiempo a favor.\n[#19](c19#c-19) No, estoy encontra de que paguemos el profe de religión en los coles, el mantenimiento de capilla en universidades, hospitales y cuarteles (con su correspondiente cura). Y hablamos de religión catolica.\nAhora bien, ENTIENDO, que si hay prevendas para unos, los otros (llamese musulmanes, testigos de Jehova o san pitopato), estén en su derecho de recibir las mismas.\nNo tienes ningún tipo de comprensión lectora.\n[#20](c20#c-20) ahora ya te voy entendiendo mejor.\nBásicamente, ahora lo que me dices es que no al catolicismo, pero como esta el catolicismo, entonces las demás también.\nPodrías haber dicho, quitemos el catolicismo y no dejemos pasar el resto de religiones, pero.... Si hay una todas las demás también. Y sin embargo dices que estás en contra.\nLo lógico sería decir que estás en contra del catolicismo y a favor de toda las demás.\nQue no se enteren los de vox que en el Belén de Vilavenut también hay dos madres haciendo de Maria y José.\nhttps://www.ccma.cat/324/el-pessebre-vivent-de-vilavenut-enguany-amb-dues-mares-de-deu-i-sense-sant-josep/noticia/3268061/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.google.com/amp/s/www.elespanol.com/espana/20230626/cup-exige-retirar-alimentos-cerdo-fiestas-cataluna-respeto-musulmanes/774422768_0.amp.html",
+      "https://www.google.com/amp/s/amp.antena3.com/noticias/espana/polemicas-declaraciones-nora-banos-candidata-podemos-islam-feminista-invento-seguridad-social_202002245e53d5a00cf2a8ef178bab57.html",
+      "https://www.ccma.cat/324/el-pessebre-vivent-de-vilavenut-enguany-amb-dues-mares-de-deu-i-sense-sant-josep/noticia/3268061/",
+      "https://www.google.com/amp/s/www.publico.es/sociedad/asignatura-religion-islamica-colegios-espana-alumnos-musulmanes.html/amp",
+      "https://google.com/amp/s/www.publico.es/sociedad/asignatura-religion-islamica-colegios-espana-alumnos-musulmanes.html/amp",
+      "https://ccma.cat/324/el-pessebre-vivent-de-vilavenut-enguany-amb-dues-mares-de-deu-i-sense-sant-josep/noticia/3268061/",
+      "https://google.com/amp/s/www.elespanol.com/espana/20230626/cup-exige-retirar-alimentos-cerdo-fiestas-cataluna-respeto-musulmanes/774422768_0.amp.html",
+      "https://google.com/amp/s/amp.antena3.com/noticias/espana/polemicas-declaraciones-nora-banos-candidata-podemos-islam-feminista-invento-seguridad-social_202002245e53d5a00cf2a8ef178bab57.html",
+      "https://www.ccma.cat/324/el-pessebre-vivent-de-vilavenut-enguany-amb-dues-mares-de-deu-i-sense-sant-josep/noticia/3268061"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T10:12:49.524+02:00",
+    "updated": "2023-12-24T10:12:49.524+02:00"
+  },
+  {
+    "uuid": "953df8eb97614048a041c80bd398cda79b934d67",
+    "url": "https://www.thecoldwire.com/raiders-mock-patrick-mahomes-with-puppet-at-camp",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Ward",
+    "published": "2024-07-25T22:51:00Z",
+    "title": "Raiders Troll Patrick Mahomes With Puppet At Camp",
+    "text": "There’s no love lost between teams in the AFC West division, as most of the teams within the division hate their divisional opponents every single year, which makes for some interesting matchups during the NFL regular season.\nAlthough the back-to-back Super Bowl champion Kansas City Chiefs have been the cream of the crop in the division since Patrick Mahomes took over at quarterback, the Las Vegas Raiders have sometimes given them a run for their money, kicking that rivalry back into high gear.\nLast year, the Raiders lost to Mahomes and company during the Thanksgiving Day weekend but got some revenge on Christmas Day by beating the Chiefs on the road at GEHA Field at Arrowhead Stadium.\nMahomes admitted that the loss to the Raiders on Christmas was a big blow and a game he wished had gone the other way, while Las Vegas reveled in getting the last laugh, even though they ended up missing the playoffs.\nWith the tension between the Raiders and Chiefs, it has become a storyline ahead of the 2024 NFL season and now has been taken to another level with a Kermit the Frog doll dressed up as Mahomes making the rounds during training camp in Costa Mesa via Ari Meirov of The 33rd Team.\nThe\n[#Raiders]appear to have a Patrick Mahomes Kermit the Frog doll at training camp. 👀\n(🎥\n[@RaidersAQ])\n[pic.twitter.com/vaOs2TNrQh]\n— Ari Meirov (@MySportsUpdate)\n[July 25, 2024]\nIt’s safe to say that this won’t be taken lightly by the Chiefs and Mahomes, as there was already a lot of tension between the two teams, with Maxx Crosby and the superstar quarterback in the middle of it all.\nIt’ll be interesting to see if the Chiefs come up with something to clap back at the Raiders before the season or if they will wait until they play them in Week 8 at Allegiant Stadium in Las Vegas, Nevada.\nNEXT: Antonio Pierce Announces Plans For QB Situation",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "patrick mahomes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kansas city chiefs",
+          "sentiment": "none"
+        },
+        {
+          "name": "nfl",
+          "sentiment": "none"
+        },
+        {
+          "name": "las vegas raiders",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "geha field",
+          "sentiment": "none"
+        },
+        {
+          "name": "arrowhead stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T03:30:00.815+03:00",
+    "updated": "2024-07-26T03:30:00.815+03:00"
+  }
+]

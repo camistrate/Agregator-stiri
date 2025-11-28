@@ -1,0 +1,689 @@
+[
+  {
+    "uuid": "2c6270fff6c68f84e899ac8a8b28e3a6aa50e190",
+    "url": "https://images.thedailystar.net/business/economy/news/75-factories-yet-pay-march-wages-say-industrial-police-3859241",
+    "ord_in_thread": 0,
+    "author": "@dailystarnews",
+    "published": "2025-03-27T18:17:00Z",
+    "title": "75% factories yet to pay March wages, say Industrial Police",
+    "text": "75% factories yet to pay March wages, say Industrial Police\nNearly 75 percent of the 9,596 garment and non-garment factories across Bangladesh were yet to pay workers their March wages till yesterday, according to Industrial Police, as Eid holidays are just around the corner.\nThe figures, compiled until 3pm yesterday, also show that 74.57 percent of the factories have so far paid Eid bonuses.\nOf the total, 2,890 factories are affiliated with major trade bodies, including the Bangladesh Garment Manufacturers and Exporters Association (BGMEA), the Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA), the Bangladesh Textile Mills Association (BTMA), and the Bangladesh Export Processing Zones Authority (Bepza).\nOf them, 2,282 (78.96 percent) have yet to settle March wages.\nThe data also shows stark disparities among industry groups. Only 331 out of 1,555 BGMEA-affiliated factories have paid March wages, while just 53 of 581 BKMEA members have done so.\nThe BTMA fares similarly, with only 30 of its 330 mills settling wages.\nFactories under Bepza performed slightly better, with 214 out of 424 paying workers.\nIn the jute sector, 47 out of 86 mills have cleared March wages, but workers at 72.97 percent (6,719) of factories in other sectors remain unpaid.\nBonus payments paint a marginally brighter picture.\nAmong BGMEA members, 1,309 out of 1,555 factories have disbursed bonuses, while 383 of 581 BKMEA-affiliated units have done the same.\nThe BTMA saw 238 of its 330 members paying bonuses, and Bepza factories nearly swept the board with 419 out of 424 complying.\nIn the jute industry, 65 of 86 mills paid bonuses, while 4,816 out of 6,719 factories in other sectors met their obligations.\nBGMEA administrator Anwar Hossain said most factories would likely pay wages in the next two days before the holiday, as is customary.\n\"Paying earlier risks workers leaving before the official holiday, disrupting urgent production and shipments,\" he added.\nHossain said that while 94.78 percent of factories had paid bonuses, liquidity pressures were high due to the dual burden of salaries and bonuses.\nTo ease it, the Bangladesh Bank has released Tk 2,250 crore from export cash incentives to help facilitate payments before Eid.\nAt a press conference in Dhaka yesterday, Labour and Employment Adviser Brig Gen (Retd) M Sakhawat Hussain assured that \"almost all factories\" would clear payments as Eid approaches.\nAccording to the adviser, the government has barred 12 garment factory owners from travelling abroad over unpaid wages.\nAs the owner of Roar Fashion Saifuzzaman Shikhor, a former Amwai League lawmaker, is now absconding, labour agitation prompted authorities to disburse Tk 1.23 crore in loans to cover unpaid wages.\nThe labour ministry has also urged the home ministry to file a case against the former lawmaker and alert Interpol.\nIn a bid to settle dues, the adviser said Apparels Eco Ltd of TNZ Group sold cars to pay workers, while Mahmud Jeans used central bank incentives. Disputes at Stylecraft and Youngone BD have also been resolved.\nIn a statement last night, BGMEA said that 83.2 percent of its 2,107 factories had paid half of March's wages, with full payments expected by March 28-29.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->human resources",
+      "Social Issue->poverty",
+      "Social Issue->social condition",
+      "Labor->labour market",
+      "Labor->wages and benefits",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bepza",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Anwar Hossain",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Brig Gen",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Sakhawat Hussain",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mahmud Jeans",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Bangladesh",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Dhaka",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Industrial Police",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Eid",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Garment",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Knitwear Manufacturers and Exporters Association",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Textile Mills Association",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Export Processing Zones Authority",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "BGMEA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "BKMEA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "BTMA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Bangladesh Bank",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Roar Fashion Saifuzzaman Shikhor",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Amwai League",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "The labour ministry",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the home ministry",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Interpol",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Apparels Eco Ltd of TNZ Group",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Stylecraft",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Youngone BD",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T22:36:56.316+02:00",
+    "updated": "2025-03-27T22:36:56.316+02:00"
+  },
+  {
+    "uuid": "bcfb698f56705169301dc1ff8b1aeaffa5e45d74",
+    "url": "https://www.livemint.com/news/world/17-indian-crew-members-of-cargo-ship-seized-by-iran-released-on-humanitarian-grounds-11714750000148.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@mint",
+    "published": "2024-05-03T13:05:00Z",
+    "title": "17 Indian crew members of cargo ship seized by Iran released on ‘humanitarian grounds’ | Mint",
+    "text": "Iran has said it released all the crew members of Portuguese-flagged cargo vessel MSC Aries that had 17 Indians among its 25 crews.\nIranian Foreign Minister Amir Abdollahian mentioned the release of the crew of the ship during a phone conversation with his Estonian counterpart Margus Tsahkna on Friday, according to an Iranian readout.\nAnn Tessa Joseph, the sole woman cadet among the 17 Indian crew members of the Israeli-linked container vessel was released days after the tanker was seized by Iran's military on April 13.\n\"In response to the request of the Estonian side regarding the Portuguese ship seized in the territorial waters of the Islamic Republic of Iran and the release of the Estonian crew, Amirabdollahian said the ship, which turned off its radar in the territorial waters of Iran and endangered the security of navigation, is detained under judicial rules,\" the Iranian foreign ministry said.\n\"He however noted that Iran has already released all the ship's crew members on humanitarian grounds, and if the ship's captain accompanies them, the crew including the Estonians can return to their country,\" it said.\nHours after the Iranian military seized the vessel, White House National Security Council Spokesperson Adrienne Watson had said the ship's crew comprised Indian, Filipino, Pakistani, Russian and Estonian nationals.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "margus tsahkna",
+          "sentiment": "none"
+        },
+        {
+          "name": "amir abdollahian",
+          "sentiment": "none"
+        },
+        {
+          "name": "amirabdollahian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ann tessa joseph",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "iran",
+          "sentiment": "none"
+        },
+        {
+          "name": "islamic republic of iran",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T18:37:17.475+03:00",
+    "updated": "2024-05-03T20:37:17.772+03:00"
+  },
+  {
+    "uuid": "8ea70127fda54be6cb54b5cc0e5f87d21ef2a356",
+    "url": "https://www.the42.ie/arsenal-west-ham-result-6260121-Dec2023/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Press Association",
+    "published": "2023-12-28T22:32:00Z",
+    "title": "Arsenal denied return to Premier League summit after West Ham defeat",
+    "text": "ARSENAL MISSED THE chance to return to the top of the Premier League as they slipped to a disappointing defeat to West Ham amid more VAR controversy.\nThe Gunners needed victory to replace Liverpool at the summit but lost 2-0 by the Hammers on a night where David Moyes finally landed a victory at the Emirates Stadium.\nHis West Ham side lost Kurt Zouma ahead of the game and Lucas Paqueta after just over half an hour but hit the front through Tomas Soucek’s strike, awarded after VAR could not determine whether the whole ball had gone out of play in the build-up.\nA second-half header from former Arsenal defender Konstantinos Mavropanos secured the points and things could have been even better for the visitors had Said Benrahma not seen a last-gasp penalty saved by David Raya.\nMoyes had failed to secure victory in his previous 72 Premier League away games at Arsenal, Chelsea, Liverpool or Manchester United, so this was a long time coming for the Scot.\nArsenal laboured when they needed to continue their recent winning run in London derbies to go back to the top of the table.\nInstead, only captain Martin Odegaard could hold his head high on a night where their defence creaked and Gabriel Jesus was guilty of missing a couple of very good chances.\nArsenal started well, with some great touches in and around the West Ham box from Odegaard in particular.\nBut at the other end their defending left a lot to be desired, as Oleksandr Zinchenko and Gabriel Magalhaes failed to deal with a simple ball into the middle.\nJarrod Bowen capitalised by latching onto the miscue and teed up Soucek to finish – the goal surviving a lengthy VAR check which could not ultimately make a call on if the ball had not gone out of play before Bowen’s cutback.\nArsenal looked to respond although the goal gave West Ham something to defend, although Jesus found a way in behind with a subtle flick into Bukayo Saka, whose header was brilliantly saved by Alphonse Areola.\nPaqueta had been hurt in the warm-up and lasted just over half an hour, with his fellow Brazilian Gabriel Martinelli curling an effort just wide for Arsenal as they continued in vain to find a leveller.\nThe hosts were getting closer, West Ham gifting possession as two passes saw Arsenal in on goal once more, this time Saka hitting the base of the post from an acute angle.\nFormer West Ham captain Declan Rice fired just over from 25 yards but it was another player coming back to haunt his former club who would find the back of the net soon after.\nMavropanos made just seven league starts in three years as an Arsenal player but returned to the Premier League last summer with the Hammers and headed them two goals ahead before the hour.\nJesus then headed straight at Areola before sending another fine chance well over the bar moments after Arteta introduced Eddie Nketiah and Reiss Nelson off the bench.\nAreola was on hand again to keep out a Leandro Trossard effort, with Vladimir Coufal clearing a William Saliba header off the line from the resulting corner.\nRice had come off the bench during a 3-0 Carabao Cup defeat on his return to West Ham earlier in the season and endured another night to forget here as he conceded a late penalty for tripping Emerson Palmieri in the box – only for Raya to keep out substitute Benrahma’s tame spot-kick.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "david raya",
+          "sentiment": "none"
+        },
+        {
+          "name": "moyes",
+          "sentiment": "none"
+        },
+        {
+          "name": "konstantinos mavropanos",
+          "sentiment": "none"
+        },
+        {
+          "name": "tomas soucek",
+          "sentiment": "none"
+        },
+        {
+          "name": "kurt zouma",
+          "sentiment": "none"
+        },
+        {
+          "name": "said benrahma",
+          "sentiment": "none"
+        },
+        {
+          "name": "david moyes",
+          "sentiment": "none"
+        },
+        {
+          "name": "lucas paqueta",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "west ham",
+          "sentiment": "negative"
+        },
+        {
+          "name": "premier league",
+          "sentiment": "negative"
+        },
+        {
+          "name": "liverpool",
+          "sentiment": "none"
+        },
+        {
+          "name": "var",
+          "sentiment": "none"
+        },
+        {
+          "name": "arsenal",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester united",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "emirates stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "west ham",
+          "sentiment": "none"
+        },
+        {
+          "name": "chelsea",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:36:31.319+02:00",
+    "updated": "2023-12-29T01:36:31.319+02:00"
+  },
+  {
+    "uuid": "836c87ac3c16e6025a8e55e12569500e2368fe3d",
+    "url": "https://www.diariosigloxxi.com/texto-ep/mostrar/20250219150227/obispos-espanoles-preocupados-papa-rezan-pronta-recuperacion",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guillermo Peris Peris",
+    "published": "2025-02-19T14:02:00Z",
+    "title": "Obispos españoles, preocupados por el Papa, rezan por su ",
+    "text": "|\n|\nObispos españoles, preocupados por el Papa, rezan por su \"pronta recuperación\" | |||\n| |||\nLos obispos españoles han expresado su \"preocupación\" por la salud del Papa Francisco, hospitalizado desde el pasado viernes 14 de febrero tras varios días con una bronquitis, y han renovado este miércoles su petición a los fieles para que recen por su \"pronta recuperación\". Este martes, la Santa Sede informó de que Francisco sufre una \"neumonía bilateral\" y que presenta un cuadro clínico \"complejo\". Si bien, esta mañana han comunicado que ha pasado una noche \"tranquila\" y ha desayunado. El arzobispo de Mérida-Badajoz ha hecho pública este miércoles una nota en la que pide a todos los fieles y a las comunidades oraciones por el Papa Francisco. \"Oremos por el Pastor Universal de la Iglesia. Hagámoslo en nuestra oración particular, así como en nuestra oración comunitaria, particularmente en nuestras parroquias y comunidades eclesiales, especialmente durante las celebraciones de la Eucaristía\", ha pedido. Por su parte, el obispo de Ávila, Jesús Rico, ha mostrado su \"preocupación\" y ha expresado \"la cercanía\" de toda la diócesis con el Papa Francisco. \"En efecto, todos los cristianos de Ávila compartimos esa lógica preocupación por el estado de salud del Santo Padre, al que nuestro obispo nos pide acompañar espiritualmente con nuestra oración y nuestro cariño filial\", reza el comunicado de la diócesis de Ávila. En este sentido, anima a todos los diocesanos a pedir por \"la pronta recuperación del sucesor de Pedro\", e invita a todos los sacerdotes a que, \"de un modo concreto, en la Misa diaria, realicen una petición por esa intención\". \"Todos los fieles, las familias, las comunidades religiosas, las parroquias, los movimientos eclesiales, estamos llamados a elevar esas oraciones para pedir por la pronta recuperación del Santo Padre, para que pueda seguir guiando a la Iglesia con sabiduría\", subraya. Se suman así a otros prelados que ya habían pedido oraciones por el Papa, como el obispo de Getafe, Ginés García Beltrán, que pidió que \"el Señor le ayude en estos momentos y asista a los médicos que se están haciendo cargo\". \"¡Santo Padre estamos con usted!\", expresó García Beltrán en su cuenta de la red social 'X'. Por su parte, la Archidiócesis de Madrid animó a todos los fieles \"a permanecer unidos en la oración\"; la Diócesis de Alcalá envió un comunicado en el que reza por el restablecimiento de la salud del Papa y pide a todos los fieles que oren por su recuperación y desde la Archidiócesis de Toledo piden \"la intercesión de María\" para su curación. Además, el obispo de Vitoria, Juan Carlos Elizalde, ha animado desde su cuenta de 'X' a seguir rezando por el Papa Francisco y desde la Diócesis de Coria-Cáceres han animado a los fieles católicos a permanecer unidos en la oración. Asimismo, la diócesis de Almería pide \"fortaleza\" para que el Pontífice pueda \"continuar guiando en la caridad y la comunión\" y el obispo de Mallorca anima a la comunidad diocesana, las parroquias, los movimientos católicos y a todos los fieles que recen para \"fortalecer el apoyo espiritual al Papa en este momento delicado\". Según el Obispado, Francisco ha sido informado de los numerosos mensajes de cercanía y afecto que ha recibido durante estos días de convalecencia y ha pedido que se siga rezando por él. Los obispos se suman así desde sus diócesis a la invitación realizada el pasado sábado por la Conferencia Episcopal Española (CEE) a rezar \"por el pronto restablecimiento del Papa Francisco\" y a hacer una petición expresa en las misas por su salud. |\nMenuda semana tras el breve descanso. Precios del petróleo, cifras de inflación, titulares fiscales y debates sobre la reunión del BCE de la próxima semana. Nos visitaron fantasmas del pasado, del presente y, potencialmente, del futuro próximo.\nEl consejero delegado de International Airlines Group (IAG), Luis Gallego, destacó este viernes “el buen funcionamiento” de los aeropuertos españoles en comparación con otros de Europa, entre los que citó los de Londres, Ámsterdam y Frankfurt, según dijo una conferencia con periodistas en relación con los resultados del ‘holding’ de Iberia y Vueling en el primer semestre.\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Papa Francisco",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jesús Rico",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ávila",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-19T16:12:32.669+02:00",
+    "updated": "2025-02-19T16:12:32.669+02:00"
+  },
+  {
+    "uuid": "2abf2df48f16b29f79654ec8c77b1ec3bb665bfc",
+    "url": "https://whatsnew2day.com/all-my-exercise-hours-have-taught-me-one-thing-men-must-be-prohibited-from-gyms-writes-olivia-dean",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Merry",
+    "published": "2025-01-31T01:40:00Z",
+    "title": "All my exercise hours have taught me one thing: men must be prohibited from gyms, writes Olivia Dean",
+    "text": "It is finally the end of January. Of those who made New Year resolutions to put on shape, only the laggards remain on the running tape.\nMost of us are seeing that the direct debit leaves our accounts collapsed on the couch in a veil of pringle dust.\nYou can see a gym user for the first time. They will fight with the omnipresent Mechanism of ‘Push Knob and Libere’, before addressing the bicycles or running tapes; easier to operate without prior knowledge.\nA gender division arises here. You would expect that all beginners act as female rookies tend to: shy, apologizing, with the aim of causing a minimum inconvenience to others.\nBut there is no modesty for beginners in the user of the male gym. His lack of shame continues until they become an unpleasant grunt of squat shelf, while even the most heartbreaking women are quiet and considered.\nI am not fond of exercise, but as a user of perennial gym, my hours dedicated to observing others have taught me one thing: all men should be prohibited from gyms.\nI’m not alone: ​​this week, a survey discovered that women are being possible to completely gym to the dominant men. So here is my anti-man-ske.\nThe shame of the body, of course, does not take place in the gym. But each rule has its exception, and the exception here are men. We have, of course, Paul Mescal to blame the epidemic of small shorts that sweep the male species.\nThis week, a survey discovered that women are being discouraged going to the gym completely by dominant men.\nA man in my gym of eastern London has adopted the trend, but seems unknown to the limitations of the garment, which leads to some unfortunate malfunction of the costume when using the running tape or the leg press. It is a distraction, for saying at least.\nOther men have an inclination to get their shirts while they make cardio (I’ve never seen a woman do the same). The problem with this is that the shirts have the fortuitous ability to absorb sweat.\nWhen he pursues a better personal upper part, his sweat will travel, dripping on the machines.\nWhich would be fine if a) said that the men cleaned the team later, yb) they shower thoroughly. Often, it is not the case either.\nA friend told me that in the changing rooms of men there is a sign that asks people to give up properly when the smell became so atrocious. Such a sign in the ladies did not arise.\nAnd users of male gyms seem to remain younger. A group of prepubescent now comes together to my gym. They locate the nearest young woman, meet in the line of the eyes and begin to curl free weights, while one of them acts as a cameraman.\nThe filmed video and the published images, the weights fall (rarely are returned to the shelf) and the process is repeated in the Pull-Up bar, where even the most vigorous number cannot lift the body weight. Harmless? It is not for women under their peacock calls to ‘go to the boy’.\nAdults are not much better. It is good to use each piece of equipment only as long as necessary. That means brief breaks between series and without displacement of Tiktok in the weight bank. Men, however, do not seem to possess this self -awareness, and with a tail they form, they will sit watching motivating videos while breathing.\nThey never seem to grow from photographic habit. And yes, I know that gyms are also guilty of establishing tripods to film chest presses. Here I must deploy the female privilege of double ratings to give all men a public service announcement. No woman wants to see your ‘flexible selfie’. It won’t make us imagine in Tinder. I’m sorry.\nBut there are much more serious concerns about the use of the phone while exercising. You are rarely alone in a gym and others can end in a shot.\nThere is a tacit rule of shared vulnerability among gymnastics users: we are all terrible and our wobbly parts are on display and, as the new survey discovered, many women fear being judged for their use of gymnastics.\nWhen you break that trust and share an image of anyone, but particularly a woman, exercising, invite ridicule, trolling and harassment.\nSo what is the solution? Do we reject the mixed gyms or do we promulgate segregated gender hours?\nIt would not be bad not to talk to a man in the gym. A quarter of the women surveyed said they had received unre requested comments from men in the gym. If I had a pound for every time my “form” corrected for a man with a muscular vest, I could pay a much more expensive gym.\nOnce I was on a running tape with a man who, although he had the headphones on, tried to start a conversation. I was so distracted that I had the cords of my trainers trapped in the mechanism and flown, hitting my head on the floor and tear my leggings. At least he apologized.\nDo these men feel a similar frustration towards me? Probably. Make the running ribbons, leave the shoulder pressure on the lighter weights and rarely take all the effort.\nBut maybe they would encourage me to take it seriously if, like all the other women, I did not risk the ridiculous and humiliation of groan pigs in coaches.\n(Tagstotranslate) Dailymail (T) Fumail (T) Tiktok (T) Paul Mescal (T) Tinder",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->exercise and fitness",
+      "Social Issue->gender",
+      "Social Issue->sexism",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T08:57:26.170+02:00",
+    "updated": "2025-01-31T08:57:26.170+02:00"
+  },
+  {
+    "uuid": "b53e437cb69be2265de6a0cb0001bbe61e75a28c",
+    "url": "https://www.gloucestershirelive.co.uk/news/health/orange-juice-granola-alert-healthy-9908194",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Neil Shaw Assistant Editor (Money and Lifestyle)",
+    "published": "2025-01-31T09:13:00Z",
+    "title": "Orange juice and granola alert as healthy foods 'bad for mental health' - Gloucestershire Live",
+    "text": "News Orange juice and granola alert as healthy foods 'bad for mental health' Suhail Rivera said 60% of our mood-regulating brain chemicals are directly affected by what we eat gloucestershirelive Bookmark\nShare\nNews By Neil Shaw Assistant Editor (Money and Lifestyle) 09:13, 31 JAN 2025 Updated 09:34, 31 JAN 2025 Bookmark\nOrange juice and granola could be damaging your mood Recent research shows your diet choices may be sabotaging your emotional well-being as foods you may think are healthy for your body could be damaging to your mental health. According to a study published in the Journal of Nutritional Biochemistry, more than 60% of our mood-regulating brain chemicals are directly affected by what we eat.\nBut only 1 in 4 people consider their diet when dealing with mood issues. \"Most people blame stress or lack of sleep for their emotional fluctuations,\" said Suhail Rivera, founder of the Alkaline Herb Shop . \"But our analysis shows that seemingly healthy foods could be the hidden triggers.\"\nSuhail has listed foods and drinks you may want to avoid, adding: \" Understanding how these common foods affect mood is crucial for better mental well-being. Every person responds differently, but awareness is key.\n\"Keeping a food diary can help you spot hidden mood disruptors. This data-driven approach can help identify your personal trigger foods and create a diet that supports both physical and emotional health.\"\nFive foods and drinks that can negatively affect your mood Artificial Sweeteners: The Zero-Calorie Mood Trap\nThese synthetic sweeteners are clever mood manipulators. They mess with your gut bacteria – the tiny warriors responsible for producing 90% of your body's serotonin (your \"happy hormone\" actually comes from your gut). Regular consumption of these sweeteners can cut your beneficial gut bacteria in half, potentially leaving you feeling unexpectedly blue.\nWhole Wheat Bread: The Surprising Afternoon Slump Trigger\nWhile whole wheat bread is nutritious for many, it contains specific proteins and compounds that can trigger surprising emotional responses in sensitive individuals. \"About 1 in 15 people experience significant mood changes from whole wheat consumption, often without realizing the connection,\" explains Rivera. The effect can last up to 72 hours after eating, making it particularly difficult to identify the cause.\nCanned Tomatoes: Your Mood's Silent Enemy\nThough praised for their convenience and lycopene content, canned tomatoes harbor a hidden mood-affecting element: BPA from can linings. Tests show that acidic foods like tomatoes can cause BPA to leach at levels of 50 micrograms per liter or higher. Combined with their naturally high histamine levels, canned tomatoes can leave sensitive individuals feeling inexplicably anxious or irritable.\nOrange Juice: The Breakfast Mood Crusher\nDespite its reputation as a healthy breakfast staple, orange juice can be a surprising mood destabilizer. A typical 12-ounce serving contains 23-27 grams of sugar, leading to blood glucose spikes of 20-30% above baseline within 30 minutes. \"It's essentially setting you up for an emotional crash before lunch,\" warns Rivera.\nGranola Bars: The Stealth Mood Disruptor\nThese convenient snacks, often marketed as healthy alternatives, can be stealth mood disruptors. Behind their healthy image, many commercial granola bars are secretly loaded with various forms of sugar and inflammatory fats. “It's like giving your brain a one-two punch that can leave you feeling foggy and irritable just when you need to be at your sharpest.”, explains Rivera.\nStory Saved You can find this story in My Bookmarks. Or by navigating to the user icon in the top right. Follow GloucestershireLive",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->mental health and disorder",
+      "Lifestyle and Leisure->mental wellbeing",
+      "Lifestyle and Leisure->lifestyle",
+      "Social Issue->social services",
+      "Social Issue->social problem",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://go.skimresources.com?id=76202X1561094&xs=1&url=https%3A%2F%2Falkalineherbshop.com%2F&sref=https%3A%2F%2Fwww.gloucestershirelive.co.uk%2Fnews%2Fhealth%2Forange-juice-granola-alert-healthy-9908194",
+      "https://www.go.skimresources.com?id=76202X1561094&xs=1&url=https%3A%2F%2Falkalineherbshop.com%2F&sref=https%3A%2F%2Fwww.gloucestershirelive.co.uk%2Fnews%2Fhealth%2Forange-juice-granola-alert-healthy-9908194",
+      "https://go.skimresources.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Suhail Rivera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Alkaline Herb Shop",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "b53e437cb69be2265de6a0cb0001bbe61e75a28c",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T12:37:54.279+02:00",
+    "updated": "2025-01-31T16:05:53.149+02:00"
+  },
+  {
+    "uuid": "4061680a9cf35abd7c83bebe3a14a036af4d8fd4",
+    "url": "https://avn.com/business/articles/technology/scenelocker-storage-amp-transfer-system-launches-beta-for-creators-936792.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joanne Cachapero",
+    "published": "2024-10-17T18:58:00Z",
+    "title": "SceneLocker Storage, Transfer System Beta Launches for Creators",
+    "text": "LOS ANGELES—SceneLocker, a cloud storage and file transfer system for adult content creators, has launched a closed Beta test at its website, SceneLocker.com. With recently mandated proof-of-age requirements in several states, SceneLocker has been designed exclusively for adults who create video content and their content storage/sharing needs.\nSceneLocker is a personal storage vault with the ability to create quick single use links to share stored files between creators and collaborators in a safe and secure way.\nMatt Slayer, a content creator and host of the \"And Now We Drink\" podcast, said, “I was constantly being asked by creators about cloud storage and file sharing solutions, a number of whom had seen their Google Drive accounts terminated without warning. I realized that there was no company that catered specifically to the adult industry. Big Tech doesn’t want out business. Big Tech does not care about us. So, I assembled a team to bring to life my vision of a system designed specifically for content creators.”\nAdult star and SceneLocker spokesperson Cherie DeVille added, “Adult content creators have consistently faced significant discrimination in all aspects of our lives, whether it’s banking, getting loans, or even the ability to store our content on the cloud. SceneLocker will revolutionize our ability to safely and confidently store our valuable assets without the constant fear of being deleted.\n“Finally, a content storage solution where we don’t have to hide in the shadows, not knowing if we’ll wake up to tens of thousands of dollars of our valuable content deleted for simply existing,\" DeVille concluded.\nThe SceneLocker system is now ready for the beta-testing phase. “This is the point where we are ready for the input of creators, where they give it a spin on their own workflows, and we take their feedback. What sets us apart from other storage platforms is, we are interested in your suggestions. If you have a good idea, and it plays, we will implement it. In return, participating testers will receive 1 terabyte of free storage for the duration of the Beta and up to a 20 percent pricing discount at launch,” Slayer noted.\nFor more information, content creators can visit the SceneLocker website. Follow the company on X @SceneLocker.\nFollow Slayer on X @Matt_Slayer and on Instagram @mattslayer.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://twitter.com/Matt_Slayer",
+      "https://www.instagram.com/mattslayer",
+      "https://www.scenelocker.com/",
+      "https://www.scenelocker.com",
+      "https://x.com/SceneLocker",
+      "https://scenelocker.com",
+      "https://www.scenelocker.com",
+      "https://scenelocker.com/",
+      "https://instagram.com/mattslayer",
+      "https://www.x.com/SceneLocker",
+      "http://www.twitter.com/Matt_Slayer"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Cherie DeVille",
+          "sentiment": "none"
+        },
+        {
+          "name": "Matt Slayer",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:07:21.253+03:00",
+    "updated": "2024-10-18T01:07:21.253+03:00"
+  },
+  {
+    "uuid": "d8b411490744d3d46656aa6629ee8cf777571a37",
+    "url": "https://psiquiatria.com/psiquiatria-general/experto-apuesta-por-redisenar-el-proceso-sanitario-ante-la-implementacion-de-la-inteligencia-artificial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "psiquiatria.com",
+    "published": "2024-11-07T22:00:00Z",
+    "title": "Experto apuesta por `rediseñar´ el proceso sanitario ante la implementación de la inteligencia artificial",
+    "text": "El director general de Salud y Servicios Públicos para Datos e Inteligencia Artificial de Accenture, Daniel Hidalgo, ha destacado la necesidad de \"rediseñar\" el proceso sanitario ante la implementación de la inteligencia artificial (IA) y no solo introducir \"pequeños cambios para tener mejoras incrementales\". \"No es una cuestión únicamente de introducir la inteligencia artificial para mejorar un aspecto específico de un proceso, pasa por rediseñar el proceso entero, porque esta tecnología cambia por completo la manera en la que nos vamos a relacionar con ella misma, con el paciente, con nuestras capacidades diagnósticas y, por tanto, hay que rediseñar todo\", ha explicado Hidalgo durante su participación en un encuentro de la serie IDIálogoS, ¿y ahora qué?, bajo el título 'TendencIAs y regulación en Inteligencia Artificial'. Durante el encuentro, también se ha tratado la necesidad del cambio cultural en los propios profesionales sanitarios y en los pacientes debido a la aplicación de la IA. Así, Hidalgo ha lamentado que \"todavía no se ha alcanzado el rediseño necesario\". \"En este momento, lo que se está haciendo es cambiar cositas, no rediseñar\", ha concretado. En este sentido, el investigador de la Cátedra de Derecho y Genoma Humano en la Universidad del País Vasco Iñigo de Miguel ha asegurado que la llegada de la IA puede provocar cambios en el sistema sanitario y ha puesto como ejemplo el papel de un dermatólogo. \"Tú tienes tu sistema de inteligencia artificial y vas viendo que funciona bien. Va a llegar un momento en el que el dermatólogo no va a mirar mucho el lunar del paciente si el sistema ya le dice que ahí no hay nada por lo que preocuparse. En cambio, si hay contradicciones entre ellos, probablemente, el dermatólogo mande una biopsia. La dos opciones, la del dermatólogo y la de la IA, pueden provocar un aumento en el futuro del número de biopsias\", ha explicado. Además, en el encuentro se ha analizado el Reglamento Europeo de Inteligencia Artificial, que entró en vigor el pasado 1 de agosto para garantizar la seguridad y los derechos fundamentales de los ciudadanos de la Unión Europa ante los riesgos que plantea esta tecnología. Una norma que para De Miguel \"necesita la aprobación del Reglamento del Espacio Europeo de Datos Sanitarios\". \"El Reglamento del Espacio Europeo de Datos Sanitarios está relacionado con el tratamiento de datos para usos secundarios, para fines de investigación, que es lo que, realmente, la inteligencia artificial necesita\", ha agregado. En este punto, para Hidalgo, el éxito del Espacio Europeo de Datos Sanitarios pasa \"por una gestión del cambio, vinculada fundamentalmente al paciente\". \"Debemos acompañarle al paciente, formarle, que entienda que esa compartición del dato es en un ecosistema de seguridad\", ha indicado. INFLUENCIA DE LA INTELIGENCIA ARTIFICIAL EN EL DESARROLLO DE MEDICAMENTOS Durante su participación en el encuentro, el director de Innovación de Grünenthal y presidente de AIMFA (Agrupación de Investigación y marketing farmacéutico), Antonio Ibarra, ha destacado el papel de la IA en el desarrollo de medicamentos, algo que \"en la actualidad ya está teniendo un gran impacto\". \"La inteligencia artificial está permitiendo identificar patrones y moléculas que nos permiten adelantarnos a los comportamientos del ser humano. Además, se usa la IA para analizar un gran volumen de datos y clasificar esa información de forma mas rápida, por supuesto siempre con supervisión humana\", ha explicado el experto. Así, ha detallado que la IA también permite \"predecir mucho mejor\" la demanda de medicamentos en determinados territorios, lo que \"facilita la gestión de los inventarios\", aunque ha asegurado que estos procesos se encuentran todavía en una \"fase incipiente\". Al hilo, Ibarra ha resaltado que la inteligencia artificial sirve para \"probar medicamentos en seres humanos y evitar riesgos\". \"Con la IA podemos comprobar cómo se va a comportar un medicamento concreto en algunos seres humanos de unas características particulares\", ha apuntado. Por último Ibarra ha declarado que la IA tendrá una gran importancia en el desarrollo de la medicina de precisión, lo que podría permitir alcanzar en el futuro los medicamentos a medida. \"Pasa también por la posibilidad de incluso generar un medicamento a medida para cada persona, que eso ya, a pequeña escala, está sucediendo actualmente\", ha finalizado Ibarra.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:46:30.318+02:00",
+    "updated": "2024-11-08T01:46:30.318+02:00"
+  },
+  {
+    "uuid": "f684b168f466ae4d4fabb82d8e1552e6a7c8eda1",
+    "url": "https://www.bahamaslocal.com/newsitem/331945/Woman_ordered_to_drug_counselling_after_admitting_to_having_30_grams_of_marijuana.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bahamaslocal.com",
+    "published": "2025-02-20T11:00:00Z",
+    "title": "Woman ordered to drug counselling after admitting to having 30 grams of marijuana | Bahamas Local News",
+    "text": "A MAN was ordered to attend drug counselling after admitting to having 30 grams of marijuana in his car in Fox Hill last week.\nClick here to read more at The Tribune",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->drug related crimes",
+      "Crime, Law and Justice->court",
+      "Health->drug rehabilitation",
+      "Social Issue->social problem",
+      "Social Issue->addiction"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://tribune242.com/news/2025/feb/20/woman-ordered-to-drug-counselling-after-admitting-to-having-30-grams-of-marijuana/",
+      "https://tribune242.com/news/2025/feb/20/woman-ordered-to-drug-counselling-after-admitting-to-having-30-grams-of-marijuana",
+      "https://www.tribune242.com/news/2025/feb/20/woman-ordered-to-drug-counselling-after-admitting-to-having-30-grams-of-marijuana/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:25:49.076+02:00",
+    "updated": "2025-02-21T01:25:49.076+02:00"
+  },
+  {
+    "uuid": "352c366e830f965aa17d0c44c8134e747ee57031",
+    "url": "https://www.la-croix.com/religion/pape-hospitalise-comment-francois-envisage-la-fin-de-son-pontificat-20250220",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gonzague de Pontac",
+    "published": "2025-02-20T05:19:00Z",
+    "title": "Pape hospitalisé : comment François envisage la fin de son pontificat",
+    "text": "« Que ma mort ne soit pas trop douloureuse. » C’est la prière que le pape François adresse à Dieu dans Espère , sa récente autobiographie. « J’ai demandé une dernière grâce au Seigneur » , écrit-il dans un émouvant passage, où il reconnaît être « un peu douillet » face à la souffrance physique : « Prends soin de moi, que ce soit quand tu le voudras, mais (…) s’il te plaît, qu’elle ne soit pas trop douloureuse. »\nDes funérailles simplifiées, à côté de la Vierge Marie « J’ai vis-à-vis de ma mort une attitude extrêmement pragmatique » , assure également François dans Espère . Il y détaille même ses futures obsèques : « Des funérailles dignes, mais comme n’importe quel chrétien : car l’évêque de Rome est un pasteur et un disciple, il ne fait pas partie des puissants de ce monde. » « Le rituel des obsèques était surchargé et j’ai prié le maître de cérémonie de l’alléger » , ajoute celui qui souhaite reposer dans la basilique Sainte-Marie-Majeure plutôt qu’à Saint-Pierre, où sont enterrés ses prédécesseurs.\nÀ lire aussi Pape François hospitalisé : le Vatican est suspendu à ses bulletins de santé quotidiens « J’irai dans la pièce où on range aujourd’hui les candélabres, à côté de cette Reine de la paix à qui j’ai toujours demandé de l’aide » , explique François, qui n’a jamais caché sa dévotion mariale ni son attachement à cette basilique du centre de Rome.\nDès le lendemain de son élection, en 2013, il était allé à la surprise générale se recueillir auprès de l’icône Salus Populi Romani (Salut du peuple romain), conservée dans une chapelle latérale de Sainte-Marie-Majeure . Il s’y est depuis rendu « plus d’une centaine de fois » , avant et après chacun de ses voyages ou pour confier les grands événements de l’Église à la Vierge Marie.\nLa démission, une option « normale » puis écartée Sur la question d’une éventuelle démission, la position de François a évolué depuis le début de son pontificat. Après l’avoir envisagée comme une « option normale » , il avait récemment écarté cette possibilité . « Je crois que le ministère du pape doit être (exercé) à vie, affirmait-il en 2023. Je ne vois aucune raison pour qu’il n’en soit pas ainsi. »\nIl révélait toutefois avoir rédigé une lettre de démission au cas où un « problème de santé » l’empêchait « d’exercer son ministère » et d’être « assez conscient pour démissionner » , tout en soulignant que cela ne devait pas devenir « une mode » .\nÀ lire aussi Qu’est-ce que la pneumonie bilatérale, la maladie dont souffre le pape François ? En 2014, un an après le début de son pontificat, François avait assuré, au retour de son voyage en Corée du Sud, qu’il n’hésiterait pas à renoncer à sa charge, comme Benoît XVI , s’il ne se sentait plus capable d’assumer ses fonctions. Surtout, il avait pour la première fois évoqué explicitement sa mort, au détour d’une question sur sa popularité. « Je la vis comme une générosité du peuple de Dieu. Intérieurement, je cherche à penser à mes péchés, à mes erreurs, pour ne pas m’enorgueillir. Parce que, je le sais, ça durera peu de temps. Deux ou trois ans. Et puis, à la maison du Père ! » , avait-il lancé sur un air de boutade. À l’époque, selon une source vaticane, le pape avait en effet confié à des proches qu’il pensait n’en avoir plus que pour quelques années à vivre.\n« Pas du tout » peur de la mort En 2018, invité dans le cadre d’une série télévisée italienne à commenter la prière du Je Vous salue Marie – notamment l’invocation finale : « Maintenant, et à l’heure de notre mort » –, le pape François confiait : « À ma mort, je demanderais à Marie de rester près de moi et de me donner la paix. »\nÀ lire aussi Santé du pape François : un élan de prière dans le monde entier Interrogé en 2021 dans le quotidien argentin La Nacion par le journaliste et docteur Nelson Castro, le pape François avait aussi confié penser à la mort. « – En avez-vous peur ? – Non, pas du tout » , avait répondu François à son compatriote, tout en révélant avoir dû apprendre tout au long de sa vie à gérer son anxiété. Il s’imaginait alors mourir « à Rome » et non en Argentine, en tant que pape « en fonction ou émérite » .\nUne vie marquée par la Providence Dans sa jeunesse, le pape François a été confronté de près à la souffrance et à la mort. En 1957, alors âgé de 21 ans et en deuxième année de séminaire, il a failli être emporté par une grave maladie respiratoire. « Oscillant sans cesse entre la vie et la mort » , écrit-il dans Espère , il avait dû subir l’ablation d’un lobe du poumon droit. Au moment de son élection, certains s’étaient d’ailleurs inquiétés de sa capacité à gouverner l’Église avec un lobe de poumon en moins.\nÀ lire aussi Vatican : l’hôpital Gemelli, une institution au chevet des papes depuis Jean-Paul II « Vous n’imaginez pas combien de fois j’ai pu remercier la divine Providence » , explique François dans sa dernière autobiographie. Une vive conscience de la protection divine ancrée dans ses origines et qui l’accompagne depuis toujours. En effet, il revient aussi sur un épisode tragique, le naufrage en 1927 du Principessa Mafalda , parfois appelé le « Titanic italien ». Parti de Gênes à destination de Buenos Aires, le paquebot avait sombré au large du Brésil. « Mes grands-parents et leur fils unique, Mario, le jeune homme qui allait devenir mon père, avaient acheté des billets pour cette longue traversée , se souvient François. (…) Mais ils n’étaient pas à bord. Malgré tous leurs efforts, ils n’avaient pas réussi à vendre tout ce qu’ils possédaient. (…) C’est pour cela que je suis ici aujourd’hui. »",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "topics": [
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity",
+      "Religion and Belief->pope",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-20T07:39:42.424+02:00",
+    "updated": "2025-02-28T11:37:42.564+02:00"
+  }
+]

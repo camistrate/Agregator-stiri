@@ -1,0 +1,320 @@
+[
+  {
+    "uuid": "9b43eccb2fa365f1e07981d2f7d2aa7b2248eb28",
+    "url": "https://news.bgov.com/litigation/salvation-army-work-therapy-participant-lacks-employee-status",
+    "ord_in_thread": 0,
+    "author": "Jennifer Bennett",
+    "published": "2025-03-27T20:46:00Z",
+    "title": "Salvation Army 'Work Therapy' Participant Lacks Employee Status",
+    "text": "The Salvation Army defeated a rehabilitation program participant’s overtime lawsuit after a federal judge ruled the worker isn’t an employee under federal wage law.\nArthur Monique Harris sought minimum and overtime wages for his time in the mandatory “work therapy” portion of the religious nonprofit’s program. But no reasonable jury could determine he fits the Fair Labor Standards Act’s “employee” definition, dooming his claims under the statute, the US District Court for the Southern District of Florida said Wednesday.\nThe Salvation Army faces multiple lawsuits alleging it owes pay to people who live and work in its adult rehabilitation centers. ...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Labor->labour relations",
+      "Labor->wages and benefits",
+      "Labor->employment",
+      "Social Issue->social condition",
+      "Social Issue->discrimination",
+      "Social Issue->social services",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->human resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bloomberglaw.com/public/document/Harris_v_Salvation_Army_No_2361420CIVCANNONHunt_2025_BL_101643_SD?doc_id=X1ACNNCQG000N",
+      "https://news.bloomberglaw.com/daily-labor-report/salvation-army-accused-of-underpaying-rehab-program-participants",
+      "https://bloomberglaw.com/public/document/Harris_v_Salvation_Army_No_2361420CIVCANNONHunt_2025_BL_101643_SD?doc_id=X1ACNNCQG000N",
+      "https://www.news.bloomberglaw.com/daily-labor-report/salvation-army-accused-of-underpaying-rehab-program-participants",
+      "https://www.bloomberglaw.com/public/document/Harris_v_Salvation_Army_No_2361420CIVCANNONHunt_2025_BL_101643_SD"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Arthur Monique Harris",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "the Southern District",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Florida",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "The Salvation Army",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Fair Labor Standards Act",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the US District Court",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T23:16:00.311+02:00",
+    "updated": "2025-03-27T23:16:00.311+02:00"
+  },
+  {
+    "uuid": "89bf671459fc57c0a81e2aa7f286de0d88e1e802",
+    "url": "https://news.knowledia.com/FR/fr/articles/attaques-personnelles-accusations-de-malware-et-abandon-un-projet-daa12dd8526f3c99b6bcac6b2e1a862d9661f976",
+    "ord_in_thread": 0,
+    "author": "Stéphane le calme",
+    "published": "2025-08-14T08:48:00Z",
+    "title": "Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement. Kapitano était une interface graphique pour ClamAV",
+    "text": "il y a 35 minutes\nlinux.developpez.com\nlecture 6 min standard Science & Technologie Technologies Kapitano visait à rendre ClamAV, un antivirus open source reconnu, beaucoup plus accessible aux utilisateurs Linux via une interface graphique GTK4/libadwaita. En évitant l'usage du terminal, il promettait une adoption facilitée pour les novices — une initiative simple mais puissante. Mais son développeur, connu sous le pseudonyme de « zynequ », a annoncé l'abandon de son projet d'antivirus Kapitano suite à une vague de harcèlement en ligne. Cet événement met en lumière les défis auxquels sont c... Attaques personnelles, accusations de malware et abandon : un projet Linux prometteur prend fin après que son développeur ait été victime de harcèlement\nKapitano était une interface graphique pour ClamAV\nDérive subite : du bug à l'attaque personnelle\nEnvoyé par Zynequ Envoyé par\nSur les méthodes scan_for_malware et update_malware_definitions , vous pouvez voir qu'elles appellent simplement clamscan et freshclam . Pour référence, voici le code qui concerne vos préoccupations : https://codeberg.org/zynequ/Kapitano...tils/clamav.py Sur les méthodeset, vous pouvez voir qu'elles appellent simplementet\nEnvoyé par zynequ Envoyé par\nCe projet a toujours été un projet amateur, créé pendant mon temps libre sans aucun soutien financier. Des incidents comme celui-ci rendent difficile de rester motivé. Cela dit, je suis sincèrement reconnaissant à tous ceux qui ont essayé l'application et j'apprécie l'attention qu'elle a reçue.\nÀ partir de maintenant :\nLe projet est publié dans le domaine public sous licence The Unlicense. Vous êtes libre de l'utiliser, de le modifier, de le vendre ou de le redistribuer comme vous le souhaitez, sans attribution. Il sera retiré de Flathub et marqué comme étant en fin de vie. Le dépôt restera en ligne pendant quelques mois au cas où quelqu'un souhaiterait le forker ou le poursuivre. Après cela, je fermerai mon compte Codeberg.\nJe présente mes sincères excuses à tous ceux qui sont déçus par cette décision. Je suis désolé de vous annoncer que ce projet n'est plus maintenu. Récemment, j'ai vécu une expérience désagréable concernant les problèmes n° 12 et n° 13, où j'ai été accusé de distribuer des logiciels malveillants. Bien que j'aie expliqué que le problème ne venait pas de l'application, la conversation a dégénéré en attaques personnelles et en propos virulents à mon égard.Ce projet a toujours été un projet amateur, créé pendant mon temps libre sans aucun soutien financier. Des incidents comme celui-ci rendent difficile de rester…\nStéphane le calme Lire tout l'article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV/",
+      "https://www.linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV/",
+      "https://linux.developpez.com/actu/374599/Attaques-personnelles-accusations-de-malware-et-abandon-un-projet-Linux-prometteur-prend-fin-apres-que-son-developpeur-ait-ete-victime-de-harcelement-Kapitano-etait-une-interface-graphique-pour-ClamAV"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T12:02:45.889+03:00",
+    "updated": "2025-08-14T12:22:10.814+03:00"
+  },
+  {
+    "uuid": "61eb67c4e3f42c1c02a1e0129ea817ae25ac405c",
+    "url": "https://www.examiner.com.au/story/8753927/tasmania-jackjumpers-leadership-team-unveiled-for-2024-25-season",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brian Allen",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "Tasmania JackJumpers' leadership team unveiled for 2024-25 season | The Examiner | Launceston, TAS",
+    "text": "The NBL championship-winning Tasmania JackJumpers have again placed their faith in Clint Steindl. The 35-year-old will continue as the team's captain for his fourth-consecutive season. Steindl is the young franchise's inaugural skipper and he is renowned for setting high standards and his dedication to team success. Meanwhile, superstar guard Milton Doyle has promoted to vice-captain alongside Fabijan Krslovic to make up the three-player leadership team. The trio will guide the JackJumpers through the NBL Blitz on the Gold Coast starting this Saturday, followed by the FIBA Intercontinental Cup kicking off on Tuesday, September 10. Coach Scott Roth lauded the exciting three-point shooter. \"It's been an amazing journey with you, my friend. We're excited to have you back leading this team and setting the example both on and off the court,\" he said. Krslovic, who has also been with the JackJumpers since their inaugural season, returns as vice-captain for the second year. Roth had praise for the versatile forward. \"Fab, it's truly amazing to see how far you've come since you joined us. Your growth on and off the court has been tremendous, and we're proud to have you continue in this leadership role,\" he said. It will be Doyle's third NBL season and he has arguably been the JackJumpers' best player across the past two. Roth highlighted the significance of Doyle's appointment. \"It's a rare honour for an import to step into a leadership role on an Australian team,\" he said. \"Milton has earned this through his performance, dedication, and the respect of his teammates. Having his family here today to celebrate makes this moment even more special.\" Chief executive officer Christine Finnegan said the club was proud to have the trio leading the team. \"This club is about action, not words, and these three truly embody that,\" she said. \"Clint, in particular, has always led by example, staying involved with the community and setting the bar high for everyone.\" The JackJumpers open their campaign on September 19 against Melbourne United at Perth's RAC Arena as part of HoopsFest. DAILY Today's top stories curated by our news team. Also includes evening update.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T01:06:09.299+03:00",
+    "updated": "2024-09-06T06:06:33.829+03:00"
+  },
+  {
+    "uuid": "63f50f5e8a87e7dfbcc5fcf425f1c2ee0264ce09",
+    "url": "https://www.thevibes.com/articles/news/109280/pm-govt-considers-tvet-commission-to-advance-vocational-education-reform",
+    "ord_in_thread": 0,
+    "author": "The Vibes",
+    "published": "2025-06-12T07:08:00Z",
+    "title": "PM: Govt considers TVET commission to advance vocational education reform",
+    "text": "THE government is considering the establishment of a Technical and Vocational Education and Training (TVET) Commission, in line with the country’s ongoing TVET reform agenda, Prime Minister Datuk Seri Anwar Ibrahim announced today.\nSpeaking at the National TVET Day 2025 celebration at the Melaka International Trade Centre (MITC) in Ayer Keroh, Anwar said the proposal stems from the encouraging progress of the TVET sector under the National TVET Council, chaired by Deputy Prime Minister Datuk Seri Dr Ahmad Zahid Hamidi.\n“I appreciate the role of the TVET Council, but as those closely monitoring the sector’s development, we must consider proposals such as establishing a dedicated commission for TVET, and we will assess this as swiftly as possible in response to the sector’s evolving needs,” he said.\n“With the number of students and types of training increasing, I, together with the Ministry of Finance (MOF), will look into whether current facilities are adequate and how to create synergy between government-linked companies, private sector players, and existing TVET institutions.”\nAnwar emphasised the importance of TVET as a national development agenda to produce a skilled and high-quality workforce that meets future industry demands. He also called for a revision of the starting salary for TVET graduates to reflect their specialised skills.\n“Previously, we set the minimum wage at RM1,700, but if certain TVET fields report employability rates as high as 98 per cent, that salary level is inadequate. Therefore, we want to raise the starting salary to RM3,000, if possible,” he stated.\n“This step is important to ensure the expertise of TVET graduates is recognised and valued by multinational and local companies.”\nAt the same event, Anwar announced an additional allocation of RM40 million to the National TVET Council and RM10 million to the Melaka state government to strengthen TVET entrepreneurship development.\n“Young people must seize this opportunity to contribute to national development. When we look at neighbouring or developing countries, few are able to implement such rapid transformation in elevating the status of TVET like Malaysia has done,” he said.\n“If our children tell their parents, this is Malaysia – the only country that provides support and funding not only for TVET students but also for young huffaz – they are not wrong.”\nNational TVET Day 2025, themed ‘TVET: The Preferred Career Choice’, showcases nine sectoral exhibition concepts including Transport and Automotive; Aerospace; Electronics and Digital; Advanced Manufacturing; Energy; Rail and Maritime; Plantation, Agriculture and Livestock; Construction; and Services.\nThe three-day event, which concludes tomorrow, offers around 5,000 job opportunities across various sectors, with participation from more than 60 companies and employers both within and outside Melaka.\nTwelve ministries are involved in organising the celebration, including the Ministry of Higher Education, Ministry of Education, Ministry of Rural and Regional Development, Ministry of Youth and Sports, Ministry of Human Resources, and Ministry of Investment, Trade and Industry (MITI).\nNational TVET Day, observed annually on 2 June, reflects the government’s commitment to making TVET a central platform for cultivating a dynamic, skilled and competitive future workforce.\nIn conjunction with the celebration, the ASEAN TVET Council’s 4th Regional Policy Dialogue (ATC 4th RPD) is also being held over two days starting yesterday. - June 12, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->vocational education",
+      "Education->educational grading",
+      "Education->students",
+      "Social Issue->adults",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Datuk Seri Anwar Ibrahim",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "International Trade Centre",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "National TVET Council",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Ministry of Finance",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:39:50.144+03:00",
+    "updated": "2025-06-12T07:43:55.000+00:00"
+  },
+  {
+    "uuid": "97849cb7c73d9c67e2f5467a18d60ca101982700",
+    "url": "https://vnexplorer.net/z/1856795.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-08-15T13:37:00Z",
+    "title": "Criminology student who threw beer over a police officer and kicked at riot shields during widespread disorder in Liverpool is jailed",
+    "text": "A criminology student who threw beer over a police officer and kicked at riot shields at a riot in Liverpool following the deaths of three girls in Southport has been jailed. Liverpool Crown Court hear on Thursday that Gerard Cooch, 39, was one of &#039;hundreds&#039; who flocked to the centre of the city on August 3 to violently riot in the wake of the Southport stabbings, which were wrongly attributed to an immigrant by far-right groups. Cooch, who lives in nearby Bootle, was seen on CCTV and mobile phone footage, which was subsequently posted to YouTube and TikTok, making &#039;accusatory and hostile&#039; remarks and &#039;swearing and gesticulating&#039; in the area, where a line of police had formed a cordon near to Queen Square Bus Station. &#039;Intoxicated and angry&#039;, according to Nardeen Nemat, prosecuting, he then chucked a pint of beer over a cop and kicked riot shields twice, before being arrested an hour later. He told detectives that he had been attending a &#039;peaceful protest&#039;, but that the &#039;atmosphere became more hostile.&#039; Liverpool was one of many cities that saw far-right riots flare up in the wake of the Southport stabbings. Liverpool Crown Court hear on Thursday that Gerard Cooch, 39, (pictured) was one of &#039;hundreds&#039; who flocked to the centre of the city on August 3 to violently riot in the wake of the Southport stabbings Police officers and demonstrators clash during a protest against illegal immigration, in Liverpool, Britain, August 3, 2024 Police officers attend to a colleague after a face-off with protesters in Liverpool on August 3, 2024 during the &#039;Enough is Enough&#039; demonstration held in reaction to the fatal stabbings in Southport on July 29 Far-right agitators encouraged people to go to protests six-year-old Bebe King, seven-year-old Elsie Dot Stancombe and nine-year-old Alice Dasilva Aguiar tragically die at a Taylor Swift-themed dance class on July 29. Suspect Axel Rudakubana, now 18, from Banks, Lancashire, was charged with three counts of murder following their deaths. Cooch, who admitted to drinking three cans of cider on the day, told the court that he &#039;regretted not removing himself from the area&#039; and was &#039;sorry for his involvement&#039; in the riots. The criminology student&#039;s previous convictions include threatening behaviour, drunk and disorderly behaviour, production of cannabis, possession of cocaine and MDMA and breaching a suspended sentence order. Stephen McNally, appearing on behalf of Cooch, said his client&#039;s display of violence at the riot could be partially explained by his ADHD. &#039;It is of great regret that the psychology of the crowd appears to have overborne his ordinary character on that day. His ADHD means he is very easily caught up in what goes on around him&#039;, McNally said. A protestor holds a placard during the Stand up to Racism rally at St George&#039;s Hall in Liverpool, Britain, August 3, 2024 Police officers try to restrain a protester in Liverpool on August 3, 2024 during the &#039;Enough is Enough&#039; demonstration held in reaction to the fatal stabbings in Southport on July 29 Riot police charge through the scooters laid by protestors in Liverpool, Britain, August 3, 2024 &#039;His own participation and involvement is limited, but it cannot be taken outside of the context. He is not somebody who has ever displayed any affiliation or sympathy to what might be described as far right tendencies. &#039;The court knows that there is an undercurrent. The background events in Southport appear to have been the catalyst behind subsequent events. They are particularly emotive. It may well be that, in that context, the court can accept his assertion that his original intention was to attend what he believed would be a peaceful protest. &#039;He did not take the opportunity to extricate himself from that locality. Instead, to his regret and the regret of his family, he let himself down and he let them down and one might say that he let down the other citizens of this city in how he conducted himself. &#039;At the very outset, he expressed remorse. References speak of a man who, despite his difficulties, has sought to better himself. This is a gentleman who is partway through a degree course in criminology and psychology. The irony of that will not be lost on the court, I am sure. &#039;Mr Cooch needed to take a break from his studies due to issues he was having, in the context of a series of untimely bereavements in the family. He lost his father, grandfather and another family member in a short space of time. He has had to work very hard to get back up to speed.&#039; Cooh admitted to a violent disorder charge, and was given 20 months in prison. Sentencing, Judge Brian Cummings KC said to Cooch: &#039;The incident occurred, plainly, in a busy public area. There is nothing on your record approaching the seriousness of what I am now dealing with. &#039;I accept that you have demonstrated a level of remorse. I accept that there have been some mental health factors in this case. There is plainly a better side to you.&#039;",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "gerard cooch",
+          "sentiment": "none"
+        },
+        {
+          "name": "bootle",
+          "sentiment": "none"
+        },
+        {
+          "name": "nardeen nemat",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "liverpool crown court",
+          "sentiment": "none"
+        },
+        {
+          "name": "cctv",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "liverpool",
+          "sentiment": "none"
+        },
+        {
+          "name": "southport",
+          "sentiment": "none"
+        },
+        {
+          "name": "queen square bus station",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:44:10.932+03:00",
+    "updated": "2024-08-16T00:44:10.932+03:00"
+  }
+]

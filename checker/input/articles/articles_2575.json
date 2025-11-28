@@ -1,0 +1,412 @@
+[
+  {
+    "uuid": "a1791da106e1da053e7fda10f99926b1e7c9083c",
+    "url": "https://informationsecuritybuzz.com/six-new-windows-vulnerabilities-found-including-first-rust-based-kernel-flaw/",
+    "ord_in_thread": 0,
+    "author": "Kirsten Doyle",
+    "published": "2025-08-14T05:45:00Z",
+    "title": "Six New Windows Vulnerabilities Found, Including First Rust-Based Kernel Flaw",
+    "text": "Six new vulnerabilities have been found in Microsoft Windows. One is critical. All are serious.\nCheck Point Research discovered the flaws and disclosed them privately to Microsoft. Patches were released on 12 August as part of Patch Tuesday.\nThe risks are varied: system crashes, arbitrary code execution, and information leaks. For attackers, the attack surface is wide. For defenders, the response must be immediate.\nOne flaw is notable beyond its severity. It may be the first publicly disclosed vulnerability in a Rust-based component of the Windows kernel. Rust was introduced to improve memory safety, a longstanding challenge in operating systems.\nBut here, the flaw was not a traditional memory bug. Rust detected an underlying condition, and instead of handling it quietly, the system responded with a complete crash.\nA kernel-level crash leaves no room for recovery. The machine stops. Unsaved work is lost. For a single device, this is inconvenient. For an enterprise with thousands of endpoints, it can mean hours of interruption, loss of productivity, and a scramble to restore operations. The promise of safer code does not remove the need for relentless testing and rapid remediation.\nTwo other vulnerabilities deserve close attention. Both are memory corruption flaws that allow arbitrary code execution. One carries a critical severity rating. Exploitation is straightforward: an attacker delivers a specially crafted file, the user opens it, and the malicious payload executes. From there, the attacker gains the ability to run any code, deploy remote access tools, exfiltrate data, or install persistence mechanisms that survive reboots.\nThe remaining vulnerabilities focus on information disclosure. While these often require local access, one case is different. CVE-2025-47984 allows a memory leak over the network. Sensitive information could be exposed without an attacker ever touching the physical device. This type of flaw can serve as a stepping stone, revealing tokens, credentials, or other artifacts that enable deeper intrusions.\nThe implications are broader than the six CVEs. Even in mature, widely deployed platforms, weaknesses continue to emerge. New programming languages reduce certain classes of errors but cannot eliminate them entirely. Complexity remains the enemy.\nThe defensive measures are familiar yet vital. Apply the August updates without delay. Monitor networks for suspicious activity. Reduce the window of exposure before these vulnerabilities are weaponized.\nCheck Point customers already have protections in place. Our solutions detect and block attempts to exploit these flaws, maintaining coverage even before official patches are deployed.\nSecurity is not a fixed state. It is a cycle, discover, patch, adapt. Each vulnerability closed today is another challenge deferred to tomorrow. That cycle will not end. But it can be managed. And for defenders, that management is the difference between resilience and compromise.\nInformation Security Buzz News Editor\nKirsten Doyle has been in the technology journalism and editing space for nearly 24 years, during which time she has developed a great love for all aspects of technology, as well as words themselves. Her experience spans B2B tech, with a lot of focus on cybersecurity, cloud, enterprise, digital transformation, and data centre. Her specialties are in news, thought leadership, features, white papers, and PR writing, and she is an experienced editor for both print and online publications.\nThe opinions expressed in this post belong to the individual contributors and do not necessarily reflect the views of Information Security Buzz.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking",
+      "Social Issue->social problem",
+      "Health->health care approach",
+      "Health->medical condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research/",
+      "https://www.blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research/",
+      "https://blog.checkpoint.com/research/microsoft-vulnerabilities-exposed-by-check-point-research"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "MSFT",
+              "exchange": "NASDAQ"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T09:02:54.474+03:00",
+    "updated": "2025-08-14T09:14:35.000+03:00"
+  },
+  {
+    "uuid": "6d210e0ad9cf4f1598e64cab39e9f7bf49739d43",
+    "url": "https://theeagleonline.com.ng/governor-orders-reconstruction-of-flooded-kebbi-niger-road",
+    "ord_in_thread": 0,
+    "author": "Adenle Ahmed Abiola",
+    "published": "2025-07-10T13:16:00Z",
+    "title": "Governor orders reconstruction of flooded Kebbi-Niger road",
+    "text": "Governor Nasir Idris of Kebbi State has ordered the immediate reconstruction of the Makera-Kangiwa road linking the state to neighbouring Niger State after it was washed away by recent flooding.\nThe governor issued the directive on Wednesday during an inspection of the damaged section of the road in Makera, describing it as a strategic economic route vital for local and cross-border connectivity.\nA statement by the governor’s Chief Press Secretary, Ahmed Idris, on Thursday noted that the governor emphasised the road’s importance to surrounding communities and regional trade with neighbouring countries.\n“Governor Idris emphasised its importance not only to local mobility but also to cross-border trade with neighbouring countries.\n“He tasked the Ministry of Works to identify and engage a competent contractor to execute the reconstruction without delay.\n“This administration will not rest until critical infrastructure across the state is restored and expanded.\n“Our people deserve the dividends of democracy, and we are committed to delivering just that,” the governor was quoted as saying.\nAlso Read: Also speaking during the visit, the Commissioner for Works, Alhaji Abdullahi Umar-Muslim, assured residents that the ministry had begun evaluating qualified contractors for the project.\n“We understand the hardship this has caused, and we are moving swiftly to resolve it. His Excellency’s directive is clear—no delays, no excuses,” Umar-Muslim added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Disaster and Accident->natural disaster",
+      "Disaster and Accident->emergency response"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nasir Idris",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ahmed Idris",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Makera",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Niger State",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T17:44:33.047+03:00",
+    "updated": "2025-07-10T14:47:15.000+00:00"
+  },
+  {
+    "uuid": "51e8f025671e5006066916624a0f093cb88505c0",
+    "url": "https://www.informazione.it/a/CD2B34C4-700A-4EB2-A508-E19656423660/snam-presenta-il-primo-Transition-Plan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infoiteconomia",
+    "published": "2024-10-17T19:18:00Z",
+    "title": "snam presenta il primo Transition Plan",
+    "text": "Snam presenta il primo Transition Plan Articolo Precedente Articolo Successivo Snam, azienda italiana leader nel trasporto e immagazzinamento di gas naturale, ha presentato il suo primo Transition Plan, un piano da 26 miliardi di euro volto a ridurre le emissioni e raggiungere l'obiettivo delle emissioni zero entro il 2050. Stefano Venier, amministratore delegato di Snam, ha illustrato i dettagli del piano durante una conferenza stampa, sottolineando l'importanza della riduzione delle emissioni di scope 1 e 2 del 40% entro il 2030 e la neutralità carbonica entro il 2040. Inoltre, il piano prevede una diminuzione del 30% delle emissioni della catena di fornitura e delle imprese associate entro il 2030. Venier ha rassicurato sulla disponibilità di gas per l'inverno, affermando che l'Italia ha raggiunto il 97% degli stoccaggi, pari a un terzo dei consumi di gas. Nonostante il clima di incertezza, Venier ha garantito che il paese passerà l'inverno senza problemi. Ha inoltre evidenziato il funzionamento a pieno regime dell'impianto di rigassificazione di Piombino e il contributo delle navi provenienti da Stati Uniti, Qatar e Algeria. Marco Alverà, presidente di Snam, ha sottolineato la credibilità e la trasparenza del Transition Plan, evidenziando l'importanza della quantificazione e condivisione dei dati relativi alla riduzione delle emissioni e agli investimenti. Il piano include anche la riduzione delle emissioni di scope 3, non direttamente controllate dall'azienda, attraverso una serie di leve e strategie innovative. Il Transition Plan di Snam rappresenta un passo significativo verso la sostenibilità e la resilienza del settore energetico italiano, con obiettivi chiari e azioni concrete per affrontare le sfide ambientali e garantire la sicurezza energetica del paese.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Corporate News and Profiles",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:51:04.279+03:00",
+    "updated": "2024-10-18T03:05:42.539+03:00"
+  },
+  {
+    "uuid": "6aa9f76d151c6ebb0f0111419db25ec42839e712",
+    "url": "https://www.archyde.com/stater-bros-workers-reach-tentative-agreement-with-union/",
+    "ord_in_thread": 0,
+    "author": "James Carter Senior News Editor",
+    "published": "2025-08-07T08:34:00Z",
+    "title": "Stater Bros. Workers Reach Tentative Agreement with Union",
+    "text": "“`html\nThe United Food and Commercial Workers union, representing approximately 12,000 Stater Bros. employees throughout Southern california, announced Wednesday a tentative contract agreement with the grocery retailer. This development effectively averts a potential strike that workers had previously authorized.\nnegotiations, spanning four sessions in just nine days, culminated in a proposed agreement that addresses key concerns raised by the union. Details remain confidential for now, pending review by union members.\nUnion officials confirmed the agreement encompasses increased wages, bolstered pension contributions, and enhancements to health, welfare benefits, and staffing levels. A planned boycott of the Stater Bros. location in Huntington Beach, scheduled for Thursday, has been canceled in light of this progress.\n“This victory underscores the power of collective action,” declared the United Food and Commercial Workers Stater Bros. Bargaining Committee in a statement. “Together, we demonstrated our solidarity and secured a contract reflecting our value.”\nThe specifics of the tentative agreement will be presented exclusively to union members during upcoming meetings. Further details will be released to the public following the ratification vote.Stater Bros. Markets also issued a statement acknowledging the agreement.\n“Negotiations were conducted in good faith, with both sides working hard to reach a fair deal that supports our teammates and holds the line on prices for our customers,” Stater Bros. Markets stated. “We appreciate the collaborative effort and are encouraged that the union is recommending the agreement for ratification.”\nGrocery store labor negotiations have been notably active in recent years, reflecting broader economic pressures and the essential role these workers play in the supply chain. Similar negotiations have unfolded at other major grocery chains across the country, often resulting in similar demands for improved wages and benefits.\nThe outcome of this agreement could set a precedent for future negotiations within the industry,possibly influencing standards for grocery workers throughout Southern California and beyond.\nFrequently Asked Questions What is the status of the Stater Bros. contract negotiations? A tentative contract agreement has been reached between Stater Bros. and the United Food and commercial Workers union, averting a potential strike. How many Stater Bros. employees are affected by this agreement? Approximately 12,000 Stater Bros. employees in Southern California are represented by the union and will be impacted by the contract. What are the key provisions of the tentative agreement? The agreement includes higher wages, increased pension contributions, and improvements to health, welfare, and staffing. Specific details are being shared with union members. Was a strike threatened before the agreement? Yes, union workers had previously authorized a strike if a contract agreement could not be reached. What happened to the planned boycott? The boycott of the Stater Bros. Huntington Beach location, scheduled for Thursday, was called off following the tentative agreement. When will the agreement be finalized? The agreement must be ratified by union members through a voting process. Details will be released publicly after the vote. Where can I find more information about the negotiations? Further information will be shared by the United Food and Commercial Workers union and Stater Bros. Markets following the ratification vote.\nWhat are the specific wage increase ranges included in the tentative agreement for Stater Bros. workers?\nStater Bros. Workers Reach Tentative Agreement with Union Key Terms of the Tentative Agreement On August 7, 2025, Stater Bros. Markets and the United Food and Commercial Workers (UFCW) Local 135 announced a tentative agreement, averting a potential strike that loomed over Southern California grocery shoppers. This agreement impacts over 17,000 Stater Bros. employees across 170 stores. Here’s a breakdown of the key provisions:\nWage increases: The agreement includes significant wage increases for all Stater Bros. workers. Specific details are still emerging, but reports indicate a tiered system with increases ranging from $0.75 to $1.50 per hour over the contract’s duration. This addresses concerns about the rising cost of living and competitive wages offered by other grocery chains like Ralphs and Vons.\nHealthcare Benefits : Maintaining affordable healthcare was a central issue in negotiations. The tentative agreement preserves existing healthcare benefits with minimal changes to employee contributions. This is a major win for union members, given the increasing cost of healthcare nationwide.\nPension Security: A critical component of the agreement focuses on bolstering the security of Stater Bros. employee pension plans. The UFCW successfully negotiated provisions to protect and strengthen these plans, ensuring a secure retirement for long-term employees.\nPaid Time Off: The agreement includes enhancements to paid time off (PTO) policies, providing workers with more adaptability and time to address personal needs. Details include increased accrual rates and expanded eligibility criteria.\nImpact on Stater Bros. Employees The tentative agreement represents a positive outcome for Stater Bros. employees, who have been working under an expired contract since June 19th. The potential for a strike created significant anxiety among workers and customers alike.\nFinancial Stability: The wage increases will provide a much-needed boost to the financial stability of Stater Bros. employees, notably in light of inflation and rising housing costs in Southern California.\nImproved Work-Life Balance: Enhanced PTO policies will allow employees to better manage their work-life balance, reducing stress and improving overall well-being.\nPeace of Mind: The preservation of healthcare and pension benefits provides employees with peace of mind, knowing that their essential benefits are secure.\nUFCW Local 135 Role: The UFCW Local 135 played a crucial role in advocating for the rights and needs of Stater Bros. workers throughout the negotiation process. Their commitment to securing a fair contract was instrumental in reaching this tentative agreement.\nWhat Happens Next? Ratification Process The tentative agreement is not yet finalized. It must be ratified by a vote of the UFCW Local 135 membership.\nFacts Meetings: The UFCW will hold informational meetings in the coming days to present the details of the agreement to its members. Membership vote: A ratification vote will be scheduled, allowing union members to cast their ballots on whether to accept or reject the agreement. Official Announcement: Once the vote is tallied, the UFCW will announce the results. If ratified, the agreement will go into affect immediately. If rejected, negotiations could resume, potentially leading to a strike. Stater Bros. and the Competitive Grocery Landscape This agreement comes at a time of intense competition within the Southern California grocery market. Ralphs and Vons, both owned by Kroger , recently reached agreements with their unionized workforce after a period of tense negotiations and threatened strikes.\nIndustry Trends: The grocery industry is facing challenges related to labor costs, supply chain disruptions, and changing consumer preferences.\nLabor Negotiations: Recent labor negotiations across the industry highlight the growing power of unions and the increasing demands for fair wages and benefits.\nStater Bros.’ Position: Stater Bros., as a privately held company, operates differently than its publicly traded competitors. This often influences its approach to labor negotiations. Maintaining a positive relationship with its workforce is seen as crucial to its success.\nHistorical Context: Previous stater Bros. Union Agreements Past negotiations between Stater Bros. and the UFCW have often been contentious, but ultimately resulted in agreements that addressed the needs of both parties.\n2019 Agreement: The 2019 agreement focused on wage increases and healthcare benefits, mirroring many of the concerns addressed in the current negotiations.\nLong-Term Relationship: Stater Bros. and the UFCW have a long-standing relationship,built on a history of collective bargaining and compromise.This history likely contributed to the successful negotiation of the tentative agreement.\nResources for More Information UFCW Local 135: [https://www.ufcw135.org/](https://www.ufcw1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Labor->unions",
+      "Labor->employee",
+      "Labor->collective agreements",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business governance",
+      "Social Issue->social condition",
+      "Social Issue->social services",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ufcw1",
+      "https://www.youtube.com/embed/PF3EMadizEg",
+      "https://www.zhihu.com/tardis/bd/art/365413577",
+      "https://www.ufcw135.org/",
+      "https://www.zhihu.com/question/35066454",
+      "https://www.ralphs.com/f/start-shopping",
+      "https://ralphs.com/f/start-shopping",
+      "https://zhihu.com/question/35066454",
+      "https://ufcw1",
+      "https://ufcw135.org/",
+      "https://www.ufcw135.org",
+      "https://youtube.com/embed/PF3EMadizEg",
+      "https://zhihu.com/tardis/bd/art/365413577"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "United Food and Commercial Workers Stater Bros",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Bargaining Committee",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-07T14:04:27.415+03:00",
+    "updated": "2025-08-07T14:08:05.000+03:00"
+  },
+  {
+    "uuid": "6c246dbddd0effc1dc5ac5ef8d297206c5d2cc91",
+    "url": "https://vnexplorer.net/z/1953918.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-08-22T19:07:00Z",
+    "title": "Duro ataque de Ucrania a Rusia: drones golpean unos almacenes de bombas aéreas y combustible en una base rusa, ¿qué se sabe?",
+    "text": "Ucrania busca poner fin al conflicto con Rusia en términos aceptables. Europa Duro ataque de Ucrania a Rusia: drones golpean unos almacenes de bombas aéreas y combustible en una base rusa, ¿qué se sabe? Rusia informó este jueves del derribo durante la pasada noche de un total de 28 drones ucranianos sobre seis regiones distintas de su territorio. efe Drones ucranianos golpearon objetivos militares dentro de la Federación de Rusia y alcanzaron la pasada madrugada almacenes de bombas aéreas y de combustible situados en la base aérea de Marinivka, en la región de Volgogrado de la Federación Rusa, según una fuente anónima del servicio secreto ucraniano citada este jueves por el diario &#039;Ukrainska Pravda&#039;. (Le recomendamos: El caso del ejecutivo venezolano que se declaró culpable de violar sanciones de Estados Unidos: participó en plan para darle equipos de aviación al régimen de Nicolás Maduro) &quot;El Servicio de Seguridad de Ucrania (SBU) se ocupa con precisión quirúrgica de los aeródromos desde los que el enemigo ataca Ucrania. Cada logro en este sentido reduce la superioridad aérea rusa y limita de manera significativa las capacidades de su aviación&quot;, declaró la fuente anónima a la publicación ucraniana. Según el agente del SBU, el aeródromo de Marinivka es utilizado por aviones rusos que atacan posiciones ucranianas en la línea del frente. Rusia informó este jueves del derribo durante la pasada noche de un total de 28 drones ucranianos sobre seis regiones distintas de su territorio. Trece de esos drones fueron derribados sobre la región de Volgogrado, según Moscú. (Puede leer: Cuatro cuerpos fueron rescatados y uno más sigue atrapado en el yate de lujo que naufragó en Italia: esto se sabe) Foto de archivo de un piloto ucraniano manejando un dron. AFP Ucrania ataca todas las semanas en varias ocasiones objetivos militares y estratégicos situados dentro de Rusia. Los aeródromos militares son uno de los objetivos prioritarios para Kiev, que busca con estos ataques neutralizar en origen a parte de los aviones encargados de disparar las bombas aéreas guiadas con las que Rusia allana el camino de sus fuerzas terrestres destruyendo posiciones y otras estructuras defensivas de las tropas ucranianas en el frente. Tras este ataque, el aeropuerto de Volgogrado interrumpió sus servicios &quot;debido a las limitaciones del uso del espacio aéreo impuesto en la región&quot;, según la agencia rusa Interfax. El gobernador de la región, Andréi Bochárov, informó en Telegram que las defensas antiaéreas repelieron en la madrugada un ataque de drones ucranianos en el distrito de Marínovka, a consecuencia de la caída de los fragmentos de un dron se desató un incendio en una instalación del Ministerio de Defensa, sin que se reporten víctimas. (Además: Un &#039;golpe de Estado con ayuda del Tren de Aragua&#039;: la versión que le presentó el gobierno de Venezuela al cuerpo diplomático sobre las elecciones presidenciales) Ucrania ataca a Rusia con drones prácticamente a diario, este miércoles lanzó uno de los mayores ataques contra Moscú, con once drones, desde el inicio de la guerra, según informó el alcalde de la capital rusa, Serguéi Sobianin. En total, la víspera las defensas antiaéreas rusas neutralizaron 45 drones, indicó Defensa. Ataques rusos matan a seis civiles en las últimas 24 horas Los ataques rusos contra territorio ucraniano han causado la muerte de seis civiles ucranianos en las últimas 24 horas, según datos de las autoridades regionales ucranianas recogidos por el diario &#039;Kyiv Independent&#039;. Cuatro de las seis muertes se produjeron en la región oriental de Donetsk, donde tienen lugar las hostilidades más cruentas de todo el frente, según informó el jefe de la administración militar ucraniana de la zona, Vadim Filáshkin. Los otros dos civiles muertos perdieron la vida en la región sureña de Jersón. Las dos víctimas son una mujer de 87 años y un hombre de 58, según el jefe de la administración militar regional, Oleksandr Prokudin. Calles de la ciudad de Bakhmut, en Donetsk. EFE Jersón también ha sufrido cortes de electricidad debido a los bombardeos de las fuerzas rusas. Además de estos seis muertos, los ataques rusos con drones, misiles, artillería y otros tipos de armamento provocaron durante la pasada jornada una treintena de heridos. Según el último recuento de muertos presentado por la ONU, que vio la luz en julio, al menos 11.284 civiles ucranianos han muerto desde el comienzo de la invasión militar rusa a gran escala de Ucrania. efe dfcsd",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T06:09:44.225+03:00",
+    "updated": "2024-08-23T06:09:44.225+03:00"
+  },
+  {
+    "uuid": "ed89dbbc4810271c9b07e6afb6c4e37fe2b97198",
+    "url": "https://www.newscentermaine.com/article/news/politics/elections/susan-collins-donald-trump-endorsement-presidential-election/97-f1339e3d-d49c-4c78-b9cc-c307e8a98420",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NEWS CENTER Maine Staff",
+    "published": "2024-01-25T20:13:00Z",
+    "title": "Sen. Collins says she will not support Trump if he wins GOP nomination",
+    "text": "WASHINGTON, D.C., USA — Sen. Susan Collins [said Thursday](https://www.youtube.com/watch?v=qF5ICmhqOgM) she will not endorse former President Donald Trump in the 2024 U.S. presidential election, even if he wins the Republican nomination. Collins, a Republican, made the comments while speaking in front of a group of reporters in Washington. She said she didn't choose an alternative candidate to endorse earlier because she's friends with multiple people who were running against Trump. The senator has not formally endorsed former United Nations Ambassador Nikki Haley, the only other GOP candidate left in the race, but she did say she's glad Haley is still in it. Collins has been representing Maine in the U.S. Senate since 1997. In February 2021, she was one of seven Republican senators to vote to convict Trump of \"incitement of insurrection\" in connection with the Jan. 6 insurrection at the U.S. Capitol. In 2016, Collins [said she would not endorse Trump](https://www.washingtonpost.com/news/post-politics/wp/2016/08/08/sen-susan-collins-says-she-will-not-vote-for-trump-joining-growing-list-of-republicans/). In 2020, when she was up for reelection, Collins [would not say](/article/news/politics/im-concentrating-on-my-own-race-collins-dodges-question-about-supporting-trump/97-c3af1b30-7717-458a-9a0b-fdf278171b02) whether she endorsed Trump. [For the latest breaking news, weather, and traffic alerts, download the NEWS CENTER Maine mobile app](/app).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Politics"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=qF5ICmhqOgM",
+      "https://www.washingtonpost.com/news/post-politics/wp/2016/08/08/sen-susan-collins-says-she-will-not-vote-for-trump-joining-growing-list-of-republicans/",
+      "http://www.youtube.com/watch",
+      "https://www.washingtonpost.com/news/post-politics/wp/2016/08/08/sen-susan-collins-says-she-will-not-vote-for-trump-joining-growing-list-of-republicans",
+      "https://washingtonpost.com/news/post-politics/wp/2016/08/08/sen-susan-collins-says-she-will-not-vote-for-trump-joining-growing-list-of-republicans/",
+      "http://youtube.com/watch?v=qF5ICmhqOgM"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "susan collins",
+          "sentiment": "negative"
+        },
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "collins",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donal",
+          "sentiment": "negative"
+        },
+        {
+          "name": "haley",
+          "sentiment": "none"
+        },
+        {
+          "name": "nikki haley",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gop",
+          "sentiment": "negative"
+        },
+        {
+          "name": "senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "united nations",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "usa",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c.",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "maine",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. capitol",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:38:45.088+02:00",
+    "updated": "2024-01-26T04:10:16.228+02:00"
+  }
+]

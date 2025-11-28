@@ -1,0 +1,396 @@
+[
+  {
+    "uuid": "9d7f9abca634a3192ca3b655ed9900df94ba8c7f",
+    "url": "https://www.ettoday.net/news/20250403/2936782.htm",
+    "ord_in_thread": 0,
+    "author": "ETtoday新聞雲",
+    "published": "2025-04-02T22:25:00Z",
+    "title": "生成式邊緣AI多厲害　研華林口廠直擊",
+    "text": "▲工業電腦龍頭研華率先在自家產線導入3項生成式邊緣AI專案，為工廠自動化帶來新突破。圖為研華邊緣伺服器事業副總鮑志偉。（圖／鏡週刊提供，下同）\n圖、文／鏡週刊\n究竟「生成式邊緣AI」與「傳統邊緣AI」有何不同？本刊特地來到新北林口、全球工業電腦龍頭研華的「智能共創園區」，一窺生成式邊緣AI應用場域，原來，早在去年第2季，研華便領先同業啟動12項邊緣生成AI專案，其中已有3項率先應用在自家生產線上，為工廠自動化帶來一大新突破！\n在研華邊緣伺服器事業副總鮑志偉的帶領下，本刊穿過研華總部的通道，搭乘電梯進入M棟，也就是公司的生產廠房與物流中心，一窺邊緣生成AI技術落地場域。\n鮑志偉告訴本刊，舉凡包材指引、產線生產效率排程監控與無塵室人員服裝管理，都已導入輝達（NVIDIA）視覺與語言的邊緣AI模型。\n「請大家看這台電腦螢幕。」此時，負責新專案導入的研華工程師許雅惠，將我們帶到一條6人組裝產線，螢幕上正即時監控6名作業員的生產狀況。\n此時，她請第3工站作業員假裝暫時離開崗位，過幾分鐘再回來，螢幕立即顯示該人員的離席時間與生產遞延狀況，並同步回傳數據。「透過攝影機，系統無時不刻回傳這些數據，一旦生產效率低於我們設定的85%臨界值，便會自動觸發警示。」許雅惠說。\n更驚人的是，這套系統，除了可分析出生產效率下降，是哪個工作站或人員時間拖延導致，還主動提供具體的建議，例如：「請關注L3（第三工站作業員）的工作狀況」或「建議將第6工站人員調整至第五工作站」。\n「過去，領班需要花時間人工觀察、推測是哪條產線出了問題，現在只需參考AI建議，就能精準決策。」許雅惠透露，透過這套AI監控機制，某條生產效率曾在短短1個半小時內，從82%提升至100%。\n接著，許雅惠繼續帶我們走進智慧倉儲區，介紹一套去年底正式上線的AI 3D包裝指引系統，這套系統大幅提升工作人員包裝效率，同時降低材料浪費。\n「我們的包裝箱尺寸主要分為I1至I5五種，但每筆訂單的品項與數量不同，過去同事常需要手動好幾次，才能選擇最合適的包裝箱。」許雅惠解釋，由於缺乏標準化指引，「有時箱子過大，造成空間浪費；有時過小，還需要重新包裝，影響出貨效率。」如今，透過這套系統，只要掃描出貨單上的QR Code，系統便能根據產品體積、數量，推薦最適合的包裝尺寸，避免人工誤差。\n「選出最合適的箱子後，這些大量的品項不斷經由影像視覺模型訓練，還能顯示（生成）最佳的擺放方式。」鮑志偉進一步補充，該套系統也相當適合物流業使用，也是ESG永續的實踐。\n「傳統邊緣AI，是基於AIoT（人工智慧物聯網）技術，主要用於數據與影像分析來協助判斷。」資策會MIC資深產業分析師朱師右指出，隨著語言模型技術平價化，導入生成式AI的邊緣運算裝置，不再像過去只是被動回應，而是擁有更直覺、更人性化的決策。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:37:45.315+03:00",
+    "updated": "2025-04-03T01:37:45.315+03:00"
+  },
+  {
+    "uuid": "1f8b6e942c9ea830637793958dc598dc27297065",
+    "url": "https://nantes.indymedia.org/events/115386/manifestation-contre-les-viols-du-hamas-7",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Par Anonyme",
+    "published": "2024-02-23T09:11:00Z",
+    "title": "Manifestation contre les viols du Hamas ! » Indymedia Nantes",
+    "text": "Manifestation contre les viols du Hamas ! Thèmes : [#MeToo unless you are a Jew](https://nantes.indymedia.org/about/metoo-unless-you-are-a-jew/) Lieux : [#MeToo unless you are a Jew](https://nantes.indymedia.org/in/metoo-unless-you-are-a-jew/) Manifestation contre les viols du Hamas ! ”Silence, le Hamas viole” – voici l’un des slogans qui provoque la dissonance cognitive ( ou l’«indignation sélective») durant les manifestations féministes de ce week-end !Ne taisons pas, n’invisibilisons pas, ne nions pas, ne silencions plus cette division ou divergence gravissime ! Un groupe de plusieurs centaines de femmes et de quelques hommes dont le collectif «7 octobre», a tenté de dénoncer les exactions sexistes et sexuelles des fascistes et sexistes du Hamas (dont des viols, des mutilations … ) contre les femmes israéliennes ou non, juives ou non, le 7 octobre 2023, durant l’attaque des terroristes islamistes. Le Hamas a des polices, des prisons, des ligues de vertus islamiques. Le Hamas poursuit et exécute les personnes LGBTQI ou/et féministes ! Le Hamas tire sur les manifestant-e-s ! Sur des banderoles, on pouvait lire : « Violées, mutilées, tuées par le Hamas, qu’attendez-vous pour condamner et agir?”, «Reconnaissance d’un féminicide de masse en Israël le 7 octobre», «Votre silence les arrange» ou encore « #MeToo unless you are a Jew » (#MeToo sauf si vous êtes une juive – qui est le nom de ce collectif féministe fondé en Israël et qui a immédiatement essaimé partout dans le monde), etc Ce cortège féministe fut empêché, agressé puis interdit de manifester à Paris comme dans différentes villes, toujours par des membres trotskistes de la LFi et du NPA (les obsédé-e-s de l’anti-impérialisme léniniste). Certains groupes islamistes, qui refusent de condamner ce qu’ont subi les femmes israéliennes, ont également menacé et agressé des manifestantes. Toutes ces personnes ont aussi nié tant les faits atroces et images, que les vidéos existantes ! Qui sont les personnes qui veulent contextualiser ou nier des crimes, des agressions sexuelles, des viols ? Assurément pas des féministes ! Ne laissons pas cet évènement être dit ou récupéré par des ennemi-e-s politique !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T12:15:29.810+02:00",
+    "updated": "2024-02-23T12:15:29.810+02:00"
+  },
+  {
+    "uuid": "54aa612a9e6f69a459524ce90c854b585d0a7495",
+    "url": "https://motorcyclesports.net/es/royce-lewis-acelera-su-rehabilitacion-con-veloces-sprints-mientras-los-twins-esperan-un-regreso-triunfal-tras-el-enfrentamiento-por-la-lesion-en-el-tendon-de-la-corva",
+    "ord_in_thread": 0,
+    "author": "Matteo Ravi",
+    "published": "2025-04-23T22:35:00Z",
+    "title": "Royce Lewis acelera su rehabilitación con sprints impresionantes mientras los Twins apuntan a un regreso triunfal tras el enfrentamiento con una lesión en el tendón de la corva.",
+    "text": "Un Comienzo Prometedor para un Regreso\nEn una muestra de determinación y progreso cuidadoso, un atleta notable está preparando el escenario para un regreso a su máximo rendimiento. Después de sufrir una lesión en el tendón de la corva durante un partido de exhibición a principios de este año, su reciente impulso de entrenamiento de tres días muestra una combinación de velocidad y resiliencia que ha llamado la atención de muchos.\nRégimen Meticuloso en el Campo\nDurante los últimos días, el atleta ha mantenido un horario riguroso en el campo. Primero, encendió su recuperación con una serie de sprints de alta intensidad, empujando sus límites para señalar el comienzo del proceso de sanación. Al día siguiente, hizo una transición sin problemas a la práctica de ejercicios de carrera por las bases, demostrando no solo su enfoque en la recuperación, sino también su compromiso de mantener instintos listos para el juego. Un momento particularmente dinámico ocurrió cuando corrió hacia la primera base y exhibió un pseudo doble en movimiento, un movimiento emblemático de su renovado fervor atlético.\nHerramientas Innovadoras y Condicionamiento Físico\nEl proceso de rehabilitación ha incorporado más que solo ejercicios tradicionales. Abrazando tanto técnicas de entrenamiento modernas como métodos clásicos de fortalecimiento, se ha visto al atleta trabajando con una herramienta de entrenamiento reconocida: un bate “torpedo” que anteriormente atrajo atención por su asociación con actuaciones ofensivas explosivas. Además, se introdujo una sesión de levantamiento de cuerpo completo para fortalecer su físico en general, asegurando que sus músculos estén preparados para las exigencias del juego competitivo. Tales entrenamientos variados subrayan un enfoque holístico hacia la recuperación donde tanto la habilidad como la fuerza reciben igual énfasis.\nAnticipando el Siguiente Capítulo\nMientras la línea de tiempo exacta para su regreso sigue bajo una cuidadosa evaluación, hay un creciente optimismo sobre lo que está por venir. Las discusiones sobre iniciar una asignación de rehabilitación formal más adelante en la semana sugieren que su progreso continúa cumpliendo con los altos estándares establecidos por su equipo. La moderada distensión en el tendón de la corva, identificada inicialmente a mediados de marzo, parece estar cediendo ante este régimen disciplinado y multifacético, insinuando una perspectiva prometedora para un reingreso competitivo pronto.\nResiliencia y el Camino a Seguir\nEste viaje de rehabilitación es más que un proceso de recuperación; es un testimonio del espíritu perdurable de un atleta preparado para superar contratiempos. Sus recientes logros en el campo no solo reavivan la esperanza entre los aficionados y compañeros de equipo, sino que también subrayan la importancia de la dedicación frente a la adversidad. A medida que reconstruye constantemente su fuerza y ​​momentum, su historia de regreso en evolución está destinada a inspirar y recordarnos que cada contratiempo es simplemente un preludio a un regreso aún mayor.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->baseball",
+      "Health->drug rehabilitation",
+      "Health->health treatment and procedure",
+      "Health->injury",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Campo\nDurante",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T02:24:51.045+03:00",
+    "updated": "2025-04-24T02:24:51.045+03:00"
+  },
+  {
+    "uuid": "a4feda52e199ff01dfd9e4ce0b209df90b2f6e90",
+    "url": "https://www.usnews.com/news/world/articles/2024-02-23/pakistani-islamist-parties-rally-against-top-judge-on-blasphemy-accusations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-02-23T10:34:00Z",
+    "title": "Pakistani Islamist Parties Rally Against Top Judge on Blasphemy Accusations",
+    "text": "Reuters\nFILE PHOTO: A view of the Supreme Court of Pakistan building during sunset hours in Islamabad, Pakistan October 3, 2023. REUTERS/Akhtar Soomro/File photo\nISLAMABAD (Reuters) - Hundreds of supporters from Pakistani Islamist parties on Friday rallied to protest against what they say were blasphemous remarks by the country's chief justice.\nRelated:\n10 Safest States in America The protest call, by various religious and political groups led by hardline Tehreek-e-Labaik Pakistan (TLP) whose rallying cry is \"death to blasphemers\", said that remarks by Chief Justice of Pakistan Qazi Faez Isa in a case against a member of the minority Ahmadi community were blasphemous.\nThe court had granted bail to an Ahmadi community member earlier this week, ruling that blasphemy charges against him did not stand. The man, accused of blasphemy for distributing Islamic literature, had been in jail for 13 months.\n\"We (will) monitor the sermons and protests outside mosques,\" said police official Abrar Hussain in southern city of Karahci, warning the protesters to remain peaceful.\nHundreds of the protesters took to streets in the northwestern city of Peshawar, chanting slogans against the chief justice, said police official Mubarak Khan.\nThe top court on Thursday issued a statement after the Islamist parties and some political groups launched a campaign accusing the chief justice of deviating in his ruling from the constitutional definition of a Muslim, which excludes Ahmadis.\n\"This impression is absolutely wrong,\" the court statement said, deploring what it called a \"vicious campaign\" against Isa.\nThe campaign against Isa was also joined by some supporters and aides of jailed former Prime Minister Imran Khan, who think a ruling by the chief justice stripping Khan's party of its symbol on ballots cost them votes in an election on Feb. 8.\nKhan's Pakistan Tehreek-e-Insaf (PTI) party's information secretary Rauf Hasan did not respond to a request for a comment.\nHuman rights groups say Pakistan's harsh blasphemy laws are often misused to settle personal scores, and just accusing someone of such a crime could lead to mob justice.\nJudges hesitate to take up such cases for fear of retribution, which leaves accused languishing in jail for years without cases being heard.\nBlasphemy is punishable by death in Pakistan. No one has been executed by the state for it, but numerous accused have been lynched by outraged mobs.\n(Reporting by Asif Shahzad in Islamabad, Ariba Shahid in Karachi and Mushtaq Ali in Peshawar; Editing by Peter Graff)\nCopyright 2024 Thomson Reuters .\nJoin the Conversation See Comments Tags: Pakistan , Christianity , crime\nRead More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "qazi faez isa",
+          "sentiment": "none"
+        },
+        {
+          "name": "ahmadi",
+          "sentiment": "none"
+        },
+        {
+          "name": "abrar hussain",
+          "sentiment": "none"
+        },
+        {
+          "name": "mubarak khan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pakistani islamist parties rally against top judge on blasphemy accusations islamabad",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "karahci",
+          "sentiment": "none"
+        },
+        {
+          "name": "peshawar",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T13:06:00.876+02:00",
+    "updated": "2024-02-23T18:07:04.116+02:00"
+  },
+  {
+    "uuid": "a7547e9606faa354e63e855d2db32e0810049efd",
+    "url": "https://kesq.com/news/2024/08/01/dew-points-remain-elevated-through-friday-excessive-heat-arrives-for-the-weekend",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Haley Clawson",
+    "published": "2024-08-01T22:28:00Z",
+    "title": "Dew points remain elevated through Friday, excessive heat arrives for the weekend",
+    "text": "Dew points remain elevated through Friday, excessive heat arrives for the weekend\nIt is muggy outside! Dew point temperatures are in the 60s across the valley, a big difference from what we felt yesterday. The passing showers this morning did not bring any recordable rainfall to the low desert, 'trace' being reported at Palm Springs International Airport. Some communities in the High Desert received around a tenth of an inch. Showers and thunderstorms are expected to continue into the close of the work week. Developing after 11 AM, activity will expand over Riverside County mountains.\nAn\nExcessive Heat Warning has been issued for the Coachella Valley and surrounding High Desert. Temperatures in the low desert could climb as high as 117°. While that remains below record territory, the combination of extreme temperatures plus the added moisture in the atmosphere puts residents under 'major' to 'extreme' heat risk Saturday through Monday.\nAbove-normal temperatures and elevated dew points (50s/60s) will continue through the middle of next week. If you cannot find necessary relief in your own home, seek relief at a\ncooling center.\nHave you downloaded the 'KESQ First Alert' app yet? It's FREE! Click\nhere\nYou'll stay up-to-date with the latest weather videos. In addition, be able to monitor the changing conditions from wherever you are!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather",
+      "Lifestyle and Leisure"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://forecast.weather.gov/showsigwx.php?warnzone=CAZ061&warncounty=CAC065&firewxzone=CAZ261&local_place1=Palm%20Springs%20CA&product1=Excessive+Heat+Warning&lat=33.8281&lon=-116.507",
+      "https://capriverside.org/cool-centers",
+      "https://www.wpc.ncep.noaa.gov/heatrisk/",
+      "https://forecast.weather.gov/showsigwx.php",
+      "https://www.forecast.weather.gov/showsigwx.php?warnzone=CAZ061&warncounty=CAC065&firewxzone=CAZ261&local_place1=Palm%20Springs%20CA&product1=Excessive+Heat+Warning&lat=33.8281&lon=-116.507",
+      "https://www.wpc.ncep.noaa.gov/heatrisk",
+      "https://wpc.ncep.noaa.gov/heatrisk/",
+      "https://www.capriverside.org/cool-centers"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dew",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "coachella valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "riverside county",
+          "sentiment": "none"
+        },
+        {
+          "name": "palm springs international airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T01:39:53.245+03:00",
+    "updated": "2024-08-02T01:39:53.245+03:00"
+  },
+  {
+    "uuid": "eff57bcb1d875dba348c6a352f4e24f6a2cc13f3",
+    "url": "https://www.freepressjournal.in/corporate-gallery/crs-pune-rpf-staff-returns-the-bag-safely-to-its-owner-under-operation-amanat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FPJ Bureau",
+    "published": "2024-06-22T09:59:00Z",
+    "title": "CR's Pune RPF Staff returns the bag safely to it's owner under operation Amanat",
+    "text": "On June 18, 2024, RPF Jawan Sunil Jadhav was on duty at Malvali Station. While routine patrolling at the station, he noticed an unattended shek bag on the platform No. 1.\nThe bag was safely carried at RPF - Talegaon. For security reasons, the bag was checked & found containing one Laptop, one mobile phone & cash Rs. 260/- along with other documents of the owner of the bag.\nIn the meantime a passenger approached the RPF - Talegaon office & informed that he mistakenly left his bag at Malvali Station.\nAssistant Sub Inspector Bhalerao returns the bag along with the things in it to the owner after verification and the procedural formalities. The passenger was overwhelmed with joy as the bag was returned to him safely.\nDivisional Railway Manager Smt. Indu Dubey, Additional Divisional Railway Manager Brijesh Kumar Singh & Senior Divisional Security Commissioner (RPF )Smt. Priyanka Sharma have congratulate the staff for such honest work.\nThe passenger express gratitude & thanks the railway administration.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jawan sunil jadhav",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bhalerao",
+          "sentiment": "none"
+        },
+        {
+          "name": "brijesh kumar singh",
+          "sentiment": "none"
+        },
+        {
+          "name": "priyanka sharma",
+          "sentiment": "none"
+        },
+        {
+          "name": "indu dubey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "rpf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "malvali station",
+          "sentiment": "none"
+        },
+        {
+          "name": "pune",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T18:13:40.888+03:00",
+    "updated": "2024-06-22T18:13:40.888+03:00"
+  },
+  {
+    "uuid": "7818cdcaa69b9e8085745868f36a9c2d833f4534",
+    "url": "https://donna.fidelityhouse.eu/salute-donna/una-preghiera-per-papa-francesco-arriva-da-tutto-il-mondo-409211.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrea Rubino",
+    "published": "2025-02-19T14:54:11Z",
+    "title": "Una preghiera per Papa Francesco, arriva da tutto il mondo",
+    "text": "Negli ultimi giorni, la salute di Papa Francesco, 88 anni, ha destato preoccupazione a causa di una polmonite bilaterale che ha complicato il suo quadro clinico. Il Pontefice è stato ricoverato al Policlinico Gemelli di Roma il 14 febbraio 2025 per una bronchite persistente, ma ulteriori esami hanno rivelato un’infezione polimicrobica delle vie respiratorie, evolutasi in polmonite bilaterale.\nA causa delle sue condizioni, tutti gli impegni ufficiali del Papa erano stati sospesi fino a domenica prossima. Alcune funzioni saranno presiedute da altri rappresentanti del Vaticano. Questo episodio si aggiunge a una serie di problemi di salute che hanno afflitto Papa Francesco negli ultimi anni.\nNel marzo 2023, fu ricoverato per un’infezione respiratoria, e nel giugno dello stesso anno, subì un intervento chirurgico per un’occlusione intestinale. Inoltre, all’età di 21 anni, gli fu asportata parte del polmone destro a causa di una grave polmonite, rendendolo più suscettibile a infezioni polmonari.\nNonostante queste problematiche legate alla salute, Papa Francesco ha sempre cercato di mantenere fede ai suoi impegni, dimostrando grande coraggio e resilienza. Questa volta la situazione è parsa subito critica. Il quadro clinico del Sommo Padre è precipitato improvvisamente, facendo presagire il peggio.\nIn questi giorni particolarmente tristi per la Chiesa, i fedeli di tutto il mondo si sono stretti intorno al Pontefice. E’ di questi minuti una notizia da brividi che sta facendo il giro del mondo. Fedeli in lacrime; una preghiera per Papa Francesco. Scopriamo che cosa sta succedendo nella pagina successiva.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Health->public health",
+      "Health->medical condition",
+      "Human Interest->funeral and memorial service",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->pope"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Francesco",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Policlinico Gemelli",
+          "sentiment": "none"
+        },
+        {
+          "name": "Roma",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-19T16:54:11.003+02:00",
+    "updated": "2025-02-19T16:54:11.003+02:00"
+  }
+]

@@ -1,0 +1,270 @@
+[
+  {
+    "uuid": "c3f0af5952e7b0eb9ebeb69f1608f367963e831a",
+    "url": "https://www.stheadline.com/china-taiwan/3397401/颱風康妮豪宅陽台險被吹走-竹北24樓住戶與風拔河",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "颱風康妮｜豪宅陽台險被吹走 竹北24樓住戶「與風拔河」",
+    "published": "2024-11-01T03:46:00Z",
+    "title": "颱風康妮｜豪宅陽台險被吹走 竹北24樓住戶「與風拔河」",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 我要讚佢 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 宏觀經濟 商業創科 股市 ESG 區塊鏈 地產 樓市動向 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 產經台 生活台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 中國 兩岸熱話 颱風康妮｜豪宅陽台險被吹走 竹北24樓住戶「與風拔河」 兩岸熱話 更新時間：11:56 2024-11-01\n發佈時間：11:46 2024-11-01 字體大小 台灣新竹地區昨午後受到颱風「康妮」的強烈影響，局部地區吹起10級以上的陣風，尤其在竹北市，辦公室林立，形成強勁的高樓風切，令多戶民眾的玻璃陽檯面臨隨風飛走的險境，甚至差點向外砸落。警方及消防接獲報案後，迅速抵達現場，展開緊急搶救，場面如同「人肉拔河」，險些將人與陽台一同從20多層樓高墮下。\n相關新聞：\n颱風康妮襲台增至3死逾500傷 今或浙江登陸\n據了解，位於竹北市水瀧重劃區的一棟24層高的豪宅，因其設計採用玻璃陽台，導致在狂風驟起下，陽台搖搖欲墜，許多住戶不敢出門，唯恐陽台隨時墮下傷人。\n不少住戶急報「陽台快被吹走了！」，警方及消防人員接獲通知後，迅速趕到現場。由於情況危急，居民、民代和警消全力合作，將消防水帶綁在陽台上，與颱風展開拔河競賽。消防人員則在後方將水帶固定在樑柱上，以防止陽台墮下。\n現場住戶更將水帶綑綁於身上，仰躺拉住陽台，然而，強風威力驚人，數十位住戶的力量險些無法抵擋，陽台隨時可能隨風飛落。幸運的是，消防人員及時固定水帶，避免了重大意外的發生。\n↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T06:38:18.220+02:00",
+    "updated": "2024-11-01T06:38:18.220+02:00"
+  },
+  {
+    "uuid": "b85320e0b1a3dfd701f9987f1a9c2ee97cd61ece",
+    "url": "https://www.israelnationalnews.com/news/382726",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Israel National News",
+    "published": "2023-12-28T20:29:00Z",
+    "title": "President Biden 'devastated' to learn of Judi Weinstein's murder | Israel National News - Arutz Sheva",
+    "text": "US President Joe Biden said that he and First Lady Jill Biden are \"devastated\" following the news that US citizen [Judi Weinstein was murdered by Hamas terrorists](/news/382714) on October 7. \"Jill and I are devastated to learn that American Judy Weinstein is also believed to have been killed by Hamas on October 7,\" Biden said in a statement. \"This tragic development cuts deep, coming on the heels of last week’s news that Judy’s beloved husband, Gad Haggai, is believed to have been killed by Hamas. We are holding Judy and Gad’s four children, seven grandchildren, and other loved ones close to our hearts,\" he said. \"I will never forget what their daughter, and the family members of other Americans held hostage in Gaza, have shared with me. They have been living through hell for weeks. No family should have to endure such an ordeal. And I reaffirm the pledge we have made to all the families of those still held hostage: we will not stop working to bring them home,\" the President's statement concluded. Kibbutz Nir Oz announced today (Thursday) that Judi had been murdered on October 7 after she had been presumed kidnapped for over two months. On the morning of October 7, when Hamas launched its attack, Judi and hr husband Gadi went out for their regular morning walk in the fields and vineyards of the kibbutz. Judi managed to notify friends that they had been shot and that Gadi was critically injured. This was the last contact anyone had with them. Both Judi and Gadi were American citizens. Their bodies continue to be held in Gaza by the Hamas terrorist organization.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.inn.co.il/news/382714)",
+      "http://inn.co.il/news/382714)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "judi weinstein",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jill biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kibbutz nir oz",
+          "sentiment": "none"
+        },
+        {
+          "name": "judy",
+          "sentiment": "none"
+        },
+        {
+          "name": "judi",
+          "sentiment": "none"
+        },
+        {
+          "name": "judy weinstein",
+          "sentiment": "none"
+        },
+        {
+          "name": "gad haggai",
+          "sentiment": "none"
+        },
+        {
+          "name": "gad",
+          "sentiment": "none"
+        },
+        {
+          "name": "jill",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "israel national news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "arutz sheva us",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:04:42.250+02:00",
+    "updated": "2023-12-29T00:25:32.886+02:00"
+  },
+  {
+    "uuid": "e3a21eae3d2d0175a3d98af7e2a4884bd1538e37",
+    "url": "https://cryptomode.com/news/analyst-predicts-bitcoin-crash-to-38130",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Muhammad Ali",
+    "published": "2024-01-25T22:18:00Z",
+    "title": "Analyst Predicts Bitcoin Crash to $38,130",
+    "text": "As of Jan. 26, Bitcoin (BTC) has experienced a notable decline, slipping below the $40,000 mark before a partial recovery. Despite the rebound, BTC remains 19% below its post-Spot Bitcoin ETF approval high. Crypto analyst Ali Martinez has warned of a [further dip](https://twitter.com/ali_charts/status/1750412686591225924) to $38,130. He predicts that such a downturn could trigger [panic selling](https://cryptomode.com/news/crypto/4-reasons-why-hedge-fund-involvement-wont-benefit-cryptocurrency/) among short-term investors. He notes that breaching this threshold would result in losses for short-term BTC holders, leading to a new wave of panic selling. Bitcoin (BTC) Future Trend While the crypto analyst acknowledges the current bearish turn, he expects the [Bitcoin bull cycle](https://cryptomode.com/news/bitcoin-bulls-hold-strong-at-44k/) to peak in late 2025. Comparing historical patterns, he suggests that BTC is mirroring previous bull runs, with market projections indicating a potential peak in Oct. 2025. If [#Bitcoin]'s price falls below $38,130, short-term [$BTC]holders could find themselves in the red. This potential [#BTC]dip might trigger a new wave of panic selling as these holders will seek to minimize losses. [pic.twitter.com/TnAH67DPV6] — Ali (@ali_charts) [January 25, 2024] He reassures long-term [Bitcoin HODLers](https://cryptomode.com/news/crypto-strategist-bitcoin-tourists-hodlers/) of approximately 600 more days of bullish momentum before the cycle tops. Emphasizing the historical pattern of BTC price corrections followed by upswings, the analyst advises traders to leverage the “ [buy the dip](https://cryptomode.com/featured/solanas-price-dynamics-is-sol-buy-the-dip-worthy/)” opportunity for potential gains. Currently trading around $39,850, BTC struggles to sustain above $40,000, [facing pullbacks](https://cryptomode.com/news/crypto-industry-soars-108-percent-market-cap/) after attempted rebounds. Despite a 0.25% increase at press time, the 24-hour trade volume plummeted 29.57% to $20.09 billion. The market cap sits at $786.18 billion. The crypto analyst highlights the significance of the $38,000 threshold on the weekly chart, cautioning that a close below this level may signal a potential downturn targeting strong support around $33,000. This critical zone is defined by key technical indicators, forming a [significant defense](https://in.tradingview.com/symbols/BTCUSD/technicals/) line against further [price declines](https://cryptomode.com/news/celsius-sell-off-sends-eth-price-down/). Based on the current analysis, the analyst concludes that a drop below $32,000 is not imminent. Disclaimer For paid/sponsored articles, CryptoMode neither endorses nor takes responsibility for the accuracy, timeliness, quality, and content of said articles. The statements, views and opinions expressed in paid/sponsored articles are solely those of the content provider and readers are reminded that Cryptocurrency products are unregulated in most locations and can be highly risky. Do your own research and consult relevant financial experts before making any investment decisions. Cryptomode will not be held accountable, either directly or indirectly, for any harm or loss that may stem from or be linked to the usage or reliance on any information, goods, or services mentioned on this page. If you have any concerns, please email [[email protected]](/cdn-cgi/l/email-protection#5a292f2a2a35282e1a3928232a2e3537353e3f74393537) or refer to our [Terms & Conditions](https://cryptomode.com/terms-conditions/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://twitter.com/ali_charts/status/1750412686591225924",
+      "https://in.tradingview.com/symbols/BTCUSD/technicals/",
+      "https://www.in.tradingview.com/symbols/BTCUSD/technicals/",
+      "https://in.tradingview.com/symbols/BTCUSD/technicals",
+      "https://www.twitter.com/ali_charts/status/1750412686591225924"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ali martinez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "btc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:42:39.496+02:00",
+    "updated": "2024-01-26T19:24:23.375+02:00"
+  }
+]

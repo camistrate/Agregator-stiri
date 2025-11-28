@@ -1,0 +1,344 @@
+[
+  {
+    "uuid": "91a1a9314581ce1101ac09e520ccfaf74348d0c4",
+    "url": "https://nybreaking.com/another-top-wordpress-plugin-that-contains-critical-security-flaws",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James",
+    "published": "2025-01-09T20:27:00Z",
+    "title": "Another top WordPress plugin that contains critical security flaws",
+    "text": "Patchstack researchers discover two new flaws in Fancy Product Designer The WordPress plugin built by Radykal has over 20,000 active users The flaws allowed remote code execution, arbitrary file uploads, and more A popular WordPress plugin has been found to contain two critical vulnerabilities that allow threat actors to upload files, tamper with databases, and essentially take over compromised websites.\nTo make matters worse, the vulnerabilities remained in the code for more than six months, despite the developers being informed of them and actively working on new versions in the meantime.\nCybersecurity researchers at Patchstack claim to have discovered two vulnerabilities in late March 2024 in Fancy Product Designer, a premium website builder plugin developed by Radykal that allows users to create and customize products such as t-shirts, mugs or posters customize with different design tools and options for e-commerce stores. It has over 20,000 sales.\nSilence from the sellers The vulnerabilities are tracked as CVE-2024-51919 (severity score 9.0) and CVE-2024-51818. The former is an unverified arbitrary file upload vulnerability, while the latter is an unverified SQL injection flaw. Because the first allows remote code execution (RCE), this can lead to full website takeover in some scenarios.\nPatchstack claims to have notified the vendor of the issues in late March, but never heard back from the company. In the meantime, Radykal worked on new versions of the plugin and released twenty of them. The last one was pushed two months ago (6.4.3) and still contains the critical security flaws.\nTo warn users about the risks and draw attention to the problem, Patchstack added the bugs to its database and published an in-depth blog, with enough technical information to build an exploit and target websites using Fancy Product Designer.\nTo prevent this from happening, web administrators should create a whitelist of allowed file extensions, thus preventing threat actors from uploading whatever they want. Patchstack added that users should also clean up user input for a query to defend against SQL injection attacks.\nSign up for the Ny Breaking newsletter and get all the best news, opinions, features and guidance your business needs to succeed!\nVia BleepingComputer\nYou might also like it",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->information technology and computer science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/",
+      "https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin",
+      "https://bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T01:10:40.885+02:00",
+    "updated": "2025-01-10T01:10:40.885+02:00"
+  },
+  {
+    "uuid": "beb5a682d12a7c5547c9fbd5730ffeb538559992",
+    "url": "https://denvergazette.com/outtherecolorado/news/lost-hikers-did-exactly-what-they-should-have-done-prior-to-rescue-in-colorado/article_af49a1cc-2feb-11ef-9883-8fd263fbef43.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Spencer McKee",
+    "published": "2024-06-21T05:00:00Z",
+    "title": "Lost hikers 'did exactly what they should have done' prior to rescue in Colorado | outtherecolorado.com",
+    "text": "Larimer County Search and Rescue has shared the story of a recent mission as it provides a great example of what lost hikers should do. According to the group, their team was called into the field on June 14 to rescue a couple of lost hikers. This process was expedited thanks to the hikers following best practices related to 'what to do when lost.' When the hikers realized they were lost, they called for help and then stayed in the same place, waiting for their rescuers to arrive. These actions may seem simple, but many times, hikers do the opposite of what these two did, leading to a more complicated situation. It can be easy for hikers to justify trying to self-rescue when they believe they're lost, opposed to immediately calling for help. This can not only lead to hikers getting more lost, but it can also lead to hikers pushing further into more dangerous terrain. Not staying put can also be problematic when it comes to grid searching, making it more difficult for crews to find missing persons as those missing persons may travel into an area that's already been cleared. Additionally, hikers can be hesitant to call for help, thinking there will be some sort of judgment or penalty for doing so. In reality, search and rescue is generally free in Colorado, with search and rescue costs coming into play when transport from the scene may be required via helicopter or ambulance. In 'lost hiker' scenarios where injuries aren't involved, there's generally not an associated cost. And as far as judgment goes, people that volunteer on Colorado's search and rescue teams are doing so because they want to help in situations of this nature. They're happy when everyone gets back to the trailhead safely. So, next time you're lost on the trail, don't keep moving. Get your bearings and call search and rescue while staying put. This might mean placing a 9-1-1 call to local emergency services or using a satellite-connected emergency communication device, such as a [Garmin inReach](https://www.garmin.com/en-US/c/outdoor-recreation/satellite-communicators/), with that option allowing you to call for help when cell service may not be available. If you're interested in supporting Colorado's volunteer-powered search and rescue operation, one way to do so is through the purchase of a [CORSAR card](https://dola.colorado.gov/sar/cardPurchase.jsf). It's cheap, at only $5 per year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://dola.colorado.gov/sar/cardPurchase.jsf).",
+      "https://www.garmin.com/en-US/c/outdoor-recreation/satellite-communicators/),",
+      "https://www.dola.colorado.gov/sar/cardPurchase.jsf).",
+      "https://garmin.com/en-US/c/outdoor-recreation/satellite-communicators/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "larimer county search and rescue",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colorado",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-21T20:24:38.562+03:00",
+    "updated": "2024-06-22T11:34:13.794+03:00"
+  },
+  {
+    "uuid": "035d12cfbb859bacaa441394c3627bebcd683d4a",
+    "url": "https://www.nouvelles-du-monde.com/bande-annonce-leonardo-dicaprio-chez-paul-thomas-anderson",
+    "ord_in_thread": 0,
+    "author": "Caroline Dubois",
+    "published": "2025-07-24T02:20:00Z",
+    "title": "# Bande-annonce : Leonardo DiCaprio chez Paul Thomas Anderson",
+    "text": "Sujet principal : Le nouveau film de Paul Thomas Anderson , intitulé “Une bataille après l’autre”, dont la sortie est prévue le 25 septembre en Italie.\npoints clés abordés :\nTitre du film : “Une bataille après l’autre” (titre original non précisé, mais le contexte suggère qu’il s’agit probablement de “Licorice pizza” ou d’un autre film de PTA, car “Une bataille après l’autre” n’est pas un titre de film connu de Paul Thomas Anderson. Il est possible qu’il s’agisse d’une traduction littérale ou d’une erreur dans le texte source). Inspiration : Le film est une adaptation libre du roman “Vineland” de Thomas Pynchon. Date de sortie : 25 septembre (en Italie). Bande-annonce : Une bande-annonce est disponible en ligne. Distribution : Le film met en vedette Alana Haim , Cooper Hoffman, Sean Penn , tom Waits et John C. Reilly. Réalisateur : Paul Thomas Anderson. Musique : La musique est composée par Jonny Greenwood. Synopsis : L’histoire suit les aventures d’un jeune homme et d’une jeune femme qui tombent amoureux dans la vallée de San Fernando dans les années 1970. Mots-clés : Paul Thomas Anderson, Vineland, Licorice Pizza (probable), Alana Haim, Cooper Hoffman, Sean Penn, Tom Waits, john C.Reilly,Jonny Greenwood,film,sortie,Italie.\nLocalisation : Vallée de San Fernando (lieu de l’action du film), italie (lieu de sortie mentionné).\nDates : Années 1970 (époque de l’action du film), 25 septembre (date de sortie en Italie).\nImage : Le texte ne fournit pas d’image, mais évoque l’esthétique des années 1970 et l’ambiance de la vallée de San Fernando.\nVoici une analyse du texte que vous avez fourni :\nSujet principal : Le nouveau film de Paul Thomas Anderson, intitulé “Une bataille après l’autre”, dont la sortie est prévue le 25 septembre en Italie.\nPoints clés abordés :\nTitre du film : “Une bataille après l’autre” (titre original non précisé, mais le contexte suggère qu’il s’agit de “Licorice Pizza” ou d’un autre film de PTA, car “Une bataille après l’autre” n’est pas un titre de film connu de Paul Thomas Anderson. Il est possible qu’il s’agisse d’une traduction littérale ou d’une erreur dans le texte source).\ninspiration : Le film est une adaptation libre du roman “Vineland” de Thomas Pynchon.\nabsence de festivals : Le réalisateur ne souhaite pas que le film passe par des festivals avant sa sortie en salles.\nDate de sortie : Le 25 septembre dans les cinémas italiens.\nBande-annonce : Une nouvelle bande-annonce intitulée “Bad Hombre” est disponible.\nDistribution : Le film met en vedette Leonardo DiCaprio, Sean Penn, Regina Hall, Teyana Taylor, Wood Harris, Alana Haim, Benicio del Toro et Chase Infiniti.\nMusique : La musique est composée par Jonny Greenwood, un collaborateur habituel de Paul Thomas Anderson. Contexte temporel : Contrairement au roman de Pynchon (publié en 1990 et se déroulant en 1984), le film se déroule à notre époque. Synopsis officiel : Un groupe d’anciens révolutionnaires se réunit lorsque leur ennemi réapparaît après seize ans de silence.Leur mission est de sauver la fille de l’un d’eux avant qu’un événement inévitable ne se produise.\nAnalyse du style et du ton :\nLe texte est informatif et promotionnel, visant à informer le public de la sortie du film et à susciter l’intérêt.\nLe ton est enthousiaste, utilisant des expressions comme “chef-d’œuvre” pour décrire le roman de Pynchon et soulignant l’importance de la sortie du film.\nL’utilisation de l’italique pour les titres de films et de romans, ainsi que pour les noms des acteurs et du réalisateur, est cohérente.\nLa structure du texte est claire, commençant par l’annonce du film et de son inspiration, puis détaillant la date de sortie, la bande-annonce, la distribution, la musique et le synopsis.\npoints à noter ou à clarifier :\nTitre du film : Comme mentionné précédemment, “Une bataille après l’autre” n’est pas un titre de film connu de Paul Thomas Anderson. Il est très probable qu’il s’agisse d’une traduction erronée ou d’une confusion avec un autre film. Le film de Paul Thomas Anderson inspiré par “Vineland” de Thomas Pynchon est en réalité “Licorice Pizza” . Si le texte original était en anglais, il est possible qu’il y ait eu une erreur de traduction. Si le texte est bien en italien et que le titre est “Una battaglia dopo l’altra”, alors il s’agit d’une information erronée concernant le film de PTA.\n* Lien avec “vineland” : Bien que le texte mentionne “Vineland” comme inspiration, le synopsis fourni pour “Une bataille après l’autre” ne semble pas directement lié aux thèmes complexes et aux personnages de “Vineland”. Il est possible que l’inspiration soit plus lointaine ou thématique.\nle texte annonce la sortie prochaine d’un film de Paul Thomas Anderson, met en avant sa distribution et sa musique, et fournit un synopsis. cependant, il y a une forte probabilité d’erreur concernant le titre du film, qui devrait probablement être “Licorice Pizza” si l’inspiration de “Vineland” est correcte.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->cinema",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->travel and tourism",
+      "Lifestyle and Leisure->holiday",
+      "Human Interest->celebrity"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://simple.wikipedia.org/wiki/Sean_Penn",
+      "https://www.nccih.nih.gov/health/licorice-root",
+      "https://en.wikipedia.org/wiki/Alanna",
+      "https://www.behindthename.com/name/paul",
+      "https://www.youtube.com/embed/tS7wgdkqif8",
+      "https://youtube.com/embed/tS7wgdkqif8",
+      "https://www.en.wikipedia.org/wiki/Alanna",
+      "https://nccih.nih.gov/health/licorice-root",
+      "https://behindthename.com/name/paul",
+      "https://www.simple.wikipedia.org/wiki/Sean_Penn"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:53:01.422+03:00",
+    "updated": "2025-07-24T07:58:26.000+03:00"
+  },
+  {
+    "uuid": "8b8ec28715cf90eb1cf61b13a5fde77c21cf83b7",
+    "url": "https://www.brainerddispatch.com/news/local/expect-cold-wind-chills-for-1st-weekend-of-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dispatch staff report",
+    "published": "2025-01-03T10:57:00Z",
+    "title": "Expect cold wind chills for 1st weekend of 2025",
+    "text": "Expect cold wind chills for 1st weekend of 2025\nAfter days of mild weather over the holidays, January's cold is about to set in.\nBRAINERD — Forecast calls for a possible windchill of 19 below or colder this weekend in the Brainerd and Baxter area with even colder air to the north.\nTemperatures continue to become colder through through Friday, Jan. 3, the National Weather Service in Duluth reported.\nADVERTISEMENT\n\"Air temperatures Friday and Saturday nights are forecast in the single digits to teens below zero, with northwest winds gusting to 20 mph. Wind Chill values of -15 to -30 F are expected each night into the early morning hours,\" the weather service stated.\nADVERTISEMENT\nADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather forecast"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "National Weather Service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T14:14:23.902+02:00",
+    "updated": "2025-01-03T14:14:23.902+02:00"
+  },
+  {
+    "uuid": "e87a399b5ac1fe0b51f41ffbb32ee179784ec70c",
+    "url": "https://www.abc.es/espana/cataluna/obispado-urgell-lleida-denuncia-video-ia-suplanta-20240523232111-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABC.es",
+    "published": "2024-05-23T21:21:00Z",
+    "title": "El Obispado de Urgell (Lleida) denuncia un vídeo, hecho con IA, que suplanta al obispo Joan-Enric Vives",
+    "text": "El Obispado de Urgell ha denunciado a los Mossos d\\u0027Esquadra que s e ha suplantado la identidad del arzobispo de Urgell (Lleida) y copríncipe de Andorra, Joan-Enric Vives en un vídeo, hecho con Inteligencia Artificial (IA), que circula por las redes sociales.Según informa en un comunicado este jueves, la institución ha tenido conocimiento este jueves por la mañana de este vídeo y lo ha trasladado a los Mossos para que lo investiguen.El Obispado «se reserva el derecho a ejercer las acciones legales oportunas» contra los autores del documento.Noticia Relacionada video-noticia No Paolo Benanti, fraile y experto en IA: «La inteligencia artificial en la capacidad de crearla está ligada a la inteligencia natural» EFE Roma (Italia), 22 may (EFE).- Paolo Benanti compagina su vida de fraile en un monasterio romano con ...Fuentes conocedoras han explicado a Europa Press que el vídeo presuntamente está hecho con Inteligencia Artificial (IA).En el vídeo denunciado, se pone en boca del arzobispo que todos andorranos pueden formar parte de un proyecto vinculado al sector del petróleo y se les anima a realizar aportaciones de 250 euros para «recibir los primeros dividendos», según ha podido comprobar Europa Press.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-24T00:42:40.335+03:00",
+    "updated": "2024-05-24T00:42:40.335+03:00"
+  },
+  {
+    "uuid": "ce97bc9ada288db698d29a473207caf268f2bf3a",
+    "url": "https://www.eluniversal.com.mx/mundo/video-principe-william-retoma-sus-actividades-publicas-tras-diagnostico-de-cancer-de-kate-middleton",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GDA/ El Tiempo/ Colombia",
+    "published": "2024-04-18T21:10:00Z",
+    "title": "Video: Príncipe William retoma sus actividades públicas tras diagnóstico de cáncer de Kate Middleton | El Universal",
+    "text": "El príncipe William , heredero de la corona británica, reanudó el jueves sus actividades públicas con una visita a una organización benéfica de ayuda alimentaria, su primera salida oficial desde el anuncio del cáncer de su esposa, Kate Middleton . Según videos compartidos por corresponsales que siguen a la realeza, el príncipe, de 41 años, llegó a mediodía a Surplus for Supper , una organización benéfica que redistribuye excedentes de alimentos en Surrey, al oeste de Londres . Después se espera acuda a un centro juvenil de la capital británica que recibe entregas regulares de la organización.\nPrince William is given two get well soon cards by a volunteer at Surplus to Supper during his first engagement back after Catherine’s cancer diagnosis pic.twitter.com/yLRPcFYVSh\n— India McTaggart (@indiamctaggart) April 18, 2024 La semana pasada el príncipe asistió, junto a su hijo mayor Jorge , al partido de fútbol Aston Villa-Lille, en Birmingham.\nDistendido y sonriente, William, seguidor del club inglés, llevó a Villa Park a su hijo de 10 años, luciendo una bufanda del equipo de Birmingham, que ganó a su rival francés por 2-1, en partido de ida de cuartos de final de la Europa Conference League. Su esposa, la princesa Kate , de 42 años, anunció en un video a finales de marzo que padece cáncer, sin especificar su naturaleza, añadiendo que había iniciado sesiones de quimioterapia.\nLa pareja y sus hijos no acudieron a finales de marzo al tradicional servicio religioso de Pascua en la Capilla de San Jorge, en el castillo de Windsor , al oeste de Londres, que tuvo lugar una semana después del anuncio del cáncer de Kate.\nEl Palacio de Buckingham también anunció a principios de febrero que el rey Carlos III padece un cáncer, detectado durante una operación de próstata unos días antes.\nDebido a ello, el monarca también está bajo tratamiento, por lo que ha limitado su funciones oficiales y apariciones públicas.\n*Con información de AFP\nLee también Kate Middleton anuncia que tiene cáncer y está recibiendo quimioterapia\n*El Grupo de Diarios América (GDA), al cual pertenece EL UNIVERSAL, es una red de medios líderes fundada en 1991, que promueve los valores democráticos, la prensa independiente y la libertad de expresión en América Latina a través del periodismo de calidad para nuestras audiencias.\nÚnete a nuestro canal ¡EL UNIVERSAL ya está en Whatsapp!, desde tu dispositivo móvil entérate de las noticias más relevantes del día, artículos de opinión, entretenimiento, tendencias y más.\nmgm",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://twitter.com/indiamctaggart/status/1780930717100265626?ref_src=twsrc%5Etfw",
+      "https://t.co/yLRPcFYVSh",
+      "https://news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag?hl=es-419&gl=MX&ceid=MX%3Aes-419",
+      "https://whatsapp.com/channel/0029Va4lfJc1CYoM1R8IT71e",
+      "https://news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag",
+      "https://twitter.com/indiamctaggart/status/1780930717100265626",
+      "https://www.whatsapp.com/channel/0029Va4lfJc1CYoM1R8IT71e",
+      "https://www.t.co/yLRPcFYVSh",
+      "https://www.twitter.com/indiamctaggart/status/1780930717100265626?ref_src=twsrc%5Etfw",
+      "https://www.news.google.com/publications/CAAqBwgKMKG_7wowkfm2Ag?hl=es-419&gl=MX&ceid=MX%3Aes-419"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:19:33.047+03:00",
+    "updated": "2024-04-19T00:19:33.047+03:00"
+  },
+  {
+    "uuid": "785103c8712d26cf71e26356298b5158f46dd2a6",
+    "url": "https://www.giornaledibrescia.it/cronaca/avvocati-giudice-di-pace-ufficio-non-funziona-vz8yw39y",
+    "ord_in_thread": 0,
+    "author": "Antonio Borrelli",
+    "published": "2025-04-09T21:39:00Z",
+    "title": "Gli avvocati: «Giudice di pace, un ufficio che non funziona»",
+    "text": "Gli avvocati: «Giudice di pace, un ufficio che non funziona»\nLa denuncia di Anita Bettoni, consigliera dell’Ordine degli Avvocati di Brescia\nLa sede degli uffici del giudice di pace in via Vittorio Emanuele - Foto Gabriele Strada Neg © www.giornaledibrescia.it\n«Ci sono ritardi incredibili. In un anno e mezzo non arriviamo a presentare la prima udienza». Anita Bettoni, consigliera dell’Ordine degli Avvocati di Brescia, cristallizza l’emergenza che da mesi i bresciani e i rispettivi legali si trovano ad affrontare in via Vittorio Emanuele II. «Specialmente per i decreti ingiuntivi, per i quali si chiedono tempi brevi, tutto va davvero troppo a rilento, di fatto è un ufficio che non funziona. Ad oggi si tratta di un carico enorme per i sette giudici, che\nRegistrati gratuitamente\nQuesto è un articolo GDB+. Accedi o registrati per continuare a leggerlo. È facile e veloce.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "topics": [
+      "Crime, Law and Justice->court",
+      "Crime, Law and Justice->law",
+      "Crime, Law and Justice->judiciary",
+      "Politics->government department",
+      "Politics->local government and authority",
+      "Politics->civil rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Anita Bettoni",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "via Vittorio Emanuele",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:46:14.197+03:00",
+    "updated": "2025-04-10T00:46:14.197+03:00"
+  }
+]

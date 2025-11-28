@@ -1,0 +1,538 @@
+[
+  {
+    "uuid": "412e133d9fee347f6d4cda5b407273d8135e364d",
+    "url": "https://www.genovatoday.it/cronaca/unipol-sciopero-contro-piano-industriale.html",
+    "ord_in_thread": 0,
+    "author": "F.L.N.",
+    "published": "2025-03-28T11:48:00Z",
+    "title": "Unipol: sciopero contro il piano industriale",
+    "text": "Cronaca\nCentro/ Via V Dicembre\n\"Unipol siamo noi\": a Genova assemblea e presidio a sostegno dei lavoratori\nIl presidio durante la presentazione del piano industriale dell'azienda\nSi è svolta anche a Genova la mobilitazione nazionale dei lavoratori del Gruppo Unipol, promossa da First Cisl, Fisac Cgil e Uilca Uil in concomitanza con la presentazione del nuovo piano industriale dell’azienda. Sotto lo slogan “Unipol siamo noi”, i dipendenti hanno manifestato nelle principali città italiane per denunciare l’esclusione delle organizzazioni sindacali dal percorso che ha portato alla definizione del piano.\nNel capoluogo ligure, la giornata di protesta ha visto prima lo svolgimento di un’assemblea sindacale presso la sala Bi.Bi. Service di via XX Settembre, seguita da un presidio davanti alla sede Siat di via V Dicembre. I sindacati denunciano il progressivo allontanamento di Unipol dal legame con la propria base sociale e criticano una gestione aziendale caratterizzata da relazioni industriali autoritarie e una rigida organizzazione del lavoro.\nLe sigle sindacali chiedono una svolta nelle politiche aziendali, con un maggiore rispetto delle buone prassi sindacali, attenzione ai diritti e ai bisogni dei lavoratori e una più equa distribuzione dei risultati economici ottenuti grazie al loro impegno. “L’azienda continua a dimostrare disinteresse verso i propri lavoratori – si legge nella nota congiunta di First Cisl, Fisac Cgil, Uilca Uil e delle Rappresentanze Sindacali UnipolSai e Siat Genova – È necessario ripristinare al più presto condizioni di rispetto reciproco e valorizzare la professionalità di tutti”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Labor->employee",
+      "Labor->labour dispute",
+      "Labor->labour relations",
+      "Politics->government",
+      "Politics->civil rights",
+      "Politics->political process",
+      "Social Issue->communities",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sotto lo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "dipendenti hanno manifestato nelle",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alla definizione del piano",
+          "sentiment": "negative"
+        },
+        {
+          "name": "la giornata di protesta ha",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Bi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sindacati denunciano il",
+          "sentiment": "negative"
+        },
+        {
+          "name": "di Unipol",
+          "sentiment": "negative"
+        },
+        {
+          "name": "aziendale caratterizzata da relazioni industriali autoritarie e una",
+          "sentiment": "negative"
+        },
+        {
+          "name": "prassi sindacali",
+          "sentiment": "negative"
+        },
+        {
+          "name": "al loro impegno",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Siat Genova",
+          "sentiment": "negative"
+        },
+        {
+          "name": "la professionalità di tutti",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Fisac Cgil",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "legge nella",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Rappresentanze Sindacali",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ligure",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Genova la",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Unipol siamo noi",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "principali città italiane",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "da un presidio davanti alla sede Siat di via V Dicembre",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "base sociale e criticano una gestione",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "chiedono una svolta nelle politiche aziendali",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "con un maggiore rispetto delle",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "dimostrare disinteresse verso",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "È necessario",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "al più presto",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Cronaca",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Genova",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sostegno dei lavoratori\n",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Il presidio durante la presentazione del piano industriale dell'azienda\nSi è svolta anche",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "nazionale dei lavoratori del Gruppo Unipol",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "da First Cisl",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "del nuovo piano industriale dell’azienda",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Uilca Uil e delle",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T16:00:40.596+03:00",
+    "updated": "2025-03-28T16:00:40.596+03:00"
+  },
+  {
+    "uuid": "d470a37046a2736802286f206b2dfd75bc207e21",
+    "url": "https://www.13abc.com/video/2025/01/23/ultimate-guide-playoff-parties",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@13abc",
+    "published": "2025-01-23T00:00:00Z",
+    "title": "The Ultimate Guide to Playoff Parties",
+    "text": "Updated: 4 hours ago\nIn Author's Note, we meet the local writer behind \"Point Place Chronicles\", a collection of short stories all set on the shores of Lake Erie!\nUpdated: 4 hours ago\nEric profiles a mother-daughter swimming duo in this week's \"On Campus: Hometown Heroes\"\nUpdated: 5 hours ago\nGet to know the voice behind one local podcast: The Perrysburg Podcast!\nUpdated: 5 hours ago\nThe men from Mavillino Custom Homes walk Eric and Rebecca through some design features in this year's Greater Toledo Home Giveaway house.\nUpdated: 6 hours ago\nEric and Rebecca learn what options parents have and how they can visit the NWO School Choice Fair this weekend.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->party",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rebecca",
+          "sentiment": "none"
+        },
+        {
+          "name": "Eric",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mavillino Custom Homes",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:37:53.070+02:00",
+    "updated": "2025-01-24T00:37:53.070+02:00"
+  },
+  {
+    "uuid": "00b93d74c2337cc2ef0df4a4d039bc168eec8eca",
+    "url": "https://www.bangkokpost.com/opinion/postbag/2973916/litter-legacy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bangkok Post Public Company Limited",
+    "published": "2025-03-06T00:00:00Z",
+    "title": "Bangkok Post - Bangkok Post - Opinion channel - Postbag | Bangkok Post - Bangkok Post - Opinion channel - Postbag",
+    "text": "Litter legacy\nRe: \"Boat to lose licence for dumping waste\", (BP, March 1).\nRoyal Galaxy Cruise has been caught dumping trash into the Chao Phraya River and hence into the Gulf of Thailand. Is the government going to prosecute the company...and others...for allowing this to happen? Or is everyone happy to dump trash anywhere in Thailand without shame or prosecution?\nHoudini act\nRe: \"Thailand's tense dance of diplomacy\", (Opinion, March 4).\nKavi Chongkitthavorn's discussion on recent diplomatic moves by Thailand zeroes in on the role of former prime minister Thaksin Shinawatara's \"Houdini Act\" theory or protracted strategy.\nIt raises the question that, given the current economic stagflation in Thailand, and uncertainties surrounding US President Donald Trump's tariff imposition and destabilisation of global economies, is Thaksin's \"Houdini act\" in regional and global politics going to serve any purpose to bolster the three strongly needed pillars of Thailand: sound economics, principled politics and security and an alluring culture?\nThailand has long been considered a moderate and peace-loving Indo-Chinese and Asean heartland. Thailand's \"middle-of-the-road\" attitude to many global issues also makes it an attractive ally in negotiations and deal-making.\nNow is the opportune moment for the hand-wringing to stop and decisiveness to take hold of Thailand's decisions to move forward. After all, you cannot catch two fish with two hands.\nMurky machinations\nRe: \"D-Day looms for the Senate\", (BP, March 6).\nIs there any chance that someone at your company could put a bit of effort into helping the public understand what is behind some of the more recent strange happenings in Thai society?\nFirst we had the top two policemen who were removed, with both intimating that the other was involved in corrupt takings from online betting. Was this just a personal feud or are there bigger influences behind this scandal?\nThen there was the return of a long-silent issue regarding the Alpine Golf Course, gone but obviously not forgotten. Why now?\nThen the issue of land which the Supreme Court ruled was owned by the SRT, at odds with the thinking of some government departments. The Interior Minister could hardly announce \"unbiased\" in this case. Just a few more weeks and suddenly another land dispute concerning proxy owners of land intended for a Chinese durian farm and further complications of it maybe being national park or Alro land.\nAnd finally a decision to halt the Moto GP at a racetrack in Buri Ram at a time when every effort is being made to raise tourist numbers. Are we seeing independent events here or are we looking at a political spat between two sides who claim they are best of friends? What is going on?\nPoor Phuket\nRe: \"Phuket 'needs new growth strategy'\", (BP, March 4).\nThe Post reports on Phuket like it's a foreign country. Phuket is 65% the size of Singapore but the island doesn't have a single highway. Nor does Phuket have a single traffic flyover.\nDespite Phuket's love of billboards, flyovers were deemed unsightly so Phuket got busy building tunnels. Tunnels use a lot more cement, cost a lot more, and take more time. The last tunnel was completed about 10 years ago.\nPhuket doesn't need a study. We need a flyover going past Thalang (for starters). We need a second north-south road which has been proposed (from way back) to run the route of the power pylons that bring electricity in from far away Nakhon Si Thammarat. The PM's visit this year and her poorly informed suggestion of travelling by sea omits the fact that we get hit with two monsoons here on the island, one big, and one small.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->waste materials",
+      "Environment->environmental pollution",
+      "Environment->sustainability",
+      "Social Issue->social problem",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kavi Chongkitthavorn",
+          "sentiment": "none"
+        },
+        {
+          "name": "Thaksin Shinawatara",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Chao Phraya",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T03:58:23.507+02:00",
+    "updated": "2025-03-06T03:58:23.507+02:00"
+  },
+  {
+    "uuid": "3a3bf808298a17ef1becde6409bfc110b950aed8",
+    "url": "https://www.president.gov.ua/en/news/zavzhdi-same-vid-voyiniv-pihotinciv-najbilshe-zalezhit-chiya-90717",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "creator",
+    "published": "2024-05-06T12:35:00Z",
+    "title": "It Is Always Primarily the Infantry Troops Who Determine Who Controls the Ground – On Infantry Day, the President Congratulated the Defenders Who Are the Backbone of the Ukrainian Army",
+    "text": "On Infantry Day, President Volodymyr Zelenskyy met with infantrymen, relatives of fallen Heroes and unit commanders, and presented state awards, battle flags and honorary awards.\nThe Head of State emphasized that infantrymen are the backbone of our army, the most numerous and determinative component of the Defense Forces of Ukraine, the foundation of the Armed Forces.\n“Our Ukrainian control is precisely where our infantry positions and the strength of our infantry troops – infantry, motorized infantry, mechanized, assault, mountain assault, and jaeger military units – are,” Volodymyr Zelenskyy said.\nOn behalf of all Ukrainians, the President thanked the infantry warriors for their strength, courage and resilience. He emphasized: we are all proud of the Ukrainian infantry.\n\"I thank all our warriors for the fact that Ukraine has managed to withstand this war and retains the ability to achieve its goals. And every Ukrainian – all our people – must always remember what our warriors are going through, how much pain and loss they are facing,\" Volodymyr Zelenskyy said.\nThe memory of the fallen defenders was honored with a moment of silence.\nThe Head of State handed the Order of the Golden Star to the families of the fallen Heroes of Ukraine. The following warriors were awarded the highest state award:\nJunior Sergeant Anton Kovalenko. In June 2023, the unit under his leadership cleared a platoon stronghold and took up a perimeter defense. Thanks to a radio station he found on the spot, he intercepted information about the plans and movements of the Russian occupiers and transmitted their coordinates. Anton Kovalenko was killed at a firing position. More than 30 dead Russian soldiers were found in front of it.\nSoldier Danylo Podybailo. He was a senior pilot of a UAV crew. His crew detected five self-propelled howitzers, two MT-12 Rapira anti-tank guns, a tripod-mounted automatic grenade launcher and two mortars. After adjusting the artillery fire, everything was destroyed. Danylo Podybailo was killed on June 1 last year as a shell directly hit his dugout.\nThree warriors were awarded the Presidential Cross of Military Merit:\nCaptain Roman Yeskov. During the battle, he pulled out a wounded brother-in-arms, provided assistance and organized evacuation. In October last year, the personnel under his leadership repelled enemy attacks, retained our positions, killed about 13 Russian soldiers and wounded 10 more.\nMajor Valeriy Lobov. In June last year, he personally led the company's personnel in an assault. He was wounded, but despite this, he organized the evacuation of one part of the unit and led the other to the enemy positions. After that, he lost consciousness. Valeriy Lobov was evacuated from the battlefield in serious condition. Two months later, he continued to perform combat missions near Robotyne, Zaporizhzhia region.\nJunior Sergeant Pavlo Svyrydiuk. He repeatedly covered the withdrawal of his brothers-in-arms from positions that were densely attacked by the Russian occupiers. This allowed them to regroup, take up defense in more favorable positions and stop the enemy. Using a drone, he detected enemy subversive reconnaissance groups and destroyed them with grenades.\nThe President also presented one serviceman with the Order of Bohdan Khmelnytsky of the second class, and three with the Order of Bohdan Khmelnytsky of the second class.\nThree warriors received the Order \"For Courage\" of the second class, and five received the Order \"For Courage\" of the third class.\nThe Head of State presented battle flags to the 22nd, 31st, 32nd and 65th separate mechanized brigades.\nThe 47th and 66th separate mechanized brigades were awarded the honorary award \"For Courage and Bravery.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "volodymyr zelenskyy",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "defense forces of ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "armed forces",
+          "sentiment": "none"
+        },
+        {
+          "name": "state",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T21:48:37.208+03:00",
+    "updated": "2024-05-06T21:48:37.208+03:00"
+  },
+  {
+    "uuid": "338088cfb976f92830ac0a526b355eaaec1896b3",
+    "url": "https://www.economiadigital.es/empresas/grifols-deuda-2024.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rut Font Camats",
+    "published": "2023-12-30T02:55:00Z",
+    "title": "Grifols se prepara para olvidarse de la deuda en 2024 tras cerrar la venta de Shanghai RAAS",
+    "text": "Grifols se prepara para olvidarse de la deuda en 2024 tras cerrar la venta de Shanghai RAAS\nLa empresa espera reducir su apalancamiento en el próximo ejercicio, con la mejora orgánica del negocio y los ingresos generados por desinversión en su filial china\nGrifols se prepara para dar carpetazo a la losa de la deuda en 2024. La farmacéutica ha dedicado buena parte de 2023 a sanear su pasivo, impulsando tanto un plan de recortes como la desinversión de activos, con la venta de un 20% de su filial china, Shanghai RAAS. Una vez ejecutadas estas medidas, la empresa se encuentra bien posicionadas para alcanzar sus objetivos de desapalancamiento en los próximos meses.\nTodo se remonta a la pandemia y a la ejecución de una gran inversión en un momento en que los resultados de la compañía no eran los mejores. Con las restricciones a la movilidad, las donaciones de plasma, la principal materia prima del grupo, cayeron en un 15% en 2020, disparando los costes operativos de Grifols y disminuyendo su ebitda en un 7,7% ese año.\nA los malos resultados generados por la crisis sanitaria, se suma la compra de la Biotest en abril de 2022 por 1.453 millones de euros. El objetivo de la operación era situar las ventas de la empresa en 7.000 millones de euros a partir de 2024, pero a corto plazo supuso disparar su deuda.\nSegún los resultados de junio de 2022, los datos posteriores a dicha compra, la deuda financiera neta de Grifols alcanzó los 8.994,1 millones de euros, mientras que la ratio de apalancamiento creció hasta un 9,0x a causa de la inversión y del impacto de la pandemia en el ebitda. A cierre de ese año, el pasivo creció hasta los 9.191 millones, mientras que la ratio de apalancamiento bajó hasta el 7,1x por la mejora orgánica del resultado.\nAun así, la farmacéutica no pudo frenar la sangría en bolsa. Justo antes de la pandemia, las acciones de la empresa tocaron techo, con un valor récord de 34,19 euros por título en febrero de 2020. Esta cantidad se desplomó progresivamente durante la epidemia hasta anotar un mínimo de 8,13 en octubre con 2022. Dicha evolución se llevó por delante al entonces presidente de la compañía, Víctor Grífols Deu, que dimitió en octubre de ese año y fue sustenido por Steven Mayer. Mayer fue el encargado de impulsar un plan de recortes para ahorrar gastos, que supuso el despido de 2.200 trabajadores en Estados Unidos y de 100 más en España, así como la optimización de su red de centros de plasma.\nAhorro de 450 millones en 2024\nCon este proceso, el objetivo de la Grifols era reducir los costes en 450 millones de euros en 2024 para facilitar el crecimiento del ebitda y contentar a los inversores. Mayer dimitió poco después por motivos personales, y fue sustituido por Thomas Glazzman, que también asumió el cargo de consejero delegado, relegando a los entonces CoCEOs, Víctor y Raimon Grifols, a director de operaciones y director general corporativo, respectivamente.\nGlazzman continuó con la ejecución del plan de su predecesor, mientras que empezó a estudiar en qué activos podían desinvertir para acelerar el saneamiento de la deuda. Tras meses de negociación, Grifols anunció el 29 de diciembre la venta de un 20% de Shanghai RAAS, su filial china, al grupo de la electrónica Haier por 1.630 millones de euros. En un inicio, se estimaba que la operación alcanzaría los 1.390 millones.\nLa cantidad integra de la venta se destinará a reducir el pasivo de la empresa. Si a cierre del tercer trimestre de 2023, los datos más recientes, la deuda financiera neta de la farmacéutica especializada en hemoderivados alcanzaba los 9.540 millones de euros, de un plumazo se restan estos 1.600 y queda en, aproximadamente, 7.910 millones, sin tener en cuenta otros ajustes.\nCon estas medidas, Grifols espera estabilizar su apalancamiento en una ratio de 4,0x a lo largo de 2024 y dejar atrás la crisis generada por la deuda. La empresa prevé que el 70% de este saneamiento provenga del plan de recortes y su consiguiente mejora orgánica del ebitda, que entre enero y setiembre de 2023 alcanzó los 1.028 millones de euros, un 15% más que en el mismo periodo de 2022. Gracias a esto, la ratio de apalancamiento a cierre de septiembre alcanzaba ya el 6,7x. El 30% restante de la reducción de la deuda provendrá de operaciones venta de activos, es decir, de la venta de Shanghai RAAS.\nDeja una respuesta\n[Cancelar la respuesta](/empresas/grifols-deuda-2024.html#respond) Acceda con su usuario para dejar un comentario o regístrese si aún no tiene cuenta.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T06:54:46.215+02:00",
+    "updated": "2023-12-30T06:54:46.215+02:00"
+  },
+  {
+    "uuid": "26c6917ce61ad34f193605c991031a7f9d655d41",
+    "url": "https://www.ilmattino.it/primopiano/esteri/putin_kiev_tenta_di_colpire_la_centrale_nucleare_di_kursk_nella_regione_133mila_sfollati-8311747.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Francesco Malfetano",
+    "published": "2024-08-23T00:00:00Z",
+    "title": "Putin: «Kiev tenta di colpire la centrale nucleare di Kursk». Nella regione 133mila sfollati",
+    "text": "Volodymyr Zelensky ne è sicuro. L’invasione nel Kursk, l’operazione che ha sorpreso non solo la Russia ma anche gli alleati di Kiev, deve continuare. «È il nostro modo sistemico di difendere l'Ucraina, il modo per porre fine a questa guerra alle condizioni di un'Ucraina indipendente» ha detto ieri il presidente. E per far capire ancora di più l’importanza di questa operazione, il capo dello Stato è voluto andare direttamente al confine, nella regione di Sumy. L’area da cui è partita un’incursione di cui ancora oggi gli analisti non riescono a decifrare tutti i dettagli e le implicazioni. [Putin accusa Ucraina: ha cercato colpire centrale nucleare Kursk](/video/mondo/putin_accusa_ucraina_ha_cercato_colpire_centrale_nucleare_kursk-8310336.html) Le incognite sono molte. Gli effetti sul conflitto, quantomeno a lungo termine, sono ancora difficili da valutare. Per il Cremlino e per le forze russe, il trauma del tutto evidente. Più di 133mila sfollati, un’intera regione messa a ferro e fuoco con ponti distrutti e villaggi conquistati. Una centrale nucleare, quella di Kursk, a rischio come lo era (ed è) quella di Zaporizhzhya. La Russia che subisce la prima invasione dalla Seconda guerra mondiale. Ma di fronte a questo scenario, Zelensky sa che deve fare i conti anche con l’altra faccia della medaglia: la situazione sul fronte del Donbass. Nel Donetsk, le forze armate russe proseguono nella loro avanzata verso Toretsk e Pokrovsk. Hanno conquistato un altro villaggio, Mezhevoye. E il timore è che la vendetta di Vladimir Putin per lo schiaffo di Kursk possa realizzarsi sotto una duplice forma. Premendo a est, e scatenando una pioggia di fuoco su tutto il Paese. L’AVVERTIMENTO DEGLI USA L'ambasciata degli Stati Uniti a Kiev ha avvertito che in questa settimana, in concomitanza con la Festa dell’Indipendenza ucraina, è possibile che vi sia un aumento di attacchi russi «con droni e missili, nella notte e durante il giorno». E non è un mistero che la difesa aerea sia uno dei punti deboli di Kiev. Gli analisti sanno che prima o poi il Cremlino lancerà un segnale più duro rispetto alle attuali operazioni di difesa. Perché il profilo basso mantenuto fino a questo momento da Putin non appare autentico. Ieri, il presidente ha riunito i governatori delle regioni di Belgorod, Bryansk e Kursk e ha puntato il dito contro il pericolo di un attacco alla centrale nucleare dell’oblast invaso. «Le forze armate ucraine hanno tentato di colpire la centrale nucleare di Kursk» ha detto il presidente russo, «e l’Agenzia internazionale per l’energia atomica ne è stata informata». Il pericolo è reale. Tanto che il direttore dell’Aiea, Rafael Grossi, dovrebbe visitare l’impianto già la prossima settimana e spera di parlare con Zelensky nel suo successivo viaggio a Kiev. Ma al netto dell’allarme atomico – incubo che da tempo coinvolge entrambi i Paesi in conflitto e che fa tremare tutta l’Europa – l’impressione è che lo “zar” abbia scelto di minimizzare la portata dell’invasione. E ha messo in moto la sua macchina propagandistica. Come scrive l’Institute for the study of war – think tank che segue da sempre l’evoluzione della guerra in Ucraina – le fonti del quotidiano indipendente Meduza hanno rivelato che il Cremlino starebbe cercando di far accettare all’opinione pubblica l’invasione. Una sorta di nuova normalità mentre si sottolineano le vittorie nel Donbass. E l’obiettivo finale di Putin sarebbe quello di prendere tempo, superare lo shock che ha colpito tutti gli apparati di Mosca, e poi ordinare il contrattacco per respingere le forze ucraine. LO SCENARIO Uno scenario che preoccupa soprattutto Zelensky, che proprio per evitare la trappola, continua a chiedere ai suoi alleati di revocare le restrizioni sull’uso di armi occidentali in territorio russo. L’idea è stata accolta anche dall'Alto rappresentante per la politica estera europea, Josep Borrell, che su X ha già detto che questa mossa «avrebbe diversi effetti importanti». Ma sul punto, l’Europa appare divisa. E ieri, dal Meeting di Rimini, il ministro degli Esteri Antonio Tajani è stato di nuovo chiaro: «Le nostre armi non possono essere usate in territorio russo e non invieremo militari a combattere in Ucraina».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T07:57:31.503+03:00",
+    "updated": "2024-08-23T21:19:49.513+03:00"
+  },
+  {
+    "uuid": "e08fb656ef0e5cc953340d54fa2b163b551d0336",
+    "url": "https://krishijagran.com/industry-news/aryaag-and-bill-melinda-gates-foundation-lead-charge-for-climate-resilient-agriculture-at-rith-summit-20",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KJ Staff",
+    "published": "2024-10-04T05:30:00Z",
+    "title": "Arya.ag and Bill & Melinda Gates Foundation Lead Charge for Climate-Resilient Agriculture at Rith Summit 2.0",
+    "text": "Arya.ag, India's largest integrated grain commerce platform, in strategic partnership with the Bill & Melinda Gates Foundation, successfully hosted the second edition of the Rith Summit on 3rd October 2024 at the India Habitat Centre in New Delhi. '[Rith Summit 2.0: Building Climate Resilience Together](/photo-gallery/rith-climate-summit-2024-igniting-the-ecosystem-for-climate-resilient-agriculture/)' brought together leading agribusinesses, technology providers, international experts, and development institutions to explore partnerships, programmes, and practical technologies that can enhance climate resilience within the agricultural sector. The summit provided a platform for experts to connect, share knowledge, and discover innovative solutions to help secure a sustainable future for farming communities. The summit commenced with a welcome note from Anand Chandra, Arya.ag's Co-Founder and Executive Director, who emphasised the importance of a market-led model that benefits every stakeholder to make agriculture climate-resilient. \"In our experience building India's largest and only profitable agritech company, we have learnt that it is impossible to make agriculture climate resilient unless we create a market-led model that benefits every stakeholder. This is also not possible unless all stakeholders come together and commit to doing their part in this direction, and that has been our philosophy behind Rith,\" Anand stated. Chattanathan Devarajan, Co-Founder of [Arya.ag](/topic/?id=Arya.Ag), shared the significant progress made on the actionable points from Rith 1.0, including establishing Public-Private Partnerships to reduce food loss, fostering multi-stakeholder collaborations for climate action, and developing a digital platform for sustainable sourcing. \"In the backdrop of Rith 1.0, we enabled Public-Private Partnership (PPP) models in collaboration with the state governments of Uttar Pradesh and Assam to contribute to climate action. These initiatives have reduced food loss by 7%, enabled the conservation of 12 million litres of water, and saved 48,000 kgs of fertilisers,\" he shared. Siddharth Chaturvedi from the Bill & Melinda Gates Foundation highlighted Arya's proactive approach to action, stating, \"Reflection and action are crucial, and gatherings like Rith are essential. Adaptation is constant and applies universally, especially in the context of climate change—it is at the core of Arya's ethos. The language of adaptation must shift from beneficiaries to encompass business people who are both producers and consumers.\" Raman Wadhwa, Director of DAY-NRLM at the Ministry of Rural Development, Government of India, emphasised the importance of collaboration in driving climate action. \"Collaboration is key to making our efforts more climate-resilient. No one can tackle this alone; we need multi stakeholder partnerships to drive climate action. The climate crisis is an urgent threat, and the economic cost will be enormous if we don't act. However, we can turn this challenge into an opportunity,\" he said. Sangeeta Dawar from [Bayer Crop Science](/industry-news/bayer-cropscience-limited-reports-q1-results-for-fy-2024-25/) stressed the need for substantial funding to drive large-scale market transformation. \"Climate change is one of the greatest challenges we all face today, and substantial funding is required to drive large-scale market transformation. According to a global survey of 2,000 farmers, 75% recognize the reality of climate change and agree that adaptation is necessary,\" she said. Subhadeep Sanyal from Omnivore highlighted the urgency of implementing new solutions in the agriculture sector. \"In agriculture, if we don't prioritise sustainability in relation to nature, it will directly impact our assets and, consequently, the market. Economic sustainability is a key factor for us when evaluating investments, with our focus being on increasing farmers' income and providing them better access to finance,\" he said. Prasanna Rao, CEO & Co-Founder of Arya.ag, discussed the evolving role of Farmer Producer Organisations (FPOs) and how Arya is committed to supporting their transformation into Smart Institutions that leverage technology to improve efficiency and promote sustainable farming practices. \"We believe FPCs can evolve into Smart Institutions, which leverage technology to improve efficiency in input sales and output procurement and offer a diverse range of services. Smart FPCs will also play a crucial role in building climate-resilient value chains by promoting [sustainable farming](/sustainable-agriculture/) practices and through corporate collaborations to support sustainable sourcing of produce,\" Prasanna explained. The summit featured three insightful panel discussions, covering topics such as bridging corporate objectives with practical realities, key learnings from early adopters of sustainable practices, and maximising impact through technical assistance. The panels were moderated by esteemed industry leaders and featured panellists from renowned organisations, including Khedut, Bayer, Olam, LD, BMGF, IDH, UNDP India, Rainmatter Foundation, IFC, Omnivore, responsAbility, Rabo Foundation, and Tata Trusts. \"Climate change poses significant challenges to the agricultural sector, and it is crucial that we come together to find practical solutions that can help build resilience in farming communities,\" said Prasanna Rao at Arya.ag. \"Rith Summit 2.0 aimed to facilitate collaborations and knowledge sharing that can lead to the development and adoption of innovative technologies and practices for sustainable agriculture.\" Rith Summit 2.0 attracted participation from key stakeholders in the agricultural sector, including farmers, agribusinesses, policymakers, researchers, and development organisations. The summit generated actionable insights and forged partnerships that can drive positive change in the face of climate challenges.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "e08fb656ef0e5cc953340d54fa2b163b551d0336",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-04T08:42:53.077+03:00",
+    "updated": "2024-10-05T01:30:43.114+03:00"
+  },
+  {
+    "uuid": "5b7494730d25f42609679ff712aa68508d438362",
+    "url": "https://finance.sina.com.cn/jjxw/2025-04-17/doc-inetmkha6203900.shtml",
+    "ord_in_thread": 0,
+    "author": "sina.com.cn",
+    "published": "2025-04-16T22:01:00Z",
+    "title": "张湾乡全力推进国家安全教育_新浪财经_新浪网",
+    "text": "本报讯 （彭献根） 近日，东海县张湾乡组织开展“4·15全民国家安全教育日”宣传活动，扎实推动国家安全教育，营造全民共筑国家安全防线的良好氛围。\n张湾乡紧密结合农村实际，充分发挥乡村网格员、驻村干部、人大代表和政协委员作用，组织他们进村入户，开展形式多样、内容丰富的维护国家安全主题活动。该乡还通过举办国家安全知识讲座，现场解答群众咨询，分发宣传资料等多种形式，向辖区居民普及国家安全法律法规。在活动中，工作人员耐心细致地向群众讲解国家安全的重要性，引导大家树立“国家安全，人人有责”的意识，不断提高群众维护国家安全的责任感和法治意识。下一步，张湾乡将持续加强普法宣传，不断创新普法方式、丰富普法载体，积极探索普法宣传新路径，通过线上线下相结合的方式拓宽宣传渠道、提高宣传覆盖面，着力构建全方位、多层次的普法宣传新格局。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Social Issue->communities",
+      "Social Issue->demographics",
+      "Social Issue->social services",
+      "Politics->education policy",
+      "Politics->civil rights",
+      "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:11:44.567+03:00",
+    "updated": "2025-04-17T01:11:44.567+03:00"
+  }
+]

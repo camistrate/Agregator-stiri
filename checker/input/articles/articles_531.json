@@ -1,0 +1,398 @@
+[
+  {
+    "uuid": "b2735f9f9600a7e960c73c1d1fe8ae36f7bec3fa",
+    "url": "https://cybersecuritynews.com/vextrio-hackers-attacking-users-via-fake-captcha-robots/",
+    "ord_in_thread": 0,
+    "author": "Tushar Subhra Dutta",
+    "published": "2025-08-14T05:35:00Z",
+    "title": "VexTrio Hackers Attacking Users via Fake CAPTCHA Robots and Malicious Apps into Google Play and App Store",
+    "text": "A sophisticated cybercriminal organization known as VexTrio has been orchestrating a massive fraud empire through deceptive CAPTCHA robots and malicious applications distributed across Google Play and the App Store.\nThis criminal network, operating for over 15 years, has successfully infiltrated legitimate app stores with fraudulent software that has collectively garnered over one million downloads, while simultaneously conducting extensive spam campaigns targeting millions of users worldwide.\nThe threat actors behind VexTrio employ a multi-pronged attack strategy that combines fake CAPTCHA verification systems with malicious mobile applications to harvest user data and generate revenue through subscription fraud.\nTheir infamous robot CAPTCHA prompts users with messages like “PRESS THE ‘ALLOW’ BUTTON TO VERIFY YOU’RE HUMAN!” which serves as a gateway to their broader criminal ecosystem.\nThis deceptive interface has become synonymous with VexTrio operations and has been documented in numerous security reports over the years.\nVexTrio’s operations extend far beyond simple spam, encompassing a comprehensive traffic distribution system (TDS) that delivers fraudulent content across multiple verticals including dating, cryptocurrency, and sweepstakes scams.\nScam landing pages (Source – Infoblox) Infoblox analysts identified that the organization controls the majority of landing pages delivered through their smartlinks, benefiting doubly from their affiliate network operations.\nThe group’s infrastructure reveals a complex web of shell companies and technical partnerships that blur the lines between legitimate business and cybercrime.\nThe criminal organization has developed an extensive portfolio of malicious applications masquerading as legitimate services.\nTheir app catalog includes fake VPNs, device monitoring tools, spam blockers, and dating applications published under various developer names including HolaCode, LocoMind, Hugmi, Klover Group, and AlphaScale Media.\nGoogle Play page for the Spam Shield app listed as developed by HolaCode in December 2024 and ApLabz in early 2025 (Source – Infoblox) These applications employ sophisticated social engineering techniques to extract subscription fees from unsuspecting users while bombarding them with intrusive advertisements.\nInfection Mechanism and Persistence Tactics VexTrio’s mobile applications utilize a carefully orchestrated infection chain that begins with seemingly legitimate functionality before transitioning to malicious behavior.\nTheir spam blocker application, Spam Shield, exemplifies this approach by initially providing basic notification blocking services while displaying fabricated security reports.\nThe application presents users with fake monitoring interfaces showing blocked spam and malicious notifications, creating an illusion of protection that justifies subscription fees.\nThe technical implementation reveals DNS records linking malicious applications to VexTrio’s infrastructure.\nDNS analysis shows that IP address 136.243.216.249 simultaneously hosts HolaCode, AdsPro Digital, Los Pollos, and multiple scam applications, demonstrating the interconnected nature of their operations.\nThe applications employ residential proxy networks disguised as VPN services, raising significant privacy concerns as user traffic becomes part of their proxy infrastructure.\nVexTrio’s persistence strategy extends beyond individual applications to encompass an entire ecosystem of fraudulent services.\nTheir email marketing operations utilize lookalike domains of established services such as SendGrid and MailGun, with domains like sendgrid.rest and mailgun.fun configured with specific SPF records that authorize mail servers at IP address 78.47.103.187.\nThis infrastructure supports massive spam campaigns that feed victims into their application ecosystem, creating a self-reinforcing cycle of fraud that has enabled the organization to operate with impunity for over a decade while generating substantial criminal profits through subscription scams and data harvesting.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->social networking",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+      "https://blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams/",
+      "https://intelligence.any.run/plans/",
+      "https://blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams",
+      "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+      "https://www.blogs.infoblox.com/threat-intelligence/vextrio-unmasked-a-legacy-of-spam-and-homegrown-scams/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "b2735f9f9600a7e960c73c1d1fe8ae36f7bec3fa",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T09:14:25.123+03:00",
+    "updated": "2025-08-14T09:32:01.103+03:00"
+  },
+  {
+    "uuid": "f1679175a094721405e953d7079523a6b3535cbf",
+    "url": "https://www.dailymail.co.uk/news/article-12908165/storm-gerrit-tornado-brits-expert.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Tozer",
+    "published": "2023-12-28T22:37:00Z",
+    "title": "Storm Gerrit: Brits are more likely to experience tornados than Americans, expert says after one rips through Tameside | Daily Mail Online",
+    "text": "While the devastating power of a big tornado is more commonly associated with the wide open plains of the central US, in reality you are more likely to experience one in this country. The UK is struck by about 2.3 tornadoes per year for every 10,000 square kilometres, according to research - a higher density than the US, which as a whole has just 1.3 per 10,000 square km. Typically they are much smaller, fortunately - a small tornado which swept through Littlehampton in October smashed walls, moved parked cars and left one person hurt. In July 2005, a large tornado in Birmingham caused £40million in damages and injured 39. There have even been fatalities in the past - a strong tornado in South Wales in 1913 killed three. While the devastating power of a big tornado is more commonly associated with the wide open plains of the central US, in reality you are more likely to experience one in this country (pictured: Tameside) The UK is struck by about 2.3 tornadoes per year for every 10,000 square kilometres, according to research - a higher density than the US, which as a whole has just 1.3 per 10,000 square km (pictured: Tameside) A missing roof exposed a home's bedroom in the aftermath of a tornado, after a monster storm system tore through the South and Midwest in April 2023 According to David Schultz, Professor of Synoptic Meteorology at the University of Manchester, the likelihood of being in the path of one is highest in the American states in 'Tornado Alley', such as Oklahoma (3.6 per 10,000 square km) or Kansas (11.2) (pictured: Tameside) But he says a random location in the UK is more likely to experience a tornado than a random location in the US (pictured: Tameside) In some cases they occur in 'outbreaks' - such as November 23 1981, which produced 104 tornado reports from Anglesey to Norwich. According to David Schultz, Professor of Synoptic Meteorology at the University of Manchester, the likelihood of being in the path of one is highest in the American states in 'Tornado Alley', such as Oklahoma (3.6 per 10,000 square km) or Kansas (11.2). But he says a random location in the UK is more likely to experience a tornado than a random location in the US. Prof Schultz said more research is needed on the causes of British tornados, which he says may be under-reported as they cannot be detected by weather satellites.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "littlehampton",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        },
+        {
+          "name": "south wales",
+          "sentiment": "none"
+        },
+        {
+          "name": "birmingham",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:41:13.292+02:00",
+    "updated": "2023-12-29T01:01:45.606+02:00"
+  },
+  {
+    "uuid": "26fafc07155e9faa24e503aeff41594fa615fc0b",
+    "url": "https://kdhnews.com/news/politics/maga-influencers-call-for-boycott-of-dunkin-donuts/article_d7ea2df8-50a7-5eff-8020-826e5956018a.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brian Niemietz - New York Daily News (TNS)",
+    "published": "2024-08-08T21:10:00Z",
+    "title": "MAGA influencers call for boycott of Dunkin’ Donuts | Politics | kdhnews.com",
+    "text": "Dunkin’ Donuts is facing a boycott from prominent MAGA figures after Rumble’s CEO claimed the chain won’t advertise on his video sharing platform due to divisive right-wing content.\nThe grumbling began Wednesday when Rumble CEO Chris Pavlovski posted what appeared to be a snippet of an email from Dunkin’s parent company, Inspire Brands.\n“I would be opposed to showing up on the current version of the platform,” the email read. “The right wing culture of the site is too polarizing from a brand sustainability standpoint today.”\nThe sender added that Inspire Brands would be open to revisiting the matter as “the site evolves.”\nRumble hosts programming from controversial right-wing fabulists including Alex Jones, Nick Fuentes and Tucker Carlson .\nSocial media MAGA influencer Catturd expressed outrage over Dunkin’s choice on X — another online platform struggling to attract advertisers because of its far right-wing content.\n“So, companies like POS @dunkindonuts are boycotting Rumble, and X, unless they drop all the truth tellers,” the online personality wrote Wednesday night to his 2.7 million followers. “I’m calling on everyone to BudLight @dunkindonuts.”\nBud Light took a financial blow in 2023 after it launched a promotion featuring transgender influencer Dylan Mulvaney . The campaign offended MAGA loyalists including musician Kid Rock, who filmed himself shooting at several cases of beer .\nRight-wing pundit Steven Crowder, who has 2.2 million followers on X, praised Pavlovski’s decision to target potential advertisers that choose to avoid content they find objectionable. He also encouraged his supporters to exercise their freedom to boycott such companies.\n“This is the power that YOU have,” he wrote on the platform Thursday. “When you don’t Kowtow to the woke mob, you win.”\nCrowder was one of several activists who celebrated Wednesday’s New York Times report that the Global Alliance for Responsible Media — an organization being sued by Rumble and X — was suspending operations amid antitrust allegations. The nonprofit group said it can’t afford to fight back.\nInspire Brands, which also operates Arby’s, Baskin Robbins and Buffalo Wild Wings , hasn’t responded to a request for comment.\n©2024 New York Daily News. Visit nydailynews.com . Distributed by Tribune Content Agency, LLC.\nCopyright 2024 Tribune Content Agency.\nLove 0 Funny 0 Wow 0 Sad 0 Angry 0",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/catturd2",
+      "https://www.nydailynews.com/",
+      "https://www.nydailynews.com/2021/11/03/tucker-carlson-and-fox-news-step-up-efforts-to-sell-jan-6-revisionism-streaming-service/",
+      "https://www.nydailynews.com/2023/12/07/elon-musk-bob-iger-fired-disney-x-ads/",
+      "https://www.nydailynews.com/2023/06/30/dylan-mulvaney-says-bud-light-abandoned-her-amid-backlash-despite-unimaginable-bullying/",
+      "https://www.newsweek.com/dunkin-donuts-faces-maga-boycott-bud-light-treatment-1936282",
+      "https://wfanet.org/leadership/garm/about-garm",
+      "https://www.nytimes.com/2024/08/08/technology/elon-musk-x-advertisers-boycott.html",
+      "https://x.com/catturd2/status/1821326146140537005",
+      "https://x.com/scrowder/status/1821588282192314736",
+      "https://www.tribunecontentagency.com",
+      "https://x.com/chrispavlovski",
+      "https://inspirebrands.com/",
+      "https://www.nydailynews.com/2023/12/10/alex-jones-twitter-account-elon-musk/",
+      "https://x.com/chrispavlovski/status/1821394843018392044/photo/1",
+      "https://www.nydailynews.com/2023/12/13/kid-rock-ends-bud-light-boycott-over-dylan-mulvaney/",
+      "https://www.inspirebrands.com/",
+      "https://nytimes.com/2024/08/08/technology/elon-musk-x-advertisers-boycott.html",
+      "https://newsweek.com/dunkin-donuts-faces-maga-boycott-bud-light-treatment-1936282",
+      "https://www.nydailynews.com/2023/12/13/kid-rock-ends-bud-light-boycott-over-dylan-mulvaney",
+      "https://www.nydailynews.com/2021/11/03/tucker-carlson-and-fox-news-step-up-efforts-to-sell-jan-6-revisionism-streaming-service",
+      "https://www.x.com/chrispavlovski/status/1821394843018392044/photo/1",
+      "https://nydailynews.com/",
+      "https://www.nydailynews.com",
+      "https://www.x.com/chrispavlovski",
+      "https://tribunecontentagency.com",
+      "https://www.x.com/catturd2",
+      "https://www.nydailynews.com/2023/06/30/dylan-mulvaney-says-bud-light-abandoned-her-amid-backlash-despite-unimaginable-bullying",
+      "https://nydailynews.com/2021/11/03/tucker-carlson-and-fox-news-step-up-efforts-to-sell-jan-6-revisionism-streaming-service/",
+      "https://www.x.com/scrowder/status/1821588282192314736",
+      "https://inspirebrands.com",
+      "https://nydailynews.com/2023/12/13/kid-rock-ends-bud-light-boycott-over-dylan-mulvaney/",
+      "https://nydailynews.com/2023/06/30/dylan-mulvaney-says-bud-light-abandoned-her-amid-backlash-despite-unimaginable-bullying/",
+      "https://www.x.com/catturd2/status/1821326146140537005",
+      "https://www.nydailynews.com/2023/12/10/alex-jones-twitter-account-elon-musk",
+      "https://nydailynews.com/2023/12/10/alex-jones-twitter-account-elon-musk/",
+      "https://www.nydailynews.com/2023/12/07/elon-musk-bob-iger-fired-disney-x-ads",
+      "https://nydailynews.com/2023/12/07/elon-musk-bob-iger-fired-disney-x-ads/",
+      "https://www.wfanet.org/leadership/garm/about-garm"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chris pavlovski",
+          "sentiment": "none"
+        },
+        {
+          "name": "catturd",
+          "sentiment": "none"
+        },
+        {
+          "name": "tucker carlson",
+          "sentiment": "none"
+        },
+        {
+          "name": "alex jones",
+          "sentiment": "none"
+        },
+        {
+          "name": "dunkin",
+          "sentiment": "none"
+        },
+        {
+          "name": "nick fuentes",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maga",
+          "sentiment": "negative"
+        },
+        {
+          "name": "inspire brands",
+          "sentiment": "none"
+        },
+        {
+          "name": "dunkin",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:36:14.418+03:00",
+    "updated": "2024-08-09T00:36:14.418+03:00"
+  },
+  {
+    "uuid": "fcea99a3d193ef6f31d2d74443efe2c007762ccd",
+    "url": "https://www.gurufocus.com/news/2785295/ashford-hospitality-trust-announces-preliminary-first-quarter-2025-results-aht-stock-news",
+    "ord_in_thread": 0,
+    "author": "@gurufocus",
+    "published": "2025-04-16T21:41:22Z",
+    "title": "ASHFORD HOSPITALITY TRUST ANNOUNCES PRELIMINARY FIRST QUARTER 2025 RESULTS | AHT Stock News",
+    "text": "- RevPAR increased by 3.2% year-over-year in Q1 2025.\n- Consistent monthly RevPAR growth throughout Q1 2025.\n- Strong occupancy rate of 68% achieved.\nAshford Hospitality Trust (AHT, Financial), a real estate investment trust focusing on upper-upscale, full-service hotels, has released its preliminary results for the first quarter of 2025. The company reported a notable 3.2% year-over-year increase in Revenue Per Available Room (RevPAR), reaching approximately $133.\nOccupancy for the quarter was approximately 68%, with an Average Daily Rate (ADR) of $196. The company attributed its operational success to the ongoing benefits from its GRO AHT initiative, which has positively impacted both top and bottom lines.\nMonthly analysis of RevPAR revealed a progressive growth of 3.8% in January, 4.3% in February, but a slowdown to 1.9% in March. Despite this deceleration, Ashford Trust's management remains optimistic about maintaining focus on revenue maximization and expense minimization.\nAdditionally, Ashford Trust has made strides in extending and refinancing loans, an important strategic move given the current interest rate environment. However, the company has yet to disclose specific financial metrics such as actual revenue, EBITDA, or funds from operations, which are crucial for a leveraged hospitality REIT.\nAs the company navigates industry uncertainties, these developments suggest a cautious yet forward-thinking approach to sustaining growth in the dynamic upper-upscale segment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->business reporting and performance",
+      "Politics->regulation of industry",
+      "Social Issue->communities",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:41:22.760+03:00",
+    "updated": "2025-04-17T00:41:22.760+03:00"
+  },
+  {
+    "uuid": "a189b31da88232f8763c66ea81753bffe9482966",
+    "url": "https://www.yenisafak.com/en/news/israeli-army-retrieves-bodies-of-2-captives-from-gaza-3703323",
+    "ord_in_thread": 0,
+    "author": "Net Yayıncılık Sanayi ve Ticaret A.Ş.",
+    "published": "2025-06-12T06:46:00Z",
+    "title": "Israeli army retrieves bodies of 2 captives from Gaza | News",
+    "text": "Army identifies one of the captives as Yair Yaakov The Israeli army announced Wednesday that it has retrieved the bodies of two captives from the Gaza Strip.\n“The Israeli army and Shin Bet (internal security agency) rescued the bodies of kidnapped Yair Yaakov and another hostage whose name has not yet been cleared for publication from Khan Younis,” it said in a statement\nIsrael estimates that 54 hostages remain in Gaza, including 20 believed to be alive. Meanwhile, more than 10,100 Palestinians are being held in Israeli prisons under harsh conditions, with reports of torture, starvation and medical neglect, according to Palestinian and Israeli rights groups.\nIsrael, rejecting international calls for a ceasefire, has pursued a genocidal offensive in Gaza since October 2023, killing over 55,000 Palestinians, most of them women and children. Aid agencies have warned about the risk of famine among the enclave's more than 2 million inhabitants.\nLast November, the International Criminal Court issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu and his former Defense Minister Yoav Gallant for war crimes and crimes against humanity in Gaza.\nIsrael also faces a genocide case at the International Court of Justice for its war crimes against civilians in the enclave.\n# Israeli hostages in Gaza Strip # genocide # Gaza July 15 Sports Economy Columns Ramadan Election",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->missing in action",
+      "Politics->human rights",
+      "Politics->international relations",
+      "Politics->political crisis",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Yair Yaakov",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Gaza Strip",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "International Criminal Court",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_tr",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:20:56.886+03:00",
+    "updated": "2025-06-13T08:04:19.000+00:00"
+  },
+  {
+    "uuid": "4364e8e8cfc3cbaac071cc837632254a7f75d748",
+    "url": "https://noticias.r7.com/cidades/fortes-chuvas-atingem-rio-grande-do-sul-na-ultima-sexta-do-ano-29122023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "R7.com",
+    "published": "2023-12-29T00:00:00Z",
+    "title": "Fortes chuvas atingem o Rio Grande do Sul e deixam moradores sem energia - Notícias - R7 Cidades",
+    "text": "Chuva afetou diversos municípiosReprodução/ Defesa Civil RS O Rio Grande do Sul amanheceu nesta sexta-feira (29), a última de 2023, com um forte temporal, que causou estragos na região metropolitana de Porto Alegre e em diversos municípios do interior do estado. Segundo a empresa RGE Energia, que distribui energia à maior parte do estado, ao menos 203 mil clientes estão sem luz, principalmente nas regiões norte e das Missões. A principal causa, segundo a distribuidora, é a queda de galhos e árvores sobre a rede elétrica. “As equipes da RGE estão totalmente mobilizadas para restabelecer o fornecimento de energia”, disse a empresa, em nota. • Clique aqui e receba as notícias do R7 no seu WhatsApp • Compartilhe esta notícia no WhatsApp • Compartilhe esta notícia no Telegram • Assine a newsletter R7 em Ponto Desde o início da manhã, a Defesa Civil do Rio Grande do Sul emitiu dois alertas em razão da situação meteorológica. No primeiro alerta, publicado às 6h54 e válido até as 18h, o órgão ressaltou a possibilidade de “alagamentos pontuais, cheias em arroios e inundações em córregos e regiões ribeirinhas” na parte centro-sul do estado, incluindo a capital, Porto Alegre. O segundo alerta, publicado às 10h23 e válido até as 15h, avisa a respeito de “chuvas e ventos pontualmente fortes, descargas elétricas e eventual queda de granizo” na região norte do Rio Grande do Sul. Há relatos de queda de árvores e queda de energia em ao menos dez municípios: Cândido Godói, Cerro Largo, Giruá, Horizontina, Santa Rosa, Santo Cristo, São Luiz Gonzaga, São Nicolau, Tucunduva e Ubiratema, onde o telhado de uma quadra esportiva chegou a desabar — mas sem relatos de feridos. De acordo com o Inmet (Instituto Nacional de Meteorologia), o tempo deve continuar instável no Rio Grande do Sul, com fortes pancadas de chuva e possíveis trovoadas, até o fim desta sexta-feira. O órgão emitiu um alerta laranja de perigo meteorológico, válido até as 17h desta sexta, que informa sobre chuva entre 30 mm/h e 60 mm/h, ou 50 mm/dia e 100 mm/dia, com ventos intensos, entre 60 km/h e 100 km/h, e queda de granizo. Há risco de corte de energia elétrica, estragos em plantações, quedas de árvores e alagamentos, segundo o Inmet. No sábado (30), o tempo deve voltar a abrir, embora ainda com nebulosidade. A previsão para a virada do ano é de sol com muitas nuvens e ventos fracos. Planeta em chamas: relembre os recordes de temperatura de 2023 - A OMM (Organização Meteorológica Mundial) publicou, no último dia 30, a versão provisória do Estado Global do Clima 2023 . O documento, feito com o apoio do Inmet (Instituto Nacional de Meteorologia), classificou o ano de 2023 como o mais quente em 174 anos de medições meteorológicas. O Brasil teve nove ondas de calor e bateu vários recordes de temperatura - A cidade de Araçuaí, no vale do Jequitinhonha, em Minas Gerais, bateu o recorde de dia mais quente da história em 19 de novembro. De acordo com o Inmet, a temperatura máxima da cidade chegou aos 44,8ºC. Com isso, o município passou a cidade de Bom Jesus, no Piauí, que era a detentora do primeiro lugar desde novembro de 2005 — quando os termômetros registraram 44,7ºC - O segundo lugar de 2023 também ficou no estado de Minas Gerais. A cidade de São Romão registrou a máxima de 43,4°C no feriado da Proclamação da República, em 15 de novembro — quando o país passou pela pior onda de calor do ano. O município de Porto Murtinho, em Mato Grosso do Sul, teve a mesma temperatura no dia 16 de novembro e ficou em terceiro lugar. A quarta posição ficou com Corumbá, também em Mato Grosso do Sul, onde foi registrada a máxima de 43,3°C em 14 de novembro - A cidade de São Paulo também bateu recordes de temperatura em 2023. Segundo o CGE (Centro de Gerenciamento de Emergências Climáticas), no dia 13 de novembro, a média chegou aos 37,8°C — o maior valor já registrado para o mês de novembro desde o início das medições do órgão, em 2004. O recorde anterior era de 36,9°C, aferido em 12 de novembro . A maior máxima absoluta (aquela registrada em um único local) ocorreu no bairro da Vila Mariana, na zona sul, com 39,5°C. Essa também é a maior marca absoluta de todo o mês de novembro - O Rio de Janeiro bateu o recorde de maior sensação térmica já registrada pelo Sistema Alerta Rio desde o início da medição, em 2014. No dia 17 de novembro, o órgão marcou 59,3°C em Guaratiba, na zona oeste da cidade. Essa foi a segunda vez na mesma semana que o município atingiu a maior sensação térmica da série histórica. A primeira foi no dia 14, quando a sensação térmica chegou aos 58,5°C",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [
+      "https://whatsapp.com/channel/0029Va6eEELGZNCyryabmO1m",
+      "https://api.whatsapp.com/send?text=https%3A%2F%2Fnoticias.r7.com%2Fcidades%2Ffortes-chuvas-atingem-rio-grande-do-sul-na-ultima-sexta-do-ano-29122023%3Futm_source%3Dwhatsapp%26utm_medium%3DCTA_compartilhe%26utm_campaign%3Dcompartilhe_whatsapp",
+      "https://telegram.me/share/url?url=https%3A%2F%2Fnoticias.r7.com%2Fcidades%2Ffortes-chuvas-atingem-rio-grande-do-sul-na-ultima-sexta-do-ano-29122023%3Futm_source%3Dtelegram%26utm_medium%3DCTA_compartilhe%26utm_campaign%3Dcompartilhe_telegram",
+      "https://api.whatsapp.com/send",
+      "https://www.telegram.me/share/url?url=https%3A%2F%2Fnoticias.r7.com%2Fcidades%2Ffortes-chuvas-atingem-rio-grande-do-sul-na-ultima-sexta-do-ano-29122023%3Futm_source%3Dtelegram%26utm_medium%3DCTA_compartilhe%26utm_campaign%3Dcompartilhe_telegram",
+      "https://www.api.whatsapp.com/send?text=https%3A%2F%2Fnoticias.r7.com%2Fcidades%2Ffortes-chuvas-atingem-rio-grande-do-sul-na-ultima-sexta-do-ano-29122023%3Futm_source%3Dwhatsapp%26utm_medium%3DCTA_compartilhe%26utm_campaign%3Dcompartilhe_whatsapp",
+      "https://www.whatsapp.com/channel/0029Va6eEELGZNCyryabmO1m",
+      "https://telegram.me/share/url"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:32:11.334+02:00",
+    "updated": "2024-01-06T00:11:11.550+02:00"
+  }
+]

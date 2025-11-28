@@ -1,0 +1,464 @@
+[
+  {
+    "uuid": "1b232c8ebd9ea984d20a127346225f7bc9e0c35b",
+    "url": "https://www.newsbreak.com/news/3975838882633-sullivan-family-continues-fight-to-end-cte",
+    "ord_in_thread": 0,
+    "author": "wbrc.com",
+    "published": "2025-04-23T21:36:00Z",
+    "title": "Sullivan family continues fight to end CTE - NewsBreak",
+    "text": "Sullivan family continues fight to end CTE - NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->medical condition",
+      "Social Issue->social services",
+      "Social Issue->social problem",
+      "Social Issue->family",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Sullivan",
+          "sentiment": "positive"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T01:33:28.328+03:00",
+    "updated": "2025-04-24T01:33:28.328+03:00"
+  },
+  {
+    "uuid": "002c7115e8e9455c97e39abd59dabf7b5d4e86a8",
+    "url": "https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Acn",
+    "published": "2024-08-02T10:40:00Z",
+    "title": "Catalunya registra 73 morts atribuïbles a les altes temperatures durant el juliol",
+    "text": "Catalunya ha registrat 73 morts atribuïbles a les altes temperatures aquest juliol , segons dades del sistema de monitorització de la mortalitat diària per totes les causes ( MoMo ) de l' Institut Carlos III . Si ens fixem en les dades del global de l'any, des del mes de gener hi ha hagut 219 defuncions per aquestes mateixes causes.\nEl sistema recull dades des del 2020 i des de llavors s'ha comptabilitzat a Catalunya un excés de 19.745 defuncions per totes les causes i 1.655 morts atribuïbles a les temperatures. Prenent com a referència només aquestes últimes, el 2020 van ser 42, el 2021 100, el 2022 711 i el 2023 583.\nSegons consta a l'informe del MoMo d'aquest dijous, a Catalunya al gener hi va haver 141 morts atribuïbles a les temperatures. Les altres es distribueixen amb tres al març, una a l'abril i 73 al juliol.\nEls tres últims dies de juliol van ser els més càlids de com a mínim els darrers 20 anys Públic Les dades a l'Estat A l' Estat espanyol han estat 771 les defuncions atribuïbles a les temperatures al juliol i 1.758 en el conjunt de l'any. El 2020 hi va haver 2.152 morts per aquest motiu i des de llavors han pujat cada any: 3.550 el 2021, 5.876 el 2022 i 7.780 el 2023. Aquest any, el mes amb més defuncions ha estat juliol, tot i que al gener n'hi va haver 719. Al juny van ser 32, al maig 11, a l'abril 45, al març 82 i al febrer 98.\n¿Te ha resultado interesante esta noticia?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "catalan",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Health",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://telegram.me/share/url?url=https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dweb&via=publico_es&text=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol",
+      "https://www.isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb",
+      "https://twitter.com/intent/tweet?url=https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&text=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol&via=publico_es",
+      "https://www.meneame.net/submit?url=https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dmeneame%26utm_medium%3Dsocial%26utm_campaign%3Dweb",
+      "https://share.flipboard.com/bookmarklet/popout?v=2&title=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol&url=https://www.publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dweb",
+      "https://share.flipboard.com/bookmarklet/popout",
+      "https://telegram.me/share/url",
+      "https://meneame.net/submit?url=https://publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dmeneame%26utm_medium%3Dsocial%26utm_campaign%3Dweb",
+      "https://www.meneame.net/submit",
+      "https://isciii.es/QueHacemos/Servicios/VigilanciaSaludPublicaRENAVE/EnfermedadesTransmisibles/MoMo/Paginas/MoMo.aspx",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://telegram.me/share/url?url=https://publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dtelegram%26utm_medium%3Dsocial%26utm_campaign%3Dweb&via=publico_es&text=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol",
+      "https://share.flipboard.com/bookmarklet/popout?v=2&title=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol&url=https://publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dflipboard%26utm_medium%3Dsocial%26utm_campaign%3Dweb",
+      "https://twitter.com/intent/tweet?url=https://publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dtwitter%26utm_medium%3Dsocial%26utm_campaign%3Dweb&text=Catalunya%20registra%2073%20morts%20atribu%C3%AFbles%20a%20les%20altes%20temperatures%20durant%20el%20juliol&via=publico_es",
+      "https://twitter.com/intent/tweet",
+      "https://facebook.com/sharer/sharer.php?u=https://publico.es/public/catalunya-registra-73-morts-atribuibles-les-altes-temperatures-durant-juliol.html%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dweb"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T14:09:44.914+03:00",
+    "updated": "2024-08-02T17:53:04.452+03:00"
+  },
+  {
+    "uuid": "485353d2134d425ce9db850e98874209637a74f0",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3929411.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "红利ETF基金（159581）跌0.88%，半日成交额2414.50万元|基金_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，红利ETF基金（159581）跌0.88%，报1.015元，成交额2414.50万元。红利ETF基金（159581）重仓股方面， 中远海控 截止午盘跌1.59%， 冀中能源 跌1.74%， 海澜之家 跌2.82%， 宁波华翔 涨0.19%， 山煤国际 跌1.03%， 唐山港 涨0.25%， 重庆百货 跌1.22%， 成都银行 跌0.64%， 山西焦煤 跌2.32%， 中谷物流 跌0.84%。\n红利ETF基金（159581）业绩比较基准为 收益率，管理人为万家基金管理有限公司，基金经理为杨坤，成立（2024-03-06）以来回报为7.31%，近一个月回报为0.63%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->debt market"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:09.115+03:00",
+    "updated": "2025-06-20T05:11:06.000+00:00"
+  },
+  {
+    "uuid": "e91020ce8e19461debd039cc50a0b8500d84b77c",
+    "url": "https://www.lavanguardia.com/andro4all/ofertas/174-euros-menos-uno-de-los-mejores-samsung-galaxy-que-existen-cae-en-picado",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Miguel Paredes",
+    "published": "2024-04-25T18:31:00Z",
+    "title": "174 euros menos: uno de los mejores Samsung Galaxy que existen cae en picado",
+    "text": "Queremos recomendarte un Samsung Galaxy, uno de los mejores terminales presentados por la firma coreana durante los últimos meses. El Samsung Galaxy S24 cae en picado, está a tu alcance con 174 euros de descuento en su versión más completa. Le que acompañan unos geniales 8 GB de memoria RAM y 256 GB de almacenamiento, no echarás nada en falta. Pero atento, que lo tentador no termina ahí. Por si no fuera suficiente, aquellos que pertenezcan a Amazon Prime no tendrán que pagar nada por el envío. Recibirás en la puerta de tu casa todo un gama alta capaz de competir con los mejores del panorama. No es solo una cara bonita, exígele el máximo y vuela cada día. Ver en Amazon.es: Samsung Galaxy S24 Compra el móvil de Samsung con descuento La pantalla de este Galaxy no te defraudará, llega con una diagonal de 6,2 pulgadas, tecnología AMOLED, resolución Full HD+ y 120 Hz de refresco. Es, sencillamente, una de las mejores que se pueden ver en el mercado Android. Derrocha color, nitidez y una fluidez que te enganchará desde el primer momento, no tenemos nada que reprochar al panel de nuestro protagonista. Samsung Exynos 2400 Pantalla de 6,2\" AMOLED Full HD+ y 120 Hz 8 GB de RAM y 256 GB de memoria 3 cámaras traseras Batería de 4.000 mAh y carga de 25W NFC y 5G El Exynos 2400, uno de los procesadores creados por la misma Samsung, actúa como director de orquesta. No habrá juego o aplicación que no puedas disfrutar a máxima velocidad, te llevas una auténtica bestia capaz de todo. Como bien sabes, le acompañan unos interesantes 8 GB de RAM. En la bonita trasera del terminal asiático viven 3 sensores a las que podrás sacar mucho partido allá donde vayas. El móvil de Samsung demuestra un buen nivel con un sensor principal de 50 megapíxeles, un gran angular de 12 megapíxeles y una cámara para tus fotografías en modo retrato. Ver en Amazon.es: Samsung Galaxy S24 Lo has podido comprobar, el móvil de Samsung tiene todo lo que necesitas y más. Esos 174 euros de descuento lo hacen muy atractivo y le hacen competir de tú a tú con grandes exponentes de la gama alta. Si quieres algo potente, seguro y de fabricante tradicional, es una de las mejores compras.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/andro4all",
+      "https://geo.dailymotion.com/player/${player}.js`;}}}",
+      "https://cdn.andro4all.com/andro4all/icons/nav-dark.svg?v=59e2cd6f",
+      "https://twitter.com/andro4all",
+      "https://www.mundodeportivo.com/",
+      "https://fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2)",
+      "https://cdn.andro4all.com/andro4all/icons/nav.svg?v=59e2cd6f",
+      "https://sdk.mrf.io/statics",
+      "https://www.youtube.com/channel/UCxH95huV92vACwrNPqBMMgw",
+      "https://www.instagram.com/andro4allcom",
+      "https://www.mundodeportivo.biz/",
+      "https://www.googletagmanager.com/gtag/js?id=UA-21969798-13",
+      "https://ipadizate.com/ipad/apple-pencil-3-novedades-que-podrian-llegar-al-nuevo-accesorio-del-ipad",
+      "https://cdn.andro4all.com/andro4all/icons/logo-dark.svg",
+      "https://cdn.andro4all.com/andro4all/icons/nav-dark.svg",
+      "https://cdn.andro4all.com/andro4all/icons/nav.svg",
+      "https://www.mundodeportivo.com/urbantecno/videojuegos/steam-cambia-su-politica-de-reembolsos-para-los-juegos-en-early-access-estas-son-las-nuevas-condiciones",
+      "https://www.mundodeportivo.com/alfabeta/avances/impresiones-finales-de-paper-mario-la-puerta-milenaria-el-resurgir-de-una-de-las-grandes-leyendas-de-mario",
+      "https://cdn.andro4all.com/andro4all/icons/logo.svg",
+      "https://www.grupogodo.com/canal-etico/",
+      "https://cdn.andro4all.com/andro4all/icons/nav-dark.svg&#34;)",
+      "https://t.me/andro4all",
+      "https://www.cdn.andro4all.com/andro4all/icons/logo-dark.svg",
+      "https://www.cdn.andro4all.com/andro4all/icons/nav-dark.svg",
+      "https://www.t.me/andro4all",
+      "https://mundodeportivo.com/alfabeta/avances/impresiones-finales-de-paper-mario-la-puerta-milenaria-el-resurgir-de-una-de-las-grandes-leyendas-de-mario",
+      "https://mundodeportivo.com/",
+      "https://youtube.com/channel/UCxH95huV92vACwrNPqBMMgw",
+      "https://www.cdn.andro4all.com/andro4all/icons/logo.svg",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://www.cdn.andro4all.com/andro4all/icons/nav.svg?v=59e2cd6f",
+      "https://cdn.andro4all.com/andro4all/icons/nav-dark.svg",
+      "https://www.ipadizate.com/ipad/apple-pencil-3-novedades-que-podrian-llegar-al-nuevo-accesorio-del-ipad",
+      "https://www.geo.dailymotion.com/player/${player}.js`;}}}",
+      "https://www.cdn.andro4all.com/andro4all/icons/nav-dark.svg&#34;)",
+      "https://mundodeportivo.biz/",
+      "https://www.fonts.gstatic.com/s/inter/v12/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa1ZL7.woff2)",
+      "https://www.twitter.com/andro4all",
+      "https://facebook.com/andro4all",
+      "https://www.cdn.andro4all.com/andro4all/icons/nav.svg",
+      "https://grupogodo.com/canal-etico/",
+      "https://instagram.com/andro4allcom",
+      "https://mundodeportivo.com/urbantecno/videojuegos/steam-cambia-su-politica-de-reembolsos-para-los-juegos-en-early-access-estas-son-las-nuevas-condiciones",
+      "https://cdn.andro4all.com/andro4all/icons/nav.svg",
+      "https://www.cdn.andro4all.com/andro4all/icons/nav-dark.svg?v=59e2cd6f",
+      "https://www.mundodeportivo.com",
+      "https://googletagmanager.com/gtag/js?id=UA-21969798-13",
+      "https://www.grupogodo.com/canal-etico",
+      "https://www.sdk.mrf.io/statics",
+      "https://www.mundodeportivo.biz"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:02:00.447+03:00",
+    "updated": "2024-05-03T02:29:31.940+03:00"
+  },
+  {
+    "uuid": "94bff92f09422de67ce55392b6d30f0d309269e9",
+    "url": "https://thebharatexpressnews.com/northern-lights-will-illuminate-the-sky-thursday-with-another-chance-to-see-aurora-in-northern-minnesota-on-friday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Bharat Express News",
+    "published": "2024-10-12T11:48:00Z",
+    "title": "Northern lights will illuminate the sky Thursday, with another chance to see aurora in northern Minnesota on Friday",
+    "text": "MINNEAPOLIS — Minnesota saw a beautiful Northern Lights show Thursday night thanks to a geomagnetic storm that will continue Friday.\nThe National Oceanic and Atmospheric Administration’s Space Weather Prediction Center said a coronal mass ejection (CME) left the sun around 9 p.m. CST on Wednesday, traveling 2.5 million miles per hour to arrive on Earth after 10 a.m. Thursday.\nMinnesotans from Linden Hills to Duluth could see the lights, which ranged in color from red to green to purple.\n“This is a very fast CME. It’s the fastest CME we’ve actually measured to date that had a total Earth component in the solar cycle,” says space weather forecaster Shawn Dahl.\nOn Thursday, the storm was rated at a G4, meaning it was severe. The storm is rated G2, or moderate level, on Friday morning. The storm is expected to weaken as the day progresses, but Minnesotans living in the north will still be able to see some of the lights in the evening.\nDahl’s team says the storm “could impact ongoing recovery efforts for Hurricanes Helene and Milton” due to potential disruptions to communications satellites, high-frequency radio signals, GPS systems and power grids already strained by the massive storms.\nHere you can see how the solar flare that hit Earth on Thursday morning left the sun on Wednesday evening\nNOAA\nNOAA has a spacecraft 1 million miles from Earth that alerts the prediction center when solar flares are between 15 and 30 minutes away from reaching our planet. Anyway, Predicting space storms is a pretty unpredictable science .\nYou can watch the storm’s activity in real time on the forecast center website.\nTable of Contents\nToggle\nWhy do there seem to be more Northern Lights this year? More from CBS News Why do there seem to be more Northern Lights this year?\nBryan Brasher, the forecast center’s project manager, says we are at the peak of solar cycle 25, with each cycle lasting about eleven years. He says this cycle has been much more active than predicted.\nAll that activity has given Minnesotans plenty of opportunities to marvel at dancing light shows in the sky, with the most recent set of auroras visible in the Twin Cities and other parts of the state. this past weekend .\nThis current storm could even rival that of May produced incredible auroras over Minnesota but it is unclear whether it will be as strong or last as long.\nThe prediction center says CMEs are “massive explosions of solar and embedded magnetic fields.” When a CME hits and envelopes our planet’s magnetic field, the collision of its electrically charged particles with our atmosphere can cause blinding waves of color in the sky.\nCheck this one out tips from the pros about photographing the Northern Lights.\nNorthern Lights in Minnesota: October 10, 2024\n20 photos\nMore from CBS News\nStefan Swanson\nStephen Swanson is a web producer at CBS Minnesota. Stephen, a 21-year WCCO-TV veteran, served as a floor director for a decade before moving to the newsroom, where he focuses on general assignment reporting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-12T19:41:40.570+03:00",
+    "updated": "2024-10-12T19:41:40.570+03:00"
+  },
+  {
+    "uuid": "6ff0ac8a9377b6ae7fa95d4c16aa9a1d21b02dd9",
+    "url": "https://www.nsnews.com/indigenous-news/another-death-reported-since-2021-recall-of-home-bed-assist-handles-health-canada-8036544",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2023-12-28T22:20:00Z",
+    "title": "Another death reported since 2021 recall of home bed assist handles: Health Canada",
+    "text": "OTTAWA — Health Canada is reminding Canadians about a recall of home bed assist handles after learning of an additional death.\nFour models of bed handles distributed by Drive Medical were first recalled two years ago after two reported deaths — one in Canada and one in the U.S.\nHealth Canada says as of Dec. 19, the company has received a report of a second death in this country.\nThe metal handles are affixed alongside the mattress to help people get in and out of their regular bed at home. The products are not designed for hospital beds.\nHealth Canada says more than 68,000 of the affected handles were sold between 2016 and 2021 in Canada.\nIt says consumers should stop using them and contact Drive Medical Canada to get a refund.\nThe recalled home bed assist model numbers are 15064, 15062, RTL15073 and RTL15063-ADJ.\nNo information has been provided about what caused any of the deaths, but the recall notice says that retention straps were not properly secured in the initial cases in Canada and the U.S.\nDrive Medical has also learned of an additional three deaths in the U.S. that happened before Dec. 6, 2021, when the recall was first issued.\nMore than 496,000 of the bed assist products were distributed in the U.S. between 2007 and 2021. The products were sold on Amazon.\nThis report by The Canadian Press was first published Dec. 28, 2023.\nCanadian Press health coverage receives support through a partnership with the Canadian Medical Association. CP is solely responsible for this content.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "health canada ottawa — health canada",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "health canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. drive medical",
+          "sentiment": "none"
+        },
+        {
+          "name": "drive medical canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. health canada",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:28:58.283+02:00",
+    "updated": "2023-12-29T00:28:58.283+02:00"
+  },
+  {
+    "uuid": "6a79f766fa372852faa788d576224ca46dee526f",
+    "url": "https://www.world-today-news.com/ehc-thuns-cup-semi-final-loss-to-basel-a-dream-shattered/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2023-12-28T22:20:00Z",
+    "title": "EHC Thun’s Cup Semi-Final Loss to Basel: A Dream Shattered",
+    "text": "– EHC Thun’s final dream has shattered\nThe Bernese Oberlanders make up a 0-2 deficit against the higher-class Basel, but lose the cup semi-final game in a penalty shootout.\nPublished today at 10:34 p.m\nThun goal celebration after Fabian Boss’ goal.\nPhoto: Markus Grunder\nDespite the defeat: A calendar year that (almost) couldn’t have been better came to an end for EHC Thun on Thursday. First, the Bernese Oberlanders made it to the playoff final in the MyHockey League (MHL) last season. Despite their incredible bad luck with injuries, they are once again doing well in the current championship. Accidents like the 5-0 loss at home against Frauenfeld can happen. And in the Swiss Cup, Thun knocked two higher-class teams, Bellinzona and the GCK Lions, out of the competition.\nThey will be rewarded for this during the festive season with the semi-final game against the strongest possible opponent remaining in this competition. The opponent is EHC Basel, the current leader of the Swiss League.\nPuck throw-in by Hanspeter Latour\nAn interesting comparison between two teams that are at the top of their leagues and have one thing in common. Neither club wants to get promoted. Not this season. “We’re not ready for it yet. “But everything could look different in a year,” says Basel’s sports director Kevin Schläpfer before the game in Grabengut. The Swiss League could soon become an issue in Thun too. Maybe in a year too.\nBut celebrations can already be celebrated today. Just in the cup. Hanspeter Latour is present and opens the game with the symbolic puck throw-in. In 2004, as coach of Thun’s footballers, Latour defeated FC Basel 4-1 in a memorable game. Can the ice hockey team do the same 19 years later?\nSuddenly Basel leads 2-0\nIn any case, the Basel team take the game and the opponent seriously. You know the qualities of EHC Thun. And he more than holds up for long stretches of the game. Basel is only stronger than the MHL club in the power play, at least for the time being.\nThe EHC Basel is in trouble: Thun is making life difficult for the higher class.\nPhoto: Markus Grunder\nIt is a situation of superiority that gives the guests the lead. The Canadian Jakub Stukel scores. Only 24 seconds have been played in the middle third. Around three turns of the hand, Basel extends its lead. Stukel can once again be celebrated as a goalscorer.\nThun catching up\nThun defends himself and looks for the next goal in the absence of head coach Daniel Steiner. Steiner is currently with the U17 national team at the\nWorld Cup in Finland. Assistant coach Hans Bosshardt is on the boards in the Cup semi-finals.\nMichael Bärtschi only hits the edge of the goal (38th). But then the disc is in. Fabian Boss brings hope back 1:13 minutes before the second half-time siren. Mathys Mojonnier finally equalizes (52nd). The majority of the 1,741 spectators are enthusiastic. Thun is close to 3:2. But there is an extension. Keeper Stephan Küenzi saves the home team from a penalty shootout. In this respect, only Nocola Christen is successful in the Bernese Oberland. Basel scores twice and, like Olten, who narrowly defeated Seewen, is in the cup final.\nRead more: U.S. Senate Passes All-American Flag Act: Ensuring American-made Flags for Federal Government Purchases\nFound an error? Report now.\n0 comments\n2023-12-28 21:35:57\n#Defeat #cup #semifinal #EHC #Thuns #final #dream #shattered",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "markus grunder",
+          "sentiment": "none"
+        },
+        {
+          "name": "hanspeter latour",
+          "sentiment": "none"
+        },
+        {
+          "name": "thun",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ehc thun",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ehc basel",
+          "sentiment": "none"
+        },
+        {
+          "name": "myhockey league",
+          "sentiment": "none"
+        },
+        {
+          "name": "swiss league",
+          "sentiment": "none"
+        },
+        {
+          "name": "gck lions",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "basel",
+          "sentiment": "none"
+        },
+        {
+          "name": "bellinzona",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:25:42.408+02:00",
+    "updated": "2023-12-29T00:25:42.408+02:00"
+  },
+  {
+    "uuid": "d30f5870ae77aa6ee5125eede08f0abfb8b315b0",
+    "url": "https://www.wsfa.com:443/2024/01/02/strong-solar-flare-seen-dazzling-image-new-years-eve/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wsfa12news",
+    "published": "2024-01-02T13:40:00Z",
+    "title": "Strong solar flare seen in dazzling image on New Year’s Eve",
+    "text": "Strong solar flare seen in dazzling image on New Year’s Eve (Gray News) - 2023 ended with an incredible light show from space. NASA’s Solar Dynamics Observatory [captured a spectacular image](https://blogs.nasa.gov/solarcycle25/2023/12/31/strong-solar-flare-erupts-from-sun-8/) of a strong solar flare erupting from the sun Sunday afternoon. The close-up image of the sun shows a mix of yellow, orange, brown and black colors. A bright white flash that appears on the left side of the photo is the solar flare, which peaked at 4:55 p.m. Eastern Standard Time on Sunday. NASA said the flare is classified as an X5.0 flare, with X-class being flares of the highest intensity. Solar flares are powerful bursts of energy made of extremely hot solar material. Flares and solar eruptions, while beautiful, can impact radio communications, electric power grids, navigation signals and even pose a risk to spacecraft and astronauts. The space agency said it constantly monitors the sun and space, studying solar activity, the solar atmosphere, particles and the Earth’s magnetic field. Copyright 2024 Gray Media Group, Inc. All rights reserved. CNN Newsource contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Arts, Culture and Entertainment",
+      "Weather"
+    ],
+    "external_links": [
+      "https://blogs.nasa.gov/solarcycle25/2023/12/31/strong-solar-flare-erupts-from-sun-8/)",
+      "https://www.blogs.nasa.gov/solarcycle25/2023/12/31/strong-solar-flare-erupts-from-sun-8/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "solar dynamics observatory",
+          "sentiment": "none"
+        },
+        {
+          "name": "nasa",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "earth",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-02T16:04:27.414+02:00",
+    "updated": "2024-01-02T16:04:27.414+02:00"
+  }
+]

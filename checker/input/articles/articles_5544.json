@@ -1,0 +1,454 @@
+[
+  {
+    "uuid": "cec3266fcf8732d9e74899dcad804b9a396298c6",
+    "url": "https://www.local10.com/news/local/2025/04/09/reward-offered-for-information-leading-to-arrest-after-man-killed-in-sunrise",
+    "ord_in_thread": 0,
+    "author": "Ryan Mackey",
+    "published": "2025-04-09T21:06:00Z",
+    "title": "Reward offered for information leading to arrest after man killed in Sunrise",
+    "text": "SUNRISE, Fla. – Broward Crime Stoppers is offering a reward of up to $10,000 for information that leads to an arrest after a man was shot dead this past weekend in Sunrise.\nLeer en español\nRecommended Videos\nAuthorities said Derrick Green Jr. was shot dead around midnight on Sunday near the 3000 block of Northwest 60th Avenue.\nCrime Stoppers released a photo of a gray sedan believed to be connected to the incident.\nSuspect car (Broward Crime Stoppers) Police have not publicly identified a suspect in the shooting.\nAnyone with information is urged to call Broward Crime Stoppers at 954-493-8477.\nBreaking News Alerts More Stories Like This In Our Email Newsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Derrick Green Jr.",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:13:53.517+03:00",
+    "updated": "2025-04-17T03:27:55.146+03:00"
+  },
+  {
+    "uuid": "890447e6edc874c0e3faebd88c7b7ac054dffde4",
+    "url": "https://www.nzherald.co.nz/world/australia-weather-extreme-heatwave-conditions-temperatures-to-scorch-northern-australia/B7D4T4Z5SBEA7IXY3K5V7FHJNM/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Keira Jenkins",
+    "published": "2023-12-28T08:49:00Z",
+    "title": "Australia weather: Extreme heatwave conditions, temperatures to scorch northern Australia - NZ Herald",
+    "text": "Most of northern Australia is set for severe heatwave conditions and the Bureau of Meteorology is warning residents to stay indoors and keep the heat out of their homes.\nTemperatures are expected to soar across most of northern Australia over the coming days.\nParts of Queensland, the Northern Territory and Western Australia face extreme to severe heatwave conditions from Friday, the weather bureau says.\nWinton, in Queensland’s west, is expecting 43C, while temperatures up to 37C are forecast for Gympie in the state’s storm-ravaged southeast.\nAdvertisement Advertise with NZME. Highs up to 36C are predicted in Brisbane on Friday, while Longreach in the state’s west is forecast to get to 47C over the weekend.\nMore than 42,000 people remained without power across southeast Queensland on Thursday as the state recorded higher-than-average temperatures.\nHeatwave conditions are impacting much of northern Australia over the coming days, with temperatures climbing into the mid-to-high 40s in some areas.\nStay up to date with latest forecasts and warnings, particularly heading into the final weekend of 2023. pic.twitter.com/p8ukMEx5Zq\n— Bureau of Meteorology, Australia (@BOM_au) December 28, 2023 On Friday in the Northern Territory, it is predicted to reach 40C in Katherine and 43C in Tennant Creek.\nMarble Bar in WA’s Pilbara region may reach 49C on Saturday, and temperatures up to 45C are expected there for the next six days.\nAdvertisement Advertise with NZME. ”In the Northern Territory, low to severe-intensity heatwave conditions cover most areas,” the bureau said in a statement.\n”Locally, extreme heatwave levels are forecast around Darwin where warm minimums are leading to uncomfortable nights.\n”In Queensland, low to locally severe heatwave conditions are building along the east coast, including Brisbane, the Sunshine Coast and areas surrounding Cairns.”\nForecasters say people in the worst-affected areas should stay indoors, close windows and blinds to keep heat out of homes and seek out fans or air conditioners to keep cool.\nHeatwave conditions are predicted to continue in the NT and WA, while in Queensland the temperature is expected to fall from Saturday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [
+      "https://twitter.com/BOM_au/status/1740215101158817798?ref_src=twsrc%5Etfw",
+      "https://t.co/p8ukMEx5Zq",
+      "https://www.t.co/p8ukMEx5Zq",
+      "https://twitter.com/BOM_au/status/1740215101158817798",
+      "https://www.twitter.com/BOM_au/status/1740215101158817798?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "winton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nz herald",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bureau of meteorology",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nzme",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "western australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "brisbane",
+          "sentiment": "none"
+        },
+        {
+          "name": "gympie",
+          "sentiment": "none"
+        },
+        {
+          "name": "northern territory",
+          "sentiment": "none"
+        },
+        {
+          "name": "longreach",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:14:39.993+02:00",
+    "updated": "2023-12-29T01:14:39.993+02:00"
+  },
+  {
+    "uuid": "dd5cee5859dceed52d0a84e63f3750999c0d24e2",
+    "url": "https://www.catholic.com/magazine/online-edition/pro-lifers-should-question-contraception",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Trent Horn",
+    "published": "2024-02-22T05:00:00Z",
+    "title": "Pro-Lifers Should Question Contraception",
+    "text": "Have you ever heard something like this before?\nIf pro-lifers really cared about ending abortion, they’d give out contraception to prevent unintended pregnancies. But they don’t really want to do anything practical to help end abortion—they just want to punish women who have sex!\nOf course, even if pro-lifers were hypocrites, their argument that abortion kills an innocent human being would still be correct. But are pro-life advocates hypocrites if they don’t promote contraception? No, and here’s why.\nThe goal of the pro-life movement is to restore the right to life of unborn human beings. Does promoting contraception help or hinder that goal?\nI think it’s safe to say contraception doesn’t help that goal. Birth control pills and condoms don’t teach people that unborn children are biological human beings who are entitled to the same basic rights you and I possess. To many people, contraception just prevents “pregnancy,” or it prevents a “potential person” (who will one day become a baby) from being created inside a woman. There’s nothing hypocritical about pro-life advocates’ not promoting contraception, because it doesn’t do anything to help our ultimate goal of changing both public opinion and public policy to protect unborn children from harm.\nBut critics might respond by saying that using contraception could prevent some abortions from happening, and don’t pro-lifers still care about accomplishing that goal? Yes, but that doesn’t mean every way to accomplish that goal should be used. Contraception teaches couples that unborn children are objects who are valuable only if the couple “wants” a child. Pope John Paul II wrote in Evangelium Vitae,\nIt may be that many people use contraception with a view to excluding the subsequent temptation of abortion. But the negative values inherent in the “contraceptive mentality”-which is very different from responsible parenthood, lived in respect for the full truth of the conjugal act-are such that they in fact strengthen this temptation when an unwanted life is conceived (emphasis added). Indeed, the pro- abortion culture is especially strong precisely where the Church’s teaching on contraception is rejected (13).\nUnborn children have not only a right to life, but also a right to be created by parents who love them and are willing to make sacrifices for the child’s good. However, contraception use creates a mentality that views children as a “negative side effect” of sex, or even a disease, whose interests are superseded by their parents’ desire for sexual union just for its own sake. This attitude is especially common among the\n85 percent of unmarried couples who seek abortions.\nIt shouldn’t be surprising, then, that the Supreme Court once even affirmed that one reason abortion must stay legal is because women rely on it when contraception fails. In Planned Parenthood v. Casey, the Court said that Roe v. Wade\ncould not be repudiated without serious inequity to people who, for two decades of economic and social developments, have organized intimate relationships and made choices that define their views of themselves and their places in society, in reliance on the availability of abortion in the event that contraception should fail.\nI’m all in favor of teaching people how to\nresponsibly plan their families, but if contraception fosters an attitude that unborn children are disposable (and in some forms could be abortifacient), then it shouldn’t be promoted as the way to achieve the goals of the pro-life movement.\nPromoting contraception may also reinforce attitudes towards sex and pregnancy that conflict with the goal of creating a culture of life. On one university campus, a group of students chastised me for not passing out condoms. I told them I didn’t have to, because the campus health center gave condoms away for free. One man responded, “But the center is all the way on the other side of campus. I don’t want to have to walk all the way over there just for condoms. You guys should be passing them out here.” If this man were too lazy to walk a few hundred yards for condoms, why in the world would we expect him to work hard to provide for a child should the condom fail and his partner become pregnant?\nPro-life advocates should not be suckered into thinking that abortion is a public health problem that we have to help alleviate by dispensing contraceptives as “the cure.” We must continue to teach our culture that abortion is a moral problem and that the unborn deserve cultural recognition and legal protection as a remedy.\nGranted, it will be easier to pass laws against abortion when fewer people seek abortion services, so there is value in developing strategies to reduce unintended pregnancies. But pro-life advocates should not have to compromise their belief that the unborn are human beings just so that everyone can “play nice together.” Instead, we must refocus our strategy and find better ways to achieve the goal of restoring legal protection for unborn human beings.\nDonatewww.catholic.com/support-us",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Religion and Belief",
+      "Social Issue"
+    ],
+    "external_links": [
+      "http://ccli.org/nfp/",
+      "http://www.guttmacher.org/pubs/US-Abortion-Patients.pdf",
+      "http://www.abort73.com/abortion_facts/which_birth_control_methods_cause_abortion/",
+      "http://www.ccli.org/nfp/",
+      "http://www.abort73.com/abortion_facts/which_birth_control_methods_cause_abortion",
+      "http://ccli.org/nfp",
+      "http://abort73.com/abortion_facts/which_birth_control_methods_cause_abortion/",
+      "http://guttmacher.org/pubs/US-Abortion-Patients.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-23T07:58:44.194+02:00",
+    "updated": "2024-02-23T07:58:44.194+02:00"
+  },
+  {
+    "uuid": "ce3bf4ce29e455d139c69eab19fce9bab3449896",
+    "url": "https://www.openpr.com/news/4063130/applied-scholastics-of-tennessee-brings-powerful-study-tools",
+    "ord_in_thread": 0,
+    "author": "Binary News Network",
+    "published": "2025-06-12T07:29:52Z",
+    "title": "Applied Scholastics of Tennessee Brings Powerful Study Tools",
+    "text": "Applied Scholastics of Tennessee Brings Powerful Study Tools to Local Youth This Summer 06-12-2025 09:06 AM CET | Science & Education\nPress release from: Binary News Network / PR Agency: ZEX PR WIRE\nNashville, Tennessee, 11th June 2025, ZEX PR WIRE, Applied Scholastics of Tennessee is making a major impact this summer by delivering effective learning strategies to hundreds of young people in Nashville, through workshops and hands-on activities based on the Study Technology developed by author and humanitarian L. Ron Hubbard. The organization is helping students in grades 5 through 12 gain the tools they need for lasting academic success.\nOver the course of the summer, Applied Scholastics educators are partnering with youth organizations to deliver engaging and empowering sessions. Already, the program has reached hundreds of students, many of whom are preparing for the next school year with renewed confidence and practical skills they can apply immediately.\n\"Study Technology isn't just about memorizing facts,\" said a spokesperson for Applied Scholastics of Tennessee. \"It's about truly understanding what you're learning and removing the barriers that can make studying frustrating. When students learn how to learn, it transforms their entire experience with education.\"\nStudy Technology includes tools that help students recognize and overcome three primary barriers to learning: lack of mass (or physical representation), skipped gradients, and misunderstood words. These principles are taught in an easy-to-understand format and are immediately usable by students of all ages and learning levels.\nParents and community leaders have praised the program for its positive influence, especially in reaching students during the summer months when academic support is often lacking.\nApplied Scholastics is a nonprofit, non-religious organization that has helped millions of students worldwide. The Tennessee chapter is proud to be part of this global movement to improve literacy and learning through effective, proven tools.\nFor more information on upcoming workshops or to bring Study Technology to your youth group, contact Applied Scholastics of Tennessee by reaching out to edapstn@gmail.com.\nThis release was published on openPR.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->early childhood education",
+      "Education->students",
+      "Education->educational grading",
+      "Human Interest->graduation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "L. Ron Hubbard",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "CET | Science & Education\nPress",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:29:52.567+03:00",
+    "updated": "2025-06-12T07:36:00.000+00:00"
+  },
+  {
+    "uuid": "0ca484d25a325ef7268bbd91feee6e8d3b5e5897",
+    "url": "https://www.bfmtv.com/economie/entreprises/industries/allemagne-les-salaries-de-volkswagen-en-greve-a-partir-de-lundi_AD-202412010303.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "OC",
+    "published": "2024-12-01T13:08:00Z",
+    "title": "Allemagne: les salariés de Volkswagen en grève à partir de lundi",
+    "text": "C'est la première étape d'un mouvement qui pourrait prendre une ampleur inédite si la direction et les représentants du personnels ne parviennent pas à trouver d'accord sur les mesures d'économies pour restructurer le groupe en crise. Le conflit social est désormais inéluctable pour le premier constructeur européen: tous les salariés de Volkswagen en Allemagne sont appelés à cesser le travail à partir de lundi pour s'opposer aux milliers de suppressions d'emplois envisagées.\nC'est la première étape d'un mouvement qui pourrait prendre une ampleur inédite si la direction et les représentants du personnels ne parviennent pas à trouver d'accord sur les mesures d'économies pour restructurer le groupe en crise.\nUne perspective qui survient en pleine campagne pour les élections législatives anticipées en Allemagne.\nDoze d'économie : L'incroyable choc Volkswagen - 29/10 6:43 \"Des grèves d'avertissement commenceront lundi dans toutes les usines\", a annoncé dimanche dans un communiqué Thorsten Gröger, le négociateur du syndicat IG Metall, à l'issue de la période de dialogue social obligatoire pour 120.000 employés de la marque en Allemagne.\n300.000 salariés \"Si nécessaire, ce sera la bataille de négociation collective la plus dure que Volkswagen ait jamais connue\", prévient-il, tenant la direction pour \"responsable, à la table des négociations, de la durée et de l'intensité de cet affrontement\".\nDans un communiqué séparé, Volkswagen a dit \"respecter le droit des salariés\" et croire au \"dialogue constructif\", en vertu du principe de cogestion, pour \"parvenir à une solution durable et soutenue collectivement\".\nL'entreprise précise avoir \"anticipé des mesures ciblées pour sécuriser l'approvisionnement d'urgence\" pendant le mouvement.\nDans le pays, Volkswagen compte dix sites de production de voitures et environ 300.000 salariés, dont 120.000 pour la marque VW, la plus concernée par le plan d'économies.\nIG Metall, le puissant syndicat de la métallurgie a dit être prêt \"à un conflit social comme la République fédérale n'en a pas connu depuis des décennies\".\nLe premier constructeur européen a lancé en septembre une chasse aux coûts inédite, visant des économies de plusieurs milliards d'euros pour redresser sa compétitivité.\nTrois séances de négociations entre direction et syndicat ont eu lieu et \"la différence entre les positions est encore énorme\", selon Thorsten Gröger.\nLe fossé s'est même creusé avec le rejet vendredi par la direction d'une contre-proposition syndicale visant à réduire les coûts sans avoir à fermer d'usines en Allemagne.\nPremière historique La direction du groupe continue d'envisager de fermer des usines en Allemagne, trois selon le syndicat, ce qui serait une première dans l'histoire du groupe.\nLes deux parties se retrouveront le 9 décembre à Wolfsburg pour un quatrième tour des négociations.\nFleuron de l'industrie automobile allemande, Volkswagen souffre à la fois du ralentissement du marché des véhicules neufs, de la concurrence chinoise, de modèles à batterie pas assez attractifs, et de coûts de main d'oeuvre plus élevés que ses rivaux, selon les experts.\nLa crise chez Volkswagen reflète les difficultés de l'industrie allemande, confrontée ces derniers mois à une kyrielle de plans sociaux dans les secteurs de l'automobile, la chimie, la sidérurgie, alors que l'activité économique du pays devrait se contracter en 2024, pour la deuxième année de suite.\nThème de campagne La paralysie politique obscurcit aussi l'horizon depuis la rupture début novembre de la coalition du chancelier Olaf Scholz, qui provoque l'organisation d'élections anticipées le 23 février.\nLa relance de l'économie s'est imposée comme un enjeu central de la campagne.\nAinsi samedi, le chancelier social-démocrate (SPD) Olaf Scholz et le chef de file des conservateurs (CDU) Friedrich Merz se sont opposés sur le sujet par meetings interposés.\nFavori des sondages, Friedrich Merz a fustigé \"l'interventionnisme teinté de vert dans chaque domaine de la vie, chaque entreprise, chaque secteur d'activité\" des Verts et du SPD, alliés au sein de la coalition gouvernementale.\nOlaf Scholz, pour qui la CDU a \"toujours la même recette\", faite de baisses d'impôts pour les entreprises, a lui proposé de rembourser 10% d'impôts sur les sommes investies par les entreprises dans le pays.\nOC avec AFP Les plus lus\n\"Attentat\" en Allemagne: médecin, islamophobe... Le profil trouble du suspect de l'attaque sur le marché de Noël",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://altice.simplecastaudio.com/39b12d43-3488-4914-9d4d-20853fb7b4af/episodes/7893db97-e1b7-420a-8a06-af2843a428f9/audio/128/default.mp3?awCollectionId=39b12d43-3488-4914-9d4d-20853fb7b4af&awEpisodeId=7893db97-e1b7-420a-8a06-af2843a428f9&category=Business&episode_published_at=2024-10-29T09%3A44%3A11&episode_title=Doze+d%27%C3%A9conomie+%3A+L%27incroyable+choc+Volkswagen+-+29%2F10&network=291091218710&podcast_title=Tout+pour+investir",
+      "https://altice.simplecastaudio.com/39b12d43-3488-4914-9d4d-20853fb7b4af/episodes/7893db97-e1b7-420a-8a06-af2843a428f9/audio/128/default.mp3",
+      "https://www.altice.simplecastaudio.com/39b12d43-3488-4914-9d4d-20853fb7b4af/episodes/7893db97-e1b7-420a-8a06-af2843a428f9/audio/128/default.mp3?awCollectionId=39b12d43-3488-4914-9d4d-20853fb7b4af&awEpisodeId=7893db97-e1b7-420a-8a06-af2843a428f9&category=Business&episode_published_at=2024-10-29T09%3A44%3A11&episode_title=Doze+d%27%C3%A9conomie+%3A+L%27incroyable+choc+Volkswagen+-+29%2F10&network=291091218710&podcast_title=Tout+pour+investir"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-01T15:11:14.447+02:00",
+    "updated": "2024-12-21T23:31:21.887+02:00"
+  },
+  {
+    "uuid": "090200ef1ab3dd2baadbb5db7568e0cd59240925",
+    "url": "https://www.bluradio.com/regiones/pacifico/interceptan-furgon-lleno-de-explosivos-en-caloto-cauca-tenia-14-cilindros-rg10",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción BLU Radio",
+    "published": "2024-06-13T21:33:00Z",
+    "title": "Interceptan furgón con 14 cilindros explosivos en Caloto, Cauca - BluRadio",
+    "text": "En el norte del [Cauca](https://www.bluradio.com/noticias/cauca) continúa el despliegue de la fuerza pública para contrarrestar las acciones delictivas de las disidencias de las Farc en este departamento. Es en medio de esos operativos, que la Policía ubicó un furgón acondicionado con explosivos, en la vereda Pajarito, en el municipio de Caloto. En el vehículo fueron encontrados 14 cilindros: nueve de 100 libras y 5 de 40 libras; 900 kilos de anfo, 200 metros de cordón detonante y 14 estopines eléctricos, los cuales serían utilizados por el frente Dagoberto Ramos para atacar a la fuerza pública. \"Logramos la ubicación, desactivación e incautación de estos elementos que iban a ser utilizados contra nuestras unidades y la comunidad en general. Muy seguramente iban a ser acondicionados como elementos de lanzamiento\", señaló el coronel Giovanni Enrique Torres, comandante de la Policía del Cauca. Frente a los recientes ataques en el departamento, en los municipios Suárez, Cajibío y Argelia, desde el ministerio de Defensa han señalado que estas acciones son retaliaciones del EMC contra la ofensiva que las Fuerzas Militares adelantan en el Cauca.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:35:49.693+03:00",
+    "updated": "2024-06-14T00:35:49.693+03:00"
+  },
+  {
+    "uuid": "40f14ce458f67e911dd0ea2f8a540b5e93da60fc",
+    "url": "https://www.thestar.com.my/lifestyle/living/2024/01/05/the-macallan-collaborates-with-stella-and-mary-mccartney-on-new-harmony-collection",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MICHAEL CHEANG",
+    "published": "2024-01-05T07:30:00Z",
+    "title": "The Macallan Collaborates With Stella And Mary McCartney On New Harmony Collection | The Star",
+    "text": "For the third edition of The Macallan’s stellar Harmony Collection, the luxury Scotch whisky producer has partnered with Stella and Mary McCartney to celebrate the lands of Scotland that connect all those who have stood upon them for generations.\nThe Macallan Harmony Collection Amber Meadow is inspired by The McCartney sisters’ love of Scotland, which stems from their memories in the Scottish countryside.\nThe collaboration with The Macallan marks a first for the sisters, with this debut joint venture between the iconic fashion designer and acclaimed photographer combining their creative talents in a project that enables them to celebrate their memories of Scotland.\nThe Harmony Collection is a limited annual release series that explores The Macallan’s future packaging journey, with each release featuring distinctive packaging that incorporates organic by-products and gives them new life.\nThe Macallan Harmony Collection Amber Meadow is inspired by The McCartney sisters’ love of Scotland, which stems from their memories in the Scottish countryside.\nThe first whiskies in the series were 2021’s chocolate-inspired Rich Cacao and Fine Cacao; followed by a second edition in 2023 – The Macallan Harmony Collection Inspired By Intense Arabica and Smooth Arabica, both of which were inspired by the Ethiopian Arabica coffee bean.\nIn line with the Harmony Collection’s practice of embracing the re-use of natural materials to create beauty from resources at the end of their lives, the presentation boxes and bottle labels of Amber Meadow have been made using discarded meadow cuttings, to mark the McCartney sisters’ deep connection with the land.\nThe packaging of each release also features photography of The Macallan Estate captured by Mary.\nThe unique partnership will also focus on a limited-edition collection of 11 lifestyle pieces designed by the sisters and skilfully realised by master artisans and craftspeople.\nThe presentation boxes and bottle labels of Amber Meadow have been made using discarded meadow cuttings, to mark the McCartney sisters’ deep connection with the land.\nSpeaking of master craftspeople, there are few better at crafting exceptional luxury whiskies than The Macallan. With an ABV of 44.2%, the Amber Meadow whisky itself takes inspiration from natural Scottish grasslands, with The Macallan Whisky Mastery Team creating it using a combination of whiskies from sherry-seasoned oak and ex-bourbon casks.\nAccording to Whisky Maker Steven Bremner, Amber Meadow is a single malt “redolent of warm meadows and mature barley fields, with a rich, citrus scented finish”.\n“The 100% natural summer evening colour derived from our exceptional sherry seasoned oak and bourbon casks reflects the richness of the flavour which awaits,” he says in a press release.\n“On the nose, fresh citrus fruits and honeysuckle are complemented by hints of vanilla, coconut and ripe barley fields.\n“On tasting, notes of oak, lemon, melon are prominent, accompanied by flavours of classic scone and almond with green tea, before giving way to a rich and sweet long finish.”\nAmber Meadow is a single malt 'redolent of warm meadows and mature barley fields, with a rich, citrus scented finish'.\nThe limited-edition collection of 11 lifestyle pieces designed by the sisters showcases a curated selection of bespoke pieces, including handmade glassware in vibrant shades that are coloured using natural minerals, and an ombre ceramic flask encased in an apple leather alternative sleeve.\nThere is also a pair of brass ice stamps with meticulously hand-painted ceramic handles using a green and amber ombre colour blend, and a brass napkin weight in the shape of an acorn, as a tribute to the exceptional oak casks which mature The Macallan whisky.\nThe Macallan Harmony Collection Amber Meadow will be available at The Chamber, Cellar 18, and GAIA Johor from Jan 8 onwards.\nAccording to Whisky Maker Steven Bremner, Amber Meadow is a single malt “redolent of warm meadows and mature barley fields, with a rich, citrus scented finish”.\nImmerse yourself in the Amber Meadow\nTo mark the debut of this latest collection and collaboration, The Macallan is hosting a unique consumer experience event – \"The Macallan Harmony Collection Experience, Inspired by Nature\" at Entrance Lobby, The Starhill KL.\nThe event is open to the public from Jan 10 to 21, from 10am to 9pm, where guests will get the opportunity to savour the limited-edition collection. Join The Macallan in celebrating the launch of this nature-inspired collection, and immerse yourself in the essence of The Harmony Collection.\nInterested guests can reserve their complimentary 45-minute experiential session online HERE .\nFor those who can’t make it for the event at The Starhill KL, “The Macallan Harmony Collection Experience, Inspired by Nature” will also be available at Gurney Plaza, Penang from February 28 to March 3 from 10am to 9pm. Online reservations for this event will open on Feb 5.\nAdditionally, curated cocktails with The Macallan Harmony Collection Amber Meadow are also available for tasting at the following establishments in Kuala Lumpur and Johor Bahru from Jan 8 to Feb 29, and in Penang from Feb 26 to April 30.\nKuala Lumpur\nThe Barn Pavilion KL (Instagram and Facebook: @thebarnwinebar) SIX by Saro (Instagram: @sixbysaro) Annabell KL (Instagram: @annabellkl_) Fritz at The Troika (Instagram @fritztroika) Whisky House KL (Instagram and Facebook: @whiskyhousekl) Astor Bar at The St. Regis Kuala Lumpur (Instagram and Facebook: @astorbarkl) Ritz Carlton (Instagram: @ritzcarltonkualalumpur, Facebook: @ritzcarltonkl) Johor Bahru\nHaiiro Usagi (Instagram and Facebook: @haiirousagi75A Penang\nBackdoor Bodega (Instagram and Facebook: @backdoorbodega) Manchu Bar (Instagram and Facebook: @manchupenang) Magazine 63 (Instagram: @magazine_63, Facebook: @magazineM63) For more information, visit this link .\nOpen Modal ×",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://app.anyroad.com/tours/the-macallan-harmony-collection-experience-inspired-by-nature/s-89b3f2b1",
+      "https://www.themacallan.com/en-my/inside-the-macallan/partnerships/stella-and-mary-mccartney",
+      "https://themacallan.com/en-my/inside-the-macallan/partnerships/stella-and-mary-mccartney",
+      "https://www.app.anyroad.com/tours/the-macallan-harmony-collection-experience-inspired-by-nature/s-89b3f2b1"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "stella",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mary mccartney",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mccartney",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "macallan",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "scotland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:09:12.783+02:00",
+    "updated": "2024-01-21T00:13:06.592+02:00"
+  },
+  {
+    "uuid": "a655b374055e6a2bc47a7004791c68a45ce5da8c",
+    "url": "https://www.motorious.com/articles/news/corvette-zr1-hits-record-233",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Johnny Puckett",
+    "published": "2024-10-17T21:30:00Z",
+    "title": "Corvette ZR1 Hits Record 233 MPH with GM President at the Wheel",
+    "text": "The 2025 Corvette ZR1 reached a record-breaking 233 mph with GM President Mark Reuss behind the wheel, making it America’s fastest car. The 2025 [Chevrolet Corvette ZR1](https://www.motorious.com/articles/news/2025-chevrolet-corvette-zr1/) has officially become the fastest car ever built by an American auto manufacturer. At a recent test in Papenburg, Germany, GM President Mark Reuss took the wheel and drove the Corvette ZR1 to a blistering top speed of 233 mph. This record-breaking run on the High-Speed Oval Track at ATP Automotive Testing Papenburg solidifies the Corvette ZR1’s status as a true supercar, priced at a fraction of other vehicles in its performance class. This historic achievement comes on the heels of [Corvette’s](https://www.motorious.com/articles/news/jay-leno-gets-exclusive-first-look-at-zrl/) switch to mid-engine architecture in 2020, a move that unlocked new levels of power, performance, and balance. The ZR1’s incredible top speed is powered by the most potent V8 engine ever produced by an American automaker — the 5.5-liter twin-turbocharged LT7 DOHC flat-plane crank V8. This engine produces a staggering 1,064 horsepower and 828 lb-ft of torque, all while pushing the car to record-breaking speeds. \"Setting the top-speed record in the [Corvette ZR1](https://www.motorious.com/articles/all/jfk-auto-is-selling-the-last-c6-zr1-and-the-last-c7-zr1-convertible-made-as-a-pair/) is a true triumph for Corvette and Chevrolet,\" said Reuss. \"To go over there and get it done is a testament to the power of the ZR1 and the incredibly talented team that developed and built it.\" The ZR1 set this new speed benchmark with a standard chassis and aero package, featuring carbon fiber ground effects, Michelin Pilot Sport 4S tires, and aluminum wheels. In Top Speed Mode, a setting developed by Chevrolet engineers for closed course use, the car’s chassis control systems were optimized for maximum speed. Notably, this wasn’t a one-off performance. Multiple runs were conducted with five engineers and two development cars, each surpassing 230 mph. Papenburg’s conditions proved perfect for this high-speed test, as Chevrolet engineers have previously set records there with the Corvette ZR1’s sixth and seventh generations. The 2025 Corvette ZR1 offers unprecedented power and precision for an American supercar, boasting a sub-10-second quarter-mile time and over 1,200 pounds of downforce at top speed. Its record-breaking 233 mph run is just the latest achievement in Corvette’s storied legacy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:57:20.095+03:00",
+    "updated": "2024-10-18T01:37:26.691+03:00"
+  },
+  {
+    "uuid": "20acb8d4e6a7745ec603bc707f6e1810f42bc0dd",
+    "url": "https://news.china.com/socialgd/10000169/20250703/48551968.html",
+    "ord_in_thread": 0,
+    "author": "#5434",
+    "published": "2025-07-03T00:00:00Z",
+    "title": "甘肃陇南徽县山体滑坡致2人身亡 强降雨引发悲剧_新闻频道_中华网",
+    "text": "7月2日至3日，甘肃陇南市局地出现强降雨天气，导致陇南市徽县部分街道被淹，一些山区因降雨引发山体滑坡。山体滑坡造成现场1人受伤，1人失联。受伤人员被送往医院后抢救无效死亡，失联人员经搜救后也被确认死亡。这两人均为当地一家施工工地的工作人员。目前，相关部门仍在进行现场情况摸排工作。\n2月8日上午11时50分许，筠连县沐爱镇金坪村2组（小地名：高家坪）发生山体滑坡，导致数间房屋被掩埋，人员被困。救援人员已经救出2人，所幸他们没有生命危险\n哥伦比亚西北部安蒂奥基亚省贝略市当地时间24日发生山体滑坡，已造成10人死亡，8人受伤，15人失踪。此次山体滑坡由该地区近日暴雨引发\n云南省应急管理厅近日公布了昭通市镇雄县“1·22”山体滑坡灾害调查评估报告",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health"
+    ],
+    "topics": [
+      "Disaster and Accident->natural disaster",
+      "Disaster and Accident->emergency response",
+      "Disaster and Accident->disaster",
+      "Health->emergency care",
+      "Health->injury",
+      "Health->public health"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:15:17.935+03:00",
+    "updated": "2025-07-03T05:19:12.000+00:00"
+  }
+]

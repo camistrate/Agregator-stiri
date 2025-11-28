@@ -1,0 +1,157 @@
+[
+  {
+    "uuid": "267b1ca2a30d046dd16f10d3aea598f3728dd2c9",
+    "url": "https://www.neowin.net/news/microsoft-says-transportdlp-rule-conflicts-have-forced-it-to-pull-exchange-server-update",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2024-11-15T07:24:00Z",
+    "title": "Microsoft says transport/DLP rule conflicts have forced it to pull Exchange Server update",
+    "text": "This week, Microsoft released its Patch Tuesday update for November 2024. On the Windows 10 side we have [KB5046613, KB5046615, KB5046612, KB5046665](https://www.neowin.net/news/windows-10-kb5046613--kb5046615--kb5046612--kb5046665-november-2024-patch-tuesday-out/), and the Windows 11 side we have [KB5046617, KB5046633](https://www.neowin.net/news/windows-11-kb5046617-kb5046633-november-2024-patch-tuesday-out/). The Windows 11 update resolves an [annoying Task Manager bug](https://www.neowin.net/news/microsoft-recommends-installing-kb5046617-to-fix-windows-11-24h2-task-manager/) that would incorrectly show the number of background processes and Windows processes count as zero. Meanwhile, the Windows 10 update fixes a bug wherein [non-admin users couldn't launch](https://www.neowin.net/news/kb5046613-microsoft-shares-how-to-fix-teams-quick-assist-windows-10-admin-launch-bug/) certain apps like Teams, Quick Assist, and more. However, the new update on Windows 11 23H2 and 22H2 also introduces a bug that falsely warns users that their \"[version of Windows has reached the end of service.](https://www.neowin.net/news/windows-11-kb5046633-thinks-your-version-of-windows-has-reached-the-end-of-service/)\" Speaking of bugs, Microsoft also released Exchange Server 2019 and 2016 security update for the month (November) alongside Windows' Patch Tuesday and the company has been forced to pull the update. That is because soon after the update, admins and users began complaining that they were running into issues due to custom Transport and DLP (Data Loss Prevention) rules. It [writes](https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125): Update 11/14/2024: We have temporarily paused the rollout of this update. We are aware of customers having an issue with the Transport rules stopping periodically after this update is installed. Based on our initial investigation, this can happen to customers who use their own transport or DLP rules. If you are seeing this problem, you might have to uninstall the November SU until it is re-released. We are continuing the investigation and are working on a permanent fix to address this issue. We will release it when ready. We have also paused the rollout of November 2024 SU to Windows / Microsoft Update. Customers who might not use Transport or DLP rules and did not run into the issue with rules, can continue using the November SU update. For those who may not be familiar, transport rules (mail flow rules) and DLP policies in Exchange Server help protect sensitive data by setting up various messaging policies and aid in taking appropriate actions like blocking, filtering, or alerting users whenever applicable to ensure data loss protection and compliance with regulations.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125):",
+      "https://www.techcommunity.microsoft.com/blog/exchange/released-november-2024-exchange-server-security-updates/4293125):"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T11:28:09.685+02:00",
+    "updated": "2024-11-15T11:28:09.685+02:00"
+  },
+  {
+    "uuid": "2d4e3509bd83c85d7048efc5d8835c6c4e8046c4",
+    "url": "https://zephyrnet.com/these-bourbons-will-keep-you-warm-on-a-cold-day",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Republished By Plato",
+    "published": "2024-01-14T08:15:00Z",
+    "title": "These Bourbons Will Keep You Warm On A Cold Day",
+    "text": "It is cold outside for the majority of the country, so here are so treats to keep warm\nThe first severe cold front is sweeping the country and it is flat out freezing. When out in below 32 temperatures, the body begins to lose heat faster than produced. Prolonged exposure will eventually use up your body’s stored energy. The result is hypothermia, or abnormally low body temperature. So why risk it? Why not find your favorite brown water and huddle inside with friends, loved ones or your favorite flick.\nThese bourbons will keep you warm on a cold day.\nBib & Tucker Double Char\nThis bourbon is great to sit by the fireplace or fire pit and let the warm slowly move through your body. Inspired by the turn of the century, when food was cooked on the open flame, this new bourbon is aged twice to create savory smoky notes and an exceptionally smooth finish. A touch of smoke with immediate notes of toasted oak and delicious dulce de leche, is has a background notes of cinnamon and clove. This is a great combination on a wintery day.\nBarrell Dovetail Bourbon\nFeeling trapped inside by the ice, snow and temperatures, this bourbon will take you on an adventure. Dovetail is blended to highlight some of flavor. Woody bourbon; terroir driven Dunn Cabernet; toasted French oak; Late Bottled Vintage Port pipes; black strap molasses casks; all working in tandem to create a buttery and deep whiskey as unique as it is delicious. This is like wrapping yourself in a blanket while dozing up inside.\nRELATED:\nThe Most Popular Marijuana Flavors\nStill Austin Bourbon\nThis is a double gold winner can chase the chill away as you bing your favorite shows. The Godfather, The Expanse, or The Fast and Furious. The lights a fire in your gut and keeps you warm all day and into the night. The sweetness of chef-grade white corn—the same kind used in Austin’s famous tortillas—complements the spiciness of our high-rye mash bill. Notes of apple, toasted coconut and other flavors will treat you taste buds and your mind savors a good film.\nRELATED:\nThe Most Popular Marijuana Flavors\nBourbon’s popularity began rising in 2010 and, according to the Kentucky Distiller’s Association, bourbon production has increased by 495% since 1999. We talked to Charles at the\nTotal Wine in Seattle and he had some great suggestions, Feel free to open a bottle, plop on the couch and enjoy a leisurely day staying warm with your favorite beverage.\n- SEO Powered Content & PR Distribution.\nGet Amplified Today.\n- PlatoData.Network Vertical Generative Ai. Empower Yourself.\nAccess Here.\n- PlatoAiStream. Web3 Intelligence. Knowledge Amplified.\nhttps://platoaistream.com\n- PlatoESG.\nCarbon, CleanTech, Energy, Environment, Solar, Waste Management. https://platoesg.com\n- PlatoHealth. Biotech and Clinical Trials Intelligence.\nhttps://platohealth.ai\n- Source:\nhttps://thefreshtoast.com/drink/these-bourbons-will-keep-you-warm-on-a-cold-day/#utm_source=rss&utm_medium=rss&utm_campaign=these-bourbons-will-keep-you-warm-on-a-cold-day",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://thefreshtoast.com/cannabis/the-most-popular-marijuana-flavors/",
+      "https://platoaistream.com",
+      "https://platoesg.com/aiwire/solar/",
+      "https://platoesg.com",
+      "https://thefreshtoast.com/drink/these-bourbons-will-keep-you-warm-on-a-cold-day/#utm_source=rss&utm_medium=rss&utm_campaign=these-bourbons-will-keep-you-warm-on-a-cold-day",
+      "https://platoesg.com/aiwire/carbon/",
+      "https://www.totalwine.com",
+      "https://platoesg.com/aiwire/cleantech/",
+      "https://platoesg.com/aiwire/waste-management/",
+      "https://platoesg.com/aiwire/environment/",
+      "https://platodata.network",
+      "https://platoesg.com/aiwire/energy/",
+      "https://platohealth.ai",
+      "https://www.amplifipr.com",
+      "https://platoesg.com/aiwire/environment",
+      "https://www.platoesg.com/aiwire/cleantech/",
+      "https://www.platoesg.com/aiwire/carbon/",
+      "https://platoesg.com/aiwire/cleantech",
+      "https://www.platoesg.com",
+      "https://www.platoesg.com/aiwire/solar/",
+      "https://thefreshtoast.com/cannabis/the-most-popular-marijuana-flavors",
+      "https://www.platoaistream.com",
+      "https://platoesg.com/aiwire/waste-management",
+      "https://www.platoesg.com/aiwire/waste-management/",
+      "https://www.platoesg.com/aiwire/energy/",
+      "https://www.thefreshtoast.com/drink/these-bourbons-will-keep-you-warm-on-a-cold-day/#utm_source=rss&utm_medium=rss&utm_campaign=these-bourbons-will-keep-you-warm-on-a-cold-day",
+      "https://totalwine.com",
+      "https://www.platodata.network",
+      "https://platoesg.com/aiwire/solar",
+      "https://platoesg.com/aiwire/carbon",
+      "https://platoesg.com/aiwire/energy",
+      "https://www.platohealth.ai",
+      "https://www.platoesg.com/aiwire/environment/",
+      "https://amplifipr.com",
+      "https://www.thefreshtoast.com/cannabis/the-most-popular-marijuana-flavors/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "bib & tucker double char",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-15T07:58:07.034+02:00",
+    "updated": "2024-01-15T07:58:07.034+02:00"
+  },
+  {
+    "uuid": "e70faac0db011ac0673c37fe050f67ea30f2a676",
+    "url": "https://dev.justjared.com/2024/09/19/lisa-to-perform-at-victorias-secret-fashion-show-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JJ Staff",
+    "published": "2024-09-19T00:00:00Z",
+    "title": "LISA to Perform at Victoria’s Secret Fashion Show 2024! | 2024 Victoria's Secret Fashion Show, Lisa, Music, Victoria's Secret, victorias secret fashion show | Just Jared: Celebrity News and Gossip | Entertainment",
+    "text": "LISA to Perform at Victoria's Secret Fashion Show 2024! [LISA](https://www.justjared.com/tags/lisa/) is the next huge name to rock the upcoming [Victoria’s Secret Fashion Show](https://www.justjared.com/tags/victorias-secret/) runway. The 27-year-old [BLACKPINK](https://www.justjared.com/tags/blackpink/) member and solo superstar is set to take the stage and perform at return of the fashion show, taking place on October 15 in Brooklyn, marking its grand return after a six-year hiatus. “The Victoria’s Secret Fashion Show is such an iconic night in fashion and I’m so excited to be part of its return with so many incredible and powerful women being part of the show! It’s going to be a great night,” LISA said in a release, via [Billboard](https://www.billboard.com/music/pop/lisa-perform-victorias-secret-fashion-show-1235779271/). Keep reading to find out more… The news comes after the announcements that [Tyla](https://www.justjared.com/tags/tyla/) will also perform and [Cher](https://www.justjared.com/tags/cher/) will headline the show, making it an all-women artist lineup for the first time ever. LISA was also one of the best dressed at the 2024 MTV VMAs – [see who made the list!](https://www.justjared.com/2024/09/12/best-dressed-at-mtv-vmas-2024-12-best-red-carpet-fashion-stars-revealed/) [2024 Victoria's Secret Fashion Show](https://dev.justjared.com/tags/2024-victorias-secret-fashion-show/), [Lisa](https://dev.justjared.com/tags/lisa/), [Music](https://dev.justjared.com/tags/music/), [Victoria's Secret](https://dev.justjared.com/tags/victorias-secret/), [victorias secret fashion show](https://dev.justjared.com/tags/victorias-secret-fashion-show/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.billboard.com/music/pop/lisa-perform-victorias-secret-fashion-show-1235779271/).",
+      "https://billboard.com/music/pop/lisa-perform-victorias-secret-fashion-show-1235779271/)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:42:11.988+03:00",
+    "updated": "2024-09-20T00:42:11.988+03:00"
+  }
+]

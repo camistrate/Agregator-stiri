@@ -1,0 +1,500 @@
+[
+  {
+    "uuid": "092a1d01eb8b715e0eec55c82ffae09580d2baf1",
+    "url": "https://www.yahoo.com/news/cnn-bans-white-house-pool-203822057.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nandita Bose and Steve Holland",
+    "published": "2024-06-27T00:00:00Z",
+    "title": "CNN bans White House pool reporters from debate room",
+    "text": "- Oops!Something went wrong.Please try again later. - Oops!Something went wrong.Please try again later. By Nandita Bose and Steve Holland WASHINGTON (Reuters) -The White House Correspondents' Association said on Thursday CNN has rejected multiple requests to include White House pool reporters inside the studio during the first presidential debate between incumbent Joe Biden and Republican rival Donald Trump. The press pool, made up of representatives of major news organizations including Reuters, accompanies the president on foreign and domestic trips and normally has access to any event where he speaks or appears in public, with the goal of keeping the U.S. public informed. It is extremely rare for them to be barred from an event in the United States. \"WHCA is deeply concerned that CNN has rejected our repeated requests to include the White House travel pool inside the studio,\" Kelly O'Donnell, president of the White House Correspondents' Association, said in a statement. \"The pool is there for the 'what ifs?' in a world where the unexpected does happen,\" she said, and to provide \"context and insight by direct observation and not through the lens of the television production.\" These reporters are there to see what is said and done when the microphones and cameras are off, and provide independent observation, she wrote, with duties \"separate from the production of the debate as a news event.\" O'Donnell said both the Biden and Trump campaigns agreed to the WHCA's request. CNN has only agreed to allow one White House print pool reporter to enter the studio during a commercial break to \"briefly observe the setting.\" The network will also allow still photographers from other outlets to cover the candidates inside the studio and will provide a television feed of the debate to other networks. CNN has put in place many other rules for the first showdown including two commercial breaks, no props and muted microphones except when the candidates are recognized to speak. The network said in a statement it is a member of the WHCA and respects the role the group plays to further press freedom and access. But the debate was being held without an audience in a CNN studio and is closed to the press, CNN said. \"Precedent matters for future debates,\" O'Donnell said, alluding to Biden and Trump's face off again in September. The National Association of Black Journalists has also asked CNN to accredit reporters from local Black-owned news organizations, after none of Atlanta's Black news groups got credentials to be on-site for the debate. (Reporting by Nandita Bose and Steve Holland; Editing by David Gregorio)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "steve holland",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "kelly o'donnell",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "nandita bose",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "white house correspondents' association",
+          "sentiment": "none"
+        },
+        {
+          "name": "whca",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:08:06.700+03:00",
+    "updated": "2024-06-28T01:08:06.700+03:00"
+  },
+  {
+    "uuid": "69690d4ba33df0b2e20f47267b8aac5804b7f449",
+    "url": "https://www.tampafp.com/the-future-of-disaster-forecasting-how-genai-can-revolutionize-our-response",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Opinion",
+    "published": "2024-10-17T22:02:00Z",
+    "title": "The Future Of Disaster Forecasting: How GenAI Can Revolutionize Our Response",
+    "text": "Op-Ed By Dr. Sean Subas . Photo: Hurricane Milton Intensified To Cat 5 Threatening Florida’s West Coast As hurricanes Helene and Milton pound the southern U.S., the devastating physical impact is undeniable—destroyed homes, widespread power outages, and entire communities displaced. Yet, amidst this destruction, there’s an opportunity for transformation. These relentless storms shine a bright spotlight on the urgent need to overhaul our disaster forecasting tools, and at the center of this revolution is Generative AI (GenAI).\nThe current hurricane season underscores the limits of traditional forecasting tools, which, despite their advancements, still face challenges in accuracy and speed. This is where GenAI can lead the charge, offering unparalleled advancements in prediction and response. Imagine a network of GenAI-controlled drones, patrolling storm-ravaged skies in real-time, providing live data to forecast models and ensuring no critical detail is missed. These AI-driven systems can quickly assess rapidly changing weather patterns and anticipate storm shifts in ways humans simply can’t match.\nREAD: Hurricane Helene Insured Losses Climb To $1.3 Billion In Florida\nOne such application already in the works is the National Oceanic and Atmospheric Administration’s (NOAA) use of GenAI in hurricane hunting. Their planes, designed to fly into the heart of the storm, collect invaluable data. However, traditional methods have their limits. On one mission, NOAA’s planes were violently tossed around inside Helene’s turbulent core. With GenAI, we could deploy autonomous drones, sparing pilots from these dangerous conditions while feeding real-time storm data to improve forecasting accuracy.\nGenAI doesn’t stop there. It can enhance the predictive power of our models, using vast datasets to analyze storm patterns and offer better forecasts. By processing millions of data points from previous storms, GenAI systems could predict not only a storm’s path but also its likely impact on specific regions—how much flooding to expect, what areas are most at risk of landslides, and how the winds will affect power grids.\nThis level of precision and rapidity could save countless lives. Early warnings powered by GenAI could prompt faster evacuations, better preparedness, and more effective resource allocation for affected regions. The economic savings from such accuracy could also be enormous, as governments and organizations could avoid the unnecessary expenditures that often come with over-preparing or misallocating resources.\nREAD: Florida AG Commissioner Urges USDA To Issue Disaster Declaration For Hurricane Milton Agricultural Damage\nThe power of GenAI is not just about prediction; it’s about real-time responsiveness. Drones equipped with GenAI could autonomously decide where to deliver relief supplies based on evolving storm conditions and needs. They could also guide rescue operations, detecting areas hardest hit or most in need of assistance. Such innovation could transform how we respond to natural disasters, helping us act faster and smarter.\nBut to fully harness the potential of GenAI, we need investment and collaboration across sectors. Governments, tech companies, and research institutions must work together to implement these systems and ensure they are designed for public safety, not just profit. This is an opportunity to make our world safer, more resilient, and better prepared for the storms ahead.\nThe 2024 hurricane season is a clear call to action. GenAI offers a path forward, a way to revolutionize disaster forecasting and response. It’s time we embrace this technology—not just to predict the next storm, but to protect lives in the face of nature’s fiercest challenges.\nDr. Sean Subas is an expert in AI and public policy, focusing on the intersection of technology and electoral integrity.\nPlease make a small donation to the Tampa Free Press to help sustain independent journalism . Your contribution enables us to continue delivering high-quality, local, and national news coverage.\nAndroid Users: Download our free app to stay up-to-date on the latest news.\nConnect with us: Follow the Tampa Free Press on Facebook and Twitter for breaking news and updates.\nSign up: Subscribe to our free newsletter for a curated selection of top stories delivered straight to your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.paypal.com/donate/?hosted_button_id=KWYEB8X3JQ2MY",
+      "https://www.facebook.com/tampafp/",
+      "https://play.google.com/store/apps/details?id=com.tampafpcom.myapp&hl=en_US&gl=US&pli=1",
+      "https://x.com/tampafreepress",
+      "https://facebook.com/tampafp/",
+      "https://www.x.com/tampafreepress",
+      "https://play.google.com/store/apps/details",
+      "https://www.paypal.com/donate/",
+      "https://paypal.com/donate/?hosted_button_id=KWYEB8X3JQ2MY",
+      "https://www.play.google.com/store/apps/details?id=com.tampafpcom.myapp&hl=en_US&gl=US&pli=1",
+      "https://www.facebook.com/tampafp"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:34:33.504+03:00",
+    "updated": "2024-10-18T01:34:33.504+03:00"
+  },
+  {
+    "uuid": "108488a3dd7227e6cbccca207196538bd8b19ebc",
+    "url": "https://www.nysun.com/article/judge-cannon-sets-the-stage-for-what-could-be-a-crushing-blow-for-jack-smith-on-trumps-attorney-client-privilege",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "A.R. HOFFMAN",
+    "published": "2024-06-27T21:17:00Z",
+    "title": "Judge Cannon Sets the Stage for What Could Be a Crushing Blow for Jack Smith on Trump’s Attorney-Client Privilege",
+    "text": "Judge Cannon Sets the Stage for What Could Be a Crushing Blow for Jack Smith on Trump’s Attorney-Client Privilege\nThe Florida judge will hold hearings on whether the 45th president’s attorney’s notes can enter into evidence.\nJudge Aileen Cannon’s decision to revisit another judge’s ruling allowing Special Counsel Jack Smith to collect evidence from one of President Trump’s attorneys could upend the government’s Mar-a-Lago prosecution.\nThe testimony of that lawyer, Evan Corcoran, is crucial to Mr. Smith’s allegations that Trump committed crimes of obstruction at his manse. A district court judge at the District of Columbia, Beryl Howell, ruled that the prosecutor could “pierce” attorney-client privilege, which normally shields communication between a lawyer and his client. At an earlier stage of the case, Mr. Smith convened grand juries at Washington and south Florida.\nMr. Corocran is central to Mr. Smith’s effort to convict Trump for criminal obstruction. Judge Howell allowed the government to interview the attorney before a grand jury, and ordered him to turn over two recordings he made about his interactions with the 45th president. The notes from those recordings disclose efforts by Trump to work to retain possession of the secret documents.\nAttorney-client privilege, while one of the most ancient known to the common law, is not absolute. In Clark v. United States, the Supreme Court ruled that a “client who consults an attorney for advice that will serve him in the commission of a fraud will have no help from the law. He must let the truth be told.” Mr. Corcocran appears in Mr. Smith’s indictment as “Trump Attorney 1.” The special counsel writes that the former president and his valet, Waltine Nauta, moved “boxes that contained documents with classification markings so that Trump Attorney I would not find the documents and produce them.”\nMr. Corcoran’s notes also capture Trump praising an attorney working for Secretary Clinton for deleting her emails. The lawyer has recused himself from the Mar-a-Lago case, though he advises Trump on other matters. The special counsel will have to prove anew that Mr. Corcoran’s “assistance was obtained in furtherance of the criminal or fraudulent activity or was closely related to it.”\nJudge Cannon held sealed proceedings on this issue this week. She writes that Mr. Smith warned her that the reopening of the privilege question could “devolve into a mini-trial.” The jurist, though, is committed to holding a hearing, Judge Howell’s determination notwithstanding.\nThe judge writes that “it is the obligation of this Court to make factual findings afresh on the crime-fraud issue.” She acknowledges that Mr. Smith will likely not be thrilled by the possibility of Mr. Corcoran testifying at this pre-trial session, but affirms that such displeasure “cannot overcome a defendant’s right to make a proper, even if tailored, factual record on an important claim of privilege with constitutional dimensions.”\nJudge Cannon explains in a footnote that Mr. Smith “expressed a general disfavor with subjecting any of his witnesses to cross-examination and possible inconsistent statements.” She allows that Mr. Smith can “request the Court to impose reasonable limitations on the evidence produced to ensure efficiency and control.” She reminds him, though, that Trump bears a “low burden to prove the applicability of the crime-fraud exception.”\nIt was not all good news for Trump. Judge Cannon denied his request for a “Franks hearing,” a forum where a defendant can contest the affidavit that underlies a search warrant. She found that he has not made the requisite preliminary showing to allow such a session. The judge demurred from ruling on some of Trump’s motions to suppress evidence collected at Mar-a-Lago.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "cli",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jack smith",
+          "sentiment": "negative"
+        },
+        {
+          "name": "corocran",
+          "sentiment": "none"
+        },
+        {
+          "name": "howell",
+          "sentiment": "none"
+        },
+        {
+          "name": "evan corcoran",
+          "sentiment": "none"
+        },
+        {
+          "name": "smith",
+          "sentiment": "none"
+        },
+        {
+          "name": "beryl howell",
+          "sentiment": "none"
+        },
+        {
+          "name": "aileen cannon",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "district of columbia",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:48:37.753+03:00",
+    "updated": "2024-06-28T00:48:37.753+03:00"
+  },
+  {
+    "uuid": "99df037f6236d44aadcb4a3c9ef24e12c26bfe8b",
+    "url": "https://milano.corriere.it/notizie/cronaca/24_giugno_06/silvio-berlusconi-un-anno-fa-l-ultima-uscita-pubblica-al-bar-di-milano-2-il-titolare-massimiliano-albanese-e-sempre-qui-con-noi-a278fd2b-cec8-4ce4-9651-0624bf5d2xlk.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matteo Castagnoli",
+    "published": "2024-06-06T00:00:00Z",
+    "title": "Silvio Berlusconi, un anno fa l'ultima uscita pubblica al bar di Milano 2. Il titolare Massimiliano Albanese: «Ci disse: è l'ultima volta che passo da qui»",
+    "text": "Vai a tutte le notizie di Milano Se vuoi restare aggiornato sulle notizie di Milano e della Lombardia iscriviti gratis alla newsletter di Corriere Milano. Arriva ogni giorno nella tua casella di posta alle 7 del mattino . Basta cliccare qui . 6 giugno 2024 ( modifica il 6 giugno 2024 | 11:12) © RIPRODUZIONE RISERVATA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029VaAlA1s6GcG6eTUe652l",
+      "https://whatsapp.com/channel/0029VaAlA1s6GcG6eTUe652l",
+      "https://css2.corriereobjects.it/includes2013/LIBS/css/vendor/plugins/swiper-bundle.min.css",
+      "https://www.css2.corriereobjects.it/includes2013/LIBS/css/vendor/plugins/swiper-bundle.min.css"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-07T00:38:54.576+03:00",
+    "updated": "2024-06-09T04:57:30.629+03:00"
+  },
+  {
+    "uuid": "f50a611f10768a989f9db8c7707c2c19405b4cd2",
+    "url": "https://www.stheadline.com/edu-news/3323861/小六生克服讀寫障礙-獲頒傑出學生",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "小六生克服讀寫障礙 獲頒傑出學生",
+    "published": "2024-03-08T03:58:00Z",
+    "title": "小六生克服讀寫障礙 獲頒傑出學生",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { if(isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined)){ if(debug_mode) console.log(\"Resized? IsMobile=TRUE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits_m['billborad']){ var a = adUnits_m['billborad'][i]; if(debug_mode) console.log(\"Resize MWEB billborad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"][id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"][data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits_m['LREC']){ var a = adUnits_m['LREC'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"][id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"][data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footerm-index'); if(i in adUnits_m['footer']){ var a = adUnits_m['footer'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits_m['popup']){ var a = adUnits_m['popup'][i]; if(debug_mode) console.log(\"Resize MWEB Popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits_m['1x1']){ var a = adUnits_m['1x1'][i]; if(debug_mode) console.log(\"Resize MWEB 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_leaderboard']){ var a = adUnits_m['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_flipad']){ var a = adUnits_m['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits_m['inarticlebanner']){ var a = adUnits_m['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize MWEB inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else if (!isMobile() && typeof adUnits === 'object' && adUnits.length ===undefined){ if(debug_mode) console.log(\"Resized? IsMobile=FALSE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits['billborad']){ var a = adUnits['billborad'][i]; if(debug_mode) console.log(\"Resize WEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"]').not('[data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits['LREC']){ var a = adUnits['LREC'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"]').not('[data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footer-index'); if(i in adUnits['footer']){ var a = adUnits['footer'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits['popup']){ var a = adUnits['popup'][i]; if(debug_mode) console.log(\"Resize popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits['1x1']){ var a = adUnits['1x1'][i]; if(debug_mode) console.log(\"Resize 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_leaderboard']){ var a = adUnits['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_flipad']){ var a = adUnits['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits['inarticlebanner']){ var a = adUnits['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else{ if(debug_mode) console.log(\"Do Nothing during resize\"); } if(isMobile()){ $(\"#keyimg\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg_m\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1\").length >0 ){ $(\"#img_gallery_flipad1\").attr(\"id\", \"img_gallery_flipad1-m\"); } if( $(\"#img_gallery_flipad2\").length >0 ){ $(\"#img_gallery_flipad2\").attr(\"id\", \"img_gallery_flipad2-m\"); } if( $(\"#img_gallery_flipad3\").length >0 ){ $(\"#img_gallery_flipad3\").attr(\"id\", \"img_gallery_flipad3-m\"); } }else{ if( $(\".share-box\").hide() ){ $(\".share-box\").show(); } $(\"#keyimg_m\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1-m\").length >0 ){ $(\"#img_gallery_flipad1-m\").attr(\"id\", \"img_gallery_flipad1\"); } if( $(\"#img_gallery_flipad2-m\").length >0 ){ $(\"#img_gallery_flipad2-m\").attr(\"id\", \"img_gallery_flipad2\"); } if( $(\"#img_gallery_flipad3-m\").length >0 ){ $(\"#img_gallery_flipad3-m\").attr(\"id\", \"img_gallery_flipad3\"); } } gallerynumber_ad(); }; function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 星島申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 財經 投資理財 商業創科 股市 ESG 區塊鏈 地產 樓市資訊 新盤速遞 筍盤推介 海外置業 家居裝修 生活 飲食 好去處 旅遊 時尚購物 生活百科 Art Can 汽車 健康 食用安全 保健養生 減肥運動 醫生教室 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 體育 即時體育 足球世界 波盤王 專家點睇 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 馬經 馬圈快訊 名家專欄 晨操動態 TV 娛樂台 時事台 生活台 產經台 直播Live PLUS 專欄 企業 ST+ 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 教育 教育新聞 小六生克服讀寫障礙 獲頒傑出學生 教育新聞 更新時間：11:58 2024-03-08\n發佈時間：11:58 2024-03-08 字體大小 為鼓勵學生發揮不同潛能，非牟利組織三扶教育昨舉辦傑出學生頒獎禮。今屆頒獎禮有40名中華基督教會香港區會屬下小學的學生得獎，有獲獎的小六學生雖有讀寫障礙，但自幼每日靠拼寫英文和追讀電視字幕，勤加學習，終於由就讀初小時成績平平，到唸小五時考獲全班第一。她坦言平時難免灰心，但想到其他同學努力溫習，只要稍為休息便重燃鬥志。\n中華基督教會基真小學六年級學生馬芊媃（見圖前排中）在幼稚園時被診斷有讀寫障礙，需要靠拼音學習英文，以及追讀電視和電影的字幕認字和辨認讀音。她坦言，學習期間或會洩氣，「有時溫習過後，轉眼間又忘記了怎樣寫，的確會有些灰心。」\n追讀字幕認字辨讀音\n馬芊媃說時常得到媽媽的鼓勵，而且自己有信仰支持，所以更努力溫習，「有時看到其他同學成績那麼好，便會重新燃起鬥志。」\n馬芊媃的媽媽表示，女兒在初小時成績一般，但就讀小五時，已考獲全班第一名。她相信，女兒成績突飛猛進的契機，是她於小四贏得朗誦比賽冠軍，令她感到努力是有回報的。馬芊媃則稱，「溫習期間會把文字形象化，牢牢記住這些字的『形狀』和『輪廓』。」\n另一名得獎學生李竑樂就讀中華基督教會基灣小學（愛蝶灣）六年級，他學習單簧管6年後，考獲演奏一級。他稱，最困難之處是吹奏單簧管時的嘴形，「遇上困難時，便想一想有沒有堅持下去的理由，而我學習單簧管的原因，是希望成為音樂家、作曲家。」\n記者 蔡健行\n--\n《星島申訴王》一周年生日送大禮，正舉行問卷調查，參加者有機會獲得足金串飾、Rasonic 電飯煲、英皇電影禮券及一田超市現金券，點擊答問題贏大獎： https://bit.ly/3P4s70j\n《星島申訴王》推出全新項目「區區有申訴」，並增設「我要讚佢」欄目，現誠邀市民投稿讚揚身邊好人好事，共建更有愛社區。立即「我要讚佢」︰ https://bit.ly/3uJ3yyF\n《星島頭條》APP經已推出最新版本，請立即更新，瀏覽更精彩內容： https://bit.ly/3yLrgY",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://bit.ly/3P4s70j",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.stheadline.comhttps://www.stheadline.com/columnists/latest/",
+      "https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingtaoeducation&tabs=timeline&width=340&height=499&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://e.infogram.com/106e536e-f7a0-4bb7-a722-3cbe686183ab?src=embed",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://bit.ly/3uJ3yyF",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://bit.ly/3yLrgY",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://www.stheadline.comhttps://www.stheadline.com/tv",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://www.bit.ly/3P4s70j",
+      "https://stheadline.comhttps://stheadline.com/columnists/latest/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://www.bit.ly/3uJ3yyF",
+      "https://jobmarket.com.hk/",
+      "https://www.bit.ly/3yLrgY",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://sb.scorecardresearch.com/p",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://instagram.com/singtaoheadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.facebook.com/plugins/page.php",
+      "https://www.stheadline.comhttps://www.stheadline.com/columnists/latest",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://e.infogram.com/106e536e-f7a0-4bb7-a722-3cbe686183ab",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/106e536e-f7a0-4bb7-a722-3cbe686183ab?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsingtaoeducation&tabs=timeline&width=340&height=499&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://stheadline.comhttps://stheadline.com/tv",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-08T06:16:57.884+02:00",
+    "updated": "2024-03-08T06:16:57.884+02:00"
+  },
+  {
+    "uuid": "1d5a8912e3669f1aefb523e4d2db8172e8a27939",
+    "url": "https://www.pinkvilla.com/sports/jordan-been-getting-disrespected-nba-fans-go-ballistic-after-jaylen-brown-snubs-michael-jordan-from-all-time-starting-5-1332218",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Harshita Chawla",
+    "published": "2024-07-25T18:45:00Z",
+    "title": "‘Jordan Been Getting Disrespected’: NBA Fans Go Ballistic After Jaylen Brown Snubs Michael Jordan From All-Time Starting 5 | PINKVILLA",
+    "text": "NBA fans are outraged as Jaylen Brown's all-time starting five excludes Michael Jordan. The surprising snub has sparked heated debates. Take a look. In the ever-evolving world of professional basketball, debates about the greatest players and dream teams are constant and passionate. Fans and analysts alike love to speculate and argue over the all-time greats. Recently, this timeless debate took an intriguing turn when Boston Celtics star Jaylen Brown, fresh off a 2024 NBA Finals victory and a Finals MVP award, was asked to list his all-time NBA starting five. The list he provided has set the basketball world ablaze with discussions and controversies, primarily because of one glaring omission. Jaylen Brown, who has fought hard over the years to solidify his legacy, has finally achieved one of the highest honors in the sport by winning a championship with the Celtics. His contributions were pivotal, earning him the coveted Finals MVP as the Celtics triumphed over the Dallas Mavericks in a five-game series. With this victory, Brown has cemented his place in Celtics history, but he knows the journey to greatness doesn't end with one championship. As he continues to build his legacy, his recent all-time starting five selection has left fans and pundits puzzled and debating his choices. The shocking omission was no Michael Jordan. When House of Highlights posted Jaylen Brown’s all-time starting five on July 24, 2024, the internet exploded with reactions. Brown's picks included Steph Curry, Kobe Bryant, Kevin Durant, LeBron James, and Bill Russell. Michael Jordan, widely regarded as the greatest basketball player of all time, is absent from this lineup. This omission quickly became the focal point of discussions, overshadowing the praise for the other legends on his list. Fans and analysts were quick to express their surprise and confusion. For many, the exclusion of Jordan, a six-time NBA champion and five-time MVP, was unfathomable. Social media buzzed with varying opinions. One fan commented, \"Jordan been getting disrespected as of late. If you got Kobe, you gotta have MJ too.\" READ MORE: Stephen Curry Hints at Unlikely Warriors Exit if THIS Happens Next Season: ‘I’d Have a Hard Time With That’ This sentiment was echoed by many who believe Jordan’s legacy is untouchable. Conversely, another fan pointed out, \"Those are his picks. Everyone doesn't have to include MJ. Michael Jordan to me is the greatest to play the game. But they asked Jaylen Brown his top five.\" This highlights the subjective nature of such lists and the personal preferences that influence them. Brown’s inclusion of Steph Curry and Kevin Durant, while understandable given their incredible careers, further fueled the debate. Curry’s revolutionary impact on the game with his shooting and Durant’s scoring prowess are undeniable, but for many, they don’t surpass Jordan’s all-around excellence and competitive spirit. The controversy surrounding Brown’s list underscores the complexity of comparing players across different eras and styles of play. Fans' reactions are a divided opinion As the discussions continued, it became clear that Jaylen Brown’s all-time starting five had polarized opinions. Some fans and commentators appreciated the modern flair and strategic reasoning behind his picks, while others couldn’t move past the omission of Michael Jordan. A post from Clutch Points summed up the controversy well: \"Jaylen Brown's all-time starting 5 👀 Steph Curry, Kobe Bryant, Kevin Durant, LeBron James, Bill Russell. Do you agree?\" Supporters of Brown’s selections argue that each player on his list has a unique and transformative impact on the game. Steph Curry’s unparalleled shooting ability, Kobe Bryant’s relentless drive and scoring, Kevin Durant’s versatility and efficiency, LeBron James’s all-around brilliance and longevity, and Bill Russell’s unmatched defensive dominance and championship pedigree all make strong cases for their inclusion. However, the absence of Jordan, who epitomizes excellence and competitiveness, remains a sticking point for many. The debate also touches on a broader issue: the generational differences in how greatness is perceived. Older fans who witnessed Jordan’s dominance firsthand often have a different perspective compared to younger fans who grew up idolizing players like Curry and Durant. This generational divide adds another layer to the ongoing discussions about Brown’s controversial list. In conclusion, Jaylen Brown’s all-time starting five has reignited the perennial debate about the greatest players in NBA history. While his picks reflect his personal preferences and the influence of modern basketball, the exclusion of Michael Jordan has sparked widespread debate and differing opinions. This controversy highlights the subjective nature of such discussions and the diverse perspectives of fans. Don't you agree? ALSO READ: Watch: Stephen Curry Stuns Fans in London With Unexpected NBA Store Appearance Latest Articles []https://www.pinkvilla.com/sports/hc-dan-campbells-promo-with-hulk-hogan-after-rnc-speech-leaves-lions-fans-outraged-cried-myself-to-sleep-in-my-wifes-arms-1332174 []https://www.pinkvilla.com/sports/when-shaquille-oneal-beat-28-times-olympic-gold-medalist-and-no-1-athlete-of-21st-century-michael-phelps-in-swimming-1332167",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "michael jordan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jaylen brown",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brown",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "pinkvilla nba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "boston celtics",
+          "sentiment": "none"
+        },
+        {
+          "name": "dallas mavericks",
+          "sentiment": "none"
+        },
+        {
+          "name": "nba",
+          "sentiment": "none"
+        },
+        {
+          "name": "celtics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-26T00:22:42.036+03:00",
+    "updated": "2024-07-26T00:22:42.036+03:00"
+  },
+  {
+    "uuid": "a28be165164e8c862a6c8337f9701936885135dc",
+    "url": "https://www.nouvelles-du-monde.com/virus-hmpv-la-hausse-des-cas-en-chine-est-elle-inquietante",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nouvelles",
+    "published": "2025-01-09T22:07:00Z",
+    "title": "Virus Hmpv, la hausse des cas en Chine est-elle inquiétante ?",
+    "text": "Ces dernières heures, certains médias ont publié des informations inquiétantes concernant un nouveau virus respiratoire qui gagnerait du terrain Chine . Toutefois, comme l’ont précisé les autorités sanitaires du pays, ce ne serait pas un nouveau pathogène mais dis Hmpv un virus qui provoque symptômes respiratoires décrit pour la première fois en 2001 aux Pays-Bas. Même si vous enregistrez un augmentation du nombre de cas (peut-être en raison d’une plus grande sensibilité des nouveaux tests d’investigation), il n’y aurait pas d’urgence dans la gestion de cas.\nQu’est-ce que le Hmpv ? Hmpv est le métapneumovirus humain un agent pathogène isolé pour la première fois 2001 chez certains enfants aux Pays-Bas. Il appartient à la même famille que le virus respiratoire syncytial (VRS) et affecte principalement moi enfants de moins de 5 ans provoquant symptômes respiratoires tels que rhume, mal de gorge, toux, fièvre, respiration sifflante. Elle peut également provoquer des éruptions cutanées et, dans certains cas, l’infection peut se propager aux voies respiratoires inférieures, où elle provoque des lésions plus graves, entraînant bronchite e pneumonie qui nécessitent le intervention médicale . Les personnes les plus exposées aux complications sont enfants de moins d’un an Le personnes âgées et le personnes fragiles .\nComment est-il traité ? Comme pour de nombreux autres virus donnant les mêmes manifestations, il n’y a pas de remèdes spécifiques pour les infections à Hmpv. Il n’existe même pas de vaccin. Cependant, l’agent pathogène est très répandu dans la population et dans la plupart des cas, ils suffisent à guérir repos et médicaments symptomatiques au besoin. Si les symptômes persistent ou s’aggravent, comme toujours, il est essentiel contacter un médecin .\nComment se transmet le virus ? La contagion se produit par gouttelettes de salive puis avec le contact direct avec une personne infectée ou loin surfaces contaminées . Les pics épidémiques surviennent en hiver et au printemps.\nFaut-il s’inquiéter ? La hausse des cas en Chine a alarmé la communauté internationale . Certains médias ont craint des situations d’urgence sanitaire similaires à celles du début de la pandémie de Covid-19, mais pour l’instant il n’y a aucune confirmation. En effet, les autorités chinoises l’ont démenti.\nMême selon plusieurs experts les conditions seraient très différentes de ceux qui ont caractérisé l’émergence du Sars-Cov-2. Hmpv, en fait, ce n’est pas un nouveau virus mais cela existe depuis un certain temps maintenant et il y en a un bonne immunité dans la population mondiale en raison d’infections antérieures. Mais il faut le reconnaître, l’immunité n’est pas durable et on peut être réinfecté tout au long de la vie.\nQuoi qu’il en soit, nous aurions dû tirer une leçon de la pandémie de Covid-19, c’est-à-dire la mettre en pratique. règles d’hygiène pour réduire la contagion : restez à la maison si vous présentez des symptômes et portez un masque, toussez et éternuez dans le creux de votre coude, lavez-vous soigneusement et souvent les mains.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->communicable disease",
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T03:31:30.194+02:00",
+    "updated": "2025-01-10T03:31:30.194+02:00"
+  }
+]

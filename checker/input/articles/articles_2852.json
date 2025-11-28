@@ -1,0 +1,675 @@
+[
+  {
+    "uuid": "cad117bd746a6a46c2ffe39f98634851591fcba9",
+    "url": "https://www.scmp.com/tech/tech-war/article/3300391/hong-kong-embraces-risc-v-open-source-chip-design-secure-spot-china-semiconductors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinmei Shen",
+    "published": "2025-02-27T23:00:00Z",
+    "title": "Hong Kong embraces RISC-V open-source chip design to secure spot in China semiconductors | South China Morning Post",
+    "text": "Hong Kong is betting on the RISC-V open-source chip architecture to drive innovation and secure a position in China’s semiconductor landscape amid escalating US chip restrictions.\\nThe city, which is planning to host the International Young Scientist Forum on Artificial Intelligence, is promoting research in AI and open-source technology, particularly RISC-V, Finance Secretary Paul Chan Mo-po said in his 2025 budget address on Wednesday.\\nRISC-V stands for the fifth generation of the Reduced Instruction Set Computer, a design philosophy for simplified architectures for central processing units (CPUs). As an open-source project, it is free for anyone to use and modify, unlike competing standards such as Intel’s x86, a complex instruction set that dominates personal computers, and Arm’s eponymous proprietary RISC-inspired architecture, which dominates the smartphone market.\\nFirst developed in 2010 by researchers at the University of California, Berkeley, RISC-V is now managed by RISC-V International, a Zurich-based non-profit organisation.\\n\\nWhile not nearly as widely used as x86 or Arm, RISC-V has been rapidly gaining traction because of its open-source code base. This has been especially true in mainland China, where the government and businesses hope it can reduce reliance on foreign proprietary technology amid an intense tech war with the US.\\nLast month, a team from the Chinese Academy of Sciences (CAS), a top government research organisation, announced that it would deliver its RISC-V-based XiangShan CPU this year. The team said earlier this month it had adapted XiangShan to support DeepSeek-R1, the popular open-source reasoning large language model developed by Hangzhou-based AI start-up DeepSeek.\\nChina is doubling down on RISC-V this year, with several large conferences based around the technology. Shanghai will host a RISC-V summit in July, the city announced earlier this week.\\nThe Beijing Institute of Open Source Chip, the CAS-backed XiangShan developer, is hosting a RISC-V ecosystem conference in the Chinese capital on Thursday, followed by a RISC-V conference on Friday organised by Damo Academy, Alibaba Group Holding’s research arm that develops the XuanTie RISC-V processors. Alibaba owns the South China Morning Post.\\nChina’s RISC-V push has alarmed US lawmakers, who last year called for a review of the national security risks associated with China’s advancements in the area, potentially making it a new front in the chip war.\\nHowever, regulatory options for the US to restrain China in this field are “limited”, according to a November report from the Centre for Strategic and International Studies, which noted that RISC-V International operates outside the US.\\nHong Kong’s ambitions to gain a foothold in RISC-V come amid efforts to become an innovation and technology hub, and play a greater role in China’s technological development.\\nLast year, the city said it was setting up its first production line for gallium nitride (GaN) wafers, a third-generation semiconductor material that offers advantages over traditional silicon-based semiconductors, including greater energy efficiency and reduced size. Related manufacturing equipment for this tech currently faces fewer US restrictions.\\nRISC-V represents a “transformative opportunity” for China to achieve technological independence and to lead in semiconductor innovation, said Chan Jun-yu, a partner at Wings Capital Ventures, a Hong Kong-based venture capital fund.\\n“Hong Kong can contribute to China’s RISC-V ecosystem by attracting global applications, fostering international partnerships and serving as a hub for talent and investment,” Chan said.\\nHong Kong’s initiative to develop semiconductors, the “most important component” in all electronics products, could help the city contribute to China’s needs and “solidify” its status as an international hub for innovation and technology, said Edmond Lai, chief digital officer at the Hong Kong Productivity Council. RISC-V is attractive because of its openness, flexibility and low cost, he added.\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Paul Chan Mo-po",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "RISC-V International",
+          "sentiment": "none"
+        },
+        {
+          "name": "Intel",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T01:01:56.057+02:00",
+    "updated": "2025-02-28T01:01:56.057+02:00"
+  },
+  {
+    "uuid": "4220e2d191d5a015f35c4f461e0191e9a0b8854a",
+    "url": "https://finance.stockstar.com/IG2025073100017043.shtml",
+    "ord_in_thread": 0,
+    "author": "智通财经",
+    "published": "2025-07-31T03:30:00Z",
+    "title": "华尔街多空激辩：估值折价，谷歌(GOOGL.US)被低估还是陷入\"创新者窘境\"？_财经频道_证券之星",
+    "text": "在公布财报之后，谷歌母公司Alphabet(GOOGL.US)已成为华尔街最受热议的股票之一。此前，该公司公布强劲的第二季度财报(营收同比增长 14%，营业利润增长 32%)，成功驳斥了一些曾预测因人工智能冲击而即将崩溃的批评者的观点。\n然而，对于 Alphabet 的未来走向仍存在重大分歧，投资者们的意见也出现了分化：一部分人认为其将继续保持主导地位，而另一部分人则担心会受到监管压力以及面临竞争威胁。\n这场辩论围绕着几个关键问题展开：像 ChatGPT 和 Perplexity 这样的人工智能聊天机器人是否会蚕食谷歌利润丰厚的搜索业务?谷歌能否成功将其自身的 AI 项目商业化?美国和欧盟日益严格的监管审查是否会促使 Alphabet 的商业模式发生结构性变革?\n由于该公司的股票估值相较于其他科技巨头而言相对较低，投资者必须权衡这究竟是一个价值投资的机会，还是该公司在不断变化的数字环境中确实面临着生存挑战。\n总的来说，投资者正在关注Alphabet是否陷入了创新者窘境。创新者窘境指优秀企业在面临市场技术的突破性变化时，因组织惯性、需求错配等因素导致竞争优势丧失的管理学现象。\n基本信息\nAlphabet运营着全球最强大的搜索引擎谷歌。该公司的业务范围不仅限于搜索，还包括 YouTube、安卓、谷歌浏览器、谷歌云以及众多“其他投资项目”，如 Waymo(自动驾驶技术)。谷歌的搜索引擎每天处理数十亿次查询，并通过广告为主要贡献了公司的大部分收入。\nYouTube 是全球第二大搜索引擎，对 Alphabet 的广告收入贡献颇大。而谷歌云已发展成为云计算领域的主要竞争者，其年经常性收入已达到 500 亿美元。\n目前，该公司盈利能力强劲，营业利润率高达 32.4%，远高于行业平均水平。增长指标表现良好，最近一个季度的营收同比增长了 14%。\n然而，估值问题对其整体评级产生了影响。该公司的预期市盈率为 19.5 倍，低于标普500 指数的平均值 22.4 倍，也低于“七大科技巨头”其他科技股的平均值近 30 倍。谷歌的股票目前的交易价格为 192.39 美元，今年迄今的涨幅为 1.1%，过去一年的涨幅达到了 12.5%。该股票已从其 52 周高点 208.70 美元回落，但仍远高于其 52 周低点 142.66 美元。在最近的第二季度财报公布后，股价出现了显著的积极反应，因为该公司报告的业绩好于预期，缓解了一些投资者对人工智能冲击的担忧，并展示了其核心广告业务的强大实力。\n竞争压力\nAlphabet面临着来自传统竞争对手以及新兴专注于人工智能领域的公司的日益激烈的竞争。在美国，司法部指控谷歌在广告市场中占据非法垄断地位，并在搜索领域拥有垄断地位。政府正在寻求相关补救措施，可能包括出售谷歌的 Chrome 浏览器和广告交换业务。在欧盟，Alphabet也面临着类似的监管挑战，包括因违反《数字市场法案》而面临高达其全球营业额 10%的罚款。\n除了监管压力之外，像 OpenAI 和 Perplexity 这样的公司正在开发基于人工智能的搜索替代方案，这些方案可能会对谷歌的核心业务构成威胁，而苹果(AAPL.US)据报道也在考虑开发自己的搜索功能或者收购像 Perplexity 这样的人工智能搜索公司。\n多头/空头辩论\n空头认为，Alphabet 在多个方面都面临着生存挑战，即便其目前盈利状况良好，但这仍使其投资风险颇高。最令人担忧的问题是，像 ChatGPT 和 Perplexity 这样基于人工智能的替代产品正在取代传统的搜索行为，这有可能损害谷歌的核心盈利引擎，该引擎约占其利润的三分之二。\n此外，美国和欧盟的监管压力有可能迫使 Alphabet 改变其商业模式，这可能包括出售诸如 Chrome 浏览器及其广告交易平台等关键资产。批评人士还指出，就连谷歌自身的 AI 项目也存在一个两难困境：要么抵制 AI 转型而失去市场份额，要么接受它并蚕食其利润丰厚的搜索广告业务。\n多头反驳称，Alphabet 公司第二季度的业绩表明其具有韧性而非脆弱性，尽管面临人工智能的竞争，但搜索业务收入仍同比增长了 12%。支持者则指出，诸如“圈选搜索”和“人工智能概览”等人工智能功能实际上正在提高而非降低搜索参与度，这些功能带来了 4%至 6%的额外广告展示量。谷歌云令人瞩目的 31%的收入增长以及不断扩大的利润率(第二季度达到 21%)证明了 Alphabet 多元化战略的成功，并证明了其大规模资本支出的合理性。\n乐观主义者还指出，与其他科技巨头相比，Alphabet 的估值相对较低，其EBITDA的远期市盈率为 12 倍，而其过去 10 年的平均市盈率为 12.7 倍，这表明市场低估了其竞争优势和增长潜力。\n特许金融分析师(CFA)Jussi Askola给予Alphabet“卖出”评级称：“目前大多数投资者都对 Alphabet 公司/谷歌持乐观态度。但他们似乎都忽略了一个非常重要的风险。没错，谷歌在人工智能领域处于领先地位，但它仍会蚕食其最赚钱的业务……我已经用像 ChatGPT 这样的人工智能工具取代了 90%以上的谷歌搜索，而且我根本不想再用谷歌了……像 ChatGPT、Claude、Perplexity和Grok这样的人工智能工具在查找正确信息方面比谷歌要高效得多。”\n做空组织Bears of Wall Street给出“卖出”评级并表示：“Alphabet面临着巨大的监管压力，这可能会扰乱其业务模式。在美国，Alphabet被指控在出版商广告服务器市场以及广告交易平台市场拥有非法垄断地位。因此，美国司法部希望该公司放弃其广告交易平台和广告服务器业务，这可能会削弱Alphabet在搜索行业的主导地位。”\n研究公司JR Research表示：“这家公司曾面临诸多挑战，难以让市场相信它不会被人工智能的崛起所颠覆。毕竟，那些纯粹从事人工智能业务的公司正致力于打破 Chrome 在市场上的垄断地位，试图引导用户使用由代理人工智能支持的浏览器，从而彻底改变我们对现有搜索方式的认知。”\n不过，在Alphabet发布强劲的第二季度财报后，高盛将该股目标价从225美元上调至234美元。高盛认为，Alphabet在人工智能(AI)领域的加速投资将推动其核心业务的长期增长。高盛表示，Alphabet最新财报表明其搜索、YouTube 和云业务板块依然表现强劲，但强调该公司不断发展的人工智能战略将成为未来价值的主要驱动力。\nTruist Securities也将Alphabet 目标价从 200 美元上调至 225 美元，同时维持“买入”评级。该公司指出，尽管人工智能竞争加剧和宏观经济存在不确定性，但 Alphabet 的执行表现依然强劲。此外，JMP Securities 重申了对 Alphabet 的“跑赢大盘”评级，并维持 225 美元的目标价。\n摩根大通则维持对 Alphabet的“增持”评级，并设定其目标价为 232美元。这家投资银行指出，Alphabet 已成为其研究范围内“最受热议的股票”之一，近期投资者的讨论重点在于即将作出的有关搜索商业协议案件中赔偿措施的司法裁决。尽管存在法律方面的不确定性，但摩根大通仍将 Alphabet 近期的季度业绩描述为该公司的一个“具有决定性意义的季度”，并进一步坚定了其对该股票的看涨立场。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial and economic news",
+      "Science and Technology->scientific research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->population and census",
+      "Social Issue->demographics",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:17:33.281+03:00",
+    "updated": "2025-07-31T08:22:02.000+03:00"
+  },
+  {
+    "uuid": "2ef44fff9f9e9aabba703cd247f60c1a669a3630",
+    "url": "https://www.tribtoday.com/sports/local-sports/2024/01/penguins-overcome-slow-start-pull-away-late-against-iupui/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Neel Madhavan",
+    "published": "2024-01-07T00:00:00Z",
+    "title": "Penguins overcome slow start, pull away late against IUPUI | News, Sports, Jobs - Tribune Chronicle",
+    "text": "Correspondent photo / Robert Hayes. Brett Thompson drives and scores during the second half of the YSU's win over IUPUI on Sunday at the Beeghly Center.\nYOUNGSTOWN — Youngstown State didn’t have the start it needed on Sunday, but it didn’t matter.\nAfter back-to-back Horizon League losses, head coach Jerrod Calhoun hoped his team would come into the Beeghly Center itching to redeem itself. Yet, a lackluster first half against IUPUI found the Penguins trailing by one at the halftime break.\n“We were supposed to (have) a sense of urgency, but when we came out, it just didn’t feel like we were ready to go,” fifth-year Brett Thompson said.\nSo Thompson stepped up.\nHe scored a season-high 20 points, all coming in the second half, as YSU was able to finally pull away late and hold on for a 75-65 victory over the Jaguars.\n“(Thompson) has an edge — he’s a tough kid,” Calhoun said. “He likes big moments, he can take shots in big moments and he can get downhill and drive the basketball. He’s an emotional player. Sometimes it’s really good and sometimes we gotta try to bring him back in. But I thought he did a really good job of staying the course. … For him to do what he did (Sunday) after a little adversity shows a bit of growth in him, but he’s gotta continue to grow.”\nAfter playing just seven minutes in the first half due to picking up two early fouls, Thompson came alive after halftime. He hit seven of 12 shots in the second half, including four three-pointers to lead the Penguins.\n“It was just me getting into my shots, having more time to play and shoot the ball,” Thompson said. “I just didn’t try to force it and I just stayed within my rhythm. My guys helped me do that — just keeping my mind locked in on the game even though I wasn’t playing in the first half.”\nYSU was able to keep IUPUI at arm’s length for most of the first half, but the Jaguars ended the half on an 8-1 run to take a 32-31 lead at the intermission.\n“What I was really disappointed with was we didn’t have any deflections in the first four minutes,” Calhoun said. “Sometimes you can’t control (them) making a layup of a three-pointer or whatever the shot may be, but you can control your effort defensively. At the first media timeout, I was like we gotta get into the basketball. We gotta get our hands up, deflect the ball, deter what they’re going to do and try to do something here defensively if we’re not going to make any shots.”\nThen Thompson finally started to get going, opening the second half with a pair of buckets to put YSU back in front. Thompson’s scoring helped fuel a pair of runs that helped the Penguins keep their lead.\nBut no matter what YSU did on both ends of the floor, the Penguins struggled to create separation. The Jaguars just would not go away. IUPUI was able to find space in YSU’s zone and shot an efficient 47.2% for the game.\n“We needed to get a little more size out there with John Lovelace Jr., Brandon Rush and Brett Thompson, so we took Bryson (Langdon) out a little more than usual because we were trying to move the needle defensively a little bit,” Calhoun said. “I’m tired of not getting turnovers and getting out and running, so we’ll continue to try to tweak things.”\nWith just under 10 minutes to go, an alley-oop slam dunk from Lovelace Jr. to Gabe Dynes in transition and a deep three-pointer from beyond NBA range by Thompson helped spark YSU for the home stretch.\nClinging to just a two-point lead with 4:35 to go, the Penguins closed out the game with 10 straight points to finally put the Jaguars away.\nAlong with Thompson’s 20, Ziggy Reid chipped in 14, while Lovelace had 13 for the YSU.\nThe rest of this week is a key stretch for YSU. On Wednesday, the Penguins host conference leader Purdue Fort Wayne, before ending their three-game homestand against Wright State on Friday night on national television on ESPN2.\n“This is obviously a huge stretch here — a lot of respect for these two programs,” Calhoun said. “They’re off to great starts, both of them, and hopefully we can keep getting the crowds. I thought we had another great crowd. We got all those kids out there, and it’s really neat to see the crowds here cheering basketball in Youngstown.”\nnmadhavan@tribtoday.com\nNEWSLETTER Today's breaking news and more in your inbox\nI'm interested in (please check all that apply) Daily Newsletter Breaking News Obituaries Are you a paying subscriber to the newspaper? * Yes No",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "robert hayes",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brett thompson",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "calhoun",
+          "sentiment": "none"
+        },
+        {
+          "name": "jerrod calhoun",
+          "sentiment": "none"
+        },
+        {
+          "name": "thompson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jobs - tribune chronicle correspondent",
+          "sentiment": "negative"
+        },
+        {
+          "name": "iupui | news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "iupui",
+          "sentiment": "none"
+        },
+        {
+          "name": "youngstown state",
+          "sentiment": "none"
+        },
+        {
+          "name": "jaguars",
+          "sentiment": "none"
+        },
+        {
+          "name": "ysu",
+          "sentiment": "none"
+        },
+        {
+          "name": "penguins",
+          "sentiment": "none"
+        },
+        {
+          "name": "beeghly center",
+          "sentiment": "none"
+        },
+        {
+          "name": "horizon league",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "youngstown",
+          "sentiment": "none"
+        },
+        {
+          "name": "beeghly center",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:54:12.364+02:00",
+    "updated": "2024-01-08T01:54:12.364+02:00"
+  },
+  {
+    "uuid": "1705d89c8767806cfb2059e9cce10782a1fa7df2",
+    "url": "https://www.livehindustan.com/uttar-pradesh/rampur/story-violent-attack-over-field-dispute-in-bhubra-mustehkam-village-201752708538430.html",
+    "ord_in_thread": 0,
+    "author": "@Live_Hindustan",
+    "published": "2025-07-16T23:28:00Z",
+    "title": "रास्ता काटने के विवाद में मारपीट, चार पर रिपोर्ट दर्ज",
+    "text": "Hindi News\nUttar-pradesh News\nRampur NewsViolent Attack Over Field Dispute in Bhubra Mustehkam Village\nरास्ता काटने के विवाद में मारपीट, चार पर रिपोर्ट दर्ज\nRampur News - मसवासी, संवाददाता। चौकी क्षेत्र के गांव भूबरा मुस्तेहकम के मझरा किशनपुर आरपी गांव में खेत का रास्ता काटने के विवाद को लेकर एक युवक पर लाठी-डंडों और धा\nNewswrap\nहिन्दुस्तान, रामपुरThu, 17 July 2025 04:58 AM\nचौकी क्षेत्र के गांव भूबरा मुस्तेहकम के मझरा किशनपुर आरपी गांव में खेत का रास्ता काटने के विवाद को लेकर एक युवक पर लाठी-डंडों और धारदार हथियार से हमला कर दिया गया। मामले में पुलिस ने गांव निवासी विजय सिंह, राकेश, ओमवीर और महिला सर्वेश के खिलाफ रिपोर्ट दर्ज की है। गांव निवासी पीड़ित ओमकार सिंह ने स्वार कोतवाली में तहरीर देकर आरोप लगाया कि गांव के ही निवासी विजय सिंह ने उसके खेत का रास्ता काट लिया। विरोध पर विजय सिंह ने गाली-गलौच की। बीते 5 जुलाई की रात करीब 9 बजे जब वह खेत से वापस घर लौट रहा था तब विजय सिंह, राकेश, ओमवीर सिंह और राकेश की पत्नी सर्वेश ने उसे घेरकर लाठी-डंडों से पीटना शुरू कर दिया।\nओमकार का कहना है कि इस दौरान राकेश ने धारदार हथियार से उस पर हमला कर दिया। जिससे उसके हाथ पर चोट आई। शोर सुनकर ग्रामीण इकट्ठा हो गए। तब जाकर वह किसी तरह बचकर थाने पहुंचा। जहां उसका मेडिकल परीक्षण कराया गया। पुलिस ने पीड़ित की तहरीर पर चारों आरोपियों के खिलाफ रिपोर्ट दर्ज कर जांच शुरू कर दी है।\nलेटेस्ट Hindi News ,\n बॉलीवुड न्यूज, बिजनेस न्यूज, टेक\n, ऑटो, करियर , और राशिफल,\nपढ़ने के लिए Live Hindustan App डाउनलोड करें।",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->assault",
+      "Crime, Law and Justice->law enforcement",
+      "Social Issue->abusive behaviour",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_sa",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:46:20.788+03:00",
+    "updated": "2025-07-18T05:04:26.000+00:00"
+  },
+  {
+    "uuid": "72a95741c685c3643f4189539b10a508c2233aa8",
+    "url": "https://www.eldesmarque.com/futbol/sevilla-fc/20250319/jose-luis-mendilibar-reconocimiento-respeto-aficion-betis_300617663.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pepe Jiménez",
+    "published": "2025-03-19T22:49:00Z",
+    "title": "El reconocimiento de José Luis Mendilibar a la afición del Betis",
+    "text": "José Luis Mendilibar y el respeto de la afición del Betis: \"Lo agradezco\"\n-\nEl técnico no olvida su paso por el Sánchez-Pizjuán\n-\nAnalizó la actualidad futbolística según su punto de vista\n-\nLa humildad de Mendilibar tras ganar en Oporto con el Olympiacos: \"Nosotros no somos capaces de dar lecciones\"\nJosé Luis Mendilibar, exentrenador del Sevilla, atendió a los micrófonos de El Pelotazo de Canal Sur y, a pesar del paso de los meses desde que abandonó el Sánchez-Pizjuán, el ex del Eibar no dudó en recordar -y dejar algún recado- todo lo que ocurrió en Nervión con un grato recuerdo de la afición... del Real Betis.\nSumergido en una durísima pelea en Grecia, José Luis Mendilibar comenzó la entrevista reconociendo que parte de lo conseguido en los últimos años se lo debe al Sevilla. \"Hasta que llegué allí, parecía que solo podía competir por la categoría. La mentalidad que tienen, por todo lo que han ganado, nos la contagió. Después llegamos a Grecia, a un equipo acostumbrado a ganar, y nos sirvió\".\n\"Cuando llegué a Sevilla, aunque estaba casi en descenso, teníamos muy buenos futbolistas. Me ayudé de ellos para crecer yo también. Es lo que gané allí, saber jugar cada tres días, llegamos allí y había que preparar los partidos en dos días. Eso también te hace ser mejor entrenador\", añadía poco después.\nJosé Luis Mendilibar, el derbi y el respeto del Real Betis\nEn términos de derbi, Mendilibar se apoyó en las palabras de Adriá Pedrosa, que decía que desde que llegó el Betis ha sido favorito y no ha conseguido ganar, y recordó que este duelo \"no tiene nada que ver con el resto, es igualdad absoluta\". \"El Sevilla perdió ante el Athletic y el Betis ganó como ganó, no creo que haya tanta diferencia entre ambos\", añadía.\nEn esta línea, algo que agradeció Mendilibar, más allá de la rivalidad existente, es el respeto que le mostró la afición del Real Betis durante su estancia en la ciudad. \"No siento esa rivalidad que existe. Cuando paseo por la ciudad, también me pasa aquí en Grecia, siento el respeto. No sé si será porque no estuve mucho tiempo, porque cualquier metedura de pata sirve para que te puedan decir algo, pero no me ha pasado nunca nada\".\nLukebakio, Isaac Romero... y un palo a Víctor Orta\nPara finalizar, José Luis Mendilibar, como ha hecho en otras tantas ocasiones, no tuvo reparos en mostrar su descontento con el trabajo de Víctor Orta. Tras reconocer que \"rara vez firmas sin saber lo que te van a dar\", recordó que él pidió \"un zurdo para jugar por la izquierda\" y el director deportivo le trajo a Dodi Lukebakio.\n\"Yo fui el que más le aproveché, es un buen futbolista y nos dios cuando estuvo, pero nosotros pedimos una cosa y a veces te traen otras, te dicen que juega por la izquierda y tal... no, mira, jugó en la derecha y otras por dentro; en la izquierda son cuatro veces\", comentaba.\nFinalmente, tras destacar el excelente rendimiento de Isaac Romero -futbolista al que él no le dio la oportunidad-, acabó su entrevista dándole otro golpe al trabajo de Orta. \"¿Críticas a Pimienta? No me sorprende. Cuando yo llegué era el tercer entrenador y cuando me fui llegaron otros dos. El técnico tiene su responsabilidad, pero normalmente no es el que hace el equipo. Cuando tantos entrenadores fallan, igual alguno falla también más por ahí\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->soccer",
+      "Human Interest->award and prize"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:09:56.134+02:00",
+    "updated": "2025-03-20T01:09:56.134+02:00"
+  },
+  {
+    "uuid": "d211b6eb8d127da3a48f4f6a8136e4a705b677e4",
+    "url": "https://www.bishop-accountability.org/2024/05/catholic-churchs-struggle-with-abuse-crisis-reforms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anne Barrett Doyle",
+    "published": "2024-05-24T08:36:00Z",
+    "title": "Catholic Church’s struggle with abuse crisis reforms",
+    "text": "Signs of the times. The Durham University report on abuse, released April 30 after a four-year study, highlights the importance of listening to abuse survivors in restoring trust and changing Catholic culture. In a “ listening Church ” that tries to be synodal, it is interesting to see the kind of speakers that are placed in front of young Catholics to deliver a “commencement speech” at graduation ceremonies in Catholic colleges and universities in the United States. The controversial speech delivered on May 11 by a famous football player and traditionalist Catholic, Harrison Butker , to the class of 2024 at Benedictine College in Kansas is just one example of the bizarre situation in which the U.S. Catholic Church finds itself.\nI followed the reactions to that commencement speech the same week I read “ The Cross of the Moment. A Report from the Boundary Breaking Project ,” the final report of the Center for Catholic Studies at Durham University in the United Kingdom. The 194-page-long report, released on April 30, is a four-year study that listened to the voices of victims and survivors of child sexual abuse across the Catholic community. It is one of the major milestones in the research on the abuse crisis in the Catholic Church (in this case, England and Wales) and is centered on the key function of listening to deal with the phenomenon of sexual abuse: listening to survivors, listening to the local Church, and listening to religious communities. The act of listening is necessary for what the report calls “the possibilities of redemption” with three specific pathways: restorative approaches; conversation and listening in parish communities, and different choices in building our common life. It points to paths to restore trust and change Catholic culture. It provides examples of the possibility of redemptive paths, such as, the work of the charity LOUDfence .\nListening to victims and survivors The Durham University report comes at an important moment in the history of the abuse crisis in the Catholic Church. During the Synod on Synodality that began in 2021, the theme of abuse, particularly related to clericalism, has emerged in discussions. However, it remains uncertain how much structural reform will result from the second assembly of the Synod in October 2024. But there is a link between synodality and the theme of listening to victims and survivors for a Church on the path to reform. In a recent interview, Jesuit Father Hans Zollner , director of the Rome-based Insitute of Anthropology – Interdisciplinary Studies on Human Dignity and Care at the Pontifical Gregorian University, and member of the Pontifical Commission for the Protection of Minors between 2014 and 2023, said: “The encounter with victims and survivors of abuse and with the resistance in the Church and in society to deal with the phenomenon of abuse has changed me”. He also added: “To many in the Church — and not just Church leaders — it is not clear yet that marginal corrections are simply not enough [to deal with the phenomenon of abuse].” Further reading: Synodality and the abuse crisis: The Church is still stuck in Trent\nThe Durham University report also points to the necessary connection between the option of listening to victims and survivors and the institutional dimension of the Church in the Vatican: “Although Pope Francis set up the Pontifical Commission for the Protection of Minors (PCPM) as a body within papal structures through which survivors advised the pope and Holy See, that body has experienced many difficulties and resignations. This research has not explicitly focused on the role of the Holy See, but neither can the context of the Catholic Church in England and Wales be separated from what happens there.”\n“The Cross of the Moment” comes at a momentous time. Besides the Synod, something important could happen soon in Rome for the Catholic Church regarding the phenomenon of abuse. On June 29 the president of the PCPM, Cardinal Sean O’Malley of Boston, turns 80, meaning that he reaches the mandatory retirement age. This could give Pope Francis the opportunity to reshape the leadership of the commission with another president, who might not be a cardinal. This would reframe the relationship between the PCPM and the Dicastery of the Doctrine of the Faith now led by Cardinal Victor Manuel Fernandez. The 2022 apostolic constitution of reform of the Roman Curia, Praedicate Evangelium , put the PCPM within the Dicastery for the Doctrine of the Faith. This means that in the past two years there has been a kind of diarchy — with two cardinals, O’Malley and Fernandez, visibly and jointly in charge, at least “politically” in the Vatican’s efforts on the abuse crisis front.\n“Delicate appointment” If the next president of the PCPM is not a cardinal, this would put more responsibility on Cardinal Fernandez. In a July 1, 2023 social media post, Cardinal Fernandez said he had initially declined the appointment because he did not feel qualified to handle the abuse crisis . In his unusual letter of appointment, also dated July 1, 2023, Francis wrote to Fernandez: “Given that for disciplinary matters — especially related to the abuse of minors — a specific Section has recently been created with very competent professionals, I ask you as prefect to dedicate your personal commitment more directly to the main purpose of the Dicastery which is ‘keeping the faith’.”Further reading: Pope Francis’ efforts to deal with the clergy sex abuse crisis need corrections\nIt is unlikely that Cardinal O’Malley’s departure will make Pope Francis reverse the choice made with Praedicate Evangelium , that is, to put the PCPM in the Dicastery for Laity, Family and Life, where probably it should have been. Some experts had already recommended this during the drafting of the apostolic constitution.\nHowever, it is clear that regardless of who succeeds Cardinal O’Malley in Boston and as PCPM president, his departure marks the end of an era in the global history of the abuse crisis. Cardinal O’Malley, appointed in 2003 following the Boston Globe “Spotlight” investigation, was also the first president of the pontifical commission created by Pope Francis in 2014. His retirement creates the conditions for what will be one of the most delicate appointments in Francis’ pontificate .\nMassimo Faggioli @MassimoFaggioli\n[Further reading: The clergy sex abuse crisis and the Vatican’s legitimacy on the global stage ]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://international.la-croix.com/news/editorials/the-synod-on-synodality-let-the-listening-begin/15062",
+      "https://cruxnow.com/vatican/2023/07/new-vatican-doctrine-czar-says-hes-not-qualified-to-handle-abuse-cases",
+      "https://www.durham.ac.uk/media/durham-university/research-/research-centres/catholic-studies-centre-for-ccs/The-Cross-of-the-Moment_digital.pdf",
+      "https://international.la-croix.com/news/signs-of-the-times/the-clergy-sex-abuse-crisis-and-the-vaticans-legitimacy-on-the-global-stage/16916",
+      "https://international.la-croix.com/news/signs-of-the-times/pope-francis-efforts-to-deal-with-the-clergy-sex-abuse-crisis-need-corrections/17609",
+      "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2023/07/01/230701a.html",
+      "https://international.la-croix.com/news/religion/synodality-and-the-abuse-crisis-the-church-is-still-stuck-in-trent/11456",
+      "https://www.cnn.com/2024/05/16/sport/harrison-butker-commencement-speech-analysis-cec/index.html",
+      "https://www.feinschwarz.net/interview-zollner/",
+      "https://international.la-croix.com/news/religion/the-limits-of-a-pontificate-part-ii/12179",
+      "https://loudfence.com/",
+      "https://www.international.la-croix.com/news/religion/the-limits-of-a-pontificate-part-ii/12179",
+      "https://cnn.com/2024/05/16/sport/harrison-butker-commencement-speech-analysis-cec/index.html",
+      "https://www.international.la-croix.com/news/signs-of-the-times/pope-francis-efforts-to-deal-with-the-clergy-sex-abuse-crisis-need-corrections/17609",
+      "https://feinschwarz.net/interview-zollner/",
+      "https://durham.ac.uk/media/durham-university/research-/research-centres/catholic-studies-centre-for-ccs/The-Cross-of-the-Moment_digital.pdf",
+      "https://www.international.la-croix.com/news/signs-of-the-times/the-clergy-sex-abuse-crisis-and-the-vaticans-legitimacy-on-the-global-stage/16916",
+      "https://www.international.la-croix.com/news/religion/synodality-and-the-abuse-crisis-the-church-is-still-stuck-in-trent/11456",
+      "https://www.press.vatican.va/content/salastampa/en/bollettino/pubblico/2023/07/01/230701a.html",
+      "https://www.international.la-croix.com/news/editorials/the-synod-on-synodality-let-the-listening-begin/15062",
+      "https://www.feinschwarz.net/interview-zollner",
+      "https://loudfence.com",
+      "https://www.loudfence.com/",
+      "https://www.cruxnow.com/vatican/2023/07/new-vatican-doctrine-czar-says-hes-not-qualified-to-handle-abuse-cases"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "harrison butker",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "durham university",
+          "sentiment": "negative"
+        },
+        {
+          "name": "catholic church",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "catholic",
+          "sentiment": "none"
+        },
+        {
+          "name": "center for catholic studies",
+          "sentiment": "none"
+        },
+        {
+          "name": "benedictine college",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. catholic church",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "kansas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-24T16:10:01.450+03:00",
+    "updated": "2024-05-24T16:10:01.450+03:00"
+  },
+  {
+    "uuid": "1e3e0cd9c13caf1042a66feebb62b5811d7a5eb3",
+    "url": "http://news.10jqka.com.cn/20250424/c667703685.shtml",
+    "ord_in_thread": 0,
+    "author": "经济参考报",
+    "published": "2025-04-23T22:56:00Z",
+    "title": "多项利好支撑一季度消费市场平稳开局",
+    "text": "4月23日，记者从商务部获悉，今年以来，各级商务主管部门大力实施提振消费专项行动，加力扩围开展消费品以旧换新，扩大服务消费，创新消费场景，消费市场实现平稳开局，我国超大规模市场的活力潜力进一步释放。\n　　根据商务部数据，一季度，社会消费品零售总额12.47万亿元，同比增长4.6%，增速比上年全年加快1.1个百分点。其中，3月份增长5.9%。一季度，居民人均消费支出同比增长5.2%；最终消费支出拉动GDP增长2.8个百分点，对经济发展的基础性作用进一步巩固。\n　　商务部消费促进司负责人表示，一季度以旧换新成效明显，绿色智能产品销售快速增长。商品零售额同比增长4.6%，增速比上年全年加快1.4个百分点。限额以上单位商品零售额增长5.8%，增速比上年全年加快3.1个百分点。其中，通讯器材、文化办公用品、家电、家具零售额同比分别增长26.9%、21.7%、19.3%和18.1%。据汽车流通协会数据，一季度乘用车零售量同比增长5.8%，其中新能源乘用车零售量增长36.4%，渗透率达47.2%。3月份，部分重点监测企业智能家居产品销售额同比增长10%以上。\n　　服务消费方面，上述负责人指出，一季度，服务零售额同比增长5.0%，增速比商品零售额快0.4个百分点。《哪吒2》等国产佳片带动观影热潮，一季度全国电影票房244亿元，同比增长约48%，创历史新高。\n　　值得关注的是，一季度，网上零售额同比增长7.9%，其中实物商品网上零售额增长5.7%，占社零总额比重为24.0%。一季度，限额以上零售业实体店商品零售额同比增长4.4%，增速比1月至2月份加快1.6个百分点。\n　　“随着各项扩消费政策措施持续发力，‘购在中国’系列活动有序开展，人工智能等新技术加快在消费领域应用，消费市场有望继续呈现平稳发展态势，将为经济持续回升向好提供有力支撑。”上述负责人说。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->economy",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Health->public health",
+      "Health->health care approach",
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T02:15:19.271+03:00",
+    "updated": "2025-04-24T02:15:19.271+03:00"
+  },
+  {
+    "uuid": "a934289bf35817e81c25579270863d6f548daf67",
+    "url": "https://www.archyworldys.com/yesilcams-master-actress-sevil-ustekin-was-sent-off-on-her-final-journey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyworldyscom",
+    "published": "2024-08-30T07:51:00Z",
+    "title": "Yeşilçam’s master actress Sevil Üstekin was sent off on her final journey",
+    "text": "Yeşilçam’s master actress Sevil Üstekin was sent off on her final journey\nOne of the actresses of Turkish Cinema and Yeşilçam, Sevil Üstekin, who is remembered with the characters she played in the films “Kapıcılar Kral” and “Şaban Oğlu Şaban”, lost her…\nThe post Yeşilçam’s master actress Sevil Üstekin was sent off on her final journey appeared first on Worldys News .\nDaniel Sancho: 4 keys to the case of the Spanish chef sentenced to life imprisonment in Thailand for murdering and dismembering Colombian surgeon Edwin Arrieta\nDaniel Sancho: 4 keys to the case of the Spanish chef sentenced to life imprisonment in Thailand for murdering and dismembering Colombian surgeon Edwin Arrieta\nImage supply, EPA Photo caption, Daniel Sancho was convicted of killing Edwin Arrieta.Article data Author, Writing Author’s title, BBC News World August 29, 2024 Spanish chef Daniel Sancho was discovered responsible on Thursday of the homicide and dismemberment of Colombian plastic surgeon Edwin Arrieta in Thailand and sentenced to life in jail. The prosecution accused […]\nThe post Daniel Sancho: 4 keys to the case of the Spanish chef sentenced to life imprisonment in Thailand for murdering and dismembering Colombian surgeon Edwin Arrieta appeared first on World Today Journal .\nand\n“There is no such thing as a bad mood”: the popular actress impressed with her cheerfulness\n“There is no such thing as a bad mood”: the popular actress impressed with her cheerfulness\nPopular actress, star of the series “Serf” Natalka Denysenkowho came under criticism, showed photos from the vacation she spent with her son…\nThe post “There is no such thing as a bad mood”: the popular actress impressed with her cheerfulness appeared first on Daily Weby .\nand",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.dailyweby.com/",
+      "https://www.dailyweby.com/there-is-no-such-thing-as-a-bad-mood-the-popular-actress-impressed-with-her-cheerfulness/",
+      "https://www.world-today-journal.com/",
+      "https://www.worldysnews.com/",
+      "https://www.worldysnews.com/yesilcams-master-actress-sevil-ustekin-was-sent-off-on-her-final-journey/",
+      "https://www.world-today-journal.com/daniel-sancho-4-keys-to-the-case-of-the-spanish-chef-sentenced-to-life-imprisonment-in-thailand-for-murdering-and-dismembering-colombian-surgeon-edwin-arrieta/",
+      "https://worldysnews.com/",
+      "https://dailyweby.com/",
+      "https://dailyweby.com/there-is-no-such-thing-as-a-bad-mood-the-popular-actress-impressed-with-her-cheerfulness/",
+      "https://www.worldysnews.com/yesilcams-master-actress-sevil-ustekin-was-sent-off-on-her-final-journey",
+      "https://world-today-journal.com/",
+      "https://world-today-journal.com/daniel-sancho-4-keys-to-the-case-of-the-spanish-chef-sentenced-to-life-imprisonment-in-thailand-for-murdering-and-dismembering-colombian-surgeon-edwin-arrieta/",
+      "https://www.world-today-journal.com",
+      "https://www.world-today-journal.com/daniel-sancho-4-keys-to-the-case-of-the-spanish-chef-sentenced-to-life-imprisonment-in-thailand-for-murdering-and-dismembering-colombian-surgeon-edwin-arrieta",
+      "https://www.dailyweby.com",
+      "https://www.dailyweby.com/there-is-no-such-thing-as-a-bad-mood-the-popular-actress-impressed-with-her-cheerfulness",
+      "https://worldysnews.com/yesilcams-master-actress-sevil-ustekin-was-sent-off-on-her-final-journey/",
+      "https://www.worldysnews.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sevil üstekin",
+          "sentiment": "none"
+        },
+        {
+          "name": "edwin arrieta daniel sancho",
+          "sentiment": "none"
+        },
+        {
+          "name": "yeşilçam",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "epa",
+          "sentiment": "none"
+        },
+        {
+          "name": "worldys news",
+          "sentiment": "none"
+        },
+        {
+          "name": "bbc news world",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "thailand",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T16:13:57.443+03:00",
+    "updated": "2024-08-30T16:13:57.443+03:00"
+  },
+  {
+    "uuid": "7855b3f9aa46e08bd47a94eb63f47ca1c4577ec3",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7368648.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "消费ETF基金（159670）跌0.54%，半日成交额98.32万元|ETF基金_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，消费ETF基金（159670）跌0.54%，报0.925元，成交额98.32万元。消费ETF基金（159670）重仓股方面， 美的集团 截止午盘跌0.65%， 贵州茅台 涨0.00%， 五粮液 跌0.47%， 格力电器 跌0.63%， 伊利股份 跌0.39%， 山西汾酒 跌0.08%， 海尔智家 跌0.80%， 海天味业 跌3.23%， 三花智控 涨3.26%， 中国中免 涨0.21%。\n消费ETF基金（159670）业绩比较基准为中证消费50指数收益率，管理人为国联安基金管理有限公司，基金经理为章椹元、黄欣，成立（2023-04-14）以来回报为-7.03%，近一个月回报为-4.84%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->investment and opinion pieces",
+      "Economy, Business and Finance->products and services",
+      "Health->medical condition",
+      "Health->health organisation",
+      "Health->health care approach",
+      "Social Issue->welfare",
+      "Social Issue->charity",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:29.037+03:00",
+    "updated": "2025-06-19T04:41:53.000+00:00"
+  },
+  {
+    "uuid": "b2c8a157672d9cea8893ab76322c37ea42771bf7",
+    "url": "https://www.antenadosnofutebol.com.br/mercado-da-bola/botafogo-e-avisado-de-decisao-do-zenit-sobre-liberar-wendel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "busberti",
+    "published": "2025-01-16T21:03:00Z",
+    "title": "Botafogo é avisado de decisão do Zenit sobre liberar Wendel",
+    "text": "Primeira vitória em 2025\nO Botafogo venceu a Portuguesa-RJ na última terça-feira (14), pela segunda rodada do Campeonato Carioca, por 2 a 0. Os tentos do Fogão foram marcados por Kauê e Kayke, sendo os primeiros três pontos na competição.\nEnquanto os principais jogadores ainda não retornaram, a diretoria botafoguense segue de olho no mercado da bola. Um dos novos objetivos do Fogão nesta janela é Wendel, do Zenit, da Rússia.\nNovidade nas negociações\nNesta quinta-feira (16), uma novidade sobre as negociações veio à tona, segundo o Lance!, os russos só querem liberar o meio-campista em junho. John Textor e cia seguem conversando com a equipe do leste europeu para que o jogador chegue no Rio de Janeiro nos próximos dias, para fazer pré-temporada.\nContudo, de acordo com a reportagem, o volante – que gostaria de retornar ao Brasil no momento – não pretende forçar uma saída, onde tem moral nos bastidores. O contrato de Wendel com o Zenit é até o final de 2028.\nNa última temporada o jogador brasileiro de 27 anos atuou em 35 partidas, marcou quatro gols e contribuiu com dez assistências. Além do Botafogo, outros clubes brasileiros fizeram sondagens ao atleta, como o Palmeiras.\nWendel atuando no Zenit em 2024 – (Photo by Anatoliy Medved/Icon Sportswire via Getty Images)\nRumo a Europa?\nO Zenit, em contrapartida, está interessado em Luiz Henrique e pode desembolsar até 25 milhões de Euros (R$ 155,5 milhões) pelo camisa 7. Porém, o atacante do Glorioso também está na mira de outros times europeus e sua ida a Rússia não será fácil.\nVeja também\nNa mira do Botafogo, Claudinho, do Zenit, recebe proposta do Palmeiras\nIgor Jesus também segue tendo sondagens do futebol europeu, o Galatasaray-TUR vem estudando uma proposta. John Textor afirmou recentemente, que não pretende liberar o centroavante antes do Super Mundial em 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->soccer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:47:27.741+02:00",
+    "updated": "2025-01-17T00:47:27.741+02:00"
+  }
+]

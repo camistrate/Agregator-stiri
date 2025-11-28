@@ -1,0 +1,562 @@
+[
+  {
+    "uuid": "a047b8494d3ca434be46dc2a11de33e8e7eeb616",
+    "url": "https://companies.rbc.ru/news/6Y7b1zumS1/laboratoriya-kasperskogo-fiksiruet-vsplesk-atak-troyantsa-efimer/",
+    "ord_in_thread": 0,
+    "author": "«Лаборатория Касперского»",
+    "published": "2025-08-14T08:13:00Z",
+    "title": "«Лаборатория Касперского» фиксирует всплеск атак троянца Efimer",
+    "text": "«Лаборатория Касперского» фиксирует всплеск атак троянца Efimer\nОпасный зловред распространяется под видом популярных фильмов и юридических претензийЛетом 2025 года «Лаборатория Касперского» фиксирует всплеск атак с использованием троянца Efimer. Зловред распространяется через взломанные WordPress-сайты, вредоносные торренты и электронную почту. Его основное назначение — кража и подмена криптокошельков, но при помощи дополнительных скриптов он может подбирать пароли к сайтам WordPress и собирать базы электронных адресов для дальнейшей рассылки вредоносных писем. Эксперты компании обращают внимание, что попытки таких атак замечены в нескольких странах, в том числе в России.\nОтличительная черта кампании в том, что авторы Efimer атакуют как частных, так и корпоративных пользователей. В первом случае злоумышленники используют в качестве приманки торрент-файлы якобы с популярными фильмами, во втором — фишинговые письма, которые выдаются за претензии о неправомерном заимствовании слов или фраз, зарегистрированных другой компанией. Первые версии этого троянца появились предположительно в октябре 2024 года. Тогда он распространялся через взломанные WordPress-сайты. Эту схему злоумышленники используют до сих пор, однако летом этого года они начали также рассылать троянец по электронной почте.\nКак происходит атака на частных пользователей. Злоумышленники ищут плохо защищенные WordPress-сайты, подбирают к ним пароль, публикуют на таких ресурсах сообщение с предложением скачать один из недавно вышедших фильмов и дают ссылку на запароленный архив с торрент-файлом. Вредоносный файл маскируется под проигрыватель.\nКак происходит атака на сотрудников компаний. В июне 2025 года эксперты «Лаборатории Касперского» обнаружили, что теперь троянец распространяется также и по корпоративным почтовым адресам. Жертвой может стать как небольшой, так и крупный бизнес. В фишинговых письмах говорится, что юристы некой корпорации проверили домен, принадлежащий получателю, и заметили, что в его названии есть слова или фразы, якобы уже зарегистрированные этой организацией. По их словам, они не будут подавать в суд, если получатель письма сменит название домена, и даже готовы выкупить его. Сам домен в письме не называется. Детали (в чем именно нарушение и что предлагают за выкуп) якобы можно узнать, если открыть вложение. К письму прикреплен запароленный архив, но на самом деле в нем находится вредоносный файл. Если его запустить, компьютер будет заражен, а пользователь увидит только уведомление об ошибке.\nПродукты «Лаборатории Касперского» детектируют это вредоносное ПО как HEUR:Trojan-Dropper.Script.Efimer, HEUR:Trojan-Banker.Script.Efimer, HEUR:Trojan.Script.Efimer, HEUR:Trojan-Spy.Script.Efimer и защищают пользователей от него.\n«Для защиты от подобного рода угроз мы призываем не скачивать торрент-файлы из незнакомых или сомнительных источников, не открывать вложения в подозрительных письмах, особенно от неизвестных отправителей, а также установить на все устройства надежное защитное решение, эффективность технологий которого\n[подтверждается]независимыми тестами. Для разработчиков и администраторов сайтов важно принимать меры по обеспечению безопасности своих ресурсов от взлома и распространения вредоносного ПО. Они включают в себя регулярное обновление программного обеспечения, использование сильных паролей и двухфакторной аутентификации, а также мониторинг сайта на наличие признаков взлома», — комментирует Владимир Гурский, исследователь угроз в «Лаборатории Касперского».\nРубрики\nИнтересное:\nНовости отрасли:\nВсе новости:\nПубликация компании\nКонтакты\nСоциальные сети\nРубрики",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "War, Conflict and Unrest->cyber warfare",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ru",
+        "top_news_il",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:36:08.433+03:00",
+    "updated": "2025-08-15T12:08:55.000+03:00"
+  },
+  {
+    "uuid": "07ecaeef7a33b9673d72031ad1957b3cb75a8913",
+    "url": "http://doc.afp.com/34999YE",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steven TRASK, Andrew BEATTY",
+    "published": "2023-12-31T06:41:00Z",
+    "title": "After war, bots and Barbie, world rings in 2024",
+    "text": "Jubilant crowds began bidding farewell to the hottest year on record Sunday, closing a turbulent 12 months marked by clever chatbots, climate crises and wrenching wars in Gaza and Ukraine.\nThe world's population -- now more than eight billion -- will see out the old and usher in the new, with many hoping to shake the weight of high living costs and global tumult.\nIn Sydney, the self-proclaimed \"New Year's capital of the world\", more than a million partygoers packed the harbour foreshore, with city officials and police warning that all vantage points were full.\nSydneysiders gathered through the day at prominent sites, defying uncharacteristically dank weather, and they were not disappointed when the Harbour Bridge and other landmarks were garlanded in light and colour by eight tonnes of fireworks.\nSydney's spectacular show lit the fuse on 2024, a year that will bring elections concerning half the world's population and a summer Olympiad celebrated in Paris.\nThe last 12 months brought \"Barbiegeddon\" at the box office, a proliferation of human-seeming artificial intelligence tools, and a world-first whole-eye transplant.\nIndia outgrew China as the world's most populous country, and then became the first nation to land a rocket on the dark side of the moon.\nIt was also the hottest year since records began in 1880, with a spate of climate-fuelled disasters striking from Australia to the Horn of Africa and the Amazon basin.\nFans bade adieu to \"Queen of Rock 'n' Roll\" Tina Turner, \"Friends\" actor Matthew Perry, hell-raising Anglo-Irish songsmith Shane MacGowan and master dystopian novelist Cormac McCarthy.\n- Rebuilding -\nPerhaps more than anything, 2023 will be remembered for war in the Middle East -- for Hamas's brutal October 7 raids on southern Israel and Israel's ferocious reprisals.\nThe United Nations estimates that almost two million Gazans have been displaced since Israel's siege began -- about 85 percent of the peacetime population.\nWith once-bustling Gaza City neighbourhoods reduced to rubble, there were few places left to mark the new year -- and fewer loved ones to celebrate with.\n\"It was a black year full of tragedies,\" said Abed Akkawi, who fled the city with his wife and three children.\nThe 37-year-old, now living in a UN shelter in Rafah, southern Gaza, said the war had obliterated his house and killed his brother.\n\"God willing this war will end, the new year will be a better one, and we will be able to return to our homes and rebuild them, or even live in a tent on the rubble,\" he told AFP.\nThere was also hope in Ukraine, where Russia's invasion grinds towards its second anniversary, and defiance in the face of a renewed assault from Moscow.\n\"Victory! We are waiting for it and believe that Ukraine will win,\" said Tetiana Shostka, 42, as air raid sirens blared in Kyiv.\nSome in Vladimir Putin's Russia are also weary of the conflict.\n\"In the new year I would like the war to end, a new president, and a return to normal life,\" said 55-year-old theatre decorator and Moscow resident Zoya Karpova.\nIn Rome, Pope Francis prayed for the victims of conflicts around the globe, citing Ukrainians, Palestinians and Israelis, the people of Sudan and the \"martyred Rohingya\" of Myanmar.\n\"At the end of a year, have the courage to ask how many lives have been torn apart in armed conflicts, how many deaths?\" the 87-year-old pontiff said after his Angelus prayer in St Peter's Square.\n\"And how much destruction, how much suffering, how much poverty? Those who have an interest in these conflicts, listen to the voice of conscience.\"\nPutin is already Russia's longest-tenured leader since Joseph Stalin and will again be on the ballot paper when Russians vote in March, although few expect the vote to be fully free or fair.\n- To the polls -\nRussia's is just one of several pivotal elections scheduled in 2024.\nThe political fate of more than four billion people will be decided in contests that will shape Britain, the European Union, India, Indonesia, Mexico, South Africa, Venezuela and a host of other nations.\nBut one election promises global consequences.\nIn the United States, Democrat Joe Biden, aged 81, and Republican Donald Trump, aged 77, appear set to rerun their divisive 2020 presidential race in November.\nAs the incumbent, Biden has at times appeared to show his advancing age and even his supporters worry about the toll of another bruising four years in office.\nBut if there are worries about what a second Biden administration would look like, there are at least as many concerns about a return of Trump.\nHe faces prosecution on several counts and 2024 could determine whether the bombastic self-proclaimed billionaire goes to the Oval Office or to jail.\nsft-arb/pbt/dhw",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "barbie",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "harbour bridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T17:50:28.428+02:00",
+    "updated": "2023-12-31T17:50:28.428+02:00"
+  },
+  {
+    "uuid": "c01dce4177f3416dce6351c4507f779e805e8e11",
+    "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/94859-children-s-book-changemakers-amplifies-youth-freedom-to-read.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nathalie op de Beeck",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "'Children's Book Changemakers' Amplifies Youth Freedom to Read",
+    "text": "On April 11, an estimated 1,800 virtual attendees tuned in for a “Children’s Book Changemakers” program, livestreamed on Zoom by the Society of Children’s Book Writers and Illustrators’ Impact and Legacy Fund. The ILF, which supports SCBWI’s charitable activities and administers special programs, spotlighted young anti-censorship activists from the National Coalition Against Censorship and other organizations, and hosted brief conversations with established authors and advocates including Barbara Kingsolver, Lois Lowry, and entertainer Goldie Hawn. SCBWI co-founder and ILF managing director Lin Oliver emceed the event. ILF is “the charitable and social justice arm of the SCBWI,” Oliver told listeners. “Our mission is to help make change in the world through children’s books and to enable creators of children’s books—writers, illustrators, publishers—to express themselves and create the change that they are passionate about.” The event began with a talk by Cameron Samuels, a Brandeis University undergraduate who as a high school student founded Students Engaged in Advancing Texas, known as SEAT for demanding “a seat at the table” of policymaking. Samuels recalled how the students, who were not yet old enough to vote, “distributed hundreds of banned books, published op-eds in the press, and introduced state legislation. We filed legal action with the ACLU to dismantle a discriminatory internet filter [at school]. We brought together students to defy the norms and created [an activist] norm for students to engage throughout the state.” Samuels’ examples were a warmup for appearances by NCAC leaders and teen activists who spoke about the freedom to read. NCAC executive director Lee Rowland joined the call to inform SCBWI listeners how the NCAC’s youth programs “are engaged with and helping support the next generation of folks who will keep us free. [They] will be the readers that carry your values and the values of free expression in practice to the next generation and hopefully save us all.” NCAC Youth Free Expression director Christine Emeran then introduced video presentations on banned books from three student advocates, followed by a panel in which three more high school students from Nashville, Houston, and central Pennsylvania talked with novelist Lois Lowry about the dangers of censorship. Lowry told the students that her often-controversial fiction, notably The Giver, addresses the chilling effects of oppressive systems, but her platform as a citizen reaches a more targeted audience. “When I have attempted to address censorship or challenges [in my community], I go and do my little thing or I write a letter to the newspaper,” Lowry told students, “but the ones who really make a difference are the people of your age. When kids speak up, when a kid goes to a school board meeting, it’s so much more impressive than when an author goes to a school board meeting or sends a letter in.” Hawn participated due to her interest in supporting young people’s mental health through her foundation, MindUp. She said she started the foundation in 2002 with a goal to promote well-being: “what I wanted was for children actually to feel happier, to be more optimistic, more positive, more joyful in the classroom.” Her interest developed into a curriculum combining mindfulness and brain science, intended to give young people greater agency in managing their emotions and anxieties, problem solving, and conflict resolution. She and Oliver said they are co-creating a Kindness Club book series on these principles, to be published by Penguin Workshop. The program included awards for youth books that address justice and advocacy. The Russell Freedman Award for Nonfiction for a Better World was given to Dashka Slater’s Accountable: The True Story of a Racist Social Media Account and the Teenagers Whose Lives It Changed (FSG). Author-illustrator Karen Winnick announced the inaugural winners of a new prize she founded, the Charlotte and Wilbur Award for Compassion for Animals. Named in honor of Charlotte’s Web’s characters with the blessing of author E.B. White’s estate, the awards amplify books about kindness toward animals. Katherine Pryor won for her picture book Home Is Calling: The Journey of the Monarch Butterfly, illustrated by Ellie Petersen (WorthyKids), and Roland Smith won for his middle grade series adventure, The Wildes: The Vaquita (Sleeping Bear). An honor award went to Liz Garton Scanlon’s Full Moon Pups, illustrated by Chuck Groenink (Putnam). Winners receive cash awards and a chance to produce and distribute a video school visit. In addition, Winnick declared that the Charlotte and Wilbur committee had “created a special citation of excellence” to honor [Barbara Kingsolver and her daughter Lily Kingsolver’s Coyote’s Wild Home,](https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/92771-small-press-to-publish-barbara-kingsolver-s-debut-children-s-book.html) illustrated by Paul Mirocha (Gryphon). The Kingsolvers joined the Changemakers event to talk about how books promote empathy. Barbara Kingsolver called Coyote’s Wild Home an opportunity to “break down the barrier between humans and non-humans” and the perception that predatory animals are “enemies and villains. Even children’s literature is suffused with a hatred and a fear of predators, the big bad wolf, the bad bear. We wanted to write a book that gives predators good PR.” The Children’s Book Changemakers program, delivered to an audience interested in writing and illustrating for young people, shed light on how teens and their allies are taking action, notably for youth mental health and freedom of expression. A video of the event is [available to watch here](https://www.youtube.com/watch?v=S_4oownD8jU).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=S_4oownD8jU)",
+      "http://youtube.com/watch?v=S_4oownD8jU)",
+      "http://www.youtube.com/watch"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "goldie hawn",
+          "sentiment": "none"
+        },
+        {
+          "name": "barbara kingsolver",
+          "sentiment": "none"
+        },
+        {
+          "name": "cameron samuels",
+          "sentiment": "none"
+        },
+        {
+          "name": "oliver",
+          "sentiment": "none"
+        },
+        {
+          "name": "lois lowry",
+          "sentiment": "none"
+        },
+        {
+          "name": "lin oliver",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ilf",
+          "sentiment": "none"
+        },
+        {
+          "name": "society of children’s book writers",
+          "sentiment": "none"
+        },
+        {
+          "name": "national coalition against censorship",
+          "sentiment": "none"
+        },
+        {
+          "name": "brandeis university",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:03:19.597+03:00",
+    "updated": "2024-04-19T00:03:19.597+03:00"
+  },
+  {
+    "uuid": "2f046a28989b504201a13bbe34cd93cc9da2b315",
+    "url": "https://www.cheknews.ca/union-confirms-victoria-firefighter-was-suspended-for-1-day-over-open-letter-about-safety-1219174",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adam Chan",
+    "published": "2024-08-15T18:53:00Z",
+    "title": "Union confirms Victoria firefighter was suspended for 1 day over open letter about safety",
+    "text": "[]https://www.cheknews.ca/union-confirms-victoria-firefighter-was-suspended-for-1-day-over-open-letter-about-safety-1219174/\nThe union that represents Victoria firefighters has confirmed that a firefighter was suspended for one day without pay due to an open letter he penned asking B.C.’s premier to block a new homeless services facility from opening amid safety concerns in the city.\nIt was a decision that B.C. Premier David Eby says he’d like overturned.\nOn Wednesday, Tim Thielmann – BC Conservatives candidate for Victoria-Beacon Hill – levelled explosive accusations against the City of Victoria and provincial government, claiming that sources from within the fire department had told him that firefighter Josh Montgomery had been suspended for writing the open letter.\nThe letter called on Eby to stop the city from opening a\n new homeless services facility at Dowler Place, near to where he lives.\nThe letter was written days after a\n paramedic was assaulted along the 900-block of Panodra Avenue, and Montgomery said that as a first responder he feared that similar safety risks would grow around the new Dowler Place facility.\nREAD THE FULL LETTER:\n Opinion: A first responder’s letter to Premier Eby demanding action in Victoria\nEby responds\nThielmann called out the city and province for having a potential hand in Montgomery’s suspension, adding that he was told specifically that the mayor and city manager were involved.\nOn Wednesday, both levels of government denied the accusations, and on Thursday the premier took it a step further, saying he doesn’t want Montgomery to face any repercussions for writing the letter.\n“I don’t think that people should face any consequence for writing to me, telling me what they’re seeing in their communities,” he told CHEK News. “In fact, this letter was helpful to me to hear about his concerns and his community, which were very real concerns.”\nEby says he’s thankful for Montgomery’s input, and that he hopes the Victoria Fire Department reverses its decision to suspend him, or offer him back pay if the one-day suspension goes through.\n“Whether it’s one day or 10 minutes, it doesn’t matter,” he said.\n“I want to thank him for writing to me, and if that’s the reason he faces sanction then he should get an apology from whoever’s decision it was to remove him.”\nThe premier added that he has reached out to the firefighters union to see if there’s anything he can do to help appeal the decision.\n“…a letter of support or a letter of appreciation for reaching out to me that might assist in them appealing this decision, and I expect to hear back from them.”\nMeanwhile, the City of Victoria said Wednesday that, “to be clear, mayor and council have no role in the operational decisions of the Victoria Fire Department.”\n“This is a personnel matter and the city won’t be commenting further.”\nStephen Andrews, a former Victoria councillor, was moderating a virtual townhall for Thielmann on Tuesday when news of the Montgomery’s suspension first came to light.\nAndrews was the one who flagged the development to Theilman, and tells CHEK News that his information came from sources within the Victoria firefighters union.\n“My sources inside the union say the membership is very upset about this, that they’re very angry and that it’s retribution for his letter to David Eby,” he said Thursday.\n“My suspicion is the city probably takes a position that he was speaking for the city or he was speaking as a Victoria firefighter, which never happened. He always spoke as a North Park resident and as a first responder, he never mentioned that he was an employee of the City of Victoria,” said Andrews. “So how are they going to make that stretch? I think they’re going to have a bit of a hard time with that.”\nREAD ALSO:\n‘No transparency’: Neighbours worried about new North Park homeless facility voice concerns North Park residents protest Victoria city hall’s plans for new homeless services site\nAndrews added that while the city said that mayor and council have no say in Victoria Fire Department operational decisions, he says their statement hasn’t quelled his suspicions.\n“That statement was very specific, saying mayor and council is not involved in operations. That doesn’t mean they weren’t consulted or weren’t informed,” he said.\nWhen asked for a statement Thursday, the city reiterated to CHEK News that it “does not comment on personnel matters.”\nNew union response\nOn Thursday, the International Association of Fire Fighters Local 730 said in a statement that Montgomery had in fact been suspended for one day without pay for writing the open letter.\n“There has been misinformation that has been circulated amongst the public regarding employment matters with one of our members,” reads the statement.\n“Local 730 can confirm that a member, Josh Montgomery, was disciplined for his opinions shared in a letter to Premier Eby. He was suspended without pay for one day. That day is Friday, August 16th. There is a process to be followed under the collective agreement and that has been initiated.”\nOn Wednesday, employment lawyer Dan Balkaran said that whatever discipline Montgomery may face would likely be outlined in the union’s collective agreement.\nBalkaran says he has no insight into the union’s specific collective agreement, but says that if Montgomery were a private employee, the letter likely wouldn’t be enough to see him fired without severance, also known as terminated for just cause.\n“For something like this, if there’s a specific clause in the collective bargaining agreement in the contract that prohibits the employee from voicing views publicly on social media and other places, then maybe it could be – but generally speaking for something like this if it was an individual employee, given the level of egregiousness being low, I can’t see that employer being able to terminate that employee for just cause,” he said.\nREAD PREVIOUS:\n BC Conservatives candidate claims Victoria firefighter suspended over open letter voicing safety concerns\nWith files from CHEK’s Rob Shaw and Oli Herrera",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "victoria",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "victoria-beacon hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "montgomery",
+          "sentiment": "none"
+        },
+        {
+          "name": "josh montgomery",
+          "sentiment": "none"
+        },
+        {
+          "name": "david eby",
+          "sentiment": "none"
+        },
+        {
+          "name": "tim thielmann",
+          "sentiment": "none"
+        },
+        {
+          "name": "eby",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "panodra avenue",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "dowler place",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:00:21.982+03:00",
+    "updated": "2024-08-16T01:00:21.982+03:00"
+  },
+  {
+    "uuid": "bfc352e29a9bf64bbb95f979bab0cb90fd0b833a",
+    "url": "https://menafn.com/1107890564/Delhi-HC-Dismisses-Plea-To-Offer-Prayers-At-Demolished-600-Yr-Old-Mosque-On-Shab-E-Barat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-02-23T02:00:00Z",
+    "title": "Delhi HC Dismisses Plea To Offer Prayers At Demolished 600-Yr-Old Mosque On Shab-E-Barat | MENAFN.COM",
+    "text": "( MENAFN - IANS) New Delhi, Feb 23 (IANS) The Delhi High Court on Friday dismissed a plea seeking permission to offer prayers and visit graves at the site of the recently demolished 600-year-old Masjid Akhonji in Mehrauli area on the occasion of Shab-e-Barat.\nJustice Purushaindra Kumar Kaurav dismissed the application filed by the Managing Committee of Delhi Waqf Board (DWB), saying that the court is not inclined to issue any directions at this stage, as the matter is already under consideration in a pending petition since 2022.\nJustice Kaurav noted that the site is currently under the possession of the Delhi Development Authority (DDA), and the court has already issued a status quo order on the area where the mosque stood.\nThe court said that the plea for unhindered entry for prayers and visits to the graveyard constitutes a request for a mandatory injunction, which it is not inclined to grant at this time.\nAdvocate Shams Khwaja, representing the Managing Committee of Delhi Waqf Board, stressed the urgency of the application due to the significance of Shab-e-Barat, a night of forgiveness observed by Muslims.\nHe argued that the demolished mosque, believed to be 600-year-old, was illegally razed by DDA officials.\nHowever, the counsel for the DWB (not the same as DWB's Managing Committee) opposed the application, disputing the age of the mosque and its status as a waqf property.\nAfter hearing both parties, the court dismissed the application.\nEarlier, the court had directed the DDA to maintain status quo specifically on the area where the mosque was situated but clarified that this order does not prevent the DDA from taking action on adjacent areas.\nThe Managing Committee of DWB alleges that the demolition of the mosque and madrasa was conducted in a brazen manner, leaving the Imam and his family without shelter as their hutment was also destroyed.\nMENAFN23022024000231011071ID1107890564\nLegal Disclaimer:\nMENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://ians.in/detail/delhi-hc-dismisses-plea-to-offer-prayers-at-demolished-600-yr-old-mosque-site-on-shab-e-barat--20240223145405/",
+      "https://www.ians.in/detail/delhi-hc-dismisses-plea-to-offer-prayers-at-demolished-600-yr-old-mosque-site-on-shab-e-barat--20240223145405/",
+      "https://ians.in/detail/delhi-hc-dismisses-plea-to-offer-prayers-at-demolished-600-yr-old-mosque-site-on-shab-e-barat--20240223145405"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kaurav",
+          "sentiment": "none"
+        },
+        {
+          "name": "purushaindra kumar kaurav",
+          "sentiment": "none"
+        },
+        {
+          "name": "shams khwaja",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "the delhi high court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ians",
+          "sentiment": "negative"
+        },
+        {
+          "name": "managing committee of delhi waqf board",
+          "sentiment": "none"
+        },
+        {
+          "name": "delhi development authority",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new delhi",
+          "sentiment": "none"
+        },
+        {
+          "name": "masjid akhonji",
+          "sentiment": "none"
+        },
+        {
+          "name": "mehrauli",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T13:44:09.384+02:00",
+    "updated": "2024-02-23T13:44:09.384+02:00"
+  },
+  {
+    "uuid": "2f6b5ae74d5e8ca840ffb473cbfe1f289c879aff",
+    "url": "https://zafra.hoy.es/gente-cercana/siempre-fiel-producto-honradez-delante-20240919194348-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "José Durán Serrano",
+    "published": "2024-09-19T17:43:00Z",
+    "title": "EMILIO MONTAÑO MANZANO. FUNDADOR DEL RESTAURANTE LA CABAÑA: «Siempre he sido fiel en el producto y la honradez por delante» | Hoy",
+    "text": "EMILIO MONTAÑO MANZANO. FUNDADOR DEL RESTAURANTE LA CABAÑA «Siempre he sido fiel en el producto y la honradez por delante»EMILIO MONTAÑO MANZANO. FUNDADOR DEL RESTAURANTE LA CABAÑA «Siempre he sido fiel en el producto y la honradez por delante»José Durán Serrano Jueves, 19 de septiembre 2024, 19:43 Necesitas ser suscriptor para acceder a esta funcionalidad. Opciones para compartir Si decimos que esta entrevista se la realizamos a Emilio Montaño Manzano, quizás mucha gente no sepa quién es, pero si decimos que es a Emilio 'de la Cabaña' no hace falta dar más detalles. Persona de sobra conocida por haber regentado el Restaurante la Cabaña durante 40 años. Natural de Huelva (Isla Chica), nació en el año 1955, casado y padre de tres hijas. Actualmente ya está jubilado, desde el 2020. Con 14 años se fue a Barcelona para ponerse a trabajar en la hostelería, aprendiendo todas las labores de cocinero. Posteriormente, con 23 años, se cambió de actividad para aprender a fabricar helados en la empresa Camy de Viladecans durante ocho años. Cuando llegó la crisis de los años 80 tuvieron que despedir a los más nuevos de la empresa, entre ellos a Emilio. Su llegada a Zafra Entonces decidió venirse a Zafra y ponerse a trabajar de camarero en varios bares y restaurantes de la ciudad: Los Rosales, La Melliza, Cafetería Alcázar…, incluso también estuvo trabajando en algunas ferias. Cuatro años después se le brindó la oportunidad de abrir su propio negocio. «En 1984 abrí la primera Cabaña al lado de la antigua Cruz Roja y estuve hasta el año 1991, fecha en la que se hizo la primera remodelación de la Expo'92, donde ya nos cambiamos a La Cabaña del Recinto Ferial y que desgraciadamente salió ardiendo en el 2017. Continuamos con el negocio en la Nave de Subasta hasta la fecha y están al frente mi mujer como propietaria, mi hija Mari y mi yerno. Se abre los sábados y domingos. La primera Cabaña la empecé con Vicente Burrito, persona muy célebre en Zafra, gran profesional de la hostelería. Puedo decir que fue mi maestro, el que me enseñó a cortar jamón entre otras tantas cosas. Un año después ya me quedé yo con el negocio junto a mi mujer y la ayuda de mis hermanos. He tenido la gran suerte de estar rodeado de buenos trabajadores, yo no me he considerado nunca empresario sino un trabajador más. De hecho, a pesar de estar jubilado, si tengo que ayudar no me importa», asegura Emilio. Su experiencia en la feria Muy conocedor de la Feria Ganadera por los 40 años que tuvo el restaurante en el mismo Recinto Ferial, comenta Emilio que el cambio ha sido abismal: «Al principio era todo alquilado a mi amigo Eloy, de Burguillos del Cerro, las mesas, las sillas, las cámaras… Más adelante me gané la confianza de los proveedores y fui comprando cosas de segundas manos, me daban fiado». Respecto a la afluencia de gente a la feria, dice este restaurador que ha ido en aumento, «como se puede comprobar el fin de semana principalmente. Al principio se trataba de una feria más rústica no tan sofisticada como hoy en día». Siempre ha sido un defensor de los productos de calidad a pesar que le tildaban de carero, pero como él mismo considera, «lo bueno vale dinero». Sus principales clientes durante la feria han sido ganaderos, expositores de los stands, público de los pueblos cercanos a Zafra, ya que la mayoría de la gente de aquí tenían y tienen sus propias casetas y comen allí. Respecto al producto y las comidas que ofrece, nunca le gustó tener menú: «Siempre se ha comido a la carta, muy conocida por los productos de primera calidad. He trabajado con una gama amplia tanto en carnes como en pescados frescos, destacando el marisco, que era el mejor que entraba no solo en Zafra, sino en la provincia de Badajoz. Los martes y viernes iba personalmente a Sevilla a por el pescado. Las carnes, como la paletilla de cordero lechal, los buenos entrecots, nos lo traían de Madrid los hermanos Norteños. Siempre he tenido jamón de bellota, nunca tuve jamón de recebo. Buenos quesos, verduras de temporada, las almejas de Galicia, esto ha sido la base fundamental y el equilibrio de La Cabaña. Nos caracteriza la honradez». También se puede decir que nunca tuvo un plato estrella, hay un gran esmero en la buena presentación. Siempre ha tenido una buena aceptación la paletilla de cordero, y hemos conseguido que nos diga como la hacen. «La aprendí de un cocinero que tuve, se trata de un plato árabe diferente al de Castilla. Se pone la paletilla en el horno con unas verduras de cebolla, tomate y ajo, agua, aceite de oliva virgen extra, sal, un poco de orégano y tomillo para darle un sabor más campestre. Se asa durante unas dos horas y media. No hace falta comérsela con cuchillo por lo tierna que queda, se deshace en la boca». Una de las cosas que destaca Emilio es lo que variaban las ventas en función a si la feria se celebraba a finales o a principio de mes. «La gente prefiere a primeros de mes que es cuando ya han cobrado de las empresas o el jubilado y el desempleado. Si tienes dinero en el bolsillo te apetece dar una vuelta a la Feria de San Miguel. No sé quién toma la decisión de las fechas». Por el restaurante han pasado miles y miles de personas de toda España, y es por lo que se le pregunta por algunas curiosidades. Mención especial fue un año cuando terminan unos clientes de comer, le piden la cuenta al camarero y cuando éste iba a por la factura han visto cómo se han saltado la valla de una cierta altura y se han ido sin pagar, o también una feria cuando se fue la luz el cacao que se montó porque los ordenadores para cobrar no funcionaban. Ha habido ferias en las que han dado de comer a unas 650 personas entre comidas y cenas. Tenía a 32 personas trabajando. El incendio Emilio tuvo un desagradable cumpleaños cuando en la noche del 23 de junio del 2017, le llamó a su casa la policía municipal. «Esa noche terminamos temprano porque la gente estaba en la Luna al Fuego. Yo acababa de llegar del restaurante hacía unos 20 minutos cuando desde el telefonillo me dice la policía que La Cabaña estaba ardiendo. Nos fuimos corriendo para allá y pude presenciar la negligencia que cometieron los bomberos, porque me estaban esperando en la puerta sin abrirla ni derribarla, menos mal que no había personas dentro. Entraron sin mangueras y cuando se pusieron a echar agua salían las llamas para fuera. El camión pequeño no llevaba agua, hubo que cogerla de un grifo. Cuando se desbordó la situación pidieron refuerzo a otros parques de bomberos. Hubo bastantes testigos como el alcalde, la policía entre otros. La policía científica dijo que hubo un cortocircuito, pero que no se supo el origen. El techo, el inmobiliario y las paredes eran de madera. También tuve mala suerte con los abogados que me llevaron el caso. En la póliza me correspondía de indemnización unos 300.000 euros y cobré algo menos de 90.000 euros. No pude reclamar al Supremo porque le di mis poderes a los abogados», explica. Después de esta desagradable experiencia, tuvieron que cambiarse a la Nave de Subastas y seguir pagando deudas que tenía vigente. Emilio quiere agradecer públicamente la ayuda recibida por parte del pueblo de Zafra, asistiendo a su negocio, dándole ánimo. Agradecimiento que también hace extensible a las Corporaciones Municipales y todos los partidos políticos que las han conformado, a la empresa distribuidora de cervezas Estrella Damm, sobre todo a Manuel Marín, de Al Lado, que le dejaron incluso dinero para poder hacer frente a las compras de las ferias, como recuerda Emilio, ahora jubilado tras una vida dedicada a la restauración. MUY PERSONAL Plato favorito: El plato de cuchara (garbanzos, judías, patatas guisadas) Afición: El fútbol. Lugar de vacaciones: Málaga, por el clima, la gente. Equipo de fútbol: Real Madrid, «el mejor equipo del mundo». Publicidad Publicidad Te puede interesar Publicidad Publicidad Reporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "EMILIO MONTAÑO MANZANO",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Isla Chica",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:10:10.981+03:00",
+    "updated": "2024-10-19T00:11:25.970+03:00"
+  },
+  {
+    "uuid": "ac94760bed00b39652115c52536e89215332d2ba",
+    "url": "https://www.allvipp.com/celebrities/these-celebrities-are-really-self-absorbed",
+    "ord_in_thread": 0,
+    "author": "Allvipp Newsroom",
+    "published": "2025-05-01T03:05:00Z",
+    "title": "These Celebrities Are Really Self-Absorbed",
+    "text": "1 / 9\nBeyoncé can not only sing, but she also has an amazing figure! In fact, she loves her butt so much that she even sings about it in the song \"Yoncé\". Jay-Z's wife seems to love herself a little too much, but who could blame her with a body like that.\n2 / 9\nAdam Levine has consistently had one hit song after another over the course of the last decade. Anybody who's anybody would like to be in his shoes. Turns out he actually likes all the attention saying that he could never live without it. One thing is clear: he isn't lacking in the confidence department.\n3 / 9\nSometimes, fame and fortune can really get into the heads of celebrities. It's funny to see how much some Hollywood stars are in love with themselves. We've made this little gallery to showcase a select few that we find to be the most narcissistic! Enjoy!\n4 / 9\nIt's no secret that Kanye West thinks very highly of himself: \"I am God's vessel. But my greatest pain in life is that I will never be able to see myself perform live\" is just one of the quotes that shows us how humble Kanye really is.\n5 / 9\nGwyneth Paltrow is probably one of the most popular and well-paid actresses in Hollywood. She has said on several occasions that she could never give up her glamorous lifestyle for a the life of a \"Normie\". \"I am who I am. I could never be somebody who only makes 25,000 dollars a year.\" Not everybody is as talented as you, Gwyneth!\n6 / 9\nJames Franco does post the occasional frisky selfie on Instagram once and while. Franco has totally convinced himself that he has one of the hottest bodies on Instagram. To all of the people who don't want to see these types of pictures, he has the following to say: \"I didn't ask you to look at my content. The pictures are there because people want to see them. Don't follow me if you don't want to look at them.\" Looks like we have a narcissistic Franco on our hands!\n7 / 9\nJustin Bieber is really one of the most talented artists of our generation, but we think he already knows that. \"Never say I'm not talented. If you haven't figured it out by now, I was found not made.\" Looks like our young star has bitten a little more off than he can chew. Our next star would never work for less than a few million.\n8 / 9\nMiley Cyrus would never even remotely think about comparing herself with other normal teenage girls. \"I'm on a whole other level than most girls my age who don't get what they want because they don't know how to.\" Sounds like she has everybody wrapped around her finger...\n9 / 9\nSpencer Pratt became famous with the reality TV show The Hills back in the day. He was able to star alongside Lauren Conrad who, in return, pushed his popularity to the limit! Pratt is actually pretty sure that he was the person who made Lauren Conrad famous. \"I think that I helped Lauren gain millions of fans and millions of dollars as well,\" says the young actor. Our next star is completely obsessed with her rear end...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Adam Levine",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kanye West",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jay-Z",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "& TV",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TV",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:44:22.068+03:00",
+    "updated": "2025-05-01T04:48:06.000+00:00"
+  },
+  {
+    "uuid": "c8b3caa993c9632af3c5f546655ec04693578356",
+    "url": "https://www.thecable.ng/fg-inaugurates-committee-to-end-mother-to-child-transmission-of-hiv",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Janefrances Chibundu",
+    "published": "2024-07-12T07:06:00Z",
+    "title": "FG inaugurates committee to end mother-to-child transmission of HIV | TheCable",
+    "text": "The federal government has inaugurated a multi-sector committe to eradicate mother-to-child transmission of HIV in the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tunji alausa",
+          "sentiment": "none"
+        },
+        {
+          "name": "alausa",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national agency",
+          "sentiment": "none"
+        },
+        {
+          "name": "naca",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "abuja",
+          "sentiment": "none"
+        },
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T11:12:41.950+03:00",
+    "updated": "2024-07-12T13:10:35.643+03:00"
+  },
+  {
+    "uuid": "c474f124975149833246cdaf93851ccdc4e9d808",
+    "url": "https://es.ara.cat/internacional/purga-celebrities-rusas-asistir-medio-desnudas-fiesta_1_4897349.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ARA",
+    "published": "2023-12-28T18:31:00Z",
+    "title": "Purga contra 'celebrities' rusas por asistir medio desnudas a una fiesta",
+    "text": "[Internacional](https://es.ara.cat/internacional/)28/12/2023 Purga contra 'celebrities' rusas por asistir medio desnudas a una fiesta Han sido expulsadas de la televisión estatal, sus conciertos han sido cancelados y han perdido a los patrocinadores BarcelonaQuince días de cárcel y una multa de unos 2.000 euros para el rapero ruso Nikolai Vasiljev, conocido como Vacio, por presentarse prácticamente desnudo en una fiesta en Moscú. Sólo llevaba un calcetín que le cubría el pene. Se le acusa de promover las relaciones homosexuales. No es el único. Al evento también asistieron otros muchos artistas, periodistas, cantantes y celebrities rusas que enseñaban demasiada carne, según las autoridades. Algunos iban con ropa interior. Otros vestían transparencias que dejaban ver perfectamente las formas del cuerpo. Ahora todos purgan su supuesto pecado. Han sido apartados de los programas de la televisión estatal en los que participaban, sus conciertos han sido cancelados o directamente se han quedado sin patrocinadores. Uno de los asistentes ha sido incluso excluido del reparto de una película. La fiesta se ha considerado todo un escándalo en una sociedad rusa cada vez más conservadora en la que su presidente, Vladimir Putin, defiende los “valores tradicionales”, anima a las familias a tener ocho o más hijos, y [prohíbe las relaciones homosexuales](https://www.ara.cat/internacional/russia/putin-prohibeix-moviment-lgtbiq_1_4873483.html). La fiesta de la polémica tuvo lugar el jueves de la semana pasada, 21 de diciembre, en la discoteca Mutabor de la capital rusa, y en la convocatoria ya se especificaba que los invitados podían ir “casi nudo”. Y así es como se presentaron los asistentes. La organizadora del evento era Anastasia Ivleeva, una de las influencers más conocidas de Rusia, y también fue vestida según el protocolo: con ropa interior. Además, lució joyas por valor de casi 230.000 euros. Y ni lo uno ni lo otro se han entendido socialmente. Que mostrara carne se considera un despropósito. Y que presumiera de riqueza, una falta de respeto en un momento en que muchos rusos no llegan a fin de mes. Las fotos de la fiesta corrieron como la pólvora en las redes sociales. Represalias Desde entonces, la principal operadora de telefonía móvil rusa, ETS, ha roto el contrato de publicidad que mantenía con Anastasia Ivleeva, Hacienda ha abierto una investigación contra ella y podría condenarla a cinco años de cárcel, y un tribunal de Moscú ha aceptado una demanda de un grupo de particulares que le exigen el pago de casi 10 millones de euros por haber provocado \"un sufrimiento moral\". Si la demanda prospera, quieren que el dinero se destine a un fondo estatal que apoya a los veteranos de la guerra de Ucrania. No sólo las autoridades han condenado la fiesta. También lo han hecho los parlamentarios partidarios del Kremlin, blogueros, medios de comunicación estatales y grupos de la Iglesia ortodoxa. Desde hace días, el tema copa todos los medios de comunicación, hasta el punto de que cuestiones importantes, como la inflación y el aumento del precio de un alimento básico como los huevos, han quedado en un segundo plano. El tema se ha ido tanto madre que los participantes de la fiesta no han tenido más remedio que disculparse públicamente para intentar frenar una bola de nieve que no saben adónde puede llegar. Por ejemplo, Anastasia Ivleeva ha difundido dos vídeos en los que pide perdón por lo ocurrido. En el segundo, incluso dice que se merece las represalias que ha sufrido por la organización de la fiesta, y pide una \"segunda oportunidad\". Filipp Kirkorov, el rey del pop en Rusia, ha afirmado para disculparse: \"Hay momentos en la vida en los que entras por la puerta equivocada\". Y ha añadido: \"En estos tiempos difíciles, tiempos heroicos, un artista de mi nivel, un artista del pueblo, no puede ni debe ser tan irresponsable de participar en determinados eventos\". La estrella mediática Ksenia Sobchak también ha reconocido que era \"inapropiado\" asistir al evento en un momento en el que las tropas rusas luchan en Ucrania. \"Si alguien se sintió ofendido por mi apariencia, pido disculpas\", ha dicho. Y así han continuado el resto de asistentes: disculpándose uno tras otro por recuperar la aceptación social.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:09:51.487+02:00",
+    "updated": "2023-12-29T00:09:51.487+02:00"
+  }
+]

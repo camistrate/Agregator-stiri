@@ -1,0 +1,268 @@
+[
+  {
+    "uuid": "d2133343d5c358fbf08a00f3679f38f5fdf33a0d",
+    "url": "https://peru21.pe/mundo/el-papa-francisco-no-pronunciara-el-domingo-el-angelus-anuncia-el-vaticano",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción PERÚ21",
+    "published": "2025-02-22T12:50:00Z",
+    "title": "El papa Francisco no pronunciará el domingo el Ángelus, anuncia el Vaticano",
+    "text": "El papa Francisco no pronunciará el domingo el Ángelus, anuncia el Vaticano\nEl pontífice pasó una buena noche, aunque sus médicos señalan que aún no está fuera de peligro, indicó la Santa Sede.\nEl papa Francisco, hospitalizado desde hace ocho días por una neumonía bilateral, pasó una buena noche, informó el Vaticano el sábado, aunque, según sus médicos, el pontífice argentino de 88 años aún no está \"fuera de peligro\".\n\"El papa Francisco descansó bien\", afirmó la Santa Sede en un escueto comunicado el sábado por la mañana. Aún así, no está \"fuera de peligro\" y permanecerá ingresado \"al menos toda la próxima semana\", indicaron sus médicos el viernes.\nEl pontífice no pronunciará la tradicional oración del Ángelus el domingo, pero si enviará un texto que será publicado, al igual que la semana pasada, declaró el sábado Matteo Bruni, portavoz del Vaticano.\nFrancisco ingresó en el hospital Gemelli de Roma por una bronquitis el 14 de febrero y este martes la Santa Sede anunció que padecía una neumonía bilateral, una infección del tejido pulmonar potencialmente mortal.\nLa hospitalización del jefe de la Iglesia católica ha atizado las conjeturas sobre su futuro, aunque los médicos aseguraron el viernes que se ha podido parar y no está conectado a ninguna máquina.\nEn los últimos días el papa ha recibido en el hospital a sus colaboradores más cercanos, lee, firma documentos y hace llamadas telefónicas.\nA inicios de semana recibió la visita de la primera ministra italiana, Giorgia Meloni, quien afirmó que lo vio \"alerta\", \"receptivo\" y que incluso \"bromearon\".\nLos cardenales se mostraron positivos asegurando que iba \"por el buen camino\".\nAprovecha la NUEVA EXPERIENCIA, recibe por correo y por Whatsapp nuestro periódico digital enriquecido. Perú21 ePaper.\n¡Ahora disponible en Yape! Búscanos en YAPE Promos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Religion and Belief"
+    ],
+    "topics": [
+      "Health->health organisation",
+      "Health->medical staff",
+      "Religion and Belief->religious leader",
+      "Religion and Belief->christianity",
+      "Religion and Belief->pope"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Matteo Bruni",
+          "sentiment": "none"
+        },
+        {
+          "name": "Francisco",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-22T15:01:20.848+02:00",
+    "updated": "2025-02-22T15:01:20.848+02:00"
+  },
+  {
+    "uuid": "9da65ff1415400ed5e0dfa23a8c26ae504911ec3",
+    "url": "https://www.devx.com/daily-news/oracle-agile-plm-vulnerability-patched-urgently",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "April Isaacs",
+    "published": "2024-11-21T23:27:00Z",
+    "title": "Oracle Agile PLM vulnerability patched urgently",
+    "text": "Oracle has released a patch for a critical security vulnerability in its Agile Product Lifecycle Management (PLM) software, CVE-2024-21287. The flaw could allow attackers to steal files from the platform without a username or password. Over 1,000 companies worldwide use Oracle Agile PLM to manage the entire lifecycle of their products.\n\\nThe vulnerability has a severity score of 7.5 and was being actively exploited in the wild. Oracle urged its users to apply the patch immediately to mitigate potential risks . The company\\u2019s Vice President of Security Assurance, Eric Maurice, confirmed the active exploitation in a blog post.\n\\nCrowdStrike, a cybersecurity company , initially reported the exploit to Oracle.\n\\n Agile PLM security fix issued \\nHowever, details about the attackers and their targets have not been disclosed.\n\\nThe vulnerability can be exploited remotely over a network without authentication. If successfully exploited, it could lead to the disclosure of sensitive files.\\xa0 The flaw is considered a significant concern because of the widespread use of Oracle Agile PLM, primarily by large enterprises with over 10,000 employees and\\xa0 revenues exceeding $1 billion .\n\\nUsers are advised to promptly apply the security updates provided by Oracle to secure their systems. Oracle\\u2019s quick response in patching the vulnerability highlights the importance of timely updates to protect against emerging cyber threats . For further information, users can refer to Oracle\\u2019s advisory and Eric Maurice\\u2019s blog post, which provide additional details and guidance on applying the necessary patches.\n\\nThe discovery and patching of this actively exploited vulnerability serves as a reminder of the critical importance of robust cybersecurity practices and prompt patch management to safeguard against potential breaches and data leaks .\n\\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Business and Market Analysis"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Eric Maurice",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T05:01:45.512+02:00",
+    "updated": "2024-11-22T11:10:45.867+02:00"
+  },
+  {
+    "uuid": "27ab1bcd5f449cc8ad495b594e6af00cefbde1a3",
+    "url": "https://tn.com.ar/deportes/futbol/2023/12/29/la-futbolista-yamila-rodriguez-conto-el-mal-momento-que-vivio-su-familia-por-el-temporal-y-pidio-ayuda/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@todonoticias",
+    "published": "2023-12-29T13:32:00Z",
+    "title": "El angustiante pedido de ayuda Yamila Rodríguez tras el temporal en Misiones | TN",
+    "text": "Las tormentas de los últimos días provocaron enormes daños en distintos puntos de la Argentina. Una de las familias afectadas por el temporal que azotó la provincia de Misiones fue la de Yamila Rodríguez , futbolista de la Selección argentina , que contó el mal momento que está pasando su hermana y pidió ayuda a través de las redes sociales. “Se quedó sin lugar para vivir”, relató la delantera.\nLeé también: El tuit de la futbolista Yamila Rodríguez tras confirmarse que Javier Milei será el nuevo presidente\nEl pedido angustiante de la ex-Boca está acompañado de un video en el que se da muestra de los destrozos que generó la tormenta en el hogar de su hermana y sus tres sobrinos. En el mismo se pueden observar roturas en el techo de la vivienda y cómo la casa quedó al descubierto tras el temporal.\n“¡Hola gente! Quiero pedirles ayuda para mi hermana que está atravesando una situación difícil. Acaba de ser madre de su tercera hija y por la tormenta de esta mañana se quedó sin lugar para vivir”, escribió la futbolista en su cuenta de X (ex-Twitter) junto a las imágenes.\nEl pedido de ayuda de Yamila Rodríguez La delantera especificó cuáles son los materiales que podrían ayudar a su hermana. “Entre toda la familia la vamos a estar ayudando a recuperar su casa, pero vendría muy bien si algunos de ustedes tienen a su disposición materiales cómo chapa, madera , ladrillos, etc.” , describió.\nQuienes quieran y puedan ayudar a la jugadora de la Selección pueden comunicarse a través de los mensajes directos de su cuenta de X @YamiiRoddriguez, según detalló en sus mensajes. Por último cerró agradeciendo de parte de toda su familia.\nYamila Rodríguez pidió ayuda para arreglar la casa de su hermana, dañada por el temporal en Misiones. (Foto: X @yamiiroddriguez).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T15:43:31.040+02:00",
+    "updated": "2023-12-29T15:43:31.040+02:00"
+  },
+  {
+    "uuid": "793e98e88ec89d43ad7d8d6bb7ada751ca3488da",
+    "url": "https://www.timesnownews.com/viral/baby-elephant-picks-up-trash-throws-it-in-dustbin-heartwarming-video-goes-viral-video-152335834",
+    "ord_in_thread": 0,
+    "author": "@TIMESNOW",
+    "published": "2025-07-24T04:28:00Z",
+    "title": "Baby Elephant Picks Up Trash, Throws It In Dustbin; Heartwarming Video Goes Viral",
+    "text": "Baby Elephant Picks Up Trash, Throws It In Dustbin; Heartwarming Video Goes Viral\nAn utterly charming and heartening video of a baby elephant disposing of litter in a roadside dustbin while walking alongside its mother has taken the internet by storm. Though the exact location of the incident remains unknown, the video has quickly gone viral, drawing widespread praise from both netizens and political figures. In the clip, the young elephant is seen picking up a piece of trash from the road and neatly placing it in a nearby bin, all while calmly walking beside its mother. This small yet impactful gesture of environmental consciousness has inspired admiration and self-reflection across social media platforms. Among those who shared the video was BJP leader and former Karnataka minister C T Ravi, who posted it on X (formerly Twitter) with the caption: “If a baby elephant can use a dustbin, why can’t we?” Reactions from users came pouring in. One commented, “Even elephants are not immune to the effects of our waste. A lovely indication by this baby elephant to human beings.” Another pointedly remarked, “A baby elephant just threw a can in the dustbin. Humans are busy throwing chips packets out of car windows. Who’s the real animal?” Several users described the moment as “grace meeting purpose,” highlighting how the young elephant seemed to show more civic awareness than many grown-ups. Image And Video Source - CT Ravi/X",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "C T Ravi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Karnataka",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "BJP",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news_ph",
+        "top_news_pk",
+        "top_news_ae",
+        "top_news_za",
+        "top_news_qa",
+        "top_news_sg",
+        "top_news_sa",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:44:32.957+03:00",
+    "updated": "2025-07-25T08:06:48.000+03:00"
+  },
+  {
+    "uuid": "d6fffd3cb499a8e1ab5dc5c6a371b3385dc32578",
+    "url": "https://www.archyde.com/china-japan-jets-near-miss-pacific-tensions-escalate",
+    "ord_in_thread": 0,
+    "author": "James Carter",
+    "published": "2025-06-12T06:01:00Z",
+    "title": "China & Japan Jets Near Miss: Pacific Tensions Escalate",
+    "text": "China’s Expanding Naval Reach: A Looming Pacific Challenge Just 45 meters. That’s how close a Chinese fighter jet came to a Japanese patrol plane this weekend, a near miss that underscores a rapidly escalating tension in the Pacific. While narrowly avoiding collision, the incident isn’t an isolated event. It’s a symptom of China’s increasingly assertive naval strategy, one that’s redrawing the geopolitical map and forcing nations across the Asia-Pacific to reassess their defense postures. But what does this expansion *really* mean for the future of regional stability, and what proactive steps can be taken to navigate this evolving landscape?\nBeyond the First Island Chain: China’s New Ambitions For decades, China’s naval ambitions were largely confined to the waters within the “first island chain” – the series of islands stretching from Japan through Taiwan and the Philippines. However, the recent deployment of the Shandong and Liaoning aircraft carriers east of the second island chain, which includes Guam, signals a dramatic shift. This marks the first time Chinese carriers have ventured so far into the Pacific, demonstrating a clear intent to project power beyond its immediate periphery. This isn’t simply about military exercises; it’s about establishing a persistent presence and challenging the long-held dominance of the United States in the region.\n“China apparently aims to elevate its capability of the two aircraft carriers, and to advance its operational capability of the distant sea and airspace,” stated Japanese Defense Minister Gen Nakatani, accurately capturing the core objective behind these maneuvers. The dual carrier drills, framed by Beijing as exercises to improve “troops’ capabilities in far-sea defence and joint operations,” are a tangible step towards achieving that goal.\nThe Dangerous Dance: Near Misses and Escalating Risks The recent near miss isn’t an anomaly. Reports of dangerous maneuvers by Chinese pilots have been mounting, with similar accusations coming from Australia, the Philippines, the US, and Canada as recently as February. These incidents, often involving aggressive intercepts and close proximity flying, raise the specter of accidental escalation. While China maintains its activities are consistent with international law and defensive in nature, the pattern suggests a willingness to take risks and test the boundaries of acceptable behavior.\nKey Takeaway: The increasing frequency of close encounters between Chinese and foreign military aircraft dramatically elevates the risk of miscalculation and unintended conflict. De-escalation protocols and clear communication channels are becoming increasingly critical.\nTaiwan: The Focal Point of China’s Military Modernization While China insists its naval expansion isn’t directed at any specific country, the focus on capabilities needed for a potential invasion of Taiwan is undeniable. The People’s Liberation Army (PLA) is openly developing the amphibious assault and air superiority capabilities required to seize the island, and the carrier deployments are likely a key component of that strategy. This ambition is fueling a regional arms race, as countries like Japan and Australia bolster their own defense capabilities in response.\nPro Tip: For businesses operating in the Asia-Pacific region, understanding the evolving geopolitical landscape is crucial. Scenario planning that incorporates potential disruptions to trade routes and supply chains is no longer optional, but a necessity.\nJapan’s Response: Balancing Defense and Diplomacy Japan, acutely aware of its vulnerability, is responding with a combination of diplomatic pressure and military modernization. The government has lodged strong protests with Beijing over the near miss and the incursions into its Exclusive Economic Zone (EEZ). Simultaneously, plans to deploy new missile systems to Kyushu, while criticized by Chinese state media as “confrontational,” demonstrate a commitment to strengthening its defensive capabilities. This balancing act – maintaining a robust defense while avoiding outright provocation – will be crucial for Japan in the years to come.\nThe Constitutional Debate and Japan’s Evolving Role The debate over Japan’s postwar constitution, which limits its armed forces to a strictly defensive role, is intensifying. Chinese state media’s criticism of Japan’s planned missile deployments highlights Beijing’s concern over Tokyo’s growing military assertiveness. Whether Japan will revise its constitution to allow for a more proactive defense posture remains to be seen, but the pressure to do so is mounting.\nThe Wider Implications: A New Pacific Order? China’s naval expansion isn’t just a regional issue; it has global implications. A more assertive China could challenge the existing US-led security architecture in the Pacific, potentially leading to a more fragmented and unstable order. The United States is responding by strengthening its alliances with countries like Japan, Australia, and the Philippines, and by increasing its own military presence in the region. However, a purely military solution is unlikely to be effective.\n“The key to maintaining stability in the Pacific lies in a combination of strong deterrence, robust diplomacy, and a commitment to international law,” says Dr. Emily Carter, a senior fellow at the Center for Strategic and International Studies. “Ignoring the underlying drivers of China’s behavior – its economic ambitions, its desire for regional influence, and its concerns about its own security – will only exacerbate the tensions.”\nThe expansion also impacts maritime security. Increased naval activity raises the risk of piracy, smuggling, and other illicit activities. Furthermore, the potential for disputes over resources and maritime boundaries could escalate into armed conflict.\nFrequently Asked Questions What is China’s “island chain” strategy? China’s “island chain” strategy refers to its efforts to break out of the constraints imposed by the first and second island chains – geographical lines of islands that historically limited its naval reach. Expanding beyond these chains allows China to project power further into the Pacific.\nWhat is an Exclusive Economic Zone (EEZ)? An EEZ is a 200-nautical-mile zone extending from a country’s coastline, within which it has exclusive rights to exploit natural resources. China’s incursions into Japan’s EEZ are seen as a violation of international law.\nHow is the US responding to China’s naval expansion? The US is strengthening its alliances in the region, increasing its military presence, and conducting joint military exercises with allies. It is also working to counter China’s influence through economic and diplomatic initiatives.\nWhat are the potential consequences of a conflict in the Taiwan Strait? A conflict in the Taiwan Strait would have devastating consequences for the global economy and could potentially escalate into a wider conflict involving the United States and China. It would disrupt global trade, supply chains, and financial markets.\nThe coming years will be critical in shaping the future of the Pacific. China’s naval expansion is a long-term trend with far-reaching consequences. Navigating this evolving landscape will require a nuanced approach that combines strong deterrence, robust diplomacy, and a commitment to international cooperation. The stakes are high, and the need for proactive engagement has never been greater. What steps will regional powers take to ensure a peaceful and prosperous future in the Indo-Pacific?\nExplore more insights on regional security challenges in our dedicated analysis section.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->international military intervention",
+      "Politics->international relations",
+      "Politics->diplomacy",
+      "Social Issue->communities",
+      "Social Issue->social problem",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Asia-Pacific",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:04:52.859+03:00",
+    "updated": "2025-06-12T07:10:33.000+00:00"
+  }
+]

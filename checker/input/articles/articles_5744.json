@@ -1,0 +1,309 @@
+[
+  {
+    "uuid": "94ead5a0c3783dec1ad3752a65a12452f07bbbc2",
+    "url": "https://www.scmp.com/comment/opinion/article/3246568/popular-hong-kong-events-give-grounds-optimism",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SCMP Editorial",
+    "published": "2023-12-28T22:30:00Z",
+    "title": "Opinion | Popular Hong Kong events give grounds for optimism | South China Morning Post",
+    "text": "Glad tidings arrived just in time for the holiday season and the Hong Kong tourism sector. Crowds unseen in years have been showing up for a revamped night market on Temple Street as well as at one of the largest annual bazaars at Victoria Park.\\nAlthough locals made up the bulk of the turnout, large crowds at the Jordan market and Hong Kong Brands and Products Expo in Causeway Bay have given the city and its pandemic-weary business sector sufficient reason to be optimistic.\\nThe expo, which features more than 900 booths offering bargain prices for food and other products, is expected to draw an overall attendance of 1 million visitors and sales of as much as HK$1 billion (US$127.9 million) during its 24-day run. With Covid-19 health rules no longer in place, a “food plaza” and taste-testing are back on the menu.\\nCuisine has also attracted visitors to the Temple Street market. It was overhauled as part of the government’s wider “Night Vibes Hong Kong” campaign to boost the nighttime economy.\\n\\nTourism Board officials said authorities would review footfall and the reactions of visitors to see if the bazaar should be extended past its initial six months. About 70 per cent of market visitors have been locals and 30 per cent tourists.\\nOrganisers hope word of its success will help gradually improve on that ratio.\\nOn his recent duty visit to Beijing, Hong Kong Chief Executive John Lee Ka-chiu told mainland China officials that attracting more overnight visitors and boosting their spending in Hong Kong would be among his top priorities. Lee said the sector had recovered quickly since travel restrictions were lifted earlier this year.\\nThe Immigration Department expects Hong Kong to handle more than 9 million trips by people on the move over the Christmas and new year holidays. The Tourism Board and businesses are also offering discounts and vouchers during that time.\\nTasty debut as crowds flock to Hong Kong’s revamped Temple Street night market\\nChristmas is the peak season for retailers, and this year’s holiday is the first since borders reopened. Many Hongkongers have been heading to the mainland or overseas.\\nHowever, the buzz those who attended local events have created will hopefully attract people thinking of visiting the city over the festive season and beyond.\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "hong kong",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria park",
+          "sentiment": "none"
+        },
+        {
+          "name": "hong kong brands",
+          "sentiment": "none"
+        },
+        {
+          "name": "temple street",
+          "sentiment": "none"
+        },
+        {
+          "name": "jordan",
+          "sentiment": "none"
+        },
+        {
+          "name": "causeway bay",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:42:20.034+02:00",
+    "updated": "2023-12-29T00:42:20.034+02:00"
+  },
+  {
+    "uuid": "17e8e647c45460532d05d87240e1dcf881f071ae",
+    "url": "https://www.bbc.com/news/articles/c4gj6n35x5po",
+    "ord_in_thread": 0,
+    "author": "Luke Walton",
+    "published": "2025-08-08T15:35:00Z",
+    "title": "Women in manufacturing scheme for North East",
+    "text": "Scheme to recruit more women in manufacturing\nA group of manufacturing firms have launched a scheme to encourage more female recruits, in a sector where only a quarter of the workforce are women.\nThe Advanced Manufacturing Forum (AMF), which represents more than 70 companies across the north-east of England, said outdated perceptions were putting off potential applicants.\nIt has set up a women in manufacturing and engineering group, which will work with colleges and universities to encourage more female recruits and support mentoring for women already in the industry.\nGateshead engineer Amy Gilmore, 23, who backs the drive, said: \"I think people see it as a men's world - that's completely not true, it's for everyone.\"\nA 2024 report says despite women making up approximately half of the UK's working population, they represent only 26.1% of the manufacturing workforce.\nAMF director Rachel Skeoch said: \"The biggest misconception is probably that it is incredibly dirty or old-fashioned.\n\"But that couldn't be further from the truth.\"\nInclusive workforce\nMrs Skeoch said increasing the number of women working in the sector would boost talent and economic growth.\n\"They approach things very differently, they have an incredible skill set,\" she said.\n\"And it's just so incredibly important that they are represented in one of the UK's most vital sectors.\"\nElectric motor and battery-maker Turntide sponsored Ms Gilmore through university.\n\"I have a really lovely team and I love the work,\" she said.\nTurntide's senior director of operations Paul Turbitt said the company was aiming to attract more women, having \"seen the benefits\" of a more inclusive workforce.\nThe firm has also introduced more flexible working arrangements.\n\"There's more part-time, the flexible hybrid, remote working,\" Mr Turbitt said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Labor->employer",
+      "Labor->labour market",
+      "Labor->employment",
+      "Social Issue->social condition",
+      "Social Issue->women",
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://engage.ifm.eng.cam.ac.uk/wp-content/uploads/Women-in-Manufacturing-report-2024.pdf",
+      "https://www.engage.ifm.eng.cam.ac.uk/wp-content/uploads/Women-in-Manufacturing-report-2024.pdf"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Rachel Skeoch",
+          "sentiment": "none"
+        },
+        {
+          "name": "Amy Gilmore",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "North East",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "AMF",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_ar",
+        "top_news_cz",
+        "top_news_nz",
+        "top_news_au",
+        "top_news_jp",
+        "top_news_ae",
+        "top_news_ua",
+        "top_news_tr",
+        "top_news_us",
+        "top_news_at",
+        "top_news_tw",
+        "top_news_pt",
+        "top_news_pl",
+        "top_news_gb",
+        "top_news_th",
+        "top_news_kr",
+        "top_news_sa",
+        "top_news_co",
+        "top_news_vn",
+        "top_news_hu",
+        "top_news_sg",
+        "top_news_ph",
+        "top_news_rs",
+        "top_news_bg",
+        "top_news_br",
+        "top_news_hk",
+        "top_news_nl",
+        "top_news_qa",
+        "top_news_hr",
+        "top_news_ie",
+        "top_news_ro",
+        "top_news_pk",
+        "top_news_se",
+        "top_news_id",
+        "top_news_dk",
+        "top_news_de",
+        "top_news_eg",
+        "top_news_it",
+        "top_news_pe",
+        "top_news_sk",
+        "top_news_ch",
+        "top_news_za",
+        "top_news_ma",
+        "top_news_my",
+        "top_news_il",
+        "top_news_kw",
+        "top_news_in",
+        "top_news_fr",
+        "top_news_ve",
+        "top_news_fi",
+        "top_news_be",
+        "top_news_mx",
+        "top_news_no",
+        "top_news_ca",
+        "top_news_cl",
+        "top_news_iq",
+        "top_news_gr",
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-08T18:57:42.583+03:00",
+    "updated": "2025-08-09T19:09:07.000+03:00"
+  },
+  {
+    "uuid": "22fedfeca299da9424ab6a210f6ba2363cad5367",
+    "url": "https://www.informazione.it/n/F0F70233-43CB-457D-9596-9302E99C10FB/Fine-settimana-movimentato-con-temporali-e-grandine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@infoitinterno",
+    "published": "2024-08-02T01:42:00Z",
+    "title": "Fine settimana movimentato con temporali e grandine",
+    "text": "[ ](/a/973E93DF-9265-4F2A-BF7E-1A727BF78E38/Break-con-temporali-e-grandine-ma-sulle-Marche-resta-l-allarme-per-la-siccita) [Leggi](https://www.corriereadriatico.it/marche/marche_meteo_maltempo_pevisioni_break_temporali_grandine_ma_resta_allarme_la_siccita_ultime_notizie_che_tempo_fa-8275991.html) Dopo una settimana di caldo intenso con temperature che hanno sfiorato i 40°C, le Marche si preparano a un fine settimana caratterizzato da un calo delle temperature e il rischio di temporali accompagnati da grandine. Secondo l'ultimo bollettino dell'agenzia regionale Amap, una bolla instabile raggiungerà l'Italia già sabato, portando precipitazioni localmente intense. Le previsioni indicano un cambiamento significativo del tempo, con un calo delle temperature di 5-6°C previsto per domani. Questo cambiamento sarà accompagnato da temporali che potrebbero essere anche di forte intensità e accompagnati da grandine. La situazione meteo sarà particolarmente instabile al Centro-Nord, dove si attendono i fenomeni più intensi. Nonostante l'arrivo dei temporali, nelle Marche persiste l'allarme per la siccità. Le recenti ondate di caldo e la scarsità di piogge hanno aggravato la situazione, rendendo necessarie misure urgenti per affrontare la crisi idrica. Le autorità locali stanno monitorando attentamente la situazione e valutando possibili interventi per mitigare gli effetti della siccità. Le proiezioni a lungo termine dei modelli previsionali introducono una novità significativa: l'anticiclone africano tornerà a dominare il bacino del Mediterraneo con l'inizio di agosto. Questo potrebbe portare a un ritorno del caldo intenso, anche se non sono esclusi ulteriori episodi di instabilità temporalesca. In sintesi, il fine settimana sarà caratterizzato da un cambiamento del tempo con un calo delle temperature e il rischio di temporali e grandine. Tuttavia, la situazione di siccità nelle Marche rimane critica e richiede attenzione e interventi urgenti. Le previsioni a lungo termine indicano un possibile ritorno del caldo intenso, ma con la possibilità di ulteriori episodi di instabilità.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Environment",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.corriereadriatico.it/marche/marche_meteo_maltempo_pevisioni_break_temporali_grandine_ma_resta_allarme_la_siccita_ultime_notizie_che_tempo_fa-8275991.html)",
+      "https://corriereadriatico.it/marche/marche_meteo_maltempo_pevisioni_break_temporali_grandine_ma_resta_allarme_la_siccita_ultime_notizie_che_tempo_fa-8275991.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T07:03:57.582+03:00",
+    "updated": "2024-08-02T07:03:57.582+03:00"
+  },
+  {
+    "uuid": "d13dbdd292d278eb0c9d04deedf3bb38510cbfbe",
+    "url": "https://en.pressbee.net/show3831374.html",
+    "ord_in_thread": 0,
+    "author": "PR Newswire",
+    "published": "2025-04-02T22:35:18Z",
+    "title": "Smart Transportation Market to Reach $484.5 Billion by 2029, Growing at 21.7% CAGR",
+    "text": "\"Comprehensive Report Highlights Latest Advances, Market Dynamics, and Practical Applications in Smart Transportation for Urban and Industrial Use\" BOSTON, April 2, 2025 /PRNewswire/ -- According to the latest study from BCC Research, \"Smart Transportation: Technologies and Markets\" is...\n Read More Details\nFinally We wish PressBee provided you with enough information of ( Smart Transportation Market to Reach $484.5 Billion by 2029, Growing at 21.7% CAGR )\nAlso on site :",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->market and exchange",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.prnewswire.com/news-releases/smart-transportation-market-to-reach-484-5-billion-by-2029--growing-at-21-7-cagr-302419089.html",
+      "https://prnewswire.com/news-releases/smart-transportation-market-to-reach-484-5-billion-by-2029--growing-at-21-7-cagr-302419089.html"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "BOSTON",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "BCC Research",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "Practical Applications",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Smart Transportation for Urban and",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T01:35:18.653+03:00",
+    "updated": "2025-04-03T01:35:18.653+03:00"
+  }
+]

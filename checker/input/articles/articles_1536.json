@@ -1,0 +1,385 @@
+[
+  {
+    "uuid": "cf02db290a57a1ed8ca5c2137db0011d98d26a6d",
+    "url": "https://news.wfsu.org/all-npr-news/2024-09-13/boeing-machinists-union-votes-to-strike",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joel Rose",
+    "published": "2024-09-13T05:39:00Z",
+    "title": "Boeing Machinists union votes to strike | WFSU News",
+    "text": "The deal would have raised wages by 25%, lowered employees’ share of health care costs, and boosted retirement contributions by the company. In addition, Boeing promised that the company's next plane would be built at its facilities in the Pacific northwest — rather than at Boeing's non-unionized plant in South Carolina. But many rank and file union members were unhappy with the offer, which fell short of the 40% raise and pension changes that the union was seeking. The strike vote comes at a difficult time for Boeing, which is already grappling with a safety crisis after a door plug panel blew out of a 737 Max jet in midair in January. That forced the company to slow production of its best-selling plane as it works to shore up quality control across its factories and supply chain, and rebuild trust with airlines, regulators and the flying public. Before the vote, new Boeing CEO Kelly Ortberg urged workers to approve the contract. “A strike would put our shared recovery in jeopardy, further eroding trust with our customers and hurting our ability to determine our future together,” Ortberg said in a letter to employees in Washington and Oregon. After the strike authorization, Boeing released a conciliatory statement saying it's \"clear that the tentative agreement we reached with IAM leadership was not acceptable to the members. We remain committed to resetting our relationship with our employees and the union, and we are ready to get back to the table to reach a new agreement.” The last strike by Boeing machinists in 2008 dragged on for eight weeks, costing the company an estimated $2 billion. Copyright 2024 NPR",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.npr.org/2024/03/22/1240167313/boeing-alaska-airlines-door-plug-fbi",
+      "https://www.npr.org/2008/09/08/94377264/boeing-machinists-strike-over-pay-health-benefits",
+      "https://npr.org/2008/09/08/94377264/boeing-machinists-strike-over-pay-health-benefits",
+      "https://npr.org/2024/03/22/1240167313/boeing-alaska-airlines-door-plug-fbi"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-13T09:35:17.545+03:00",
+    "updated": "2024-09-13T09:35:17.545+03:00"
+  },
+  {
+    "uuid": "ab22f7c789b239d8d78bc118f40a9f09e75789dc",
+    "url": "https://www.stabroeknews.com/2024/05/25/news/regional/three-christian-missionaries-from-oklahoma-based-group-killed-in-haiti",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stabroek News",
+    "published": "2024-05-25T00:00:00Z",
+    "title": "Three Christian missionaries from Oklahoma-based group killed in Haiti - Stabroek News",
+    "text": "(Reuters) – Three Christian missionaries from Missions in Haiti were shot and killed in an ambush by a gang in Haiti, the Oklahoma-based group said yesterday. The missionaries were taking shelter in a house when gang members began shooting at the residence at about 9 p.m. CDT (0200 GMT) Thursday, the group said in two Facebook posts. Months of gang violence in Haiti have forced the government into retreat, and U.S. Secretary of State Antony Blinken has warned the country is close to becoming a failed state. Haiti’s main international airport in Port-au-Prince reopened this week, nearly three months after it shut due to deadly gang-related violence. But gangs still control much of the capital and Haiti’s main seaport remains closed. A spokesperson for the White House National Security Council said the Biden administration was aware of reports of the deaths of U.S. citizens and offered condolences. “Our hearts go out to the families of those killed as they experience unimaginable grief,” the spokesperson said. Missouri State Representative Ben Baker said his daughter Natalie Lloyd and son-in-law Davy Lloyd were killed while working as full-time missionaries. Davy Lloyd was the son of the organization’s founders, David and Alicia Lloyd, who started it in 2000. The identity of the third person killed has not been released. “My heart is broken in a thousand pieces. I’ve never felt this kind of pain,” Baker said on Facebook. Missions in Haiti said the couple was leaving a church when they were ambushed by three trucks full of gang members. They took Davy Lloyd to a house, tied him up and beat him, before taking the group’s trucks and some items and left, it said. “Another gang came after to see what was going on and if they could help, so they say,” the organization said. “No one understood what they were doing, not sure what took place but one was shot and killed and now this gang went into full attack mode.” The couple and another individual identified as Jude called a leader of the organization on a satellite phone and said that their lives were in danger.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "ben baker",
+          "sentiment": "none"
+        },
+        {
+          "name": "antony blinken",
+          "sentiment": "none"
+        },
+        {
+          "name": "natalie lloyd",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "stabroek news (reuters",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "state",
+          "sentiment": "none"
+        },
+        {
+          "name": "missouri state",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house national security council",
+          "sentiment": "none"
+        },
+        {
+          "name": "facebook",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "haiti",
+          "sentiment": "none"
+        },
+        {
+          "name": "oklahoma",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "port-au-prince",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-25T09:24:05.825+03:00",
+    "updated": "2024-05-25T10:00:38.501+03:00"
+  },
+  {
+    "uuid": "99558244b181b7910a89442daf84dac53da45c83",
+    "url": "https://firstsportz.com/nfl-news-emotional-cj-stroud-credits-god-leading-texans-playoffs-rookie-season-late-cousin-introduced-football/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Akash Chatterjee",
+    "published": "2024-01-07T22:24:00Z",
+    "title": "WATCH: ‘Emotional’ CJ Stroud credits God for leading the Texans to playoffs in his rookie season, remembers late cousin who introduced him to football",
+    "text": "WATCH: ‘Emotional’ CJ Stroud credits God for leading the Texans to playoffs in his rookie season, remembers late cousin who introduced him to football\nThe Houston Texans beat the Indianapolis Colts, 23-19.\nC.J Stroud emotional (Via X)\nThe\nHouston Texans fans had an emotional time as their beloved team made it to the playoffs after four years. They were at the playoff birth in 2019 and after that, they failed to make it to the playoffs every single season. Hence, the celebration peaked after the team made it this year.\nThe architect, who had a monumental impact on the success of the team, also seemed emotional after the victory. In the post-match presentation,\nCJ Stroud seemed to break into tears. He credited the almighty behind the success of himself. In the post-game interview, the rookie said:\nI can’t do nothing, just thank my Lord to save, Jesus Christ man. I’m sorry.CJ Stroud at the post-game interview\nCJ Stroud added as emotions piled up:\nI put a lot of work in my team. Everybody count us out from the start so man it’s just special to see the city of Houston come up again.CJ Stroud added\nNot only through his words but also he expressed his gratitude to the almighty through his actions. The QB played with a wristband that included a sign of a cross. He also had some other symbols that expressed his deep faith in the almighty.\nThe rookie QB was simply sensational against the Colts as he ended the game by covering 264 yards with two touchdowns. He also finished the game cleanly as he was not subjected to any interception.\nWATCH: Arnold Schwarzenegger feeding a donkey on ManningCast leaves Peyton and Eli Manning stunned\nCJ Stroud is the favorite for the OROY Award\nWith his brilliant performance on the gridiron, C.J. Stroud is the favorite for the Offensive Rookie of the Year Award. The quarterback has had a tough competition with the wide receiver of the Rams’ Puka Nacua. But Nacua seems to be left behind after the stellar performance on the turf.\nStroud has broken multiple records this season. Stroud became the fifth quarterback in history to\nsurpass more than 4,000 yards. He also ended up as the QB with the least number of interceptions this season. These statistics can help him to take over Puka Nacua.\nBetters have already settled high hopes for the quarterback after seeing the brilliant performance on the turf. It is to be seen now whether the QB manages to win the Award by beating Nacua.\nIn case you missed it:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "c.j stroud",
+          "sentiment": "none"
+        },
+        {
+          "name": "cj stroud",
+          "sentiment": "none"
+        },
+        {
+          "name": "stroud",
+          "sentiment": "none"
+        },
+        {
+          "name": "jesus christ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "houston texans",
+          "sentiment": "none"
+        },
+        {
+          "name": "indianapolis colts",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "houston",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:22:45.486+02:00",
+    "updated": "2024-01-08T01:22:45.486+02:00"
+  },
+  {
+    "uuid": "e0deeab38193777fb234ebdc96346f303860076f",
+    "url": "https://www.globalsecurity.org/military/library/news/2024/03/mil-240308-bgmod01.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Pike",
+    "published": "2024-03-09T08:16:00Z",
+    "title": "Sweden, welcome to NATO!",
+    "text": "Sweden, welcome to NATO!\nMinistry of Defence of the Republic of Bulgaria\n08.03.2024\nThe Ministry of Defence of the Republic of Bulgaria extends its congratulations to the Kingdom of Sweden on the occasion of the country's joining the world's most powerful defensive alliance. Sweden has become the 32nd full member of the Alliance and will contribute to improving security in the Baltic Region, the Eastern Flank of NATO, and the entire Euro-Atlantic area.\nAs a political act, the accession of the Kingdom of Sweden to NATO sends a clear message of the importance of the Alliance in ensuring the security of Europe. In addition to that, it also opens up further opportunities for enhanced bilateral defence cooperation.\nBulgaria has consistently supported NATO's open door policy. The new members of the Alliance, the Republic of Finland and the Kingdom of Sweden, submitted their applications to join NATO on 18 May 2022. The protocols for the accession of the two countries to the Alliance were signed on 5 July 2022 in Brussels. On 13 July 2022, the Bulgarian National Assembly ratified the protocols for the accession of the Republic of Finland and the Kingdom of Sweden to the North Atlantic Treaty.\n|\n|\nNEWSLETTER\n|Join the GlobalSecurity.org mailing list|\n|\n||\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nato",
+          "sentiment": "positive"
+        },
+        {
+          "name": "ministry of defence",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "eastern flank of nato",
+          "sentiment": "none"
+        },
+        {
+          "name": "bulgarian national assembly",
+          "sentiment": "none"
+        },
+        {
+          "name": "alliance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sweden",
+          "sentiment": "none"
+        },
+        {
+          "name": "republic of bulgaria",
+          "sentiment": "none"
+        },
+        {
+          "name": "brussels",
+          "sentiment": "none"
+        },
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "republic of finland",
+          "sentiment": "none"
+        },
+        {
+          "name": "baltic region",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingdom of sweden",
+          "sentiment": "none"
+        },
+        {
+          "name": "bulgaria",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T12:37:09.936+02:00",
+    "updated": "2024-03-09T12:37:09.936+02:00"
+  },
+  {
+    "uuid": "5e24e2bb09508ddedb15b54d44812a06a1736b5b",
+    "url": "https://www.justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "justice.gov",
+    "published": "2024-06-13T20:59:00Z",
+    "title": "Western District of Wisconsin | Jury Convicts Madison Man of Covid-Relief Fraud, False Statements, and Money Laundering | United States Department of Justice",
+    "text": "Press Release Jury Convicts Madison Man of Covid-Relief Fraud, False Statements, and Money Laundering Thursday, June 13, 2024 Share Facebook X LinkedIn Email For Immediate Release U.S. Attorney's Office, Western District of Wisconsin Eric Upchurch Submitted Loan Applications with False Information MADISON, WIS. – A Madison, Wisconsin, man has been convicted of Covid-relief fraud, making false statements on loan applications, and money laundering. Eric Upchurch, 36, was convicted following a three-day trial in federal court in Madison. The jury reached a verdict today after approximately five hours of deliberation. The guilty verdict is announced by Timothy M. O’Shea, United States Attorney for the Western District of Wisconsin.\nIn March 2020, the Coronavirus Aid, Relief, and Economic Security (CARES) Act was enacted to provide immediate financial assistance to individuals, families, and organizations affected by the COVID-19 pandemic. This Act authorized the U.S. Small Business Administration (SBA) to offer Paycheck Protection Program (PPP) forgivable loans to business owners negatively affected by the COVID-19 pandemic.\nThe government presented evidence at trial that from April 2020 to April 2021, Upchurch submitted 14 PPP loan applications to the SBA on behalf of his various companies. In each PPP application, Upchurch falsely represented his companies’ payroll expenses and revenues. Upchurch also submitted false documentation. In total, Upchurch’s fraudulent representations caused the SBA to approve 10 of the loans and deposit approximately $400,000 into bank accounts controlled by Upchurch. The government also presented evidence that Upchurch laundered fraudulently obtained funds by purchasing cryptocurrency.\nU.S. District Judge William M. Conley scheduled sentencing for August 30, 2024. Upchurch faces a maximum penalty of 20 years in federal prison on the each of the fraud counts and 10 years on the money laundering count. Upchurch faces a maximum penalty of 5 years in prison on each of the false statement counts.\nThe case was investigated by the Internal Revenue Service, Federal Bureau of Investigation, and the Small Business Administration, Office of Inspector general. The prosecution is being handled by Assistant U.S. Attorneys Chad Elgersma and William M. Levins.\nUpdated June 13, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering&title=Jury",
+      "http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering",
+      "http://twitter.com/intent/tweet?url=https://www.justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering&text=Jury",
+      "http://www.facebook.com/sharer/sharer.php",
+      "http://twitter.com/intent/tweet?url=https://justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering&text=Jury",
+      "http://twitter.com/intent/tweet",
+      "http://linkedin.com/shareArticle?mini=true&url=https://justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering&title=Jury",
+      "http://facebook.com/sharer/sharer.php?u=https://justice.gov/usao-wdwi/pr/jury-convicts-madison-man-covid-relief-fraud-false-statements-and-money-laundering",
+      "http://www.linkedin.com/shareArticle"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "money launderin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "eric upchurch",
+          "sentiment": "none"
+        },
+        {
+          "name": "timothy m. o’shea",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "western district of wisconsin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "money laundering | united states department of justice press",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "office",
+          "sentiment": "none"
+        },
+        {
+          "name": "false information madison",
+          "sentiment": "none"
+        },
+        {
+          "name": "ppp",
+          "sentiment": "none"
+        },
+        {
+          "name": "western district of wisconsin eric upchurch submitted loan applications",
+          "sentiment": "none"
+        },
+        {
+          "name": "paycheck protection program",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. small business administration",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "madison",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "western district of wisconsin",
+          "sentiment": "none"
+        },
+        {
+          "name": "wis.",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "wisconsin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:44:19.088+03:00",
+    "updated": "2024-06-14T00:44:19.088+03:00"
+  }
+]

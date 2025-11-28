@@ -1,0 +1,377 @@
+[
+  {
+    "uuid": "3a33181e11339bed1cc011706323146f8d1d6eb2",
+    "url": "https://www.in-lombardia.it/it/evento/festa-di-san-giacomo-2",
+    "ord_in_thread": 0,
+    "author": "@inlombardia",
+    "published": "2025-07-24T04:49:06Z",
+    "title": "Festa di San Giacomo",
+    "text": "- Arte e Cultura\n- Lifestyle\n- Laghi\nFesta di San Giacomo\nLa festa di San Giacomo avrà luogo a Maspiano, frazione di Sale Marasino, il 25 Luglio 2025. Alle ore 20.00 si terrà la Santa Messa e, a seguire, la tradizionale processione.\nAlle ore 21.00 avrà inizio il torneo di briscola a cui si potrà partecipare tramite prenotazione.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->festival",
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->lifestyle",
+      "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "San Giacomo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Masp",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sale Marasino",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:49:06.537+03:00",
+    "updated": "2025-07-24T07:54:05.000+03:00"
+  },
+  {
+    "uuid": "9a6a1f38b4102041def19dedb5ed7f2860e0832f",
+    "url": "https://www.dailynews.com/2023/12/31/rose-parade-2024-weather-forecast-says-mostly-sunny-for-new-years-day/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Carter",
+    "published": "2023-12-31T12:07:00Z",
+    "title": "Rose Parade 2024: Weather forecast says mostly sunny for New Year’s Day",
+    "text": "It’s looking good for New Year’s Day on Colorado Boulevard. A forecast of a slight chance of rain earlier in the week has turned into mostly sunny skies, boding well for the Tournament of Roses’ streak of years since of 2006 with no rain. In fact, it’s shaping up to be quite a nice morning for the Rose Parade, which runs from 8 a.m. to 10 a.m. Monday, with the Rose Bowl Game in the afternoon. According to the National Weather Service, Monday will be mostly sunny, with a high near 64. - Read more Rose Parade coverage [here](https://www.pasadenastarnews.com/tag/rose-parade/) Even if there is rain, it likely won’t be much. The next in a series of storms will impact Southern California, but the core of the storm will stay off the cost on its way to norther Baja, according to the Weather Service. “Any area that receives rain will generally stay under 0.10 inches, with a local amount to 0.25 inches possible,” according to the National Weather Service. And it’s unlikely it cause the kind of problems other parts of the region are seeing. Parts of Los Angeles County experienced flooding this morning as a strong one-day rainstorm hit the area, creating dangerous conditions on roads and at beaches. A flood advisory was in effect until 11 a.m. for a portion of southwest California, including central and southern Los Angeles County, and far eastern Ventura County, according to the National Weather Service. Local law enforcement agencies reported some urban and small stream flooding in the advisory area. Some locations that were warned about possible flooding include Long Beach, Malibu, Griffith Park, Hollywood, downtown Los Angeles, Universal City, Burbank, Beverly Hills, North Hollywood, Culver City, Alhambra, Inglewood, Pasadena, Van Nuys, Venice, Santa Monica and Encino. The NWS also issued a special weather statement for the areas of Santa Clarita, Newhall and San Fernando, where winds up to 50 mph were expected. Meanwhile, a high surf warning was in effect until 10 p.m. Saturday for all Los Angeles County beaches, including the Malibu Coast and Catalina Island. So, you might pack an umbrella or poncho, just in case. But bottom line: You likely won’t need it in Pasadena. Fingers crossed. Organizers don’t like to talk much about the rain, for fear of jinxing the giant annual spectacle, which from its beginnings was all about promoting the region’s sunny weather disposition and its flowers. That may be a good strategy. In fact, over the course of its 134-year history, the event has had 124 sunny iterations and just 10 soggy ones. And it looks like the 135th year will follow that pattern. The answer is part odds, part science, explained Daniel Swain, climate scientist at UCLA’s Institute of the Environment & Sustainability in a recent interview with the Southern California News Group. January is actually at the peak of Southern California’s rainy season when temporary southward shifts in the Pacific storm track, driven by variations in the jet stream, create large rain storms, he said. But, that only happens “a relative handful of times” in any given winter. In L.A. County, there is approximately a 10% to 15% chance of experiencing rainfall on any given day in January, he said. In comparison, it has only rained on approximately 8% of Rose Parades, according to information provided by the Tournament of Roses. It doesn’t hurt, experts say, that the parade only takes up a morning fraction of a day when rain could happen before or after. Get ready to smell the roses, instead of a rain-soaked pavement. Staff writers Clara Harter and Ryan Carter, and City News Service, contributed to this article.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "weather service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colorado boulevard",
+          "sentiment": "none"
+        },
+        {
+          "name": "southern california",
+          "sentiment": "none"
+        },
+        {
+          "name": "los angeles county",
+          "sentiment": "none"
+        },
+        {
+          "name": "baja",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-31T22:14:38.753+02:00",
+    "updated": "2023-12-31T23:40:36.688+02:00"
+  },
+  {
+    "uuid": "aa0f7220b9c16568f36a0577fdccfb0dee866709",
+    "url": "https://www.theoaklandpress.com/2024/09/05/kosmo-gazes-at-his-week-2-football-predictions-after-a-strong-start-opening-week",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bryan Everson",
+    "published": "2024-09-05T20:54:00Z",
+    "title": "Kosmo gazes at his Week 2 football predictions after a strong start opening week",
+    "text": "In case anyone thought Kosmo had lost a step in the offseason, opening week proved that his reads are still pretty darn good.\nA record of 5-2 could have been 6-1 if not for a 22-21 victory overtime win by Rochester Adams over Romeo that made Kosmo look silly for picking against the OAA side.\nProps go to Clarkston, too, as Kosmo got that pick right, but the Wolves showed that they could hang with what’s perceived to be the best team — and QB — in the state in Belleville. Justin Pintar’s team didn’t get a first-place vote in the OAA Red Preseason Coaches Poll, but more Friday’s like the last could give them a say alongside the two teams that did, West Bloomfield and Lake Orion.\nKosmo The second weekend includes a few city rivalry battles that have Kosmo chomping at the bit, including the Highlanders in action to either prove Kosmo right or wrong yet again, as well as some juicy OAA crossovers featuring divisional contenders.\nHere are the picks with Week 2 upon us:\nRochester Adams at Rochester — Kosmo remembers 2018 as the last time Rochester put up a real good fight against Adams, as the Falcons took their rivals to double-overtime before losing 28-27 in that year’s opener. The Falcons, like Adams, were victors in their OAA-MAC crossover on opening weekend, beating Fraser 38-7. Long story short, if Adams fools twice, shame on Kosmo. Kosmo says: Rochester Adams\nWalled Lake Northern at Walled Lake Central — The Knights had a tough start to the season on home turf, getting blanked 35-0 by South Lyon. It looks like they’ll be tested by another tough defense when they make the short trip to Oakley Park Rd. and take on the Vikings, who beat Berkley 7-0 in OT to start the season. Northern trounced in last year’s meeting, 38-3, and while it may not be as high-octane this year, it may be the same result. Kosmo says: WL Northern\nJackson Lumen Christi at Pontiac Notre Dame Prep — Two-time defending Division 7 champs and perennial power Jackson Lumen Christi visits the Fighting Irish for a matchup Kosmo circled so many times he had to have more pens supply dropped to the cave. The Titans are on the hunt for a three-peat as they move up to Division 6, while NDP got started by flying high with a 49-14 victory over Detroit Central to begin the quest for a Division 5 playoff appearance. Both teams should punch a postseason ticket, but there can only be one winner Friday night. Kosmo says: Jackson Lumen Christi\nToledo Catholic Central (OH) at Detroit Catholic Central — Last week featured plenty of county crossovers, but how about a battle between the Shamrocks against a CHSL opponent from the state which shall not be named by Michigan fans? The Irish opened with a victory over crosstown rival Whitmer, while the Shamrocks packed an offensive punch with a 56-12 road win at Dearborn. It’s a tall task, but Kosmo would rather be sinking with the ship than choose a team from that place down south. Kosmo says: Detroit Catholic Central\nAuburn Hills Avondale at Birmingham Seaholm — It’s a battle between two teams picked to win their respective OAA divisions. The Maples proved that they still have something left in the cupboard despite graduating some hard-hitters with their 42-0 thumping of Troy Athens in Week 1. Avondale, meanwhile, came up short in a 20-14 defeat against Cedar Springs, and the Yellow Jackets might have to wait until the third week to put one up in the win column with the OAA Blue favs on deck. Kosmo says: Seaholm\nClarkston at Southfield A&T — The Keith McKenzie era got off to a roaring start with A&T’s 46-0 romp of Flint Beecher, and Kosmo couldn’t be happier for the defending champs. But Kosmo saw the opening game tape of the Wolves, who were capable of big plays through the air and also of generating turnovers. They may turn Southfield into their den this Friday. Kosmo says: Clarkston\nWest Bloomfield at Birmingham Groves — Here are two teams that probably couldn’t be more smitten with their results to start the fall. Kosmo noticed that the Lakers wrote the book for defending the OAA’s reputation with last week’s 42-0 dispatching of Chippewa Valley. Now it’s time for a trip to take on the team picked to win the OAA White, Groves, who beat Detroit U-D Jesuit 35-14 on the road in Week 1. Kosmo knows the Falcons are trying to party like it’s 2019, the last time they beat the Lakers, but Kosmo thinks any celebrations that involve beating the Lakers this season will be few and far between. Kosmo says: West Bloomfield",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:24:31.861+03:00",
+    "updated": "2024-09-06T00:24:31.861+03:00"
+  },
+  {
+    "uuid": "34340670a6cabde2de5185dfc142d6223c72adaa",
+    "url": "https://www.joemygod.com/2025/06/nj-man-approaches-wild-bison-gets-usual-result",
+    "ord_in_thread": 0,
+    "author": "Joe Jervis",
+    "published": "2025-06-11T21:00:00Z",
+    "title": "NJ Man Approaches Wild Bison, Gets Usual Result",
+    "text": "Via press release from the National Park Service :\nOn June 10, a 30-year-old man from Randolph, New Jersey, was injured by a bison in Yellowstone National Park.\nAt approximately 9:45 a.m. in the Upper Geyser Basin at Old Faithful, a man was gored by a bison after a large group of visitors approached it too closely. The individual was treated and transported by emergency medical personnel.\nThe incident is currently under investigation, and no further details are available at this time. There are no photos or videos of this incident to share.\nThis is the second reported incident of a person injured by a bison in 2025. The first occurred on May 7. There were two reported incidents in 2024 and one in 2023.\nBison will defend their space when threatened and have injured more people in Yellowstone than any other animal. They are unpredictable and can run three times faster than humans.\nRead the full press release .\nA 30-year-old man from Randolph, New Jersey, was injured by a bison in Yellowstone National Park’s Upper Geyser Basin near Old Faithful on the morning of June 10. https://t.co/d67DvHFJPL pic.twitter.com/OskTHrUcZ3\n— CBS New York (@CBSNewYork) June 11, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/CBSNewYork/status/1932785488500285466?ref_src=twsrc%5Etfw",
+      "https://www.nps.gov/yell/learn/news/25006.htm",
+      "https://t.co/OskTHrUcZ3",
+      "https://t.co/d67DvHFJPL",
+      "https://nps.gov/yell/learn/news/25006.htm",
+      "https://www.t.co/d67DvHFJPL",
+      "https://www.twitter.com/CBSNewYork/status/1932785488500285466?ref_src=twsrc%5Etfw",
+      "https://www.t.co/OskTHrUcZ3",
+      "https://twitter.com/CBSNewYork/status/1932785488500285466"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Yellowstone National Park",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": "left"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:22:18.438+03:00",
+    "updated": "2025-06-12T07:30:19.000+00:00"
+  },
+  {
+    "uuid": "96611f2706428352c6b3b40a97f858e974192c4f",
+    "url": "https://www.dnoticias.pt/2024/9/5/418826-bruno-lage-e-um-treinador-de-sucesso-e-com-titulos-no-benfica",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carolina Rodrigues",
+    "published": "2024-09-05T20:03:00Z",
+    "title": "\"Bruno Lage é um treinador de sucesso e com títulos no Benfica\"",
+    "text": "\"Bruno Lage é um treinador de sucesso e com títulos no Benfica\" O presidente do Benfica apresentou hoje Bruno Lage como novo treinador da equipa de futebol e justificou a escolha \"fácil e rápida\" por se tratar de um treinador de sucesso e que já conquistou títulos no clube. \"É com grande orgulho que apresento Bruno Lage. Uma escolha fácil e rápida da nossa parte. Tem o perfil necessário para dirigir a equipa neste momento. É um técnico conhecedor do clube pelos anos que representou esta casa e é um técnico de sucesso, que já conquistou títulos no Benfica\", disse Rui Costa na apresentação de Bruno Lage como sucessor do alemão Roger Schmidt. O presidente 'encarnado' lembrou que o novo treinador teve esse sucesso na Luz num período \"ainda mais complicado\" do que aquele que se vive hoje. \"Dentro de todas as circunstâncias, considerámos de forma rápida que Bruno Lage reunia todas as condições e teria todo o nosso apoio para dirigir a equipa principal do Benfica. Neste impasse de saída de um treinador e entrada de outro, cada adepto tem as suas preferências, o que é respeitável, mas tenho a certeza de que, a partir deste momento, terá o apoio e o respeito de todos os benfiquistas\", afirmou Rui Costa. A opção por Bruno Lage assentou, segundo o presidente dos 'encarnados', em pressupostos de ordem técnica, os quais são bem conhecidos pelo seu passado na Luz, e de ordem sentimental, pela sua ligação ao clube. [Virando-se para Bruno Lage] \"Além das tuas qualidades como treinador, terás também aquilo que todos os benfiquistas querem ver. Tenho a certeza absoluta que viverás cada dia, cada treino, cada jogo, com o sentimento que sempre representaste, que é o sentimento de cada benfiquista. Disso não tenho a menor dúvida!\", reafirmou o 'timoneiro' dos 'encarnados'. O regresso de Bruno Lage à Luz, um treinador que já teve sucesso no clube, faz com que Rui Costa não tenha dúvidas de que é o treinador indicado para este momento, a quem dirigiu as últimas palavras. \"Bruno, que tenhas sucesso, que possas repetir o que já conseguiste fazer neste clube e que no final da época possamos refazer esta foto com a conquista do 39, que é o desejo de todos os benfiquistas e que sei que vais lutar por isso\", rematou.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:07:08.394+03:00",
+    "updated": "2024-09-06T02:08:16.228+03:00"
+  },
+  {
+    "uuid": "af766431083512d757e9d25994228e328e8d8ef0",
+    "url": "https://www.francebleu.fr/infos/economie-social/energie-les-syndicats-appellent-a-la-greve-le-5-decembre-pour-les-salaires-1978161",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "France Bleu",
+    "published": "2024-11-29T22:07:00Z",
+    "title": "Énergie : les syndicats appellent à la grève le 5 décembre pour les salaires",
+    "text": "Énergie : les syndicats appellent à la grève le 5 décembre pour les salaires\nLes syndicats de l'énergie appellent à la grève le 5 décembre pour demander des augmentations salariales, a appris l'AFP ce vendredi. Cela interviendra le même jour que la grève dans la fonction publique.\nUne intersyndicale a appelé à la grève pour les salaires jeudi 5 décembre dans \"l'ensemble des entreprises du secteur électrique et gazier\", a appris l'AFP ce vendredi de sources syndicales. Cet appel intervient alors que les négociations salariales ont débuté dans les entreprises et ne sont \"pas au niveau\" des revendications de l'intersyndicale (CGT/CFE-CGC/CFDT/FO), a indiqué une source syndicale. Dans le secteur des industries électriques et gazières, les augmentations générales sont décidées au niveau de la branche et s'appliquent dans l'ensemble des entreprises, qui négocient ensuite une enveloppe d'augmentations individuelles, l'addition des deux donnant l'augmentation globale des salariés.\n\"En augmentation générale, on est à +0,8% (...). En entreprises, l'ensemble des quatre organisations syndicales représentatives de la branche ont demandé 2,3% en mesures individuelles\", a déclaré à l'AFP Laurent Koessler, chargé du dialogue social à la CFE-Energies, deuxième organisation du secteur, qui compte un peu moins de 140.000 salariés. Or, \"les négociations en entreprises ont commencé et on n'est pas à ce niveau\", a-t-il ajouté. \"À la suite de la séance d'ouverture de la négociation sur les mesures salariales 2025, la première proposition de la direction d'EDF est un faible taux de 1,5%\", a indiqué l'intersyndicale dans un tract. Elle demande à la direction de \"revenir en négociation en proposant bien plus pour répondre aux 2,3% revendiqués sur les mesures individuelles\".\nPour les mêmes raisons, l'intersyndicale appelle à faire grève \"chez EDF, chez Enedis et sur l'ensemble des entreprises du secteur électrique et gazier, donc il n'y a pas une seule entreprise qui échappe au préavis de grève\", a ajouté Laurent Koessler, une information confirmée par la CGT d'EDF et la CGT de GRDF.\nUn mouvement reconductible\nLa date du 5 décembre correspond à une réunion prévue de l'organe de branche de l'énergie pour négocier d'autres sujets, a indiqué Laurent Koessler. Cette journée se trouve être \"le même jour\" que [la journée de grève dans la fonction publique](https://www.francebleu.fr/infos/economie-social/fonction-publique-les-syndicats-appellent-a-une-journee-de-greve-le-5-decembre-4487294), a-t-il souligné, avec des revendications sur le pouvoir d'achat \"à peu près identiques\". L'appel à la grève débute officiellement la veille à 21 heures, pour les équipes de nuit, comme traditionnellement dans le secteur de l'énergie.\nCette journée de grève ne devrait pas avoir de conséquences trop visibles pour le public, a pronostiqué Laurent Koessler, et devrait surtout se traduire par un manque à gagner pour les entreprises. Mais, prévient-il, \"c'est en fonction du résultat\", donc de la mobilisation, \"et des réactions des employeurs\", que le mouvement, reconductible, pourra éventuellement se durcir. \"L'intersyndicale se réunira le 5 au soir pour décider des suites à donner\", a-t-il conclu.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-30T00:21:48.553+02:00",
+    "updated": "2024-11-30T00:21:48.553+02:00"
+  },
+  {
+    "uuid": "8aee2d88d57193a08581bfa157cc50a58af2ec48",
+    "url": "https://www.24horas.cl/deportes/futbol-internacional/el-atletico-de-madrid-se-vengo-del-real-y-lo-elimino-de-la-copa-del-rey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "24horas",
+    "published": "2024-01-18T00:00:00Z",
+    "title": "El Atlético de Madrid se vengó del Real Madrid y lo eliminó de la Copa del Rey | 24horas",
+    "text": "El Atlético de Madrid se tomó la revancha en el derby madrileño ante el [Real Madrid](/24horas/site/tag/port/all/tagport_1267_1.html), firmando su pase a los cuartos de final de la Copa del Rey. Los colchoneros arrancaron con la ventaja gracias a Samuel Lino, quien definió tras un deficiente cabezazo defensivo de Antonio Rüdiger. ⚽️ ¡¡G L DEL SAMUEL LINOOOO!! ¡¡SE ADELANTA EL ATLETIIII!! Imposible de alcanzar para Lunin el disparo cruzado del carrilero. ¡¡Grita el Cívitas!! 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 1-0 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 38’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/Sp8P8xvSA3](https://t.co/Sp8P8xvSA3) [January 18, 2024](https://twitter.com/rfef/status/1748091626403070026?ref_src=twsrc^tfw) ⚽️ ¡¡G L DEL SAMUEL LINOOOO!! ¡¡SE ADELANTA EL ATLETIIII!! Sin embargo, los merengues igualarían en los descuentos de la primera mitad tras una mala salida de Jan Oblak, quien terminó empujándola en propia meta. ⚽️ ¡¡G L DEL REAL MADRID!! Saca Modrić un libre directo y, tras un salto entre varios jugadores y Oblak, el balón entra en la portería local. 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 1-1 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 46’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/4UcJfx08QD](https://t.co/4UcJfx08QD) [January 18, 2024](https://twitter.com/rfef/status/1748093520949186650?ref_src=twsrc^tfw) ⚽️ ¡¡G L DEL REAL MADRID!! Apenas unos minutos entrada la segunda parte, Álvaro Morata volvería a darle la ventaja a los dirigidos por Diego Simeone, tras una mala comunicación entre el arquero Andriy Lunin y su defensa. ⚽️ ¡¡MOOOORAAAATAAAA G L!! ¡¡MARCA EL ATLÉTICO DE MADRID!! El delantero internacional aprovecha un rebote en el área y adelanta a los rojiblancos. 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 2-1 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 57’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/iLPzaoxClY](https://t.co/iLPzaoxClY) [January 18, 2024](https://twitter.com/rfef/status/1748101362452205595?ref_src=twsrc^tfw) ⚽️ ¡¡MOOOORAAAATAAAA G L!! ¡¡MARCA EL ATLÉTICO DE MADRID!! A pesar de ir en desventaja, los dirigidos por Carlo Ancelotti lograrían igualar la serie en el 81' gracias a un centro de Jude Bellingham que conectaría Joselu de cabeza. ⚽️ ¡¡G L DEL REAL MADRIIIID!! ¡¡JOOOOSEEELUUUU PONE EL EMPATEEE!! Remata de cabeza el delantero en el segundo palo a pase medido de Jude Bellingham. 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 2-2 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 82’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/DQu2Kb9YkW](https://t.co/DQu2Kb9YkW) [January 18, 2024](https://twitter.com/rfef/status/1748107643527246095?ref_src=twsrc^tfw) ⚽️ ¡¡G L DEL REAL MADRIIIID!! ¡¡JOOOOSEEELUUUU PONE EL EMPATEEE!! El derby madrileño se iría al tiempo extra, donde los rojiblancos serían más contundentes gracias a los goles de Antoine Griezmann en el 100' y Rodrigo Riquelme en el 118', mientras que los merengues acusarían el cansancio del trámite del encuentro, sin poder recuperarse de estos dos goles. ⚽️ ¡¡QUÉ GOLAZOOOO!! ¡¡MARCA GRIEZMANN!! ¡¡MARCA EL ATLÉTICO DE MADRID!! Se adelanta de nuevo el conjunto rojiblanco con un tanto espectacular del galo. 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 3-2 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 100’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/ViSKO73KXV](https://t.co/ViSKO73KXV) [January 18, 2024](https://twitter.com/rfef/status/1748114458306617400?ref_src=twsrc^tfw) ⚽️ ¡¡QUÉ GOLAZOOOO!! ¡¡MARCA GRIEZMANN!! ¡¡MARCA EL ATLÉTICO DE MADRID!! ⚽️ ¡¡G L DE RODRIGO RIQUELMEEEE!! ¡¡EL CUARTO DEL ATLETIII!! Gran contra local y gran definición del jugador rojiblanco. 🆚 [@Atleti](https://twitter.com/Atleti?ref_src=twsrc^tfw) | 4-2 | [@realmadrid](https://twitter.com/realmadrid?ref_src=twsrc^tfw) | 119’ 📺 [@La1_tve](https://twitter.com/La1_tve?ref_src=twsrc^tfw) ℹ️ Minuto a Minuto: [https://t.co/CAQw8fCr6Y](https://t.co/CAQw8fCr6Y) [#LaCopaMola](https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆 | [#CopaDelRey](https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw) [pic.twitter.com/g2vioueTka](https://t.co/g2vioueTka) [January 18, 2024](https://twitter.com/rfef/status/1748119889347256582?ref_src=twsrc^tfw) ⚽️ ¡¡G L DE RODRIGO RIQUELMEEEE!! ¡¡EL CUARTO DEL ATLETIII!! Con este resultado, el Atlético de Madrid se metió a los cuartos de final de la Copa del Rey, quedando a la espera del rival que será definido por sorteo, y se tomó revancha del Real Madrid, cuadro que hace ocho días lo eliminó de la Supercopa de España.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://twitter.com/realmadrid?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748114458306617400?ref_src=twsrc^tfw)",
+      "https://t.co/CAQw8fCr6Y",
+      "https://t.co/CAQw8fCr6Y)",
+      "https://t.co/4UcJfx08QD)",
+      "https://t.co/ViSKO73KXV)",
+      "https://twitter.com/rfef/status/1748091626403070026?ref_src=twsrc^tfw)",
+      "https://t.co/DQu2Kb9YkW)",
+      "https://twitter.com/rfef/status/1748107643527246095?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748119889347256582?ref_src=twsrc^tfw)",
+      "https://t.co/iLPzaoxClY)",
+      "https://twitter.com/Atleti?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748101362452205595?ref_src=twsrc^tfw)",
+      "https://twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆",
+      "https://twitter.com/La1_tve?ref_src=twsrc^tfw)",
+      "https://t.co/Sp8P8xvSA3)",
+      "https://twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw)",
+      "https://t.co/g2vioueTka)",
+      "https://twitter.com/rfef/status/1748093520949186650?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748091626403070026",
+      "https://twitter.com/hashtag/LaCopaMola",
+      "https://www.t.co/iLPzaoxClY)",
+      "https://www.t.co/g2vioueTka)",
+      "https://www.t.co/4UcJfx08QD)",
+      "https://www.t.co/CAQw8fCr6Y",
+      "https://www.t.co/Sp8P8xvSA3)",
+      "https://www.twitter.com/rfef/status/1748101362452205595?ref_src=twsrc^tfw)",
+      "https://twitter.com/Atleti",
+      "https://www.twitter.com/hashtag/CopaDelRey?src=hash&ref_src=twsrc^tfw)",
+      "https://www.twitter.com/rfef/status/1748091626403070026?ref_src=twsrc^tfw)",
+      "https://twitter.com/La1_tve",
+      "https://www.twitter.com/rfef/status/1748107643527246095?ref_src=twsrc^tfw)",
+      "https://www.twitter.com/La1_tve?ref_src=twsrc^tfw)",
+      "https://twitter.com/realmadrid",
+      "https://www.t.co/DQu2Kb9YkW)",
+      "https://www.twitter.com/rfef/status/1748114458306617400?ref_src=twsrc^tfw)",
+      "https://www.twitter.com/rfef/status/1748093520949186650?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748107643527246095",
+      "https://www.twitter.com/Atleti?ref_src=twsrc^tfw)",
+      "https://twitter.com/rfef/status/1748119889347256582",
+      "https://www.twitter.com/realmadrid?ref_src=twsrc^tfw)",
+      "https://www.twitter.com/hashtag/LaCopaMola?src=hash&ref_src=twsrc^tfw)🏆",
+      "https://www.twitter.com/rfef/status/1748119889347256582?ref_src=twsrc^tfw)",
+      "https://www.t.co/ViSKO73KXV)",
+      "https://www.t.co/CAQw8fCr6Y)",
+      "https://twitter.com/rfef/status/1748101362452205595",
+      "https://twitter.com/hashtag/CopaDelRey",
+      "https://twitter.com/rfef/status/1748114458306617400",
+      "https://twitter.com/rfef/status/1748093520949186650"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-19T04:21:51.825+02:00",
+    "updated": "2024-01-19T04:21:51.825+02:00"
+  }
+]

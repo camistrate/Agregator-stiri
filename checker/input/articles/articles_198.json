@@ -1,0 +1,334 @@
+[
+  {
+    "uuid": "720c63727d4d487769bdca2eaf09f91b7c93cf9a",
+    "url": "https://www.trendmicro.com/en_th/research/25/a/how-cracks-and-installers-bring-malware-to-your-device.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Maglaque; Jay Nebre; Allixon Kristoffer Francisco Read time",
+    "published": "2025-01-09T15:00:00Z",
+    "title": "How Cracks and Installers Bring Malware to Your Device",
+    "text": "Key Takeaways\n- Attackers use platforms such as YouTube and social media to share download links for fake installers to capitalize on user trust and drive clicks to malicious sites.\n- Threat actors often use reputable file hosting services like Mediafire and Mega.nz to conceal the origin of their malware and make detection and removal more difficult.\n- Many malicious downloads are password-protected and encoded, which complicates analysis in security environments such as sandboxes and allows malware to evade early detection.\n- Once infected, malware collects sensitive data from web browsers to steal credentials. This situation shows the serious risks of exposing your personal information by unknowingly downloading fraudulent software.\nIntroduction\nThe increase of fake installers bundled with info stealers is a growing threat for users looking for pirated software. These malicious programs disguise themselves as legitimate applications, often appearing in search results or [comments on platforms like GitHub](https://www.gendigital.com/blog/news/innovation/lumma-stealer-github). Unfortunately, many users fall prey to these tricks. The [Trend Micro™ Managed XDR](https://www.trendmicro.com/en_th/business/services/managed-xdr.html) service frequently sees the fallout, with the Lumma stealer being a prominent example. This highlights the hidden dangers of piracy that can jeopardize personal security and data integrity.\nInfo stealers are a type of malware that is designed to steal sensitive information from an infected system. This can include credentials, financial information, personal data, and other sensitive information that can be used for identity theft, fraud, or other malicious purposes.\nHow they lure their victims\nInfo stealers operate deceptively, luring victims into downloading the malware disguised as legitimate software installers. These download links often originate from fake websites or are shared as a link in messages from social platforms, as discussed in our [previous blog](https://www.trendmicro.com/en_th/research/23/j/beware-lumma-stealer-distributed-via-discord-cdn-.html).\nIn this blog, we want to highlight and break down how a typical user may stumble upon these download links of fake installers.\nVictims are lured into piracy by individuals posing as guides on popular video-sharing platforms like YouTube. These deceitful actors create a pretense of offering legitimate software installation tutorials to entice viewers to click on malicious links in the video descriptions or comments. This compromises users' devices and promotes a culture of theft. Here is an example.\nUpon accessing the link, a separate post on YouTube opens, revealing the download link for the fake installer.\nIn the following example, it leads to a download of the file from the Mediafire file hosting site:\nIn another case, the threat was uploaded to another file-hosting site called Mega.nz.\nIt's clear that the threat utilizes known file hosting services as another layer to obscure its download further and evade detection.\nIn the cases we will discuss in this blog, we observed that these threats are often distributed as fake installers or cracked software, which victims inadvertently encounter while searching for them on search engines.\nIn the sample below, specific keywords trigger search results for these entries.\nThe third item in the search results (refer to screenshot above) comes from OpenSea (an NFT marketplace), which is unusual because it hosted a downloadable file. The entry contains a shortened link that redirects to the actual link. One assumption is that they use shortened links to prevent scraping sites from accessing the download link.\nThe following link will prompt you for the actual download link and the zip file's password. Password-protecting the files can help prevent sandbox analysis of the initial file upon arrival, which can be a quick win for an adversary.\nThe fourth and last entry in the search results (refer to the search results screenshot above) came from SoundCloud, a music-sharing platform that hosted the download link with a corresponding description. In this case, the download link was shortened using Twitter.\nThe same user also posted additional entries that include means to download a specific file.\nContent from another entry made by the same user.\nSimilar to the first case, another site displays the download link and password.\nIn one of our download links, we discovered evidence of other entries they are attempting to fake, as shown in VirusTotal (VT).\nInfection analysis as seen by Managed XDR (post download)\nIn the next section, we will discuss instances where the download was successful and the content was executed. This case sample highlights the activities observed on the host.\nCase 1\nOne observation about the unpacked file is that its size is 900 MB. This large file size helps defense evasion and allows it to bypass sandbox analysis to appear more legitimate as an installer. Moreover, it is restricted from submission in VT.\nThe infection sequence is triggered upon executing the .exe file contained within the zip file.\nA threat has been detected involving the execution of batch files. The content of the batch file was sourced and, while different from the Managed XDR case, is still functionally similar.\nThe batch file contains obfuscated entries.\nThe first cleanup involves removing garbage entries.\nThe next step is to replace the variables, resulting in a clearer script.\nAccording to the batch file, it builds the AutoIt script by combining the multiple created files and executes it. Upon execution, we observed that it dropped several additional files.\nProcesses may be injected with its code, and a new legitimate binary is sometimes introduced for process injection.\nCollecting and preparing sensitive data from browser environments for credential access was completed through a copy file operation.\nThe process introduced by threat is also seen to establish connections to multiple command and control (C&C) addresses.\nBesides accessing its C&C, our investigation observed the threat committing a series of queries related to Domain Generation Algorithm (DGA) domains.\nCase 2\nIn this second case, the infection started when a user downloaded a compressed file from a known file hosting site. Once downloaded, the user unpacks the file, which would require a password, and executes the installer. Upon execution, it proceeds to do a series of suspicious events, such as spawning a legitimate process and injecting its code into it. The threat also introduces a known scripting tool, AutoIt, to further obfuscate its execution, and later, it connects to its C&C to download and execute additional malware, typically different variants of infostealer.\nA snippet of the content of the zip file shows that, at a quick glance, it is just a standard application installer.\nSetup.exe is a version of rustdesk.exe, an open-source remote desktop access software identified on VirusTotal.\nThe zip file contains a trojanized file for rustdesk.exe, where one of the DLLs is tampered with. For this specific sample, the tampered DLL that was loaded by Setup.exe was flutter_gpu_texture_renderer_plugin.dll.\nWhen the file is executed, it displays an error but is already running in the background.\nIn the background, the following events have already taken place.\nInjecting malicious code into legitimate binaries, such as more.com, StrCmp.exe, SearchIndexer.exe, and explorer.exe, to evade detection by security defenses.\nIt drops additional files that are information stealers or malware from a different family.\nCreates autorun registry entry and scheduled tasks to ensure ongoing persistence.\nInjected processes were later observed, which initiated C&C communication.\nBundle of Stealers/Loaders\nThis time, it's not just a single info stealer but an army of recent noisy ones. This is not new, as it was also observed before with [raccoon stealers](https://threatpost.com/raccoon-stealer-google-seo/168301/).\nObserved stealers in the cases:\n- LUMMASTEALER\n- PRIVATELOADER\n- MARSSTEALER\n- AMADEY\n- PENGUISH\n- VIDAR\nRecap of the different methods of defense evasion observed in the case:\n- Utilization of large file size – a means to bypass sandbox capabilities\n- A password-protected zip file hinders content scanning and can complicate investigations if the password is unavailable.\n- The files are uploaded to known media-sharing sites, which most antivirus programs would only detect if the exact link is discovered before the download.\n- In some cases, download links are shortened, preventing scraping from sites.\n- The operation uses legitimate files and employs DLL sideloading or process injection to execute its payload.\nHow Managed XDR helps in the case of an info-stealer infection from fake installers\nDefense-in-depth is an important strategy that organizations use to protect their environments. In situations where a threat might have evaded some of these defense layers, Managed XDR can detect these incidents in real time. It offers the necessary analysis and actions to effectively contain the threat.\n- Threat hunting and human analyst augmented alerting - Some activities may not be captured by alerts or could generate low-severity alerts, which Trend Vision One users might overlook. Threat hunting proactively searches for known tactics, techniques, and procedures (TTPs) or emerging threats, ensuring that alerts are issued. Additionally, Managed Detection and Response (MDR) analysts can determine whether certain detections require further attention from the customer, reducing the burden on Trend Vision One users to check every alert.\n- Understanding the context of the alert – When a threat activity generates a detection, further correlation is necessary to provide context and capture the complete narrative of the events. Upon linking our findings to the initial alert, it becomes evident that most of the findings in the draft are not included in a single alert or detection. Additionally, some instances lack any related detection and were only connected through further investigation using the search application. As illustrated in the case findings shared earlier, these insights are obtained through the MXDR analyst's deeper investigation of the initial triggers, which may include threat hunting or alerts generated from a workbench.\n- Implementing response actions – As the fake installer infection progresses, MXDR analysts can initiate response actions to contain the threat on behalf of the customer. In the case we are dealing with, we have isolated the affected machines to prevent further spread. Indicators of Compromise (IOCs) have been added to the Suspicions Objects (SO) list to block any additional execution, and the suspicious files have been submitted to the analysis team for accurate detection.\nConclusion\nThreat actors continue to use social engineering tactics to target its victims and apply different methods to avoid security defenses, including: DLL sideloading, using large installer files, password-protected ZIP files, process injection into legitimate processes, connections to legitimate websites, and creating copies of files and renaming them to appear benign.\nIt is important to stay updated on current threats and to remain vigilant regarding detection and alert systems. Visibility is important because solely relying on detection can result in many malicious activities going unnoticed. Organizations should consider the following to stay ahead of these threats:\n- Implement a multi-layered defense approach for in-depth defense.\n- Provide user education.\n- Establish an incident response plan.\n- Engage in threat hunting.\n- Use a Managed Security Service Provider (MSSP).\nOrganizations can take advantage of [Trend Vision One™ – Endpoint Security](https://www.trendmicro.com/en_th/business/products/endpoint-security.html) for prevention, detection, and response for user endpoints, servers, cloud workloads, and data centers.\nManaged XDR offers a 24/7 managed detection and response (MDR) for email, endpoint, server, cloud workloads, and networks from our world-class MDR team\nTrend Vision One Threat Intelligence\nTo stay ahead of evolving threats, Trend Micro customers can also access a range of Intelligence Reports and Threat Insights within [Trend Vision One](https://www.trendmicro.com/en_th/business/products/one-platform.html). Threat Insights helps customers stay ahead of cyber threats before they happen and be better prepared for emerging threats. It offers comprehensive information on threat actors, their malicious activities, and the techniques they use. By leveraging this intelligence, customers can take proactive steps to protect their environments, mitigate risks, and respond effectively to threats.\nTrend Vision One Intelligence Reports App [IOC Sweeping]\n- How Cracks and Installers Bring Malware to Your Device\nTrend Vision One Threat Insights App\n- Emerging Threats:\n[How Cracks and Installers Bring Malware to Your Device](https://portal.xdr.trendmicro.com/index.html#/app/ti/intelligence_insights?name=How%20Cracks%20and%20Installers%20Bring%20Malware%20to%20Your%20Device)\nHunting Queries\nTrend Vision One Search App\nTrend Vision One customers can use the Search App to match or hunt the malicious indicators mentioned in this blog post with data in their environment.\nPotential autoit script construction\nparentCmd:(\"*.exe\") AND processCmd:(\"*/c move*.cmd*&*.cmd\") AND objectCmd:(\"*/c copy /b ..\\*+ ..\\*\")\nMore hunting queries are available for Trend Vision One customers with [Threat Insights Entitlement enabled](https://www.trendmicro.com/en_th/business/products/one-platform/threat-insights.html).\nIndicators of Compromise (IoC)\nDownload the full list of IOCs [here](https://documents.trendmicro.com/assets/txt/Fakeinstallers-IOCswCQX6fX.txt).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->fraud",
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->social sciences",
+      "Social Issue->discrimination",
+      "Social Issue->social networking",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://www.threatpost.com/raccoon-stealer-google-seo/168301/",
+      "https://gendigital.com/blog/news/innovation/lumma-stealer-github",
+      "https://threatpost.com/raccoon-stealer-google-seo/168301"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T09:33:42.549+02:00",
+    "updated": "2025-01-10T09:33:42.549+02:00"
+  },
+  {
+    "uuid": "4adb6e8f394b44f59e4593b34a39e98b51e29baa",
+    "url": "https://whatsnew2day.com/incredible-story-of-a-heroic-mother-of-four-who-captured-five-hamas-terrorists-and-saved-more-than-120-lives-after-gunmen-stormed-her-farming-community-on-october-7",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacky",
+    "published": "2024-01-20T13:47:00Z",
+    "title": "Incredible story of a heroic mother of four who captured FIVE Hamas terrorists and saved more than 120 lives after gunmen stormed her farming community on October 7.",
+    "text": "When the sound of rockets and gunshots broke the silence of the early hours of October 7, Nasreen Yussef looked out the window and saw a menacing sight.\nThank you for reading this post, don't forget to Share!\nA lone gunman ran straight toward his home in an agricultural moshav in Y’ated, just over two miles from the Gaza border.\nThe community was one of the first areas infiltrated by Hamas terrorists during the barbaric attack on Israel that left more than 1,200 people dead.\nBut thanks to this heroic mother of four, more than 120 of her neighbors’ lives were saved that day.\nSeeing the attacker, Yussef sprang into action and ran outside, where he grabbed him by the shirt and asked him in Arabic what he was doing there.\nMiraculously, perhaps because he appeared to be on drugs and was surprised to hear her speak Arabic, the terrorist did not shoot him and, with the help of an armed neighbor, was able to tie him up in his backyard.\nSpeaking exclusively to DailyMail.com, she said: “I told him to look me in the eyes and that I wasn’t afraid of him.” I asked him to tell me where he came from and if there are other people with him. He looked at me and pointed to a greenhouse where other terrorists were hiding.\nYussef then not only captured four more terrorists, but was also able to relay critical information to IDF soldiers about where hundreds of other gunmen were hiding.\nNasreen Yussef, 46, with her husband Eyad and their four children aged between 14, 12, 10 and two and a half years.\nNasreen Yussef seen with the four Hamas terrorists she captured and who were being held in the backyard of her home in Moshav Y’ated. In the photo she and her husband are giving water to the terrorists and behind them – the white greenhouses – is where the other terrorists were hiding.\nThanks to Yussef’s efforts, he was able to provide the IDF with critical information that revealed the location where some of the Hamas terrorists were hiding. The image shows the terrorists captured during Yussef’s initial interrogation.\nYusef had hidden his children in their safe room when he heard the first sound of rockets that morning. Her husband was injured with a broken foot, but he was able to help her protect the captured terrorists in her backyard.\nWith no electricity, limited food and little running water, the family had no idea of the massacre unfolding nearby. But for the next 24 hours the couple stayed put and tried to provide the IDF with all the information they could gather.\nYussef told the terrorists in Arabic that they would not be harmed if they cooperated and told him where the other people came from.\n“I told them, ‘I’ll give you money, I’ll give you gold, I’ll feed you, I’ll make sure you’re clean, and I’ll take you somewhere you can escape so you don’t have to face any repercussions for cooperating,'” she said.\nThey finally confessed that they had entered through a gap in the fence from Rafai.\nHe recalled how one of the terrorists named Mohammed tried to stop the others from speaking and told them to “keep quiet.”\nDuring that time alarms and sirens sounded and gunshots and missiles were heard.\nAround 6 p.m., one of the terrorists’ cell phone rang and when Yussef answered, the caller identified himself as Elesh, a Hamas leader nicknamed El Nido.\nThinking quickly, she told him that she was an Arab and that she had a hideout where she could protect IDF terrorists. The person she called had no idea that an IDF soldier was standing next to her listening.\nHe was suspicious, but Yussef kept him on the phone and began to gain his trust.\n“I asked him how many more people were coming,” he said.\n‘I told him I wanted to help them and told him to tell them to come to the pink house. I told them I’ll make sure there’s food and water, clothes, everything they need and a place to hide.’\nFinally, he told him that hundreds more would come from the fence area.\nAt that point, she asked him how close they were and he told her they were “very.”\nYussef quickly passed this information to IDF soldiers so they could intercept them, while she stayed behind to observe her captors.\nShe said: ‘We were sitting there in the dark. There was no electricity, no reception, nothing. We couldn’t communicate with anyone. “We were running out of food and water.”\nA photo of the bolt cutters the terrorists were armed with and used to cut the moshav fence on the day of the attack, seen on the ground in Yussef’s backyard after his capture.\nThe documents the terrorists carried that showed they would receive payment for the murders were written in Arabic.\nMore Hamas receipts showing payments to terrorists\nIt wasn’t until early Sunday morning that he learned of all the other people who had been killed in the nearby kibbutz and elsewhere in the south.\nShe also received the heartbreaking news that her best friend, Ido, had been murdered along with other friends who were like family.\n“I was trying to stay calm,” he said.\nDistraught and overwhelmed, she went outside and began punching one of the terrorists, but an Israeli soldier told her not to interact with them.\nYussef, through tears, said: “They just killed all the people I love.”\nIt was at that moment that one of the IDF soldiers received a call and learned that his best friend had also been killed.\n“He asked me if he could hug me and that’s when he told me that one of his best friends was also murdered,” he said.\nAfter that heartbreaking moment, the soldier urged her to leave with her family and told her it was no longer safe for her to be there.\nAs she drove away from her home with her four children, she sobbed as she saw the utter devastation of bodies everywhere on the roads and burned cars.\nIt was later revealed that the five terrorists he captured were armed with rifles, grenades and other weapons.\nHe saw Hamas and Isis logos on them, and receipts seen by DailyMail.com showed some kind of payment for the murders they were supposed to carry out.\nThey also kept lists of all the names of the people who lived in the mohav (their names, their occupations, their ages) and they even knew that Yussef had two dogs and a parrot.\nShuki Hasson, Yussef’s translator, told DailyMail.com that three members of the moshav died tragically (a grandfather, a father and a son), but more than 120 lives were saved thanks to Yussef’s actions.\nYussef said he has no explanation why his life was saved and is still struggling to cope with the trauma.\nHe finally returned home on Wednesday for the first time since October 7.\nBut for her, the peaceful farming community she once called “heaven” has been destroyed and now “smells like death.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "nasreen yu",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "yussef",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T16:11:41.381+02:00",
+    "updated": "2024-01-20T16:11:41.381+02:00"
+  },
+  {
+    "uuid": "abd91ba7d04651be1643001aaa5977ab16a9f63f",
+    "url": "https://www.newsbreak.com/california-state/3280233116547-video-shows-terrifying-moment-plane-bounces-along-london-runway-during-intense-storm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2023-12-29T05:46:00Z",
+    "title": "Video shows terrifying moment plane bounces along London runway during intense storm",
+    "text": "An American Airlines plane bounced along a London runway Wednesday as it battled strong gusts that nearly carried it back into the sky. Heart-pounding video shows the Boeing 777 wobbling from left to right just several hundred feet above the London Heathrow Airport pavement as it attempts to land at 11:45 a.m. following a seemingly confident and effortless descent. The shaky aircraft’s nose then straightens out to level with its body before bouncing straight into the air again, the footage shared by Big Jet TV shows. Somehow, the pilots were able to wrestle the massive aircraft back onto the ground for a safe landing. The 308-seat plane had battled strong crosswinds and heavy fog brought in by Storm Gerrit, a supercell thunderstorm that caused widespread flooding, ripped rooves off houses and killed several people throughout the United Kingdom. Despite flying through the strong winds — which reached 80 mph in some areas — the American Airlines aircraft was only 20 minutes late arriving at Europe’s largest airport, FlightAware data shows. It had made the 6,000-mile and nearly 11-hour trip from California when it was met with the scary turbulence. No injuries associated with the terrifying touchdown were reported. However, Storm Gerrit would later force Heathrow to cancel 18 flights because of air traffic control restrictions on domestic routes. Flights to European cities like Barcelona and Berlin were also affected. The storm also caused widespread disruption to train service several hundred miles north in Scotland, where travel on some lines was suspended until officials could carry out a full inspection of the network. A tree fell and hit the driver’s cabin on one train, but no one was injured. American Airlines did not immediately respond to The Post’s request for comment. With Post Wires",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=14GmOO_0qTEdCG900",
+      "https://img.particlenews.com/image.php?url=14GmOO_0qTEdCG900",
+      "https://www.flightaware.com/live/flight/AAL134/history/20231228/0120Z/KLAX/EGLL",
+      "https://youtu.be/5hIqXjAmo6k?t=3",
+      "https://www.youtu.be/5hIqXjAmo6k?t=3",
+      "https://youtu.be/5hIqXjAmo6k",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?url=14GmOO_0qTEdCG900",
+      "https://flightaware.com/live/flight/AAL134/history/20231228/0120Z/KLAX/EGLL",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=14GmOO_0qTEdCG900"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "american airlines",
+          "sentiment": "positive"
+        },
+        {
+          "name": "boeing",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "london",
+          "sentiment": "none"
+        },
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "united kingdom",
+          "sentiment": "none"
+        },
+        {
+          "name": "london heathrow airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T09:17:42.522+02:00",
+    "updated": "2023-12-29T09:17:42.522+02:00"
+  },
+  {
+    "uuid": "ac87e76c2849f55e8ddaf5b566a6c5ba1e66df8a",
+    "url": "https://www.flashscore.com/news/positive-masood-rues-giving-ruthless-australia-a-sniff-in-test-defeat/8CF52o6F/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2023-12-29T10:22:00Z",
+    "title": "Positive Masood rues giving ruthless Australia a sniff in test defeat | Flashscore.com",
+    "text": "The performance was a clear improvement on that the tourists produced in losing the opener by 360 runs two weeks ago and Masood, who took over as skipper in November, said he thought there were signs of a way forward for the team. \"We've taken 20 wickets which we haven't done in Australia for a while, that's a box ticked,\" he said. \"In terms of runs, everyone got good starts and there were some nice fifties but in test cricket against quality sides, you want to get the hundreds. \"So a lot to work on but this is the blueprint of the way we want to play test cricket and hopefully we'll keep doing that.\" Pakistan came close to ending a 15-match losing streak in Australia going back to 1995 as they chased 317 for victory on Friday and Masood thought it was clear where the match had been lost. \"(You can't) give a quality side like Australia a sniff, which we did. Maybe sometimes with the ball, maybe sometimes with the bat, yesterday maybe in the field,\" he added. \"If you (don't) drop someone in form like Mitchell Marsh, we might ... have been chasing 237 today, but mistakes happen.\" Marsh was dropped on 20 on Thursday before going on to score 96 in a partnership of 153 with Steve Smith that rescued Australia from 16-4 in their second innings. Masood, who scored half centuries in each innings, said it was imperative that the batsmen produced bigger scores if they were to compete with the Australians in the third and final test in Sydney next week. \"They're ruthless,\" he added. \"They have some world class bowlers in their ranks and if you give them a sniff, if you don't convert your fifties into hundreds, you might not have enough runs on the board.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "masood",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mitchell marsh",
+          "sentiment": "none"
+        },
+        {
+          "name": "marsh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:27:03.361+02:00",
+    "updated": "2023-12-29T12:27:03.361+02:00"
+  },
+  {
+    "uuid": "3bc1fca682c11ef3a4c955cebbc166c3508d4fe9",
+    "url": "https://n.yam.com/Article/20250612687340",
+    "ord_in_thread": 0,
+    "author": "蕃新聞",
+    "published": "2025-06-12T06:48:00Z",
+    "title": "給孩子最好的校慶禮物！文昌國小校慶暨畢典開箱全新禮堂　盧市長見證祝賀：彌補百年來遺憾",
+    "text": "給孩子最好的校慶禮物！文昌國小校慶暨畢典開箱全新禮堂 盧市長見證祝賀：彌補百年來遺憾\n墨新聞｜記者馬源培／台中報導\n大甲區文昌國小創校近百年，辦學績效優異，卻缺乏一座禮堂供孩子遮風避雨，市長盧秀燕上任後補助學校約7000多萬元興建禮堂完工，今(12)日學校第80屆畢業典禮與校慶活動，終於可在全新落成的禮堂舉辦，讓師生與家長免於風吹日曬。盧市長今日特地到場祝賀，一同開箱這座給師生的校慶禮物，也勉勵畢業生展翅高飛，邁向嶄新的學習階段。\n盧市長表示，文昌國小創校98年，是一所歷史悠久、辦學績效優異的學校，歷屆校長、師長、學生與家長共同努力讓校風優良、學子表現出色，唯一的遺憾就是校內一直沒有自己的禮堂。為了彌補這個缺憾，市府110年起投入5,000多萬元興建禮堂，另再補助不足經費1900多萬元，趕在今年畢業季前完工啟用，讓這屆畢業生成為百年來首度在自有禮堂舉辦畢業典禮的學生，意義非凡、令人感動。\n她感謝校方、家長會與地方民代的積極爭取，讓文昌國小的禮堂順利完工啟用，也感謝市議會支持預算，讓市府得以積極推動教育建設。另也勉勵畢業生要心懷感恩，感謝老師、同學、家人陪伴與照顧，畢業不是結束而是新的開始，未來邁向國中、高中，將有更多夥伴同行。\n教育局長蔣偉民表示，盧市長上任以來，完工及施工中的學校禮堂約有21所，今年有5所開箱啟用的新禮堂，包括大里成功國中禮堂與地下停車場3.16億元；大里立新國中禮堂與地下停車場3.2億元；梧棲梧南國小「映霞樓」幼兒園、國小教室和禮堂，經費1.6億元；大甲文昌國小禮堂7000多萬元；太平新高國小校舍與禮堂3.5億元。\n此外，市府於112年再加碼推動「給孩子一個禮堂」計畫，補助25所學校興建禮堂，全案市府挹注24億多元，打造具備現代化舞台與多功能用途的室內空間。未來無論是音樂表演、科學展覽或畢業典禮，都能在安全舒適、有溫度的場域中舉行，讓每一位孩子都能閃耀光芒。\n文昌國小校長許慶昌表示，此次校慶結合畢業典禮在全新禮堂舉辦是全校之福，孩子不再日曬雨淋，感謝市府及民意代表及地人士的幫忙，順利幫孩子圓夢有了新的禮堂，學校未來將持續秉持「溫馨、卓越、創新」的辦學理念，讓文昌成為孩子快樂成長、夢想起飛的園地。\n教育局指出，文昌國小創校迄今98年，長期深耕學力與藝文體育並重的教學特色，擁有優異的語文競賽表現與全國特優級的管樂隊，更於2023年贏得斯洛維尼亞國際手球賽U12冠軍，辦學成果卓著。學校近年也持續精進硬體設施，包括完成操場跑道、耐震補強與教室冷氣裝設等，營造優質學習環境。\n今日畢業典禮，盧市長、市議員楊啓邦、李文傑、施志昌、前議員吳敏濟、教育局長蔣偉民、大甲區長顏金源及多位地方里長皆出席見證，氣氛溫馨歡樂。\n此篇文章最開始出處為:\n給孩子最好的校慶禮物！文昌國小校慶暨畢典開箱全新禮堂 盧市長見證祝賀：彌補百年來遺憾",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Politics"
+    ],
+    "topics": [
+      "Education->students",
+      "Education->school",
+      "Education->primary education",
+      "Human Interest->graduation",
+      "Politics->education policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://more-news.tw/155439/",
+      "https://more-news.tw",
+      "https://more-news.tw/155439",
+      "https://www.more-news.tw/155439/",
+      "https://www.more-news.tw"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:04:07.041+03:00",
+    "updated": "2025-06-12T07:11:50.000+00:00"
+  },
+  {
+    "uuid": "82716cf3f7011f9cae65839b23b5ccfb26b49ced",
+    "url": "https://www.zupyak.com/p/4416308/t/the-ultimate-guide-to-finding-the-best-miami-maid-service-for-your-home",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@zupyak.com",
+    "published": "2024-12-26T22:27:00Z",
+    "title": "The Ultimate Guide to Finding the Best Miami Maid Service for Your Home",
+    "text": "Are you tired of coming home to a messy house after a long day at work? Do you dream of having more free time to relax and enjoy life instead of constantly cleaning? If so, you're not alone. Many busy individuals and families in Miami are turning to professional cleaning services to maintain a clean and organized home. One such reputable service is Miami Maid Service offered by Magiclean Solutions.\nThe Importance of a Clean Home\nA clean and tidy home is not just visually appealing but also contributes to a healthier and more organized lifestyle. With the hectic pace of modern life, maintaining a spotless home can be a challenge for many individuals. This is where professional cleaning services like Magiclean Solutions come to the rescue.\nBenefits of Hiring a Miami Maid Service\n1. Time-Saving: By delegating the cleaning tasks to professionals, you can free up valuable time to focus on other priorities.\n2. Expertise: Trained cleaners from Magiclean Solutions have the skills and knowledge to efficiently clean your home using the right techniques and products.\n3. Consistency: With regular cleaning schedules, you can ensure that your home always looks its best without the stress of managing it yourself.\nChoosing the Right Miami Maid Service\nWith numerous cleaning services available in Miami, it's essential to choose the one that best fits your needs and preferences. Factors to consider include:\n1. Reputation\nLook for reviews and testimonials from previous clients to gauge the reputation of the cleaning service. Magiclean Solutions, known for its exceptional service and attention to detail, has built a solid reputation in the Miami area.\n2. Services Offered\nEnsure that the maid service offers the specific cleaning tasks you require, whether it's regular cleaning, deep cleaning, or special services like post-construction cleaning. Magiclean Solutions provides a range of customizable cleaning packages to suit your needs.\n3. Pricing\nWhile cost is an important factor, it should not be the sole deciding factor. Consider the value you receive for the price paid, including the quality of service, reliability, and professionalism. Magiclean Solutions offers competitive pricing without compromising on quality.\nExperience the Difference with Magiclean Solutions\nWith Magiclean Solutions' Miami Maid Service, you can experience the convenience and peace of mind that comes with a clean and organized home. Say goodbye to the stress of cleaning and hello to more free time for yourself and your loved ones.\nFinal Thoughts\nChoosing the right Miami maid service can make a significant difference in the cleanliness and ambiance of your home. By selecting a reputable and reliable service like Magiclean Solutions, you can enjoy a sparkling clean home without the hassle. Make the smart choice for your home and experience the magic of a professional cleaning service today!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->house and home"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Magiclean Solutions",
+          "sentiment": "none"
+        },
+        {
+          "name": "Miami Maid Service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:39:32.401+02:00",
+    "updated": "2024-12-27T00:39:32.401+02:00"
+  }
+]

@@ -1,0 +1,437 @@
+[
+  {
+    "uuid": "d47e004dc58f02eaf20ef436f0fac982c22a13ce",
+    "url": "https://fedscoop.com/bipartisan-bill-to-codify-ai-research-resource-at-nsf-gets-reboot-in-house",
+    "ord_in_thread": 0,
+    "author": "malder",
+    "published": "2025-04-02T21:41:00Z",
+    "title": "Bipartisan bill to codify AI research resource at NSF gets reboot in House",
+    "text": "A bipartisan bill to fully establish a National Science Foundation-based resource aimed at providing essential tools for AI research to academics, nonprofits, small businesses and others was reintroduced in the House last week.\nUnder the Creating Resources for Every American To Experiment with Artificial Intelligence (CREATE AI) Act of 2025 ( H.R. 2385 ), a full-scale National AI Research Resource would be codified at NSF. While that resource currently exists in pilot form, legislation authorizing the NAIRR is needed to continue that work.\n“By empowering students, universities, startups, and small businesses to participate in the future of AI, we can drive innovation, strengthen our workforce, and ensure that American leadership in this critical field is broad-based and secure,” Rep. Jay Obernolte, R-Calif., who sponsors the bill, said in a written statement announcing the reintroduction.\nThe NAIRR pilot, as it stands, is a collection of resources from the public and private sectors — such as computing power, storage, AI models, and data — that are made available to those researching AI to make the process of accessing those types of tools easier. Often, it’s referred to as a way of “democratizing” access to those resources.\nA pilot version of that resource was first recommended in 2023 by a task force studying a potential future NAIRR, and was eventually launched under former President Joe Biden’s AI executive order . Despite President Donald Trump’s rescission of that order in January, an NSF spokesman confirmed to FedScoop that the NAIRR pilot is still in effect.\nPer the NAIRR pilot website , the program has supported more than 340 research projects over 40 states and Washington D.C. Organizations contributing resources include 14 government agencies and 26 non-governmental partners, such as Meta, Google, OpenAI and NVIDIA.\nRep. Don Beyer, D-Va., who co-sponsors the legislation, called the NAIRR an “excellent resource” and highlighted its benefits for researchers, educators and small businesses, in addition to students who might use the resource to learn how to use AI. Beyer himself has pursued a master’s degree focused on AI while serving in the House.\n“This access to high-quality data, compute resources, and support would drive the innovation necessary to strengthen our global competitiveness in trustworthy AI development and in turn help accelerate solutions to the world’s most pressing challenges,” Beyer said.\nAlthough the bill gained some traction last Congress, advancing out of committees in the House and Senate, it ultimately didn’t get attention on the floor of either chamber. This Congress, Obernolte has said he’s “ cautiously optimistic ” about the legislation.\nA Senate version hasn’t been reintroduced yet. The co-sponsors last Congress were Sens. Martin Heinrich, D-N.M., Todd Young, R-Ind., Cory Booker, D-N.J., and Mike Rounds, R-S.D. A spokesperson for Young said they are working “on continuous changes to the bill this Congress” and didn’t have an update on a timeline.\nSupporters of the bill include the Information Technology Industry Council, Americans for Responsible Innovation, the Business Software Alliance, and the Software & Information Industry Association.\nNSF Director Sethuraman Panchanathan has in the past emphasized the need for a full-scale NAIRR to keep the work going.\nIn an interview last May with FedScoop, Panchanathan said the agency was working to expand and extend its existing partnerships but needed more funding to maintain its efforts. At that time, he estimated the NAIRR would be able to operate the pilot projects for a “a year, maybe more.”\nInvestment by the federal government is what will help the project scale, Panchanathan said, “which is needed and will just speed up the progress.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Politics"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Politics->political development",
+      "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence",
+      "https://nairrpilot.org/",
+      "https://www.congress.gov/bill/119th-congress/house-bill/2385?s=1&r=2",
+      "https://www.ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf",
+      "https://www.congress.gov/bill/119th-congress/house-bill/2385",
+      "https://congress.gov/bill/119th-congress/house-bill/2385?s=1&r=2",
+      "https://www.nairrpilot.org/",
+      "https://federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence",
+      "https://ai.gov/wp-content/uploads/2023/01/NAIRR-TF-Final-Report-2023.pdf",
+      "https://nairrpilot.org"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Donald Trump",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Don Beyer",
+          "sentiment": "positive"
+        },
+        {
+          "name": "Sethuraman Panchanathan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Jay Obernolte",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Joe Biden",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Martin Heinrich",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Todd Young",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Cory Booker",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mike Rounds",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Washington D.C.",
+          "sentiment": "positive"
+        },
+        {
+          "name": "D-Va.",
+          "sentiment": "positive"
+        },
+        {
+          "name": "R-Calif.",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "D-N.J.",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "R-S.D.",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NAIRR",
+          "sentiment": "positive",
+          "tickers": []
+        },
+        {
+          "name": "NSF",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "National Science Foundation",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "the Creating Resources for Every American To Experiment with Artificial Intelligence",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "H.R. 2385",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "National AI Research Resource",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "House",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "AI",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "AI",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "FedScoop",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Meta",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Google",
+          "sentiment": "neutral",
+          "tickers": [
+            {
+              "ticker": "GOOG",
+              "exchange": "NASDAQ"
+            }
+          ]
+        },
+        {
+          "name": "NVIDIA",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "compute resources",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Congress",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Senate",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "D-N.M.",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Information Technology Industry Council",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Americans for Responsible Innovation",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Business Software Alliance",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "the Software & Information Industry Association",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T00:49:23.946+03:00",
+    "updated": "2025-04-03T02:15:10.926+03:00"
+  },
+  {
+    "uuid": "f6a3d18afc3d45a2519199d9620d63d73924c4e0",
+    "url": "https://wwd.com/eye/people/gallery/marianne-faithfull-style-photos-1236896340",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tonya Blazio-Licorish",
+    "published": "2025-01-30T22:58:18Z",
+    "title": "Marianne Faithfull: Style Icon, British Singer Dead at 78 [Photos]",
+    "text": "Marianne Faithful: Timeless British Icon of Music – 1946 to 2025 Image Credit: Getty Images English singer, songwriter and actress Marianne Faithfull at Heathrow Airport, UK, 17th June 1966.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->music",
+      "Arts, Culture and Entertainment->arts and entertainment",
+      "Human Interest->celebrity",
+      "Human Interest->funeral and memorial service",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T00:58:18.197+02:00",
+    "updated": "2025-01-31T00:58:18.197+02:00"
+  },
+  {
+    "uuid": "3aa08765325fae06aa7adf866819a7b96a00cff1",
+    "url": "https://www.elprogreso.es/gl/articulo/lugo/protesta-lugo-funcionarios-estado-condiciones-laborales/202503271906371861718.html",
+    "ord_in_thread": 0,
+    "author": "Raquel Lucas",
+    "published": "2025-03-27T18:06:00Z",
+    "title": "Protesta en Lugo de los funcionarios del Estado por sus condiciones laborales",
+    "text": "Los sindicatos UGT, CSIF y CC.OO. convocaron para la mañana de este jueves una concentración frente a la Subdelegación del Gobierno en Lugo para exigir mejoras en las condiciones laborales de los empleados de la Administración General del Estado, con especial atención a la sobrecarga en el área de Extranjería.\nLos organizadores entienden que la protesta, que tuvo una duración de 15 minutos y no afectó al desarrollo de la jornada laboral, ha servido para visibilizar el malestar creciente entre los trabajadores públicos.\n\"La sobrecarga de trabajo y la falta de reconocimiento son insostenibles. Exigimos una revisión de la plantilla, equiparación salarial, un teletrabajo justo y mejores condiciones de movilidad interna. Es el momento de actuar para garantizar un servicio público de calidad y unas condiciones laborales dignas\", explicó Antonio Ferrero Arias, coordinador del Sector AGE de UGT en Lugo, ha declarado:\nLos sindicatos hacen un llamamiento a todos los empleados públicos afectados para que se sumen a futuras movilizaciones en las que seguirán reivindicando esas cuestiones. Entre otras, las centrales denuncian las diferencias salariales de los funcionarios del Estado con respecto a los trabajadores públicos de las comunidades autónomas, razón por la que llevan meses reclamando mejoras retributivas que equiparen los salarios de unos y otros.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "topics": [
+      "Labor->workplace health and safety",
+      "Labor->employment",
+      "Labor->labour relations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Antonio Ferrero Arias",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Subdelegación del Gobierno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Lugo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Extranjería",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Sector AGE",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Entre otras",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Estado",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "UGT",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "CSIF",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "CC.OO",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Administración General del Estado",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T20:36:11.338+02:00",
+    "updated": "2025-03-27T20:36:11.338+02:00"
+  },
+  {
+    "uuid": "3d4eb2488dcfb0bf8f1639b0224ec5179d2da03c",
+    "url": "https://www.infobae.com/espana/2024/09/19/corgi-cafe-la-primera-cafeteria-de-espana-regentada-por-una-perra",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Estibaliz Urcelay",
+    "published": "2024-09-19T20:11:00Z",
+    "title": "Corgi Café, la primera cafetería de España regentada por una perra - Infobae",
+    "text": "Un corgi disfrutando de un brunch (Corgi Café) En España cada vez hay más bares y restaurantes que admiten la entrada de mascotas , pero hay una cafetería en el barrio de Gràcia en Barcelona, que ha llevado la compañía perruna al siguiente nivel . Se trata Corgi Café, ubicado en la calle Indústria 78 y se presenta como el primer establecimiento del país dedicado a esta popular raza canina , famosa por su vínculo con la difunta reina Isabel II. Desde su apertura en 2023, el local se ha posicionado como un lugar de encuentro no sólo para los aficionados a los brunches y al buen café, sino también para aquellos que disfrutan de la compañía de estos carismáticos perros.\nEl Corgi Café tiene una protagonista indiscutible: Juice, la auténtica embajadora. Según bromea Anton, su dueño y fundador de la cafetería , él es solo el CEO, mientras que Juice es la verdadera estrella del lugar, sólo le falta llevar una bandeja y servir cafés. Se ha convertido en una figura habitual en las redes sociales, donde su presencia ha impulsado la popularidad del establecimiento.\nUna taza de café o un brunch en compañía\nTostada de salmón con huevo poché (The Corgi Café) Uno de los atractivos de la cafetería es la posibilidad de llevar a tu propio Corgi para compartir una taza de café o un brunch en compañía de otros perros. Las redes han sido un punto clave para organizar encuentros entre los dueños , lo que ha creado incluso una pequeña comunidad alrededor del local. Entre los amigos de Juice, destaca Fenry otro Corgi que se ha hecho habitual en el establecimiento. En TikTok , los vídeos de ambos jugando y correteando por el local han generado una oleada de simpatía, consolidando al Corgi Café como un destino singular en Barcelona.\n@coreyyy.exe Decent company for a coffee and some cheeky pancakes #spain #españa ♬ original sound - corey Este ambiente relajado y amigable convierte a este bar en un espacio ideal para aquellos que buscan disfrutar de una comida deliciosa en compañía de sus mascotas. Cualquier raza de perro está admitida, no se limita sólo a los Corgis. La oferta gastronómica se centra en brunches con los huevos benedictinos, las tortitas, las tostadas, los lattes y los cócteles con nombres de razas de perro.\nEl Corgi Café no es la única cafetería de Barcelona donde los perros son bienvenidos. El Husky House , en la calle Colomines 6, es una alternativa donde los huskies siberianos son los residentes estrella. Sin embargo, para entrar en este establecimiento es necesario pagar una entrada de cinco euros.\nLa tendencia de los ‘dog cafés’ Esta tendencia de “dog cafés”, que se está extendiendo en diversas ciudades, refleja el creciente interés por crear espacios donde lo s perros y sus dueños puedan disfrutar juntos , convirtiendo un simple café en una experiencia única.\nAnton, el dueño de Juice y fundador del Corgi Café, menciona que el amor por su perra fue la razón principal para abrir el local. “Quiero tanto a mi perrita que decidí ponerle su nombre a un restaurante ”, dice. Y es que, según afirma, cualquier persona que conozca a Juice entenderá de inmediato por qué este pequeño Corgi es el alma de la cafetería.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tiktok.com/@coreyyy.exe?refer=embed",
+      "https://www.tiktok.com/music/original-sound-7414536294641437473?refer=embed",
+      "https://www.tiktok.com/tag/spain?refer=embed",
+      "https://www.tiktok.com/tag/espa%C3%B1a?refer=embed",
+      "https://www.tiktok.com/@coreyyy.exe/video/7414536282321210657",
+      "https://www.tiktok.com/music/original-sound-7414536294641437473",
+      "https://www.tiktok.com/tag/spain",
+      "https://www.tiktok.com/tag/espa%C3%B1a",
+      "https://tiktok.com/music/original-sound-7414536294641437473?refer=embed",
+      "https://tiktok.com/@coreyyy.exe/video/7414536282321210657",
+      "https://tiktok.com/@coreyyy.exe?refer=embed",
+      "https://tiktok.com/tag/espa%C3%B1a?refer=embed",
+      "https://www.tiktok.com/@coreyyy.exe",
+      "https://tiktok.com/tag/spain?refer=embed"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Isabel II",
+          "sentiment": "none"
+        },
+        {
+          "name": "Anton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Corgi Café",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Gràcia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-20T00:32:19.099+03:00",
+    "updated": "2024-09-27T01:58:36.509+03:00"
+  }
+]

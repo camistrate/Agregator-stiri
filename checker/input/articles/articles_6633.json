@@ -1,0 +1,214 @@
+[
+  {
+    "uuid": "3502c8f4553034047933d6aa973735eafbfc02ad",
+    "url": "https://cybersecuritynews.com/web-ddos-app-exploitation-attacks/",
+    "ord_in_thread": 0,
+    "author": "Tushar Subhra Dutta",
+    "published": "2025-08-14T07:35:00Z",
+    "title": "Web DDoS, App Exploitation Attacks Saw a Huge Surge in First Half of 2025",
+    "text": "The cybersecurity landscape experienced an unprecedented escalation in digital threats during the first half of 2025, with Web Distributed Denial of Service (DDoS) attacks surging by 39% compared to the second half of 2024.\nThe second quarter alone witnessed a staggering 54% quarter-over-quarter spike in attack activity, marking the highest levels on record and signaling a fundamental shift in how cybercriminals orchestrate their campaigns .\nGeographic distribution of Web DDoS attack activity in 2025 and 2024 (source – Radware) This dramatic increase represents more than just a numerical surge; it reflects a strategic evolution in attack methodologies.\nUnlike previous years characterized by massive volumetric assaults, threat actors in 2025 have pivoted toward smaller, more sustained attacks predominantly operating under 100,000 requests per second (RPS).\nThis tactical shift demonstrates the growing influence of automated tools enhanced by generative artificial intelligence, effectively democratizing DDoS capabilities among loosely coordinated threat groups and enabling new actors to enter the cybercrime ecosystem.\nRadware researchers identified that despite the prevalence of smaller-scale attacks, peak capabilities remain formidable, with the largest recorded Web DDoS attack reaching an extraordinary 10 million RPS in the first quarter.\nThe company’s comprehensive analysis revealed that application-layer exploitation has become equally concerning, with malicious web transactions increasing by 33% compared to the latter half of 2024.\nRemarkably, the volume of malicious activity observed in just six months already accounts for 87% of the total recorded throughout the entire previous year.\nThe threat landscape has been further complicated by a parallel surge in bad bot activity, which increased by 57% during the same period.\nThese automated threats, designed for fraud, credential stuffing, and data scraping operations, mirror the trajectory of application-layer attacks and underscore the growing sophistication of cybercriminal infrastructure.\nHacktivist groups have also intensified their operations, claiming nearly 9,200 DDoS attacks on Telegram platforms, representing a 62% increase over the first half of 2024.\nAI-Enhanced Attack Automation and Persistence Tactics The emergence of AI-enhanced attack tools has fundamentally transformed the persistence and execution strategies employed by modern threat actors.\nTraditional DDoS campaigns relied heavily on brute-force volumetric attacks that were easily detectable and often short-lived.\nWeb application and API attacks by category (source – Radware) However, the integration of machine learning algorithms and generative AI has enabled attackers to develop more nuanced approaches that can adapt in real-time to defensive countermeasures.\nThese AI-driven systems can automatically adjust attack parameters such as request patterns, timing intervals, and target selection to maintain persistence while evading detection mechanisms.\nThe shift toward sustained, lower-volume attacks reflects this technological evolution, as automated systems can maintain prolonged campaigns with minimal human intervention.\nVulnerability exploitation, which accounts for over one-third of all application-layer attacks, has become increasingly sophisticated through AI-assisted reconnaissance tools that can identify and exploit weaknesses faster than traditional manual methods.\nThe democratization of these capabilities through open-source tools and AI enhancement has lowered the technical barriers for entry, enabling a broader range of actors to conduct effective cyber operations with unprecedented coordination and persistence.\nBoost your SOC and help your team protect your business with free top-notch threat intelligence: Request TI Lookup Premium Trial .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis/",
+      "https://intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+      "https://www.radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis",
+      "https://intelligence.any.run/plans/",
+      "https://www.intelligence.any.run/plans/?utm_source=csn&utm_medium=article&utm_campaign=alert_fatigue&utm_content=lookup_plan&utm_term=120825",
+      "https://radware.com/blog/threat-intelligence/2025-h1-global-threat-analysis/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:53:53.469+03:00",
+    "updated": "2025-08-14T11:59:47.000+03:00"
+  },
+  {
+    "uuid": "fc508cce8e9728b4879889817687ced7fd7a180e",
+    "url": "https://www.theadvocate.com.au/story/8472243/severe-thunderstorms-forecast-for-east-coast/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@francophileenoz",
+    "published": "2023-12-28T14:46:00Z",
+    "title": "Severe Thunderstorms Forecast for East Coast | The Advocate | Burnie, TAS",
+    "text": "After bouts of wild weather over Christmas, the east coast will face another round of severe thunderstorms and rain according to the Bureau of Meteorology's (BoM) latest forecast. Severe thunderstorms have eased across eastern Australia but are expected to redevelop around eastern Queensland and northeast NSW from December 30 into the New Year. Parts of Australia are set to face wet and potentially wild weather on New Years Eve and New Year's Day. BoM senior meteorologist Sarah Scully said isolated thunderstorms are possible for parts of Queensland, NSW, Victoria and South Australia. \"Severe thunderstorms are possible in Queensland between St Lawrence and Redcliffe, although activity will not be as widespread compared to previous days,\" Ms Scully said. \"Isolated gusty thunderstorms are also possible over western South Australia.\" Showers and storms are possible across parts of southern and eastern Australia, mainly NSW, eastern South Australia, and northern Victoria on December 29. There is a risk of severe thunderstorms in Sydney, the Blue Mountains and the Hunter regions. Severe thunderstorms will become more widespread from this weekend concentrating in north-east NSW, and south-east and central Queensland. BoM said there are indications that isolated, very dangerous thunderstorms with destructive winds, giant hail and intense rainfall may be possible across southeast Queensland on Saturday. BoM has encouraged the community to stay up to date with the latest forecasts and warnings using the BOM Weather app and website. Queensland will also experience heatwave conditions along the east coast affecting Brisbane, the Sunshine Coast and areas surrounding Cairns. Northern and Western Australia will also face heatwave conditions with temperatures reaching the mid to high 40 degree Celsius in some areas. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "burnie",
+          "sentiment": "negative"
+        },
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "scully",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah scully",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "bureau of meteorology",
+          "sentiment": "none"
+        },
+        {
+          "name": "redcliffe",
+          "sentiment": "none"
+        },
+        {
+          "name": "nsw",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "blue mountains",
+          "sentiment": "none"
+        },
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "st lawrence",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensland",
+          "sentiment": "none"
+        },
+        {
+          "name": "south australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:33:25.859+02:00",
+    "updated": "2023-12-29T05:33:25.859+02:00"
+  },
+  {
+    "uuid": "af1d7b2a17fa3f9fea48078398069d12a62e7fdb",
+    "url": "https://signalscv.com/2024/04/scv-deputies-arrest-man-on-suspicion-of-murder",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Perry Smith",
+    "published": "2024-04-25T18:38:00Z",
+    "title": "SCV deputies arrest man on suspicion of murder",
+    "text": "Santa Clarita Valley Sheriff’s Station deputies arrested a man Thursday who’s been charged in connection with a July 2022 murder, according to L.A. County Superior Court and L.A. County Sheriff’s Department records available online.\nNery Leonardo Lopez, 48, was taken into custody around 5 a.m., according to LASD booking log information.\nCourt records indicated Lopez stands accused of one charge in connection with a July 17 incident: one count of felony murder, as well as a specific allegation the crime was committed with a firearm.\nInformation available from the sheriff’s Homicide Bureau indicates the allegation against Lopez might have occurred outside the SCV.\nHomicide officials did not have any immediate comment on the case, nor were prosecutors available to explain what prompted the April 4 filing for an arrest warrant in connection with a nearly 2-year-old allegation.\nSCV Sheriff’s Station officials referred all questions to the department’s Homicide Bureau.\nHomicide officials said only two murders were reported on the day listed in court records for Lopez’s alleged offense — one murder happened in East Los Angeles and the other in Hawthorne.\nSheriff’s booking logs no longer list the city of residence for crime suspects.\nThe L.A. County District Attorney’s Office did not have a copy of the complaint immediately available.\nLopez was due Thursday morning in court on Temple Street in Downtown Los Angeles to answer to the charge.\nThe status of his hearing was not immediately available. LASD records indicate he’s being held in lieu of $3 million bail.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lopez",
+          "sentiment": "none"
+        },
+        {
+          "name": "nery leonardo lopez",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "scv",
+          "sentiment": "negative"
+        },
+        {
+          "name": "homicide bureau",
+          "sentiment": "none"
+        },
+        {
+          "name": "l.a. county superior court",
+          "sentiment": "none"
+        },
+        {
+          "name": "l.a. county sheriff’s department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "santa clarita valley sheriff’s station",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:38:35.894+03:00",
+    "updated": "2024-04-26T00:38:35.894+03:00"
+  }
+]

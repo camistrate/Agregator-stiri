@@ -1,0 +1,702 @@
+[
+  {
+    "uuid": "b0ed5707bc672168a8155a037769af576a786568",
+    "url": "https://www.lanazione.it/siena/cronaca/rinnovo-del-contratto-trattativa-rotta-fe2682f7",
+    "ord_in_thread": 0,
+    "author": "La Nazione",
+    "published": "2025-03-27T05:16:00Z",
+    "title": "Rinnovo del contratto, trattativa rotta. Sciopero e corteo dei Metalmeccanici",
+    "text": "Anche Siena aderisce allo sciopero nazionale dei Metalmeccanici per il mancato rinnovo del contratto di lavoro. I sindacati organizzano domani alle 9,30 un corteo dei lavoratori con partenza dalla rotatoria Cm/Sea Trigano in via Calabria a Poggibonsi e arrivo alle 11,30 nella zona del Pam Superstore in via San Gimignano.\nDaniela Miniero, segretaria Fiom Cgil Siena, spiega: \"Scioperiamo non perché le richieste della nostra piattaforma non sono state accolte, ma perché la piattaforma non è stata neanche discussa. Federmeccanica ha infatti presentato una propria piattaforma, quindi si è rotta la trattativa\". E ancora: \"Nel precedente contratto di lavoro la clausola di salvaguardia legava gli stipendi all’aumento del caro-vita – continua Miniero –. Scioperiamo per chiedere la riapertura del tavolo e iniziare a discutere. Abbiamo scelto stavolta di manifestare in Valdelsa per la maggiore presenza del tessuto industriale\".\nGiuseppe Cesarano, leader della Fim Cisl di Siena, ricorda: \"Grazie alla clausola di salvaguardia nel contratto del 2021 i 112 euro di aumento salariale sono arrivati a 308 euro. Oggi bisogna guardare alla transizione ecologica e digitale e quindi ai nuovi bisogni dei lavoratori. Non è più necessario restare in fabbrica 10 ore al giorno, grazie alle nuove tecnologie\". Poi l’attacco: \"Federmeccanica vuole azzerare un modello sindacale che ha portato risultati per i lavoratori, quindi pè fondamentale il rinnovo del contratto in direzione solidaristica, anche se sono soprattutto le piccole aziende a fare resistenza\".\nMassimo Martini, segretario Uilm di Siena, sottolinea \"la valenza politica del contyratto\": \"Lo sciopero ha sempre un cospo per i lavoratori e per il sindacato in termini di organizzazione. Capisco che ’meno orario e più salario’ non sia qualcosa di facile attuazione, ma nel 201 la Whirlpool di Siena aveva ridotto le ore settimanali da 40 a 36 o 27: metà dei soldi li metteva l’azienda e metà il lavoratore. Questo aveva sviluppato la produzione e aumentato la competitività\". Infine la conclusione: \"Bisogna equiparare gli stipendi a livello europeo e investire nella sicurezza sul lavoro, anche se è un costo\".\nC.B.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->layoffs",
+      "Economy, Business and Finance->human resources",
+      "Social Issue->social problem",
+      "Social Issue->social condition",
+      "Labor->labour relations",
+      "Labor->collective agreements",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Daniela Miniero",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Fiom Cgil Siena",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "spiega",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "ma perché la piattaforma non è stata neanche discussa",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Federmeccanica ha infatti presentato una propria piattaforma",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "quindi si è rotta la",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "legava gli",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "del caro-vita",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "scelto stavolta di manifestare",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Giuseppe Cesarano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "della Fim Cisl di Siena",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Grazie alla clausola di salvaguardia nel",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "grazie alle nuove tecnologie",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "portato risultati",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "anche se sono soprattutto le piccole",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Massimo Martini",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Uilm di Siena",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Lo sciopero",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Capisco che ’meno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "soldi li",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Questo aveva",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "aumentato la competitività",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Infine la conclusione",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "C.B.",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "il mancato",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Calabria",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Poggibonsi",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "San Gimignano",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Abbiamo",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Valdelsa",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "direzione solidaristica",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Anche Siena",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sciopero nazionale dei Metalmeccanici",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sindacati organizzano domani",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "9,30 un corteo dei",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "nella zona del Pam Superstore",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "non perché le richieste della nostra piattaforma non sono state accolte",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "di lavoro la clausola di",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "aumento salariale sono arrivati",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Oggi bisogna guardare alla transizione ecologica e digitale e quindi ai nuovi bisogni dei lavoratori",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Non è più necessario restare",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "fabbrica 10 ore al giorno",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "un",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "fondamentale il rinnovo del contratto",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "politica del contyratto",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sempre un cospo per",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "ma nel",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "sviluppato la produzione e",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "livello europeo e investire",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "nella sicurezza sul lavoro",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "anche se è un",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T07:22:28.596+02:00",
+    "updated": "2025-03-27T07:22:28.596+02:00"
+  },
+  {
+    "uuid": "73ba662c01e1f3c41e406cff581cacafa329af26",
+    "url": "https://helenair.com/opinion/column/don-kusler-democrats-dominated-2023-with-victories-for-reproductive-rights-labor/article_556212a4-8094-5fcf-86fa-4e9bc234b9fe.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest",
+    "published": "2023-12-30T20:22:00Z",
+    "title": "Don Kusler: Democrats dominated 2023 with victories for reproductive rights, labor",
+    "text": "2023 was a good year for Democrats and their issues at the ballot box.\nVirginia put MAGA-allied politicians with higher aspirations, such as Gov. Glenn Youngkin, on notice. Democrats maintained control of the Virginia Senate and regained control of its House control, halting Youngkin's agenda for his final two years in office.\nThat's a victory for Democrats.\nKentucky Gov. Andy Beshear won an unlikely reelection. This provided Democrats with an interesting snapshot into how to govern and campaign in a progressive way yet connect with a challenging electorate.\nThat's another victory for the left.\nTwo ballot initiative in Ohio favored Democratic positions. The first was a crass attempt by Ohio Republicans to head off a November ballot measure protecting a woman’s right to choose. By conducting a special election aimed at requiring a supermajority for public ballot measures to become law, this measure challenged both women’s rights and our democracy. The vote wasn’t close in what has become a deeply Republican state.\nPeople are also reading…\nThen on the November ballot, a measure protecting reproductive choice passed by a similar margin.\nThese electoral victories make a difference.\nJust look at two Midwestern states that used Democratic majorities paired with Democratic governors to gain a range of legislative victories. In Michigan and Minnesota, Democratic control brought gun safety laws, protections for reproductive rights and LGBTQ+ communities, climate-friendly measures and more ability of workers to organize.\nLabor, a traditional Democratic bloc, repeatedly made gains this past year by standing up, speaking out and winning favorable contracts.\nWorkers already had notched victories at Amazon and Starbucks in 2022. This trend continued in 2023 with the headline-grabbing strikes for writers in the entertainment industry and auto workers.\nSometimes victory comes more in the form of problems for your opponents. The year 2023 proved that point for Democrats with a stack of woes for Republicans.\nIt was hard not to see that the Republican Party remains wrapped tightly around the little finger of dictator-in-waiting Donald Trump. His legal woes -- business wrongdoing in New York, the careless handling of sensitive documents, and insurrectionist behavior on a national scale -- contrast nicely for Democrats against their governing and electoral successes.\nThe Republican-controlled House of Representatives provides another contrast with its chaotic and dysfunctional running of the people’s business.\nLeadership elections seems pretty straightforward. The party with the most members elects a speaker and goes about its work. Not so with the 2023 Republican House Caucus. It took four days and 15 votes to get Rep. Kevin McCarthy, R-Calif., as their speaker. Then came a series of bizarre and fruitless political projects including committee hearings, impeachment inquiries and bills with no meaningful results for the people.\nThe one exception was a deal McCarthy finally made on the most basic of functions -- funding the government. But that promptly cost him his job.\nDid the chaos subside? Well, no. More speaker votes and infighting followed over the next three weeks until Rep. Mike Johnson, R-La., was finally elected speaker.\nThe sum of this very public display of broken and unfit leadership for Republicans can be seen as nothing other than a victory for Democrats.\nSo a quick review of the naughty vs. nice list shows Republicans with a 2023 record filled with dysfunction, contrasting nicely with the Democrats' roster of electoral, legislative and ally victories.\nYes, 2023 was a good year for Democrats.\nKusler is the national director of Americans for Democratic Action:\nadaction.org. He wrote this for InsideSources.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Labor",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://adaction.org/",
+      "http://InsideSources.com",
+      "http://www.InsideSources.com",
+      "https://www.adaction.org/",
+      "https://adaction.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "don kusler",
+          "sentiment": "negative"
+        },
+        {
+          "name": "andy beshear",
+          "sentiment": "none"
+        },
+        {
+          "name": "youngkin",
+          "sentiment": "none"
+        },
+        {
+          "name": "glenn youngkin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "maga",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "virginia senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "kentucky",
+          "sentiment": "none"
+        },
+        {
+          "name": "ohio",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T22:58:06.228+02:00",
+    "updated": "2023-12-30T22:58:06.228+02:00"
+  },
+  {
+    "uuid": "001877e75a307affe59448c541ae108e65dfeb49",
+    "url": "https://www.nouvelles-du-monde.com/un-sapin-de-noel-violet-au-centre-de-retablissement-de-cleveland-rend-hommage-aux-proches-decedes-a-cause-de-la-dependance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nouvelles",
+    "published": "2024-12-26T17:09:00Z",
+    "title": "Un sapin de Noël violet au centre de rétablissement de Cleveland rend hommage aux proches décédés à cause de la dépendance",
+    "text": "CLEVELAND, Ohio (WOIO) – Un arbre de Noël violet installé à The Lantern, un centre de rétablissement, rend hommage aux proches perdus à cause de la dépendance et sensibilise au rétablissement.\nRené Kosla a lancé une tradition consistant à installer un arbre violet chez elle à Strongsville.\nLe violet est la couleur du rétablissement de la dépendance.\nChaque décoration que Kosla met sur l’arbre est une photo d’un être cher décédé d’une overdose ou d’une surdose accidentelle.\n“Je pense que chaque visage rappelle la personne qu’il était avant sa dépendance”, a déclaré Kosla. “Vous regardez cela et cela vous brise le cœur, mais en même temps, c’est bien parce que la personne que vous voyez ici est la personne que nous connaissons en tant qu’enfant ou en grandissant ou en gardant de bons souvenirs d’elle.”\nL’arbre de 12 pieds installé à The Lantern montre l’ampleur de la dépendance sur tant de vies.\n“Il est important pour moi de dire que nous avons un enfant de deux ans sur l’arbre et qu’une surdose accidentelle se produit”, a déclaré Kosla. “Cela me frappe vraiment, comment cela se produit-il, c’est effrayant.”\nKosla a déclaré qu’elle et le directeur de The Lantern, Tony Parker, espèrent que l’arbre violet pourra rappeler à ceux qui travaillent pour guérir de rester sobres.\n“Beaucoup de gars sont passés par The Lantern et sont sur l’arbre et Tony en a bien d’autres”, a déclaré Kosla. “Si nous devions mettre toutes les personnes décédées sur un arbre, nous aurions certainement besoin de plus d’un arbre de Noël de 12 pieds, probablement plusieurs.”\nKosla pense qu’avoir des conversations sur la dépendance peut contribuer à briser la stigmatisation et à susciter le changement.\n“En tant que parent d’enfants toxicomanes, juger quelqu’un dont un proche est toxicomane est un sentiment horrible pour nous en tant que parents”, a déclaré Kosla. “Nous n’aspirons pas à devenir toxicomanes, et pourtant cela arrive.”\nKosla prévoit de poursuivre cette tradition dans l’espoir de pouvoir non seulement honorer les familles et leurs proches, mais aussi sauver des vies.\n“Je le fais pour faire face et pour être reconnaissant d’avoir tous mes enfants ici et je veux faire savoir aux gens que le rétablissement se produit, mais tout le monde n’a pas cette chance”, a déclaré Kosla.\nLe dimanche, La Lanterne organise un mémorial en l’honneur des proches perdus à cause de la dépendance. La communauté est invitée à passer entre 16h et 20h.\n#sapin #Noël #violet #centre #rétablissement #Cleveland #rend #hommage #aux #proches #décédés #dépendance",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Human Interest->funeral and memorial service",
+      "Lifestyle and Leisure->wellness",
+      "Social Issue->communities",
+      "Social Issue->addiction",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.thelantern.info/about-us/the-lantern-program/",
+      "https://www.thelantern.info/about-us/the-lantern-program",
+      "https://thelantern.info/about-us/the-lantern-program/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:03:42.448+02:00",
+    "updated": "2024-12-27T00:03:42.448+02:00"
+  },
+  {
+    "uuid": "9d9d5a5399e3a461aa75dc1fa1848f61bf5ab73d",
+    "url": "https://www.elcorreo.com/sociedad/aemet-anuncia-tormentas-granizo-tras-ola-calor-20240802111312-nt.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Silvia Osorio",
+    "published": "2024-08-02T09:13:00Z",
+    "title": "La Aemet anuncia tormentas y granizo tras la ola de calor: estas serán las zonas afectadas | El Correo",
+    "text": "Secciones Servicios Destacamos Edición Necesitas ser suscriptor para acceder a esta funcionalidad. Viernes, 2 de agosto 2024, 11:13 Necesitas ser suscriptor para acceder a esta funcionalidad. Opciones para compartir La ola de calor que achicharra a buena parte de España comenzará a remitir desde este viernes. Tras las elevadas temperaturas registradas -en algunas zonas se han alcanzado los 43 grados a la sombra-, salir a la calle será algo más llevadero. El tiempo experimentará ... ¿Ya eres suscriptor/a? [Inicia sesión](https://secure.elcorreo.com/login/login.html#vca=suscribete&vso=elcorreo&vmc=on&vli=cdn-ce-link-login) Publicidad Publicidad Te puede interesar [ ¿Qué pensión pueden cobrar las amas de casa y cuánto dinero? ](https://www.lasprovincias.es/economia/pensiones/pension-pueden-cobrar-amas-casa-dinero-20240723013718-nt.html#vca=voc-recirc&vso=elcorreo) Las Provincias Publicidad Publicidad Comentar es una ventaja exclusiva para suscriptores ¿Ya eres suscriptor? Necesitas ser suscriptor para poder votar. Reporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.co/JPcApGfIsL",
+      "https://t.co/keCWfwv3Ua",
+      "https://www.t.co/keCWfwv3Ua",
+      "https://www.t.co/JPcApGfIsL"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T12:18:54.669+03:00",
+    "updated": "2024-08-03T18:44:38.047+03:00"
+  },
+  {
+    "uuid": "41f735f904955900fe98e19e33708e69c30bc25b",
+    "url": "https://www.brecorder.com/news/40292811/army-fully-prepared-to-defend-motherland-coas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (BR Web Desk)",
+    "published": "2024-03-09T17:25:00Z",
+    "title": "Army fully prepared to defend motherland: COAS",
+    "text": "[Pakistan](/pakistan)\n<a href=\"https://www.brecorder.com/news/40292811/army-fully-prepared-to-defend-motherland-coas\">Army fully prepared to defend motherland: COAS\n</a>\n- COAS witnesses integrated fire and battle maneuvers of various elements including Armour, Infantry, Mechanized Infantry, Artillery, Air Defence, and Anti-Tank Guided Missiles\nChief of Army Staff, General Syed Asim Munir Saturday expressed the resolve that the Pakistan Armed Forces, with the support of the nation, are fully prepared to defend the territorial integrity and sovereignty of the motherland against the full spectrum of threats.\nHe was interacting with the troops engaged in the Field Exercise \"Shamsheer-e-Sehra\" in the training area near Rahim Yar Khan.\nAccording to ISPR, the exercise aimed to enhance professional skills and battlefield procedures required to meet future challenges in the operational environment.\nThe Chief of Army Staff witnessed integrated fire and battle maneuvers of various elements including Armour, Infantry, Mechanized Infantry, Artillery, Air Defence, and Anti-Tank Guided Missiles.\nPakistan Air Force aircraft also participated in the exercise.\nThe exercise also incorporated Electronic Warfare capabilities and Information Operations required to subdue the enemy's communications capabilities and disinformation campaign during the war.\nThe Army Chief spent the complete day with the troops in the exercise area and lauded the training standards, operational preparedness, and high morale of all ranks.\nHe emphasized that the Armed Forces should always remain prepared against any misadventure by the enemy.\nEarlier, on arrival in the field area, the Chief of Army Staff was received by Corps Commander Karachi and Inspector General Training and Evaluation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "armour",
+          "sentiment": "none"
+        },
+        {
+          "name": "syed asim munir saturday",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "army",
+          "sentiment": "negative"
+        },
+        {
+          "name": "air defence",
+          "sentiment": "none"
+        },
+        {
+          "name": "pakistan armed forces",
+          "sentiment": "none"
+        },
+        {
+          "name": "ispr",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rahim yar khan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T20:40:43.625+02:00",
+    "updated": "2024-03-09T20:40:43.625+02:00"
+  },
+  {
+    "uuid": "0a2273b5cd147bdba2106d7c81580a04ed515b8d",
+    "url": "https://www.dailyliberal.com.au/story/8936281/court-orders-dubbo-shoplifter-to-repay-myer-rebel-sports/?cs=112",
+    "ord_in_thread": 0,
+    "author": "@Allisonm_h",
+    "published": "2025-04-09T21:30:00Z",
+    "title": "Court orders Dubbo shoplifter to repay Myer, Rebel Sports",
+    "text": "A serial shoplifter who fronted court over six separate matters has been ordered to pay back hundreds of dollars for the items he stole.\nWest Dubbo man Jayden McKellar, 27, appeared at Dubbo Local Court via video link from prison on Wednesday, April 2, to be sentenced over a number of larceny and shoplifting matters.\nAccording to court documents, McKellar has been charged almost 100 times before for stealing, trespassing, breaching AVOs and more.\nOn his most recent court appearance, he faced four separate larceny charges, one shoplifting charge and one trespass charge.\nThe \"most serious\" of the matters, the court heard, was from September 12, 2024, when McKellar went into Myer on Macquarie Street and stole a number of menswear items.\nHe first picked up a backpack valued at $139 and then started filling the backpack with different items as he moved around the section. The total value of the items he took was $868.55.\nA staff member saw McKellar carrying the backpack with the security tag still on it as he made his way towards the back exit of the store. The staff member approached him and asked to see inside the bag but McKellar refused and started shouting at them.\nThe tag on the bag set off the scanners as McKellar ran out of the store through the carpark.\nDays earlier, McKellar also made off with a haul of clothing from Rebel Sports on Macquarie Street.\nAt about 11.45am on September 2, McKellar went into the store's change room with a number of clothing items valued at a total of $434.\nFive minutes later, McKellar left the changing room carrying a black Coles bag that he didn't have when he went into the changing room. Seeing this, an employee attempted to stop McKellar to speak with him, however he ignored their requests and left the store.\nOther matters included McKellar stealing an ice-cream from a sushi restaurant and stealing cash from a chemist.\nMagistrate Aaron Tang convicted McKellar of all the charges and said considering the number of matters, the threshold for imprisonment was crossed.\nFor stealing from Myer and Rebel Sports, he was sentenced to two fixed terms in prison of three months and two months, respectively. Taking into account the time served, McKellar was eligible for release on his sentence date.\nHe was also placed on a two-year community corrections order for stealing cash from the chemist and must get drug and alcohol counselling.\nTributes & Funerals Notices\nMore Tributes & Funerals Notices",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Human Interest",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Crime, Law and Justice->court",
+      "Crime, Law and Justice->robbery and theft",
+      "Human Interest->human mishap",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jayden McKellar",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "West",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Dubbo Local Court",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "0a2273b5cd147bdba2106d7c81580a04ed515b8d",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:50:20.133+03:00",
+    "updated": "2025-04-10T00:50:20.133+03:00"
+  },
+  {
+    "uuid": "63f5fb39996075408c22172dcf200e528ca7d05a",
+    "url": "https://www.philstar.com/pilipino-star-ngayon/kutob/2023/12/29/2321999/disyembre-29-2023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Madam Rosa",
+    "published": "2023-12-28T16:00:00Z",
+    "title": "Disyembre 29, 2023 | Pilipino Star Ngayon",
+    "text": "CAPRICORN: (Dis. 22-Ene. 19) – Magiging suliranin ang pera kung hindi paplanuhin ang paggasta. Kung magiging madaldal malamang may masasaktan. Lucky numbers at color for the day ang 1, 5, 21, 36 at tangerine.\nAQUARIUS: (Ene. 20-Peb. 18) – Ituloy ang binabalak dahil magtatagumpay ka. Lucky numbers at color for the day ang 13, 25, 34, 40 at red.\nPISCES: (Peb. 19-Mar. 20) – Naghihintay ang tagumpay kung kikilos kaagad. Lucky numbers at color for the day ang 24, 33, 40, 44 at peach.\nARIES: (Mar. 21- Abr. 19) – Ipagpaliban ang planong gagawin sa bahay, opisina o pinapasukan. Lucky numbers at color for the day ang 8, 26, 34, 41 at orange.\nTAURUS: (Abr. 20-May. 20) – May mga kaibigan na handang magmalasakit. Lucky numbers at color for the day ang 12, 28, 33, 39 at jade green.\nGEMINI: (Abr. 21-Hun. 21) – Anuman ang problemay may solusyon. Lucky numbers at color for the day ang 3, 4, 27, 40 at citrine yellow.\nCANCER: (Hun. 2-Hul. 22) – Kung ano ang plano, tiyakin na magagawa agad. Lucky numbers at color for the day ang 2, 16, 25, 39 at light green.\nLEO: (Hul. 23-Ago. 22) – Ang pagbabagong magaganap ay ikatutuwa ng pamilya. Lucky numbers at color for the day ang 14, 36, 38, 43 at violet.\nVIRGO: (Ago. 23-Set. 23) – Doble ang suwerte sa negosyo at pag-ibig. Lucky numbers at color for the day ang 14, 16, 39, 42 at red.\nLIBRA: (Set. 24-Okt. 23) – Isang matalik na kaibigan ang magtatraydor. Ingat. Lucky numbers at color for the day ang 3, 12, 27, 39 at yellow.\nSCORPIO: (Okt. 24-Nob. 22) – Ngayon ang tamang panahon sa pakikipagsapalaran. Lucky numbers at color for the day ang 5, 12, 32, 39 at blue.\nSAGITTARIUS: (Nob. 23-Dis. 21) – Mag-ingat dahil may kahinaan ang katawan. Lucky numbers at color for the day ang 11, 14, 27, 37 at beige.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.facebook.com/plugins/page.php?href=",
+      "https://www.facebook.com/plugins/page.php",
+      "https://facebook.com/plugins/page.php?href="
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kung",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "hul",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "hun",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:21:07.529+02:00",
+    "updated": "2023-12-29T02:21:07.529+02:00"
+  },
+  {
+    "uuid": "41d07a3b4cdc2096ca40fc0086faa10e1d2e50b6",
+    "url": "https://answers.ea.com/t5/EA-Play-PC/manter-progresso-de-jogo/m-p/14384569",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "anotherneptunia",
+    "published": "2025-01-09T23:13:00Z",
+    "title": "manter progresso de jogo - Answer HQ",
+    "text": "Minha conta foi hackeada e trocaram meu e-mail, então não consigo mudar nada da minha conta EA, pois o e-mail cadastrado é o do hacker. Mas ainda consigo acessar minha conta, vínculo com google e jogar o The Sims 4, mas queria criar outra conta segura sem hacker. Tem como eu transferir meus saves e progressos de jogo para a outra conta ou vou perder tudo e começar do zero?\nSolucionado! Ir para Solução.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T05:01:27.665+02:00",
+    "updated": "2025-01-22T23:35:23.963+02:00"
+  },
+  {
+    "uuid": "6b5403f73c01e3a4c14ab600ee10aea07d631445",
+    "url": "https://elmanana.com.mx/laredo-texas/2024/10/3/inicia-la-construccion-de-tunel-de-aguas-residuales-en-laredo-se-invirtieron-29-millones-de-dolares-133481.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Francisco Díaz",
+    "published": "2024-10-03T23:12:00Z",
+    "title": "Inicia la construcción de túnel de aguas residuales en Laredo; se invirtieron 29 millones de dólares | El Mañana de Nuevo Laredo",
+    "text": "Con una inversión de 29 millones de dólares, el gobierno de Laredo puso en marcha la[ construcción de un túnel ](https://elmanana.com.mx/laredo-texas/2024/10/3/exigen-cancelar-el-aumento-de-20-mil-dolares-de-sueldo-regidores-alcalde-de-laredo-133477.html)de 7 mil pies lineales para interceptar aguas residuales en la planta de tratamiento Zacate Creek y trasladarlas a la planta de tratamiento del sur de Laredo. Arturo García, director de servicios públicos, dijo que se trata de un túnel de 42 pies de diámetro que estará a una profundidad de 60 pies y que cruzarà por terrenos del municipio en una obra que jamás se ha hecho en Laredo. “Es un proyecto de construcción histórico, algo que no se ha visto en la ciudad pero que será de gran beneficio, especialmente en estos tiempos de crisis de agua en la región”, mencionó el funcionario. Te podría interesar El túnel de concreto será capaz de mover hasta 26 millones de galones de aguas residuales desde la planta de Zacate Creek hasta la planta tratadora del sur de la ciudad, aunque iniciará con sólo 10 millones de galones diarios. “Uno de los grandes beneficios es que esa agua se podrá usar en riego de jardines y otros usos, ahorrando el líquido que se produce en las plantas y esto ayudará a tener màs agua para la población”, explicó Ricardo Rangel, Regidor del Distrito 2 en Laredo. Mencionó que el proyecto llega en un momento complicado para el sistema de agua municipal ya que actualmente se tiene implementada la Fase 3 de conservación de agua, que permite regar jardines sólo una vez por semana. El alcalde Víctor Treviño consideró también que se trata de un proyecto de mucho beneficio y único en la ciudad. En la ceremonia de inicio de los trabajos también estuvieron los Regidores Gilberto González, Alyssa Cigarroa y Melissa Cigarroa. La obra que inició este jueves va a concluir en 400 días para tenerla lista en la primavera del año entrante. Los trabajos de ingeniería están a cargo de la empresa Ardurra y la obra física está a cargo de la compañía Posillico. Los trabajos de construcción dieron comienzo en el área del Parque Slaughter al sur de la ciudad este jueves.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T02:18:02.670+03:00",
+    "updated": "2024-10-04T02:18:02.670+03:00"
+  }
+]

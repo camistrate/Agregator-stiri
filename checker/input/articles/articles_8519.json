@@ -1,0 +1,601 @@
+[
+  {
+    "uuid": "4fff75c28a48ee053c009547ba95c10ba9073305",
+    "url": "https://www.postguam.com/news/national/japan-sees-hottest-july-since-records-began/article_f1691177-0934-5bd4-a6cc-c04a4da23ed6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-08-02T05:00:00Z",
+    "title": "Japan sees hottest July since records began",
+    "text": "Japan sweltered through its hottest July since records began 126 years ago, the weather agency said, as extreme heatwaves fuelled by climate change engulfed many parts of the globe. Temperatures in the country were 2.16 degrees Celsius higher than average, breaking last year's record for July of 1.91 degrees Celsius above average. \"It was the highest since statistics began in 1898,\" the Japan Meteorological Agency (JMA) said Thursday, noting that the figures were \"considerably higher\" nationwide. Of 153 observation posts across Japan, 62 broke their average temperature record in July. Contributing factors included a high-pressure system over the Pacific and \"warm air from the south\" that shrouded northern parts of the archipelago, the JMA said. Since April, heatstroke has killed 59 people in Japan, according to the disaster management agency. Parasols and chunky necklaces that can be stored in the freezer have been a common sight around Tokyo, where street performer Jiro Kan, 56, told AFP he was feeling the heat. \"After spending two hours standing here, I get so sweaty I can literally squeeze it all out from my shirt. I'm drenched,\" said Kan, dressed in an all-yellow suit. \"People who are used to a more dry type of heat like in the United States find the heat and humidity in Japan more difficult to handle,\" he said in tourist hotspot Asakusa. Last month, Shizuoka west of Tokyo became the first Japanese region to see the mercury reach 40 degrees Celsius (104 Fahrenheit) this year -- far surpassing the 35-degree threshold deemed \"extremely hot\" by authorities. Heatwaves are becoming increasingly common across the globe, with the European Union's climate monitor saying in July that the Earth experienced its warmest day in recorded history. tmo/kaf/sco",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Environment",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jiro kan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "the japan meteorological agency",
+          "sentiment": "none"
+        },
+        {
+          "name": "afp",
+          "sentiment": "none"
+        },
+        {
+          "name": "jma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pacific",
+          "sentiment": "none"
+        },
+        {
+          "name": "tokyo",
+          "sentiment": "none"
+        },
+        {
+          "name": "japan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-02T09:20:49.842+03:00",
+    "updated": "2024-08-02T09:20:49.842+03:00"
+  },
+  {
+    "uuid": "0cfc79958655f148e0160ef7dbe2eaf9790c9450",
+    "url": "https://www.sardegnareporter.it/2024/12/firenze-famiglia-uccisa-dal-monossido-di-carbonio-erano-morti-da-mercoledi-sera/678253",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gianfranco Fadda",
+    "published": "2024-12-19T19:27:00Z",
+    "title": "Firenze, famiglia uccisa dal monossido di carbonio. Erano morti da mercoledì sera",
+    "text": "(Adnkronos) – Tragedia familiare alla periferia di Firenze. Due adulti e un bambino sono stati trovati morti nel salotto al pian terreno della Villa di Mezzacosta in via San Felice a Ema, vicino alla zona del Galluzzo. Tra le ipotesi sulle cause delle tre morti c'è quella di un'intossicazione dal monossido di carbonio, che sarebbe avvenuta nella serata di mercoledì 18 dicembre. Una bambina di 6 anni è sopravvissuta ed è stata ricoverata all'ospedale pediatrico Meyer in condizioni gravissime: si trova in prognosi riservata perché avrebbe riportato danni a livello cardiaco. Stando alla prima ricostruzione, effettuata dai vigili del fuoco e dalla polizia, le esalazioni di monossido di carbonio si sarebbero sprigionate da una caldaia o dalle due stufe a pellet che si trovano ancora nell'abitazione. I vigili del fuoco sono intervenuti, intorno alle 14 di oggi, giovedì 19 dicembre, nella villetta. Entrati nell'abitazione, hanno cercato di rianimarli, ma hanno solo potuto constatare il decesso dei tre. I pompieri hanno trovato il padre e i bambini sul divano, mentre la donna era riversa a terra. Nella villa per gli accertamenti è intervenuta la polizia e la procura, che coordina le indagini, fa sapere che \"le cause della morte sono in corso di approfondimento\". A morire è stata la madre della bambina, una donna di origini brasiliane di 46 anni, il suo compagno italiano, 49 anni, proprietario della villa, e il figlio di lui, 11 anni. A dare l'allarme è stata l'ex moglie dell'uomo, che non riusciva più a mettersi in contatto con lui e con il figlio. —cronacawebinfo@adnkronos.com (Web Info)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Health->emergency care",
+      "Health->poisoning",
+      "Health->injury",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Adnkronos",
+          "sentiment": "none"
+        },
+        {
+          "name": "vigili del fuoco",
+          "sentiment": "none"
+        },
+        {
+          "name": "polizia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Firenze",
+          "sentiment": "none"
+        },
+        {
+          "name": "ospedale pediatrico Meyer",
+          "sentiment": "none"
+        },
+        {
+          "name": "via San Felice a Ema",
+          "sentiment": "none"
+        },
+        {
+          "name": "Villa di Mezzacosta",
+          "sentiment": "none"
+        },
+        {
+          "name": "Galluzzo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:23:46.517+02:00",
+    "updated": "2024-12-20T04:23:46.517+02:00"
+  },
+  {
+    "uuid": "96aed0c107a15c636d415caf6dc76d28a88bc0fb",
+    "url": "https://www.citizen-times.com/story/news/nation/2024/01/19/wwii-era-bible-returned-to-new-york-veterans-family/72269065007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saleen Martin",
+    "published": "2024-01-19T13:37:00Z",
+    "title": "'May this keep you safe from harm': WWII era Bible returned to New York veteran's family",
+    "text": "Lost Bible returned to slain USAAF airman from World War II [Saleen Martin](https://www.usatoday.com/staff/7245115001/saleen-martin/) During World War II, a woman bought three brothers Bibles to protect their hearts and guide them as they set out for battle. The Bible had a metal cover on the front with the inscription “May this keep you safe from harm.\" Two of the brothers made it home, while the other, Lt. Edsel J. McKnight of the United States Army Air Forces, was shot down off the coast of France. His Bible was mailed to the family but was lost sometime after. This month, his family finally got it back. Ava Coogan's family is from Albany, New York and they found the Bible in late December while going through their late matriarch’s belongings. On Jan. 11, Coogan met Lt. McKnight’s sister-in-law and returned the Bible to her, allowing her to put it back in its rightful place, next to the ones his brothers brought back home from war. ‘I kept playing with it and flipping through the pages’ Coogan’s uncle and mother found the Bible in a stack of books. Their mother, Rosanne Vartanian, died nearly 20 years ago but was a collector and loved garage sales. “It’s just so random that my grandmother had the urge to pick that up,” she said. “She bought random things. There was no rhyme or reason to it. It was with a stack of other books.” Coogan decided to research the Bible and found out soldiers often took them to war. Some can be found in museums. “The whole premise of it was that the metal cover on the front is like a hard shield,” Coogan told USA TODAY. “They would put it in their coat pockets … like the front breast pocket … that cover would protect their heart from bullets.” Lt. McKnight’s name was also written in the Bible, said Coogan, who was drawn to the Bible for some reason. She couldn’t put it down, she recalled. “I kept playing with it and flipping through the pages,” she said. She noticed that the Bible’s front cover had a slice in it, almost like something was underneath it. She examined it more closely and found a piece of paper folded up inside. She asked her uncle for help, who carefully used a butter knife to get the slip of paper out. Once they retrieved the piece of paper from under the Bible’s cover, they saw that it was a plea for the Bible’s safe return to an address not too far away. Although there was no area code, there was a phone number listed, so the family added their own area code and called. “I was just hoping for the best,” Coogan said. “We found out that number worked.” Lieutenant was shot down off the coast of France When Coogan called the number written in the note, she spoke to a woman named Fay, Lt. McKnight’s sister-in-law. They organized a meetup on Jan. 11 to return the Bible to the family, who is from Porter Corners, part of Saratoga County in eastern New York. Lt. McKnight served in the U.S. Air Force’s 365th Fighter Group and 388th Fighter Squadron. He was flying in a Thunderbolt fighter aircraft in 1944 when he was shot down off the coast of France, [online records](https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/) show. Fay told Coogan and her family that Lt. McKnight has two brothers. All three of the brothers served in WWII. Fay’s husband, Ray, said his Bible saved his life. “He got shot during the war and it hit where the Bible was, covering his heart, and the bullet went into his arm instead,” Coogan said. Once Lt. McKnight was killed, his belongings were shipped back home to the family. His sister-in-law had all three Bibles on a bookshelf on display. One day, the family was preparing to go to church. Her nephew borrowed the Bible, but knew it was so precious, the family decided to write a note with contact information in case it were ever lost. “He didn't lose it,” Coogan said. “He brought it back after church and I guess what happened is after someone passed in their family, they had an estate sale … and it just accidentally went out with a stack of books.” It ended up in Coogan’s grandmother’s hands, she said. Returning the Bible to the McKnight family was quite the enlightening experience, Coogan said. “That was really cool because that's when we kind of got to hear their story,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)",
+      "https://www.usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://usatoday.com/staff/7245115001/saleen-martin/)",
+      "https://www.rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edsel j. mcknight",
+          "sentiment": "none"
+        },
+        {
+          "name": "coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosanne vartanian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "mcknight",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states army air forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "usaaf",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T16:34:33.161+02:00",
+    "updated": "2024-01-19T16:34:33.161+02:00"
+  },
+  {
+    "uuid": "f164866ad03102bbe9df5f3f5facd1fdcc34d92a",
+    "url": "https://dailyvoice.com/new-jersey/somerset/somerville-killer-with-manifesto-step-by-step-murder-plan-indicted-by-grand-jury-prosecutor",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sam Barron & Cecilia Levine",
+    "published": "2024-04-25T21:02:00Z",
+    "title": "NJ Killer With Manifesto, Step-By-Step Murder Plan Indicted By Grand Jury: Somerset Prosecutor",
+    "text": "A Somerset County grand jury has indicted a 27-year-old man for the killing of a young woman in January. On Thursday, April 25, David C. Shroitman was indicted for the Jan. 30 murder of 27-year-old Mary Rose Fealey in Somerville, Somerset County Prosecutor John McDonald announced. Maryrose Fealey Maryrose Fealey Facebook Fealey, a Somerville resident, was found by Somerville police responding to a 911 call, outside a residential complex on North Bridge Street She had been returning home from a local business, the passenger door of her car wide open with her belongings spread throughout the front yard, according to an affidavit. Fealey, who knew her alleged killer, was pronounced dead at the scene, authorities said. Dashcam surveillance footage captured a man in a gray sweatshirt and black face gator, and thick-cushioned sneakers just before 11 p.m. standing at the intersection of North Bridge and Cliff streets in Somerville, right near the crime scene, police said. Days later, Shroitman was found wearing clear latex gloves cleaning his car, and officers could smell the odor of bleach coming from a puddle, found near the driver’s side door of his Toyota Camry, police paperwork says. On East Cliff Street, police found a discarded latex glove with blood on it. A search warrant executed at Shroitman’s home found numerous bleach containers found throughout, and a manifesto laying out a step-by-step plan for the homicide, according to the affidavit for probable cause. The driver’s door of the Camry was doused in bleach and luminol spray found blood in the entryway and bathroom of his home, police said. Clothing and sneakers matching the description of the suspect on dashcam footage was found in Shroitman’s home, some had been treated with bleach, police said. This month, Shroitman was indicted for first-degree murder with aggravating factors, third-degree hindering apprehension, fourth-degree stalking, and various weapons offenses. Fealey graduated from Rutgers Business School in 2018 and had been taking a break from her job to \"focus on her life’s mission work as she called it,\" her obituary says. An \"anti-drug activist and champion of the underdog,\" Fealey was being remembered as a supportive bright light \"committed to her vision and efforts to empower youth and those battling addiction.\" Fealey had founded a local nonprofit, 4TheYoungerMe (4TYM), and was involved in various organizations dedicating to battling substance abuse.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bridgewaterfuneralhome.com/obituary/Maryrose-Fealey",
+      "https://bridgewaterfuneralhome.com/obituary/Maryrose-Fealey"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "david c. shroitman",
+          "sentiment": "negative"
+        },
+        {
+          "name": "john p. mcdonald",
+          "sentiment": "none"
+        },
+        {
+          "name": "shroitman",
+          "sentiment": "none"
+        },
+        {
+          "name": "rose fealey",
+          "sentiment": "none"
+        },
+        {
+          "name": "fealey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "toyota",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "east cliff street",
+          "sentiment": "none"
+        },
+        {
+          "name": "north bridge street",
+          "sentiment": "none"
+        },
+        {
+          "name": "somerset county",
+          "sentiment": "none"
+        },
+        {
+          "name": "somerville",
+          "sentiment": "none"
+        },
+        {
+          "name": "north bridge",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:13:19.857+03:00",
+    "updated": "2024-04-26T02:06:21.930+03:00"
+  },
+  {
+    "uuid": "cb0fd439b4ca5bcf0bdcc3755a462738e91422a5",
+    "url": "https://www.kolotv.com/2023/12/28/endangered-missing-alert-issued-4-year-old-infant-colorado/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@KOLO8",
+    "published": "2023-12-28T21:31:00Z",
+    "title": "4-year-old and infant in Colorado found safe after endangered missing alert",
+    "text": "4-year-old and infant in Colorado found safe after endangered missing alert STERLING, Colo. ( [KKTV](https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray News) - A statewide alert issued in Colorado on Thursday for two young children has been canceled, [KKTV reports.](https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/) The Colorado Bureau of Investigation issued an alert for 4-year-old Zuryah Thalacker and 23-month-old Ansom Thalacker. Officials say the two children were located and were safe as of 3 p.m. on Thursday. Officials say the children have been missing since Wednesday at 1:30 p.m. when they were last seen in the Sterling area. The alert stated that the children may have been with 28-year-old Justina Lambert. The CBI did not disclose the relationship between the three in the alert. The alert said the children were believed to be traveling in a 2007 White Nissan Murano with CA license plate 9ERA912, with the rear bumper missing. Copyright 2023 KKTV via Gray Media Group, Inc. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)",
+      "https://www.kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray",
+      "https://kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)",
+      "https://kktv.com/2023/12/28/statewide-alert-issued-colorado-missing-4-year-old-infant/)/Gray"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "zuryah thalacker",
+          "sentiment": "none"
+        },
+        {
+          "name": "justina lambert",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "kktv",
+          "sentiment": "none"
+        },
+        {
+          "name": "gray media group, inc",
+          "sentiment": "none"
+        },
+        {
+          "name": "cbi",
+          "sentiment": "none"
+        },
+        {
+          "name": "colorado bureau of investigation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colorado",
+          "sentiment": "none"
+        },
+        {
+          "name": "colo.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:35:21.264+02:00",
+    "updated": "2023-12-29T00:35:21.264+02:00"
+  },
+  {
+    "uuid": "2169ef8a573e2576fe690f3477ec779cc113c7c5",
+    "url": "https://www.163.com/dy/article/JS70E6PB05129QAF.html?clickfrom=w_tech",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-04-02T23:05:00Z",
+    "title": "全天候、个性化、懂医学，让AI儿科医生更知家长心|算法|百川|儿童医院|患者隐私_网易订阅",
+    "text": "AI 儿科医生在线答疑。\n采写丨南都·琶洲π记者 代国辉\n图片丨受访者提供　　\n人物名片：\n沈炎军\n北京百川智能科技有限公司算法工程师　　\n在研发AI儿科医生的过程中，沈炎军发现，因更能抚慰家长焦虑情绪，“高情商”的AI儿科医生获得更多认可，这也符合儿科医生“有时治愈，常常帮助，总是安慰”的行业规律。为此，作为北京百川智能科技有限公司（下称“百川智能”）算法工程师，沈炎军带领团队向AI儿科医生注入了更具“同理心”的算法，还请心理医生来做判断。\n在第三届琶洲算法大赛上，沈炎军获评琶洲领军算法师。“琶洲举办算法大赛是一个非常具有前瞻性的决定，这对区域提升科技实力、发展产业、吸引人才落户等都有极大的帮助。琶洲算法大赛的规格很高，大咖云集，得到了政府和学界的高度支持，举办三届以来已经形成越来越大的影响力。”他说道。　　\n行业趋势\n大模型从通用趋向行业应用\nAI赋能发展医疗新质生产力\nOpenAI公司推出的ChatGPT影响了算法工作的方向，沈炎军对此有切身体会。曾在搜狗公司工作的沈炎军长期致力于搜索引擎的算法优化，例如跨模态检索（即通过一种模态查询另一种模态，如通过文本查询图片/视频等）。\n“ChatGPT将我们的许多任务都终结了，例如之前NLP(注:自然语言处理)要做分类任务、实体抽取、语义理解等，但是ChatGPT可以通过prompt(注：提示词)的方式实现这些功能。”沈炎军说道，感到震撼的同时也有一些担忧。算法优化和方向已经和此前完全不同，这促使他必须进入这一全新的领域。他猜测，今后一些小的场景中都不再需要算法的投入，大模型产品可将prompt写得很好，只需通过API接口便能实现需要的功能。\n当意识到，在ChatGPT的冲击下自己所做的算法工作可能不复存在。和许多从事算法工作的人一样，沈炎军转向大模型的算法工作中。2023年5月，他正式成为百川智能的一员，在此后的时间里支持了百川智能从开源到医疗增强大模型等一系列模型的研发工作。\n沈炎军算是百川智能最早的一批员工。2023年4月，前搜狗公司CEO王小川进军人工智能大模型领域，创立百川智能，投身AI的新浪潮中。作为国内最早一批从事通用大模型研发的公司之一，百川智能创立半年便已跻身科技独角兽行列，创下国内大模型初创企业最快记录。2024年7月完成A轮融资，总融资金额约50亿人民币，并以200亿人民币估值开启B轮融资。成立以来，百川智能先后发布了Baichuan-7B/13B、Baichuan2-192K、Baichuan4-Turbo/Air共计15款大模型和首款AI助手“百小应”。\n百川智能认为“医疗是大模型皇冠上的明珠”，在成立之初便将AI医疗作为公司的愿景之一。在医疗领域，百川智能的大模型已经取得阶段性突破，自研的通用医疗增强大模型在多个权威评测中超越了谷歌Med-PaLM2等诸多国内外头部医疗大模型，并于2024年8月28日与国家儿童医学中心北京儿童医院签署战略合作协议。双方将携手发展医疗新质生产力，积极探索儿童医学大模型与健康医疗创新应用，以AI赋能优质儿科医疗资源扩容下沉和区域均衡布局。　　\nAI儿科医生\n缓解医疗资源供需紧张\n让AI儿科医生更人性化\n百川智能和北京儿童医院计划共同推出“一大四小”5款人工智能智慧儿童健康服务产品，以AI儿科医生为核心，在居家场景下为宝爸宝妈们提供诊疗服务，帮助家长做医疗决策、缓解家长焦虑等。沈炎军主要负责儿科医疗项目的算法工作。\n北京儿童医院的院长倪鑫介绍，儿科是医疗系统中最紧缺的科室，很多县级以下地区都没有专门的儿科医院，大部分都是一个门诊。\n儿科医生紧缺的情况为AI提供了用武之地。一个全天候、个性化、懂医学的AI儿科家庭医生，可以很大程度上帮助家长，让每个家庭都有自己的儿科医生，成为宝妈宝爸的育儿帮手。\n沈炎军介绍，虽然当前并无权威的指标来测评AI医生的能力，但公司内部设置了一整套评测标准，有专业医生参与测评，其中包括心理医生。\n当前，百川智能研发的AI儿科医生以福棠医生小程序的形式进行试点，好评率达98.8%。“医生临床经验有长有短，能力也是各有所长，与之类似在某种程度上，模型也有更擅长的方面，如充分的病史采集、少见病早筛、营养运动睡眠等生活方式建议，以及主动表达关心与耐心等。”沈炎军进一步说道，在提升AI儿科医生医疗水平的过程中，团队渐渐发现，人性化的部分也显得很重要。\n“一位宝妈在我们产品上线2个月时，和AI儿科医生聊了60多次。她家里有1个2岁8个月的宝宝，有很多的问题要咨询，例如宝宝咳嗽原因、雾化功效、药物禁忌、肠胃问题。”沈炎军说，每一次对话，都很真切地感受到一个宝妈的焦虑和不易。\n所以，沈炎军和其所在团队在研发AI儿科医生的过程中，为其增加了很多“同理心”，提高情商，让其提供医疗上的帮助同时缓解家长的情绪，致力于打造一个有温度、值得信赖的AI儿科医生。\n为了达到这个效果，算法工程师们会在模拟患者时设置不同性格、情绪和背景信息，以使模型更好地学习到家长在问诊过程中的真实情绪。\n“奖励函数至关重要，这涉及模型的优化方向。简单来说，奖励函数就是评判模型表现好不好。”沈炎军介绍，团队所设置的奖励函数也兼顾了“医学”和“高情商”的综合表现，促使模型在医学上更专业、在交互上更有同理心。\nAI儿科医生的研发才刚刚起步，按照百川智能和北京儿童医院的合作愿景，若是今后能够复制100万个AI儿科医生，这将能极大程度提升整体的医疗水平，尤其是医疗资源较为稀缺的三四线城市。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:14:03.209+03:00",
+    "updated": "2025-04-03T02:14:03.209+03:00"
+  },
+  {
+    "uuid": "582455309c524b10a6e113fb55862b69a94be7c8",
+    "url": "https://crooksandliars.com/2024/06/mike-johnson-terrorist-cells",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Amato",
+    "published": "2024-06-13T16:12:00Z",
+    "title": "Speaker Johnson Hopes For Terrorist Cells In The US Waiting To Attack | Crooks and Liars",
+    "text": "Like us on Facebook Follow us on Twitter\nBy John Amato — June 13, 2024 Speaker Johnson appears to be openly rooting for a terrorist attack on US soil on Fox Business to help the convicted felon in the upcoming election.\nMike Johnson hyped an upcoming armageddon on Fox Business Network.\nWe believe there's probably terrorist cells set up around the United States now, all because Biden opened the border and refuses to close it. There's no way that anybody could possibly think that Republicans have anything to do with this.\nHow disgraceful is it for this milquetoast Christian nationalist to make wild accusations about terror cells attacking the country with no proof except for vitriol?\nYes, he's hoping beyond hope for a terrorist attack before November. But even worse than that, he knows there aren't terrorist cells, because he's briefed on all national security issues regularly as part of the Gang of 8, and if there were terrorist cells he wouldn't be speaking of them.\nI mean, we just heard one lawmaker earlier say, we're waiting for another 9-11.\nYeah, look, it's certainly possible because of the dangerous situation that we have here.\nAnd you know that they've been distributed all around the country, so all cities, all communities are potentially targets and it's a very serious situation.\nYou know, we had the Congressional baseball game last night, we had 28,000 people in that stadium here in D.C., I'm sure over 100 members of Congress there and staffs and important officials.\nYou know, I was sitting in the stadium thinking, wow, this is a dangerous situation.\nYou know, we're well protected here, but you can't possibly deter every harmful action and every plot and plan and we have made that possible because of that open border.\nThat's really distressing.\nAnd there's so many unknowns because of what you mentioned, 350 people on the terrorist watch list.\nWow.\nWhat a piece of excrement. Fear mongering is all MAGA cultfuckers have to run on. I can understand some fuckface from Newsmax saying these words, but the Speaker of the House?\n\"We believe there's probably terror cells set up around the United States now ... all communities are potentially targets\" -- it's a day that ends with y so Republicans like Mike Johnson are on right-wing TV all but rooting for a terror attack before November pic.twitter.com/lTxMyxSOxP\n— Aaron Rupar (@atrupar) June 13, 2024\nTopics: House Speaker Mike Johnson , Terrorist Attacks",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "johnson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mike johnson",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fox business network",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:12:50.339+03:00",
+    "updated": "2024-06-14T12:51:26.890+03:00"
+  },
+  {
+    "uuid": "df51e3de60f9369e95ac3f8929ebe2b9fee0ff10",
+    "url": "https://news.antiwar.com/2024/08/22/us-navy-destroyer-transits-through-taiwan-strait",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "View all posts by Dave DeCamp",
+    "published": "2024-08-22T20:58:00Z",
+    "title": "US Navy Destroyer Transits Through Taiwan Strait",
+    "text": "A US Navy destroyer, the USS Ralph Johnson,\nsailed through the sensitive Taiwan Strait on Thursday, drawing protest from China.\nSenior Col. Li Xi, the spokesman for the Chinese military’s Eastern Theater Command, said air and sea assets were deployed to monitor the US warship as it traveled through the Strait.\n“The Eastern Theater Command remains on high alert and will resolutely safeguard national sovereignty and security, as well as regional peace and stability,” Li said.\nThe US always frames its Taiwan Strait transits as “routine” even though Beijing views them as provocations, and tensions in the region have been especially high in recent years.\n“The Arleigh Burke-class guided-missile destroyer USS Ralph Johnson (DDG 114) is conducting a routine Taiwan Strait transit on August 22 (local time) through waters where high-seas freedom of navigation and overflight apply in accordance with international law,”\nthe US Navy’s Seventh Fleet said in a statement.\nThe last time a US Navy warship transited the Taiwan Strait was in May. The US has been encouraging allies to step up their presence near China’s coast, and a Canadian frigate made the provocative trip through the Strait on July 31.\nAt the time,\nLi said the Canadian frigate had “harassed and disrupted the situation and undermined peace and stability across the Taiwan Strait.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.msn.com/en-us/news/world/canadian-warship-passes-through-taiwan-strait-drawing-china-s-ire/ar-BB1qZxbF?ocid=up97dhp",
+      "https://www.usnews.com/news/world/articles/2024-08-22/uss-ralph-johnson-made-routine-taiwan-strait-transit-says-us-navy",
+      "https://www.c7f.navy.mil/Media/News/Display/Article/3881007/7th-fleet-destroyer-transits-taiwan-strait/",
+      "https://www.msn.com/en-us/news/world/canadian-warship-passes-through-taiwan-strait-drawing-china-s-ire/ar-BB1qZxbF",
+      "https://usnews.com/news/world/articles/2024-08-22/uss-ralph-johnson-made-routine-taiwan-strait-transit-says-us-navy",
+      "https://msn.com/en-us/news/world/canadian-warship-passes-through-taiwan-strait-drawing-china-s-ire/ar-BB1qZxbF?ocid=up97dhp",
+      "https://www.c7f.navy.mil/Media/News/Display/Article/3881007/7th-fleet-destroyer-transits-taiwan-strait",
+      "https://c7f.navy.mil/Media/News/Display/Article/3881007/7th-fleet-destroyer-transits-taiwan-strait/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ralph johnson",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "arleigh burke",
+          "sentiment": "none"
+        },
+        {
+          "name": "li xi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "us navy’s seventh fleet",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "eastern theater command",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "taiwan strait",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "beijing",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T00:01:31.054+03:00",
+    "updated": "2024-08-23T00:01:31.054+03:00"
+  },
+  {
+    "uuid": "dc5bde7466cbab8f87ec103a902519ab287eb7a3",
+    "url": "http://ssw.gxrb.com.cn/json/interface/epaper/?name=gxrb&date=2025-03-13&code=006&xuhao=9",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guoke",
+    "published": "2025-03-12T23:36:50Z",
+    "title": "春至万物生 植树增绿忙·来宾",
+    "text": "本报讯 （广西云-广西日报记者陈煜炫 通讯员吴海兰）3月12日，来宾市250余名干部群众在兴宾区城厢镇格兰村、城区草鞋湖等地同步开展义务植树种竹活动，共栽植竹苗1140株。\n此次大规模种竹行动紧扣来宾市构建“五千九百”现代化产业体系，锚定千亿级高性能纸及纤维复合新材料产业集群建设目标。来宾市林业局局长韦鸿晖介绍，去年该市完成植树造林35.49万亩，超额完成营造林、森林抚育和苗木培育等任务。同时，积极推进城乡绿化美化提升工程和国家储备林建设等工作，全市森林覆盖率预计突破50.06%。今年将重点培育1300亩竹子苗圃，布局72个标准化示范点，面积6300亩，完成新种竹子6.93万亩。力争3年内建成50万亩原料竹林，保障500万吨竹浆纸一体化项目原料供应。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Environment->conservation",
+      "Environment->flowers and plants",
+      "Social Issue->social services",
+      "Social Issue->social condition",
+      "Social Issue->communities",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:36:50.367+02:00",
+    "updated": "2025-03-13T01:36:50.367+02:00"
+  }
+]

@@ -1,0 +1,429 @@
+[
+  {
+    "uuid": "a95ac7721804a367140ee391ee87e38884e7d852",
+    "url": "https://www.hindustantimes.com/science/painting-roofs-white-helps-lower-city-heat-studies-say-101720173572183.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-07-05T09:29:00Z",
+    "title": "Painting roofs white helps lower city heat, studies say - Hindustan Times",
+    "text": "Painting roofs white helps lower city heat, studies say Painting roofs white helps lower city heat, studies say White or reflective paint is more effective at cooling cities than covering roofs in solar panels or greenery, scientists say, and could offer some relief on extremely hot summer days. Two separate studies looked at the effect of 'cool roofing' and found using white or reflective coatings could reduce outdoor city temperatures by up to 2 degrees Celsius. Scientists at University College London used a model of Greater London to test various cooling methods against its hottest days of 2018, when the city endured a record-breaking summer. The results, published on Thursday in the journal Geophysical Research Letters, found that if adopted widely, cool roofs could reduce the surrounding temperature between 1.2C to 2C. Other approaches, like planting vegetation at street level or installing solar panels, provided a much smaller cooling effect at about 0.3C on average across London, the study found. Covering roofs in greenery had a \"negligible\" impact on temperatures, it found, though could offer other benefits like better water draining and habitats for wildlife. \"We comprehensively tested multiple methods that cities like London could use to adapt to and mitigate warming temperatures, and found that cool roofs were the best way to keep temperatures down during extremely hot summer days,\" said the study's lead author, Oscar Brousse from UCL. \"Other methods had various important side benefits, but none were able to reduce outdoor urban heat to nearly the same level.\" Scientists also found that air conditioning, which transfers heat from inside buildings to the outside, could warm the environment by as much as 1C in dense central London. \"By reflecting rather than absorbing heat, cool roofs have the dual benefit of not only cooling the outside urban environment but the inside of buildings as well,\" the report said. A separate study published in March looked at real-world results from painting not just roofs, but also roads and outside walls white in an industrial district of Singapore. Researchers demonstrated that overall temperatures were reduced up to 2C in the afternoon, helping pedestrians feel 1.5C cooler in tropical climes. Lighter surfaces reflect heat rather than absorbing it, an effect known as albedo. Surfaces with high albedo include snow and ice, or light-coloured urban materials. By contrast, asphalt has low albedo, absorbing more energy and therefore heat, as do oceans and forests. Roofing made of white plastic materials have been found in other studies to reflect 80 percent of sunlight that reaches it. Among other locations, cool roofing has already been rolled out in Greece, which is vulnerable to scorching summer highs, and parts of India where heatwaves can be extreme. Some experiments painting roads and footpaths white have proven less popular, with some complaints about glare and dirty surfaces in cities that tested this approach in the United States and France. Cities are 'heat islands' that experience higher temperatures than their surroundings, with energy from the sun absorbed in buildings and roads. As the world's population continues to migrate to cities, and heatwaves become longer and stronger because of climate change, finding ways to adapt will become a priority for urban planners. White roofing was \"a minimally intrusive solution for urban cooling that has an immediate effect compared to other options\" that require more intervention, said E V S Kiran Kumar Donthu, the lead author of the Singapore study. dep/np/db This article was generated from an automated news agency feed without modifications to text. Catch every big hit, every wicket with Crickit, a one stop destination for Live Scores, Match Stats, Infographics & much more. [Explore now!](https://www.hindustantimes.com/cricket?utm_source=eoa&utm_medium=web&utm_campaign=crickit)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "hindustan times painting",
+          "sentiment": "negative"
+        },
+        {
+          "name": "university college london",
+          "sentiment": "none"
+        },
+        {
+          "name": "geophysical research letters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "greater london",
+          "sentiment": "none"
+        },
+        {
+          "name": "london",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T13:09:00.814+03:00",
+    "updated": "2024-07-12T15:51:11.702+03:00"
+  },
+  {
+    "uuid": "1344e80462e3243b982db1a86b18a51c617ba884",
+    "url": "https://news.itsfoss.com/linux-kernel-bcachefs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sourav Rudra",
+    "published": "2024-11-22T11:35:00Z",
+    "title": "A Problem in the Linux Kernel Yet Again: This Time, It's Bcachefs!",
+    "text": "2024's been an interesting year for the Linux kernel, more so in the final months when we saw the expulsion of Russian maintainers over compliance requirements, and then a subsequent move by Russia to build its own Linux community . Linux kernel development is no stranger to a few controversies here and there, but geopolitics affecting their work was a surprise indeed. Unfortunately, something else has happened now that involves Bcachefs , the copy-on-write (COW) filesystem for Linux that focuses on reliability and being a robust alternative to ZFS and Btrfs. What's Going On With Bcachefs? Kent Overstreet, the creator of Bcachefs, has put out a blog detailing how the future of Bcachefs in the Linux kernel looks uncertain, as Linus Torvalds has rejected a pull from him for the upcoming Linux 6.13, citing “an open issue with the CoC board”. If you didn't know, the Linux kernel CoC committee (mentioned as “board” above) is tasked with enforcing the Code of Conduct (CoC) that applies to the project, both in project spaces and in the public. The latter is applicable when an individual is publicly representing the project or the community as a whole, including on social media or online/offline events. The consensus is that a recent offensive reply (back in September) by Kent to Linux memory management (MM) developer, Michal Hocko is behind the suspension. As you can see below, Kent was not happy with how Michal was handling things related to PF_MEMALLOC_NORECLAIM. In subsequent replies, Kent was asked by Shuah Khan of the Linux kernel CoC committee to not use such language, and to adhere to the Code of Conduct. To that, Kent responded that he had worked this out .) with Michal privately, with the CoC committee receiving the copies of the interactions. However, Shuah didn't let it go ), asserting that he had to apologize. Consequently, there has been plenty of discussion over this, with Kent refusing to apologize publicly. What Happens Now? All of this seems to have been taken up a notch by the formalized CoC enforcement policy that was published on November 14, 2024. It expands on what kind of actions might be taken in cases of unacceptable behavior. There are provisions on it that can be used against offenders. With a public apology by the offender being the first one. If an offender doesn't do that, then a ban from participating in kernel development, either for a short period or a full kernel development cycle, could be handed out. In such a case, the offender may be required to publicly apologize to get back in, but that is not a mandatory requirement. The CoC committee has the final say in that. Kent's blog appeared a few days after the publishing of the policy, so it looks like this is likely to be a drawn-out dispute. In the blog, he goes on to share that his reply was not meant to be malicious or personal, and things like this happen when developers get into technical arguments. As for the CoC's handling of the situation (via Shuah), many Linux kernel maintainers, including Kent, are unhappy with how heavy-handed the interactions have been, with CoC enforcement also being brought into question. If you are interested in reading the ongoing conversation surrounding this, then you can go through the original thread that is at the core of it all. In the end, some questions remain: What will happen to the Bcachefs implementation in the mainline Linux kernel? Will it stay or go away? Is this a temporary suspension for Kent Overstreet, or a more permanent one? For answers to all that, we have to wait and see what happens. 💬 Tell me what you think of this situation in the comments below! Suggested Read 📖 Here's why you should opt for It's FOSS Plus Membership - Even the biggest players in the Linux world don't care about desktop Linux users. We do. - We don't put content behind paywall. Your support keeps it open for everyone. Think of it like 'pay it forward'. - Don't like ads? With the Plus membership, you get an ad-free reading experience. - When millions of AI-generated content is being published daily, you read and learn from real human Linux users. - It costs just $2 a month, less than the cost of your favorite burger.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T14:39:28.738+02:00",
+    "updated": "2024-11-24T14:35:09.861+02:00"
+  },
+  {
+    "uuid": "cccf7e02cbefd33aa44d7e7f39eecd2fd3bd55de",
+    "url": "https://www.lejsl.com/environnement/2025/01/10/2024-annee-la-plus-chaude-1-5-c-sur-deux-ans-comment-le-sait-on",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La rédaction avec AFP",
+    "published": "2025-01-10T08:48:00Z",
+    "title": "Réchauffement climatique. 2024 année la plus chaude, +1,5°C sur deux ans... Comment le sait-on ?",
+    "text": "Réchauffement climatique 2024 année la plus chaude, +1,5°C sur deux ans... Comment le sait-on ?\nL'observatoire européen Copernicus a annoncé ce vendredi que les deux dernières années ont dépassé en moyenne la limite de 1,5°C de réchauffement fixée par l'accord de Paris, et que 2024 a bel et bien été l'année la plus chaude jamais enregistrée depuis le début des statistiques. Mais comment parvient-on à l'estimer ?\nC'est officiel. Les deux dernières années, soit 2023 et 2024, ont dépassé en moyenne la limite de 1,5°C de réchauffement fixée par l'accord de Paris, signe d'une hausse des températures continue et inédite dans l'histoire moderne, a annoncé ce vendredi l'observatoire européen Copernicus.\nComme pressenti depuis des mois, et désormais confirmé par l'ensemble des températures jusqu'au 31 décembre, 2024 a bel et bien été l'année la plus chaude jamais enregistrée depuis le début des statistiques en 1850, a confirmé le Service changement climatique (C3S) de Copernicus.\nCe constat « devrait tous nous alarmer » a déclaré sur X ce vendredi le ministre britannique chargé de la neutralité carbone, Ed Miliband. « Nous cacher la tête dans le sable serait une trahison pour les générations futures ». Mais « nous avons les réponses pour affronter cette menace existentielle », a-t-il ajouté, estimant que « le désespoir n'est pas une option ».\nComment le sait-on ?\nMais comment peut-on savoir que l'année 2024 est la plus chaude jamais mesurée sur Terre depuis 1850 ?\n« Quand on veut connaître les climats du passé, on cherche une archive qui a enregistré les variations de température », explique le paléoclimatologue Etienne Legrain, joint pendant sa mission de recherche dans l'Antarctique. Par exemple, les « carottes sédimentaires marines, composées des sédiments qui tombent au fond des océans »: ceux-ci « sont remplis de bestioles -les foraminifères- qui enregistrent dans leur coquille les températures du moment où elles vivaient », raconte-t-il.\n« Il y a aussi les carottes de glace, avec plusieurs méthodes: une très simple consiste à mettre un thermomètre dans un trou qu'on va forer sur 3 km et plus on descend profond, plus on remonte dans le temps pour lire la température de la glace, qui reste toujours la même qu'à l'époque de sa formation », décrit ce scientifique de l'Université libre de Bruxelles, tout juste rentré d'une expédition sur les glaciers du pôle sud.\nDes archives dans la glace\n« Une autre consiste à peser le poids d'une molécule de glace, ce qui donne la température au moment où la glace s'est déposée ». Les carottes de glace permettent de remonter à plus d'un million d'années dans le temps.\n« Quand on analyse toutes ces archives très différentes », les communautés de chercheurs distinctes « tombent sur les mêmes courbes de températures, c'est pour ça qu'on a une certitude assez forte », résume-t-il, même s'ils ne parviennent pas à une précision au dixième de degré.\nConclusion, selon le Giec : les températures mondiales de la dernière décennie (2011-2020), environ 1,1°C plus chaudes que la période 1850-1900, « ont dépassé celles de la plus récente période chaude multi-séculaire » d'il y a environ 6 500 ans, qui était seulement 0,2 à 1°C plus chaude que l'époque pré-industrielle.\n« Avant cela, la plus récente période chaude remonte à environ 125 000 ans, lorsque la température pluriséculaire (0,5°C à 1,5°C par rapport à 1850-1900) chevauche les observations de la décennie » écoulée, écrivent les climatologues mandatés par l'ONU.\n« On a un pris presque un degré en 50 ans ! »\n« Les marges d'erreur ne nous permettent pas de dire que le climat actuel est plus chaud que l'Eémien », le nom de cette période de quelques milliers d'années de réchauffement, juste avant la dernière ère glaciaire, explique Etienne Legrain.\n« Mais ce qui est certain, si l'on reste sur les trajectoires d'émissions de gaz a effet de serre actuelles, c'est que le climat attendu à la fin du siècle sera le plus chaud depuis au moins 800 000 ans », avertit le chercheur, puisque, selon l'Onu, l'humanité met la planète sur la voie d'un réchauffement de près de 3°C par rapport au 19e siècle. « L'Eémien correspond à une augmentation de 5-7°C de température moyenne sur 10 000 ans, soit environ +1°C tous les 2 000 ans. Nous, on a un pris presque un degré en 50 ans ! », souligne Etienne Legrain. Le réchauffement très lent et graduel de l'époque passée avait, jadis, permis aux êtres vivants de s'adapter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Environment->global warming",
+      "Environment->sustainability",
+      "Environment->climate change",
+      "Science and Technology->natural science",
+      "Science and Technology->meteorology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T12:29:53.370+02:00",
+    "updated": "2025-01-10T12:29:53.370+02:00"
+  },
+  {
+    "uuid": "2a3351661fb7f4588a9d57d2617accc2253b00f5",
+    "url": "https://olhardigital.com.br/2024/07/19/agronegocios/solo-inteligente-pode-resolver-escassez-de-agua-na-plantacao-veja-como",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vitoria Lopes Gomez",
+    "published": "2024-07-19T09:30:00Z",
+    "title": "“Solo inteligente” pode resolver escassez de água na plantação; veja como",
+    "text": "A água é parte essencial do processo de [plantação](https://olhardigital.com.br/tag/plantacao/), mas a escassez do recurso natural em alguns locais pode inibir a [agricultura](https://olhardigital.com.br/tag/agricultura/) e ter consequências na segurança alimentar da população. Pesquisadores da Universidade do [Texas](https://olhardigital.com.br/tag/texas/) em Austin (EUA) desenvolveram um “solo inteligente” que [aumentará a capacidade das plantações](https://olhardigital.com.br/2024/07/12/pro/como-robos-estao-revolucionando-agricultura-brasileira/) usando muito menos água. O trabalho se baseia em hidrogel capaz de aumentar a produção em mais de 130%. Solo inteligente permite plantar mais com menos água O solo inteligente desenvolvido pelos pesquisadores americanos pode mudar como uma plantação utiliza água. Segundo o [New Atlas](https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/), ele mantém as plantas hidratadas e com liberação controlada de nutrientes – sem contar o aumento na produção. Para aumentar a eficiência da plantação, o novo [estudo](https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.4c01120) adicionou hidrogel especialmente formulado ao solo. Ele funciona absorvendo vapor de água do ar durante a noite e o liberando de volta para as raízes das plantas durante o dia. Um toque de cloreto de cálcio na composição do hidrogel permite liberação mais lenta dos nutrientes. Leia mais: [Como escolher o tamanho do Galaxy Ring da Samsung](https://olhardigital.com.br/2024/07/17/dicas-e-tutoriais/como-escolher-o-tamanho-do-galaxy-ring-da-samsung/) [O que é mesh shader e como funciona a ferramenta](https://olhardigital.com.br/2023/11/09/tira-duvidas/o-que-e-mesh-shader-e-como-funciona-a-ferramenta/) [Brita que captura CO₂ aumenta rendimento das colheitas em até 16%](https://olhardigital.com.br/2024/04/04/ciencia-e-espaco/brita-que-captura-co%e2%82%82-aumenta-rendimento-das-colheitas-em-ate-16/) Solo foi testado e aumentou eficiência da plantação - A invenção foi testada em laboratório, com plantas cultivadas em dez gramas de solo; - Em algumas das amostras, o solo continha 0,1 grama de hidrogel; - A plantação foi observada durante ciclo de dia e noite, com 12 horas de escuridão a 25 °C e 60% a 90% de umidade relativa, seguido por 12 horas de luz solar simulada a 35 °C e 30% de umidade; - As plantas no solo inteligente (com hidrogel) tiveram aumento de 138% no comprimento do caule em relação às que foram plantadas em solo comum; - As plantas no solo inteligente também precisaram de 40% menos água para chegar nesse resultado. Solo inteligente pode ajudar a combater escassez na plantação De acordo com Guihua Yu, autor correspondente do estudo, o solo inteligente pode ajudar a combater a escassez de água para melhorar a eficiência da plantação. A escassez global de água, juntamente com uma população crescente, tem impacto imediato na segurança alimentar. Esta nova classe de hidrogéis oferece solução promissora para atender às necessidades urgentes de escassez de água e absorção eficiente de nutrientes na agricultura sustentável moderna.Guihua Yu, autor correspondente do projeto, em entrevista ao New Atlas Próximos estudos da equipe vão analisar o resultado usando outros tipos de experimentos, além da observação a longo prazo.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/",
+      "https://pubs.acs.org/doi/full/10.1021/acsmaterialslett.4c01120",
+      "https://www.newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water/",
+      "https://newatlas.com/science/smart-soil-hydrogel-bigger-crops-less-water",
+      "https://www.pubs.acs.org/doi/full/10.1021/acsmaterialslett.4c01120"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T13:27:29.308+03:00",
+    "updated": "2024-08-13T14:17:04.857+03:00"
+  },
+  {
+    "uuid": "ed35df7a0c145b2a17d98883b46099cafe986d5f",
+    "url": "https://vnexplorer.net/z/1856794.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-08-15T13:37:00Z",
+    "title": "“This Has Been Going On And On”: CNN Cuts Away From Donald Trump Press Conference As Former President Makes Marathon Opening Statement",
+    "text": "Donald Trump speaks to reporters at his Bedminster golf club. Photo by Adam Gray/Getty Images Donald Trump opened his latest press conference by delivering an opening statement that went on … and on. After 30 minutes, CNN cut away. CNN’s Wolf Blitzer told viewers, “We’re continuing to monitor the former president of the United States. He’s still with his so called opening statement that’s been going on well more than a half an hour, close to 40 minutes already…This has been going on and on.” In his remarks, Trump, reading from written remarks, laid the blame for inflation on his rival Kamala Harris, while accusing her of pursuing “communist” policies. But he also attacked Harris on the border, crime and other issues, and even predicted that her election would lead to a 1929-style stock market crash. On Fox News, which stayed with the remarks, the ticker showed the market getting a big boost during the day, with the Dow rising more than 500 points. Related Stories News Joe Biden Meets With Martin Sheen In Brief White House &amp;#039;West Wing&amp;#039; Moment News Kamala Harris Campaign Says It Agreed To A Second Debate With Donald Trump, Rejects More Than One VP Faceoff MSNBC bypassed the remarks altogether. The networks faced some criticism last week for carrying Trump’s press conference in Palm Beach, allowing him to advance falsehoods without a real-time fact check. As it typically does, CNN went to a fact check with Daniel Dale, who said that many of Trump’s claims have been “debunked before.” He focused on two: One that California allows people to rob stores as long as the thieves take under $950, and the other that mortgage rates are at 10%, when the standard 30-year fixed is at 6.9%. CNN did return to the press conference once Trump started taking questions — after about 50 minutes. Subscribe to Deadline Get our Breaking News Alerts and Keep your inbox happy. Sign Up",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "adam gray/getty images donald",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "wolf blitzer",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "kamala harris campai",
+          "sentiment": "none"
+        },
+        {
+          "name": "harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "kamala harris",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fox news",
+          "sentiment": "none"
+        },
+        {
+          "name": "martin sheen in brief white house",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bedminster",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T00:44:21.729+03:00",
+    "updated": "2024-08-16T00:44:21.729+03:00"
+  },
+  {
+    "uuid": "e209b0b9a4c7fd7e84d4e60d50479b76fcf7779f",
+    "url": "https://983try.iheart.com/calendar/content/2024-09-19-sail-away-with-jamie-roberts-and-983try",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "iheart.com",
+    "published": "2024-09-19T17:59:00Z",
+    "title": "Sail Away with Jamie Roberts and 98.3TRY | 98.3 WTRY",
+    "text": "Book your Cruise with AAA Northway and Sail with Jaime Roberts and 98-3 TRY on an exciting 9 Night Listener Cruise to Bermuda and the Eastern Caribbean – aboard Royal Caribbean’s Liberty of the Seas®!\nJoin Jaime Roberts on an unforgettable journey for nine nights of non-stop excitement with some spectacular destinations along the way including – Bermuda, San Maarten, San Juan and Labadee! Sail roundtrip from Cape Liberty, New Jersey – Departing May 29, 2025 – for 9 Nights.\nOn the ship, there’s three pools, a water park – featuring exhilarating slides like Tidal Wave, and the very exciting Flow-Rider Surfing Simulator!\nIndulge yourself—enjoy many fantastic dining experiences included at a wide variety of eateries. Add in fun like endless entertainment options! From captivating theater shows and live music to even movie screenings. Imagine yourselves savoring the new culinary delights at Sabor and Giovanni's Table and then, unwinding at one of the ship's many bars and lounges.\nWith panoramic ocean view staterooms and vibrant onboard activities, your Royal Caribbean cruise to Bermuda and the Eastern Caribbean, promises many unforgettable memories. So, join Jaime as she sets sail!\nDiscover the excitement awaiting you aboard our next amazing WTRY cruise!\nWhere are we going? Bermuda, discover a history-filled paradise full of pink sand beaches!\nYour journey begins with an enchanting visit to Bermuda , where vibrant history and stunning landscapes await. Explore the historic Royal Navy Dockyard, relax on pink sand beaches and snorkel in crystal-clear waters filled with colorful marine life. Whether you're wandering the charming streets of Hamilton or discovering the wonders of Crystal Caves, Bermuda offers an idyllic blend of adventure and relaxation.\nExperience the cosmopolitan charm of Philipsburg in St. Maarten!\nNext, experience the cosmopolitan charm of Philipsburg in St. Maarten, where Dutch and French influences create a unique cultural tapestry. Stroll along the picturesque Great Bay Beach, shop at duty-free boutiques on Front Street, or savor delectable Caribbean cuisine at waterfront restaurants. Dive into water sports like snorkeling on crystal-clear waters. With its stunning beaches, lively evenings, and welcoming atmosphere, Philipsburg is a captivating destination that promises unforgettable memories.\nDiscover the vibrant culture and rich history of San Juan, Puerto Rico!\nWander through the colorful streets of Old San Juan , where cobblestone pathways lead to iconic landmarks like El Morro and San Cristobal forts. Immerse yourself in the lively local cuisine, music, and art, or relax on stunning beaches such as Condado and Isla Verde. Discover the city's rich cultural heritage in its colonial architecture, lively cafes, and quaint plazas—while exploring museums and unique shops scattered throughout the old city. Hunt for artisan products and one-of-a-kind souvenirs that reflect the vibrant spirit of Puerto Rico. Whether you're exploring historical sites, or indulging in modern amenities, San Juan is sure to captivate!\nAnd… Yes! Your Own Private Paradise in Labadee, Haiti!\nNestled along the northern coast, Royal Caribbean's exclusive private paradise is a stunning destination, framed by pristine beaches, lush tropical landscapes and the sparkling Caribbean Sea.\nAdventure seekers can soar high above the water on the Dragon’s Breath Flight Line , the world's longest over-water zipline, or kayak along the coastline to discover hidden coves and secluded spots! For those looking to relax, lounge on the soft sands of Adrenaline Beach, where you can sip on a refreshing drink while soaking in the sun.\nLabadee also offers a vibrant local culture, with opportunities to shop for handcrafted artisan goods, sample delicious local flavors, or even enjoy a traditional Haitian dance performance! Whether you're snorkeling in crystal-clear waters, exploring the tropical terrain on a nature trail, or unwinding in a private cabana, Labadee provides the perfect blend of excitement and relaxation—a memorable finale to an unforgettable journey!\nCruise Details:\nSail roundtrip from Cape Liberty, NJ – departing May 29, 2025 – for 9 Nights\nPORT ARRIVAL DEPART\n5/29 Cape Liberty, Bayonne, NJ 4:00 PM\n5/30 Cruising\n5/31 Bermuda 8:00 AM 4:00 PM\n6/01 Cruising\n6/02 Philipsburg, St. Maarten 12:00 PM 7:00 PM\n6/03 San Juan, Puerto Rico 7:00 AM 2:30 PM\n6/04 Labadee, Haiti 9:30 AM 5:00 PM\n6/05 Cruising\n6/06 Cruising\n6/07 Cape Liberty, Bayonne, NJ 7:00 AM\n Pricing and Benefits\nInside $842 Oceanview from $1,007 Balcony from $1863 Prices are per person based on double occupancy AAA Benefit: $50 per stateroom onboard credit, onboard karaoke and cocktail party Roundtrip motorcoach to pier from Clifton Park, NY: $200 per person Taxes, transportation services and insurance are additional Excursions are at an additional cost Deposit: $200 per person Subject to availability Ship’s Registry: Bahamas For reservations, call your local AAA Northway travel specialist.\n1-877-AAA-8283 or https://www.northway.aaa.com/travel/cruise/sail-away-jaime-roberts-and-983-try-0\nTravel Center locations in Schenectady, Saratoga Springs, Halfmoon, Queensbury, Plattsburgh and Vestal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.aaa.com/",
+      "http://aaa.com/",
+      "http://www.aaa.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:42:37.766+03:00",
+    "updated": "2024-10-04T03:40:13.408+03:00"
+  },
+  {
+    "uuid": "1714745a93339690d6edba99c513554fec7b42d3",
+    "url": "https://sport.sky.it/calcio/serie-a/2024/04/25/roma-smalling-infortunio-news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sky Sport",
+    "published": "2024-04-25T20:55:00Z",
+    "title": "Roma, infortunio per Smalling: difesa in emergenza contro il Napoli",
+    "text": "Roma, infortunio per Smalling: difesa in emergenza contro il Napoliroma\nNota stonata per la Roma nella vittoria del recupero contro l'Udinese: Smalling ha abbandonato il campo per un infortunio all'inguine che sarà valutato venerdì 26 aprile, rischia di saltare la prossima partita contro il Napoli. Con Llorente squalificato e Ndicka ancora out, allo stadio \"Maradona\" gli unici centrali a disposizione di De Rossi saranno Mancini e Huijsen\nDe Rossi festeggia un'altra vittoria, ma la sua Roma perde un pezzo importante in vista della partita contro il Napoli, in programma al Maradona domenica 28 aprile alle ore 18. All'88' Smalling ha abbandonato il campo per infortunio, sostituito da Llorente. Il difensore inglese ha lamentato un problema all'inguine. Domani, venerdì 26 aprile, verrà valutato con esami approfonditi, ma sembrerebbe a forte rischio per il match contro il Napoli. Considerando la squalifica di Llorente e l'indisponibilità di Ndicka, ancora out dopo lo pneumotorace subito nella prima parte della sfida all'Udinese, De Rossi con gli azzurri avrà solo Mancini e Huijsen a disposizione come centrali difensivi. Una coppia obbligata, che dovrà essere preservata in questi giorni, a meno che l'allenatore giallorosso non decida di pensare a qualcosa di diverso.\n<a href=\"https://sport.sky.it/calcio/serie-a/2024/04/25/udinese-roma-de-rossi-intervista-video\">\n</a>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:30:50.837+03:00",
+    "updated": "2024-04-26T00:30:50.837+03:00"
+  },
+  {
+    "uuid": "b6de6cdb3d0fb282848e603be62a2d91fb489091",
+    "url": "https://www.meneame.net/story/sanchez-celebra-salida-vox-gobiernos-autonomicos-gran-dia-espana/c026",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "manzitor",
+    "published": "2024-07-12T05:49:00Z",
+    "title": "#26 Sánchez celebra la salida de Vox de gobiernos autonómicos: \"Es un gran día para España\"",
+    "text": "Portada\nmis comunidades\notras secciones\nAl final el gobierno frankenstein, el que iba a reventar por un lado u otro, ahí sigue. Y mientras el PP teniendo que lidiar con una panda de paletos vociferantes como aliados, y ahora además con una escisión aún más paleta y aún más vociferante.\nPues voy a hacer de abogado del diablo. Lo primero de todo es que avisaron de salirse de los gobiernos si se cumplía lo del reparto de menores...y han cumplido. Seguramente si hubieran reculado ya estaríamos con el mantra de los sillones y las poltronas.\nSe está celebrando el reparto, cuando seguimos sin atajar el problema. Muchos de ellos no son menores, no tenemos información alguna suya previa y por mucho que digamos donde deberían estar es con sus familias.\nSupongo que desde la perspectiva de la \"izquierda\" esto es una fiesta. Pero no todo el mundo piensa igual y esto es un problema que ni los políticos de izquierda o derecha se van a comer en sus barrios y casas.\nLuego vendrán los sesudos análisis del auge de la ultra derecha.\nY bueno, ahora ya podéis tildarme de fascista o lo que os salga de las pelotas por no seguir el ideario estándar de la izquierda.\n[#8](c8#c-8) Es el asunto del tonto, el dedo y la luna. Pero ya sabemos que eso en la izquierda no ocurre. Somos moralmente superiores.\n[#6](c6#c-6) los menores (y mayores) van a seguir viniendo a España le guste a quien le guste. Salvo que pongas a la armada a disparar a los cayucos como proponen estos neandertales.\nPuedes hacer dos cosas:\n1) ayudar a África para que no vengan\n2) aprovechar que vienen y darles una educación y una salida laboral\nA mí me vale cualquiera de las dos. Lo que me parece inaceptable y estúpido es usar la inmigración como un arma electoral.\n[#6](c6#c-6) El problema es el mismo de siempre. Si omites las guerras que provocamos, la inmigración estaría en mismas cifras que en 2018.\nEl problema, de ser ese y no la natalidad, pero no voy a entrar en eso. Ese supuesto problema no se ataja con antorchas en casas de acogida de niños, ni despotricando, ni siquiera ahogando los con balas de goma cuando cruzan la frontera nadando.\nSe arregla con política, relaciones con marruecos y negociación. Es la única forma. No con pirados con antorchas.\nUna vez se cruza la frontera, si no sabes a donde deportarlos, debes cumplir con los derechos humanos y respetar la dignidad de las personas.\nPq no te olvides que aunque musulmanes y negros, son seres humanos cuyo delito principal es querer buscarse la vida.\n[#6](c6#c-6) Un poco historia te hará más ilustrado. Las migraciones son milenarias, y lo seguirán siendo y eso no lo va a parar ningún gobierno te guste o no, porque quién no tiene nada, le da igual perder lo poco que tiene. Y otra cosa. Europa necesita 50 mill. de migrantes si quiere seguir siendo algo en el mundo,y África tiene casi la mitad de su población con menos de 40 años. Les necesitamos nos guste o no.\n[#1](c1#c-1) son unos sinvergüenzas. Ellos y los que los apoyan. Mucho marketing, pero ahí seguimos apoyando el belicismo OTAN.\nNi las autonómicas ni las europeas contaron con mi voto.\nSi se piensan que se van a mantener con el \"que vienen los fachas\" y seguir apoyando los genocidios de ucrania y palestina van de puto culo.\nTeniendo en cuenta el contexto, que vox es un partido de gente que ha demostrado tener poca capacidad de gestionar, que es un partido para hacer ruido en la oposición más que para gobernar (igual que podemos en este punto), y que esta crisis de los menores no es ni de lejos representativo del problema inmigratorio.\nPero hay que reconocer que esto es un gesto de honestidad que no recordamos en la política española. Renunciar a poltronas porque se han incumplido puntos que eran importantes para ellos desde el punto de vista de programa. Sobre cualquier otro partido (desde el PP a indepes o el psoe) hay cientos de ejemplos de lo contrario, de aferrarse al sillón y capear las preguntas con una desvergüenza acojonante.\n[#10](c10#c-10)\nLa intolerancia no es algo positivo.\nCuando tu negocias un gobierno y más si eres una minoría estás obligado a aceptar cosas que no vienen en tu programa. Se llama negociar.\nTodo por repartirse 300-400 niños entre 44 millones de españoles, niños que ya están en España (sí, Canarias, señor Abascal, es España y hay que ser solidaria con ella, que también hay españoles allí) y cosa que lleva haciéndose cada año. Ultra\"católicos\" negando el auxilio a niños. VAYA VAYA.\nEs que no dan para más. Ni honor ni pollas, es que son tontos. El \"honor\" es para las batallas, no para la política.\nMe arremango el fajín y apurandome el Cinzano promulgo:\n-Hay un movimiento divertido en la derecha, al crecer Vox, el PP se vio obligado a endurecer sus posturas mas escoradas para intentar recuperar los votos del ala mas reaccionaria que se iban desangrando pa Vox, eso es lo que vimos estos años, un \"a ver quien dice la idiotez mas gorda\". Esta semana asistimos a una nueva dinámica encabezada por el follaardillas, Vox ha visto como le crece un enano por la derecha, no puede permitirlo, o sea q se enfurruñan y se cierran en banda haciendo bandera de... pos algo tan propagandistico y de impacto entre el electorado mas ultra como los MENAS... (Aunque sea algo tan anecdótico como 21 personas, muchos niños, pa acoger en una comunidad como Castilla.... q lo pones en perspectiva y dices q cojones 21 personas no tienes donde meterlas en la españa vacia???? Esto no es \"problema\" esto es publicidad pa sus cafeteros) Con lo que puede ojo puede, que el PP vuelva a intentar pegar un giro hacia el centro (con el debilitamiento del ala dura del partido, Ayuso juapa, te miro a ti q ultimamente estas muy callada) y dejar que Vox y Alvise se maten a garrotazos a ver quien es mas y muy Ejpañó\nGolpe en la barra erupto, niño ponte una tapita aqui anda, que hay que darle culto al cuerpo\nlas que más te afectan.\nEntre muchas otras, presupuestos y reforma laboral a pesar de los sobornos a sallas y adanero y el golpe de estado del por entonces TC pepesuno.\nPara no aprobar leyes... Recuerdas cuánto estuvo Rajoy sin presupuestos? Gracias a eso el hundimiento de España se relajo esos últimos años de gobierno de la trotona, que no pudo robar todo lo que quiso como había hecho con la sareb.\nEra para\n#_13 que tiene estrabismo intelectual y los dos ojos le miran para el mismo lado.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T10:55:08.674+03:00",
+    "updated": "2024-07-12T10:55:08.674+03:00"
+  },
+  {
+    "uuid": "158f2656ed0121d204cd2b1158b73aab82559461",
+    "url": "https://churchleaders.com/youth/464551-gifts-of-the-holy-spirit.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephanie Martin",
+    "published": "2023-12-29T06:00:00Z",
+    "title": "Gifts of the Holy Spirit: Help Young People Explore & Use Their Gifts",
+    "text": "By studying the gifts of the Holy Spirit in youth group and small-group Bible studies, you help teens deepen their faith. Plus, you equip them for a\npurposeful life of service in the church and in the world.\nAccording to the Bible, the gifts of the Holy Spirit differ from\nspiritual gifts. The seven gifts from the Spirit are:\n- Prophecy\n- Teaching\n- Exhorting\n- Service\n- Leading\n- Giving\n- Mercy\nEvangelical Christians cite these New Testament Bible verses as sources for gifts of the Spirit.\nRomans 12:6-8; 1 Corinthians 12:7-10; 1 Corinthians 12:28; Ephesians 4:11.\nVarious sources use different terminology for the gifts of the Holy Spirit. The Catholic Church teaches that the gifts are found in\nIsaiah 11:1-2. Those seven gifts are:\n- Wisdom\n- Understanding\n- Counsel\n- Fortitude\n- Knowledge\n- Piety\n- Fear of the Lord\nGifts of the Holy Spirit: Resources for Youth Ministry\nFor more insights about these important gifts, review the material below. Also turn to denominational resources that reflect the specific beliefs of your faith tradition.\n-\nThe 7 Gifts of the Holy Spirit\nFirst, check out this informative\nexplanation of the gifts. From a historical perspective, the website explains that Saint Bonaventure (who lived in the 13th century) popularized reflecting on these gifts as a devotional practice. Pastor Michael A. Milton writes that these gifts, “when applied to the activity of the Holy Spirit in the life of a Christian,” are not exhaustive. “They are evidence of the operation of the Spirit of God in the life of His child.”\n-\nDifferences Between Spiritual Gifts & The Gifts of the Spirit\nThis\nwebsite provides helpful distinctions between these biblical giftings. For example, God blesses us with spiritual gifts to build up his church and help it accomplish its mission. But he blesses people with gifts of the Holy Spirit to help us become more holy and to grow closer to him.\n-\nWhy the Gifts of the Holy Spirit Are So Vital\nHere’s a thorough\nhttps://youcat.org/credopedia/gifts-of-the-holy-spirit/ of why the church needs each of the seven gifts. The working of the Holy Spirit in the Church “is evident from the mere fact that it still exists after 2,000 years,” the website notes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://sermoncentral.com/bible/new-international-version-niv/isaiah-11-1-2?passage=Isaiah+11%3A1-2",
+      "https://www.spiritualask.com/spiritual-gifts-vs-gifts-of-the-holy-spirit/",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/ephesians-4-11?passage=Ephesians+4%3A11",
+      "https://sermoncentral.com/bible/new-international-version-niv/ephesians-4-11?passage=Ephesians+4%3A11",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/romans-12-6-8?passage=Romans+12%3A6-8",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-28",
+      "https://spiritualask.com/spiritual-gifts-vs-gifts-of-the-holy-spirit/",
+      "https://biblestudytools.com/bible-study/topical-studies/are-believers-given-7-gifts-of-the-holy-spirit.html",
+      "https://youcat.org/credopedia/gifts-of-the-holy-spirit",
+      "https://youcat.org/credopedia/gifts-of-the-holy-spirit/",
+      "https://www.youcat.org/credopedia/gifts-of-the-holy-spirit/",
+      "https://sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-7-10?passage=1+Corinthians+12%3A7-10",
+      "https://sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-28?passage=1+Corinthians+12%3A28",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/ephesians-4-11",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-28?passage=1+Corinthians+12%3A28",
+      "https://sermoncentral.com/bible/new-international-version-niv/romans-12-6-8?passage=Romans+12%3A6-8",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/isaiah-11-1-2",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/isaiah-11-1-2?passage=Isaiah+11%3A1-2",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/romans-12-6-8",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-7-10?passage=1+Corinthians+12%3A7-10",
+      "https://spiritualask.com/spiritual-gifts-vs-gifts-of-the-holy-spirit",
+      "https://www.sermoncentral.com/bible/new-international-version-niv/1-corinthians-12-7-10",
+      "https://www.biblestudytools.com/bible-study/topical-studies/are-believers-given-7-gifts-of-the-holy-spirit.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "holy spirit",
+          "sentiment": "negative"
+        },
+        {
+          "name": "catholic church",
+          "sentiment": "none"
+        },
+        {
+          "name": "corinthians",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T09:19:08.118+02:00",
+    "updated": "2023-12-29T09:19:08.118+02:00"
+  }
+]

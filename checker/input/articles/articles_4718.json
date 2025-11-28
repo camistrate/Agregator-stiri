@@ -1,0 +1,429 @@
+[
+  {
+    "uuid": "4973fd06fc0535c3f439dac6a331db582d3d4a64",
+    "url": "https://kdvr.com/news/politics/washington-dc-bureau/biden-announces-225m-aid-package-for-ukraine-during-nato-summit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reshad Hudson",
+    "published": "2024-07-11T21:48:00Z",
+    "title": "Biden announces $225M aid package for Ukraine during NATO summit",
+    "text": "WASHINGTON (NEXSTAR) -- During the final day of the 75th anniversary of the NATO summit in Washington, D.C., President Joe Biden announced a new $225 million aid package for Ukraine, including an additional Patriot missile system to bolster its air defenses against a deadly onslaught of Russian airstrikes.\nPresident Biden attended back-to-back meetings with foreign allies, including Ukrainian President Volodymyr Zelenskyy, on the final day of the NATO summit in the nation's capital.\n\"You made it clear Russia will not prevail,\" Biden said.\nZelenskyy thanked the U.S. for its continued support including April's $95 billion weapons package.\n\"And we're working with our NATO allies to ensure Ukraine is flying F-16s this summer, show the world that we stand with Ukraine now and in the future,\" Biden said.\n\"Together we are preserving Ukraine's independence and freedom,\" Zelenskyy said.\nWednesday night, President Biden hosted NATO leaders including Zelenskyy at the White House.\nOn Capitol Hill, Senate Republican leader Mitch McConnell slammed President Biden for being slow to send aid to Ukraine.\n\"This week would have been a great opportunity for the commander-in-chief to start backing up his words with firm commitments to start investing seriously, seriously in hard power,\" McConnell said.\nLooming large over the summit were President Biden's own political woes, but several world leaders expressed their confidence in the president.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "zelenskyy",
+          "sentiment": "none"
+        },
+        {
+          "name": "mitch mcconnell",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "volodymyr zelenskyy",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukra",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nato",
+          "sentiment": "negative"
+        },
+        {
+          "name": "senate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "washingto",
+          "sentiment": "none"
+        },
+        {
+          "name": "capitol hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "d.c.",
+          "sentiment": "none"
+        },
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T02:03:35.122+03:00",
+    "updated": "2024-07-12T02:03:35.122+03:00"
+  },
+  {
+    "uuid": "1564ff2d9f48f09de9ea46316526153f8a1ce152",
+    "url": "https://www.kalb.com:443/video/2025/04/09/pineville-man-arrested-meth-marijuana-charges",
+    "ord_in_thread": 0,
+    "author": "@KALBtv5",
+    "published": "2025-04-09T21:11:00Z",
+    "title": "Pineville man arrested on meth and marijuana charges",
+    "text": "Updated: 1 hour ago\nThis week marks six months since a mother and daughter were found dead in their Hornbeck home.\nUpdated: 8 hours ago\n|The Sierra Club’s Delta Chapter, an environmental group, hosted a town hall for local residents to learn more about carbon capture sequestration projects.\nUpdated: 11 hours ago\n|Freedom Baking Co. in Ball started selling the Dubai Chocolate Bars after getting multiple customer requests a day for them to have the products.\nUpdated: 18 hours ago\n|The Natchitoches Police Department has arrested a woman from Many following a car chase on April 8.\nUpdated: 18 hours ago\n|The Alexandria City Council unanimously passed an approximately $70 million budget.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Crime, Law and Justice->drug related crimes"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Natchitoches Police Department",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Alexandria City Council",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Freedom Baking Co.",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Sierra Club",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:31:29.462+03:00",
+    "updated": "2025-04-10T00:31:29.462+03:00"
+  },
+  {
+    "uuid": "91b5da282104f86bd06bda3c1bd964c77ac55c17",
+    "url": "https://www.canarias7.es/sociedad/mapa-saber-carreteras-cortadas-afectadas-dana-20241101071611-ntrc.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Javier Varela",
+    "published": "2024-11-01T06:16:00Z",
+    "title": "El mapa para saber qué carreteras están cortadas y afectadas por la DANA",
+    "text": "Secciones Servicios Destacamos Madrid Viernes, 1 de noviembre 2024, 06:16 Necesitas ser registrado para acceder a esta funcionalidad. Opciones para compartir La DANA que ha asolado la Comunidad de Valencia y Castilla-La Mancha ha dejado afectadas más de 150 carreteras, la mayoría de la red secundaria, afectadas. Autovías como la A-3 y A-7 registran tramos cortados. Desde la Dirección General de Tráfico (DGT) como el Ministerio de Transportes y Movilidad Urbana han pedido a los conductores no ponerse al volante, especialmente para desplazarse por vías de Valencia, Castellón y Cuenca en este puente de Todos los Santos. Esta jornada, la adversidad se concentra en puntos de Baleares y de Huelva y, de cara al fin de semana, la dana «puede volver a descargar tormentas en el Mediterráneo y alguna de intensidad fuerte». Por ello, la DGT ha habilitado un mapa interactivo con información actualizada de manera automática durante las 24 horas del día con los datos aportados por la Agrupación de Tráfico de la Guardia Civil. Noticias relacionadas En esta tipo de sutiuaciones hay que evitar cualquier tipo de desplazamiento, pero en caso de que por urgencia o necesidad haya que coger el vehículo, es importante planificar bien la ruta e informarse de la previsión meteorológica. Consulta el [mapa interactivo de la DGT.](https://infocar.dgt.es/etraffic/) Además, desde la herramienta Aemet, Meteoruta. se puede ver qué tiempo va a hacer en el camino. [Aquí puede consultarla.](http://meteoruta.aemet.es/p_index.html) En el mapa se puede ver el estado de las carreteras en tiempo real y buscar rutas alternativas cuando sea necesario desviarse. Mediante un menú desplegable y accesible desde la plataforma, los usuarios pueden seleccionar la provincia de interés para consultar detalladamente el estado de las carreteras. Publicidad Publicidad Publicidad Publicidad Comentar es una ventaja exclusiva para registrados ¿Ya eres registrado? Necesitas ser suscriptor para poder votar. Reporta un error en esta noticia",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Javier Varela",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Ministerio de Transportes y Movilidad Urbana",
+          "sentiment": "none"
+        },
+        {
+          "name": "Dirección General de Tráfico",
+          "sentiment": "none"
+        },
+        {
+          "name": "Agrupación de Tráfico",
+          "sentiment": "none"
+        },
+        {
+          "name": "Guardia Civil",
+          "sentiment": "none"
+        },
+        {
+          "name": "DGT",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-01T08:40:54.129+02:00",
+    "updated": "2024-11-01T12:57:36.703+02:00"
+  },
+  {
+    "uuid": "7b7d53531f2781af14cd92a3f5815c28cf291605",
+    "url": "https://vnexplorer.net/todo-por-el-equipo-bills-piden-a-sus-aficionados-ayuda-para-palear-nieve-en-el-estadio-s960684.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-01-13T14:11:00Z",
+    "title": "¡Todo por el equipo! Bills piden a sus aficionados ayuda para palear nieve en el estadio",
+    "text": "Buffalo ya se prepara para recibir a los Acereros de Pittsburgh en el juego de Comodines de los Playoff de la NFL. El equipo se verá las caras con los de Pensilvania el domingo a las 12:00 horas del centro de México, sin embargo, previo al juego han solicitado la ayuda de sus aficionados.\nEn un ambiente típico del norte de Estados Unidos, los Bills han recibido una nevada importante. A dos días del juego, el Highmark Stadium de Nueva York terminó sepultado por la nieve, por lo que el equipo necesita ayuda para dejarlo listo para el juego.\nEl estadio quedó sepultado por la nieve\n”Los Buffalo Bills y Jani-King están pidiendo a cualquier persona interesada en palear nieve dentro del estadio para preparar el lugar para el partido local de los Bills contra los Steelers. Los paleadores pueden palear nieve durante la noche del sábado hasta el domingo por la mañana si es necesario. La tarifa de pago es de $20 por hora. Se proporcionarán alimentos y descansos de cortesía durante los turnos en un área cómoda y cálida. Aquellos interesados ​​en palear deben tener una identificación con fotografía adecuada para trabajar”, reveló el equipo a través de un comunicado.\nSe preparan para los Playoffs\nDe acuerdo con reportes del clima, durante las siguientes horas estarán cayendo entre 1 y 3 pulgadas de nieves por hora. Ante esta situación el equipo ha solicitado la ayuda para mantener el estadio en buenas condiciones de cara al partido del domingo.\nLos Bills estarán buscando seguir con su racha ganadora, sin embargo, tendrá que hacer algo que no logran en casi 100 años, vencer a Pittsburgh en un juego de Playoffs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mTF5p.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mTSGv.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mTF5p.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mTSGv.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-13T16:36:06.231+02:00",
+    "updated": "2024-01-13T16:36:06.231+02:00"
+  },
+  {
+    "uuid": "83a57185816c6bd16bd172f0e4c50f3b82e9e041",
+    "url": "https://oaxaca.eluniversal.com.mx/metropoli/operativo-contra-pirotecnia-deriva-en-trifulca-y-bloqueos-en-la-ciudad-de-oaxaca",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ElUniversalOax",
+    "published": "2023-12-28T19:57:00Z",
+    "title": "Operativo contra pirotecnia deriva en trifulca y bloqueos en la ciudad de Oaxaca | Oaxaca",
+    "text": "Operativo contra pirotecnia deriva en trifulca y bloqueos en la ciudad de Oaxaca Comerciantes ambulantes se opusieron al decomiso de fuegos artificiales que pretendían realizar elementos de la policía capitalina; protestan en Periférico contra uniformados [Metrópoli](https://oaxaca.eluniversal.com.mx/secciones/metropoli)28/12/2023 13:57 Christian Jiménez Actualizada 13:57 Oaxaca de Juárez.- Un operativo de la Policía Municipal de la ciudad de Oaxaca en contra de la venta de pirotecnia en inmediaciones Central de Abasto derivó en un enfrentamiento entre comerciantes y elementos de esta corporación. El objetivo de la movilización policial fue el decomiso de pirotecnia, cuya venta es ilegal, ante lo cual los vendedores ambulantes opusieron resistencia. A fin de poner en marcha el operativo contra la pirotecnia, los uniformados llegaron a la zona mencionada y señalaron que fueron comerciantes quienes se opusieron a la intención del decomiso con agresiones físicas y verbales. Ante ello, aseguraron los policías, se replegaron. [#EnFotos]Bloquean Periférico a la altura de la Central de Abasto tras operativo y enfrentamiento por venta de pirotecnia; exigen apoyos al edil morenista de la ciudad de [#Oaxaca], Francisco Martínez Neri. : Mario Arturo Martínez [pic.twitter.com/fRGoicl0xu] — El Universal Oaxaca (@ElUniversalOax) [December 28, 2023] Momentos después, los vendedores ambulantes bloquearon Periférico para exigir sanciones a los uniformados, quienes presuntamente irrumpieron de forma violenta. También manifestaron la inconformidad por el operativo fallido. La movilizaciones en contra de la venta de pirotecnia comenzaron ayer, cuando efectivos policiacos decomisaron 35 kilos de fuegos artificiales en la Central de Abasto. En ese primer operativo se encontraron cohetes chinos, cohetes, petardos, candelas, chilladores, palomas, chispas y otros fuegos tradicionales no aptos para menores de edad. Apenas en agosto pasado, el Congreso de Oaxaca aprobó una iniciativa que faculta a los órdenes de gobierno estatal y municipal para implementar los mecanismos necesarios para la protección de las personas, mediante acciones de prevención y control en el uso de fuegos artificiales. Y por otro lado brinda atribuciones al organismo de Protección Civil y Gestión Integral de Riesgos de Desastres del Estado de Oaxaca para emitir dictámenes de seguridad, control y vigilancia del uso de la pirotecnia, en apego a la ley federal en la materia, así como para fomentar la cultura de la prevención en su uso. Lo anterior mediante reformas a la Ley Orgánica Municipal para el Estado de Oaxaca y la de Protección Civil propia de la entidad, mismas que buscan “preservar la integridad personal y protección del patrimonio privado, así como evitar daños al medio ambiente y a los animales domésticos, entre otros efectos”. En tanto, en un comunicado, el ayuntamiento de Oaxaca de Juárez señaló que con el fin de “salvaguardar la seguridad de las familias oaxaqueñas y evitar accidentes particularmente en niñas y niños”, el gobierno municipal, a través de la Secretaría de Seguridad Ciudadana, Movilidad y Protección Civil lleva a cabo operativos en contra de la venta ilegal de pirotecnia en las inmediaciones del mercado de Abasto. Agrega que el operativo fue resultado de denuncias de comerciantes sobre la presencia de puestos ofreciendo pirotecnia. \"Este riesgo no sólo afecta a los comerciantes, sino también representa una amenaza para la ciudadanía en general. Hemos visto lo que polvorines de esta naturaleza pueden ocasionar si no se toman decisiones firmes\", cita el texto del gobierno municipal, encabezado por Francisco Martínez Neri (Morena). Por otro lado, el ayuntamiento hizo un llamado al diálogo a los comerciantes que venden estos tipos de productos ilegales “a fin de evitar perjudicar a terceros”, lo anterior ante la instalación de los bloques. Lee más: [VIDEO. Dan golpiza a presuntos asaltantes de tienda en la colonia Los Silos, en SLP](https://sanluis.eluniversal.com.mx/metropoli/video-dan-golpiza-a-presuntos-asaltantes-de-tienda-en-la-colonia-los-silos-en-slp/) En su protesta, los inconformes dirigen sus reclamos a Martínez Neri, a quien le exigen apoyos sociales ante los operativos en contra de la venta de pirotecnia, que representa una cantidad significativa de ingresos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:07:59.637+02:00",
+    "updated": "2023-12-29T00:07:59.637+02:00"
+  },
+  {
+    "uuid": "ff9a64186a7d626bcf900d0ed1c8312b66a73b13",
+    "url": "https://www.rt.com/news/604748-lebanon-israel-strikes-death-toll",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Russia Today",
+    "published": "2024-09-26T20:24:00Z",
+    "title": "Israel’s goal is to ‘spread terror’ – Lebanese health minister to RT — RT World News",
+    "text": "As of Thursday evening, more than 1,300 people have been killed and almost 7,000 wounded in the Israeli bombing campaign, Lebanese Health Minister Firass Abiad told RT.\nIsrael has been bombing Lebanon for almost a week, in what the Israel Defense Forces dubbed “Operation Northern Arrows.” West Jerusalem says the strikes are aimed at damaging the capabilities of Hezbollah, the Shia militia based in the south of the country.\n“On Black Monday, we had almost 600 innocent civilians who were killed, including 140 women and children, and almost 1800 injured, including healthcare professionals,” Abiad told RT in Beirut.\n“Unfortunately, the carnage continues daily,” he added, bringing up the updated casualty figures.\nAccording to Abiad, Israel has carried out “indiscriminate attacks on civilians,” starting with exploding communications devices and continuing with the bombing campaign.\nREAD MORE: Netanyahu tells troops to fight ‘with full force’ in Lebanon “I think that the main aim of these indiscriminate attacks is to spread an atmosphere of terror and to cause mass exodus,” the health minister said.\nThe IDF said on Thursday that it had carried out over 1,500 sorties against Lebanon since the beginning of the week, confirming strikes on southern Beirut and the Matraba border crossing between Lebanon and Syria, among others.\nThe strike on the Beirut suburb of Dahiyeh targeted Mohammed Srur, also known as Abu Saleh, whom the IDF has accused of being commander of Hezbollah’s drone, cruise missile and air defense branch.\nREAD MORE: Lebanon could become another Gaza – Russian ambassador Israeli Prime Minister Benjamin Netanyahu has denied all rumors of a ceasefire and said he had instructed the IDF to “continue fighting with full force.”\nMeanwhile, the IDF has announced the impending delivery of $8.7 billion worth of military aid from the US, describing it as mainly ammunition for air defense systems.\nYou can share this story on social media: Follow RT on",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://t.me/rtnews",
+      "https://odysee.com/$/embed/@RT:fd/firasabyad26:0?r=DgHnnv4rAGzFTWTdtN7a1iQYM71AXarq",
+      "https://odysee.com/$/embed/@RT:fd/firasabyad26:0",
+      "https://www.t.me/rtnews",
+      "https://www.odysee.com/$/embed/@RT:fd/firasabyad26:0?r=DgHnnv4rAGzFTWTdtN7a1iQYM71AXarq"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:32:24.805+03:00",
+    "updated": "2024-09-27T02:32:24.805+03:00"
+  },
+  {
+    "uuid": "980c5fa4d7d6e09c60717c1739881a4d1b5747dd",
+    "url": "https://www.bahianoticias.com.br/holofote/noticia/77589-video-o-kannalha-aquece-o-verao-com-o-molho-o-ensaio-de-maridao",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@BahiaNoticias",
+    "published": "2025-01-23T21:20:00Z",
+    "title": "VÍDEO: O Kannalha aquece o verão com 'O Molho: O Ensaio de Maridão'",
+    "text": "VÍDEO: O Kannalha aquece o verão com 'O Molho: O Ensaio de Maridão'\nPor Alana Dias\nMostrando que tem a senha, O Kannalha deu início ao verão de 2025 com o pé direito ao realizar, em Salvador, o primeiro ensaio da temporada. O show \"O Molho: O Ensaio do Maridão\" aconteceu na Praça das Artes, no Pelourinho, e marcou o lançamento de uma das grandes apostas do cantor para o verão: a música \"Maridonas\".\nA noite contou com participações especiais de peso: Filhos de Jorge, Afrocidade, Baco Exu do Blues e Márcio Victor, garantindo uma mistura de ritmos e muita vibração. A abertura ficou a cargo do cantor e compositor Diggo, que aqueceu o público.\nEm entrevista ao Bahia Notícias, O Kannalha revelou que este verão será especial. O público pode esperar pelo lançamento de seu novo EP, que trará a aposta do artista para a música do Carnaval 2025. Além disso, ele já anunciou a segunda edição do ensaio, que promete ser ainda maior. O evento será realizado na próxima quarta-feira, dia 29 de janeiro, e contará com a participação especial da cantora Pabllo Vittar, elevando ainda mais a expectativa dos fãs. Os ingressos já estão à venda na plataforma Sympla.\nConfira:\nCom um início de temporada tão marcante, O Kannalha reforça sua posição como um dos nomes mais promissores do cenário do Pagode Baiano, trazendo muito \"molho\" para o Carnaval 2025.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->trend",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:27:23.310+02:00",
+    "updated": "2025-01-24T00:27:23.310+02:00"
+  },
+  {
+    "uuid": "6be87293a1c810f3a1b33e983efae1f72b791449",
+    "url": "https://finance.sina.com.cn/roll/2025-03-13/doc-inepnchr7064688.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sina.com.cn",
+    "published": "2025-03-12T22:40:00Z",
+    "title": "生物航煤:2025年欧洲2%添加目标，贸易商订单增多，国内成本优势明显_新浪财经_新浪网",
+    "text": "01. 生物航煤专家称，2025年欧洲对生物航煤有2%的添加目标，Q1观望较多，使用量未达2%，但从2月开始，贸易商咨询订单量增多，需求有上升趋势。目前国内企业生物航煤具有成本优势，完全成本为1750美元/吨，国外企业比国内高200~300美元/吨，欧洲UCO价格约1450美元/吨，国内约1030美元/吨。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "topics": [
+      "Economy, Business and Finance->energy and resource",
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->economy",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T00:52:30.816+02:00",
+    "updated": "2025-03-13T00:52:30.816+02:00"
+  }
+]

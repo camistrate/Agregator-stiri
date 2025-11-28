@@ -1,0 +1,210 @@
+[
+  {
+    "uuid": "1fa18dfaeb2b19fd14c3c3646feb66eb1882587e",
+    "url": "https://www.europapress.es/navarra/noticia-extinguido-incendio-declarado-pinar-sesma-20250710185431.html",
+    "ord_in_thread": 0,
+    "author": "Europa Press Navarra",
+    "published": "2025-07-10T16:54:00Z",
+    "title": "Extinguido un incendio declarado en un pinar en Sesma",
+    "text": "PAMPLONA 10 Jul. (EUROPA PRESS) -\nBomberos de Navarra han extinguido un incendio declarado en un pinar en Monteayuso, en la localidad de Sesma, según han informado desde el Gobierno foral.\nEl aviso se ha recibido a las 13.03 horas y el incendio ha sido extinguido hacia las 14.40 horas. Hasta el lugar han sido movilizados bomberos del parque de Lodosa y de Estella, la Brigada Helitransportada (BHIF), un helicóptero, guardas forestales de Medio Ambiente y agentes de Policía Foral.\nIncendio",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Environment",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->fire",
+      "Environment->environmental clean-up",
+      "Environment->natural resources",
+      "Environment->nature",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_es",
+        "top_news_pe",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T20:55:49.222+03:00",
+    "updated": "2025-07-11T18:09:53.000+00:00"
+  },
+  {
+    "uuid": "430ec2e9d20d3f37f2e01e07cc0cb41d054152c7",
+    "url": "https://www.elespanol.com/castilla-y-leon/region/zamora/20250626/uned-zamora-cerrara-publico-obras-colegio-universitario/1003743822017_0.html",
+    "ord_in_thread": 0,
+    "author": "Diana Serrano",
+    "published": "2025-06-26T10:24:00Z",
+    "title": "La UNED en Zamora cerrará al público por las obras en el Colegio Universitario",
+    "text": "El Centro Asociado de la Universidad Nacional de Educación a Distancia en Zamora permanecerá cerrado al público desde el 30 de junio hasta el 31 de julio debido a las obras de rehabilitación del Colegio Universitario, edificio en el que se ubica.\nDurante este período, la atención a estudiantes, público en general y los trámites administrativos se seguirán realizando de forma telemática.\nLas vías habilitadas son el correo electrónico info@zamora.uned.es, las redes sociales del centro y el teléfono 980 52 83 99, en horario de 9:00 a 14:00 horas.\nAdemás, el centro permanecerá abierto con horario presencial reducido, de 9:00 a 14:00 horas, entre los días 23 y 27 de junio (ambos inclusive) por las Ferias y Fiestas de San Pedro.\nProceso de admisión abierto hasta octubre Por otra parte, la UNED mantiene abierto el plazo de admisión para sus estudios de Grado desde el 16 de junio hasta el 23 de octubre de 2025.\nLa admisión tiene como finalidad solicitar traslado de expediente o simultaneidad de estudios desde otra Universidad Española a la UNED. La institución recuerda que para los estudios de Grado no existe límite de plazas.\nDeben solicitar la admisión quienes hayan superado las pruebas de acceso para mayores de 25 o 45 años en una universidad distinta a la UNED; quienes hayan comenzado estudios universitarios oficiales en otra universidad española y deseen continuar en la UNED mediante el traslado de expediente; y quienes estén matriculados en otra universidad española y quieran simultanear sus estudios con un Grado en esta institución.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->online and remote learning",
+      "Education->college and university",
+      "Politics->education policy",
+      "Politics->local government and authority",
+      "Politics->government",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Zamora",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Colegio Universitario",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Fiestas de San Pedro",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Universidad Española",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "UNED",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_ar",
+        "top_news_ve",
+        "top_news_pe",
+        "top_news_co",
+        "top_news_mx",
+        "top_news_cl",
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T13:32:43.482+03:00",
+    "updated": "2025-06-27T11:07:49.000+00:00"
+  },
+  {
+    "uuid": "02f3ba0331806a06a7739a47fd5b924f89d6de34",
+    "url": "https://www.naidunia.com/technology/tech-apple-iphone-fold-may-launch-in-september-2026-crease-free-display-a20-chip-know-the-apple-first-foldable-iphone-price-8398188",
+    "ord_in_thread": 0,
+    "author": "@Nai Dunia",
+    "published": "2025-07-31T03:55:00Z",
+    "title": "Apple iPhone Fold सितंबर 2026 में हो सकता है लॉन्च, कीमत जानकर उड़ जाएंगे होश",
+    "text": "टेक्नोलॉजी डेस्क, इंदौर। Apple अब फोल्डेबल स्मार्टफोन की दौड़ में उतरने जा रहा है। जेपीमॉर्गन की एक नई रिपोर्ट के अनुसार कंपनी सितंबर 2026 में अपनी पहली फोल्डेबल iPhone लॉन्च कर सकती है। यह iPhone 18 लाइनअप का हिस्सा हो सकता है। आपका बता दें कि इस फोल्डेबल स्मार्टफोन सेगमेंट में सैमसंग पहले से ही मौजूद है। ऐसे में फोल्डेबल मार्केट में एप्पल के उतरने से मुकाबला रोचक हो जाएगा।\nजेपीमॉर्गन का अनुमान है कि iPhone Fold की कीमत अमेरिका में $1,999 से शुरू हो सकती है। भारत में टैक्स और इंपोर्ट ड्यूटी को मिलाकर इसकी संभावित कीमत 1,74,900 रुपये तक जा सकती है। यह डिवाइस प्रीमियम यूजर्स और टेक्नोलॉजी के शुरुआती अपनाने वालों को टार्गेट करेगा।",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_in",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:06:15.870+03:00",
+    "updated": "2025-08-01T09:05:48.000+03:00"
+  }
+]

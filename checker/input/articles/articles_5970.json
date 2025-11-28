@@ -1,0 +1,273 @@
+[
+  {
+    "uuid": "733c72a52b060798c9e3f715c27ffbfa8b140d3d",
+    "url": "https://www.freecodecamp.org/news/ai-web-development-tutorial-figma-designs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Beau Carnes",
+    "published": "2024-04-11T19:12:00Z",
+    "title": "One-Click AI Web Development Tutorial - Learn how to Turn Figma Designs into Working Code using AI [Full Course]",
+    "text": "There are many ways that AI can help speed up web development. We just posted a course on the freeCodeCamp.org YouTube channel that will show you how to convert Figma designs into working code with just one click using AI.\nAnia Kubów developed this course. She is one of our most popular instructors. She will show you how to transform your Figma designs into code using Locofy, and also how to prepare to deploy the complete application.\nYou will learn to easily create an Airbnb clone. This app isn't just a static display of properties; it's a dynamic platform where users can sign up, sign in, and interact with property data in real-time. This course will take you from a raw design in Figma to a live application, covering every step in between.\nCourse Contents\nThe course starts with an introduction to Figma, a leading tool in collaborative web design that allows for real-time UI and UX development. You will then dive into the actual design of the 'localhost' app (that's the name of the Airbnb clone), laying the groundwork for the transformative steps ahead.\nThe heart of the course is the introduction to Locofy Lightning and LocoAI, tools that convert Figma designs into high-quality, production-ready frontend code. This AI-driven process is not only efficient but also adaptable, providing code that's ready for further customization if needed. Locofy provided a grant to make this course possible.\nThis tutorial isn't just about converting designs into code; it's about making that code functional and interactive. You'll learn how to sync the generated code to GitHub, integrate a database, set up authentication, and finally, deploy the app using Netlify.\nWith technologies like React for the frontend, Node.js for the backend, MongoDB for database management, and Netlify for deployment, you are in for a comprehensive development experience.\nWhy This Course?\n- Hands-on Learning: From design to deployment, you'll get hands-on experience with every aspect of building a web application.\n- AI-Powered Efficiency: Discover how AI can streamline the development process, turning complex designs into usable code in an instant.\n- Expert Guidance: Ania Kubów, with her extensive experience and clear teaching style, will be your guide, ensuring you understand each step of the process.\nWhether you're a seasoned developer looking to integrate AI into your workflow or a beginner eager to explore the intersection of design and coding, this course is designed to offer valuable insights and practical skills. Watch the full course on\nthe freeCodeCamp.org YouTube channel (2-hour watch).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education"
+    ],
+    "external_links": [
+      "https://youtu.be/-kLs1NGt3ys",
+      "https://www.youtu.be/-kLs1NGt3ys"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ania kubów",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "decamp.org youtube",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "figma",
+          "sentiment": "none"
+        },
+        {
+          "name": "locofy",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-12T01:41:28.058+03:00",
+    "updated": "2024-04-12T01:41:28.058+03:00"
+  },
+  {
+    "uuid": "cc0d68e4c6f389832a51af8214b8246391cded0c",
+    "url": "https://www.lanazione.it/firenze/cronaca/piu-sicurezza-e-verde-il-modello-san-jacopino-1f5c623a",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Nazione",
+    "published": "2024-10-04T03:55:00Z",
+    "title": "Più sicurezza e verde. Il modello San Jacopino",
+    "text": "Nacque nel 2014 dall’idea di alcuni cittadini che volevano porre soluzione alle piccole problematiche del quartiere e di strada ne ha calcata, in senso letterale: è il Comitato cittadini attivi San Jacopino.\n\"Un giorno ci siamo detti perché non cominciare a costruire qualcosa per segnalare all’amministrazione cartelli piegati, strisce che non si vedevano più? – ricorda il presidente Simone Gianfaldoni – E questo ha funzionato bene, abbiamo subito avuto una buona interlocuzione con l’amministrazione. Nel tempo siamo aumentati e oggi siamo una cinquantina e abbiamo un gruppo Whatsapp per le segnalazioni, siamo diventati sempre più attivi dedicandoci al decoro del quartiere: chi sistema i fiori, chi toglie le erbacce, chi annaffia…\". Dai piccoli problemi a quelli più grandi, anche perché la città si è trovata negli anni schiacciata dalla delinquenza: \"Abbiamo poi allargato al problema della sicurezza del quartiere intavolando collaborazioni con le forze dell’ordine – continua Gianfaldoni –. Stiamo cercando di attenzionare tutti i problemi dall’ubriachezza molesta, che qui con le comunità sudamericane è molto presente soprattutto tra primavera a settembre, la violenza, la microcriminalità che sta aumentando, io stesso sono stato aggredito e scippato settimana scorsa lungo la ciclabile di viale Redi, poi siringhe in terra, crack fumato per strada, una quarantina di spaccate in un anno ai negozi\".\nTutto rigorosamente in chiave civica: \"Lo facciamo e lo faccio per il quartiere, per senso civico, non mi sono mai voluto candidare. Il comitato nasce apolitico e apartitico\". E il civismo ha portato i suoi risultati: \"Le spaccate ai finestrini delle auto sono diminuite, anche se purtroppo si sono spostate in zona Ponte alla Vittoria\".\nCarlo Casini",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Social Issue",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T08:07:44.068+03:00",
+    "updated": "2024-10-04T08:07:44.068+03:00"
+  },
+  {
+    "uuid": "ac76b464e2039fc729beebbdb65b1796505a676e",
+    "url": "https://www.palestinechronicle.com/behind-enemy-lines-al-qassam-announces-new-daring-operation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin",
+    "published": "2024-06-06T00:00:00Z",
+    "title": "‘Behind Enemy Lines’ – Al-Qassam Announces New Daring Operation - Palestine Chronicle",
+    "text": "By Palestine Chronicle Staff\nThe Israeli army also announced the killing of one of its soldiers during what it described as a thwarted attempt by Palestinians to infiltrate the Kerem Shalom area. The Al-Qassam Brigades, the military wing of the Palestinian Resistance Movement Hamas, announced on Thursday the breach of the separation fence with Israel, while confirming the killing of five Israeli soldiers in another operation in Rafah.\n“In a landing operation behind the (enemy) lines, the Al-Qassam Mujahideen were able to breach the fence and attack the headquarters of the enemy division operating in the city of Rafah in the southern Gaza Strip,” Al-Qassam said in a brief statement on Thursday.\nThis came after the occupation forces admitted earlier today that a soldier was killed, and a number of other soldiers were injured in Palestinian Resistance operations in Rafah.\nThe Israeli army also announced the killing of one of its soldiers and three “Palestinian gunmen” during what it described as a thwarted attempt by Palestinians to infiltrate the Kerem Shalom area, east of Rafah, at dawn today.\nIn new footage, first aired by Al-Jazeera Arabic channel, Al-Qassam revealed its most complex military operation since the start of the Israel war on Gaza.\nThe Beit Hanoun ambush was carried out by Al-Qassam Brigades, the military wing of the Palestinian Resistance Movement… pic.twitter.com/tcFw0l45Ab\n— The Palestine Chronicle (@PalestineChron) June 6, 2024\nRafah Ambush In another operation, the Al-Qassam Brigades announced that five Israeli soldiers had been killed after blowing up the opening of a tunnel west of Rafah.\n“Our mujahideen managed at dawn today to blow up a tunnel eye that was pre-booby-trapped,” targeting “a Zionist foot force consisting of five soldiers and eliminating it near Tal Zurub, west of Rafah,” al-Qassam said in a statement.\nThese developments coincided with the confirmation of the occupation army radio that the army reduced its forces in the city of Rafah, and that the “Basalmah” brigade left Rafah while five brigades remained in the city.\nThe Three-Phase Ambush of Beit Hanoun – Resistance Roundup – Day 244\nSince May 6, the Israeli military has launched a ground offensive on Rafah, forcing more than a million displaced Palestinians to relocate under catastrophic conditions.\nThe Israel Broadcasting Corporation (KAN) said the army expects its main tasks in Rafah to be completed by the end of June, explaining that these tasks include “the dismantling of the last Hamas brigade and the destruction of tunnels along the Philadelphia (Salah al-Din) border axis with Egypt.”\n(PC, AJA)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kerem shalom",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "palestinian resistance movement hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-qassam",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-qassam mujahideen",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-qassam brigades",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "kerem shalom",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "rafah",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:29:47.754+03:00",
+    "updated": "2024-06-07T01:34:01.045+03:00"
+  },
+  {
+    "uuid": "e1a587d55f5351450bcb5674ec8368a6a8b08b90",
+    "url": "https://www.ara.cat/societat/bombers-treballen-controlar-foc-baix-ebre-ajudats-pluja_1_5438672.html",
+    "ord_in_thread": 0,
+    "author": "Ara",
+    "published": "2025-07-10T06:27:00Z",
+    "title": "Els bombers treballen per controlar el foc al Baix Ebre ajudats per la pluja",
+    "text": "Els bombers treballen per controlar el foc al Baix Ebre ajudats per la pluja\nLes precipitacions que han caigut sobre l'àrea de l'incendi han refrescat la superfície\nBarcelonaLes tasques d'extinció de l'incendi de Paüls, al Baix Ebre, han continuat sense treva al llarg de la tercera nit des que es va originar. Els Bombers de la Generalitat confien a poder controlar el foc durant el dia d'avui després que dimecres es donés per estabilitzat amb una superfície de més de 3.300 hectàrees afectades. A més, la pluja que ha caigut a la zona al llarg de la matinada ha contribuït a remullar el terreny. Han estat quantitats no gaire importants en format de xàfecs i tempestes, segons informa Xavi Segura, però la seva irrupció, juntament amb la baixada de la temperatura, ha estat una bona notícia per als bombers.\nL'escenari d'aquest foc ferotge, que es va estendre ràpidament dilluns a la tarda empès pel fort vent de mestral, va fer el tomb finalment ahir al matí, quan els bombers van aconseguir estabilitzar les flames. Això va permetre aixecar la majoria dels confinaments que afectaven 18.000 veïns de diverses poblacions. Els últims a recuperar la mobilitat van ser els habitants de Paüls, la població on va començar el foc, que van rebre el vistiplau per desconfinar-se dimecres cap al vespre.\nLes condicions meteorològiques i les tasques fetes al llarg de la nit per assegurar el perímetre i impedir la represa de les flames a les zones encara més calentes donen confiança als bombers de poder donar per controlat l'incendi les pròximes hores.\nEls veïns, un cop desconfinats, van poder sortir dimecres a comprovar els danys causats pel foc sobre el terreny i als seus masos o finques. “No ens ho pensàvem, però la casa s'ha salvat. El foc ha passat pel barranc del costat”, explicava a l'ARA la Núria, una de les afectades.\nEn paral·lel, el cos d'Agents Rurals i els Mossos d'Esquadra han creat un grup d'investigació per aclarir l'origen de l'incendi conjuntament. En declaracions als periodistes, remarquen que la investigació és molt complexa, però que ja han aconseguit delimitar la zona d'entre una o dues hectàrees on s'hauria iniciat el foc.\nEl que se sap fins ara és que l'inici de l'incendi es va produir en una zona forestal on es pot accedir amb certa facilitat i que seria en un dels extrems del foc. \"Ara mateix no hi ha una causa probable, haurem de veure moltes coses i descartar-ne també moltes altres\", va subratllar dimecres el subinspector del cos d’Agents Rurals Xavier Gilabert.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "catalan",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "topics": [
+      "Disaster and Accident->fire",
+      "Environment->natural resources",
+      "Environment->nature",
+      "Environment->environmental clean-up"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_es",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T10:48:44.483+03:00",
+    "updated": "2025-07-11T08:08:16.000+00:00"
+  },
+  {
+    "uuid": "93b6e82e219ce66969434c61445e7f6502c14fd2",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367745.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:32:00Z",
+    "title": "基建ETF（516950）跌1.94%，半日成交额1360.08万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，基建ETF（516950）跌1.94%，报1.012元，成交额1360.08万元。基建ETF（516950）重仓股方面， 中国建筑 截止午盘跌1.74%， 中国中铁 跌1.28%， 三一重工 跌2.02%， 中国电建 跌1.87%， 徐工机械 跌2.15%， 中联重科 跌1.54%， 中国铁建 跌1.14%， 中国交建 跌2.16%， 中国能建 跌0.45%， 中国化学 跌2.67%。\n基建ETF（516950）业绩比较基准为中证基建指数收益率，管理人为银华基金管理股份有限公司，基金经理为王帅，成立（2021-04-29）以来回报为3.07%，近一个月回报为-0.85%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:11.078+03:00",
+    "updated": "2025-06-20T05:05:10.000+00:00"
+  }
+]

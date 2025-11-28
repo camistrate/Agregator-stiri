@@ -1,0 +1,204 @@
+[
+  {
+    "uuid": "93ab01676e187b2669e12d2da2d5bf131c5bc93d",
+    "url": "https://www.elimparcial.com/mexico/2025/05/08/clausura-profepa-empresa-en-chiapas-por-irregularidades-en-manejo-de-aguas-residuales",
+    "ord_in_thread": 0,
+    "author": "Gabriela Rivera",
+    "published": "2025-05-08T01:43:00Z",
+    "title": "Clausura Profepa empresa en Chiapas por irregularidades en manejo de aguas residuales",
+    "text": "Clausura Profepa empresa en Chiapas por irregularidades en manejo de aguas residuales\nProfepa clausura parcialmente una planta procesadora de mojarra en Socoltenango por descargar aguas residuales sin permiso y sin tratamiento adecuado, e impone ocho medidas urgentes para proteger el medio ambiente.\nSocoltenango, Chiapas, a 7 de mayo de 2025. — La Procuraduría Federal de Protección al Ambiente (Profepa) clausuró de manera parcial las operaciones del establecimiento Bio-World Products INC, ubicado en la localidad de El Santuario, municipio de Socoltenango, tras detectar diversas irregularidades ambientales relacionadas con el manejo de aguas residuales generadas durante la extracción de vísceras de mojarra tilapia.\nTe puede interesar: Derrame químico en Ternium: Profepa supervisa limpieza y exige reparación de daños\nDurante una visita de inspección realizada el 30 de abril, personal de la Profepa comprobó que la empresa no cuenta con permiso para la descarga de aguas residuales y carece de un sistema de tratamiento con las especificaciones técnicas necesarias. Tampoco presentó reportes de monitoreo que acrediten el cumplimiento con la NOM-001-SEMARNAT-2021, ni comprobantes del pago de derechos federales, registros operativos, medidores, accesos para muestreo ni documentación que garantice la operación adecuada del sistema por parte de personal capacitado.\nOcho medidas urgentes por riesgo ambiental\nAnte las violaciones detectadas, la Profepa impuso ocho medidas de urgente aplicación para mitigar los riesgos ambientales, así como la clausura temporal parcial del área de extracción, considerada fuente directa de contaminación hídrica. Entre los riesgos más graves se encuentra la descarga de aguas residuales sin tratamiento adecuado, las cuales pueden contener compuestos dañinos como nitrógeno, fósforo, coliformes fecales y sustancias orgánicas que afectan el agua, el suelo y los ecosistemas locales.\n🚧 Como parte de las acciones de inspección y vigilancia a las fuentes generadoras de descarga de aguas residuales, la...\nPosted by[PROFEPA]on[Wednesday, May 7, 2025]\nProcedimiento legal y seguimiento\nLa autoridad ambiental federal confirmó que dará seguimiento técnico y jurídico al caso para verificar el cumplimiento de las medidas impuestas y determinar las sanciones administrativas correspondientes. El objetivo es garantizar que la actividad industrial se desarrolle dentro del marco normativo y con un enfoque de responsabilidad socioambiental.\nTambién te puede interesar: Profepa intensifica acciones para proteger a primates en el sureste de México ante temporada de estiaje\nCon esta acción, la Profepa reafirma su compromiso de proteger los recursos naturales en Chiapas, velando por que las operaciones industriales no pongan en riesgo la salud pública ni la biodiversidad de las comunidades cercanas.\nSigue nuestro canal de WhatsApp\nRecibe las noticias más importantes del día. Da click aquí",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Environment->environmental clean-up",
+      "Environment->water pollution",
+      "Economy, Business and Finance->corporate governance and csr",
+      "Economy, Business and Finance->business governance",
+      "Economy, Business and Finance->energy and resource"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Chiapas",
+          "sentiment": "none"
+        },
+        {
+          "name": "El",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Clausura Profepa",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Procuraduría Federal de Protección al Ambiente",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T05:51:30.923+03:00",
+    "updated": "2025-05-08T02:53:53.000+00:00"
+  },
+  {
+    "uuid": "5b82127de651e5bdc9f09f386c9f5cc033716317",
+    "url": "https://dataconomy.com/2024/11/15/lazarus-group-targets-macos-with-rustyattr-trojan-malware",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kerem Gülen",
+    "published": "2024-11-15T09:59:00Z",
+    "title": "Lazarus Group targets macOS with RustyAttr trojan malware",
+    "text": "The Lazarus Group targets macOS with a new trojan malware named RustyAttr, revealing an advanced method of hiding malicious code via extended attributes in",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ss64.com/mac/xattr.html",
+      "https://unsplash.com/photos/computer-screen-monitor-Ek9Znm8lQ1U",
+      "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus/",
+      "https://www.ss64.com/mac/xattr.html",
+      "https://www.unsplash.com/photos/computer-screen-monitor-Ek9Znm8lQ1U",
+      "https://www.group-ib.com/blog/stealthy-attributes-of-apt-lazarus",
+      "https://group-ib.com/blog/stealthy-attributes-of-apt-lazarus/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T13:19:55.467+02:00",
+    "updated": "2024-11-15T16:32:06.885+02:00"
+  },
+  {
+    "uuid": "11471e54d22a5261fb79e1d20833cdf472f1d46f",
+    "url": "https://www.ara.cat/opinio/twittercat-pais-massa-petit_129_4896509.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elvira Prado-Fabregat",
+    "published": "2023-12-29T16:00:00Z",
+    "title": "TwitterCat: un país (massa) petit",
+    "text": "TwitterCat: un país (massa) petit\nInternet té la capacitat de diluir fronteres, de crear un espai mental compartit que sembla anul·lar la corporalitat. Aquesta capacitat de transcendir la matèria té alguns avantatges clars: Twitter ha fet quasi tangible, i d’alguna manera ha enfortit, la comunitat dels Països Catalans. Però la cultura de la confrontació que regna a la xarxa també posa a prova la nostra cohesió com a grup (en perill d’extinció).\nLa divisió social no és fàcil d’eludir. Ho explica molt bé Marta Rojals a Primavera, estiu, etcètera: \"La Ratlla divideix carrers i cases, fa frontera de trossos i camins. Si ha de partir una família per mig, la parteix per mig\". Rojals parla de \"les escletxes de la guerra\", tan invisibles com difícils de tancar. I si bé és cert que els contextos canvien, també ho és que hi ha dinàmiques que sembla que sempre continuïn vigents. D’aquesta tendència a l’escissió ara en diem polarització, una paraula que està de moda entre politòlegs i sociòlegs. Per intentar entendre l’aparent radicalització de les opinions, el 2022 es va publicar als Estats Units el primer\níndex de polarització, on hi ha recollits els temes que desperten més controvèrsia. També aquí les polèmiques són interminables: de la crisi climàtica a la llengua o els resultats de l’informe PISA. Sempre hi ha algun tema roent a Twitter. Però la xarxa no és només un espai de debat, sinó el lloc des d’on assenyalar i deixar en evidència els altres. Els de l’altra banda/bàndol. Les xarxes, sense cap mena de dubte, contribueixen a polaritzar les opinions dels usuaris (en l’àmbit digital som usuaris, més que no pas ciutadans). És més, busquen promoure la polarització: tothom vol treure rèdit de les opinions més provocadores i les batusses dialèctiques, que augmenten l’engatjament.\nEn\nun vídeo difícil de trobar a YouTube, el creador de Twitter explicava el funcionament de la xarxa el 2006. Jack Dorsey tenia aleshores 123 amics i 90 seguidors i el timeline del que ara hem d’anomenar X duia per títol “El que tu i els teus amics feu (24 h)”. Aquella xarxa de col·legues va començar a créixer exponencialment fins a esdevenir l’àgora digital on ara té lloc “la conversa global”. El 2019, gairebé tretze anys més tard, Jack Dorsey es veia obligat a donar explicacions en una entrevista: el descontentament social amb la xarxa als Estats Units anava en augment i calia calmar l’opinió pública. Dorsey reconeixia haver pres males decisions –com la de l’èmfasi descarat en la lluita per l’atenció i els seguidors–, però evitava contestar quanta gent treballava moderant l’abús i l’assetjament. Això sí, es comprometia a prendre mesures per promoure converses respectuoses. Malgrat les bones intencions, però, les dinàmiques de Twitter s’havien enquistat tant que Dorsey va preferir desentendre-se’n i posar la seva creació en mans d’Elon Musk. La deriva ja la coneixeu: les converses –globals, locals, grupals– són cada cop més feridores. Ja s’entén que l’esperit de Twitter és sorneguer, punxegut, propens a un cert escarni enginyós, però d’aquí al linxament públic hi va un bon tros.\nEl 1980, George Lakoff i Mark Johnson van publicar\nMetaphors we live by, un llibre que ha esdevingut un clàssic. A l’estudi, el lingüista i el filòsof identifiquen les metàfores quotidianes que influeixen en la nostra manera d’actuar. Una de les metàfores conceptuals que analitzen és la que evidencia que una discussió és una guerra (“la teva posició és indefensable”, “em va atacar amb unes dades irrefutables”). La metàfora del debat com a batalla dialèctica ens fa veure l’altre com a oponent, ens fa voler guanyar. Si això ja anava així abans de Twitter, ara som més esclaus de la metàfora que mai: afrontem les discussions digitals ben ancorats en el bel·licisme. Tot i que sovint no podem canviar l’opinió de l’altre, sempre podem torpedinar-lo davant de tothom (qualsevol opinió, aquesta meva inclosa, té una línia de flotació llaminera). Aquest 2023 hi ha hagut discussions sobre els que escriuen llibres amb massa intrusions del castellà, els que voten o no voten a les eleccions generals de l’Estat, la forma de condemnar la violència, els musicals de gran format que no es fan en català, la (manca de) comprensió lectora. Tots són debats importants, però de vegades es deformen tant que es creen antagonismes grotescos. Alguna discussió ha estat tan acarnissada que s’ha traslladat a la ràdio pública per intentar posar pau.\nQuan els conflictes a Twitter s’agreixen massa, no hi surt perdent només tothom que hi està implicat, sinó el teixit cultural i social del país. L’endemà de ridiculitzar-se, els “contrincants” es troben en un acte, una estrena o la presentació d’un llibre i alguna cosa s’ha trencat. Wisława Szymborska té un poema en què enumera totes les seves predileccions i en un dels versos diu que prefereix els països conquerits als conqueridors. Entenc per què Szymborska escriu això, però la poètica de la resistència també té un preu: no podem permetre’ns alguns luxes que els “conqueridors” sí. Malgrat que les dinàmiques de Twitter perjudiquen tothom (la mala fama de la xarxa als Estats Units en dona fe), en el nostre cas, acaben d’empetitir aquest “país petit”.\n\"Les males paraules fan com l’agram, pertot arrelen i mai més se desnien\", va deixar escrit Víctor Català a Solitud. Lakoff i Johnson es pregunten com ens comportaríem si la metàfora prevalent en les nostres relacions retòriques fos una discussió és una dansa. Conrear el debat és necessari, però deixar créixer massa les males herbes dialèctiques és contraproduent per als països que malden per sobreviure culturalment. Molt bon any 2024 a la comunitat XCat, de Salses a Guardamar i de Fraga a Maó (i a l’Alguer).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "catalan",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=93NGaicjHnE",
+      "https://thepolarizationindex.com/wp-content/uploads/Polarization_Index_Report_TwoYearUpdate.pdf",
+      "https://ca.wikipedia.org/wiki/Metaphors_We_Live_By",
+      "https://youtu.be/BcgDvEdGEXg?feature=shared",
+      "https://www.youtu.be/BcgDvEdGEXg?feature=shared",
+      "https://youtu.be/BcgDvEdGEXg",
+      "http://www.youtube.com/watch",
+      "https://www.thepolarizationindex.com/wp-content/uploads/Polarization_Index_Report_TwoYearUpdate.pdf",
+      "https://www.ca.wikipedia.org/wiki/Metaphors_We_Live_By",
+      "http://youtube.com/watch?v=93NGaicjHnE"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T22:10:14.520+02:00",
+    "updated": "2023-12-29T22:10:14.520+02:00"
+  },
+  {
+    "uuid": "ec72430ec5bdb78d4b069ade293ccdaf9c6c40b2",
+    "url": "https://www.meneame.net/story/atentado-islamista-durante-misa-navidad-deja-mas-160-cristianos/c042",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James_787",
+    "published": "2023-12-28T22:08:00Z",
+    "title": "#42 Un atentado islamista durante la misa de Navidad deja más de 160 cristianos asesinados en Nigeria",
+    "text": "[Expat_Guinea_Ecuatorial](/user/Expat_Guinea_Ecuatorial)a [gaceta.es](/go/link/3891432) [#9](c9#c-9) bueno. Entérate quién financio al valeroso pueblo de Afganistán y sus valerosos guerreros los muyahidines( les dedicaron Rambo iii y todo), o quien armó y financio a Irak, a estos que ves ahora este terrible atentado de la noticia, quien los organizo y financió, ... Después nos vuelves a contar estás cosas. Y si sigues pensando que está irán detrás de todo pq es omnipresente vale. Si ves q algún otro estado puede estar implicado, fijate quién lo arma y financia. Un saludo.\n[#13](c13#c-13) lo se y lo he criticado 100 millones de veces, dinero de EEUU y Arabia Saudita y Pakistán.\nPero eso no les importa para llamarlos partisanos, \"que en Europa les habría llamado partisanos y que habrían luchado contra los nazis\"\nEso es mierda, el fanatismo religioso no atiende a razones.\nAl menos tu comentario muestra algo de vergüenza de esa gente... Algo es algo.\n[#20](c20#c-20) pues mira otra vez la captura que mandas, pq es exactamente lo que estoy diciendo. Afganistán era un país más adelantado que España y las mujeres iban sin velo. El tío Sam puso a la derecha religiosa conservadora, o lo que viene a ser los fascistas de toda la vida, pero en musulmán, a levantarse en armas... Cómo en Irak, libia, Egipto, Ucrania... Mismo proceder en todos lados, mismo resultado en todos lados. Países de mierda con gobiernos autoritarios y la población paupérrima y reprimida. Eso es el tío Sam.\n[#30](c30#c-30) Claro, Afganistan era un paraiso...\nhttps://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992))\nTienes una vision de la historia bastante distorsionada. China tambien dio armas a los talibanes para luchar contra la URSS, entre otros tantos paises....\nClaaaaaaro, todo culpa del tio sam...\n[#31](c31#c-31) entérate lo que era Afganistán antes del 92.\nEra un estado laico. En el año 90 la mayoría del profesorado eran mujeres, por ejemplo, que estaba integrada en el mundo laboral.\nY la revolución hostigada por el tío Sam puso a los integristas islámicos. Los valerosos muyahidines, como dijeron en Rambo 3, que les dedicaron.\nInfórmate tú un poquito, antes de hablar sin saber.\n[#0](c0#c-0) Ese titular es tendencioso y confuso, y probablemente seas consciente. El ataque no fue durante una misa, como quiere dar a entender, si no que se atacó una serie de aldeas de manera coordinada. Y además, el factor religioso no es el único relevante, y tampoco está plenamente confirmado.\nHay fuentes mucho más serias, informadas y rigurosas que la que has mandado...\n[#10](c10#c-10) Resulta difícil creer que puedan existir fuentes más serias leyendo maravillas cosas como:\nLa reciente matanza sucedida en Navidad confirma lo que anuncian las estadísticas: el cristianismo es la religión más perseguida en el mundo. Y no se limita solamente a esta región de África, sino que ocurre en Asia y Medio Oriente. Hace poco a cristianos perseguidos por el régimen comunista chino se les negó asilo en la España de Pedro Sánchez y el PSOE. Solo una lo pudo obtener porque su salud le impedía subir al avión donde la deportaban.\nTodo ello, mientras las pateras siguen llegando a España, posiblemente con insurgentes tan radicales como los que masacran a los cristianos en Nigeria y sin el amparo para los cristianos que huyen de estos.\nMira, igual en que en Gaza, pero estos no lo llaman masacre.\nhttps://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html\nhttps://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/\n[#14](c14#c-14) Yo no apoyo yihadistas, eso es Israel que apoya a DAESH\nYo soy de izquierdas, no apoyo a la extrema derecha\nNo es muy dificil de entender, ánimo\n[#18](c18#c-18) otro comentario más de \"la culpa es de todos menos de la yihad y los países de mierda donde reina la sharia\"\nHoy te estás coronado máquina.\nQue lastima que estes aquí criticando a occidente para tapar mierdas de asesinos fanatizados y no allí al revés como los verdaderos mártires que si luchan por denunciar atrocidades de países islámicos, ahí veríamos lo valiente que eres con tu reinvidicacion de sofa y tu bandera nazi con la israelí en la foto de perfil.\n[#25](c25#c-25) Financiasteis a los talibanes para combatir a los rusos y ahora estamos pagando los platos\nFinanciar ISIS para destruir oriente medio\nFinanciar siempre lo peor para seguir con los genocidios, apartheid, limpieza étnica...\n[#26](c26#c-26) \"Financiasteis a los talibanes\"\nyo no financie a nadie, manipulador de pacotilla. Típico de esos de la bandera de tu perfil.\nMuestras muchos decíamos que la primavera árabe está plagado de fanáticos religiosos que apoyaban las reveliones, tantos otros decían que \"callate, hacen lo que deberíamos estar haciendo en Europa, es una revolución\". Ahora a gente como tú, si tu, que estás criticando a los críticos con el yihadismo de hamas se le avisa que apoyar grupos terroristas que hacen matanzas públicas es una barbaridad y que esto les embalentona y atrae a más fanáticos y que será la perdición de Palestina no escucháis. Dentro de 10 años saldrán muchos de Europa que han visto gritos de Allahu adbak y tontos en Internet diciendo que el único error de hamas es no haber actuado antes... Luego habrán chavales que pensarán que están siendo héroes en un Isis o unos talibanes dando su vida por puercos que vienen a cuerpo de rey con 4 mujeres y esclavas sexuales.\n[#18](c18#c-18) para tí seguro que extrema derecha es alguien de izquierdas que no compre el pack correntista de turno.\n[#9](c9#c-9) ¿En qué parte de su comentario dice eso? \"no son culpables de sus actos\" y toda la mierda que sigue. O qué parte de su comentario te ha llevado a esa conclusión, si es que necesitas algo más de margen.\nAunque es posible que esa respuesta no tenga nada que ver con su comentario y simplemente sea una patética y lamentable pataleta porque no te ha gustado su respuesta.\n[#17](c17#c-17) \"por no sé que historia\".\n¿O por \"no quiero saber\"? Te dan la oportunidad de aprender, no la desperdicies.\n[#19](c19#c-19) tienes algún comentario de crítica o de repudio a esta atrocidad? O vienes aquí a adoctrinar me sobre lo malo que es eeuu?\nEs una noticia de 160 muertos a manos de yihadistas por ser infieles.\nEntre tu y yo? Es duro entrar aquí a un noticia tan trágica y ponerte a discutir sobre si la culpa es o no es de occidente o ya estás curado de eso?\nEntras aquí a recalcar que \"no quiero saber\" tu verdad... Que ascazo.\n[#21](c21#c-21) Eres tú quien ha introducido este tema. Igual esperabas otro tipo de respuestas y ahora te arrepientes de haberte puesto a chapotear con intención de salpicar a los demás.\n[#23](c23#c-23) en todo momento denunció:\n1* las atrocidades de grupos islamistas radicales, no como tantos aquí que aprendieron que eran los talibanes hace 2 meses y ahora los llaman partisanos. Asesinos es su nombre, como es el del gobierno de irán o Arabia Saudita ente otros.\n2* crítico a los que claramente ocultan y defienden a estos asesinos bajo un pretexto de victimismo en Palestina.\nUn terrorista es un terrorista y lo es con 0 muertos en Palestina y con un millón de muertos.\n[#27](c27#c-27) 1a parte todo bien. Segunda, ya no tanto ¿Cómo que terrorista se es y punto?\n¿Crees de verdad que si a esta gente nadie estuviera tocándole los huevos en su casa harían lo mismo?\nIr a la raíz del problema, a las causas, e intentar desenredar un tema complejo no es defender a nadie.\nEstos son los que en Francia, España e Italia eran llamados partisanos por que no se que mierdas de las circunstancias? O estos los podemos llamar terroristas?\nLa yihad se lleva a cabo con muerte de infieles y el miedo a serlo.\nNo se trata de liberar nada, cada ataque sirve para atraer radicales y causar estragos en los no creyetes.\nQuien apoya a yihadistas es tan asesino como ellos.\n[#3](c3#c-3) Estos son los que llevan EEUU y UK financiando más de un siglo\nA lo más fundamentalista y extremista\nAquí cuando iban a la casa blanca a recibir paguitas\nhttps://es.m.wikipedia.org/wiki/Archivo:Reagan_sitting_with_people_from_the_Afghanistan-Pakistan_region_in_February_1983.jpg\n[#8](c8#c-8) bajo ninguna circunstancia son culpables de sus actos, siempre es otro, la culpa siempre será de EEUU, de UK, de la sociedad, de la Bernarda, pero nunca ellos y su fanatismo religioso serán los culpables para vosotros.\nVuestra fijación por defender o tapar cada asesino terrorista con escusas es repugnante y os rebaja como... Voy a decir seres humanos.\nEs decir para vosotros el fanatismo islámico viene de un supuesto apoyo de EEUU a hamas y no de irán...\nBoko haram es un paso de baile radicalizado por EEUU.\nLos talibanes son partisanos radicalizados por EEUU.\nLos hermanos musulmanes se radicalizado jugando call of duty.\nPero jamás lobbys, poderes y dinero de países radicales apoyan a estos grupos de mierda.\nAsí es vuestro mundo.\n[#12](c12#c-12) pero si tu pecas de lo mismo.\nA quien coño quieres dar lecciones?\nEEUU: apoyo yihadistas para quitarse de en medio a un enemigo común.\nTu: apoyas yihadistas para quitarte de en medio un enemigo común.\nEso que tienes ahí llamando nazis es la bandera de Israel no? Imagino que no eres simpatizante, pues eso.\nLa única deferencia entre EEUU y vosotros es que a EEUU sólo le movía la política, a vosotros os pierde el fanatismo.\nSabes lo que más me revienta de vosotros? Que no vais a ser vosotros quien caiga en esa oscuridad por vuestra culpa.\nHabrá niños de 15 que se sentirán libertadores, partisanos, defensores poniendo bombas para un estado islámico por vuestra culpa y vuestros comentarios.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992",
+      "https://www.lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia/",
+      "https://es.zenit.org/2023/12/12/22-cristianos-muertos-en-gaza-cohete-sin-detonar-hallado-en-parroquia",
+      "https://lavanguardia.com/internacional/20231217/9456963/iglesia-denuncia-israel-mato-sangre-fria-dos-feligresas-gaza.html",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992)",
+      "https://www.es.wikipedia.org/wiki/Guerra_de_Afganist%C3%A1n_(1978-1992"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:12:53.895+02:00",
+    "updated": "2023-12-29T01:12:53.895+02:00"
+  }
+]

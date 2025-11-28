@@ -1,0 +1,436 @@
+[
+  {
+    "uuid": "4c17296752d12e72d1386932b2a8747f064e8e45",
+    "url": "https://www.wired.it/article/iphone-riavvio-inactivity-reboot",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chiara Crescenzi",
+    "published": "2024-11-15T11:21:00Z",
+    "title": "Iphone, la funzione Inactivity Reboot è un problema per la sicurezza",
+    "text": "In questi ultimi giorni una nuova funzione di sicurezza per iPhone aggiornati a iOS 18.1, introdotta in sordina da Apple e chiamata inactivity reboot, ha sollevato preoccupazioni tra gli esperti del settore. L'opzione, pensata probabilmente per proteggere i dispositivi rubati, riavvia automaticamente [l'iPhone](https://www.wired.it/article/iphone-16-novita-prezzo-uscita-caratteristiche-apple/) dopo 72 ore di inattività, rendendo di fatto più difficile l'accesso ai dispositivi per criminali e truffatori. Ma, di fatto, anche per le forze dell'ordine e gli esperti forensi. “Inactivity Reboot mette l'iPhone nello stato ‘Before First Unlock’, bloccando di fatto le chiavi di [crittografia](https://www.wired.it/article/crittografia-dati-computer-guida/) nel processore Secure Enclave - un sottosistema sicuro, progettato per mantenere protetti i dati sensibili dell'utente, anche se il nucleo del processore per le applicazioni venisse compromesso, scrive l'esperta di sicurezza Jiska Classen, la prima a identificare la [nuova funzione di iOS 18](https://www.wired.it/article/ios-18-novita-download-iphone-compatibili/).\nX content\nThis content can also be viewed on the site it [originates](https://twitter.com/naehrdine/status/1856802400897503487) from.\nEd è proprio lo stato “Before First Unlock” (Bfu), cioè quello in cui lo smartphone è stato spento o resettato e non è stato riacceso utilizzando il [codice di sblocco](https://www.wired.it/article/iphone-rubato-codice-di-sblocco/), a rendere più difficile l'estrazione dei dati dai dispositivi sospetti per le forze dell'ordine. Quando l'iPhone entra in questa modalità, i dati dell'utente sono completamente [crittografati](https://www.wired.it/article/crittografia-end-to-end-europol-dichiarazione/) e quasi impossibili da accedere. È evidente, quindi, che i dispositivi che entrano in questo stato dopo 72 ore di inattività rappresentino un'ulteriore questione da risolvere per polizia, autorità ed esperti forensi. Anche se, come fa notare la Classen, nonostante “il riavvio per inattività renda più difficile per le forze dell'ordine ottenere i dati dai dispositivi dei criminali, questo non li blocca completamente. Tre giorni sono comunque un tempo sufficiente per coordinare le operazioni con gli analisti professionisti”.\nQuindi, è vero che l'estrazione dei dati dagli iPhone risulterà più difficile tanto per [i ladri](https://www.wired.it/article/perche-attivare-protezione-del-dispositivo-rubato-iphone/) quanto per la polizia, ma non è detto che sarà impossibile. Anzi, secondo quanto riportato da alcuni [ricercatori della Dakota State University](https://blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/), lo stesso stato Bfu consentirebbe comunque di accedere a una quantità limitata di dati, che possono comunque rivelarsi utili ai fini di un'indagine. In questo caso, “la maggior parte delle informazioni è costituita da dati di sistema/applicazione, nonché da immagini e video memorizzati nella cache che non sono stati generati dall'utente”. Pochi dati, ma senza dubbio utili per gli esperti del settore.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/naehrdine/status/1856802400897503487)",
+      "https://blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/),",
+      "https://www.blogs.dsu.edu/digforce/2023/08/23/bfu-and-afu-lock-states/),",
+      "https://www.twitter.com/naehrdine/status/1856802400897503487)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T13:48:24.432+02:00",
+    "updated": "2024-11-22T16:11:51.647+02:00"
+  },
+  {
+    "uuid": "ba2cf140805a70818ee19867f23288a1e19dc4b8",
+    "url": "https://www.cbsnews.com/newyork/news/nyc-n-j-prepare-for-soaking-rain-saturday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS News",
+    "published": "2024-03-22T00:00:00Z",
+    "title": "NYC, N.J. prepare for soaking rain Saturday - CBS New York",
+    "text": "NEW YORK - We're in for another soaking.\nThe First Alert Weather Team has declared a Red Alert for Saturday , with rain expected all day, and occasional heavy bouts that could cause flooding.\nNew York City is gearing up ahead of the storm. The MTA said resources will be in place to keep the subway system on track.\n\"It will be a lot of rain, but over a long period of time. It wont be strong downpours -- enough to overwhelm our infrastructure or subway system,\" Demetrius Crichlow of New York City Transit said. \"So we anticipate having smooth sailing the entire time. You should be able to rely on us. But just in case, we'll have people in place at various locations throughout the system to make sure any issues, we're able to respond to. We'll have folks out there with pumps. We're going out today to even do prep work to make sure those pumps are functioning as they should.\"\nTiming out the storm The rain will be an all-day event, but the worst is expected to hit in the afternoon and early evening.\n3 a.m.- 2 p.m. Saturday - Moderate to heavy rain spreads across the region 2 p.m. - 8 p.m. Saturday - Brunt of the storm, with some flood risk due to intense rain soaking rivers and saturated ground 8 p.m. Saturday - Sunday - Storm clears, but it will be windy, with gusts over 30 mph, and some over 40 mph likely There's a 10-20% risk of flash flooding throughout the event. We'll be keeping a close watch on the Passaic, Saddle, and Hackensack rivers. A flood watch is in effect for most of New Jersey, all of New York City, and Rockland and Westchester Counties.\nYou can always get the latest alerts and forecast from the First Alert Weather Team .\nMore from CBS News How much rain will New York City get this weekend? Exclusive: NYPD Commissioner rides subway to hear riders' concerns Lawsuit blaming NYC, state for property tax inequities can move forward Families call for expansion of NYC red light camera program Jesse Zanger Jesse Zanger is the managing editor of CBSNewYork.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "demetrius crichlow",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cbs",
+          "sentiment": "negative"
+        },
+        {
+          "name": "first alert weather team",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "new york city transit",
+          "sentiment": "none"
+        },
+        {
+          "name": "mta",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "n.j.",
+          "sentiment": "none"
+        },
+        {
+          "name": "nyc",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york city",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T19:22:22.343+02:00",
+    "updated": "2024-03-23T00:01:59.584+02:00"
+  },
+  {
+    "uuid": "41920a496b190b32064698a606266c9c637d2054",
+    "url": "https://www.elfagr.org/5183455",
+    "ord_in_thread": 0,
+    "author": "@fagr24_",
+    "published": "2025-06-26T09:10:00Z",
+    "title": "اغماء لـ 3 طالبات داخل لجان الثانوية العامة بالدقهلية في امتحان الفيزياء والتاريخ",
+    "text": "اغماء لـ 3 طالبات داخل لجان الثانوية العامة بالدقهلية في امتحان الفيزياء والتاريخ\nسقط 3 طالبات مغشيا عليهن داخل لجان امتحانات الثانوية العامة بمحافظة الدقهلية تزامنا مع امتحان الفيزياء الشعبة العلمية والتاريخ الشعبة الادبية\nوكان خضع طلاب وطالبات الثانوية العامة اليوم الخميس 64 ألف 320 طالب وطالبة ثانوية عامة للتفتيش لأداء امتحان، الفيزياء والتاريخ في 3 ساعات، داخل 162 لجنه، علي مستوي محافظة الدقهلية.\nوأكد المهندس محمد فؤاد الرشيدي وكيل أول وزارة تعليم الدقهلية، تجهيز 68 استراحة بكافة التجهيزات المطلوبة لاستقبال مراقبي ورؤساء لجان امتحانات الثانوية العامة 2025\nوكان عقد المهندس محمد الرشيدي وكيل أول وزارة التربية والتعليم بالدقهلية اجتماع مع رؤساء لجان امتحانات الثانوية العامة بالدقهلية بحضور بسيوني محمد بسيوني وكيل المديرية والدكتور عصام عمارة مدير عام التعليم العام والدكتور حازم الألفي مدير عام الأنشطة والخدمات تنفيذًا لتوجيهات الوزير محمد عبد اللطيف وزير التربية والتعليم والتعليم الفني وتناول الاجتماع عدة نقاط خاصة بتنظيم امتحانات الثانوية العامة من أهمها:\nدعم الوزارة الكامل للمديريات التعليمية لتيسير أداء المهام المكلفة بها بكفاءة\nإجراءات مشدده لضمان إنتظام سير الإمتحانات وتحقيق الإنضباط\nالتفتيش الدقيق للطلاب قبل دخول اللجان\nلا تهاون في عمليات الغش وتطبيق القانون الخاص بشأن مكافحة أعمال الإخلال بالامتحانات تجاه المخالف\n-التاكيد علي وصول ورق الاسئله في المعاد المحدد للجان\n-التاكيد علي عدم اصطحاب التليفون المحمول داخل اللجنة\nوفي ختام توجيهاته أكد الرشيدي أن الوزارة تثق ثقة كبيرة في قياداتها التعليمية وتقدم كافة سبل الدعم كي تتم امتحانات الثانوية العامة بصورة منضبطة ومؤمنة وبما يحقق مبدأ العدالة وتكافؤ الفرص لجميع الطلاب.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "arabic",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Health"
+    ],
+    "topics": [
+      "Education->educational testing and examinations",
+      "Education->students",
+      "Education->upper secondary education",
+      "Health->medical condition",
+      "Health->medical service",
+      "Health->emergency care"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_iq",
+        "top_news_eg",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-26T12:10:00.430+03:00",
+    "updated": "2025-06-26T09:13:33.000+00:00"
+  },
+  {
+    "uuid": "2e3c139bced4b0d75628584c2b2fd75c383694c5",
+    "url": "https://news.china.com/socialgd/10000169/20250703/48551933.html",
+    "ord_in_thread": 0,
+    "author": "#5434",
+    "published": "2025-07-03T00:00:00Z",
+    "title": "女儿黑救护车上死亡 父母发声 医疗纠纷持续发酵_新闻频道_中华网",
+    "text": "女儿黑救护车上死亡 父母发声 医疗纠纷持续发酵。2020年7月1日晚，一位名叫刘丽丽的女孩因风湿性右腿疼痛需要补充蛋白，在吉林大学第一医院住院治疗。入院前，她在长春医科医院进行了全身检查，结果显示身体各项指标正常。在吉大一院，主治医生赵令建议她住院补蛋白。家属反复告知医生和护士，刘丽丽对头孢抗生素过敏，并且这一情况在病历中有记录。\n刘丽丽入院后病情有所好转，甚至在8月1日还与父亲通电话说自己感觉好多了。然而，8月2日上午，主治医生邹小娟在没有征得家属同意的情况下给刘丽丽使用了头孢吡肟。用药后不久，刘丽丽出现了严重的过敏反应，包括呼吸困难、头痛、呕吐等症状。家属请求赵令医生进行抢救，但赵令表示风湿科重症病房没有床位。家属报警求助，警察到达后，医院才开始紧急抢救。由于吉大一院的重症病房没有床位，刘丽丽被转到呼吸科，但呼吸科主任表示这不属于他们的专业范围。最终，刘丽丽的病情恶化，出现呼吸道出血、呼吸衰竭和肝脏损伤。医生建议转院至北京协和医院救治。\n家属决定将刘丽丽送往北京，但医生建议只能通过救护车转运。家属雇用了标有吉大一院标识的救护车，但车上并没有急救设备，且司机不是吉大一院的员工。在转运过程中，救护车多次出现氧气不足的情况，延误了宝贵的救治时间。途中，刘丽丽接受了三次不明药物注射，最终在8月5日晚上11点30分去世。\n刘丽丽去世后，救护车司机拒绝将尸体送回吉大一院，而是直接送往范家屯殡仪馆。由于没有死亡证明，殡仪馆无法存放尸体，家属只好联系社区服务中心开具死亡推断证明。随后，刘丽丽的尸体被火化。\n刘丽丽去世后，家属多次与吉大一院和仁康急救站协商未果，于2021年12月提起诉讼。庭审中，双方就鉴定机构的选择产生分歧，最终法院指定去广州中山鉴定中心。经过几个月的等待，鉴定机构以没有尸检为由退卷。法院最终判决吉大一院承担10%的责任，赔偿90,976.05元；仁康急救站承担60%的责任，赔偿545,856.30元；家属承担30%的责任。家属不服判决并上诉，但中级法院维持原判。\n2024年7月16日，家属申请强制执行。目前，吉大一院已支付9万元，法院从仁康急救站账户划扣了6999元，剩余款项尚未到账。家属希望法院尽快执行到位，以缓解丧女之痛带来的痛苦。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->medical condition",
+      "Health->medical service",
+      "Crime, Law and Justice->civil law",
+      "Social Issue->social services",
+      "Social Issue->abusive behaviour",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:52:40.851+03:00",
+    "updated": "2025-07-03T04:57:39.000+00:00"
+  },
+  {
+    "uuid": "e4eb1b321886c8d956b69aa6e232f200d4537184",
+    "url": "https://www.ksnblocal4.com/2025/01/03/weekend-winter-storm-looking-wreak-havoc-large-portion-area-is-one-keep-an-eye",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@KSNBLocal4",
+    "published": "2025-01-03T01:00:00Z",
+    "title": "A weekend winter storm, looking to wreak havoc on a large portion of the area, is one to keep an eye on",
+    "text": "A weekend winter storm, looking to wreak havoc on a large portion of the area, is one to keep an eye on\nJanuary 2, 2025 - Evening forecast\nHASTINGS, Neb. (KSNB) - Mother Nature has sent us a reminder the first few days of the new year that is winter with seasonally cold temperatures returning. She’s not done yet as she will send a weekend winter storm that will wreak havoc on a large portion of the area. This will be definitely be one to keep an eye on. Be sure to stay up to date with the latest weather updates by downloading the Local4 weather app.\nThis evening and overnight, more clouds along with areas of fog possible. The fog potential looks looks best for areas west of Highway 183. By tomorrow morning, temperatures will fall back into the 10s and lower 20s, so areas of freezing fog will be possible. Friday will be a rather cloudy day and most locations won’t see any sun. The best chance of seeing some sun will be Southwest Nebraska. Late in the day and into Friday night, some light snow accumulation will be possible near and north of Highway 2 in western and central parts of Nebraska. Low temperatures by Saturday morning will be colder, down into the 10s, but some may drop into the upper single digits up north.\nOver the weekend, we’ll see a winter storm system bring the best chance for widespread snow that we have seen so far this winter season. Most will see some sort of impacts, but the greatest impacts look to be in south central and southeast Nebraska into central and eastern Kansas. Saturday will be an even colder day with a lot of clouds around. It will be breezy making it feel much colder. As the day goes on, we’ll see developing moisture. Initially, there may be a wintry mix including sleet and some light freezing rain over Southern Nebraska and Northern Kansas, while the rest of the area sees developing snow. Later in the day and into Saturday night, most of the areas with freezing rain will see a conversion to snow. The snow will become more widespread and pick up in intensity as we go through Saturday night. Most of the area will deal with travel difficulties due to snow (and/or Ice), but the current path of this system would set up Southeast Nebraska into North Central/Northeast Kansas with the greatest impacts. Not only will ice cause issues early on, but these areas may end up getting the highest snow totals. It’s still a bit early for exact details on how much snow will fall, but there is a possibility that southeastern areas pick up 6 inches or more of snowfall. Forecast models have trended upward this afternoon indicating the potential for a foot of snow in southeast Nebraska and northeast Kansas. Most other locations will pick up at least a little snow accumulation, which will still cause issues. Winds will be breezy with this system, but not super windy. So some minor blowing snow is a possibility. Snow will continue into The daytime Sunday, tapering off as we head through the afternoon into early evening. Meanwhile, arctic air continues to spill south. Saturday’s highs will range from the mid 10s north to the mid 20s south. Sunday’s highs will range from the upper 0s north to the lower 20s out west.\nQuieter weather is expected for the first half of next week. It’ll remain quite cold early in the week, but there will be a little bit of a warming trend by the middle of the week. There is some hope that milder temperatures could return later in the week by next weekend.\n[Click here](https://www.ksnblocal4.com/newsletter/) to subscribe to our KSNB Local4 daily digest and breaking news alerts delivered straight to your email inbox.\nCopyright 2025 KSNB. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather warning"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T03:35:18.305+02:00",
+    "updated": "2025-01-03T03:35:18.305+02:00"
+  },
+  {
+    "uuid": "336ab380cac5e47e0b2a2ae5c37ab78dd9a2e2cf",
+    "url": "https://www.correiodopovo.com.br/not%C3%ADcias/mundo/argentina-inicia-julgamento-de-brasileiro-por-tentativa-de-homic%C3%ADdio-contra-cristina-kirchner-1.1507210",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Estadão Conteúdo",
+    "published": "2024-06-27T19:32:00Z",
+    "title": "Argentina inicia julgamento de brasileiro por tentativa de homicídio contra Cristina Kirchner",
+    "text": "Argentina inicia julgamento de brasileiro por tentativa de homicídio contra Cristina Kirchner Atentado ocorreu em frente à residência de Kirchner publicidade Um tribunal da Argentina iniciou na quarta-feira o julgamento do brasileiro Fernando Sabag Montiel, acusado pelo crime de tentativa de homicídio premeditado contra a [ex-presidente Cristina Kirchner.](https://www.correiodopovo.com.br/busca?q=Cristina+Kirchner) O atentado ocorreu em frente à residência de Kirchner, em 1º de setembro de 2022, quando Montiel misturou-se a um grupo de simpatizantes e apertou várias vezes o gatilho, mas a arma não disparou. A sua namorada, Brenda Uliarte, e Nicolás Carrizo, que empregava o casal como vendedores ambulantes, foram denunciados como coautores do crime e também serão julgados. As informações são do Clarín. Segundo o jornal argentino, a primeira audiência foi destinada à leitura do pedido de submissão a julgamento, que detalha os fatos ocorridos em 1º de setembro de 2022. Deverão ser realizadas audiências semanais de quatro horas sobre o caso. Uma lista de 230 testemunhas foi aceita, entre as quais está a própria Cristina Kirchner, diz o Clarín. Também na primeira audiência foram ouvidas as palavras de Fernando Sabag Montiel, que, em seu extenso depoimento, tentou desassociar a sua ex-companheira, Brenda Uliarte, da tentativa de homicídio. Segundo o Clarín, o réu afirmou que, embora Uliarte quisesse ver morta a ex-presidente, ela não participou no plano de atacá-la. ‘Eu queria matar Cristina', declarou. Durante uma apresentação desorganizada e por vezes contraditória, Sabag Montiel admitiu a sua responsabilidade no ataque frustrado, com numerosos argumentos particulares, apontou o Clarín. 'Eu queria matá-la por muitas coisas, porque ela é uma ladra, uma assassina e porque levou a Argentina à inflação. Me senti humilhado por ser uma pessoa com boa situação econômica e virar vendedor', declarou Sabag, que por diversas vezes fez referências às suas frustrações pessoais. Em seu depoimento, Sabag ainda afirmou que durante o tempo em que esteve preso não recebeu visitas e que quebraram o seu telefone, o deixando impossibilitado de se comunicar. O réu também surpreendeu se definiu como 'apolítico'. Apesar de confessar a tentativa de homicídio, ao ser confrontado com uma questão no final da investigação, Sabag Montiel pareceu relativamente arrependido pelo que fez. 'Foi um ato contra a minha vontade. No momento em que fiz isso, sinto que não queria fazer, mas tinha que fazer. Eu me sentiria mais arrependido se isso tivesse acontecido', afirmou, referindo-se a uma hipotética morte de Cristina Kirchner. Durante o julgamento, o secretário do tribunal pediu desculpas várias vezes pela leitura de mensagens de texto com insultos à ex-presidente, destacando que realizava 'uma leitura textual', afirmou o Clarín. As ações planejadas, o encobrimento e os objetivos de gerar medo e desestabilizar o governo fazem parte das acusações formuladas pela procuradoria, que durante toda a investigação insistiu na existência de outros nomes como suspeitos, além dos três já conhecidos. Os representantes de Cristina exigiam que se investigasse a possível presença de autores intelectuais e financiadores do ataque. No entanto, de acordo com o Clarín, a juíza federal María Eugenia Capuchetti disse que não havia provas que apoiassem a possível ligação com qualquer organização política, ou tese de existência de financiamento externo, então isso não fará parte do processo de acusações. Dessa forma, perante o tribunal, os réus deverão responder pela acusação de tentativa de homicídio agravada pelo uso de arma de fogo e premeditação.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:46:36.370+03:00",
+    "updated": "2024-06-28T00:46:36.370+03:00"
+  },
+  {
+    "uuid": "9f9816fc6fc1df4d59d2e62e7abb4f889fa26c03",
+    "url": "https://www.bloomberglinea.com/mundo/estados-unidos/productividad-laboral-en-eeuu-repunta-preven-medidas-para-atajar-ausencia-de-migrantes/",
+    "ord_in_thread": 0,
+    "author": "Augusta Saraiva",
+    "published": "2025-08-08T07:18:00Z",
+    "title": "Productividad laboral en EE.UU. repunta: prevén medidas para atajar ausencia de migrantes",
+    "text": "Bloomberg — La productividad laboral estadounidense repuntó en el segundo trimestre igual que la economía, y reanudó una tendencia de aumento de la eficiencia que está ayudando a contener las presiones inflacionarias relacionadas con los salarios.\nLa productividad, o la producción por hora de los trabajadores no agrícolas, creció a una tasa anualizada del 2,4% tras caer en revisión del 1,8% en el primer trimestre, revelaron este jueves los datos de la Oficina de Estadísticas Laborales (BLS, por sus siglas en inglés).\nVer más: La productividad de EE.UU. aumenta a buen ritmo: ¿qué implica para la Fed?\nLos costos laborales unitarios, lo que pagan las empresas a los trabajadores para producir una unidad de producción, se incrementaron un 1,6%.\nAdemás de contribuir a contener los costos laborales, las empresas se esfuerzan por mejorar la eficiencia y ayudar a mitigar el impacto del incremento de los aranceles de importación sobre sus márgenes. Un aumento sostenido de la productividad también puede ayudar a aliviar parte de la carga que supone para las empresas la ralentización de la inmigración.\nSi bien puede llevar algún tiempo, las empresas pueden verse incentivadas a aumentar el gasto de capital ahora que el presidente Donald Trump firmó su proyecto de ley de presupuesto, que hizo permanentes los recortes de impuestos e incluyó incentivos para la inversión.\nLos funcionarios de la Fed examinan atentamente los datos porque las ganancias de productividad, incluso mediante mejoras tecnológicas como la IA, pueden ayudar a frenar la inflación salarial.\nLos costos laborales son el mayor gasto para muchas empresas, por lo que a menudo buscan nuevas tecnologías y modernizan sus equipos para que sus trabajadores sean más eficientes, lo que ayuda a mitigar el impacto inflacionario del aumento salarial.\nVer más: Los aranceles más altos de EE.UU. entran en vigor: Trump avanza en su remodelación comercial\nVarios otros indicadores de aumento salarial han mostrado un crecimiento más lento, lo que respalda la afirmación del presidente de la Reserva Federal, Jerome Powell, de que el mercado laboral ya no es una fuente de presiones inflacionarias.\nLa semana pasada, hizo un guiño a la productividad para argumentar que los salarios se están acercando cada vez más a un nivel sostenible.\nAhora que el mercado laboral está moviendo lentamente y los economistas anticipan en gran medida que los aumentos salariales se desacelerarán aún más en el futuro.\nLa producción en el segundo trimestre aumentó un 3,7% anualizado después de disminuir en los primeros tres meses del año.\nHoras trabajadas\nLos economistas prestan especial atención al crecimiento salarial en los sectores más expuestos a las medidas represivas de Trump contra la inmigración, ya que los empleadores podrían recurrir a salarios más altos para compensar la menor disponibilidad de trabajadores en el futuro.\nUna encuesta reciente de la Reserva Federal de Dallas mostró que algunas empresas locales ya están ofreciendo mejores salarios y aumentando las horas trabajadas como respuesta.\nEl informe de la Oficina de Estadísticas Laborales mostró que las horas trabajadas aumentaron ligeramente en el segundo trimestre. La remuneración por hora, sin ajustar por inflación, aumentó un 4% anualizado. Tras ajustar por inflación, la remuneración laboral repuntó a un ritmo del 2,3%.\nCifras independientes del gobierno publicadas este jueves mostraron que las solicitudes recurrentes de beneficios por desempleo en Estados Unidos aumentaron al nivel más alto desde 2021.\nLea más en Bloomberg.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->economy",
+      "Labor->employment",
+      "Labor->labour market",
+      "Labor->wages and benefits",
+      "Social Issue->social condition",
+      "Social Issue->population and census",
+      "Social Issue->emigration"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Oficina de Estadísticas Laborales",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-08T10:42:05.641+03:00",
+    "updated": "2025-08-08T10:44:43.000+03:00"
+  },
+  {
+    "uuid": "fc0562f6d9f9fb563029469cf1e03c265733cab3",
+    "url": "https://www.southernminn.com/faribault_daily_news/news/state/deteriorating-ice-creates-dangerous-conditions-on-minnesota-lakes/article_93be4ae4-a5e3-11ee-be05-77ed62de5832.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Minnesota Public Radio News",
+    "published": "2023-12-29T05:00:00Z",
+    "title": "Deteriorating ice creates dangerous conditions on Minnesota lakes | State | southernminn.com",
+    "text": "Deteriorating ice on lakes across Minnesota is causing dangerous conditions. kAm{2H 6?7@C46>6?E @77:4:2=D 2?5 E96 |:??6D@E2 s6A2CE>6?E @7 }2EFC2= #6D@FC46D 2C6 FC8:?8 :46\\2?8=6CD E@ 36 6IEC6>6=J 42FE:@FD]k^Am kAmx46 4@?5:E:@?D 2C6 A@@C 2?5 56E6C:@C2E:?8 24C@DD E96 DE2E6 3642FD6 @7 H2C> E6>A6C2EFC6D 2?5 C646?E C2:?72==]k^Am kAm“x? D@>6 2C62D H6 92G6 ?@ :46 2?5 :E’D 6 A=246D H6 92G6 :46 E92E =@@ @C6 =: 6=E:?8[” D2:5 s}# x46 $276EJ r@@C5:?2E@C }:4@=6 q:28:] “qFE :? 6:E96C 42D6[ E96 :46 :D ?@E D276 C:89E ?@H]”k^Am kAmq6=EC2>: r@F?EJ =2H 6?7@C46>6?E 92D 366? :?G@=G65 :? D6G6C2= C646?E :46 C6D4F6D @? &AA6C #65 {2 A6CD 42==65 H966=9@FD6D @?E@ :46]k^Am kAm“|@DE J62CD[ E96 :46 H@F=5 36 E9:4 9625:?8 ?@CE9[” 96 D2:5] “qFE E9:D J62C :D?’E ‘>@DE J62CD]’”k^Am kAm%H@ 2?8=6CD H6?E E9C@F89 E96 :46 @? #65 {2 2?2865 E@ 86E E96>D6=G6D @FE 367@C6 7:CDE C6DA@?56CD 2CC:G65]k^Am kAmq6=EC2>: r@F?EJ 6>6C86?4J >2?286>6?E 5:C64E@C r9C:DE@A96C |F==6C DEC6DD6D 9@H F?FDF2= 2? :46 D62D@? :E’D 366? D@ 72C]k^Am kAm“(6’G6 925 2? 23@G6 ?@C>2= ?F>36C @7 A6@A=6 E92E 92G6 366? 72==:?8 E9C@F89 E96 :46[” 96 D2:5] “x 5@?’E 6G6C C6>6>36C 86EE:?8 EH@ :?496D @7 C2:? @G6C r9C:DE>2D[ H9:49 2=D@ 56E6C:@C2E65 E96 :46 4@?5:E:@?D]”k^Am kAm~? >2?J =2 2D 9@=:52J 2?5 2?8=6CD 49@@D:?8 E@ 7:D9 7C@> 2 3@2E :?DE625 @7 E9C@F89 E96 :46]k^Am kAm~? =2 62? E92E :EVD D276 E@52J[” D96 D2:5]“p?5 6G6? H96? J@F’C6 @FE E96C6[ :7 J@F 925 6?@F89 :46 E@ H2= @C?:?8[ :E >:89E ?@E 36 6?@F89 :46 7@C J@FC H2= 2?J A6@A=6 H@CCJ 23@FE 9JA@E96C>:2 :7 E96J 72== E9C@F89 E96 :46[ 3FE J@F 2C6 >@C6 =: :2 42? D6E :?]k^Am kAmr@?E24E H:E9 E96 4@=5 H2E6C 42FD6D :?G@=F?E2CJ 82DA:?8 2?5 9JA6CG6?E:=2E:?8 E92E 42? =625 E@ :?92=:?8 6?@F89 H2E6C E@ 5C@H?]k^Am kAm“(96? H6 5@ 92G6 72E2=:E:6D E9C@F89 E96 :46[ :E’D 2=>@DE 2=H2JD 5C@H?:?8[” D96 D2:5]k^Am kAmq:28: FC86D A2C6?ED E@ C6>:?5 49:=5C6? E@ DE2J @77 7C@K6? =2 :?6D E96 :46 :D D276]k^Am Let the news come to you Get any of our free email newsletters — news headlines, e-edition, prep sports, obituaries, entertainment and more. [Explore newsletters](/alerts)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:28:24.738+02:00",
+    "updated": "2023-12-29T17:28:24.738+02:00"
+  },
+  {
+    "uuid": "91cfc15a0ab5b333a47c5b7ef6fb17ea7e05429f",
+    "url": "https://www.otvfoco.com.br/apagao-fumaca-e-sirene-participantes-do-bbb25-ficam-em-panico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sandra Cotrim",
+    "published": "2025-01-30T18:54:00Z",
+    "title": "Apagão, fumaça na sala e até sirene acionada: Participantes do BBB25 entram em pânico e tentam deixar a casa",
+    "text": "Caos toma conta do BBB25 com apagão e sirene ligada e participantes do reality show da Globo entram em pânico O clima ficou tenso no BBB25 de uma forma completamente inesperada. Na tarde desta quinta-feira (30), os participantes do reality show de sucesso da Globo se viram em pânico e o caos tomou conta da casa. Um apagão, seguido por fumaça na sala e a sirene sendo acionada chocou os internautas.\nComo é de se imaginar deixou todos em alerta, e a situação ficou tão fora de controle que muitos tentaram desesperadamente deixar o local. A combinação de imprevistos gerou um cenário de medo e confusão.\nTadeu Schmidt é o atual apresentador do BBB da Globo (Foto: Reprodução/ Internet) Além disso, o acontecimento causou muito suspense dentro do confinamento. Para quem não acompanhou, tudo começou quando uma sirene ensurdecedora ecoou pelos corredores, acompanhada de um súbito apagão nas luzes.\nO susto começou no Quarto Fantástico, onde Maike, Gabriel, João Pedro e João Gabriel estavam dormindo pacificamente. Contudo, a situação se agravou com gritos que circularam pela casa, fazendo com que os participantes entrassem em um misto de medo e confusão.\nCom isso, todos os participante do BBB25 se reuniram na cozinha para tentar entender o que estava acontecendo. Vitória Strada, logo levantou a hipótese de que a Central do Líder poderia ter sido ativada. Entretanto, Diogo Almeida desmentiu a teoria, deixando todos ainda mais intrigados.\nAssim, a situação piorou quando a fumaça começou a invadir a sala, criando um cenário um filme de terror. Com as luzes apagadas e as portas para a área externa trancadas, o desespero tomou conta dos brothers, que tentavam sair da casa, mas não conseguiram.\nLogo, a sensação de medo sobre o que estava acontecendo aumentou no reality show . Por isso, os participantes, unindo forças, buscavam uma solução para a situação que pegou todos de surpresa.\nParticipantes do BBB25, da Globo, entram em pânico (Foto: Reprodução/Globo) Pouco tempo depois, as portas se abriram e, ao chegarem ao jardim, os brothers descobriram que tudo não passava de uma ação proposta pela produção do programa. Com isso, o alívio foi imediato, e diversos risos foram ouvidos no local, mandando embora a tensão que havia se instalado antes.\nBriga no BBB25? Como já dissemos, a madrugada desta quarta-feira (29) foi agitada, com os participantes do BBB25 movimentando o jogo. Agora, o público viu uma discussão acalorada entre Vinícius e Aline.\nVinícius e Aline, dupla na casa, bateram de frente em uma conversa sobre estratégias de jogo. Sem fugir da briga, a policial foi direta: “Vinícius, se eu não puder falar o que eu penso, vou falar com quem?”, questionou.\n“Sempre fui incisiva demais com você e com qualquer pessoa”, disparou para o amigo. Aline ainda explicou que se chateou quando ele perguntou à outra sister sobre suas atitudes dentro do confinamento.\nAline e Vinícius (Foto: Reprodução) “A opinião de uma outra pessoa nesse momento é mais importante do que o que eu falei?”, questionou ela. “Jamais, jamais”, negou Vinícius.\n“Você ter ido falar com ela, perguntar isso, para mim, soa pior. Não adianta buscarmos, em outras pessoas, validar algum tipo de postura. Eu conheço você muito mais do que qualquer pessoa, e você me conhece muito mais do que qualquer pessoa. Então, por mais que alguém fale, só eu vou poder dizer pra você como eu me senti, assim como só você… Então nunca mais faça isso. Porque a gente nunca precisou disso”, pediu Aline.\nConclusão O BBB25 viveu um momento de caos e pânico inesperado na tarde desta quinta-feira (30), quando um apagão, seguido por fumaça e uma sirene acionada, deixou os participantes em total confusão e medo. Todos se reuniram na cozinha, tentando entender o que estava acontecendo, com teorias sobre a Central do Líder sendo levantadas e desmentidas. O clima de suspense foi grande até que, finalmente, as portas se abriram e os brothers descobriram que tudo não passava de uma ação no reality show da Globo .\nVeja: 4 participante são LGBTs assumidos e muitos não sabem no BBB25",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "War, Conflict and Unrest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T00:48:11.550+02:00",
+    "updated": "2025-01-31T00:48:11.550+02:00"
+  }
+]

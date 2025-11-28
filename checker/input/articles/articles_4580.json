@@ -1,0 +1,298 @@
+[
+  {
+    "uuid": "4ececc3cee834fdd88d89656e25ab09b4e6f4965",
+    "url": "https://www.highsnobiety.com/p/asics-2024-releases/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@highsnobiety",
+    "published": "2024-01-05T21:25:00Z",
+    "title": "ASICS' New Sneakers Are Winning 2024 (& The Year Just Started)",
+    "text": "In 2023, ASICS shined with noteworthy collaborations and equally fire general releases. And for 2024, the Japanese footwear brand ain't letting up. 2024 is indeed looking to be another good year for ASICS fans, starting with the label's Spring/Summer 2024 lineup.\nASICS SS24 introduces a new sneaker, the GEL-TERRAIN inspired by 90s trail runners. The shoe boasts classic sew-free layering for the upper, complete with what looks like a breathable foundation. As for the sole, the sneaker is rounded out with Flyte Foam for your steps (sounds comfy).\nFor the finale, the ASICS GEL-TERRAIN gets dressed in colorways just as pleasing as its construction, including mint, rust, and black/white.\nAs for the remaining ASICS SS24 sneakers, expect much the same ASICS goodness we've grown to love: great colorways applied to its reigning dad sneakers like the GEL-1130, GEL-Kayano 14, GEL-1090, and GT-2160 (including some familiar faces from the\n\"Earthenware\" pack) .\nWe're also in for some new\nGEL-NYC colorways, including iterations featuring their tongues out (literally).\nFans can catch ASICS SS24 footwear, rolling out throughout the Spring/Summer 2024 season, alongside a few collaborations.\nASICS partnerships continue be a phenomenon in itself, having linked with buzzy brands like\nKith, JJJJound, Cecilie Bahnsen, and OTTO 958 for cool spins and even new looks.\nSo far, for 2024, ASICS looks to work with\nEarls Collection, Paperboy Paris (or Papergirl), HAL STUDIOS, and CP Company for collaborative sneakers. With fashion month approaching, I suspect ASICS' collaborations list will only get longer.\nWhat more can I say? It's 2024, and ASICS is already claiming its new-year crown as the king of technical dad shoes (again).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "flyte foam",
+          "sentiment": "none"
+        },
+        {
+          "name": "kayano",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "asics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:09:20.519+02:00",
+    "updated": "2024-01-06T00:09:20.519+02:00"
+  },
+  {
+    "uuid": "debe52dd33663b579f6acda7e9f88a6d843d7422",
+    "url": "https://tecscience.tec.mx/en/biotechnology/tumor-on-a-chip",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ricardo Treviño",
+    "published": "2024-10-17T19:13:00Z",
+    "title": "Tumors on a Chip Can Revolutionize Personalized Cancer Treatment",
+    "text": "Reproducing the behavior of a tumor on a 3D-printed chip, measuring less than a quarter dollar coin in size, by cultivating its cells at a microscale and assessing the effects of various drugs, may pave the way for [personalized medicine](/en/human-social/floyd-chilton-personalized-diets/) for cancer patients.\nFor individuals diagnosed with cancer, [tumor-on-a-chip (ToC)](/en/science-communication/cancer-en-un-chip-innovacion-biomedica-anticancer/) technology could not only reduce costs in the search for a cure but also provide tailored treatments that meet their specific needs. This approach allows for drugs that more precisely target cancerous tissue while minimizing adverse effects, according to Salvador Gallegos. During his doctoral studies in Biotechnology at Tec, and now as a researcher at Harvard, he has worked extensively with these devices.\nTumor-on-a-chip systems serve as valuable platforms for studying the physiology of cancerous tissues and evaluating the efficacy and toxicity of treatments. “In the literature, this technology is also referred to as microphysiological systems. These are cell culture platforms at micro—and sometimes nano—scale that use microfluidics to grow tissues and expose them to drugs,” explains Gallegos.\nThe type and design of the organ or cancer chip will depend on its intended use, whether for drug evaluation or for modeling various types of diseases such as lung, breast, or colorectal cancer, among others.\nTumor on a Chip: A Path to Personalized Medicine\nAt the end of 2020, the U.S. government approved the FDA Modernization Act 2.0, which includes the use of organ-on-a-chip technology as an alternative to animal testing in drug evaluation.\nGallegos notes that alongside testing on mice, rabbits, and other animals, there are also 2D culture tests, where cells are grown on single-layer plastic plates. However, neither of these methods accurately mimics the behavior occurring in the human body.\n“When trying to extrapolate results from these platforms, discrepancies arise; they don’t align. This is where the inspiration for a tumor-on-a-chip comes in: to create a more robust and predictable laboratory model for drug testing. This way, when we expose it to a patient, we can be more confident that it will be effective—that’s personalized medicine,” Gallegos explains.\nTo develop personalized treatments, it’s necessary to obtain cells from patients through a biopsy. These cells are then cultured in a microfluidic system, suspended in a hydrogel —a polymer with elasticity and porosity akin to natural tissues, allowing for oxygenation and nutrient uptake— before testing various drugs.\nThe [organs](/en/biotechnology/chaotic-printing/) or tumors on chips are typically smaller than 30 millimeters, and their structural barriers are usually made from two types of materials: polymeric resins created with 3D printers and a polymer called PDMS (polydimethylsiloxane). Both materials are transparent, enabling researchers to observe cellular activity, and are permeable to gases like oxygen and CO2, essential for cell growth.\n“While at Tec, I worked on [breast cancer](/en/health/artificial-intelligence-and-breast-cancer/), directing fluid flows in a system that functions as a microscopic reactor. It has a cavity —like a small pool— where the cells are located, with two channels on the sides: one for feeding, through which nutrients, oxygen, sugars, and growth factors flow, and another for purging waste. This setup mimics the blood flow and how a tissue or tumor grows outside the body,” Gallegos explains.\nAs part of the Alvarez-Trujillo Lab, he tested drugs like doxorubicin and docetaxel, evaluating drug transport, cell viability, toxicity, glucose consumption, and cell death.\nCurrently, the research group is leveraging tumor-on-a-chip technology to study other types of cancer, including colorectal, lung, and prostate cancers.\nTesting drugs on an organ-on-a-chip has no ethical implications, Gallegos states, as evaluations are conducted on independent cells created in the laboratory rather than within a human body. The only requirement is to obtain informed consent from the patient.\nBenefits for Patients and Pharmaceutical Companies\nThe development of tumor-on-a-chip technology could mean reduced treatment costs for patients, says Gallegos. “The primary investment is upfront, for designing the analysis and validation. Once that’s established, the rest is financially accessible. With the platform ready, you only need to culture the cells and run multiple tests simultaneously, much like what was done with [COVID](/en/tag/covid-19/) detection.”\nBy using cells from the patient and considering their physiological, chemical, and genetic characteristics, it becomes possible to personalize treatments with drugs that optimally target specific types of cancer.\nIn turn, this approach could reduce side effects and the time required to test one or more drugs compared to traditional cancer treatment methods.\n“I recently read an article about a pilot study where cancer patients donated their biopsies, and tumors-on-a-chip were created using their cells to be exposed to drugs for evaluation. These were patients in advanced stages of cancer, and it was found that nearly 47% of them saw an increase in life expectancy of five to ten years.”\nThe time required to conduct drug tests on cancer-on-a-chip platforms varies; however, the average duration to determine whether a drug is toxic—meaning it does not kill healthy cells or promote tumor growth—typically takes about two weeks.\nThe researcher believes that for pharmaceutical companies, these platforms also represent millions in savings when conducting clinical trials and research to validate drug efficacy. In fact, some companies are beginning to produce these devices at scale, though they face the challenge of customization to meet the specific needs of patients.\nCurrently, researchers working with organ- or tumor-on-a-chip technology encounter several challenges. One is gaining the trust of physicians to adopt these devices in defining oncology treatments. Another involves achieving interconnectivity among various chips to develop systems that can replicate human body functions.\n“We will observe how the organ chips behave when connected with one another, assessing whether they resemble a living system. This is one of the main challenges: creating a biological entity that can grow in the lab to model diseases and evaluate drugs,” he comments.\nDid you find this story interesting? Would you like to publish it? Contact our content editor to learn more at",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10617761/",
+      "https://www.researchgate.net/profile/Salvador-Gallegos-Martinez",
+      "https://www.scopus.com/record/display.uri?eid=2-s2.0-85128801191&origin=resultslist&sort=plf-f&src=s&sid=28044790e539f71f781b86eaa9ffdbf6&sot=aut&sdt=a&sl=18&s=AU-ID%2857637390700%29&relpos=5&citeCnt=7&searchTerm=",
+      "https://www.scopus.com/record/display.uri?origin=recordpage&zone=relatedDocuments&eid=2-s2.0-85160794738&relpos=0",
+      "https://www.alvareztrujillolab.com/",
+      "https://pubmed.ncbi.nlm.nih.gov/38866003/",
+      "https://pubmed.ncbi.nlm.nih.gov/38866003",
+      "https://www.scopus.com/record/display.uri",
+      "https://scopus.com/record/display.uri?eid=2-s2.0-85128801191&origin=resultslist&sort=plf-f&src=s&sid=28044790e539f71f781b86eaa9ffdbf6&sot=aut&sdt=a&sl=18&s=AU-ID%2857637390700%29&relpos=5&citeCnt=7&searchTerm=",
+      "https://scopus.com/record/display.uri?origin=recordpage&zone=relatedDocuments&eid=2-s2.0-85160794738&relpos=0",
+      "https://www.alvareztrujillolab.com",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10617761",
+      "https://researchgate.net/profile/Salvador-Gallegos-Martinez",
+      "https://www.pubmed.ncbi.nlm.nih.gov/38866003/",
+      "https://ncbi.nlm.nih.gov/pmc/articles/PMC10617761/",
+      "https://alvareztrujillolab.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Harvard",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T02:07:20.313+03:00",
+    "updated": "2024-10-18T02:07:20.313+03:00"
+  },
+  {
+    "uuid": "9006afb2006d59c30a33da88651cfca371dedde9",
+    "url": "https://www.elheraldo.hn/deportes/dardo-juan-flores-dario-cruz-upn-yo-si-tengo-dignidad-deportiva-liga-nacional-HL18754399",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/cronologia/-/meta/redaccion-web",
+    "published": "2024-04-18T20:36:00Z",
+    "title": "dardo Juan Flores Darío Cruz: “Yo sí tengo dignidad deportiva”",
+    "text": "CHOLUTECA, HONDURAS.- La UPNFM es el candidato principal a descender a la Liga de Ascenso de Honduras después de siete años de permanecer en la primera división del balompié nacional. Sin embargo aducen desde el seno de los estudiosos que desciendan o no el proyecto de formar jugadores propios y una integración con los 10 centros estudiantiles a nivel nacional, se hará realidad. Darío Cruz, dirigente de la institución deportiva y educativa, siempre ha sido la cara visible de la UPNFM y en algunos casos es bastante directo al expresar lo que siente. [En la última entrevista que otorgó](https://www.diez.hn/liganacionaldehonduras/dario-cruz-directivo-de-upnfm-mayoria-se-convierten-en-ratas-que-se-bajan-del-barco-LG18697194), que fue a Diario DIEZ, se llevó de encuentro a las personas que se han bajado del barco de los lobos, que pelean por la permanencia y nombró a Juan Flores, extécnico de las reservas especiales del club. “Yo se los advertí cuando llegó este nuevo cuerpo técnico, que el que no quisiera seguir, como Juan Flores que se bajó, se bajara del barco”, dijo Cruz hablando expresamente del entrenador que fue un apagafuegos del club. “Todos sabemos que hay 30 jugadores y solo juegan 11, cinco de cambio y si es que juegan, hay 16 que no van a tener oportunidad y depende del técnico. Todos reclaman, y en este momento no estamos para reclamos sabiendo lo que estamos jugando. Pero antes de mencionar al ‘Matador’, fue más cruel y dejó el dardo. “La mayoría se convierten en ratas que se bajan del barco y otros desde los lados oscuros cuestionando y criticando las decisiones que se hayan tomado porque son incapaces de manejar siquiera un equipo infantil”. No obstante, Juan Flores no se quedó callado y envió un mensaje directo al rector. Usando su cuenta de X y respondiendo al tuit donde se publicó la entrevista de Darío Cruz, el exjugador se refirió a sus declaraciones. “La realidad cuando te llega duele, no me bajé del barco cuando salvamos al Santos (México) de un descenso y con la rodilla rota. Si me dieron el equipo fue porque no había opción y a los tres partidos me quitan la autoridad, ¿cómo me voy a quedar? yo sí tengo dignidad deportiva”, lanzó Juan Flores, echándole sal a la herida. “La realidad cuando te llega duele, no me bajé del barco cuando salvamos al Santos (México) de un descenso y con la rodilla rota. Si me dieron el equipo fue porque no había opción y a los tres partidos me quitan la autoridad, ¿cómo me voy a quedar? yo sí tengo dignidad deportiva”, lanzó Juan Flores, echándole sal a la herida.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.diez.hn/liganacionaldehonduras/dario-cruz-directivo-de-upnfm-mayoria-se-convierten-en-ratas-que-se-bajan-del-barco-LG18697194),",
+      "https://diez.hn/liganacionaldehonduras/dario-cruz-directivo-de-upnfm-mayoria-se-convierten-en-ratas-que-se-bajan-del-barco-LG18697194),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:29:58.918+03:00",
+    "updated": "2024-04-19T00:29:58.918+03:00"
+  },
+  {
+    "uuid": "93756be6677f65ed490b37744633f518ad8dc846",
+    "url": "https://ground.news/article/dramatic-view-desperate-civilians-in-gaza-climb-onto-trucks-and-surround-aid-convoy-for-food",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "panorama.com.al",
+    "published": "2023-12-28T20:30:00Z",
+    "title": "Ground News - Dramatic view! Desperate civilians in Gaza climb onto trucks and surround aid convoy for food",
+    "text": "Summary by panorama.com.al Thousands of desperate civilians in the Gaza Strip surrounded an aid column at a UN center in the Al-Zeitoun neighborhood in northern Gaza, CNN reports. The aid caravan consisted of two trucks delivering aid outside a United Nations Agency for Palestinian Refugees (UNRWA) centre, where people were seen climbing up Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\npanorama.com.al Dramatic view! Desperate civilians in Gaza climb onto trucks and surround aid convoy for food Thousands of desperate civilians in the Gaza Strip surrounded an aid column at a UN center in the Al-Zeitoun neighborhood in northern Gaza, CNN reports. The aid caravan consisted of two trucks delivering aid outside a United Nations Agency for Palestinian Refugees (UNRWA) centre, where people were seen climbing up\n2 hours ago Read Full Article\npanorama.com.al\nDramatic view! Desperate civilians in Gaza climb onto trucks and surround aid convoy for food Thousands of desperate civilians in the Gaza Strip surrounded an aid column at a UN center in the Al-Zeitoun neighborhood in northern Gaza, CNN reports. The aid caravan consisted of two trucks delivering aid outside a United Nations Agency for Palestinian Refugees (UNRWA) centre, where people were seen climbing up\n2 hours ago Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.panorama.com.al/pamje-dramatike-civilet-e-deshperuar-ne-gaza-ngjiten-mbi-kamione-dhe-rrethojne-autokolonen-e-ndihmes-per-ushqim/?utm_source=ground.news&utm_medium=referral",
+      "http://www.panorama.com.al/pamje-dramatike-civilet-e-deshperuar-ne-gaza-ngjiten-mbi-kamione-dhe-rrethojne-autokolonen-e-ndihmes-per-ushqim/",
+      "http://panorama.com.al/pamje-dramatike-civilet-e-deshperuar-ne-gaza-ngjiten-mbi-kamione-dhe-rrethojne-autokolonen-e-ndihmes-per-ushqim/?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "united nations agency",
+          "sentiment": "none"
+        },
+        {
+          "name": "unrwa",
+          "sentiment": "none"
+        },
+        {
+          "name": "cnn",
+          "sentiment": "none"
+        },
+        {
+          "name": "un",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza strip",
+          "sentiment": "none"
+        },
+        {
+          "name": "zeitoun",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:20:21.933+02:00",
+    "updated": "2023-12-29T00:20:21.933+02:00"
+  },
+  {
+    "uuid": "0239d3ace5b52a141c999133e959b40824f25002",
+    "url": "https://www.ilsussidiario.net/news/germania-preoccupata-dallideologia-gender-parlamento-bloccanti-puberta-sono-dannosi-e-pericolosi/2637420/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ilsussidiario",
+    "published": "2023-12-24T12:10:00Z",
+    "title": "Germania preoccupata dall'ideologia gender/ Parlamento: \"Bloccanti pubertà sono dannosi e pericolosi\"",
+    "text": "Germania preoccupata dall’ideologia gender/ Parlamento: “Bloccanti pubertà sono dannosi e pericolosi”\nIn Germania si discute dell'ideologia gender, accusata dal partito di estrema destra Adf di voler distruggere la famiglia tradizionale, vista come fondamento della società\nL’ideologia gender preoccupa il parlamento tedesco\nL’ideologia\ngender e tutte le varie teorie ad essa associate sono finite, recentemente, al centro delle discussioni del Parlamento in Germania. Alcuni dei deputati del gruppo di estrema destra Alternative für Deutschland (Afd), infatti, hanno presentato nei giorni scorsi una mozione al fine di stimolare una discussione che si concentrasse, tra le altre cose, anche e soprattutto sui farmaci bloccanti della pubertà, utilizzati nel trattamento della disforia di genere.\nIn generale, comunque, lo scopo della mozione e della discussione è quello di “scongiurare i pericoli dell’ideologia gender in ambito culturale, scientifico e dell’istruzione“. Dietro alle teorie sul gender, sottolinea il documento redatto dall’Adf dal quale è partita la discussione in Parlamento non ci sarebbe “alcun fondamento scientifico, ma ci sono sicuramente vantaggi politici”. Le maggiori contestazioni sull’ideologia gender sono inerenti alla “dittatura del linguaggio e [alla] sessualizzazione precoce dei bambini”, che secondo l’Adf sono spettri “dell’antico obiettivo di rieducazione marxista: l’attacco alla\nfamiglia tradizionale, elemento elementare della società civile”.\nL’Adf contro i bloccanti della pubertà\nNel parlare dell’ideologia gender, sottolinea ancora l’Adf, “la salute fisica e mentale dei bambini e dei giovani deve essere al centro delle preoccupazioni”, ma fino ad ora le leggi sull’autodeterminazione “si occupano solo degli aspetti del diritto di stato civile ed escludono l’aspetto medico e quindi le norme sulle misure mediche di affermazione del genere”. In tutto questo, oggetto di particolare preoccupazione per l’Adf sono i farmaci\nbloccanti della pubertà.\nSeguendo l’ideologia gender, quel tipo di farmaco è fondamentale per permettere ai bambini in età prepuberale di vedere sviluppare il loro corpo secondo quello che avvertono, bloccando i mutamenti fisici ed ormonali tipici dell’adolescenza. Farmaci che, tuttavia, secondo l’Adf sono associati ad un aumento del “rischio di infarti, ictus e trombosi“, mentre non si può escludere neppure che “possano portare a un danno duraturo dello sviluppo psicosessuale e psicosociale-congnitivo“. Insomma, il documento discusso su volontà dell’Adf mira a mettere in guardia il Parlamento dai possibili rischi legali all’ideologia gender e, soprattutto, all’uso incontrollato e poco regolamentato di bloccanti della pubertà.\n© RIPRODUZIONE RISERVATA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Health",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T16:34:38.704+02:00",
+    "updated": "2023-12-24T16:34:38.704+02:00"
+  },
+  {
+    "uuid": "6c391b09f0e4be52612a7e2370da96fe39aa6d07",
+    "url": "https://www.wishtv.com/sports/myindy-tv-23-to-broadcast-10-cincinnati-reds-games-in-2025-including-home-opener-march-27",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katie Cox",
+    "published": "2025-03-19T22:03:00Z",
+    "title": "MyINDY-TV 23 to broadcast 10 Cincinnati Reds games in 2025, including home opener March 27 - Indianapolis News | Indiana Weather | Indiana Traffic | WISH-TV |",
+    "text": "MyINDY-TV 23 to broadcast 10 Cincinnati Reds games in 2025, including home opener March 27\nINDIANAPOLIS (WISH) — Baseball fans in central Indiana will have a new way to watch some of the Cincinnati Reds games this season.\nMyINDY-TV 23 will broadcast 10 Reds games live in 2025, beginning with the team’s home opener on Thursday, March 27, against the San Francisco Giants.\nThe announcement was made by DuJuan McCoy, owner, president and CEO of WISH-TV and MyINDY-TV 23.\n“We strive to bring our viewers the best in live, local and regional sports on WNDY-MyINDY-TV 23,” McCoy said. “MyINDY-TV 23 has become the destination station for sports in Indianapolis, airing more than 105 live events each year. We are very excited to be able to broadcast these Major League Baseball games to our communities on our free, full-power, over-the-air television station.”\n2025 MyINDY-TV 23 Cincinnati Reds Broadcast Schedule:\n📅 Thursday, March 27 – vs. San Francisco Giants, 4 p.m. ET\n📅 Tuesday, April 29 – vs. St. Louis Cardinals, 6:30 p.m. ET\n📅 Tuesday, May 6 – vs. Atlanta Braves, 7 p.m. ET\n📅 Tuesday, June 3 – vs. Milwaukee Brewers, 7 p.m. ET\n📅 Tuesday, June 17 – vs. Minnesota Twins, 7 p.m. ET\n📅 Tuesday, June 24 – vs. New York Yankees, 7 p.m. ET\n📅 Tuesday, July 8 – vs. Miami Marlins, 7 p.m. ET\n📅 Tuesday, July 29 – vs. Los Angeles Dodgers, 7 p.m. ET\n📅 Tuesday, Aug. 5 – vs. Philadelphia Phillies, 6:30 p.m. ET\n📅 Tuesday, Aug. 12 – vs. Pittsburgh Pirates, 6:30 p.m. ET\nMyINDY-TV 23 is available over the air on Channel 23 in the Indianapolis market.\nFor more local sports coverage, visit WISHTV.com or download the All Indiana Sports app by WISH-TV.\nNews at your fingertips!Stay informed with\nIndiana,\nLocal, and\nNational Newsstraight to your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->sports transaction",
+      "Sport->baseball"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "DuJuan McCoy",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Cincinnati Reds",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Major League Baseball",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "San Francisco Giants",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Atlanta Braves",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:39:49.716+02:00",
+    "updated": "2025-03-20T01:39:49.716+02:00"
+  }
+]

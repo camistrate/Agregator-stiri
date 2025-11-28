@@ -1,0 +1,309 @@
+[
+  {
+    "uuid": "577f86d3987b2cbcfaf9a977b3fc3fce4f699627",
+    "url": "https://vnexplorer.net/snow-flies-funky-adaptations-to-survive-and-get-frisky-in-the-cold-s825931.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-01-06T01:58:00Z",
+    "title": "Snow flies' funky adaptations to survive (and get frisky) in the cold",
+    "text": "A snow fly is seen surviving in the Cascades mountains in Washington state. The insect is capable of surviving below the freezing point of water, continuing to move until it finally freezes itself. John Tuthill hide caption\ntoggle caption John Tuthill\nThe winter is usually when insects die or go into a state of paused development, but for tiny specks on the white snow called snow flies, it’s time to run around, find a lover and make baby snow flies.\nJohn Tuthill, a professor at the University of Washington, first came across these creatures on a hike in the Cascade Mountains in late 2016. He normally studies fruit flies – which John says are “screwed” in the cold – which is why he was shocked to see that their distant cousins were able to live in such hostile conditions.\nTuthill and his colleagues slowly decreased the temperature of a cold plate to simulate the wintery conditions snow flies encounter outdoors. They found that the snow flies continued to move around until frozen, unlike other insects that entered a paralyzed, chill coma state before they were frozen.\nCredit: John Tuthill\nTuthill and his colleagues have been collecting snow flies and studying them in the lab to figure out what makes them so special. Not only can they survive in the cold, but if one of their limbs starts to freeze, they can self-amputate and pop it right off. That buys the snow fly time to find a mate and make sweet, sweet snow fly love.\n“There’s still a small chance that they’ll meet the love of their life and end up being able to procreate,” Tuthill says.\nWhen he talks about them, he sounds almost poetic.\n“For me, snow flies are just kind of a paragon of, like, fortitude and bravery,” he says. “They have figured out how to live in an environment where there’s almost no other insect. And the advantage of that is that they have a place where they can make free love on the snow with each other without interruption from predators in incredibly beautiful conditions.”\nTuthill’s lab is harnessing citizen science to continue their snow fly research. If you’re in the mountains and happen to see these spindly insects, you can collect them and send them to him. Find more information here.\nInterested in other winter biology? Email us at [email protected] — we’d love to hear from you!\nListen to Short Wave on Spotify, Apple Podcasts and Google Podcasts.\nThis episode was produced by Rachel Carlson, edited by our showrunner Rebecca Ramirez and fact-checked by Berly McCoy. Josh Newell was the audio engineer.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tuthill",
+          "sentiment": "none"
+        },
+        {
+          "name": "john tuthill",
+          "sentiment": "none"
+        },
+        {
+          "name": "john",
+          "sentiment": "none"
+        },
+        {
+          "name": "john tuth",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "university of washington",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cascades",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        },
+        {
+          "name": "cascade mountains",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T04:01:07.606+02:00",
+    "updated": "2024-01-06T04:01:07.606+02:00"
+  },
+  {
+    "uuid": "c40b7f04969cee9cb48cad6f6b4f461e370e7ffa",
+    "url": "https://gbhackers.com/seo-poisoning-fake-sites",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Varshini",
+    "published": "2024-11-15T11:15:00Z",
+    "title": "Cybercriminals Launch SEO Poisoning Attack to Lure Shoppers to Fake Online Stores",
+    "text": "Published onThe research revealed how threat actors exploit SEO poisoning to redirect unsuspecting users to malicious e-commerce websites, leveraging multiple SEO malware families to achieve their goal.Three distinct threat actor groups were identified, each employing a unique malware family, with one group utilizing multiple families. One malware family’s C&C servers shared limited e-commerce site sets, differentiating it from others with independent lists. The proliferation of fraudulent e-commerce sites, particularly in Japan, poses a growing threat, as sites designed to deceive and exploit users have seen a significant surge in 2023, leading to increased financial losses and compromised personal information.Threat actors deploy SEO malware on compromised websites to manipulate search engine rankings by injecting malicious code into legitimate sites, redirecting unsuspecting users to fraudulent e-commerce platforms for potential financial gain. When websites are compromised, these search engine optimization malwares are installed on those websites in order to intercept web server requests and return malicious content. By doing so, threat actors can send a crafted sitemap to search engines and index-generated lure pages, which contaminates the search results, making the URLs of compromised websites appear in searches for product names they do not actually handle.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtw5LVoJUl4faLOLdjYnRew6wSy9kHFgmwg7Ghs76vkp-O-Ra4g-CTSFNdtoD9v2uHa6dQaJkff5tBO1kLftzJaecM25bBUkmWoE_HDEfdiMbCmmmQLyCJvTvJunBhGxo_CqtG1IoyE1qOpJCOPtzn3zGRdM9yIqwKCtjMgY7dH-FcWM_udtgknZEGhjpM/s4418/SEOmalware-Fig02-2.webp",
+      "https://underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHg_PoOHCYmFrB6G9kNEnfomxybUG1YtC02vvI0V6yDMmdQ8zvLKb3sGFMLulaLxVk91vKhTtqfh7sdHJ0T1bHr_dCZdfxJdfsKnrMuTBrPm16fNvQtdMZH0ZJ2al9Xg3H_DyHgr9bWqZ2vYz3H31j-fegofPmRuKaOa1CxT4hiT8wKj7W2g-sdZqJnNuw/s6250/SEOmalware-Fig01.webp",
+      "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+      "https://www.trendmicro.com/en_us/research/24/k/seo-malware.html",
+      "https://www.underdefense.com/ultimate-continuous-security-monitoring-guide/?utm_source=cybersecuritynews.com&utm_medium=online_media&utm_campaign=eblast_october_ultimate-continuous-security-monitoring-guide",
+      "https://trendmicro.com/en_us/research/24/k/seo-malware.html",
+      "https://underdefense.com/ultimate-continuous-security-monitoring-guide/",
+      "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtw5LVoJUl4faLOLdjYnRew6wSy9kHFgmwg7Ghs76vkp-O-Ra4g-CTSFNdtoD9v2uHa6dQaJkff5tBO1kLftzJaecM25bBUkmWoE_HDEfdiMbCmmmQLyCJvTvJunBhGxo_CqtG1IoyE1qOpJCOPtzn3zGRdM9yIqwKCtjMgY7dH-FcWM_udtgknZEGhjpM/s4418/SEOmalware-Fig02-2.webp",
+      "https://www.blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHg_PoOHCYmFrB6G9kNEnfomxybUG1YtC02vvI0V6yDMmdQ8zvLKb3sGFMLulaLxVk91vKhTtqfh7sdHJ0T1bHr_dCZdfxJdfsKnrMuTBrPm16fNvQtdMZH0ZJ2al9Xg3H_DyHgr9bWqZ2vYz3H31j-fegofPmRuKaOa1CxT4hiT8wKj7W2g-sdZqJnNuw/s6250/SEOmalware-Fig01.webp",
+      "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=5_tools&utm_content=service&utm_term=141124",
+      "https://app.any.run/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T14:36:16.100+02:00",
+    "updated": "2024-11-15T15:38:51.625+02:00"
+  },
+  {
+    "uuid": "3f017eff1c20f056df0015568e92967325c22781",
+    "url": "https://www.dexerto.com/fortnite/fan-transforms-lego-bricks-into-a-real-life-fortnite-adventure-2449236/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Appleford",
+    "published": "2023-12-28T21:59:00Z",
+    "title": "Fan transforms LEGO bricks into a real-life Fortnite adventure - Dexerto",
+    "text": "Gaming Fortnite Fan transforms LEGO bricks into a real-life Fortnite adventure Daniel Appleford 59:24 59:35 Reddit: Angelbg34\nlego fortnite fan built set\nOne LEGO Fortnite fan took it upon themselves to recreate the feeling of running through caves with actual LEGO bricks.\nLEGO Fortnite has been loved by thousands since its release on December 7 as one of the three new game modes of Chapter 5 . The survival-based mode broke a million followers during its first week and still maintains hundreds of thousands.\nDespite multiple Fortnite skins getting LEGO-fied versions for the new mode, there has yet to be an official release of any LEGO sets or characters.\n This lack of product availability has forced some fans of both franchises to get creative with their own LEGO bricks. Bringing real in-game situations to life to be put on display.\n LEGO builder brings Fortnite’s NPC’s tough jobs to life Villagers play a significant role in LEGO Fortnite by gathering resources, building items, and joining the player on expeditions around the map.\nOne Redditor posted an image of the LEGO set that they had built. The inspiration? Having their villager deal with the skeletons in the caves while they collect resources.\nSubscribe to our newsletter for the latest updates on Esports, Gaming and more.\nEmail Sign up Me running away from the skeletons while my NPC does it all\nby u/angelbg34 in LEGOfortnite “I tried to do as best as I could with the pieces I had,” said the poster. “I even added a spider underneath a rock, so lifting the rock attacks you like in the game. The shield is not accurate, but I had no other shield or item. There’s even a log on the floor, a scorpion, and something to emulate the roots coming out of the walls.”\n Commenters praised the post for the build’s uncanny resemblance, with one user going so far as to declare it indistinguishable from an official LEGO set.\nRelated: Best free games to download & play on PC, PS5, Xbox, or Nintendo Switch “Honestly a sweet set,” said one user. “Looking forward to seeing you on the front page when the official minifigs release, and you can make even more scenes.”\nLEGO has yet to reveal any official merchandise or set collaborations with Fortnite. So, for now, fans will have to use the LEGOs they already have to bring the game into the real world.\nRelated Topics LEGO Fortnite About The Author Daniel Appleford Streaming and Esports Writer. Covering Call of Duty, VALORANT and more. Formerly of Upcomer and Dot Esports. Tips welcome at daniel.appleford@dexerto.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/?utm_source=share&utm_medium=web2x&context=3\\n\\n\\n\\n\\n“I",
+      "https://www.reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/",
+      "https://www.reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/?utm_source=share&utm_medium=web2x&context=3",
+      "https://www.reddit.com/user/angelbg34/",
+      "https://www.reddit.com/r/LEGOfortnite/",
+      "https://www.reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc",
+      "https://www.reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/",
+      "https://www.reddit.com/user/angelbg34",
+      "https://reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/?utm_source=share&utm_medium=web2x&context=3\\n\\n\\n\\n\\n“I",
+      "https://reddit.com/r/LEGOfortnite/",
+      "https://reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/",
+      "https://www.reddit.com/r/LEGOfortnite",
+      "https://reddit.com/r/LEGOfortnite/comments/18swgvx/me_running_away_from_the_skeletons_while_my_npc/?utm_source=share&utm_medium=web2x&context=3",
+      "https://reddit.com/user/angelbg34/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "daniel appleford",
+          "sentiment": "positive"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fortnite",
+          "sentiment": "positive"
+        },
+        {
+          "name": "npc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:03:57.153+02:00",
+    "updated": "2023-12-29T00:52:14.755+02:00"
+  },
+  {
+    "uuid": "fb4b7a7f0567b10bad796cef010cfc2c3735eddc",
+    "url": "https://www.sun-sentinel.com/2024/01/01/gradual-warmup-but-not-too-warm-coming-this-week/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ron Hurtibise",
+    "published": "2024-01-01T17:54:00Z",
+    "title": "Settle into winter, South Florida style, this week",
+    "text": "South Florida woke up to a New Year’s morning temperature of 49, but it quickly warmed up, thanks to bright sunshine.\nCapping the coolest weekend so far this season, Monday’s temperature should be the lowest we see all week as the forecast calls for a return to normal temperatures for this time of year, and no frigid cold fronts.\nIn other words, winter in South Florida is here with the best of both worlds. Lovers of both cool weather and warm sunshine should be happy with the first week of January.\nThe says the Fort Lauderdale area will experience a high of 73 today and a low that settles several degrees warmer than the past few days at 56.\nTuesday’s temperatures should be about the same, with a high reaching 72.\nBy Wednesday, highs will reach the mid 70s and the low temperature will stall out in the mid 60s.\nHighs will reach a comfortable low 70s on New Years Day in South Florida, according to the . (Courtesy/ ) A weak cold front on Thursday will bring a 65% chance of rain, and a low back to 60 degrees before rain chances diminish in time for the weekend and the low temperature climb back to 70 on Friday in Broward County and the mid 60s in Palm Beach County.\nNext Monday’s forecast calls for just a four-degree swing between a high of 77 and a low of 73. And then rain is expected over the following two days.\nThe normal temperature in South Florida for January is a high of 76 and low of 61, according to the weather service.\nRelated Articles Weather | Chilly New Year’s ushers in another week of cold South Florida weather Weather | Crisp, sunny days are ahead, but New Year’s Eve will be nippy Accuweather rated Monday’s air quality as fair, with low levels of tree, ragweed and grass pollen but high levels of mold and dust and dander. That could impact people who experience sinus pressure, according to the website.\nRon Hurtibise covers business and consumer issues for the South Florida Sun Sentinel. He can be reached by phone at 954-356-4071, on Twitter @ronhurtibise or by email at rhurtibise@sunsentinel.com.\n ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "courtesy/national weather service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "south florida",
+          "sentiment": "none"
+        },
+        {
+          "name": "fort lauderdale",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-01T20:06:09.076+02:00",
+    "updated": "2024-01-13T02:45:43.335+02:00"
+  },
+  {
+    "uuid": "5950716ca41f6a55901787aeaad1a12b1364a0f7",
+    "url": "https://www.laprensa.hn/honduras/china-ayuda-combatir-dengue-copan-EB20030271",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/cronologia/-/meta/redaccion",
+    "published": "2024-06-24T05:23:00Z",
+    "title": "China ayuda a combatir dengue en Copán",
+    "text": "[Copán](/cronologia/-/meta/copan) En respuesta a la crisis de dengue que afecta a la región, la Fundación GX de China anunció la donación de insumos médicos para el Hospital de Occidente. Este fin de semana, el hospital confirmó que la sala de atención a pacientes con dengue alcanzó su capacidad máxima, con 40 personas hospitalizadas en estado delicado debido al virus transmitido por zancudos. La visita al Hospital de Occidente estuvo encabezada por Leung Chung-Ying, presidente de la Fundación GX y vicepresidente del Comité Nacional de la Conferencia Consultiva Política del Pueblo Chino, acompañado por una comisión de la fundación y Yu Bo, embajador de China en Honduras. Durante su recorrido por las instalaciones, realizaron donativos como lámparas para repeler el zancudo transmisor del dengue y pruebas rápidas de antígenos del dengue. La delegación china visitó la sala recién habilitada para pacientes de dengue, donde pudieron conocer de primera mano los casos y la situación de los pacientes ingresados. Este acercamiento permitió a los visitantes comprender mejor la urgencia y gravedad de la situación que enfrenta el Hospital de Occidente.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-24T08:44:04.524+03:00",
+    "updated": "2024-06-24T08:44:04.524+03:00"
+  },
+  {
+    "uuid": "ceb1e234eb1e2085fddaaefb8c984d8f8de2a84b",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7367059.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "MSCIA股ETF基金（512180）跌0.93%，半日成交额7.42万元|ETF基金_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，MSCIA股ETF基金（512180）跌0.93%，报1.381元，成交额7.42万元。MSCIA股ETF基金（512180）重仓股方面， 贵州茅台 截止午盘涨0.00%， 宁德时代 跌1.13%， 招商银行 跌0.70%， 长江电力 跌0.33%， 比亚迪 跌1.40%， 中国平安 跌0.93%， 五粮液 跌0.47%， 兴业银行 跌0.08%， 农业银行 涨0.17%， 工商银行 涨0.14%。\nMSCIA股ETF基金（512180）业绩比较基准为MSCI中国A股国际通指数(MSCIChinaAInclusionRMBIndex)收益率，管理人为建信基金管理有限责任公司，基金经理为梁洪昀，成立（2018-04-19）以来回报为39.53%，近一个月回报为-0.13%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:28.685+03:00",
+    "updated": "2025-06-19T04:40:05.000+00:00"
+  }
+]

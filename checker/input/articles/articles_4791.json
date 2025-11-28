@@ -1,0 +1,287 @@
+[
+  {
+    "uuid": "f9f1f1e4adfb685f4aaf51c2bfd64b840179ba99",
+    "url": "https://www.demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Demotivateur",
+    "published": "2024-04-18T19:30:00Z",
+    "title": "Excédé par la musique de ses voisins, il invente une machine pour l'éteindre à distance",
+    "text": "Accueil Insolite Excédé par la musique de ses voisins, il invente une machine pour l'éteindre à distance Par Jérémy Birien · Publié jeudi 18 avril 2024 à 20h30\nSuivez nous sur Google News En Argentine, un programmeur était tellement agacé par la musique bruyante couramment jouée par ses voisins qu’il a concocté sa meilleure invention : une machine capable d’éteindre la musique ! Il ne fallait pas l’énerver !\nProgrammeur et artiste argentin, Roni Bandini ne menait pas un quotidien aussi tranquille qu’il aurait espéré. La raison ? Ses voisins ! En effet, ces derniers avaient la fâcheuse habitude d’écouter leur musique très forte. La musique en question était constamment du reggaeton, une musique latino-américaine très populaire (Sean Paul, Daddy Yankee ou encore Pitbull).\nPour en finir avec ça, il a décidé de jouer la carte de l’intelligence, mais aussi celle de l’intelligence artificielle. Il a inventé une machine, baptisée “Reggaeton Be Gone” (comprenez “Reggaeton va-t-en”), capable d’éteindre littéralement la musique à distance.\nC’est sur X que Roni Bandini a partagé son histoire et le processus de création de son invention. La machine est une boîte équipée d’un microphone, d’un petit ordinateur et d’un algorithme qui détecte les chansons de reggaeton. Activée, elle interfère avec le haut-parleur qui diffuse la musique .\nFabriqué un aparato para detectar Reggaeton en el parlante del vecino y atacarle el bluetooth. Mañana seguramente publico la demo y el código. https://t.co/RGGpA5hUQd #reggaetonbegone pic.twitter.com/hLn4f9kwl4\n— Roni Bandini (@RoniBandini) February 20, 2024 Une machine anti-reggeaton Pour créer cette machine, il a d’abord entraîné un modèle d’IA pour reconnaître spécifiquement les chansons de reggaeton. Il a alors téléchargé des pistes représentatives du genre et les a chargées dans Edge Impulse, une plateforme de développement d’apprentissage automatique.\nLorsque la machine reconnaît un son de reggaeton, elle envoie plusieurs demandes via Bluetooth au haut-parleur afin de l’éteindre, ou à la limite, de brouiller le son.\nCrédit photo : iStock\nRoni Bandini a expliqué qu’il ne craignait pas l’aspect illégal que peut comporter son invention . En effet, l’interférence avec des appareils électroniques d’un voisin peut être considérée comme une activité illégale. Cependant, l’inventeur en herbe estime qu’il est dans son droit de ne pas avoir à supporter la musique forte dès le matin.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://t.co/hLn4f9kwl4",
+      "https://t.co/RGGpA5hUQd",
+      "https://twitter.com/share?url=https://www.demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887&via=Demotivateur&text=Exc&eacute;d&eacute;",
+      "https://news.google.com/publications/CAAiEDMIAR8ODtiY1Djo5-ehxUsqFAgKIhAzCAEfDg7YmNQ46OfnocVL",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887",
+      "https://api.whatsapp.com/send?text=https://www.demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887",
+      "https://twitter.com/RoniBandini/status/1760086475490709961?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/reggaetonbegone?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/RoniBandini/status/1760086475490709961",
+      "https://facebook.com/sharer/sharer.php?u=https://demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887",
+      "https://www.news.google.com/publications/CAAiEDMIAR8ODtiY1Djo5-ehxUsqFAgKIhAzCAEfDg7YmNQ46OfnocVL",
+      "https://api.whatsapp.com/send?text=https://demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887",
+      "https://twitter.com/hashtag/reggaetonbegone",
+      "https://www.twitter.com/hashtag/reggaetonbegone?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.t.co/hLn4f9kwl4",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.twitter.com/RoniBandini/status/1760086475490709961?ref_src=twsrc%5Etfw",
+      "https://twitter.com/share?url=https://demotivateur.fr/insolite/il-invente-une-machine-pour-eteindre-la-musique-de-ses-voisins-a-distance-38887&via=Demotivateur&text=Exc&eacute;d&eacute;",
+      "https://www.t.co/RGGpA5hUQd",
+      "https://twitter.com/share",
+      "https://api.whatsapp.com/send"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:37:35.152+03:00",
+    "updated": "2024-04-26T07:25:17.998+03:00"
+  },
+  {
+    "uuid": "5cd2929b9c7246687149bce6ac768f4715b730b1",
+    "url": "https://www.meneame.net/story/empleada-discapacidad-trabajo-40-anos-alcampo-despedida-dia-da/c044",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mikhail",
+    "published": "2024-11-29T08:18:00Z",
+    "title": "#44 Una empleada con discapacidad que trabajó 40 años en Alcampo es despedida por “ineptitud” y al día siguiente la empresa le da una medalla por sus servicios",
+    "text": "·\nmain action\n×\nedición general\nlogin\nregistrarse\ncomunidades\nfisgona\nnótame\ngalería\nayuda\npublicar\nCrear artículo\npublicaciones\nnuevas\nartículos\npopulares\nmás visitadas\nMÁS\ntodas\nactualidad\nciencia\ncultura\nocio\npolitica\ntecnología\nm/*\nRSS\nmás visitadas\n5737\nclics\nUna isla entre el lodo: el único negocio que se salvó de la dana\n5935\nclics\nLes hago un dibujo\n6250\nclics\nAsí está el barranco del Poyo casi un mes después de la DANA\n5141\nclics\nHace 1 mes de la DANA y estoy CANSADO de que se trate a PP y VOX como inútiles\n4070\nclics\nBreaking Glass: el anuncio más bonito de Scandinavian Airlines\nmás votadas\n958\nPP y Vox han vuelto a votar en contra HOY de las medidas de prevención ante inundaciones\n765\nEl juez Santiago Vidal: \"Un tercio del colectivo judicial es del Opus Dei\"\n442\nAnticorrupción apunta “al mismísimo” Moreno Bonilla en el fraude de la sanidad: “19 expedientes demoledores”\n421\nLes hago un dibujo\n421\nGabriel Rufián, al PP: \"¿En qué quedamos? ¿En qué Mazón es un \"inú...\" perdón, incapaz o no?\nsuscripciones por RSS\npublicadas\nen cola\ncomentarios de esta noticia\ntodos los comentarios\n408\nmeneos\nmenéalo\n2004\nclics\nUna empleada con discapacidad que trabajó 40 años en Alcampo es despedida por “ineptitud” y al día siguiente la empresa le da una medalla por sus servicios\npor\nActualité44\na\ninfobae.com\n____\npublicado:\n____\nAuchan se encuentra en un periodo de crisis por el que había anunciado recortes en más de 2.000 puestos\n|\netiquetas\n:\nalcampo\n,\nempresas\n,\ndespido\n,\njusticia\n149\n259\n1\nK\n571\nactualidad\n50 comentarios\ncompartir\nCompartir en Facebook\nCompartir en Twitter\nCopiar enlace\n149\n259\n1\nK\n571\nactualidad\nComentarios destacados:\nordenados\nhilos\nmejores hilos\n+ valorados\nvotos\nregistros\nµ fisgona\nrelacionadas\n#6\nDISIENTO\n*\n#5\npara que te\nindemnicen es\nimprescindible que el despido sea\nimprocedente porque sería muy improbable que te\nindemnizaran con un despido procedente.\nLo siento, a estas horas no doy más de mi\n9\nK\n80\n#14\nmudito\n#6\nimpresionante\n3\nK\n42\n#15\nDISIENTO\n#14\nimprudente\n0\nK\n13\n#19\ntroll_hdlgp\n#15\nimprobable\n0\nK\n9\n#21\nDISIENTO\n*\n#19\n¿Improbable como que no se puede probar o improbable como de muy baja probabilidad o improbable como falto de probidad de honradez?\n0\nK\n13\n#22\ntroll_hdlgp\n#21\nYoquese, la puse porque sonaba bien para una cadena de palabras...\n0\nK\n9\n#23\nDISIENTO\n#22\nyo también por la cantidad de significados de cualquier palabro.\n0\nK\n13\n#25\nCantro\n#22\nMe voy a contener y no voy a soltar un improperio\n1\nK\n20\n#24\nTrochador\n#21\nImbconcebible.\n2\nK\n31\n#44\nMikhail\n#24\nNo creo que signifique lo que tú crees.\n1\nK\n15\n#45\nTrochador\n#44\nNi como se escribe...\n0\nK\n8\n#46\nMikhail\n#45\nTe lo dije por:\nwww.youtube.com/watch?v=0nwhI49DfjM\n1\nK\n15\n#47\nTrochador\n#46\nNo me lo voy a perdonar jamás.\n1\nK\n15\n#38\nCarlazas\n#6\nDisiento.\nExiste el despido objetivo por causas económicas, que no siendo improcedente, da derecho a indemnización.\n1\nK\n13\n#41\nUnoYDos\n#38\nSi no existen las causas económicas no puedes acogerte a ese tipo de despido.\n0\nK\n6\n#42\nCarlazas\n#41\nhe dicho no improcedente... no libre\n0\nK\n6\n#49\nUnoYDos\n#42\nok ok\n0\nK\n6\n#40\nBM75\n*\n#6\nNo, el despido por causas objetivas también implica indemnización (aunque más baja)\n0\nK\n7\n#1\nBarriales\nLos ineptos son los de recursos humanos.\n9\nK\n78\n#2\nDISIENTO\n#1\nprobablemente se llevó una indemnización que le ayudará y el despido era imprescindible.\n6\nK\n58\n#5\ningenierodepalillos\n#2\n¿seguro que no quiso decir improcedente?\n4\nK\n51\n#11\nEstoeslaostia\n#5\nLos de infobae que son muy del clickbait.\n1\nK\n16\n#7\nBarriales\n#2\nlas maneras. Las maneras, son de auténticos hijos de grandisima puta.\n4\nK\n42\n#9\nDISIENTO\n*\n#7\nfuera de España se pagan muy buenas indemnizaciones por despido y más cuando son 40 años de servicio pero\nInfobae no le interesa señalar ese \"detallito\" sin importancia.\n7\nK\n76\n#26\nNoviembre_2024\n#9\nLas indemnizaciones en Francia parecen más baratas que las de España.\nwww.heraldo.es/noticias/economia/2023/04/02/despido-espana-no-es-barat\nOtra cosa es que Alcampo haga como muchas grandes constructoras de coches, que por la publicidad que les pueda traer prefieren hinchar de dinero a quien despiden.\n0\nK\n10\n#29\nDISIENTO\n#26\nno te creas lo que diga heleraldo, España ha tenido que cambiar las indemnizaciones por despido al ser declaradas \"\ninsuficientes\n\" por no sé quien de la UE.\n0\nK\n13\n#32\nNoviembre_2024\n#29\nSí, fue un toque de atención porque el despido en España es libre. En la mayoría de países de la UE no lo es, no puedes despedir porque patatas. Al ser libre la comisión europea estimó que las indemnizaciones eran insuficientes.\nPero, si lo hacen, las indemnizaciones tiene sentido que sean menores. En Francia por lo que he mirado esta noche este ratito parece que la opción más viable para el despido es la de causas objetivas, algo que en España casi nunca se plantea (aunque sea cierto) porque las posibilidades de que sea despido nulo son tan altas que mejor pagar la indemnización.\n1\nK\n23\n#43\nElVitorManuel\n#2\nEn dos palabras, \"im\" \"prescindible\"...\n1\nK\n22\n#10\nEstoeslaostia\n*\n#1\nBueno...no creo.\nCon ese tipo de despido se denuncia en la SMAC y se declara improcedente por parte de la empresa.\nSe paga el despido (dinero que NO fiscaliza) y el trabajador se podrá jubilar de modo anticipado si lo necesitase. (JAI: Jubilación anticipada Involuntaria).\nA toda esta \"artimaña\" le queda poquito. Europa ya se está moviendo para evitar estos asuntos.\n4\nK\n48\n#28\nNoviembre_2024\n#10\nEn Francia es bastante más complicado despedir, recursos humanos lo tendría muy bien planteado para poder despedir a alguien con una enfermedad y de sesenta años con cuarenta años trabajados.\nEl despiste ha sido lo de la medalla.\n1\nK\n23\n#39\nEstoeslaostia\n#28\nNo me se la normativa laboral francesa...pero me da que no será más complicado.\nCon todo, la noticia no parece muy coherente, la verdad.\n0\nK\n7\n#50\nB3nd3r\n#1\nalgo que he pensado en todas y cada una de las empresas en las que he trabajado\n0\nK\n6\n#3\nPixmac\nFalta información. Sufría de \"agotamiento profesional\" y le ofrecieron puestos en Francia y fuera del país pero ella los rechazó al no ser lo que llevaba haciendo en la empresa. Habría que saber lo que su enfermedad profesional le permitía hacer, que tampoco puedes esperar que la empresa vaya a crear un puesto expresamente hecho para tí. Podrán adaptarte un puesto a tus posibilidades pero no se debe esperar nada más allá.\n2\nK\n34\n#36\nNobby\n#3\nno seré yo quien defienda a una empresa frente a un trabajador, pero existe un concepto llamado \"ineptitud sobrevenida\". Por ejemplo, trabajas moviendo cajas en un almacén, se te cae un palé encima y te quedas tetrapléjico: debido al accidente ya no puedes realizar tu trabajo, eso sería ineptitud sobrevenida.\nDesconozco las secuelas de su enfermedad laboral o cuál era su puesto de trabajo, nos falta información.\nEso sí, lo de \"te echo a la calle y al día siguiente te doy un premio\" no tiene perdón...\n3\nK\n32\n#37\ntheMooche\n#3\nParece que le podrían haber hecho un favor. Al menos entre directivos, es una práctica bastante extendida la de despedirlos cuando les faltan 2 telediarios para la jubilación.\nAunque se ve que se ha mostrado sorprendida...\n1\nK\n16\n#18\nPerefct\nSe me ha helado la sangre al leer los salarios de cada grupo de esta empresa que vienen en la noticia...\n3\nK\n33\n#20\nHangdog\n#18\nSe supone que son mínimos. Yo en la que estoy, que el convenio es sectorial, el mínimo para mi grupo es un poco más del 60% de lo que realmente gano.\nY de otros puestos un escalón o dos más altos, la diferencia crece.\nEso si, para los de base, ahí están.\n0\nK\n15\n#35\nBudgie\n#18\nefectivamente. Menuda puta basura\n0\nK\n9\n#8\nSkiner\n*\nLe dan una medalla por sus servicios prestados con ineptitud\n´\nEs muy difícil que te consideren una inepta y que no te echen en 40 años\n2\nK\n32\n#12\nZerjillo\n#8\nA menos que tus jefes sean más ineptos aún.\n1\nK\n16\n#30\nNoviembre_2024\n*\n#8\nLa discapacidad, la enfermedad, le llegó poco a poco mientras pasaba su vida laboral trabajando allí.\nLa ineptitud fue porque por su enfermedad solo podía trabajar en labores administrativas 10-12 horas a la semana y no pudieron encontrarle un puesto con esas características, por lo que la despidieron por no ser apta.\n0\nK\n10\n#31\nSkiner\n#30\nera una broma que conste.\n0\nK\n7\n#33\nNoviembre_2024\n#31\nSip, pusiste el troll. Lo mío fue más por la segunda frase.\n0\nK\n10\n#4\nKa1900\nNos meeeeeeeean...nos meeeeeeeeeeeean y los sindicatos amarillos mirando a Cuenca.\n2\nK\n23\n#13\nKhadgar\n#4\n¿Tan buenas son las mariscadas en Cuenca?\n1\nK\n24\n#16\nKa1900\n#13\nEso los de la UGT te dirán. Que los de la CGT con un pincho tortilla tenemos suficiente para dar mal pa'rato.\n2\nK\n35\n#27\nNoviembre_2024\n#4\n... ¿supongo que vives en Francia,donde ocurre la noticia?\n0\nK\n10\n#34\nKa1900\n#27\nNop...aquí en Ahpaña. Y eso que en Francia nos dan sopas con onda los sindicatos...y aún así....\n0\nK\n13\n#48\nVermel\n*\nLas dos cosas son compatibles, ¿no?\nY el fiel reflejo lo tenemos en el Congreso y el Senado (salvo por lo del despido).\n0\nK\n10\n#17\nencurtido\nY otra por si la pierde.\n0\nK\n7\nVer toda la conversación (\n50\ncomentarios)\nAutentifícate si deseas escribir\ncomentarios. O crea tu cuenta\naquí.\nLogin con Twitter\nLogin con Facebook\nLogin con Google\nmenéame\ncondiciones legales\n/\nde uso\n/\ny de cookies\n/\nquiénes somos\n/ licencias:\ncódigo\n,\ngráficos\n,\ncontenido\n/\nHTML5\n/\ncodigo fuente",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T13:36:04.507+02:00",
+    "updated": "2024-11-29T13:36:04.507+02:00"
+  },
+  {
+    "uuid": "f65ed4d97c41c9a5e79c690ce86d87c2c5333f6f",
+    "url": "https://www.kwongwah.com.my/20250306/%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%A2%AD%E5%87%BB%E9%80%82%E8%80%95%E5%BA%84-%E6%95%B0%E5%8D%81%E9%97%B4%E6%88%BF%E5%B1%8B%E5%8F%97%E6%8D%9F",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bluevy PLT",
+    "published": "2025-03-06T00:00:00Z",
+    "title": "龙卷风袭击适耕庄 数十间房屋受损（附视频）光华日报 | 1910年创刊 创新每一天生活",
+    "text": "一场突如其来的龙卷风袭击了雪兰莪州适耕庄第4沟（Parit 4）地区，导致数十间房屋严重受损。\n龙卷风发生在周四（3月6日）早上7点30分左右，强风掀起民宅房屋顶并抛向空中，尤其是在稻田附近的地区，受灾情况尤为严重。\n- Advertisement -\n事发时正值大雨，除了民宅外，商店、民宿以及农机维修车间等建筑物也遭受破坏。\n从社交媒体上流传的视频可见，龙卷风将屋顶吹飞至50米高空，许多居民因突发灾害而惊慌失措。\n- Advertisement -\n目前，相关部门已介入评估损失情况，并向受灾居民提供援助。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Disaster and Accident->natural disaster",
+      "Social Issue->social problem",
+      "Social Issue->communities",
+      "Environment->sustainability",
+      "Environment->natural resources",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T06:24:03.956+02:00",
+    "updated": "2025-03-06T06:24:03.956+02:00"
+  },
+  {
+    "uuid": "23daee1e1f45132c4116a7dc726a028a678fd7dc",
+    "url": "https://www.giant-bicycles.com/fr-ch/news/berrade-scores-third-vuelta-stage-win-for-kern-pharma/29129",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Giant Bicycles",
+    "published": "2024-09-05T17:00:00Z",
+    "title": "Berrade Scores Third Vuelta Stage Win for Kern Pharma! | Giant Bicycles Schweiz | Suisse",
+    "text": "Four of the top-10 finishers on Stage 18 were all on Giant [Propel Advanced SL bikes](https://www.giant-bicycles.com/global/showcase/propel-advanced-sl) with [CADEX WheelSystems](https://www.cadex-cycling.com/global), with Mauro Schmid from Team Jayco AlUla finishing second. Berrade’s teammates Pablo Castrillo and Pau Miquel were also in the front group, finishing eighth and ninth respectively. Castrillo Climbs to New Heights Berrade’s victory follows two incredible stage wins from his teammate Castrillo, who broke through for his first pro victory on Stage 12 with a superb climbing display and solo attack in the final 10km. The 23-year-old was part of a 10-man break that went clear 27km into the shortest stage of this year’s Vuelta, a 137km race from Ourense to a summit finish atop Montaña de Manzaneda. That Stage 12 victory was the biggest win of Castrillo’s career to date, and also of his Giant-sponsored Spanish squad. It was an emotional day for the team, whose former team president and founder Manolo Azcona had passed away the previous day. “Honestly, I still don’t believe it,” said Castrillo, who wore his [Giant Rev Pro](https://www.giant-bicycles.com/global/showcase/rev-pro) helmet for the win. “I’ve won my first stage at the Vuelta. I’m going to dedicate the victory to my team, my family, and a very special person, Azcona, who died last night, and I was thinking about him today.” Three days later Castrillo struck again, launching a solo attack 3km from the summit finish of Stage 15 to Cuito Negru. In a thrilling battle with Russian Aleksandr Vlasov, the Spaniard proved strongest again, conquering the brutally steep 20 percent grades in the final kilometer to earn another career win in his home country. “I am speechless,” Castrillo said after the win. “Winning this second stage, on such a climb and with such tough rivals, is something incredible. It is something I will remember for the rest of my life.” Kern Pharma Shines Kern Pharma, a team that Giant has sponsored since the squad was founded in 2020 and has partnered with Giant for its [Grassroots development program](https://www.giant-bicycles.com/global/teams-and-riders/grassroots-program/289), was already riding high in the final week of its home nation grand tour. But the underdog squad wasn’t content to rest on their laurels, they had set their sights on achieving more. This time it was Berrade’s turn to score his first professional win. He and his teammates Castrillo and Miquel were also part of a 42-rider breakaway that formed early in Stage 18, a hilly route through the Basque Country of northern Spain. That group got whittled down as the riders tackled several categorized climbs on their way to the finish at Maestu-Parque Natural de Izki. Following a series of attacks and counter-attacks, a lead group of 13 survivors, including the Kern-Pharma trio of Berrade, Castrillo and Miquel, along with Team Jayco-AlUla rider Mauro Schmid, was set for the final showdown. Schmid, the Swiss national road champion, had been active throughout the Vuelta and already had an impressive second-place finish on Stage 13. That result came two days after his Jayco AlUla teammate [Eddie Dunbar won Stage 11](https://www.giant-bicycles.com/global/news/dunbar-takes-stage-win-at-vuelta-a-espana/29108), another big result for riders on Giant bikes. Hitting the final climb with 6km to go, Dutch rider Steven Kruijswijk was the first to attack. He was quickly joined by Berrade, and halfway up the climb the Spanish rider went solo. He continued to pour it on, gaining a 15-second gap and then holding it to the line to score his first professional win since he turned pro in 2019. “At the beginning of the Vuelta, our manager told me that I had to become famous,” Berrade said after his win. “I said that it’s difficult for me, because I’m not a big media guy, but I think with this victory maybe I have a chance.” Berrade Scores Third Vuelta Stage Win for Kern Pharma! jeudi, 5 septembre 2024 Giant Urko Berrade gave the Kern Pharma team its third stage win at the Vuelta a España, winning Stage 18 from a breakaway to continue the upstart Giant-sponsored team’s storybook run at the Spanish grand tour.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cadex-cycling.com/global),",
+      "https://cadex-cycling.com/global),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-06T00:51:05.703+03:00",
+    "updated": "2024-09-27T15:08:26.248+03:00"
+  },
+  {
+    "uuid": "1070c0288b33e858107fc56f0d76ae212bae110a",
+    "url": "https://www.meneame.net/story/rabino-sionista-expone-mentalidad-supremacista-sionista-como-no/c047",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Imag0",
+    "published": "2024-05-26T07:57:00Z",
+    "title": "#47 Rabino sionista expone la mentalidad supremacista sionista autoproclamándose como los \"elegidos de dios\" y admitiendo sentirse superior a los no-judios",
+    "text": "Portada\nmis comunidades\notras secciones\n[#3](c3#c-3) y está escrito, en su libro mágico, que todos los no judíos existen para servir a los judíos.\nSu libro mágico es el bueno, los demás libros mágicos no.\n[#19](c19#c-19) En realidad sí, pero no te alarmes, no hay construcción de la identidad etnica de un grupo (y más si se trata de uno generalmente minoritario y perseguido)n sin su dosis de etnocentrismo.\nEn el caso de los creyentes en yahvé el resto de la humanidad es referida como “goyim”, o “gentiles” y no tiene connotaciones especialmente positivas.\n[#9](c9#c-9) [#19](c19#c-19) \"En la Torá se afirma claramente que el hombre fue creado con un propósito concreto: emular la justicia Divina sobre la Tierra. En un principio, toda la humanidad fue elegida para esta tarea. Sin embargo, los primeros hombres no dieron cumplimiento a esta, misión y permitieron que la- corrupción y la violencia predominaran sobre la justicia y la bondad. Por ese motivo, Dios determinó que se produjera el Gran Diluvio (Mabul) a fin de eliminar a los malvados. En lo sucesivo el castigo por incumplimiento se llevaría a cabo a nivel nacional y no universal. Por esa razón Dios eligió a una nación en particular para que cumpliera esta misión. El Pueblo Elegido seria una nación modelo de Dios sobre la Tierra y demostraría al resto de la humanidad cómo comportarse. Esta nación era la judía.\"\nhttps://www.tora.org.ar/pueblo-elegido-y-su-mision/\nSi eso no es considerar a un pueblo por encima del resto, da lugar a suficientes malas interpretaciones como para llamarles supemacistas.\nNo hay religión buena, no hay fanático respetable.\n[#3](c3#c-3) Típico de fanatismos y sectas cuando se hace una barrera entre los que están dentro y los que están fuera. Cuando la religión no respeta otras formas de ver el mundo es cuando empiezan los fanatismos y las hostias. Si no se acepta la diversidad de credos, apaga y vámonos porque lo que viene luego no es agradable para nadie.\nLuego empezarán con sus Frentes Populares de Judea y acabarán a hostia limpia entre ellos, porque alguien que necesita y busca enemigos para elevar su moral y sus creencias son un saco de hostias en potencia. Alguien que piense así, tiene todas las papeletas para recibir hostias a cascoporro y es lo que van buscando. Quien anda con fuego acaba quemándose.\n[#2](c2#c-2) Un mes.. da un mes, al resto del planeta - sin eeuu... iban a ver los \"elegidos\" que opinan de aquello del \"pueblo elegido\"...\n[#9](c9#c-9) Creo que el problema es que eso lo dice la religión de los judíos, que son descendientes de no sé qué tribu elegida por un dios.\nY habrá judíos que se tomen el judaismo como pertenencia a un grupo y lo reinterpretan y lo ponen al servicio de su vida (igual que hay cristianos que no apedrean a su hija si se casa sin el permiso de su padre). Pero el judaismo tiene una base de supremacismo muy mala de esquivar.\nPues para ser el pueblo elegido:\n- menuda mierda territorio les ha dado, a mí que me den algo que no sea un puto desierto: Francia, El norte de España, Italia, las Seychelles, las mismas orillas del Nilo, Mesopotamia. Zonas fértiles.\n- Salvo los últimos 70 años les han dado más que a una estera.\nAsí que menudo dios cutre.\n[#11](c11#c-11) Eso es: si su dios los hubiera elegido y les tuviera cariño bien pudo haberles dao cuerpo de senegalés...\n[#11](c11#c-11) Un amigo ingeniero agrónomo me contó que aquella zona en tiempos bíblicos fue un vergel, pero empezaron a regar los cultivos con agua de mar y se lo cargaron. No son muy listos los “elegidos”.\nSi Dios existiera haría un fisting con su culo y les enviaría al puto infierno por toda la eternidad.\n[#23](c23#c-23) No sé salvaron los que no quisieron realizar la Aliá (que empezó en 1840 https://es.m.wikipedia.org/wiki/Ali%C3%A1 ) y a esos que no se salvaron los llamaron los sacrificados o holocausto https://es.wikipedia.org/wiki/Holocausto_(sacrificio)\nEs supremacista (pueblo elegido, el resto está para servir) y elitista (no buscan crear nuevos adeptos como en el cristianismo o islamismo o naces judío o no eres judío)\nEsto lo dicen los lideres religiosos judios y la mayoria de ellos lo aceptan como algo natural y te lo repiten con otras palabras menos extremas pero que vienen a ser lo mismo\nPues al final hablando así hasta hacen buenos a los nazis, igual estaban engañados con esta gente...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.tora.org.ar/pueblo-elegido-y-su-mision/",
+      "https://es.m.wikipedia.org/wiki/Ali%C3%A1",
+      "https://es.wikipedia.org/wiki/Holocausto_(sacrificio)",
+      "https://www.es.wikipedia.org/wiki/Holocausto_(sacrificio)",
+      "https://www.es.m.wikipedia.org/wiki/Ali%C3%A1",
+      "https://www.tora.org.ar/pueblo-elegido-y-su-mision",
+      "https://tora.org.ar/pueblo-elegido-y-su-mision/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-26T12:14:49.006+03:00",
+    "updated": "2024-05-26T12:14:49.006+03:00"
+  },
+  {
+    "uuid": "5ffab299f3a6a5ef157bfb59ecd6941d2d559442",
+    "url": "https://beforeitsnews.com/prophecy/2023/12/us-on-high-alertchina-threatens-the-usa-warning-2548167.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@beforeitsnews",
+    "published": "2023-12-28T21:07:00Z",
+    "title": "US On HIGH ALERT…China Threatens The USA (WARNING!) | Prophecy | Before It's News",
+    "text": "US On HIGH ALERT…China Threatens The USA (WARNING!) US On HIGH ALERT…China Threatens The USA (WARNING!) The [Native Americans](https://www.herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347) Have been using [Humic & Fulvic](https://www.herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347) Minerals for Centuries! Great immune system health healing! More info click [Here](https://www.herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347). Anyone can [join](/v3/login/new/). Anyone can contribute. Anyone can become informed about their world. \"United We Stand\" [Click Here](/v3/login/new/)To Create Your Personal [Citizen Journalist](/v3/login/new/)Account Today, Be Sure To Invite Your Friends. Please Help Support BeforeitsNews by trying our Natural Health Products below! Order by Phone at 888-809-8385 or online at [https://mitocopper.com](https://mitocopper.com/) M - F 9am to 5pm EST Order by Phone at 866-388-7003 or online at [https://www.herbanomic.com](https://www.herbanomic.com/) M - F 9am to 5pm EST Order by Phone at 866-388-7003 or online at [https://www.herbanomics.com](https://herbanomics.com/) M - F 9am to 5pm EST [Humic & Fulvic](https://www.herbanomics.com) Trace Minerals Complex - Nature's most important supplement! Vivid Dreams again! [HNEX HydroNano EXtracellular Water](https://www.herbanomics.com) - Improve immune system health and reduce inflammation. [Ultimate Clinical Potency Curcumin](https://mitocopper.com/product/ultracur-bioavailable-curcumin-complex/) - Natural pain relief, reduce inflammation and so much more. [MitoCopper](https://mitocopper.com/product/mitoactivator-extra-strength-60-capsules/) - Bioavailable Copper destroys pathogens and gives you more energy. (See Blood Video) [Oxy Powder](https://mitocopper.com/product/oxy-powder-natural-colon-cleanser-60-capsules/) - Natural Colon Cleanser! Cleans out toxic buildup with oxygen! [Nascent Iodine](https://herbanomics.com/products/detoxadine-organic-iodine-supplement) - Promotes detoxification, mental focus and thyroid health. [Smart Meter Cover](https://mitocopper.com/product/emf-blocking-smart-meter-cover/) - Reduces Smart Meter radiation by 96%! (See Video).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://mitocopper.com/)",
+      "https://mitocopper.com/product/mitoactivator-extra-strength-60-capsules/)",
+      "https://www.herbanomic.com/)",
+      "https://herbanomics.com/products/detoxadine-organic-iodine-supplement)",
+      "https://www.herbanomics.com)",
+      "https://mitocopper.com",
+      "https://www.herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347).",
+      "https://www.herbanomic.com",
+      "https://herbanomics.com/)",
+      "https://mitocopper.com/product/ultracur-bioavailable-curcumin-complex/)",
+      "https://www.herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347)",
+      "https://mitocopper.com/product/emf-blocking-smart-meter-cover/)",
+      "https://www.herbanomics.com",
+      "https://mitocopper.com/product/oxy-powder-natural-colon-cleanser-60-capsules/)",
+      "https://www.mitocopper.com/product/mitoactivator-extra-strength-60-capsules/)",
+      "https://www.mitocopper.com",
+      "https://herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347)",
+      "https://www.herbanomics.com/)",
+      "https://www.mitocopper.com/product/emf-blocking-smart-meter-cover/)",
+      "https://herbanomic.com/humic-fulvic-information#a_aid=JPwriter&a_bid=6407a347).",
+      "https://herbanomic.com",
+      "https://www.mitocopper.com/product/ultracur-bioavailable-curcumin-complex/)",
+      "https://herbanomic.com/)",
+      "https://www.herbanomics.com/products/detoxadine-organic-iodine-supplement)",
+      "https://herbanomics.com",
+      "https://www.mitocopper.com/product/oxy-powder-natural-colon-cleanser-60-capsules/)",
+      "https://www.mitocopper.com/)",
+      "https://herbanomics.com)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "usa",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:10:41.453+02:00",
+    "updated": "2023-12-29T01:05:37.012+02:00"
+  }
+]

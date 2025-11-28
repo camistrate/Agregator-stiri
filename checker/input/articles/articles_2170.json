@@ -1,0 +1,512 @@
+[
+  {
+    "uuid": "4243654e4ffbd426a9db048d21b78d39ae66f00e",
+    "url": "https://news.ltn.com.tw/news/life/paper/1700936",
+    "ord_in_thread": 0,
+    "author": "自由時報電子報",
+    "published": "2025-04-09T21:30:00Z",
+    "title": "基隆公車漏油2公里 2騎士摔傷",
+    "text": "基隆公車漏油2公里 2騎士摔傷\n基隆市義一路與信二路的路面都是油漬，環保局人員以木屑除油。 （記者盧賢秀攝）\n〔記者盧賢秀／基隆報導〕基隆市公車又傳漏油，導致兩名上班騎士摔車受傷！昨天一早，一輛低底盤學生專車經過義一路富狗橋時，底盤擦撞到橋面導致漏油，從義一路、信二路一直到基隆女中沿路約二公里都有油漬，先後造成兩名騎士摔車受傷，公車處表示會負起責任。\n學生專車經富狗橋 底盤擦撞橋面\n昨天上午六點多，義一路台灣銀行基隆分行、基隆市府前的路面發現有大量油漬，從義一路右轉到信二路，一直到基隆女中都有，不少機車紛紛閃避，仍造成兩名騎士摔傷，一人送醫幸無大礙；員警獲報至現場維持交通，清潔隊也在現場鋪木屑吸油止滑、除油，避免再發生意外。\n清潔隊鋪木屑吸油止滑、除油\n公車處長鄭永陽表示，據查是從七堵百福社區到基隆女中的學生專車，行經富狗橋時，底盤擦撞到橋面致使油底殼破裂沿路漏油，駕駛回報後，車輛駛抵基隆女中便拖回保養廠檢修；若有因油漬造成汽機車損害、民眾受傷，公車處都會負責。\n鄭永陽研判是富狗橋路面較高，因公車行駛角度及載客數多，底盤擦撞路面所致。市議員許睿慈指出，富狗橋橋面設計符合低底盤公車行駛標準，且逾兩年未發生類似事故，公車處與工務處應共同調查提出改善措施。此外，未來三年要全數汰換為電動低底盤公車，公車處應強化駕駛員的專業培訓，確保公共運輸系統的友善與安全。\n議員︰應調查提出改善措施\n基隆市公車去年六月也發生漏油意外，一輛二○三線公車深夜加油後開回分站，疑因機械故障在新豐街、北寧路及和平島沿路漏油，造成海大學生及外送員逾十人摔傷，一名外送員摔斷七根肋骨，當時在網路上被罵翻。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Health"
+    ],
+    "topics": [
+      "Crime, Law and Justice->reckless driving",
+      "Crime, Law and Justice->law enforcement",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Disaster and Accident->transportation accident and incident",
+      "Health->emergency care",
+      "Health->injury",
+      "Health->health facility"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:56:43.872+03:00",
+    "updated": "2025-04-10T00:56:43.872+03:00"
+  },
+  {
+    "uuid": "3dba9030a7e03e4f2203af6420db2047a44c12e2",
+    "url": "https://www.jmir.org/2024/1/e58039",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Authors",
+    "published": "2024-11-07T21:30:00Z",
+    "title": "Pioneering Klebsiella Pneumoniae Antibiotic Resistance Prediction With Artificial Intelligence-Clinical Decision Support System–Enhanced Matrix-Assisted Laser Desorption/Ionization Time-of-Flight Mass Spectrometry: Retrospective Study",
+    "text": "Original Paper\nAbstract\nBackground: The rising prevalence and swift spread of multidrug-resistant gram-negative bacteria (MDR-GNB), especially Klebsiella pneumoniae (KP), present a critical global health threat highlighted by the World Health Organization, with mortality rates soaring approximately 50% with inappropriate antimicrobial treatment.\nObjective: This study aims to advance a novel strategy to develop an artificial intelligence-clinical decision support system (AI-CDSS) that combines machine learning (ML) with matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS), aiming to significantly improve the accuracy and speed of diagnosing antibiotic resistance, directly addressing the grave health risks posed by the widespread dissemination of pan drug-resistant gram-negative bacteria across numerous countries.\nMethods: A comprehensive dataset comprising 165,299 bacterial specimens and 11,996 KP isolates was meticulously analyzed using MALDI-TOF MS technology. Advanced ML algorithms were harnessed to sculpt predictive models that ascertain resistance to quintessential antibiotics, particularly levofloxacin and ciprofloxacin, by using the amassed spectral data.\nResults: Our ML models revealed remarkable proficiency in forecasting antibiotic resistance, with the random forest classifier emerging as particularly effective in predicting resistance to both levofloxacin and ciprofloxacin, achieving the highest area under the curve of 0.95. Performance metrics across different models, including accuracy, sensitivity, specificity, positive predictive value, negative predictive value, and F1-score, were detailed, underlining the potential of these algorithms in aiding the development of precision treatment strategies.\nConclusions: This investigation highlights the synergy between MALDI-TOF MS and ML as a beacon of hope against the escalating threat of antibiotic resistance. The advent of AI-CDSS heralds a new era in clinical diagnostics, promising a future in which rapid and accurate resistance prediction becomes a cornerstone in combating infectious diseases. Through this innovative approach, we answered the challenge posed by KP and other multidrug-resistant pathogens, marking a significant milestone in our journey toward global health security.\ndoi:10.2196/58039\nKeywords\nIntroduction\nThe World Health Organization (WHO) has highlighted antibiotic resistance as a grave global health threat, particularly emphasizing the challenge posed by multidrug-resistant Klebsiella pneumoniae (MDR-KP) []. Bacteremia caused by MDR-KP is linked to mortality rates as high as 47%, underlining the critical impact of multidrug resistance [ - ]. Initially, quinolones were highly effective against such infections due to their unique mechanism of action, distinct from β-lactams, targeting different bacterial processes [ , ]. However, increasing quinolone resistance among KP, driven by mutations in key enzyme regions, efflux pump overexpression, and plasmid-mediated mechanisms, undermines quinolone effectiveness, complicating infection management and underscoring the adaptability of bacterial resistance [ , ].\nThe emergence of quinolone resistance in KP strains within clinical settings indicates the critical demand for novel diagnostic techniques [- ]. Rapid and accurate detection of antibiotic-resistant pathogens in patients is essential for controlling resistance spread [ , ]. Thus, the slow pace of culture-based diagnostics in addressing antibiotic resistance required shifting toward new, more agile strategies, emphasizing the need for quicker, more effective treatment options to navigate the challenges of rapidly evolving infections [ ].\nThe dynamic battle against antibiotic resistance necessitates quick-to-adapt diagnostic tools for effective management []. Matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) is indispensable for the rapid and accurate identification of microorganisms [ , ]. Its application extends to the detection of virulence factors in antibiotic-resistant strains yet often transcends standard procedural bounds [ , ]. Combining machine learning (ML) with MALDI-TOF MS ushers in a novel paradigm for predicting antibiotic resistance [ ], specifically targeting quinolone-resistant KP.\nOur study introduces the development of an artificial intelligence-clinical decision support system (AI-CDSS) designed to enhance the clinical decision-making process regarding the use of quinolones as a potential antibiotic option. Integrating the precision of MALDI-TOF MS technology with advanced ML algorithms, our system aims to equip health care professionals with quick and evidence-based recommendations for the optimal use of antibiotics tailored to individual patient needs. This innovative approach not only improves the rapidity and precision of identifying antibiotic resistance but also offers clinicians valuable insights, enabling prompt and well-informed treatment choices. Consequently, this facilitates improved patient outcomes and more effective combat against the proliferation of antibiotic resistance.\nMethods\nStudy Designs and Data Collection\nFrom January 2021 to December 2023, a comprehensive research project was undertaken by the Tri-Service General Hospital alongside 4 district hospitals, examining 165,299 bacterial specimens using advanced MALDI-TOF MS technology provided by bioMérieux, France. This study identified 11,996 specimens as KP, which were further subjected to antibiotic sensitivity testing (AST) for levofloxacin (LEV) and ciprofloxacin (CIP) using the VITEK 2 system (bioMérieux). This system is claimed to be precise in such assessments. The analysis of the AST results strictly adhered to the clinical breakpoints defined by the Clinical and Laboratory Standards Institute, ensuring that the study aligned with the established microbiological norms [, ].\nThe objective of this extensive analysis was to develop 2 predictive models: one to ascertain resistance to LEV and the other to CIP. The exclusion of 869 specimens from the LEV resistance analysis was necessary because of intermediate AST results, which refined the focus to 11,127 specimens for thorough investigation. Similarly, for CIP resistance, 373 specimens were excluded because of intermediate results, concentrating the analysis on 11,623 specimens. This detailed and systematic process emphasizes the rigor of the study and its commitment to deliver precise and reliable evaluations of antibiotic resistance among microbial specimens. The dataset was strategically divided as follows: samples collected from January to September were designated for training the models, whereas those collected from October to December served as the validation set. This temporal split was performed to simulate the application of the models in real-world settings.\nData Preprocessing and Feature Extraction\nOur research was initiated by extracting mass-to-charge (m/z) ratios and intensity values from MALDI-TOF MS data to establish an essential foundation. We addressed data imbalance through a resampling strategy using sklearn.utils, applying downsampling to over-represented classes and upsampling for underrepresented classes, thus balancing the dataset to diminish model bias and enhance generalization. In feature engineering, we segmented m/z ranges into 1-unit intervals, allowing a ± 2-unit tolerance for grouping similar observations. We then extracted and logarithmically transformed the peak intensity values for both the antibiotic-resistant and antibiotic-susceptible strains within these segments. This crucial step normalizes the data, improves strain comparability, and enables precise identification of resistance pattern variations. We filtered out segments with a feature importance value below 0.01 as background noise, focusing our model on significant attributes to optimize performance and achieve our research objectives.\nML Model Development and Training\nTo detect LEV and CIP resistance in KP, we selected an array of sophisticated algorithms including Logistic Regression, Linear Discriminant Analysis, Random Forest, Gradient Boosting Classifier, AdaBoost Classifier, XGBoost, and light gradient boosting machine (LGBM). This diverse selection was aimed at leveraging their distinct strengths for a more precise and comprehensive analysis. Our goal was to thoroughly explore antibiotic resistance patterns to improve treatment strategies and provide valuable insights into the management of microbial resistance. A grid search was performed for each model to determine the optimal parameters, enhancing accuracy and performance. The best parameters identified for each model are detailed in.\nModel Evaluation\nTo assess the accuracy of our predictive models, we used several key metrics, including receiver operating characteristic (ROC) curves, area under the curve (AUC), sensitivity, specificity, positive predictive value (PPV), negative predictive value (NPV), and F1-score. These metrics provide a detailed evaluation of the effectiveness of the model and ensure that the findings are reliable and robust. Such a comprehensive evaluation method is vital for predicting antibiotic resistance.\nClinical Validation\nTo affirm the applicability of our models in real-world clinical settings, we conducted clinical validation at Tri-Service General Hospital using the validation dataset. During the validation period, we specifically validated 3339 cases of LEV resistance and 3487 cases of CIP resistance against traditional culture-based AST. We evaluated the predictive accuracy by analyzing sensitivity, specificity, PPV, NPV, and F1-score.\nAI-CDSS Deployment\nWe created a web-based AI-CDSS specifically designed for health care professionals. This system leverages cutting-edge ML algorithms to quickly determine the resistance to LEV and CIP. The process began with the collection of a culture sample, which the AI-CDSS then analyzed to predict resistance patterns. For a clear understanding of our process, The flowchart inrepresents the systematic process behind the development of the AI-CDSS, which commenced with a comprehensive data collection phase, acquiring 165,299 bacterial specimens from January 2021 to December 2023. Post identification of Klebsiella pneumoniae within the samples, they were subjected to AST. Specimens yielding intermediate AST results were excluded, resulting in 11,127 for LEV and 11,623 for CIP resistance analyses, thus forming a training dataset. Subsequent data preprocessing involved meticulous feature extraction and log transformation of mass spectrometry data to eliminate noise and standardize the dataset. This dataset was then used to train robust ML models, such as Random Forest, LGBM, and XGBoost, to accurately predict antibiotic resistance. The AI-CDSS, by leveraging these models, facilitates rapid and precise predictions of LEV and CIP resistance, ultimately aiding health care professionals in informed clinical decision-making.\nEthical Considerations\nThis retrospective study adhered to the ethical standards outlined in the Declaration of Helsinki and relevant local regulations for human subject protection. The institutional review board of Tri-Service General Hospital, Taipei, Taiwan, approved the research (TSGHIRB No. C202305073). Due to the study's retrospective design, the requirement for informed consent was waived. All analyzed data were anonymized to ensure patient confidentiality.\nResults\nML Model Development Using MS Data\nMS analyses revealed distinct spectral differences that differentiated antibiotic-resistant KP strains from their susceptible counterparts.shows the average intensity distributions across m/z segments for KP strains, with CIP resistance shown in blue and susceptibility in red. The top graph (A) highlights the m/z segments that differ between CIP-resistant and susceptible strains, whereas the bottom graph (B) depicts analogous distributions for LEV resistance. These graphs provide a stark visual comparison of the spectral differences, emphasizing the distinct spectral markers associated with antibiotic resistance that can be instrumental for rapid resistance detection.\nMS data for KP showed a consistent array of the top 15 spectral features in strains resistant to both CIP and LEV. These features span m/z ratio ranges of 2035-2040, 2067-2072, 2166-2171, 2180-2185, 2688-2695, 2759-2764, 3143-3152, 4363-4368, 4567-4572, 5278-5283, 5379-5384, 7238-7253, 7703-7708, 9136-9145, and 9532-9544. The shared features across CIP- and LEV-resistant strains suggest a universal mechanism of resistance despite the different modes of action of antibiotics.\nThis is graphically represented in the heat maps inA for ciprofloxacin and B for levofloxacin, where the correlation between each m/z ratio range and resistance status are color-coded for clarity. The intensity of the color correlates with the strength of the association; the redder the hue, the stronger the correlation with resistance. These heat maps provide a visual summary of the data, emphasizing the features most strongly associated with resistance, thus informing future molecular studies and aiding in the development of new approaches to combat antibiotic resistance. In , The top graph (A) shows the correlation between the top 15 m/z segments and CIP resistance, whereas the bottom graph (B) illustrates these correlations for LEV resistance. The heatmaps transition from blue to red, indicating an increasing strength of correlation from weaker to stronger, respectively. These patterns highlighted the top 15 differential m/z segments that were most indicative of antibiotic resistance.\nModel Performance Metrics, Validation Results, and ROC Curve Analyses\nTo assess the efficacy of ML models in predicting antibiotic resistance in KP, we evaluated several algorithms across 2 different drug resistances. The model performance metrics, including the AUC, accuracy, sensitivity, specificity, PPV, NPV, and F1-score, are detailed inand for CIP and LEV resistance, respectively. For CIP resistance, the Random Forest demonstrated the highest testing AUC at 0.95, indicative of its robust predictive power, with Gradient Boosting Classifier and XGBoost also performing notably well with AUCs of 0.95 and 0.94, respectively. These models are particularly useful in identifying CIP-resistant KP strains with high accuracy and precision.\n|Models||Training AUCa||Testing AUC||Accuracy||Sensitivity||Specificity||PPVb||NPVc||F1-score|\n|RFd||0.99||0.95||0.87||0.88||0.86||0.81||0.91||0.85|\n|LGBMe||0.99||0.95||0.90||0.88||0.91||0.87||0.92||0.88|\n|GBCf||0.99||0.95||0.87||0.92||0.84||0.80||0.93||0.86|\n|XGBoost||0.99||0.95||0.87||0.89||0.86||0.82||0.92||0.85|\n|AdaBoost||0.99||0.87||0.77||0.81||0.74||0.69||0.85||0.74|\n|LRg||0.91||0.84||0.78||0.77||0.78||0.71||0.83||0.74|\n|LDAh||0.96||0.80||0.77||0.80||0.75||0.69||0.84||0.74|\naAUC: area under the curve.\nbPPV: positive predictive value.\ncNPV: negative predictive value.\ndRF: random forest.\neLGBM: light gradient boosting machine.\nfGBC: gradient boosting classifier.\ngLR: logistic regression.\nhLDA: linear discriminant analysis.\n|Models||Training AUCa||Testing AUC||Accuracy||Sensitivity||Specificity||PPVb||NPVc||F1-score|\n|RFd||0.99||0.95||0.86||0.89||0.82||0.86||0.86||0.87|\n|GBCe||0.99||0.95||0.87||0.88||0.86||0.89||0.85||0.88|\n|XGBoost||0.99||0.93||0.85||0.86||0.85||0.87||0.83||0.86|\n|LGBMf||0.99||0.92||0.85||0.84||0.85||0.87||0.82||0.86|\n|AdaBoost||0.99||0.90||0.85||0.85||0.84||0.87||0.83||0.86|\n|LRg||0.77||0.73||0.66||0.74||0.57||0.68||0.64||0.70|\n|LDAh||0.72||0.68||0.64||0.81||0.43||0.63||0.65||0.71|\naAUC: area under the curve.\nbPPV: positive predictive value.\ncNPV: negative predictive value.\ndRF: random forest.\neGBC: gradient boosting classifier.\nfLGBM: light gradient boosting machine.\ngLR: logistic regression.\nhLDA: linear discriminant analysis.\nThe LEV resistance models displayed a similar trend, with the Random Forest classifier again showing exceptional performance, with an AUC of 0.95. The gradient boosting classifier and XGBoost showed similar effectiveness, with AUCs of 0.95 and 0.93. These algorithms proved effective in distinguishing LEV-resistant and LEV-susceptible strains with considerable accuracy. The ROC curves, as presented inA and B, visually encapsulate the model performance, with the Random Forest, XGBoost, and Gradient Boosting classifiers exhibiting steep ascents toward the upper left corner, denoting high true-positive rates and low false-positive rates. Although logistic regression and Linear Discriminant Analysis showed lower AUC values, their inclusion offered a broad perspective and contributed to the ensemble approach in model evaluation. In , the 2 charts display the performance of various ML models in classifying Klebsiella pneumoniae strains as resistant or susceptible to 2 antibiotics: CIP and LEV. The top panel (A) displays the ROC curves for models predicting CIP resistance, with the Random Forest classifier achieving an AUC of 0.95, indicating its excellent predictive ability. The bottom panel (B) displays the ROC curves for models predicting LEV resistance, where the random forest (RF) classifier also achieves a high AUC of 0.95, demonstrating consistently high performance across different antibiotic resistances. The curves plot each model's true positive rate (sensitivity) against its false positive rate (1-specificity), with the diagonal line representing a random chance. The closer a curve follows the left-hand border and then the top border of the ROC space, the more accurate the test.\nDespite their range of performance metrics, our ensemble of models collectively provided a robust method for assessing KP resistance to CIP and LEV. This comprehensive approach, which leverages the strengths of multiple predictive algorithms, offers valuable insights into antibiotic resistance patterns, aiding the development of precision treatment strategies using our AI-CDSS.\nIntegration of AI-CDSS in the Clinical Process\nThe integration of our AI-CDSS platform into the antibiotic resistance–testing workflow represents a significant advancement in the treatment of infectious diseases. This system streamlines the evaluation process from the initial culture of samples to the final decision-making in clinical settings. Using advanced ML algorithms, the platform rapidly predicts resistance to antibiotics, such as LEV and CIP, providing clinicians with precise and efficient analyses that inform treatment strategies. This is particularly critical for managing cases of KP, for which timely intervention is crucial. The platform’s predictive capabilities allow for resistance determination for approximately 3 days, a notable improvement over the conventional 4-day timeline required for standard AST. By accelerating the decision-making process, the AI-CDSS contributes to improved patient outcomes and enhances antibiotic stewardship efforts, ensuring that treatments are both appropriate and effective. The workflow diagram clearly contrasts the AI-CDSS with traditional AST methods, highlighting the reduction in time to clinical decisions and underscoring the benefits of real-time data in the management of infectious diseases.\nDiscussion\nPrincipal Findings\nThis investigation of the predictive capabilities of ML and MALDI-TOF MS for identifying quinolone-susceptible KP and quinolone-resistant KP signifies a groundbreaking development in the expedited diagnosis of infectious diseases. The synergy between MALDI-TOF MS and ML provides an innovative approach to detecting and managing antibiotic-resistant pathogens. This advancement is particularly relevant for low- and middle-income countries (LMICs), where the WHO has noted a rapid escalation in antibiotic use, presenting challenges to access and stewardship [, ]. Our findings are of significant value in LMICs, as they propose a strategic balance between antibiotic availability and stewardship, which could influence policy adaptations aimed at fulfilling WHO objectives and strengthening global health security against antimicrobial resistance.\nThe increasing prevalence of antibiotic resistance, notably in quinolone-resistant KP strains, necessitates novel diagnostic methods [- ]. Traditional methods fail to swiftly identify these bacteria, thereby prolonging the initiation of suitable treatments and containment actions [ ]. Previous research on ML with MALDI-TOF for discerning quinolone-resistant KP has used a modest number of isolates. Our study compiles an unprecedentedly large dataset for a ML model to detect quinolone-resistant KP, demonstrating the potential of advanced technologies in predicting resistance with high precision, thereby expediting accurate diagnoses and enabling effective treatments. The incorporation of algorithms such as Random Forest and XGBoost has shown high efficacy in differentiating between resistant and susceptible KP strains, playing a pivotal role in informed antibiotic selection and combating the spread of resistance.\nComparative Advantages of MALDI-TOF MS and Next-Generation Sequencing in Clinical Settings\nIn clinical practice, KP was identified using MALDI-TOF MS and subsequently tested for antibiotic susceptibility with the VITEK 2 system. In our study, we used artificial intelligence to analyze MALDI-TOF MS spectra and predict KP as resistant or susceptible phenotypes. Although next-generation sequencing (NGS) is commonly used for genotype analysis in other studies, genotypic data may not always align with phenotypic expressions. Antibiotic resistance typically develops through genetic alterations, either by the acquisition of resistance genes or mutations in elements crucial for antibiotic activity. However, resistance can also occur without any genetic changes, a phenomenon known as phenotypic resistance illustrating the challenges of predicting antibiotic resistance based solely on genetic information [- ]. Discrepancies may arise from pseudogenes in low antibiotic environments, where nonlethal mutations persist in contrast to the rapid elimination of ineffective genes in high antibiotic environments [ ]. In addition, gene interactions, regulatory mechanisms, and expression levels significantly impact resistance gene functionality [ - ]. Our study emphasizes the ability of MALDI-TOF MS to quickly provide crucial, actionable resistance profiles for urgent clinical decisions [ , ]. NGS can provide a detailed analysis of resistance genes; however, its longer processing times limit its use in emergencies [ - ]. In contrast, MALDI-TOF MS can detect these mechanisms through its protein expression analysis, proving invaluable in clinical settings that require rapid decision-making [ , ].\nSpeeding Up Pathogen Diagnostics With AI and MALDI-TOF MS\nOur integration of AI-CDSS with MALDI-TOF MS technology offers a significant improvement in diagnostic speed and efficiency that answers the need for rapid diagnostics for infectious diseases, particularly those involving drug-resistant pathogens such as KP. Our approach reduces the time needed to determine antibiotic resistance to approximately 72 hours from the initial culture. Traditional culturing methods, while reliable, require up to 96 hours—72 hours for culturing and identification and an additional 24 hours for AST interpretation, potentially delaying critical treatment decisions [, ]. In comparison, polymerase chain reaction (PCR) and sequencing methods still require 72 hours for the initial pathogen identification by MALDI-TOF MS, followed by 1-2 days for PCR and 3-4 days for sequencing, depending on the complexity of the analysis [ , , , ]. Comparisons of the timelines for each method were provided in . Therefore, our study demonstrates that the integration of AI-CDSS with MALDI-TOF MS not only significantly speeds up the diagnostic process but also improves the timeliness of clinical responses, crucial for managing severe infections.\nImpact and Future Directions\nIn addition to the advancements detailed above, the integration of an AI-CDSS is a groundbreaking enhancement of our diagnostic capabilities. The AI-CDSS, which leverages the predictive power of ML models, offers clinicians real-time, data-driven insights, significantly improving the decision-making process in the treatment of infections caused by LEV- and CIP-resistant KP. This system can rapidly interpret complex diagnostic data, recommend personalized treatment options, and predict potential resistance patterns, thereby streamlining the diagnostic workflow and facilitating a more targeted approach to antibiotic therapy. The introduction of AI-CDSS into our methodology underscores our commitment to harness cutting-edge technology to combat antibiotic resistance, representing a vital step forward in the optimization of clinical outcomes and advancement of antibiotic stewardship.\nLimitations\nThis study underscores the intricacies involved in dataset balancing and the pivotal role of feature selection within the domain of ML algorithms. A comprehensive approach to data preprocessing, feature extraction, and the subsequent training of models delineates the multifaceted nature of constructing dependable predictive frameworks. In addition, intermediate results often present challenges in predictive models due to the uncertainty they introduce, which can potentially skew the model’s outcomes. Consequently, the exclusion of specimens with intermediate AST results (869 for LEV and 373 for CIP) allowed for a more focused study but potentially omitted significant data, affecting model generalizability for these intermediate cases. Future research should focus on enhancing these models by incorporating intermediate cases, as well as diverse data modalities, to broaden their applicability and encompass a wider array of antibiotic-resistant organisms. Furthermore, the significance of this investigation transcends the boundaries of immediate clinical use and serves as a cornerstone for informing public health policies and shaping infection control methodologies. This study makes a substantial contribution to international efforts aimed at combating antimicrobial resistance by providing a swift, precise, and economically viable mechanism to identify antibiotic resistance. This issue remains a global public health priority and requires continued attention and action.\nComparison With Previous Work\nPrevious studies used conventional PCR-based methods to identify quinolone resistance genes among KP clinical isolates [, ]. ML techniques combined with MALDI-TOF of discrimination of carbapenem-resistant KP with limited sample isolates [ , ]. To date, there are no studies discussing the use of ML combined with MALDI-TOF for the rapid identification of quinolone resistance in KP. Our research establishes the most extensive collection of isolates to date for constructing a ML model aimed at identifying LEV and CIP resistance. The methodological innovation of this study, through the analysis of approximately 12,000 KP cultures, demonstrates the feasibility and accuracy of using advanced technologies to predict resistance patterns. This approach not only enhances the precision of diagnostics but also significantly reduces the time required to identify resistant strains, facilitating timely and targeted therapeutic interventions.\nConclusions\nMALDI-TOF MS is a swift, accurate, and cost-efficient method for identifying bacteria, including its application in the detection of antibiotic resistance. This study highlights the successful AI-CDSS with the application of a ML-enhanced MALDI-TOF approach for predicting quinolone-resistant KP. However, certain constraints exist, particularly when resistance mechanisms are not mediated at the protein-peptide level or fall outside the m/z ratio range of 2000-20,000. Future studies are required to validate the results further.\nAcknowledgments\nWe would like to thank Editage for its English language editing service.\nThe grants awarded by the hospital (grant numbers TSGH-D-113105 and TSGH-D-113106) were pivotal in facilitating our research.\nData Availability\nThe datasets generated during and/or analyzed during this study are available from the corresponding author on reasonable request.\nAuthors' Contributions\nM-JJ contributed to the conceptualization, formal analysis, investigation, data curation, and writing of the original draft. T-HL was involved in formal analysis, data interpretation, and writing – review and editing. H-YC contributed to data curation and data interpretation. C-KC was responsible for conceptualization and investigation. C-LP focused on data curation. F-YC contributed to data interpretation. H-SS was involved in conceptualization, supervision, methodology, investigation, project administration, and writing – both the original draft and review & editing. All authors contributed to the manuscript preparation and approved the final version.\nConflicts of Interest\nNone declared.\nParameters of machine learning models for predicting Levofloxacin and Ciprofloxacin resistance.\nDOCX File , 22 KB\nWorkflow comparison of diagnostic techniques for antibiotic resistance detection.\nPNG File , 112 KB\nReferences\n- WHO. WHO Publishes List of Bacteria For Which New Antibiotics Are Urgently Needed. 2017. URL:\nhttps://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed[accessed 2017-02-27]\n- Capone A, Giannella M, Fortini D, Giordano A, Meledandri M, Ballardini M, et al. High rate of colistin resistance among patients with carbapenem-resistant Klebsiella pneumoniae infection accounts for an excess of mortality. Clin Microbiol Infect. 2013;19(1):E23-E30. <a href=\"https://dx.doi.org/10.1111/1469-0691.12070\">\n[CrossRef</a>] [Medline]\n- Navon-Venezia S, Kondratyeva K, Carattoli A. Klebsiella pneumoniae: a major worldwide source and shuttle for antibiotic resistance. FEMS Microbiol Rev. 2017;41(3):252-275. https://dx.doi.org/10.1093/femsre/fux013] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28521338&dopt=Abstract]\n- Lautenbach E, Metlay JP, Bilker WB, Edelstein PH, Fishman NO. Association between fluoroquinolone resistance and mortality in escherichia coli and klebsiella pneumoniae infections: the role of inadequate empirical antimicrobial therapy. Clin Infect Dis. 2005;41(7):923-929. https://dx.doi.org/10.1086/432940] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=16142655&dopt=Abstract]\n- Hooper DC, Jacoby GA. Topoisomerase inhibitors: fluoroquinolone mechanisms of action and resistance. Cold Spring Harb Perspect Med. 2016;6(9):a025320. https://dx.doi.org/10.1101/cshperspect.a025320] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=27449972&dopt=Abstract]\n- Du D, Wang-Kan X, Neuberger A, van Veen HW, Pos KM, Piddock LJV, et al. Multidrug efflux pumps: structure, function and regulation. Nat Rev Microbiol. 2018;16(9):523-539. https://dx.doi.org/10.1038/s41579-018-0048-6] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30002505&dopt=Abstract]\n- Hooper DC, Jacoby GA. Mechanisms of drug resistance: quinolone resistance. Ann N Y Acad Sci. 2015;1354(1):12-31. https://dx.doi.org/10.1111/nyas.12830] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26190223&dopt=Abstract]\n- Müller L, Srinivasan A, Abeles SR, Rajagopal A, Torriani FJ, Aronoff-Spencer E. A Risk-Based clinical decision support system for Patient-Specific antimicrobial therapy (iBiogram): design and retrospective analysis. J Med Internet Res. 2021;23(12):e23571. https://dx.doi.org/10.2196/23571] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=34870601&dopt=Abstract]\n- Tseng YJ, Wu JH, Ping XO, Lin HC, Chen YY, Shang RJ, et al. A Web-based multidrug-resistant organisms surveillance and outbreak detection system with rule-based classification and clustering. J Med Internet Res. 2012;14(5):e131. https://dx.doi.org/10.2196/jmir.2056] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23195868&dopt=Abstract]\n- Garcia E, Diep JK, Sharma R, Rao GG. Model-based learn and confirm: designing effective treatment regimens against multidrug resistant Gram-negative pathogens. Int J Antimicrob Agents. 2024;63(4):107100. https://dx.doi.org/10.1016/j.ijantimicag.2024.107100] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38280574&dopt=Abstract]\n- Weis C, Cuénod A, Rieck B, Dubuis O, Graf S, Lang C, et al. Direct antimicrobial resistance prediction from clinical MALDI-TOF mass spectra using machine learning. Nat Med. 2022;28(1):164-174. https://dx.doi.org/10.1038/s41591-021-01619-9] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35013613&dopt=Abstract]\n- Yu J, Tien N, Liu YC, Cho DY, Chen JW, Tsai YT, et al. Rapid identification of Methicillin-Resistant staphylococcus aureus using MALDI-TOF MS and machine learning from over 20,000 clinical isolates. Microbiol Spectr. 2022;10(2):e0048322. https://dx.doi.org/10.1128/spectrum.00483-22] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35293803&dopt=Abstract]\n- Jang KS, Kim YH. Rapid and robust MALDI-TOF MS techniques for microbial identification: a brief overview of their diverse applications. J Microbiol. 2018;56(4):209-216. https://dx.doi.org/10.1007/s12275-018-7457-0] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29492868&dopt=Abstract]\n- Wayne P, CLSI. Performance Standards for Antimicrobial Susceptibility Testing. 28th ed. Pennsylvania. Clinical and Laboratory Standards Institute; 2018.\n- Humphries RM, Abbott AN, Hindler JA. Understanding and addressing CLSI breakpoint revisions: a primer for clinical laboratories. J Clin Microbiol. 2019;57(6):e00203. <a href=\"https://europepmc.org/abstract/MED/30971460\">\n[FREE Full text</a>] [CrossRef] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30971460&dopt=Abstract]\n- Klein EY, Van Boeckel TP, Martinez EM, Pant S, Gandra S, Levin SA, et al. Global increase and geographic convergence in antibiotic consumption between 2000 and 2015. Proc Natl Acad Sci U S A. 2018;115(15):E3463-E3470. https://dx.doi.org/10.1073/pnas.1717295115] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29581252&dopt=Abstract]\n- Hughes D, Andersson DI. Environmental and genetic modulation of the phenotypic expression of antibiotic resistance. FEMS Microbiol Rev. 2017;41(3):374-391. https://dx.doi.org/10.1093/femsre/fux004] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28333270&dopt=Abstract]\n- Davis MA, Besser TE, Orfe LH, Baker KNK, Lanier AS, Broschat SL, et al. Genotypic-phenotypic discrepancies between antibiotic resistance characteristics of escherichia coli isolates from calves in management settings with high and low antibiotic use. Appl Environ Microbiol. 2011;77(10):3293-3299. https://dx.doi.org/10.1128/AEM.02588-10] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=21421795&dopt=Abstract]\n- Deekshit VK, Srikumar S. 'To be, or not to be'-The dilemma of 'silent' antimicrobial resistance genes in bacteria. J Appl Microbiol. 2022;133(5):2902-2914. https://dx.doi.org/10.1111/jam.15738] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35882476&dopt=Abstract]\n- Johansen Taber KA, Dickinson BD, Wilson M. The promise and challenges of next-generation genome sequencing for clinical care. JAMA Intern Med. 2014;174(2):275-280. https://dx.doi.org/10.1001/jamainternmed.2013.12048] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=24217348&dopt=Abstract]\n- Reis-Filho JS. Next-generation sequencing. Breast Cancer Res. 2009;Suppl 3(Suppl 3):S12. https://dx.doi.org/10.1186/bcr2431] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20030863&dopt=Abstract]\n- Sow D, Fall B, Ndiaye M, Ba BS, Sylla K, Tine R, et al. Usefulness of MALDI-TOF mass spectrometry for routine identification of candida species in a Resource-Poor setting. Mycopathologia. 2015;180(3-4):173-179. https://dx.doi.org/10.1007/s11046-015-9905-2] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26016846&dopt=Abstract]\n- Duncan MW, Nedelkov D, Walsh R, Hattan SJ. Applications of MALDI mass spectrometry in clinical chemistry. Clin Chem. 2016;62(1):134-143. https://dx.doi.org/10.1373/clinchem.2015.239491] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26585930&dopt=Abstract]\n- Chang KW, Cheng HW, Shiue J, Wang JK, Wang YL, Huang NT. Antibiotic susceptibility test with Surface-Enhanced raman scattering in a microfluidic system. Anal Chem. 2019;91(17):10988-10995. https://dx.doi.org/10.1021/acs.analchem.9b01027] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=31387345&dopt=Abstract]\n- Martineau F, Picard FJ, Grenier L, Roy PH, Ouellette M, Bergeron MG. Multiplex PCR assays for the detection of clinically relevant antibiotic resistance genes in staphylococci isolated from patients infected after cardiac surgery. the ESPRIT trial. J Antimicrob Chemother. 2000;46(4):527-534. https://dx.doi.org/10.1093/jac/46.4.527] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11020248&dopt=Abstract]\n- Li B, Yan T. Next generation sequencing reveals limitation of qPCR methods in quantifying emerging antibiotic resistance genes (ARGs) in the environment. Appl Microbiol Biotechnol. 2021;105(7):2925-2936. https://dx.doi.org/10.1007/s00253-021-11202-4] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33738553&dopt=Abstract]\n- El-Badawy MF, Tawakol WM, El-Far SW, Maghrabi IA, Al-Ghamdi SA, Mansy MS, et al. Molecular identification of aminoglycoside-Modifying enzymes and plasmid-Mediated quinolone resistance genes among clinical isolates recovered from Egyptian patients. Int J Microbiol. 2017;2017:8050432. https://doi.org/10.1155/2017/8050432] https://dx.doi.org/10.1155/2017/8050432] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28638412&dopt=Abstract]\n- Swedan S, Alabdallah EA, Ababneh Q. Resistance to aminoglycoside and quinolone drugs among clinical isolates from northern Jordan. Heliyon. 2024;10(1):e23368. https://linkinghub.elsevier.com/retrieve/pii/S2405-8440(2310576-7)] https://dx.doi.org/10.1016/j.heliyon.2023.e23368] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38163217&dopt=Abstract]\n- Yu J, Lin YT, Chen WC, Tseng KH, Lin HH, Tien N, et al. Direct prediction of carbapenem-resistant, carbapenemase-producing, and colistin-resistant klebsiella pneumoniae isolates from routine MALDI-TOF mass spectra using machine learning and outcome evaluation. Int J Antimicrob Agents. 2023;61(6):106799. https://dx.doi.org/10.1016/j.ijantimicag.2023.106799] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37004755&dopt=Abstract]\n- Zhang YM, Tsao MF, Chang CY, Lin KT, Keller JJ, Lin HC. Rapid identification of carbapenem-resistant klebsiella pneumoniae based on matrix-assisted laser desorption ionization time-of-flight mass spectrometry and an artificial neural network model. J Biomed Sci. 2023;30(1):25. https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-023-00918-2] https://dx.doi.org/10.1186/s12929-023-00918-2] https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37069555&dopt=Abstract] []\nAbbreviations\n|AI-CDSS: artificial intelligence-clinical decision support system|\n|AST: antibiotic sensitivity testing|\n|AUC: area under the receiver operating characteristic curve|\n|CIP: ciprofloxacin|\n|KP: Klebsiella pneumoniae|\n|LEV: levofloxacin|\n|LGBM: light gradient boosting machine|\n|LMIC: low- and middle-income country|\n|m/z: mass-to-charge ratio|\n|MALDI-TOF MS: matrix-assisted laser desorption/ionization time-of-flight mass spectrometry|\n|MDR-GNB: multidrug-resistant gram-negative bacteria|\n|MDR-KP: multidrug-resistant Klebsiella pneumoniae|\n|ML: machine learning|\n|NGS: next-generation sequencing|\n|NPV: negative predictive value|\n|PCR: polymerase chain reaction|\n|PPV: positive predictive value|\n|ROC: receiver operating characteristic|\n|WHO: World Health Organization|\nEdited by A Schwartz; submitted 04.03.24; peer-reviewed by M Jani, E Lin; comments to author 14.04.24; revised version received 06.05.24; accepted 17.09.24; published 07.11.24.\nCopyright\n©Ming-Jr Jian, Tai-Han Lin, Hsing-Yi Chung, Chih-Kai Chang, Cherng-Lih Perng, Feng-Yee Chang, Hung-Sheng Shang. Originally published in the Journal of Medical Internet Research https://www.jmir.org, 07.11.2024.\nThis is an open-access article distributed under the terms of the Creative Commons Attribution License https://creativecommons.org/licenses/by/4.0/, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work, first published in the Journal of Medical Internet Research (ISSN 1438-8871), is properly cited. The complete bibliographic information, a link to the original publication on https://www.jmir.org/, as well as this copyright and license information must be included.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28638412&dopt=Abstract",
+      "https://dx.doi.org/10.1093/femsre/fux004",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33738553&dopt=Abstract",
+      "https://doi.org/10.2196/58039",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=27449972&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37004755&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28521338&dopt=Abstract",
+      "https://dx.doi.org/10.2196/jmir.2056",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=21421795&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26585930&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23195868&dopt=Abstract",
+      "https://dx.doi.org/10.1038/s41591-021-01619-9",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26016846&dopt=Abstract",
+      "https://dx.doi.org/10.1007/s00253-021-11202-4",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35293803&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11020248&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38280574&dopt=Abstract",
+      "https://dx.doi.org/10.2196/23571",
+      "https://dx.doi.org/10.1021/acs.analchem.9b01027",
+      "https://dx.doi.org/10.1073/pnas.1717295115",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29492868&dopt=Abstract",
+      "https://dx.doi.org/10.1001/jamainternmed.2013.12048",
+      "https://dx.doi.org/10.1016/j.ijantimicag.2024.107100",
+      "https://dx.doi.org/10.1186/bcr2431",
+      "https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-023-00918-2",
+      "https://dx.doi.org/10.1111/1469-0691.12070",
+      "https://dx.doi.org/10.1111/jam.15738",
+      "https://creativecommons.org/licenses/by/4.0/,",
+      "https://dx.doi.org/10.1007/s11046-015-9905-2",
+      "https://dx.doi.org/10.1038/s41579-018-0048-6",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29581252&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=34870601&dopt=Abstract",
+      "https://www.who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28333270&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38163217&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30002505&dopt=Abstract",
+      "https://dx.doi.org/10.1128/spectrum.00483-22",
+      "https://dx.doi.org/10.1186/s12929-023-00918-2",
+      "https://dx.doi.org/10.1093/jac/46.4.527",
+      "https://linkinghub.elsevier.com/retrieve/pii/S2405-8440(2310576-7)",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26190223&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=24217348&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=31387345&dopt=Abstract",
+      "https://dx.doi.org/10.1007/s12275-018-7457-0",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=16142655&dopt=Abstract",
+      "https://dx.doi.org/10.1155/2017/8050432",
+      "https://europepmc.org/abstract/MED/30971460",
+      "https://dx.doi.org/10.1373/clinchem.2015.239491",
+      "https://dx.doi.org/10.1093/femsre/fux013",
+      "https://dx.doi.org/10.1086/432940",
+      "https://dx.doi.org/10.1101/cshperspect.a025320",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20030863&dopt=Abstract",
+      "https://dx.doi.org/10.1128/AEM.02588-10",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35013613&dopt=Abstract",
+      "https://www.jmir.org,",
+      "https://dx.doi.org/10.1111/nyas.12830",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30971460&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23137235&dopt=Abstract",
+      "https://dx.doi.org/10.1016/j.heliyon.2023.e23368",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35882476&dopt=Abstract",
+      "https://dx.doi.org/10.1128/JCM.00203-19",
+      "https://doi.org/10.1155/2017/8050432",
+      "https://dx.doi.org/10.1016/j.ijantimicag.2023.106799",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37069555&dopt=Abstract",
+      "https://who.int/news/item/27-02-2017-who-publishes-list-of-bacteria-for-which-new-antibiotics-are-urgently-needed",
+      "https://www.creativecommons.org/licenses/by/4.0/,",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30002505&dopt=Abstract",
+      "https://www.dx.doi.org/10.2196/jmir.2056",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26585930&dopt=Abstract",
+      "https://www.dx.doi.org/10.1373/clinchem.2015.239491",
+      "https://www.dx.doi.org/10.1128/spectrum.00483-22",
+      "https://www.dx.doi.org/10.1093/jac/46.4.527",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=21421795&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37069555&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=37004755&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=31387345&dopt=Abstract",
+      "https://www.dx.doi.org/10.1186/s12929-023-00918-2",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26190223&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11020248&dopt=Abstract",
+      "https://www.dx.doi.org/10.1016/j.ijantimicag.2023.106799",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38280574&dopt=Abstract",
+      "https://www.jbiomedsci.biomedcentral.com/articles/10.1186/s12929-023-00918-2",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=34870601&dopt=Abstract",
+      "https://www.dx.doi.org/10.1093/femsre/fux004",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35882476&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=38163217&dopt=Abstract",
+      "https://www.dx.doi.org/10.1111/1469-0691.12070",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28521338&dopt=Abstract",
+      "https://www.dx.doi.org/10.1128/JCM.00203-19",
+      "https://www.dx.doi.org/10.2196/23571",
+      "https://www.dx.doi.org/10.1007/s00253-021-11202-4",
+      "https://www.dx.doi.org/10.1186/bcr2431",
+      "https://www.dx.doi.org/10.1016/j.heliyon.2023.e23368",
+      "https://www.dx.doi.org/10.1111/nyas.12830",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=30971460&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35293803&dopt=Abstract",
+      "https://www.dx.doi.org/10.1101/cshperspect.a025320",
+      "https://www.dx.doi.org/10.1016/j.ijantimicag.2024.107100",
+      "https://www.dx.doi.org/10.1038/s41591-021-01619-9",
+      "https://jmir.org,",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=27449972&dopt=Abstract",
+      "https://www.dx.doi.org/10.1007/s12275-018-7457-0",
+      "https://www.dx.doi.org/10.1021/acs.analchem.9b01027",
+      "https://www.dx.doi.org/10.1007/s11046-015-9905-2",
+      "https://www.dx.doi.org/10.1155/2017/8050432",
+      "https://www.dx.doi.org/10.1038/s41579-018-0048-6",
+      "https://www.doi.org/10.1155/2017/8050432",
+      "https://www.dx.doi.org/10.1086/432940",
+      "https://www.dx.doi.org/10.1128/AEM.02588-10",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28333270&dopt=Abstract",
+      "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=26016846&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29492868&dopt=Abstract",
+      "https://www.dx.doi.org/10.1093/femsre/fux013",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23195868&dopt=Abstract",
+      "https://www.doi.org/10.2196/58039",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=23137235&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=29581252&dopt=Abstract",
+      "https://www.europepmc.org/abstract/MED/30971460",
+      "https://www.linkinghub.elsevier.com/retrieve/pii/S2405-8440(2310576-7)",
+      "https://www.dx.doi.org/10.1001/jamainternmed.2013.12048",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=35013613&dopt=Abstract",
+      "https://www.dx.doi.org/10.1073/pnas.1717295115",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=28638412&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=16142655&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=24217348&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33738553&dopt=Abstract",
+      "https://ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=20030863&dopt=Abstract",
+      "https://www.dx.doi.org/10.1111/jam.15738"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "World Health Organization",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T00:30:45.309+02:00",
+    "updated": "2024-11-08T00:30:45.309+02:00"
+  },
+  {
+    "uuid": "54831503e32edabe5be170473df4764c5c5d4c9d",
+    "url": "https://www.meneame.net/story/condiciones-meteorologicas-extremas-han-perturbado-cada-vez-mas/c013",
+    "ord_in_thread": 0,
+    "author": "DonaldBlake",
+    "published": "2025-05-07T21:45:00Z",
+    "title": "#13 Las condiciones meteorológicas extremas han perturbado cada vez más la generación de energía nuclear en los últimos 30 años, afectando al 60% de las plantas nucleares europeas (eng)",
+    "text": "Las condiciones meteorológicas extremas han perturbado cada vez más la generación de energía nuclear en los últimos 30 años, afectando al 60% de las plantas nucleares europeas (eng)\npor a enviado:\nEn un estudio de 2017 de la Comisión Reguladora Nuclear de Estados Unidos (NRC), de los 61 emplazamientos nucleares evaluados, 55 experimentaron riesgos de inundación que superaban la capacidad de diseño de las centrales. Casi el 60% de las centrales situadas junto a ríos o lagos del continente experimentaron pérdidas de producción de energía nuclear desde 2017.\n|\n#1Las sequías también han afectado a las hidroeléctricas, y las granizadas a destiempo jodieron la cosecha de aceitunas la familia de mi madrastra hace algún tiempo, siendo la peor cosecha de todos los tiempos desde que hay registros.\n#1La van a destapar los franceses dentro de poco ¿Has visto lo que ha llovido allí este año y lo que ha llovido aquí? Bueno vamos a ver cómo viene el verano\n#10Aquí, en el centro, será tórrido con alguna tormenta que hará bastante daño. El viernes viví mi primer mini tornado.\nDuplicada, del mismo usuario\nwww.meneame.net/story/casi-60-plantas-ubicadas-junto-rios-lagos-contin#2Si se lee el artículo, no habla de calentamiento, sino de condiciones climáticas extremas. Y de 2017 a 2025 no hay 30 años de diferencia.\nDe hecho, sobre ese dato del 60%: Nearly 60% of plants located by rivers or lakes in the continent experienced nuclear power production losses since 2017 [...] Nearly 60 per cent of reported weather-related nuclear production losses since 2017 were associated with plants located by rivers or lakes, the report stated, indicating they could be\n…\n» ver todo el comentario)\nAutentifícate si deseas escribircomentarios. O crea tu cuenta\naquí.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->energy resources",
+      "Environment->climate change",
+      "Economy, Business and Finance->macro economics",
+      "Economy, Business and Finance->energy and resource",
+      "Economy, Business and Finance->business reporting and performance",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.downtoearth.org.in/amp/story/energy/extreme-weather-increasingly-disrupted-generation-of-nuclear-power-in-last-30-years-state-of-the-climate-in-europe-2022-90190",
+      "https://downtoearth.org.in/amp/story/energy/extreme-weather-increasingly-disrupted-generation-of-nuclear-power-in-last-30-years-state-of-the-climate-in-europe-2022-90190"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Comisión Reguladora Nuclear de Estados Unidos",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "NRC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T01:54:13.831+03:00",
+    "updated": "2025-05-07T23:01:12.000+00:00"
+  },
+  {
+    "uuid": "c6e1cca76086bd4710efe07c0fcc0892b89e017a",
+    "url": "https://www.mypanhandle.com/news/local-news/walton-county/more-than-4k-raised-in-ribbons-for-lulu-fundraiser",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kimber Collins",
+    "published": "2024-06-21T22:28:00Z",
+    "title": "More than $4k raised in ‘Ribbons for Lulu’ fundraiser | mypanhandle.com",
+    "text": "WALTON COUNTY, Fla. ( [WMBB](https://www.mypanhandle.com/news/local-news/walton-county/more-than-4k-raised-in-ribbons-for-lulu-fundraiser/)) – A fundraiser for one of the June 7 shark bite victims is really taking off. Last week, we told you about the ribbons for Lulu’s campaign. Jane Denton with Beachy Blooms 30-A is selling big purple bows for $20. The money goes to 15-year-old Lulu Gribbin, who lost a hand and a leg in the June 7 attack. The florist and avid bow maker said her goal was to make the community shine purple which is Lulu’s favorite color. In just 10 days, Denton received more than 200 orders, totaling $4,000. “I was at Peddlers Pavilion yesterday and they have big, shiny purple ribbons up all over and it just warms my heart makes me feel really good. And I know the community also feels really good that we’re doing something to help Lulu,” Beachy Blooms 30-A, Jane Denton said. There are five pick-up locations also selling ribbons. For the list of those locations, [click here.](https://www.facebook.com/beachyblooms30a) There is an online fundraiser for attack survivor Elizabeth Foley. It’s raised more than $95,000.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/beachyblooms30a",
+      "https://facebook.com/beachyblooms30a"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lulu",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lulu gribbin",
+          "sentiment": "none"
+        },
+        {
+          "name": "jane denton",
+          "sentiment": "none"
+        },
+        {
+          "name": "denton",
+          "sentiment": "none"
+        },
+        {
+          "name": "elizabeth foley",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "fla.",
+          "sentiment": "none"
+        },
+        {
+          "name": "walton county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-22T01:44:24.099+03:00",
+    "updated": "2024-06-22T05:24:08.882+03:00"
+  },
+  {
+    "uuid": "a9ec5de3c2bb16707b1170fffef158f98b653922",
+    "url": "https://www.meneame.net/story/valencianos-explotan-contra-nueva-actividad-turistas-recorren/c086",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "frg",
+    "published": "2024-08-30T06:50:00Z",
+    "title": "#86 Valencianos explotan contra una nueva actividad para turistas en la que recorren la ciudad bailando",
+    "text": "[NPC1](/user/NPC1)a [lavanguardia.com](/go/link/3974042)\n¿Como de subnormal hay que ser para pagar por mostrar a una ciudad de un millón de habitantes lo subnormal que eres?\n[#49](c49#c-49) Somos el parque de atracciones de Europa porque queremos ser el parque de atracciones de Europa.\n[#66](c66#c-66) Somos el país barato de la fiesta, también tienes el de el arte (Roma-Italia) y el de la historia (Atenas-Grecia).\nLos turistas pasan por lo menos una vez por la segunda y tercera pero seguramente repitan en la primera.\n[#33](c33#c-33) tienes razón, que los metan en algún sitio sin señores mayores, en una guardería encajarían perfectamente\n[#33](c33#c-33) Pero tú has visto los vídeos? https://www.bailaloloco.com/\nVergüenza ajena...\nPor otro lado no debe ser nada agradable vivir en el centro e ir (por ejemplo) con la compra y encontrarte a estos monguers en medio de la calle. Con este tipo de actividades expulsan a la gente normal del centro de las ciudades.\n[#33](c33#c-33) si es una persona , o dos vale, pero si van ocupando todo el ancho de la calle, co un ritmo impredecible (es decir moviéndoselo de un lado a otro, no con un andar normal) pues empieza a tocas las pelotas\nyo prefiero esto\n[#45](c45#c-45) claro, claro. Seguro que al vecino le encanta que cada hora pasen varios grupos grandes de gente con auriculares bailando sin enterarse de lo que pasa a su alrededor y cantando o moviéndose y ocupando toda la calle.\nSeguramente los dos primeros días fue gracioso.\n[#14](c14#c-14) Depende de cuantos sean y por dónde pasen, supongo. Si se meten en medio de la plaza de la reina o delante del palau de la música y son 25 personas caben tranquilamente, pero si se meten esos mismos 25 en una acera de 3 metros como se ve en la captura... pues joden 15m de acera \"a su ritmo\" por la puta cara.\nHace años ya se liaron pollos con los segway, porque ni contaminan ni hacen ruido, pero cuando van unos cuantos juntos colapsan calles y cruces.\n[#21](c21#c-21) eso me pasa a mí, vivo al lado del centro de mi ciudad, y ocupan y se paran en sitios estrechos, cuando no te ves al grupo entero ocupando todo el carril bici\n[#4](c4#c-4) a mí esto me suena a felicidad impostada. A Mr Wonderfull, a querer tapar una fuga de agua con buenas intenciones, a Teletubbies modernos. Pero que sabré yo que soy un triste\n[#4](c4#c-4) Eso digo yo, otra cosa sería que lo hicieran con música en altavoces. Si a la gente no le importa hacer el ridículo, y se lo pasan bien así, por mi perfecto.\n[#14](c14#c-14) porque seguramente moleste al resto, tu ves un grupo de flipados bailando, te mererias en su camino? pasarias entre ellos? le dejarías paso a todos priorizandolos?\nTampoco hay que pensar mucho para darse cuenta que es una molestia\n[#4](c4#c-4) Pues sí. Esa parece la moda, criticar a una de las actividades que más ingresos generan en este país. Otra cosa que sí es criticable es la actitud de la gente, la mala educación, etc. Pero eso desgraciadamente lo padecemos a diario en todos los ámbitos, en el trabajo, en la calle, en el supermercado, etc. No es exclusivo del turismo. Pero vamos, que si tan malo es puede que tengamos que reorientar la producción hacia el sector primario.\n[#20](c20#c-20) Actividad económica que genera beneficios para pocos y molestias para muchos, atrae trabajadores con sueldos míseros y provoca un encarecimiento sin precedentes de los alquileres. Dear tourist enjoy balconing.\n[#4](c4#c-4) Mucho amargado que no tiene un duro para irse de vacaciones y en vez de cagarse en la madre que pario a su empresa que le paga una mierda, se desahoga odiando turistas\n[#4](c4#c-4) Estoy de acuerdo pero... No es lo mismo una persona con auriculares bailando por la calle que un grupo de diez o veinte, con \"coreografías\" y ocupando todo el espacio. Sin ver ningún vídeo es difícil opinar, pero por lo leído tiene que ser un poquito incordiante.\n[#4](c4#c-4) No es quejarse por quejarse, mucha gente si, pero otros no tanto.\nVivo en mallorca y mi ingresos vienen gracias al turismo.\nAún así, hay que reconocer que no todo vale. Ya que hay actividades que pueden ser muy guays para los turistas pero realmente molestas para la gente que vive en la zona.\nPor ejemplo, aquí se han limitado los tours de buggies y motos de agua. Debido a que hacen un tour cada hora durante 8 horas por los mismos caminos y calas. Para la gente que vive en las zonas de paso es insoportable.\nY volviendo a la noticia, realmente es muy molesto los grupos de turistas. Como cruceristas, estos bailando, etc, debido a que no es lo mismo 50 turistas paseando a su bola que 50 turistas haciendo lo mismo, los segundos bloquean por completo.\nY el problema no es que haya 1 grupo, es que hay 3-4 grupos cada hora.\nLas críticas que yo defiendo son contra la masificación, no se puede todo para todos.\n[#4](c4#c-4) Quejarse del turismo puede tener sentido, porque en muchos sitios es excesivo. Pero no habría que quejarse al turista, que poca o ninguna culpa tiene, sino más bien a los que se están lucrando con los alquileres turísticos (y de paso, dificultando el acceso a la vivienda) y a los gobiernos que lo permiten. Quita eso, y en muchos sitios la cantidad de turistas ya volvería a ser aceptable. Para el resto, tasas turísticas hasta obtener un influjo razonable.\nPero claro, siempre es más fácil echar la culpa al débil.\n[#22](c22#c-22) Y aún así es un problema mental mucho menor del que se pone a correr por la calle delante de un toro.\n[#25](c25#c-25) En el Retiro hay muchos, además de estos, haciendo flashmobing, k-pop, influencers y demás. Un par de broncas he tenido por pasar por donde están haciendo sus movidas, pero me la suda. Me empiezo a parecer al señor que se sienta en el banco del parque detrás de la streamer: \"Your followers? Oh, are you Jesus now? are you?\"\nHay que ser imbécil o tener un problema mental para que te moleste que haya gente bailando sin hacer ruido.\nEnésimo artículo de mierda sobre el tema cansino del verano para que la gente haga el clic correspondiente y el periódico gane dinerito, que está la cosa mu achuchá.\nA ver, si no molestan con auriculares no me parece mal. Que los frivolos guiris se diviertan como quieran.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.bailaloloco.com/",
+      "https://bailaloloco.com/",
+      "https://www.bailaloloco.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-30T11:57:13.701+03:00",
+    "updated": "2024-08-30T11:57:13.701+03:00"
+  },
+  {
+    "uuid": "7e934320b09eec5f0ca8a3e786e208b97c4eacaf",
+    "url": "https://kalkinemedia.com/news/world-news/sierra-coffee-group-brews-up-a-unique-coffee-experience-in-lyndhurst-nj",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "info@kalkinemedia.com (EIN Presswire)",
+    "published": "2023-12-28T16:12:00Z",
+    "title": "Sierra Coffee Group Brews Up a Unique Coffee Experience in Lyndhurst, NJ",
+    "text": "Sierra Coffee Group, Lyndhurst's freshest spot, launched on Nov 21, offering exclusive Honduran specialty coffee at 302 Ridge Rd\nEINPresswire.com/ -- Sierra Coffee Group, the latest addition to the coffee scene, proudly opened its doors on November 21st at 302 Ridge Rd, Lyndhurst NJ 07071. The coffee establishment is dedicated to bringing the rich and diverse flavors of specialty coffee sourced exclusively from Honduras to the local community.\nWhile Sierra Coffee Group focuses on a single origin – Honduras, known as one of the major global coffee producers – it boasts an impressive array of diversity within its coffee bean offerings. The establishment imports and roasts green beans of different varieties from the arabica bean, ensuring a unique and flavorful experience for coffee enthusiasts.\nSierra Coffee Group aims to go beyond just serving exceptional coffee; it is on a mission to raise awareness about the high quality of coffee produced in Honduras. By showcasing the unique aromas and flavors that this Central American country has to offer, the team at Sierra Coffee Group seeks to captivate the palates of customers and inspire them to explore the intricacies of the coffee industry.\n\"We believe that every cup of coffee tells a story, and our story begins with the vibrant coffee beans of Honduras,\" says Mayra Gomez, Chief Operating Officer at Sierra Coffee Group. \"Our commitment goes beyond providing a caffeine fix; we invite our community to embark on a journey of discovery, appreciating the craftsmanship and dedication that goes into each cup. I was fortunate enough to develop my industry knowledge both at the International Coffee Organization in London as well as the Honduran Coffee Institute.\"\nSierra Coffee Group's dedication to promoting awareness about Honduran coffee extends not only directly to consumers but to businesses as well; it also offers bulk and custom blends to restaurants, cafes and specialty coffee shops.\nVisit Sierra Coffee Group at 302 Ridge Rd, Lyndhurst NJ 07071, and indulge in the rich and diverse flavors of Honduras through their meticulously curated coffee offerings.\nFor media inquiries, please contact: Mayra Gomez, Chief Operating Officer, Sierra Coffee Group,\n[[email protected]](/cdn-cgi/l/email-protection)\nMayra Gomez\nSierra Coffee Group\n+1 201-830-7618\nemail us here\nVisit us on social media:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [
+      "http://www.einpresswire.com/contact_author/677605232",
+      "https://www.einpresswire.com/",
+      "http://einpresswire.com/contact_author/677605232",
+      "https://www.einpresswire.com",
+      "https://einpresswire.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "sierra coffee group",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nj sierra coffee group",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lyndhurst nj",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lyndhurst",
+          "sentiment": "none"
+        },
+        {
+          "name": "honduras",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:23:41.068+02:00",
+    "updated": "2023-12-29T00:23:41.068+02:00"
+  },
+  {
+    "uuid": "214be26c4a67509293a7830818e069ce9ccdad90",
+    "url": "https://www.acem.sjtu.edu.cn/news/88861.html",
+    "ord_in_thread": 0,
+    "author": "上海交通大学安泰经济与管理学院$",
+    "published": "2025-06-03T00:00:00Z",
+    "title": "我院江志斌教授荣获2025年国际工业与系统工程师学会国际影响力奖-上海交通大学安泰经济与管理学院",
+    "text": "我院江志斌教授荣获2025年国际工业与系统工程师学会国际影响力奖 发布时间：2025-06-03\n2025年6月2日，美国亚特兰大——在2025年国际工业与工程师学会（Institute of Industrial and Systems Engineering, IISE）年会上，上海交通大学董浩云智能制造与服务管理研究院（中美物流研究院）院长、安泰经济与管理学院特聘教授江志斌教授荣获2025年国际影响力奖（International Impact Award）。这一殊荣标志着江志斌教授在工业与系统工程（Industrial and Systems Engineering, ISE）领域的卓越贡献获得了国际学界的高度认可。\nIISE国际影响力奖：全球工业工程领域的至高荣誉\n作为全球工业工程领域最具权威性的学术组织，IISE自1939年成立以来，始终致力于推动工业工程理论发展及在经济与社会发展中的实践应用。步入崭新的历史阶段，该学会进一步确立了“化解全球错综复杂且至关重要之难题（Resolve the complex and critical problems of the world）”的宗旨。该学会设立的\"国际影响力奖\"旨在表彰为工业与系统工程学科作出开创性贡献的全球领袖。奖项评选标准严格，候选人需在学术研究、产业应用或教育创新等领域展现出显著的国际影响力。该奖项2025年开始设立，每年至多授予一人，江志斌教授成为首位获此殊荣的工业工程学者。\n获奖词：以创新与担当为工业工程在中国及亚太地区的发展做出杰出贡献\nIISE官方颁奖词高度评价了江志斌教授的学术成就与社会贡献：\"江志斌博士长期致力于工业与系统工程理论方法的创新及人才培养，并积极推动ISE在工业领域的实际应用。他卓越的领导才能，在中国及亚洲的国际工业与系统工程师协会（IISE）界以及国内ISE学界都闪耀着光芒。他在改革ISE教育方法和培养创新人才方面的探索，赢得了广泛认可。二十余年来，他在ISE创新研究方面成绩斐然。此外，他还积极投身产业界，提供专业咨询服务，进一步彰显了他的执着与担当。\"\n这一评价精准概括了江志斌教授的学术生涯：从理论研究到产业实践，从人才培养到国际交流，他始终以系统性思维和工程化方法解决复杂问题，为工业工程学科的全球化发展注入了强劲动力。\n感怀与展望：以责任为锚点，继续深耕学术与实践\n在获奖感言中，江志斌教授表达了对多方支持的深切感激。他特别感谢美国工程院院士、中国工程院外籍院士、其母校香港城市大学原校长郭位教授，以及国运筹学与管理科学学会（INFORMS）会士、普渡大学George Shanthikumar教授；IISE会士、IISE Transactions前任主编、乔治亚理工学院工业与系统工程学院Yu Ding教授；上海交通大学中美物流研究院美方首任院长、美国乔治亚理工学院工业与系统工程学院Chip White教授等著名学者的提名支持。同时，他向上海交通大学及安泰经管学院、机械与动力工程学院，以及中美物流研究院的领导和同事们致以诚挚谢意，并向国内外工业工程领域同仁们长期支持和帮助表示衷心的感谢！\n\"这一荣誉不仅是对我个人工作的肯定，更是对中国大陆工业工程及上海交通大学工业工程学科发展的鼓励。\"江志斌教授表示，\"未来，我将以此次获奖为新起点，持续推动国际与中国工业工程的协同发展，为学校和安泰经管学院的学科建设，以及中美物流研究院的创新实践贡献更大力量。\"\n江志斌教授：工业工程领域的开拓者\n作为欧洲科学与艺术院院士、作为入选IISE会士首位中国大陆学者以及国家级人才计划特聘教授，江志斌教授的学术履历堪称工业工程领域的典范。他现任上海交通大学董浩云智能制造与服务管理研究院院长、安泰经管学院特聘教授，曾长期担任上海交通大学工业工程学科带头人及系主任（2001-2018），并担任IISE亚洲区域副主席，筹建了IISE北京分会并担任首任主席等重要职务。\n在学术研究方面，江志斌教授深耕复杂生产与服务系统运作管理理论方法，主持1项国家社科基金重大项目、3项国家自然科学基金重点项目以及20余项其他国家级课题研究，出版著作6部，发表论文350余篇，其中在《Management Science》《Operations Research》《Production and Operations Management》、《INFORMS Journal on Computing》、《IISE Transactions、《IEEE Transactions on Automatic Control》等国际顶级重要期刊发表论文150余篇，获省部级科技奖及人文社科奖4项。\n在产业应用领域，他开创性地将工业工程系统化管理方法应用于制造、医疗及物流行业，与中信重工、中远海工、美的集团安得智联、台湾统一食品、奇瑞集团等行业龙头企业合作，取得十多项发明专利，显著提升了企业运营效率。其在医疗系统中的创新实践更推动了医院管理效率的跨越式提升，为医疗与公共卫生领域贡献了重要解决方案，产生了重大社会效益。\n结语：以全球视野赋能中国智造与智慧医疗\n江志斌教授的获奖不仅是个人学术生涯的里程碑，更是中国工业工程学科走向世界的重要标志。从理论创新到产业赋能，从教育改革到国际协作，他始终以系统思维和工程智慧破解中国智造与智慧医疗中的复杂问题，为全球工业工程发展提供了中国方案。正如IISE颁奖词所言，他的贡献已超越地域与学科的边界，为推动以降本增效为根本使命的工业工程发展与应用做出了杰出贡献，形成了重大国际影响力。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Education->college and university",
+      "Education->teachers",
+      "Human Interest->award and prize"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:05:36.850+03:00",
+    "updated": "2025-06-12T08:10:20.000+00:00"
+  }
+]

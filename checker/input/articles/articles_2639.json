@@ -1,0 +1,167 @@
+[
+  {
+    "uuid": "6bbfe99d6a7b9dd58c5654ecd6441cf1227e21d2",
+    "url": "https://www.vancouverisawesome.com/quebec-news/quebec-hotel-workers-in-three-cities-strike-over-lagging-contract-talks-9328245",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-08-08T21:20:00Z",
+    "title": "Quebec hotel workers in three cities strike over lagging contract talks",
+    "text": "MONTREAL — About 2,600 unionized employees from hotels in some of the province's largest cities walked off the job Thursday, protesting an impasse in contract talks.\nThe 24-hour strike hit 23 hotels in Montreal, Quebec City and Sherbrooke.\nÉric Hamel, general manager of an association representing Montreal hotels, said that despite the strike it was business as usual in the city.\nNegotiations between hotel owners and the workers' union — Confédération des syndicats nationaux (CSN) — have stalled since the union first threatened a provincewide strike last week.\nHotel employees have seven key demands, including a 36 per cent pay raise over four years and an end to the use of private employment agencies.\nHamel says the employers are ready to negotiate but do not have the capacity to pay the salary demands.\nThe strike involved 16 Montreal hotels, including the Queen Elizabeth, Bonaventure and The Ritz-Carlton, five in the Quebec City region and two in Sherbrooke.\nThis report by The Canadian Press was first published Aug. 8, 2024.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bonaventure",
+          "sentiment": "none"
+        },
+        {
+          "name": "éric hamel",
+          "sentiment": "none"
+        },
+        {
+          "name": "queen elizabeth",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "montreal",
+          "sentiment": "negative"
+        },
+        {
+          "name": "the canadian press",
+          "sentiment": "none"
+        },
+        {
+          "name": "ritz-carlton",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "sherbrooke",
+          "sentiment": "none"
+        },
+        {
+          "name": "quebec city",
+          "sentiment": "none"
+        },
+        {
+          "name": "montreal",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:32:57.529+03:00",
+    "updated": "2024-08-09T00:32:57.529+03:00"
+  },
+  {
+    "uuid": "336c3bf2a99de40489dd6ba5c3e14a630cd9c306",
+    "url": "https://www.washingtonpost.com/business/2023/12/28/blendjet-recall-blades-fire-hazard-injuries/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eli Tan",
+    "published": "2023-12-28T22:01:00Z",
+    "title": "BlendJet recalls almost 5 million blenders on concerns over fire, blades - The Washington Post",
+    "text": "An earlier version of this article misstated the number of injuries attributed to the BlendJet 2 devices. Fifty injuries have been reported, not hundreds. This article has been corrected. The China-manufactured blenders were sold between October 2020 and November 2023, retailing for $50 to $70, according to the commission. BlendJet is based in Benicia, Calif. In a statement to The Post, the company blamed many of the incidents on customers’ use of “low-quality” chargers and attempts to crush ice without first adding liquid. But BlendJet also said it has updated the blenders’ design with a new base that has “thicker blades and an improved electrical configuration.” Customers can contact the company for a free replacement, according to BlendJet’s website. Owners of the blenders can enter their devices’ serial numbers on the company’s site to see whether they’re part of the recall. “You should immediately stop using your BlendJet 2 until you verify if your product is recalled,” the company said. A report by Consumer Reports raised safety concerns about the blender in August, though it wasn’t recalled until Thursday. In one complaint filed to the Consumer Product Safety Commission on Aug. 18, a BlendJet customer reported that “the blade in the portable mini blender broke off and almost became part of the morning breakfast.” BlendJet 2 blenders that are currently for sale are not subject to the recall, the company said. - December 28, 2023December 28, 2023 - Honda recalls 2.6 million vehicles in U.S. over fuel pump defectDecember 22, 2023Honda recalls 2.6 million vehicles in U.S. over fuel pump defectDecember 22, 2023 - FDA finds ‘extremely high’ lead levels in cinnamon in applesauce at Ecuador plantDecember 19, 2023FDA finds ‘extremely high’ lead levels in cinnamon in applesauce at Ecuador plantDecember 19, 2023",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Health",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.consumerreports.org/appliances/blenders/popular-blendjet-portable-blender-may-pose-risks-a6856300357/)",
+      "https://snlookup.blendjet.com/)",
+      "https://www.saferproducts.gov/PublicSearch/Detail?ReportId=4314372)",
+      "https://www.saferproducts.gov/PublicSearch/Detail",
+      "https://consumerreports.org/appliances/blenders/popular-blendjet-portable-blender-may-pose-risks-a6856300357/)",
+      "https://www.snlookup.blendjet.com/)",
+      "https://saferproducts.gov/PublicSearch/Detail?ReportId=4314372)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "blendjet",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "washington post",
+          "sentiment": "negative"
+        },
+        {
+          "name": "the washington post",
+          "sentiment": "none"
+        },
+        {
+          "name": "consumer reports",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "calif",
+          "sentiment": "none"
+        },
+        {
+          "name": "benicia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:06:31.787+02:00",
+    "updated": "2024-01-05T00:22:12.736+02:00"
+  },
+  {
+    "uuid": "c49d0f8ebdbedca3de370267390852c733756a1b",
+    "url": "https://vnexplorer.net/lopposizione-da-sempre-anti-italiana-tuteliamo-il-presepe-e-la-nostra-identita-s631119.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-24T15:27:00Z",
+    "title": "\"L'opposizione? Da sempre anti-italiana. Tuteliamo il presepe e la nostra identità\"",
+    "text": "“L’opposizione? Da sempre anti-italiana. Tuteliamo il presepe e la nostra identità”\nIl senatore di Fdi Marco Lisei, capogruppo meloniano della commissione Affari costituzionali, a tutto campo sulla difesa identitaria delle festività natalizie nelle scuole italiane e non solo.\nSenatore, a Livorno, almeno in un classe di una scuola elementare, la Bini, è scomparso il Natale. Le maestre han preferito gli auguri di «buon inverno». Così, almeno, è stato sostenuto in questi giorni.\n«L’episodio ÃƒÂ¨ stato segnalato da alcuni genitori, la dirigente ha detto che in tutta la scuola si ÃƒÂ¨ festeggiato. Prendiamo atto che ÃƒÂ¨ stato un inciampo, per noi il caso ÃƒÂ¨ chiuso, ma ÃƒÂ¨ giusto vigilare perchÃƒÂ© questi casi accadono spesso in tutta Italia. Il personale della scuola fa un grande lavoro, non vogliamo che pochi casi lo mettano in discussioneÃ‚Â».\nFdi è in prima linea per la tutela della tradizione. Ci spiegherebbe la ratio del ddl con cui vorreste tutelare il presepe nelle scuole?\n«Il ddl vuole tutelare tutte le nostre tradizioni, ringrazio la colega Menunni per averlo presentato per Fratelli d’Italia. Non ÃƒÂ¨ accettabile che i nostri figlii vengano privati di simboli, festivitÃƒÂ e ricorrenze che appartengono alla nostra identitÃƒÂ cristiana per non offendere altre culture. Se io vado all’estero accetto le loro tradizioni, non impongo le mie e non pretendo rinuncino alle loro. Ci batteremo con forza contro la cancel cultureÃ‚Â».\nIn ogni caso, sono sempre di più gli istituti che sostituiscono il Natale con una fantomatica «festa d’Inverno» o che comunque tendono a cancellare le festività natalizie. È il laicismo imperante?\n«No. ÃƒË† ideologia ignorante. Le festivitÃƒÂ cristiane appartengono alla nostra cultura, non ÃƒÂ¨ questione di religione. Anche gli atei festeggiano il NataleÃ‚Â».\nIntanto, a Monfalcone, la sinistra celebra il Natale al fianco delle persone di fede musulmana che si scagliano contro le direttive anti-luoghi di culto abusivi. Quelli che sono stati decisi dal sindaco, che è della Lega. L’opposizione è sempre critica verso la nostra cultura occidentale…\n«La sinistra riesce sempre incredibilmente a schierarsi contro l’Italia e gli italiani. Si schiera con i rave abusivi, difende gli spacciatori e non vuole punire lo spaccio, difende le borseggiatrici che non vuole siano riprese. Gli unici che non difende sono gli italiani. C’ÃƒÂ¨ un motivo se nessuno li vota piÃƒÂ¹. Provo imbarazzo per loroÃ‚Â».\nQuali e quante iniziative intende mettere in campo la maggioranza di governo per difendere le radici cristiane della nostra civiltà.\n«Tutte nessuna esclusa, ma ddl come questi sono solo un piccolo tassello. Il lavoro piÃƒÂ¹ importante che Giorgia Meloni sta facendo ÃƒÂ¨ favorire la natalitÃƒÂ ed aiutare le donne, come il supporto delle rette degli asili nido, l’estensione dei mesi di congedo parentale, lo sconto di contributi per i lavoratori con figli. Inoltre la difesa dei confini e ponendo fine all’immigrazione clandestina ÃƒÂ¨ strategico per avere un sistema sociale equilibrato e sostenibile. Troppi stranieri clandestini assorbono risorseÃ‚Â».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T17:44:02.099+02:00",
+    "updated": "2023-12-24T17:44:02.099+02:00"
+  }
+]

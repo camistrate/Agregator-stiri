@@ -1,0 +1,523 @@
+[
+  {
+    "uuid": "9a8b4c99edec375eb216a54103b46ae88e1ad0c4",
+    "url": "https://tolknews.ru/obsestvo/195300-na-bortu-aviareysa-abakan-moskva-skonchalsya-passazhir",
+    "ord_in_thread": 0,
+    "author": "ТОЛК",
+    "published": "2025-07-03T03:58:00Z",
+    "title": "На борту авиарейса Абакан - Москва скончался пассажир - Толк 03.07.2025",
+    "text": "Медицинским персоналом уже после посадки самолета в новосибирском аэропорту была констатирована смерть мужчины. Причина и обстоятельства произошедшего выясняются\nНа борту авиарейса Абакан — Москва 1 июля умер пассажир. В связи с этим самолет экстренно сел в новосибирском аэропорту Толмачево, сообщает пресс-служба Восточного МСУТ СКР.\nВо время полета помощь потребовалась 57-летнему мужчине. Ему пытались оказать первую помощь члены экипажа и другие пассажиры, однако спасти его не удалось. Командир самолета принял решение сесть в Новосибирске.\nПосле досмотра остальные пассажиры продолжили перелет. По факту произошедшего начата доследственная проверка.\nРанее сообщалось, что в аэропорту Барнаула 2 июля внепланово сели сразу восемь бортов.\nБорт направлялся в Лондон, но упал недалеко от точки взлета. После крушения самолет загорелся. На борту находились 242 человека, об их судьбе ничего не известно",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->medical condition",
+      "Health->emergency care",
+      "Social Issue->death and dying",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T07:49:02.273+03:00",
+    "updated": "2025-07-03T04:53:22.000+00:00"
+  },
+  {
+    "uuid": "123ca9edf87eea3a0691a5ac5f996719ed2cd327",
+    "url": "https://forklog.com/news/ethereum-razrabotchik-stal-zhertvoj-vredonosnogo-ii-rasshireniya",
+    "ord_in_thread": 0,
+    "author": "Мирослава Андреева",
+    "published": "2025-08-13T14:32:00Z",
+    "title": "Ethereum-разработчик стал жертвой вредоносного ИИ-расширения",
+    "text": "Один из ключевых разработчиков Ethereum Зак Коул стал жертвой криптовалютного дрейнера. Злоумышленники похитили приватный ключ от его горячего кошелька.\nI've been in crypto for over 10 years and I’ve Never been hacked. Perfect OpSec record.\nYesterday, my wallet was drained by a malicious @cursor_ai extension for the first time.\nIf it can happen to me, it can happen to you. Here’s a full breakdown. 🧵👇\n— zak.eth (@0xzak) August 12, 2025 «Я в криптоиндустрии уже больше 10 лет, и меня ни разу не взламывали. Идеальная репутация по безопасности. Однако вчера мой кошелек впервые опустошил дрейнер в виде ИИ-ассистента Cursor», — написал он.\nКоул установил расширение contractshark.solidity-lang, не заметив ничего подозрительного. У него был профессиональный дизайн иконки, подробное описание и более чем 54 000 загрузок.\nОднако плагин незаметно скопировал .env-файл разработчика, содержащий приватный ключ, и отправил его на сервер злоумышленников. В течение трех дней у хакеров был доступ к кошельку Коула, но они вывели средства только 10 августа.\nПо словам жертвы, убытки составили «несколько сотен» долларов в эфире. Основную часть средств разработчик хранит на аппаратных кошельках.\nКоул заметил уведомление о переводе средств. Именно тогда он понял, что его взломали. Изучив отчеты «Лаборатории Касперского» и других компаний по кибербезопасности, Ethereum-разработчик обнаружил, что дрейнер является частью кампании, в рамках которой злоумышленники уже похитили свыше $500 000.\nОн также выделил «красные флаги», на которые не обратил внимания при установке расширения:\nнеофициальный создатель; отсутствие ссылки на GitHub; большое количество загрузок и ноль отзывов; недавняя дата загрузки — июль 2025; имитация названия известного расширения. «Спешка = игнорирование инстинктов», — подчеркнул Коул.\nСтолкнувшимся со взломом пользователям он посоветовал сменить все ключи, проверить Etherscan на наличие несанкционированных транзакций, отозвать все разрешения, создать новые кошельки и задокументировать инцидент .\nНапомним, в мае хакеры создали вредоносный клон Ledger Live для macOS. Злоумышленники заменили официальное приложение фейковым, которое собирало сид-фразы и опустошает кошельки.\nВ апреле стало известно, что операторы ПО для кражи криптовалют начали сдавать свои инструменты в аренду. Начинающие мошенники за разовую плату в $100-300 получают в аренду набор необходимых инструментов.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Crime, Law and Justice->cyber crime",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->social sciences",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/cursor_ai?ref_src=twsrc%5Etfw",
+      "https://twitter.com/0xzak/status/1955265807807545763?ref_src=twsrc%5Etfw",
+      "https://twitter.com/cursor_ai",
+      "https://www.twitter.com/0xzak/status/1955265807807545763?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/cursor_ai?ref_src=twsrc%5Etfw",
+      "https://twitter.com/0xzak/status/1955265807807545763"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T09:10:47.175+03:00",
+    "updated": "2025-08-14T09:16:17.000+03:00"
+  },
+  {
+    "uuid": "5c08bbaca0b8f8730211b1a6a7126802f5237460",
+    "url": "https://neurosciencenews.com/eye-movement-vision-27990",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Neuroscience News",
+    "published": "2024-11-07T20:35:00Z",
+    "title": "How Our Brain Stabilizes Vision Amid Constant Eye Movement",
+    "text": "A new study reveals how the brain compensates for rapid eye movements, maintaining a stable visual perception despite dynamic visual input.\" /",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.science.org/doi/10.1126/sciadv.adp6204",
+      "https://uni-muenster.de",
+      "https://www.uni-muenster.de",
+      "https://science.org/doi/10.1126/sciadv.adp6204"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:14:31.673+02:00",
+    "updated": "2024-11-09T02:53:16.172+02:00"
+  },
+  {
+    "uuid": "265bab57df45160cea724e9f85c55d59afa6feab",
+    "url": "https://titanswire.usatoday.com/lists/what-time-will-titans-make-the-7th-pick-in-the-2024-nfl-draft",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Moraitis",
+    "published": "2024-04-25T19:51:00Z",
+    "title": "2024 NFL draft: What time will Titans make the 7th pick in Round 1?",
+    "text": "Barring a trade, the Tennessee Titans will make their first pick in the 2024 NFL draft on Thursday night when they’re on the clock at No. 7 overall.\nFor fans who have to be up early in the morning for work or whatever else, this is good news, as the Titans’ selection will come fairly early in the evening. However, you may not want to go to sleep after that, as it’s not out of the question that the Titans trade back into the first round, although that isn’t likely to happen.\nBut exactly what time will the Titans make their first-round pick? Well, we can get a good idea by looking at when the No. 7 overall pick came down in previous years.\nOver the last five years, four of the No. 7 picks have come between 9:05 p.m. ET and 9:11 p.m. ET, with two of them coming at exactly 9:08 p.m. ET. Only one of the previous five came before 9 p.m. ET (2022: 8:55 p.m. ET).\nNow, a look at the exact times the 7th pick in the NFL draft has been made in each of the past five years.\n2019 – 9:08 p.m. ET With the #7 overall pick in the 2019 @NFLDraft , the @Jaguars select LB @JoshAllen41_ ! #NFLDraft (by @Bose ) pic.twitter.com/6Y3yOUU6g9\n— NFL (@NFL) April 26, 2019\n2020 – 9:11 p.m. ET With the No. 7 overall pick in the 2020 #NFLDraft , the @Panthers select @AuburnFootball DT Derrick Brown!\n(by @Bose ) pic.twitter.com/i89PeqSlJK\n— NFL (@NFL) April 24, 2020\n2021 – 9:11 p.m. ET With the No. 7 overall pick in the 2021 @NFLDraft , the @Lions select OL Penei Sewell!\n📺: 2021 #NFLDraft on NFLN/ESPN/ABC pic.twitter.com/mCfS3tUgVW\n— NFL (@NFL) April 30, 2021\n2022 – 8:55 p.m. ET With the No. 7 overall pick in the 2022 @NFLDraft , the @Giants select Evan Neal! @NewEraCap | #TogetherBlue\n📺: 2022 #NFLDraft on NFLN/ESPN/ABC pic.twitter.com/vpt5m6IPWl\n— NFL (@NFL) April 29, 2022\n2023 - 9:05 p.m. ET With the No. 7 overall pick in the 2023 @NFLDraft , the @Raiders select Tyree Wilson! @NewEraCap | #RaiderNation\n📺: 2023 #NFLDraft on NFLN/ESPN/ABC\n📱: Stream on NFL+ https://t.co/D3EqkrKdIw pic.twitter.com/qyhUdNk5mn\n— NFL (@NFL) April 28, 2023\nRead all the best Titans coverage at The Tennessean and Titans Wire .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/Bose?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/NFLDraft?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/NFL/status/1121581826781274113?ref_src=twsrc%5Etfw",
+      "https://t.co/qyhUdNk5mn",
+      "https://twitter.com/NFL/status/1387937597708668929?ref_src=twsrc%5Etfw",
+      "https://twitter.com/NFL/status/1519842801076211712?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Lions?ref_src=twsrc%5Etfw",
+      "https://t.co/vpt5m6IPWl",
+      "https://twitter.com/hashtag/RaiderNation?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/NFLDraft?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Raiders?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Jaguars?ref_src=twsrc%5Etfw",
+      "https://twitter.com/AuburnFootball?ref_src=twsrc%5Etfw",
+      "https://twitter.com/NewEraCap?ref_src=twsrc%5Etfw",
+      "https://t.co/D3EqkrKdIw",
+      "https://twitter.com/hashtag/TogetherBlue?src=hash&ref_src=twsrc%5Etfw",
+      "https://subscribe.tennessean.com/offers?gps-source=CPSMGENDARTICLE&utm_source=smg&utm_medium=endarticle&utm_content=titanswire&utm_campaign=smgtolocal&offer=W-JX",
+      "https://twitter.com/Panthers?ref_src=twsrc%5Etfw",
+      "https://t.co/6Y3yOUU6g9",
+      "https://twitter.com/JoshAllen41_?ref_src=twsrc%5Etfw",
+      "https://t.co/i89PeqSlJK",
+      "https://t.co/mCfS3tUgVW",
+      "https://twitter.com/NFL/status/1253491633284210688?ref_src=twsrc%5Etfw",
+      "https://twitter.com/NFL/status/1651754523298353152?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Giants?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/NFL/status/1253491633284210688?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/Raiders?ref_src=twsrc%5Etfw",
+      "https://www.t.co/vpt5m6IPWl",
+      "https://www.t.co/D3EqkrKdIw",
+      "https://twitter.com/NFL/status/1519842801076211712",
+      "https://twitter.com/JoshAllen41_",
+      "https://www.twitter.com/NFL/status/1651754523298353152?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Giants",
+      "https://www.twitter.com/NewEraCap?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Lions",
+      "https://www.twitter.com/Bose?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/NFL/status/1519842801076211712?ref_src=twsrc%5Etfw",
+      "https://subscribe.tennessean.com/offers",
+      "https://www.t.co/qyhUdNk5mn",
+      "https://twitter.com/Bose",
+      "https://twitter.com/NFL/status/1253491633284210688",
+      "https://twitter.com/hashtag/TogetherBlue",
+      "https://twitter.com/NFL/status/1121581826781274113",
+      "https://www.t.co/6Y3yOUU6g9",
+      "https://twitter.com/NewEraCap",
+      "https://twitter.com/NFL/status/1651754523298353152",
+      "https://www.twitter.com/hashtag/TogetherBlue?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/NFL/status/1121581826781274113?ref_src=twsrc%5Etfw",
+      "https://www.t.co/i89PeqSlJK",
+      "https://www.twitter.com/NFLDraft?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/Lions?ref_src=twsrc%5Etfw",
+      "https://twitter.com/Jaguars",
+      "https://www.t.co/mCfS3tUgVW",
+      "https://www.twitter.com/JoshAllen41_?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/NFLDraft?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/NFL/status/1387937597708668929?ref_src=twsrc%5Etfw",
+      "https://twitter.com/hashtag/NFLDraft",
+      "https://twitter.com/hashtag/RaiderNation",
+      "https://www.twitter.com/Giants?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/Jaguars?ref_src=twsrc%5Etfw",
+      "https://www.twitter.com/hashtag/RaiderNation?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/Panthers",
+      "https://www.subscribe.tennessean.com/offers?gps-source=CPSMGENDARTICLE&utm_source=smg&utm_medium=endarticle&utm_content=titanswire&utm_campaign=smgtolocal&offer=W-JX",
+      "https://twitter.com/Raiders",
+      "https://twitter.com/NFLDraft",
+      "https://www.twitter.com/Panthers?ref_src=twsrc%5Etfw",
+      "https://twitter.com/NFL/status/1387937597708668929",
+      "https://www.twitter.com/AuburnFootball?ref_src=twsrc%5Etfw",
+      "https://twitter.com/AuburnFootball"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nfl",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tennessee titans",
+          "sentiment": "negative"
+        },
+        {
+          "name": "titans",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:02:23.460+03:00",
+    "updated": "2024-04-26T00:02:23.460+03:00"
+  },
+  {
+    "uuid": "a7bc55c24c598c934d7449b0af58934609220144",
+    "url": "https://www.meneame.net/story/vispera-navidad-belen-parece-pueblo-fantasma-guerra-gaza-detiene/c022",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "UNX",
+    "published": "2023-12-24T15:14:00Z",
+    "title": "#22 La víspera de Navidad, Belén parece un pueblo fantasma. La guerra en Gaza detiene las celebraciones",
+    "text": "Portada\nmis comunidades\notras secciones\n[#1](c1#c-1) Se supone que Jesus era judío a sí que ellos mismos, son sus costumbres y hay que respetarlas, además de su tierra.\n¿Dónde nació? ¿Pero es que acaso nació?\nMira que quiero empatizar con algún bando pero no puedo, entre moros y judíos no sé muy bien cuál es el mal menor.\n[#2](c2#c-2) Entonces si alguien se mete en tu casa tenemos que ver quien nos cae mejor? no se respeta la propiedad? las decenas de resoluciones de derecho internacional dan igual?\n[#3](c3#c-3) Evidentemente si, gana el que tiene la pistola más grande, mira Ucrania o cualquier otra guerra. Sería la primera vez que el sentido común se impusiera sobre el poder militar, además, joder, que ambos bandos son teocracias, que se maten entre ellos y nos dejen en paz.\n[#13](c13#c-13) No, era galileo. También habia samaritanos (de Samaria), judios (de Judea) y palestinos (filisteos) de Gaza.\n[#1](c1#c-1) Hombre, Belén no está en la franja de Gaza y no tengo claro que la estén bombardeando........eso por no decir que tampoco queda claro donde nació este hombre porque no hay ni una sola referencia a él en vida. Hoy se cree que existió y que desde luego en vida fue prácticamente irrelevante.......con lo que atinar con donde nació.......pues puede que si, puede que no\n[#1](c1#c-1) La otra vez tardaron 33 años en crucificar al palestino, demasiado tiempo, ahora han descubierto que gracias a la tecnología yanki pueden eliminar a 33 niños solo apretando un botón y sin necesidad de cruces todo a cachitos para que no resuciten\n[#5](c5#c-5) eso mismo pensaba yo el otro día. Por ejemplo si Jordi Hurtado le diera una patada en los huevos a Mike Tyson en un bar, esto desencadenaría una pelea o una ostia que le arranca la cabeza a Jordi?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T17:16:35.668+02:00",
+    "updated": "2023-12-24T17:16:35.668+02:00"
+  },
+  {
+    "uuid": "afaeb8ce1cbea59fbdd9f8cdb465be5a6b3dea8f",
+    "url": "https://www.wnd.com/2024/02/trump-condemns-persecution-christians-biden-doj",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WND News Services",
+    "published": "2024-02-23T16:17:00Z",
+    "title": "Trump condemns 'persecution' of Christians under Biden DOJ",
+    "text": "<a href=\"https://www.dailysignal.com/2024/02/23/trump-condemns-persecution-christians-under-biden-doj-pledges-feds-will-never-target-them/\">Editor's note: This story originally was published by\n[The Daily Signal</a>.]\nBy Tyler O'Neil\nThe Daily Signal\nAdvertisement - story continues below\nNASHVILLE, TENNESSEE—\nFormer President Donald Trump compared the criminal indictments he faces to the Biden administration’s targeting of Christians as he spoke at the National Religious Broadcasters Convention Thursday night.\n“For all Americans, but especially for Christians, nothing is more important than to defeat this wicked system and to return to equal and impartial justice under the constitutional rule of law,” the former president said.\nTRENDING:\n'Hey you guys!' Blinken warns State staffers to avoid words like 'father'\n“They’re weaponizing law enforcement to target parents, conservatives, and Catholics,” Trump noted, citing the (since-rescinded) Department of Justice memo\ntargeting concerned parents of public school children in 2021 and the memo from the FBI’s Richmond, Virginia, office urging investigations into “ radical-traditional Catholic hate groups,” citing the Southern Poverty Law Center.\n“Catholics, they’re being persecuted. Catholics,” he repeated. “But evangelicals, they’re all on the list.”\nAdvertisement - story continues below\nGet the hottest, most important news stories on the Internet – delivered FREE to your inbox as soon as they break! Take just 30 seconds and sign up for WND's Email News Alerts!\nHe pledged that if he wins the 2024 presidential election, “Never again will the federal government be used to target you, religious believers.” He promised to open an inquiry into “every political prisoner who has been unjustly prosecuted” under the Biden administration.\n“The same DOJ that dropped\ncharges against Antifa, where they killed people, where they destroyed cities … the same Biden DOJ has rounded up six pro-life activists right here in Tennessee, arresting them for a peaceful protest outside a clinic, where they prayed, sang hymns, and were removed with great force,” Trump said.\nHe noted that these protesters got “convicted on outrageous charges.”\nAdvertisement - story continues below\nThe former president was referring to\npro-life activists Chet Gallagher, Coleman Boyd, Heather Idoni, Cal Zastrow, Dennis Green, and Paul Vaughn, who were convicted and face up to 11 years in prison due to their peaceful protest in the hallway outside a Mount Juliet abortion facility in March 2021. Last month, a Nashville grand jury found them guilty of violating the Freedom of Access to Clinic Entrances Act and conspiracy against rights.\n“These are\npersecuted Christians. They are being persecuted by Joe Biden and his people,” the former president said.\nTrump promised to defend Christian symbols and to launch a task force to combat “anti-Christian bias.”\nAdvertisement - story continues below\n“No one will be touching the cross of Christ under the Trump administration, I swear to you,” he said. “I will never allow the Big Media or left-wing pressure groups to silence you.”\n“Remember, every communist regime throughout history has tried to stomp out the churches just as every fascist regime has tried to co-opt them,” he said, claiming that the Left today is using both strategies.\nTrump also repeated his claim that his opponents target him because they’re trying to get at the American people.\nAdvertisement - story continues below\n“They’re not after me; they’re after you, and I just happen to be standing in the way,” he said.\n“They try to shame Christians; they try to shame us,” Trump said. “I’m a very proud Christian, actually.”\n“I’m being indicted for you,” he added.\nThen the former president joked about facing more criminal charges than great criminals of the past.\nAdvertisement - story continues below\n“I’ve been indicted more than Al Capone, the great gangster,” he said. “I’ve been indicted more than some of the greatest criminals in history.”\nHe joked that every time “my plane flies over a blue state,” he receives a summons to go to court.\nYet “with me, I get indicted and my\nAdvertisement - story continues below\nTrump warned that Christians “can’t afford to sit on the sidelines in this fight. The corrupt persecution by this regime will not stop with me.”\n“Ultimately, the radical Left is coming after all of us because our allegiance is not to them,” he said. “Our allegiance is to our creator, they don’t want to hear that. … We do not answer to bureaucrats in Washington, we answer to God in heaven.”\n“How any Christian or person of faith could vote for a Democrat is crazy,” Trump added.\nHe said the greatest threat to America comes from within, and he said America cannot prevail without God’s help.\nAdvertisement - story continues below\n“To achieve victory in this fight, just like the victories of the past, we still need the hand of our Lord and the grace of almighty God,” the former president said.\n<a href=\"https://www.dailysignal.com/2024/02/23/trump-condemns-persecution-christians-under-biden-doj-pledges-feds-will-never-target-them/\">Editor's note: This story originally was published by\n[The Daily Signal</a>.] SUPPORT TRUTHFUL JOURNALISM. MAKE A DONATION TO THE NONPROFIT WND NEWS CENTER. THANK YOU!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.dailysignal.com/2023/03/07/southern-poverty-law-center-has-long-history-carrying-water-antifa/",
+      "https://www.dailysignal.com/2024/01/30/pro-life-activists-charged-biden-doj-face-11-years-prison-peaceful-protest/",
+      "https://www.dailysignal.com/2023/08/03/is-bidens-doj-working-splc-demonize-parents-america-first-legal-demands-answers/",
+      "https://www.dailysignal.com/tag/donald-trump",
+      "https://www.dailysignal.com/2023/02/08/whistleblower-docs-fbi-cites-southern-poverty-law-center-in-report-on-radical-traditionalist-catholic-ideology/",
+      "https://wndnewscenter.nationbuilder.com/support_wnd_news_center",
+      "https://www.dailysignal.com/tag/christian",
+      "https://www.dailysignal.com/2024/02/23/trump-condemns-persecution-christians-under-biden-doj-pledges-feds-will-never-target-them/",
+      "https://dailysignal.com/tag/christian",
+      "https://www.dailysignal.com/2024/01/30/pro-life-activists-charged-biden-doj-face-11-years-prison-peaceful-protest",
+      "https://www.dailysignal.com/2023/08/03/is-bidens-doj-working-splc-demonize-parents-america-first-legal-demands-answers",
+      "https://www.dailysignal.com/2023/02/08/whistleblower-docs-fbi-cites-southern-poverty-law-center-in-report-on-radical-traditionalist-catholic-ideology",
+      "https://dailysignal.com/2024/02/23/trump-condemns-persecution-christians-under-biden-doj-pledges-feds-will-never-target-them/",
+      "https://dailysignal.com/2024/01/30/pro-life-activists-charged-biden-doj-face-11-years-prison-peaceful-protest/",
+      "https://dailysignal.com/tag/donald-trump",
+      "https://www.dailysignal.com/2023/03/07/southern-poverty-law-center-has-long-history-carrying-water-antifa",
+      "https://www.wndnewscenter.nationbuilder.com/support_wnd_news_center",
+      "https://dailysignal.com/2023/03/07/southern-poverty-law-center-has-long-history-carrying-water-antifa/",
+      "https://dailysignal.com/2023/02/08/whistleblower-docs-fbi-cites-southern-poverty-law-center-in-report-on-radical-traditionalist-catholic-ideology/",
+      "https://dailysignal.com/2023/08/03/is-bidens-doj-working-splc-demonize-parents-america-first-legal-demands-answers/",
+      "https://www.dailysignal.com/2024/02/23/trump-condemns-persecution-christians-under-biden-doj-pledges-feds-will-never-target-them"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "blinken",
+          "sentiment": "none"
+        },
+        {
+          "name": "biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "tyler o'neil",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "biden doj",
+          "sentiment": "negative"
+        },
+        {
+          "name": "daily signal advertisement",
+          "sentiment": "none"
+        },
+        {
+          "name": "daily signal",
+          "sentiment": "none"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        },
+        {
+          "name": "department of justice",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nashville",
+          "sentiment": "none"
+        },
+        {
+          "name": "tennessee",
+          "sentiment": "none"
+        },
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        },
+        {
+          "name": "richmond",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T18:29:09.097+02:00",
+    "updated": "2024-02-23T18:29:09.097+02:00"
+  },
+  {
+    "uuid": "0e1618a637b6fdd4ca8e069436a0ae744cd1da53",
+    "url": "https://www.20minutos.es/noticia/5204771/0/los-padres-uno-los-soldados-fallecidos-cordoba-unas-maniobras-denuncian-capitan-toda-cadena-mando/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Miriam Cos Manuel",
+    "published": "2023-12-28T20:22:00Z",
+    "title": "Los padres de uno de los soldados fallecidos en unas maniobras en Córdoba denuncian al capitán y toda la cadena de mando",
+    "text": "Los padres de Carlos León, el soldado natural de El Viso del Alcor ( [Sevilla](https://www.20minutos.es/minuteca/sevilla/)) muerto el pasado 21 de diciembre en unas maniobras militares en Cerro Muriano ( [Córdoba](https://www.20minutos.es/minuteca/cordoba/)), presentarán este viernes una denuncia contra el capitán al mando del ejercicio y toda la cadena de mando. Según ha explicado el abogado sevillano Luis Romero, que se encarga de representar a los padres, la denuncia será registrada este viernes en el juzgado de Instrucción número 4 de Córdoba, donde ya se ha presentado como acusación particular. La intención de la denuncia es delimitar las posibles responsabilidades del capitán y resto de mandos en la muerte del joven sevillano, de 24 años, y el cabo Miguel Ángel Jiménez Andújar. El suceso tuvo lugar a primera hora de la mañana cuando se estaban llevando a cabo unas maniobras militares en un entorno acuático con temperaturas de hasta 4 grados, concretamente en una zona junto al embalse de Guadanuño, que forma parte de las instalaciones militares. El grupo de militares estaban llevando a cabo un \"programa básico de instrucción\" en el medio acuático consistente en la flotabilidad con equipamiento, mientras que se trata de confirmar las causas que motivaron la dispersión de los soldados en un momento dado. El primer operativo para socorrer a los militares logró rescatar a dos de ellos, que tuvieron que ser atendidos por el equipo médico debido a \"síntomas de hipotermia\", y de inmediato se activó el protocolo de búsqueda de los otros dos soldados que se dieron por desaparecidos. Hasta la base militar cordobesa llegaron efectivos de la [ Guardia Civil](https://www.20minutos.es/minuteca/guardia-civil/), que comandaron la búsqueda en una zona pantanosa a la que se unieron miembros del Grupo Especial de Actividades Subacuáticas del Instituto Armado (GEAS). El soldado sevillano ingresó en el Ejército de Tierra el pasado 8 de mayo y estaba también destinado en el Regimiento de Infantería La Reina 2.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:04:57.865+02:00",
+    "updated": "2023-12-29T00:08:36.219+02:00"
+  },
+  {
+    "uuid": "f3fc1e2a9881d7d48ecb4c8a8397ff9d1be259c8",
+    "url": "https://www.uol.com.br/carros/amp-stories/boa-parte-dos-carros-0-km-vai-escapar-do-rodizio-em-sp-ja-em-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julio Cabral e Alessandro Reis",
+    "published": "2024-07-04T19:24:00Z",
+    "title": "Boa parte dos carros 0 km vai escapar do rodízio em SP já em 2025",
+    "text": "Por Julio Cabral e Alessandro Reis A partir de 2025, muitos automóveis novos em São Paulo estarão isentos do rodízio municipal de veículos. Danilo Verpa/Folhapress A maioria dos carros zero-quilômetro comercializados no Brasil terá tecnologia híbrida para cumprir os novos limites de emissões do Proconve L8. 3.out.2023-Bruno Escolastico/Ato Press/Estadão Conteúdo Desde 2015, veículos híbridos e elétricos estão isentos do rodízio por emitirem menos poluição. Fábio Vieira/Foto Rua/Estadão Conteúdo O Proconve L8, que entra em vigor em 2025, estabelecerá normas de emissões mais rigorosas, com etapas mais exigentes previstas para 2027, 2029 e 2031. Reinaldo Canato/UOL O Programa Mobilidade Verde e Inovação (Mover), recém-aprovado, incentivará a pesquisa e o desenvolvimento de tecnologias de descarbonização com benefícios fiscais. WERTHER SANTANA/ESTADÃO CONTEÚDO O Mover prevê a isenção de impostos para peças importadas não disponíveis no mercado nacional, facilitando a produção de veículos eletrificados. ALOISIO MAURICIO/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO Montadoras anunciam investimentos significativos para a produção de novos veículos híbridos e elétricos. Getty Images/iStockphoto Carros com tecnologia micro-híbrida, que utilizam pequenos geradores para reduzir o consumo de combustível, ganharão popularidade. Janaina Garcia/UOL A Companhia de Engenharia de Tráfego não planeja mudar a isenção para veículos híbridos e elétricos, que ainda representam uma pequena parcela da frota. Roberto Costa/Código19/Estadão Conteúdo Segundo a ABVE, carros híbridos podem reduzir as emissões de poluentes entre 30% e 70%, com os micro-híbridos se destacando pelo menor custo e eficiência. Zanone Fraissat/Folhapress Para mais informações, acesse UOL Carros. Marco Ambrosio/Estadão Conteúdo Veja aqui Publicado em 04 de julho de 2024. Comunicar Erro",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Weather",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-05T01:31:48.572+03:00",
+    "updated": "2024-07-05T05:22:49.759+03:00"
+  },
+  {
+    "uuid": "0bf339defb5e198af472d2e01833aed28f1a8bbe",
+    "url": "https://www.interempresas.net/Envase/Articulos/590591-Virospack-obtiene-una-calificacion-B-en-el-CDP-Climate-Disclosure.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "(Interempresas)",
+    "published": "2025-03-12T23:00:00Z",
+    "title": "Virospack obtiene una calificación B en el CDP Climate Disclosure",
+    "text": "Virospack obtiene una calificación B en el CDP Climate Disclosure\nVirospack ha recibido una calificación B en la evaluación CDP Climate Disclosure, reconociendo sus esfuerzos en transparencia y acción climática. Este resultado refleja el compromiso de la empresa con la reducción de emisiones y la mejora de la eficiencia energética en la industria del envasado cosmético.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Environment->climate change",
+      "Economy, Business and Finance->corporate governance and csr"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://virospack.com/es/inicio/",
+      "https://virospack.com/es/inicio",
+      "https://www.virospack.com/es/inicio/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:28:34.797+02:00",
+    "updated": "2025-03-13T01:28:34.797+02:00"
+  }
+]

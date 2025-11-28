@@ -1,0 +1,337 @@
+[
+  {
+    "uuid": "9debefb8bfc17755c0f19d2f978291a2933d64e1",
+    "url": "http://news.10jqka.com.cn/20250814/c670367582.shtml",
+    "ord_in_thread": 0,
+    "author": "证券时报网",
+    "published": "2025-08-14T04:27:00Z",
+    "title": "机构：2025年上半年中国光电显示产业投资金额1035亿元 同比下降26.7%",
+    "text": "人民财讯8月14日电，根据CINNO Research统计数据显示，2025年上半年中国光电显示产业投资资金额约为1035亿元，同比下降26.7%。显示面板领域以451亿元的投资规模位居首位，占比达43.6%，但较去年同期下降18.3%，反映出传统面板产能的调整态势；Mini/Micro LED(MLED)领域获得238亿元投资，占比23.0%，尽管同比下滑48.5%，仍保持第二大投资板块地位；光电模组项目投资174亿元，占比16.8%，同比下降37.8%。值得注意的是，光电显示材料领域逆势增长34.6%，投资金额达160亿元，占比提升至15.5%，成为唯一实现正增长的细分领域，凸显产业链上游的战略价值正在提升。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->manufacturing and engineering",
+      "Economy, Business and Finance->business financing",
+      "Economy, Business and Finance->business reporting and performance",
+      "Science and Technology->scientific research",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social services",
+      "Social Issue->population and census",
+      "Social Issue->demographics"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T07:47:16.109+03:00",
+    "updated": "2025-08-14T07:51:10.000+03:00"
+  },
+  {
+    "uuid": "f5cb067e03013095b772c84d268f38f198cfee53",
+    "url": "https://timesofindia.indiatimes.com/city/thane/thane-synagogue-gets-hoax-bomb-threat-email/articleshow/106362116.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nishikant Karlikar",
+    "published": "2023-12-28T21:25:00Z",
+    "title": "Thane synagogue gets hoax bomb threat email | Thane News - Times of India",
+    "text": "THANE: A 144-year-old Jewish synagogue in Thane received a bomb threat email on Thursday afternoon. Though the threat later turned out to be a hoax, police stepped up vigil outside Shaar Hashamaim - Gate of Heaven Synagogue in Charai's Dhobi Ali area.A preliminary probe found that the email had been sent from the US. \\\"The IP address seems to be from the US. We are trying to track down the sender,\\\" said Ravi Kshirsagar, senior inspector, Naupada police station. The bomb threat email assumes importance in the wake of the IED explosion outside the Israeli Embassy.Complainant Samual Daniel (64) told Naupada police that around 12.20pm, one of the trustees spotted the threat email which read: \\\"I planted bombs inside of your synagogue. The explosives are well hidden and they will go off soon. We will make sure you all end up dead. We are a terrorist group called: Fuming.\\\"The trustee alerted Naupada police and the Israel consulate. Police rushed a bomb detection and disposal squad to the spot and evacuated the staff at the prayer centre. They cordoned off the area, diverted traffic and instructed commercial establishments to down their shutters for a brief period. \\\"We carried out a thorough search and did not find anything suspicious. However, security has been stepped up in the area,\\\" said DCP Ganesh Gawade. Police have regi-stered an FIR under the releva-nt Indian Penal Code sections.The foundation stone for the synagogue was laid on March 26, 1878, and the building was completed on December 29, 1879. In 1999, the synagogue was renovated and beautified. Daniel said the Thane synagogue is an important centre of Jewish community activities. He added that around 40% of the Jewish population in India reside in and around Thane city and most of them offer prayers at Shaar Hashamaim.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "thane",
+          "sentiment": "negative"
+        },
+        {
+          "name": "ravi kshirsagar",
+          "sentiment": "none"
+        },
+        {
+          "name": "naupada",
+          "sentiment": "none"
+        },
+        {
+          "name": "samual daniel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "charai",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "dhobi ali",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:17:04.616+02:00",
+    "updated": "2023-12-29T02:17:04.616+02:00"
+  },
+  {
+    "uuid": "58108f0a5178ecacbaa700fec26b6834051df5b2",
+    "url": "https://www.latercera.com/pulso/noticia/la-generacion-hidraulica-alcanza-un-historico-nivel-de-participacion-a-junio-y-energias-limpias-siguen-aumentando-su-peso/F2RKKCAH3FF6FKWSTJLHNZB6XY",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "latercera.com",
+    "published": "2024-07-19T00:50:00Z",
+    "title": "ERNC alcanzan el 38% del total al primer semestre - La Tercera",
+    "text": "Víctor Guillou hace instantes Tiempo de lectura: 3 minutos Energías limpias siguen aumentando su peso, pero la generación hidráulica alcanza casi un tercio del total a junio. En el primer semestre y tras las mayores lluvias que se han registrado en 2024 versus los años de megasequía, la energía proveniente de embalses y centrales de pasada aumentó un 49% versus igual periodo de 2023, y llegó a una participación de 27% en el total del sistema eléctrico. Por su parte, las Energías Renovables No Convencionales (ERNC) ya aportan un 38%, lideradas por las centrales solares.\ncompartir Comentarios Este 2024, con cifras de precipitaciones consideradas dentro de lo normal, pero con niveles de agua caída sustancialmente mayores a las lluvias registradas durante los varios años de megasequía, ha tenido su correlato en la generación eléctrica del país. De hecho, las centrales hidráulicas fueron las que más incrementaron su peso en el Sistema Eléctrico Nacional (SEN) durante el primer semestre.\nA junio, y según las cifras preliminares publicadas por el Coordinador Eléctrico Nacional (CEN), este tipo de generación alcanzó una participación del 27%, llegando a 11,76 TWh en el acumulado de los primeros seis meses del año. Al comparar con el mismo período del año previo, la energía proveniente de embalses y centrales de pasada marcó un alza del 49%. Durante el primer semestre de 2023, estas tecnologías totalizaron una generación de 7,89 TWh, representando un 19% del total. Así, entre un año y otro, aumentó en ocho puntos porcentuales su presencia en el SEN, y superó por lejos el desempeño del resto de las tecnologías disponibles para la generación.\nAdemás, una revisión de las cifras históricas dispuestas por el SEN, que abarcan la data desde el año 2016 en adelante -en 2017 comenzó la interconexión entre el Sistema Interconectado Central (SIC) y el Sistema Interconectado del Norte Grande (SING), creándose el SEN-, revela que el 27% de participación de las centrales hidráulicas es la más alta de toda la serie. De este modo, la generación de embalses y centrales de pasada anotó su mayor participación histórica.\nEn contraste, las fuentes de origen térmico han visto cómo su participación se sigue reduciendo. Entre enero y junio de este año las centrales que operan en base a combustibles fósiles dominaron con 17,01 TWh, un 39% de participación. Pero aunque siguen siendo la principal fuente de energía en Chile, registraron una baja de 17% en su contribución frente a igual lapso de 2023, cuando acumularon 20,42 TWh. En ese momento, dicho nivel significaba que las energías más contaminantes representaron un 49% del total. Es decir, al comparar entre ambos primeros semestres, las fuentes térmicas redujeron en 10 puntos porcentuales su peso sobre el total del sistema.\nLa menor participación de las centrales térmicas en el SEN desde su creación es notoria. En 2016, estas tecnologías representaban un 69% del total.\nLas ERNC continúan subiendo Junto con el mejor desempeño de la generación hidráulica, también la participación de las Energías Renovables No Convencionales (ERNC) sigue al alza este año. Mientras entre enero y junio de 2023 estas energías limpias aportaron 14,78 TWh, representando el 36% del total, en igual lapso del presente ejercicio aportaron con 16,63 TWh, lo que se tradujo en una participación del 38%.\nLa historia continua más abajo\nMás sobre Energía FNE recomienda medidas para asegurar el acceso a información útil a consumidores que quieran optar ser clientes libres Hace 2 horas La columna de Matías Concha: “Saliendo de la trampa en solitario eléctrica” Hace 8 horas Así, su peso en el sistema se incrementó en dos puntos porcentuales, de la mano de un aumento de la cantidad de energía generada por el total de las ERNC de 11% en el primer semestre.\nEl carro de las energías limpias lo empujan las centrales solares. Dicho grupo de generadoras lideró con 9,15 TWh, un 55% del total aportado por el segmento, pero un 21% del SEN. Entre un año y otro, elevaron en 11% la energía generada, frente a los 8,23 TWh de enero-junio de 2023.\nLe sigue la energía eólica, que aportó con 5,16 TWh en el primer semestre, 8% más que los 4.8 TWh de los primeros seis meses de 2023. Con ello, las centrales que aprovechan los vientos a lo largo del país alcanzaron un 31% de participación entre las ERNC, y un 12% del total de la energía generada en el primer semestre.\nCon todo, la positiva hidrología registrada en el año también beneficia a un tipo específico de ERNC: las centrales hidroeléctricas de pasada. Esta tecnología acumuló 1,22 TWh en los seis primeros meses del año, un 37% más que los 0,89 TWh anotados en 2023. Aún con ello, esta fuente representa sólo un 7% de las ERNC y apenas un 2,8% del total del SEN.\nMucho más atrás se ubicaron otras centrales que producen energías consideradas limpias, como la biomasa, el biogás y la geotermia.\nComenta Los comentarios en esta sección son exclusivos para suscriptores. Suscríbete aquí.\nLa Tercera Noche",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://x.com/intent/tweet?url=https://www.latercera.com/pulso/noticia/la-generacion-hidraulica-alcanza-un-historico-nivel-de-participacion-a-junio-y-energias-limpias-siguen-aumentando-su-peso/F2RKKCAH3FF6FKWSTJLHNZB6XY/&text=La%20generaci%C3%B3n%20hidr%C3%A1ulica%20alcanza%20un%20hist%C3%B3rico%20nivel%20de%20participaci%C3%B3n%20a%20junio%20y%20energ%C3%ADas%20limpias%20siguen%20aumentando%20su%20peso%20&hashtags=Energía,ERNC",
+      "https://x.com/intent/tweet",
+      "https://x.com/intent/tweet?url=https://latercera.com/pulso/noticia/la-generacion-hidraulica-alcanza-un-historico-nivel-de-participacion-a-junio-y-energias-limpias-siguen-aumentando-su-peso/F2RKKCAH3FF6FKWSTJLHNZB6XY/&text=La%20generaci%C3%B3n%20hidr%C3%A1ulica%20alcanza%20un%20hist%C3%B3rico%20nivel%20de%20participaci%C3%B3n%20a%20junio%20y%20energ%C3%ADas%20limpias%20siguen%20aumentando%20su%20peso%20&hashtags=Energía,ERNC"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T03:52:32.576+03:00",
+    "updated": "2024-07-19T03:52:32.576+03:00"
+  },
+  {
+    "uuid": "0e5b88b53dade524850eedeb664d3b37c1d819e9",
+    "url": "https://rr.sapo.pt/noticia/pais/2024/09/12/sindicatos-de-enfermeiros-recusam-contraproposta-do-governo-e-mantem-reivindicacao-salarial/393452",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rádio Renascença",
+    "published": "2024-09-12T00:00:00Z",
+    "title": "Sindicatos de enfermeiros recusam contraproposta do Governo e mantêm reivindicação salarial - Renascença",
+    "text": "12 set, 2024 - 22:26 • Lusa A plataforma que reúne cinco sindicatos de enfermeiros recusou a contraposta de valorização salarial apresentada pelo Governo, mantendo a reivindicação de aumento de duas posições remuneratórias para todos os profissionais de enfermagem. \"Nenhuma das cinco estruturas que estão aqui representadas sente-se completamente satisfeita com aquilo que foi apresentado\" na reunião negocial que decorreu hoje com o Ministério da Saúde, adiantou à Lusa o presidente do Sindicato dos Enfermeiros (SE). Segundo Pedro Costa, perante a recusa da contraposta apresentada nas negociações de hoje, a plataforma sindical - que junta o SE, o Sindicato Independente de Todos os Enfermeiros Unidos (SITEU), o Sindicato Nacional dos Enfermeiros (SNE), o Sindicato Independente Profissionais Enfermagem (SIPENF) e o Sindicato Democrático dos Enfermeiros de Portugal (SINDEPOR) -- pretende agendar uma nova reunião já para a próxima semana. \"O que nós propusemos era duas posições remuneratórias da tabela da carreira de enfermagem divididas em três anos. O que nos está a ser proposto agora é uma posição remuneratória e meia em três anos. Não aceitamos isso\", referiu o dirigente sindical. \"Não abdicamos dessa posição\", garantiu Pedro Costa, ao avançar que o ministério de Ana Paula Martins ficou de \"analisar a proposta para 2026 e 2027\". A reunião de hoje decorreu depois de na última ronda negocial, no final de julho, o Governo ter retirado a sua proposta de aumento de 52 euros para os enfermeiros que entravam, pela primeira vez, em cada uma das categorias. . Face a esta evolução nas negociações, o presidente do SE considerou que já foi possível dar \"um salto gigante em relação à última reunião\", tendo em conta que a contraproposta hoje apresentada pelo Governo representa uma valorização salarial de cerca de 200 euros. \"Há possibilidade de uma aproximação numa altura em que os enfermeiros vão ser necessários para o plano de inverno, em que vamos começar com a vacinação, é preciso mostrar um sinal de força\", salientou Pedro Costa. Também em declarações à Lusa, a dirigente do Sindicato dos Enfermeiros Portugueses (SEP), Guadalupe Simões, disse que a estrutura sindical tinha marcada uma reunião para hoje, mas que foi adiada pelo Ministério da Saúde para a próxima semana, sem indicar ainda a data, alegando que \"ainda estava a trabalhar no processo\". Guadalupe Simões adiantou que o SEP estava à espera que fosse apresentado na reunião adiada uma proposta que valorize a grelha salarial dos enfermeiros. . Segundo a dirigente sindical, a proposta deve valorizar o início da grelha na categoria de enfermeiro e de enfermeiro-especialista e todas as posições remuneratórias de todas as categorias. O SEP tem agendada uma greve para 24 e 25 de setembro e uma concentração para 25.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-13T01:47:08.299+03:00",
+    "updated": "2024-09-13T09:14:31.413+03:00"
+  },
+  {
+    "uuid": "ca2853b1ace99599af29dc4f3d57de562a32ec5d",
+    "url": "https://www.newschannel5.com/news/the-violent-storm-that-hit-maury-county-on-wednesday-left-a-major-mark",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hannah McDonald",
+    "published": "2024-05-09T22:36:00Z",
+    "title": "The violent storm that hit Maury County on Wednesday left a major mark",
+    "text": "MAURY COUNTY, Tenn. (WTVF) — The violent storm that hit Maury County on Wednesday left a major mark. According to a preliminary report, an EF3 tornado with 140mph winds touched down in Columbia and Spring Hill. Tennessee Highway Patrol and Maury County EMA locked down neighborhoods on Wednesday night and Thursday morning so first responders could visit every house and make sure people were safe. According to Governor Bill Lee, roughly 100 homes were damaged in the county. Of those, 40 homes had significant damage. We know the damage is so widespread. If you have a storm-related story email Hannah.McDonald@newschannel5.com. Some neighborhoods in rough shape include Lasea Road, Kedron Road, Blackburn Lane, Clara Mathis Road, and Joe Brown Road. Off Lasea Road, in the distance, a sturdy high-voltage transmission line was bent by the forceful winds. According to TVA, a total of six of their towers were destroyed or damaged by the tornado. Debris, including power lines, trapped people out of their neighborhood as well as inside. Not being able to get to people who potentially needed to be rescued was tough. “Just hollering for help... [and] we couldn’t get to them. We couldn’t cross the power lines, ya know? It’s just hard knowing that we were trying and we just couldn’t get there,” said Ricky Oliver. Oliver is a home builder in the area. On Thursday, he was set to move into a fifth wheel on a property on Lasea Road to be close to the construction. The trailer looked totaled. “I got my guitar in there and a couple things… They were supposed to turn the power on here today,” he said. According to county officials, at least one person was killed in the storm. They said Cheryl Lovett died near Blackburn Lane. At least five others including a teenager had injuries that needed medical attention.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe brown road",
+          "sentiment": "none"
+        },
+        {
+          "name": "bill lee",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "blackburn lane",
+          "sentiment": "none"
+        },
+        {
+          "name": "tennessee highway patrol",
+          "sentiment": "none"
+        },
+        {
+          "name": "tva",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tenn.",
+          "sentiment": "none"
+        },
+        {
+          "name": "maury county",
+          "sentiment": "none"
+        },
+        {
+          "name": "maury county",
+          "sentiment": "none"
+        },
+        {
+          "name": "columbia",
+          "sentiment": "none"
+        },
+        {
+          "name": "spring hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "kedron road",
+          "sentiment": "none"
+        },
+        {
+          "name": "clara mathis road",
+          "sentiment": "none"
+        },
+        {
+          "name": "lasea road",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T07:21:11.808+03:00",
+    "updated": "2024-05-10T07:21:11.808+03:00"
+  },
+  {
+    "uuid": "0c0c414f580979f39a344882ec666356a9f17692",
+    "url": "https://article.wn.com/view/2025/02/20/Vigilant_Fox_Infamous_Dr_Deborah_Birx_Makes_Two_Shocking_COV",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "System",
+    "published": "2025-02-20T00:00:00Z",
+    "title": "Vigilant Fox: Infamous Dr. Deborah Birx Makes Two Shocking COVID Admissions - Worldnews.com",
+    "text": "system\nThursday, 20 February 2025\nTop Stories\nLive\nAsk about this article\nAnswer for your question of the article will be displayed here ...\nInterpret\nRelated News\nNEW REVELATIONS ON THE COVID DEATH COUNT\nBitchute\n2025-02-17, 22:50\nEXPLORE WN.com\n© 2025 All Rights Reserved, World News Inc.|\nAbout WN\n|\nSitemap\n|\nPrivacy Policy\n|\nContact\n|\nJobs\n|\nFeedback\n|\nNewsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health"
+    ],
+    "topics": [
+      "Health->communicable disease",
+      "Health->health organisation",
+      "Health->medical profession"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Deborah Birx",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "World News Inc.",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T00:20:14.108+02:00",
+    "updated": "2025-02-21T00:20:14.108+02:00"
+  }
+]

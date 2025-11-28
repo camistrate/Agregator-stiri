@@ -1,0 +1,598 @@
+[
+  {
+    "uuid": "af0d2ee91cb5bc85618ba55e5afe231789f45aae",
+    "url": "https://andaluciainformacion.es/cordoba/1712740/sanchez-afirma-haber-visto-bien-a-biden-y-evidencia-su-preferencia-por-el-frente-a-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@andaluciainf",
+    "published": "2024-07-12T08:31:00Z",
+    "title": "Sánchez afirma haber visto bien a Biden y evidencia su preferencia por él frente a Trump | Andalucía Información. Todas las noticias de Córdoba",
+    "text": "El jefe del Gobierno español, Pedro Sánchez, aseguró este jueves haber visto bien al presidente de Estados Unidos, Joe Biden, en la cumbre de la OTAN y mostró su preferencia por él frente a Donald Trump, pero remitió a su decisión y a la del Partido Demócrata sobre su candidatura para las próximas elecciones. En la rueda de prensa que ofreció al término de la cumbre de la Alianza y al preguntarle su opinión sobre Biden en medio del debate existente sobre si debe ser o no el candidato demócrata en esos comicios, Sánchez dijo que el presidente estadounidense estuvo presente en todos los debates a diferencia de otros líderes que se ausentaron. \"Su compromiso con la OTAN yo creo que es total, es rotundo, y eso se ha demostrado en la celebración de este 75 aniversario\", señaló antes de reconocer que no esconde sus preferencias y, \"con todos los respetos a lo que vaya a elegir el pueblo estadounidense\", prefiere a Biden en vez de a Trump como presidente progresista que es. Pero recalcó que la decisión sobre presentarse finalmente o no depende de él y del Partido Demócrata. Envía tu noticia a: [participa@andaluciainformacion.es](mailto:participa@andaluciainformacion.es)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T11:46:15.081+03:00",
+    "updated": "2024-07-12T11:46:15.081+03:00"
+  },
+  {
+    "uuid": "af3ea5389009cb1a7be34df69f4ea4b3a657fa4c",
+    "url": "https://www.thestar.com.my/news/world/2024/08/23/north-korea-slams-us-sale-of-apache-helicopters-to-south-korea-as-039provocative039",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2024-08-22T22:13:00Z",
+    "title": "North Korea slams US sale of Apache helicopters to South Korea as 'provocative' | The Star",
+    "text": "World Friday, 23 Aug 2024\n6:13 AM MYT FILE PHOTO: An AH-64 Apache helicopter flies during a live-fire drill of the U.S. Army's 1st Armored Brigade Combat Team, 1st Armored Division at the Rodriguez Live Fire Complex, in Pocheon, South Korea, August 14, 2024. REUTERS/Kim Soo-hyeon/File Photo\nSEOUL (Reuters) - North Korea's foreign ministry denounced a U.S. planned sale of Apache helicopters to South Korea, state media KCNA said on Friday, vowing to take additional steps to bolster its self-defence.\nThe Pentagon said on Monday that the U.S. State Department has approved the potential sale of Apache helicopters and related logistics and support to South Korea for an estimated $3.5 billion.\nAn unnamed senior official in charge of foreign news at North Korea's foreign ministry issued a press statement on Thursday criticising the sale plan as a move to aggravate tension, alongside ongoing annual military drills by the allies.\n\"This is a reckless provocative act of deliberately increasing the security instability in the region,\" the official said, according to KCNA.\nThe official accused Washington of escalating military confrontation, \"disturbing the military balance and thus increasing the danger of a new conflict\" in the region by supplying lethal weapons to its allies and friends.\nPyongyang's \"strategic deterrence will be further strengthened to protect the national security and interests and the regional peace,\" the statement said, pledging to steadily conduct military activities to boost self-defence.\n(Reporting by Hyonhee Shin; Editing by Josie Kao)\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = ' Already a subscriber? Log in . Limited time offer:\nJust RM5 per month. Monthly Plan RM13.90/month\nRM5/month\nSubscribe Billed as RM5/month for the 1st 6 months then RM13.90 thereafters.\nAnnual Plan RM12.33/month\nBilled as RM148.00/year\nSubscribe 1 month Free Trial\nFor new subscribers only\nSubscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "star seoul",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "reuters",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "u.s. state department",
+          "sentiment": "none"
+        },
+        {
+          "name": "kcna",
+          "sentiment": "none"
+        },
+        {
+          "name": "pentagon",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "north korea",
+          "sentiment": "none"
+        },
+        {
+          "name": "south korea",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        },
+        {
+          "name": "pyongyang",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T01:31:15.429+03:00",
+    "updated": "2024-08-23T03:21:11.758+03:00"
+  },
+  {
+    "uuid": "3c8e0eb05ae3a7f2a2396adca42aee583bd31977",
+    "url": "https://www.newsbreak.com/wish-tv-2107872/3956030743480-3-kids-killed-in-amish-buggy-in-marshall-county",
+    "ord_in_thread": 0,
+    "author": "Chris Davis, WIBC",
+    "published": "2025-04-09T21:42:00Z",
+    "title": "3 kids killed in Amish buggy in Marshall County - NewsBreak",
+    "text": "BREMEN, Ind. ( WIBC ) — A wreck between a Mercedes GLA and an Amish buggy resulted in the deaths of three kids who were in the buggy just after 8 a.m. Wednesday in Marshall County. The coroner’s office said the crash was south of Bremen along Fir Rd. and 4th Rd. The Mercedes slammed into the back of the buggy, with the impact throwing the kids out. They all died at the scene. The siblings have been identified as Glenda Jo Yoder, 13; Darrell Yoder, 10; and Devon Yoder, 9. The driver of the Mercedes was not hurt.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->homicide",
+      "Crime, Law and Justice->reckless driving",
+      "Social Issue->children",
+      "Social Issue->death and dying",
+      "Social Issue->social problem",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.particlenews.com/image.php?url=3yZyya_10HBLbgP00",
+      "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3yZyya_10HBLbgP00",
+      "https://wibc.com/599990/three-kids-killed-in-amish-buggy-in-marshall-county/",
+      "https://img.particlenews.com/image.php",
+      "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3yZyya_10HBLbgP00",
+      "https://www.img.particlenews.com/image.php?url=3yZyya_10HBLbgP00",
+      "https://www.wibc.com/599990/three-kids-killed-in-amish-buggy-in-marshall-county/",
+      "https://wibc.com/599990/three-kids-killed-in-amish-buggy-in-marshall-county"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Glenda Jo Yoder",
+          "sentiment": "none"
+        },
+        {
+          "name": "Darrell Yoder",
+          "sentiment": "none"
+        },
+        {
+          "name": "Devon Yoder",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "NewsBreak",
+          "sentiment": "none"
+        },
+        {
+          "name": "County",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "WIBC",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "3c8e0eb05ae3a7f2a2396adca42aee583bd31977",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:54:02.246+03:00",
+    "updated": "2025-04-10T00:54:02.246+03:00"
+  },
+  {
+    "uuid": "16ac2f34fbc5ee94326f4f84b9d0713c3f790d3e",
+    "url": "https://www.dailyexcelsior.com/imran-khans-acquittal-exposes-failed-american-plot",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daily Excelsior",
+    "published": "2024-06-06T19:21:00Z",
+    "title": "Imran Khan’s Acquittal Exposes Failed American Plot",
+    "text": "By M A Hossain\nIn a dramatic turn of events, the Islamabad High Court (IHC) on June 3 acquitted the founder of Pakistan Tehreek-e-Insaf (PTI), Imran Khan, and former foreign minister Shah Mahmood Qureshi in the much-hyped cipher case while terminating their imprisonment sentences. The former prime minister has been acquitted of all charges in another two cases related to long march vandalism, leaving the nation in shock and raising questions about the role of external forces in his ousting. Now, Pakistan can take pride in its independent judiciary and serve as an example for its neighbours to follow. This verdict is a testament to the country’s sovereignty and the upholding of national dignity.\nThe ousting of Imran Khan from power was not merely a domestic affair. Leaked documents suggest that the Central Intelligence Agency (CIA) had a vested interest in destabilizing Khan’s government. Khan’s stance on regional issues, including his opposition to certain CIA-backed operations, made him a target. The agency allegedly orchestrated a campaign to undermine his leadership through false corruption allegations, painting him as a villain for Pakistan’s economy. Khan’s visit to Russia shortly before Russia’s invasion of Ukraine further disappointed the West, leading to his removal. This incident underscores the lengths to which external forces might go to manipulate political outcomes in other sovereign nations. The Pakistani people were left questioning the integrity of their political system, and Khan’s removal was seen as a direct affront to the country’s autonomy.\nThe Pakistani judiciary’s handling of Imran Khan’s case stands as a testament to its independence. Despite external pressures, the court meticulously examined the evidence, ensuring a fair trial. The verdict sends a powerful message: justice prevails over political manoeuvring. This decision reaffirms the judiciary’s commitment to upholding the rule of law, demonstrating that no external or internal agency can undermine judicial power. The people of Pakistan now have renewed faith that justice, not political gamesmanship, will guide national proceedings. This moment is pivotal for Pakistan’s legal system, showcasing its ability to resist external influences and operate impartially, ultimately strengthening the country’s democratic framework.\nComparing Imran Khan’s trial to former President Donald Trump’s trial proceedings in the United States reveals stark contrasts. While Khan’s case followed due process, the Trump trial faced criticism for its perceived bias and political motivations. The term “kangaroo court” gained traction, highlighting the flaws in the American judicial system. The latest conviction of Trump shocked people worldwide, illustrating how the USA’s judiciary could be perceived as turning into a kangaroo court. Many viewed the motives behind this conviction as an attempt to bar Trump from the presidential race, suggesting the whole judicial proceeding was politically motivated and biased. This comparison highlights the discrepancies in judicial practices between the two nations and serves as a reminder of the necessity for legal systems to operate without political interference.\nFrom history, it is evident that the supremacy of the West, especially the USA, is descending, resembling the fall of the USSR. Symptoms are already exposing themselves. After the USSR’s defeat in Afghanistan, its economy and military power were questioned. Federal states lost hope and aspired to be independent. Moreover, the Chernobyl disaster explicitly exposed the disarray of internal management. Ominous signs are already sighted in the USA during the Covid-19 pandemic. The pandemic has exposed the mismanagement of the USA’s internal system. Another debacle for the USA and its Western allies in Afghanistan, Iraq, and Syria has caused tremendous economic setbacks for the USA. Internal political rifts in the USA are widening more than ever before. The allies of the USA now contradict on many issues, such as arbitrary military or economic punitive measures or tilting towards Russia and China.\nBeyond Khan’s acquittal, this case reflects broader geopolitical shifts. The USA’s influence in South Asia is waning. Traditional power centres are recalibrating as China and Russia assert themselves. Economic ties, regional alliances, and strategic interests are evolving. Imran Khan’s exoneration serves as a litmus test for the changing dynamics, signalling a shift away from Western dominance. The Pakistani establishment must feel the pulse of shifting political dynamics in this region. Their recalibrated foreign policy could bring stability in domestic and international affairs. As Pakistan and other South Asian countries reorient their alliances and strategies, the balance of power in the region is shifting. This change underscores the decline of Western influence and the rise of new geopolitical players, emphasizing the importance of regional self-determination and resilience against external pressures.\nIn conclusion, Imran Khan’s acquittal reverberates far beyond Pakistan’s borders. It symbolizes the struggle for judicial independence, exposes external interference, and mirrors the global realignment of power. As the world watches, it becomes evident that the old order is giving way to new players, reshaping the geopolitical landscape. This verdict not only vindicates Khan but also serves as a beacon for nations striving to maintain their sovereignty in the face of external manipulation. It marks a pivotal moment for Pakistan, demonstrating its judiciary’s strength and the country’s resilience against foreign intervention. The broader implications of this acquittal signal a transformative period in global politics, where new alliances are forged, and traditional power structures are challenged. As these dynamics continue to evolve, the world must pay close attention to the emerging balance of power and the growing assertion of national sovereignty across the globe. (IPA Service)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "imran khan",
+          "sentiment": "negative"
+        },
+        {
+          "name": "shah mahmood qureshi",
+          "sentiment": "none"
+        },
+        {
+          "name": "khan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ihc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "islamabad high court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pti",
+          "sentiment": "none"
+        },
+        {
+          "name": "cia",
+          "sentiment": "none"
+        },
+        {
+          "name": "central intelligence agency",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:02:36.209+03:00",
+    "updated": "2024-06-07T01:02:36.209+03:00"
+  },
+  {
+    "uuid": "df9970b03f78d904cc3b3678c5f89fd5b7d9a5b7",
+    "url": "http://business.bigspringherald.com/bigspringherald/article/getnews-2023-12-28-construction-and-more-opens-new-showroom-in-fremont-ca",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Get News",
+    "published": "2023-12-28T00:00:00Z",
+    "title": "Construction & More Opens New Showroom in Fremont, CA | Markets | bigspringherald.com",
+    "text": "Fremont, CA - Construction & More, a renowned name in home remodeling and construction services in Fremont, CA, is excited to announce the grand opening of their new showroom located at 40835 Fremont Blvd, Fremont, CA 94538. This showroom opened its doors to the public on October 1st, offering a unique opportunity for homeowners to explore a vast range of home remodeling materials and designs.\nA One-Stop Shop for Home Remodeling Needs\nThe new showroom by Construction & More is a testament to the company's commitment to providing high-quality services and products to its clients. The showroom features an array of kitchen cabinets, flooring samples, bathroom vignettes, and much more, allowing customers to visualize and plan their dream homes with ease.\n“Our goal has always been to simplify the home remodeling process for our clients,” said Joseph Siso, the owner of Construction & More. “With this new showroom, we are bringing an array of options under one roof, making it easier for homeowners to make informed decisions about their remodeling projects.”\nExperience Quality and Innovation\nAt the showroom, visitors can expect to find the latest trends in home remodeling. From modern and sleek kitchen cabinets to luxurious bathroom setups, the showroom is designed to inspire and assist homeowners in choosing the best options for their space. The showroom also features a variety of flooring options, including hardwood, laminate, and tiles, catering to every style and budget.\nExpert Advice and Personalized Service\nWhat sets the Construction & More showroom apart is the access to the company’s team of experienced professionals. Customers can benefit from one-on-one consultations, receive expert advice, and discuss their remodeling plans in detail. “Our team is here to guide you through every step of your remodeling journey, ensuring a personalized and hassle-free experience,” added Joseph.\nAbout Construction & More\nConstruction & More has been a leading player in the Fremont, CA construction and remodeling industry. Known for their quality craftsmanship and customer-focused approach, the company specializes in a range of services from kitchen and bathroom remodeling to full house renovations and new constructions. With the addition of this new showroom, Construction & More is set to redefine the home remodeling experience in Fremont and its surrounding areas.\nVisit Us\nThe showroom is open from 10AM - 5PM, Monday through Friday. For more information about Construction & More and the new showroom, please visit https://constructionandmoreca.com/ or contact Joseph Siso.\nMedia Contact\nCompany Name: Construction & More\nContact Person: Joseph Siso\nEmail: Send Email\nPhone: 1-888-442-2732\nAddress: 40835 Fremont Blvd\nCity: Fremont\nState: California\nCountry: United States\nWebsite: https://constructionandmoreca.com/\nData & News supplied by www.cloudquote.io\nStock quotes supplied by Barchart\nQuotes delayed at least 20 minutes.\nBy accessing this page, you agree to the following\nPrivacy Policy and Terms and Conditions .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://constructionandmoreca.com/",
+      "https://www.cloudquote.io",
+      "https://www.googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "https://tracking.newsrpm.com/pixel?slug=getnews-2023-12-28-construction-and-more-opens-new-showroom-in-fremont-ca",
+      "https://www.cloudquote.io/article/5",
+      "https://www.cloudquote.io/article/6",
+      "http://www.universalpressrelease.com/?pr=construction-more-opens-new-showroom-in-fremont-ca",
+      "https://www.getnews.info/press_stat.php?pr=construction-more-opens-new-showroom-in-fremont-ca",
+      "https://www.googletagmanager.com/gtag/js",
+      "https://cloudquote.io/article/5",
+      "https://cloudquote.io/article/6",
+      "https://www.tracking.newsrpm.com/pixel?slug=getnews-2023-12-28-construction-and-more-opens-new-showroom-in-fremont-ca",
+      "https://tracking.newsrpm.com/pixel",
+      "https://googletagmanager.com/gtag/js?id=UA-8590502-3",
+      "http://www.universalpressrelease.com/",
+      "https://www.constructionandmoreca.com/",
+      "https://cloudquote.io",
+      "http://universalpressrelease.com/?pr=construction-more-opens-new-showroom-in-fremont-ca",
+      "https://getnews.info/press_stat.php?pr=construction-more-opens-new-showroom-in-fremont-ca",
+      "https://www.getnews.info/press_stat.php",
+      "https://constructionandmoreca.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joseph siso",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "fremont",
+          "sentiment": "none"
+        },
+        {
+          "name": "ca",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:01:54.741+02:00",
+    "updated": "2023-12-29T02:01:54.741+02:00"
+  },
+  {
+    "uuid": "3e429fd78f14d7f7775f15c1250c9538029ac1a9",
+    "url": "https://www.resumenlatinoamericano.org/2024/09/26/siria-rinden-homenaje-a-lideres-martires-en-palestina-y-libano-critican-inaccion-de-onu-ante-agresiones-israelies",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Resumen Latinoamericano",
+    "published": "2024-09-26T21:40:00Z",
+    "title": "Siria. Rinden homenaje a líderes mártires en Palestina y Líbano / Critican inacción de ONU ante agresiones israelíes",
+    "text": "Por Bashar Barazi. Resumen Medio Oriente, 26 de septiembre de 2024.\nDamasco, capital de Siria, fue escenario de una ceremonia en memoria de los líderes mártires en Palestina y El Líbano, con una amplia participación oficial y popular.\nLas facciones de la resistencia palestina organizaron, este jueves, una actividad central conmemorativa de los líderes mártires en Palestina y El Líbano, y en apoyo a esta última nación contra la criminal agresión sionista. Según los organizadores, se trata de un mensaje en un momento crucial.\nEl Evento contó con una amplia participación de facciones de la resistencia palestina en Siria, representantes del estado sirio, destacadas figuras sirias y el embajador de Irán en Damasco, quien destacó que la resistencia saldrá victoriosa.\nAl concluir la ceremonia, los participantes señalaron que hay que convertir las amenazas y desafíos en una oportunidad para consolidar el eje de la resistencia que está saliendo victorioso en Gaza y El Líbano, gracias a la bendita sangre de los líderes mártires.\nSiria critica inacción de la ONU ante agresiones israelíes La continuación de la brutal agresión israelí contra palestinos, sirios y libaneses no habría ocurrido sin la impunidad y el apoyo ilimitado y multifacético brindado por Estados Unidos a la entidad sionista, dijo el ministro sirio de Asuntos Exteriores y Expatriados de Siria, Bassam Sabbagh, durante la sesión del Consejo de Seguridad sobre la situación en Medio Oriente.\nEl ministro sirio de Asuntos Exteriores, Bassam Sabbagh, criticó la inaccción del Consejo de Seguridad al no haber tomado medidas disuasivas contra “Israel” , lo cual a su consideración alentó a la entidad sionista a continuar las agresiones y el desprecio al Derecho Internacional.\nLa continuación de la brutal agresión israelí contra palestinos, sirios y libaneses no habría ocurrido sin la impunidad y el apoyo ilimitado y multifacético brindado por Estados Unidos a “Israel”, y ello hace de Washington un verdadero cómplice, expresó el canciller durante la sesión del Consejo de Seguridad sobre la situación en Medio Oriente.\nEl alto funcionario instó al Consejo a terminar con el estado de parálisis y a tomar medidas inmediatas para implementar sus resoluciones relativas al conflicto árabe-israelí, especialmente las resoluciones 242, 338 y 497.\nConforme a Sabbagh, la región no disfrutará de la paz y estabilidad a menos sin detener la ocupación israelí de todas las tierras árabes ocupadas en Palestina, Siria y el Líbano .\nTambién condenó los ataques de “Tel Aviv” contra viviendas, hospitales y escuelas en el Líbano, los cuales provocaron la muerte de cientos de civiles, incluidos niños, mujeres, periodistas y trabajadores humanitarios.\nLa agresión israelí contra Líbano confirma el desprecio de la entidad israelí a la Carta de las Naciones Unidas y el Derecho Internacional, y su persistencia de ampliar la guerra como si la sangre de más de 42 mil palestinos inocentes y más 100 mil heridos no fuese suficiente, denunció el diplomático.\nFuente: Telesur / Al Mayadeen",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://odysee.com/$/embed/@hispantv:d/damasco-conmemora-rinde-homenaje-lideres-resistencia:8?r=FpizCziAuTLAQUm5BB7u9RDvTbsckUux",
+      "https://odysee.com/$/embed/@hispantv:d/damasco-conmemora-rinde-homenaje-lideres-resistencia:8",
+      "https://www.odysee.com/$/embed/@hispantv:d/damasco-conmemora-rinde-homenaje-lideres-resistencia:8?r=FpizCziAuTLAQUm5BB7u9RDvTbsckUux"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:50:57.911+03:00",
+    "updated": "2024-09-27T02:50:57.911+03:00"
+  },
+  {
+    "uuid": "81df793bdaac3e43860388760ae5a7b230138ba0",
+    "url": "https://www.libertyballers.com/2024/12/26/24329616/joel-embiid-sixers-celtics-christmas-day-ankle-injury-tyrese-maxey-nick-nurse-paul-george",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paul Hudrick",
+    "published": "2024-12-26T21:27:00Z",
+    "title": "On Christmas, Embiid did exactly what he said he would - make life easier for everyone",
+    "text": "Sometimes, less is more.\nJoel Embiid has seemingly carried the weight of the entire franchise on his back for the entirety of his NBA career. He’s won an MVP and led the Sixers to their best era of basketball since Allen Iverson was in town.\nAfter so many injuries and playoff disappointments though, something had to give. Embiid needed to change the way he played and what he did to prepare. We’ve already seen how seriously he’s taken issues with his surgically repaired knee. Though it’s been frustrating for everyone involved, the big man has listened to his body and the advice of the medical staff.\nOn the court, he knows he has two All-Star teammates in Tyrese Maxey and Paul George — plus a slew of reliable role players — to help him carry the load. Before the season started, Embiid frequently said his goal wasn’t individual accolades or to put the whole team on his back. His goal this season was to make things easier for his capable teammates.\nIn a huge Christmas Day win over the Celtics in Boston, Embiid did just that.\nIt was evident from the start of the game that Embiid, who was controversially ejected from Monday’s win over the San Antonio Spurs, had a little extra juice for this one.\n“He certainly brought some energy and some competitiveness to the game,” Nick Nurse told reporters postgame in Boston.\nOf course, what would a Joel Embiid game be without an injury scare?\nThis one happened pregame, with Embiid stepping on a security guard’s foot during warmups and tweaking his ankle. An awful setup in Boston nearly cost Embiid more time on the injury report, but we digress. Embiid was able to suit up and play — and looked mighty spry throughout the contest.\n“Just a little sore, but it’s Christmas,” Embiid told reporters. “Got to play on Christmas.”\nOver the course of his career, Al Horford has always played Embiid tough, but, as much credit as everyone gives the veteran big man, it’s the Celtics’ team defense that causes Embiid fits. Horford uses his strength and savvy to try to push Embiid away from his spots while the rest of Boston’s defense does so well playing on a string and taking away Embiid’s outlets.\nEarly in the game, it seemed like the strategy was for Embiid to use his gravity to get Maxey going. The two-man game between the duo has been unstoppable at times this year, typically leading to an open look for someone on the floor. Their chemistry helped Maxey put up 12 points and four assists in the opening frame.\nBefore it was cool to rip Victor Wembanyama for shooting too many threes and “not getting his butt on the block,” it was Embiid who heard that refrain. Embiid has never taken the volume of triples Wemby is currently taking, but the three-ball has been a regular part of his game. The reason: it opens up everything else.\nWith the way the Celtics were playing him, Embiid simply took what was there — which included making three threes in the first half and going 4-of-5 on the night. Without those makes, especially for a Sixers team that has been brutal from deep this season, who knows how this game would’ve turned out.\n“He had a good scoring night, shot the three-ball really well,” Nurse said. “That’s always going to be available for him, I think, especially when him and Tyrese are playing.”\nThere were instances throughout the game where Embiid looked great physically, likely the result of his knee feeling better and also all the weight he lost this offseason.\nLate in the first quarter, Paul George stripped Jayson Tatum, spurring a fast break. Maxey pushed the ball and Kelly Oubre, Jr. was ahead of the pack, occupying Jaylen Brown. That allowed Embiid, who busted it down the floor, to find a seam between Brown and Payton Pritchard for an under-control, nimble finish at the rim.\nbeep beep! big fella coming through!\n— Philadelphia 76ers (@sixers)[pic.twitter.com/8eNQvWeo0n][December 25, 2024]\nThe fact that Embiid was in the play at all after running the floor is a great sign. Oftentimes a play like this would end in Embiid either trying to plow over Brown and drawing an offensive foul or attempting to get fouled himself, leading to a funky turnover.\nHe had a couple other moments that should instill some optimism.\nWith the Celtics making a late push and the Sixers seemingly unable to run any type of offense, Nurse called a timeout with 2:25 left while clinging to a three-point lead. Out of the timeout, the Sixers went back to their bread-and-butter offense.\n“We finally got the ball across mid-court and ran a side screen-and-roll with Tyrese and Joel,” Nurse said, “and Joel rolled hard, and we hit him and he got fouled. That was kind of a stabilizing possession. It’s pretty dangerous when both guys can shoot the ball, and you’ve got size and quickness in that combination.”\nSuch a huge play for so many reasons:\n— Paul Hudrick (@PaulHudrick)\n-Sixers needed a stabilizing possession. Maxey-Embiid two-man game delivered\n-Embiid set a good screen, rolled(!) and got to the rim vs. Horford, drawing a foul. Set up a big Maxey layup later\n-Embiid came up gimpy but finished the game[pic.twitter.com/SG38G322OH][December 26, 2024]\nFor as physically imposing as Embiid is, he hasn’t always been the best screener. Much like he did during the Olympics for Steph Curry, Embiid consistently freed up Maxey with good, hard screens throughout the day. Embiid is typically not a roller either, generally preferring to pop to the elbow or the three-point line. It likely was just enough of a changeup for Horford that it caught him off balance.\nThat play also set up a critical basket that (almost) sealed the game.\nEmbiid found George for a corner three after the Sixers had the Celtics scrambling. Horford had to rush to the corner to contest George, leaving Brown to have to account for Embiid on the glass off the George miss. Embiid crashed hard, forcing Brown to yank him to the ground and foul him.\nThe following possession was clunky, with the Sixers nearly turning the ball over before it went out of bounds with 1.1 seconds left on the shot clock. Nurse called the perfect play at that moment, which led to a huge Maxey bucket.\nTYRESE MAXEY.\n— Philadelphia 76ers (@sixers)[pic.twitter.com/xekbPjFk2B][December 26, 2024]\nMaxey’s speed, along with Horford being unable to leave Embiid for the possibility of a quick three or roll to the basket, led to an open layup.\n“Really, what I was thinking was, ‘They’re not going to get off Joel’s body,’” Maxey said. “So he set a good screen, and I could curl it and have a chance to make a layup.”\nIt’s been a brutal season for Embiid.\nIn addition to his knee issue, he was suspended for shoving Inquirer columnist Marcus Hayes, suffered a sinus fracture that’s forced him to wear a mask (again), and as mentioned was recently ejected after some ... spotty officiating.\nIt might not mean much to the outside world, but Embiid appeared to play with joy. He was fired up after the game, mobbing The Boston Strangler 2.0, Caleb Martin, who made a career-high seven threes. He busted Maxey’s chops while the guard was discussing his bounce back from a miserable Christmas Day game last season. He spoke glowingly about and expressed confidence in George, who had another dismal shooting night.\nThis was the type of game that can turn a season around — with a decent amount of luck.\n“I think we’ve got a high ceiling,” Embiid said. “It’s all about us pulling it together. I don’t think we played our best basketball, but Tyrese was great. I could’ve been better, PG could’ve been better, and we will be better. … Caleb gave us a good boost. The bench was great, but I don’t think that was our best basketball. But we’ve got a pretty good chance, so it’s all about waiting for some luck and staying healthy.”\nAnd continuing to trust his teammates to do more while he does a little less.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->wellness",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Joel Embiid",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Allen Iverson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tyrese Maxey",
+          "sentiment": "none"
+        },
+        {
+          "name": "Paul George",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Celtics",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sixers",
+          "sentiment": "none"
+        },
+        {
+          "name": "NBA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "81df793bdaac3e43860388760ae5a7b230138ba0",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-12-27T00:26:14.900+02:00",
+    "updated": "2024-12-27T00:26:14.900+02:00"
+  },
+  {
+    "uuid": "57b1223320a1da4630f36b0c7c6415537807ba52",
+    "url": "https://in-cyprus.philenews.com/international/nicaragua-arrests-two-high-ranking-catholic-priests-with-close-ties-to-cardinal/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsroom",
+    "published": "2023-12-29T05:11:00Z",
+    "title": "Nicaragua arrests two high-ranking Catholic priests with close ties to cardinal - In-Cyprus",
+    "text": "Nicaraguan police detained on Thursday two senior Catholic priests who are close to the country’s top church leader, a person with knowledge of the matter said, raising to at least six the number of clergymen detained this week.\nThe source, who declined to be named for fear of arrest, said the two priests were detained for publicly praying for jailed Bishop Rolando Alvarez, the most prominent critic of President Daniel Ortega.\nLocal media outlet Confidencial named the priests as Carlos Aviles and Hector Treminio, and noted that their arrest brings to at least six the number of priests detained over the past week, adding that two of the clerics had already been released.\nThe government’s press office did not immediately respond to a request for comment.\nOver the past few years, Ortega’s government has targeted members of the Catholic church, a crackdown officials have in the past said was needed to punish treasonous behavior or other alleged crimes.\nAviles is the second-highest ranking cleric in the Archdiocese of Managua, led by Cardinal Leopoldo Brenes, while Treminio is its treasurer.\nAlvarez, the bishop of Matagalpa, forcefully criticized the government’s deadly response to mass protests that broke out in 2018, and was convicted of treason and sentenced to a 26-year prison term earlier this year.\nLast week, police arrested Bishop Isidro Mora of the Siuna diocese, making him the second bishop to be detained after Alvarez’s detention in 2022.\nMany of the latest clergymen detained were arrested because they publicly offered prayers for Alvarez, according to the source and local media, but the government has not issued any statements explaining the priests’ alleged crimes.\nNicaraguan Bishop Silvio Baez, who has been living in exile in Florida since 2019 and is the second-ranking leader of the archdiocese, called for the priests to be released.\n“I ask God to protect them and that they be freed immediately!” wrote in a post on X on Thursday.\nAccording to exiled Nicaraguan researcher Martha Patricia Molina, who publishes records of what she describes as the persecution of the Catholic Church under Ortega, the number of bishops, priests and seminarians behind bars in the country currently stands at nine.\n(Reuters)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "hector treminio",
+          "sentiment": "none"
+        },
+        {
+          "name": "rolando alvarez",
+          "sentiment": "none"
+        },
+        {
+          "name": "ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "carlos aviles",
+          "sentiment": "none"
+        },
+        {
+          "name": "leopoldo brenes",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "aviles",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "catholic",
+          "sentiment": "negative"
+        },
+        {
+          "name": "confidencial",
+          "sentiment": "none"
+        },
+        {
+          "name": "treminio",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nicaragua",
+          "sentiment": "none"
+        },
+        {
+          "name": "cyprus",
+          "sentiment": "none"
+        },
+        {
+          "name": "managua",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:22:27.540+02:00",
+    "updated": "2023-12-29T12:22:27.540+02:00"
+  },
+  {
+    "uuid": "c180d7e7d4e5fd56792e3bbc23229b1f0884c7f2",
+    "url": "https://www.francebleu.fr/infos/faits-divers-justice/apres-l-assassinat-de-venzolasca-les-pistes-du-milieu-corso-marseillais-2644185",
+    "ord_in_thread": 0,
+    "author": "Paul Ortoli",
+    "published": "2025-04-09T21:29:00Z",
+    "title": "Après l'assassinat de Venzolasca, les pistes du milieu corso-marseillais",
+    "text": "Après l’assassinat de Venzolasca, les pistes du milieu corso-marseillais\nPublié le\nAprès l’assassinat de Martial Bounour à Venzolasca, la justice interroge les liens de la voyoucratie entre la Corse et Marseille.\nLa justice tâtonne après l'assassinat de Martial Bounour, 44 ans, survenu dans la nuit de lundi 7 à mardi 8 avril à Venzolasca. Condamné notamment pour extorsion, le Marseillais travaillait comme saisonnier au restaurant la Caravelle, situé sur la plaine orientale.\nIl n’était pas inconnu des services de police sur les deux rives de la Méditerranée. La juridiction inter régionale (Jirs) de Marseille s’est saisie de ce dossier corse en un temps record, moins de douze heures après la commission des faits.\nUne enquête pour « association de malfaiteurs\" et \" meurtre en bande organisée\" a été d’emblée ouverte par le procureur phocéen, Nicolas Bessone.\nPour l’heure, la boussole des policiers et des gendarmes oscille autant vers la personnalité de la victime que vers la scène de crime. Les enquêteurs ont déjà les grandes lignes du scénario criminel. Deux tueurs armés de fusils de calibre 12, tapis dans la nuit noire. Ils ont attendu sur le parking que Martial Bounour regagne peu avant minuit, l'appartement qu'il louait. Les caméras de vidéo surveillance n’ont pas capté leurs visages, tout juste leurs silhouettes, mais elles ont enregistré des « gerbes de coups de feu simultanées dans la pénombre » décrit une source policière. Près du corps qui n’a été découvert qu’au petit matin, « des haltères appartenant à la victime ont été retrouvés mais ne seraient pas reliés au crime », poursuit la même source. La scène ne comporte pas à ce stade d’indices permettant de suivre l’itinéraire de fuite des assassins. Aucun véhicule n’a été retrouvé calciné aux alentours\nL'autopsie ce vendredi doit préciser le nombre de tirs qui sont localisés principalement sur le haut du corps, notamment la tête.\nCet assassinat « porte la marque du grand banditisme mais plus corse que marseillais car ce sont des fusils et non des Kalachnikov qui ont été utilisés », dit sobrement le procureur Nicolas Bessone. Reste à savoir si cet homicide est relié à des affaires corses, à une vendetta marseillaise qui a traversé la mer ou s’il est le symptôme d’une criminalité corso-marseillaise. L’île qui compte 7 homicides depuis le début de l’année, est secouée par des vagues criminelles, alors que la guerre du narcotrafic qui avait décimé une cinquantaine de personnes en 2023 à Marseille semble ne plus faire de remous pour l’heure.\nMartial Bounour avait échappé à la mort à trois reprises. Le Marseillais avait été pris entre deux feux en 2013 dans la guerre entre les « Blacks » (dont les chefs sont les frères Ahamada) et le clan dit des « Gitans » (dirigé par les frères Bengler). Il était selon la police proche de ces derniers. Puis en 2015, Martial Bounour avait été poignardé alors qu'il était détenu à la prison des Baumettes. Enfin, en janvier, il avait été ciblé à Aix-en-Provence. La justice ne tire aucune conclusion et note de nombreuses « ramifications » qui multiplient les hypothèses. Elle place enfin Martial Bounour comme ayant une « activité dans le milieu des stupéfiants », mais aussi « dans l'environnement du clan criminel Federici », dont les racines sont à Venzolasca.\nSur le même thème\nNouvel homicide en Corse, ce mardi 8 avril, sur la commune de Venzolasca où le corps d'un homme décédé par balles a été retrouvé sur le parking d'une résidence sur la route de Cap Sud. La JIRS de Marseille s'est saisie de l'enquête pour \"meurtre en bande organisée et association de malfaiteurs\".\nLe parquet a ouvert une enquête de flagrance pour \"assassinat en bande organisée\" après l'homicide survenu ce 10 juillet vers 23h20 résidence des îles : un homme a été tué par balles sur son scooter alors qu'il rentrait à son domicile. Une voiture a été calcinée, près du cimetière marin.\nAssassinat de Paul-Félix Paoli : quatre gardes à vue à Bastia et l'ombre de la mafia italienneCorseQuatre personnes ont été arrêtées le 4 décembre à Bastia dans le cadre de l'enquête sur l'assassinat de Paul-Félix Paoli, survenu le 24 aout 2023 à Poggio-Mezzana. Sur cette affaire, plane l'ombre de la mafia italienne. La Jirs de Marseille travaille de concert avec le parquet antimafia italien.\nRacket et menaces de mort : \"le booker de la DZ Mafia est un membre éminent de la criminalité organisée Corse\"CorseLe procureur de la République de Marseille donnait, ce samedi, une conférence de presse sur deux affaires concernant la DZ Mafia à Marseille. Dans l'enquête sur des soupçons de racket, un membre du banditisme corse est mis en examen pour une implication soupçonnée depuis sa cellule de prison.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->organised crime",
+      "Crime, Law and Justice->homicide",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:39:22.359+03:00",
+    "updated": "2025-04-10T00:39:22.359+03:00"
+  }
+]

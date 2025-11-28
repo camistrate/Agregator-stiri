@@ -1,0 +1,276 @@
+[
+  {
+    "uuid": "0cadcd6e911a7cd84c8fe149ccce6333cbca333b",
+    "url": "https://www.wtvm.com/2024/11/08/local-veterans-battle-with-trauma-transforms-into-healing-through-music",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wtvm",
+    "published": "2024-11-08T01:10:00Z",
+    "title": "Local veteran’s battle with trauma transforms into healing through music",
+    "text": "Local veteran’s battle with trauma transforms into healing through music COLUMBUS, Ga. (WTVM) - A local army veteran is helping other former soldiers heal - years after his combat deployments, including a famous battle from the War in Afghanistan. Now there’s a new song telling that story. Some of the first lyrics are: “Years of heat and battle, 4 deployments deep, took a toll on my life, night terrors in my sleep, I cried out for help, and the Lord heard me.” The just-released song “Warriors Set Free” is about Army combat veteran James Clark and others like him. He co-wrote that tune. The retired 1st Sgt deployed twice to Iraq and twice to Afghanistan, where he was involved in that war’s second costliest firefight, 300 Taliban fighters assaulting the U.S. soldiers at COP Keating, as portrayed in the movie “The Outpost.” “My ‘come to Jesus’ moment is when I got injured in 2009 at the Battle of Kamdesh,” 1SG (Ret) James Clark said. “When we got attacked, it was overwhelming for us, simultaneous attacks. We lost 8 guys during that fight. It was a day-to-day and a half battle.” It was tough for James Clark to move on from that trauma, but he believes God spared him for a reason. He got connected with the Columbus-based nonprofit Warriors Set Free which guides military and veterans in healing from their past, and faith walks that help in winning life’s battles. “Moving from kicking in doors and doing direct gunfight battles...is now more of a spiritual warfare for me,” he describes. “It’s a testimony of God’s grace and mercy...transformational,” Tim Maggart said about hearing Clark’s military story at an Operation Song retreat. Fellow Army veteran and singer/songwriter Maggart said he then worked with Clark on the lyrics and now performs the song they created, to hopefully help inspire other vets. As he sings about in Warriors Set Free, “The mission’s changed but we’re still on the battlefield.” You can hear the full song [here](https://open.spotify.com/track/71Y7gxRldfsGq0pNfZUwfb?si=930427c932d7472f&nd=1&dlsi=2b48bdaea20f4a68). Clark said, “Tim started singing it and I started tearing up. I still do every time he plays it.” “That anyone who hears it, it will minister to them, but also get the word out (about Warriors Set Free nonprofit), I believe in what these guys are doing,” Maggart said. Clark got involved with that organization first by going through a one-day Freedom Appointment to address problems like his anger and addictions or a “spiritual house cleansing” as he calls it. [Here’s more](https://warriorssetfree.org/georgia/) on the nonprofit chapter based in Columbus. “Just to know they’ve got brothers that will walk that out with them. You don’t have to be alone. You don’t have to be in the bottle,” Clark added. Warriors Set Free - where he’s now the mission outreach coordinator - also has four-day men’s events called “Warriors Battle” where vets can elevate their faith walk. At their latest one, 17 of the 22 men surrendered to the Lord and got baptized. There was also a concert with their newly adopted song with a chorus that repeats “We are his child...we are warriors set free.” Copyright 2024 WTVM. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://warriorssetfree.org/georgia/)",
+      "https://open.spotify.com/track/71Y7gxRldfsGq0pNfZUwfb?si=930427c932d7472f&nd=1&dlsi=2b48bdaea20f4a68).",
+      "https://open.spotify.com/track/71Y7gxRldfsGq0pNfZUwfb",
+      "https://www.warriorssetfree.org/georgia/)",
+      "https://www.open.spotify.com/track/71Y7gxRldfsGq0pNfZUwfb?si=930427c932d7472f&nd=1&dlsi=2b48bdaea20f4a68)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "James Clark",
+          "sentiment": "none"
+        },
+        {
+          "name": "Keating",
+          "sentiment": "none"
+        },
+        {
+          "name": "Jesus",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Taliban",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:22:43.333+02:00",
+    "updated": "2024-11-08T03:22:43.333+02:00"
+  },
+  {
+    "uuid": "4e48f8209e93a7f5a538d2bb87d2e550e40e80d9",
+    "url": "https://securityonline.info/malicious-app-found-on-amazon-appstore-masquerades-as-health-tool",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "do son",
+    "published": "2024-12-20T01:54:00Z",
+    "title": "Malicious App Found on Amazon Appstore Masquerades as Health Tool",
+    "text": "McAfee Labs uncovered a malicious app on the Amazon Appstore that disguised itself as a simple health tool while secretly stealing sensitive user data. The app, named “BMI CalculationVsn”, pretended to offer basic body mass index (BMI) calculations but engaged in covert activities like SMS interception and device monitoring.\nAt first glance, BMI CalculationVsn appeared to be a harmless app. As McAfee noted, “ On the surface, this app appears to be a basic tool, providing a single page where users can input their weight and height to calculate their BMI .” However, hidden beneath this simple interface were sinister capabilities designed to compromise user privacy.\nApplication published on Amazon Appstore | Source: McAfee\nUpon closer inspection, McAfee researchers identified several alarming activities:\nScreen Recording : The app initiated a background service to record the screen whenever users clicked the “Calculate” button. While this functionality was incomplete and didn’t upload recordings to a command-and-control (C2) server, its presence indicates the developer’s intent to capture sensitive user inputs like gesture passwords. App Scanning : The spyware scanned devices for installed applications, likely to identify potential targets for further attacks. SMS Interception : Most concerning was its ability to intercept incoming SMS messages, including one-time passwords (OTP) and verification codes, which were stored on Firebase under the storage bucket testmlwr-d4dd7.appspot.com . The app appeared to be a work in progress, with its evolution traced back to October 2024. Initially a simple screen recording app, it later adopted the BMI calculator interface, and SMS stealing capabilities were added in the latest version. The timeline, as detailed by McAfee, revealed that the app was still under active development, with the Firebase API address using the term “testmlwr,” indicating a testing phase.\nInterestingly, the app listed its developer as “ PT. Visionet Data Internasional ”, the name of a legitimate enterprise IT management provider in Indonesia. McAfee suggests this was a deliberate move to gain user trust, noting, “ The malware author tricked users by abusing the names of an enterprise IT management service provider in Indonesia .”\nAfter McAfee reported the app, Amazon quickly removed it from the Appstore. The discovery of BMI CalculationVsn is a sobering reminder of how even seemingly innocuous apps can harbor significant risks. As McAfee puts it, “Apps like ‘BMI CalculationVsn’ serve as a stark reminder that even the simplest tools can harbor hidden threats.”\nRelated Posts:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "topics": [
+      "Crime, Law and Justice->fraud",
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->cyber crime",
+      "Health->health treatment and procedure",
+      "Health->medical test"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.buymeacoffee.com/ddos",
+      "https://buymeacoffee.com/ddos"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "McAfee",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:13:15.647+02:00",
+    "updated": "2024-12-20T04:13:15.647+02:00"
+  },
+  {
+    "uuid": "3d13c61a5764a434db6e76bf5024134fa15779fa",
+    "url": "http://travelweekly.co.uk/news/air/adverse-weather-forces-jet2-to-delay-skiathos-flights-by-24-hours",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacobs Media Group Ltd",
+    "published": "2024-05-10T06:48:00Z",
+    "title": "‘Adverse’ weather forces Jet2 to delay Skiathos flights by 24 hours | Travel Weekly",
+    "text": "Jet2 has warned holidaymakers due to fly to Skiathos today (Friday) not to turn up at the airport as bad weather has delayed flights. Departures have been put back until Saturday amid strong winds and thunderstorms forecast for the Greek island. The Hellenic National Meteorological Service issued warnings for “heavy thunderstorms” affecting the Sporades archipelago island. Jet2 issued a weather disruption alert for Skiathos on its website at 4.15am today. The company, which serves the island from seven UK airports, said: “Due to adverse weather conditions forecast for Skiathos on Friday 10th May 2024, we have delayed all Skiathos flights until tomorrow. “If you are travelling to Skiathos today, please do not travel to the airport. “If you are due to travel back to the UK today, please continue to check our website. We will also communicate to you via text and email. “We apologise for this change that is unfortunately beyond our control. “Tt is rare for our schedules to be disrupted like this and although this change is beyond our control, we understand it will disrupt your plans at last minute and have done everything that we can to ensure we operate as soon as possible and minimise the delay. “We have a huge team working hard behind the scenes at our UK-based HQ that are monitoring the situation and on behalf of us all, we are sorry again for the inconvenience this delay brings.” Flight-only passengers have been offered a free change onto the next available flight to the island or the option to cancel with a full refund. Package holiday customers wanting to change travel arrangements were advised to telephone the company.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "hellenic national meteorological service",
+          "sentiment": "none"
+        },
+        {
+          "name": "skiathos",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "skiathos",
+          "sentiment": "none"
+        },
+        {
+          "name": "uk",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T10:21:37.560+03:00",
+    "updated": "2024-05-10T12:03:54.716+03:00"
+  },
+  {
+    "uuid": "85e6f554cd83eb74e623393e099c423e7a934da3",
+    "url": "https://flipboard.com/article/winter-storm-alerts-for-17-states-as-intense-snow-forecast/f-27a78bdeb1%2Fnewsweek.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsweek - Aleks Phillips",
+    "published": "2024-03-22T00:00:00Z",
+    "title": "Winter Storm Alerts for 17 States as Intense Snow Forecast | Flipboard",
+    "text": "Winter Storm Alerts for 17 States as Intense Snow Forecast Winter weather alerts are in place for parts of 17 states as two separate storm systems bring heavy snowfall to New England and northern states … More stories from [New England](/topic/newengland) [My Stepson Cut Me Out of His Life – Now He Demands That I Sacrifice My Life for Him](/topic/newengland/my-stepson-cut-me-out-of-his-life-now-he-demands-that-i-sacrifice-my-life-for-/a-YthcAr5DRzSj5zIx4-hN7g%3Aa%3A356733988-dee7b570f4%2Famomama.com) When Sara gets an unexpected email from Jack, her estranged stepson, it throws her into a dilemma that tests the limits of family loyalty and … [Guy makes a Tinder profile for his Malamute and the conversations are a laugh riot](/topic/newengland/guy-makes-a-tinder-profile-for-his-malamute-and-the-conversations-are-a-laugh-ri/a-6Oc1vDmTTbWDL4rhoL0Ksg%3Aa%3A30352501-c40e52032d%2Fupworthy.com) Phil, the Alaskan Malamute, is on Tinder. He is looking for love and belly rubs in Boston and Los Angeles. Phil, an Alaskan Malamute, is on Tinder and … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Weather](/topic/weather) [Chicago weather: Up to 5 inches of snow in the suburbs](/topic/weather/chicago-weather-up-to-5-inches-of-snow-in-the-suburbs/a-G9mA-9v2TKCQfjWvBZ8Wyg%3Aa%3A3483286113-83c08fa87a%2Fflipboard.com) FOX 32's Mike Caplan breaks down today's forecast for Chicago and beyond. [“Redefine what it means to take music on the road”: Harley Benton rolls out the TravelMate and TravelMate-E, affordable weather and climate resistant guitars for players on the go](/topic/weather/redefine-what-it-means-to-take-music-on-the-road-harley-benton-rolls-out-the-t/a-ddPYq55wRmeB1q4XgSywnQ%3Aa%3A2568902113-97eae1c7e7%2Fmusicradar.com) Harley Benton has expanded its lineup of affordable travel guitars with the TravelMate and TravelMate-E, two smart single-cuts with carbon fibre builds … [World's first-ever global emissions tax takes a step closer to reality](/topic/weather/world-s-first-ever-global-emissions-tax-takes-a-step-closer-to-reality/a-uvEO9axQSEWYJ31gnCR7GQ%3Aa%3A2133612304-b74da98cd8%2Fcnbc.com) Two weeks of talks at the United Nations shipping agency concluded in London on Friday, with a clear majority of countries emerging in favor of …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "letitia james",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "frank luntz",
+          "sentiment": "none"
+        },
+        {
+          "name": "sara",
+          "sentiment": "none"
+        },
+        {
+          "name": "jack",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "gop",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "new england",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-22T13:45:43.279+02:00",
+    "updated": "2024-03-22T14:44:46.457+02:00"
+  },
+  {
+    "uuid": "12fa814ec3fe750f6938e7f7a6d3b760526776a7",
+    "url": "https://www.thespec.com/news/canada/new-version-of-bird-flu-identified/article_6626bd49-cbf6-5d22-94de-06d1c681d43f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carol Baldwin, Local Journalism Initiative Reporter Wakaw Recorder",
+    "published": "2025-02-21T00:16:00Z",
+    "title": "New Version of Bird Flu Identified",
+    "text": "The bird flu, currently spreading through animals and some people, is known to scientists as Type A H5N1 influenza. But there are different strains. A version known as B3.13 was confirmed after spreading to cattle in late 2023. It has infected 962 cattle herds in 16 states, with the vast majority in California. A newer version, known as D1.1, was confirmed in Nevada cattle on January 31, 2025. It was found in milk collected as part of a monitoring program started in December.\nThis discovery means distinct forms of the virus have spread from wild birds into cattle at least twice. Experts in the United States indicate concerns regarding the broader spread of infections and the challenges in controlling them in both animals and the people who work with them. This comes after the Trump administration’s move to get rid of nearly all probationary employees in all federal departments. The cuts included nearly 1,300 probationary employees at the Centers for Disease Control and Prevention (CDC) — roughly one-tenth of the agency’s workforce. (https://www.msn.com/en-us/news/us/cdc-to-lose-one-tenth-of-workforce-under-trump-administration-probationary-job-cuts/ar-AA1z3Z64)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Health->communicable disease",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science"
+    ],
+    "ai_allow": false,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.msn.com/en-us/news/us/cdc-to-lose-one-tenth-of-workforce-under-trump-administration-probationary-job-cuts/ar-AA1z3Z64",
+      "https://msn.com/en-us/news/us/cdc-to-lose-one-tenth-of-workforce-under-trump-administration-probationary-job-cuts/ar-AA1z3Z64"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "12fa814ec3fe750f6938e7f7a6d3b760526776a7",
+      "first_syndicated": true
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:25:17.837+02:00",
+    "updated": "2025-02-21T02:25:17.837+02:00"
+  }
+]

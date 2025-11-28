@@ -1,0 +1,422 @@
+[
+  {
+    "uuid": "2728958e6e7a110d98e3a105efcd151c486b4fbf",
+    "url": "https://gbhackers.com/unsecured-ics-devices-exposed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Divya",
+    "published": "2024-11-22T09:06:00Z",
+    "title": "145,000 ICS Systems, Thousands of HMIs Exposed to Cyber Attacks",
+    "text": "Critical infrastructure, the lifeblood of modern society, is under increasing threat as a new report from Censys reveals that over 145,000 industrial control system ( ICS ) devices are exposed to the internet.\nAmong these, thousands of human-machine interfaces (HMIs) — which allow operators to control critical systems — remain unsecured, leaving them vulnerable to exploitation by malicious actors.\nThe findings highlight the growing risks to essential services like energy, water, and transportation, where even small disruptions can have far-reaching consequences.\nThe report paints a stark picture of global ICS vulnerabilities . Many HMIs, designed to simplify system management, are accessible online without authentication, offering attackers a direct route into vital operations.\nThese interfaces bypass the need for specialized knowledge of ICS protocols, enabling attackers to manipulate critical systems with alarming ease.\nLeveraging 2024 MITRE ATT&CK Results for SME & MSP Cybersecurity Leaders – Attend Free Webinar\nUnsecured ICS Devices Exposed North America leads the world in ICS exposure, accounting for 38% of global vulnerabilities, with the United States alone hosting over one-third of the exposed devices.\nThe report also details real-world examples, such as attacks on water systems in Pennsylvania and Texas, where exposed HMIs were exploited to manipulate operations without requiring advanced ICS expertise.\nFor years, the focus of ICS cybersecurity has been on safeguarding specialized protocols like Modbus and DNP3.\nHowever, the Censys report underscores a more immediate threat: exposed HMIs and remote access points.\nThese interfaces often misconfigured and lacking even basic security measures, present low-complexity entry points that attackers can exploit with minimal effort.\nTheir user-friendly design makes them particularly appealing targets, as they allow direct operational control without the need for deep technical knowledge.\nAccording to recent research from GreyNoise, a threat intelligence firm that studied internet-connected HMIs during the summer of 2024.\nTheir findings revealed that such systems are scanned and probed by attackers almost immediately upon being discovered online. In some cases, over 30% of IP addresses scanning these devices were later identified as malicious.\nInterestingly, the research found that attackers often targeted remote access protocols like Virtual Network Computing (VNC) rather than ICS-specific protocols, further highlighting the need to secure these entry points.\nThe growing exposure of ICS devices is more than a technical issue; it is a societal challenge. Safeguarding critical infrastructure requires immediate attention.\nOrganizations must conduct thorough inventories of internet-facing systems, secure HMIs with strong authentication and network segmentation, and monitor systems for potential reconnaissance activity.\nWhile protecting ICS protocols remains important, the focus must shift to securing low-hanging vulnerabilities like HMIs and remote access services.\nThe vulnerabilities outlined in the Censys report are a wake-up call. If left unaddressed, they could lead to catastrophic consequences for public safety and national security. The time to act is now — securing critical systems and closing exploitable gaps is no longer optional but essential.\nAre you from SOC/DFIR Teams? – Analyse Malware & Phishing with ANY.RUN -> Try for Free",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+      "https://cybersecuritynews.com/multiple-linux-kernel-vulnerabilities/",
+      "https://cybersecuritynews.com/cybersecurity-in-trading-software-development/",
+      "https://www.greynoise.io/blog/new-report-reveals-hidden-risks-how-internet-exposed-systems-threaten-critical-infrastructure",
+      "https://app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+      "https://cybersecuritynews.com/multiple-linux-kernel-vulnerabilities",
+      "https://cybersecuritynews.com/cybersecurity-in-trading-software-development",
+      "https://www.go.cynet.com/mitre_2024?utm_source=cyber_security_news&utm_medium=social&utm_campaign=Q4-sponsored-content&utm_content=MITREATT&CK2024",
+      "https://www.app.any.run/?utm_source=csn&utm_medium=article&utm_campaign=mechanisms_malware&utm_content=register&utm_term=211124#register",
+      "https://www.cybersecuritynews.com/cybersecurity-in-trading-software-development/",
+      "https://go.cynet.com/mitre_2024",
+      "https://www.cybersecuritynews.com/multiple-linux-kernel-vulnerabilities/",
+      "https://greynoise.io/blog/new-report-reveals-hidden-risks-how-internet-exposed-systems-threaten-critical-infrastructure",
+      "https://app.any.run/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "North",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "2728958e6e7a110d98e3a105efcd151c486b4fbf",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-22T11:24:06.040+02:00",
+    "updated": "2024-11-22T12:02:44.310+02:00"
+  },
+  {
+    "uuid": "05003f82bd30a16d324988f6c5af7cff737429f2",
+    "url": "https://www.arabtimesonline.com/news/filipina-expat-triumphs-over-dubai-marathons-42-km-challenge-a-birthday-gift-to-herself/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "agnelo",
+    "published": "2024-01-07T15:36:00Z",
+    "title": "Filipina expat triumphs over Dubai Marathon’s 42 km challenge – a birthday gift to herself",
+    "text": "Filipina expat triumphs over Dubai Marathon’s 42 km challenge – a birthday gift to herself\nThis news has been read 299 times!\nDUBAI, Jan 7: Jona Lei Jagonos found herself in a state of disbelief long after completing the Dubai Marathon’s grueling 42 km on Sunday. Overflowing with joy and a profound sense of relief, the Filipina expat and avid fitness enthusiast reflected on the surreal accomplishment.\nFor Jona, a passionate mountain biker and fitness aficionado, crossing the finish line was not just about conquering the challenging marathon but also a special gift to herself as she approached her 40th birthday. Recalling her journey, she shared, “I ran the 10 km at the Dubai Marathon last year, my first 10 km. I promised myself I would tackle the full marathon in 2024, especially with my 40th birthday approaching on February 3. I am thrilled to have fulfilled this promise and completed the race.”\nThe significance of finishing the 42 km run extended beyond a personal milestone; it served as a touching tribute to Jona’s greatest source of inspiration – her mother, Melchora Jagonos. Expressing her gratitude, Jona revealed, “Running the full marathon in Dubai was always on my bucket list. I am delighted that I could achieve this feat just one day after my mother’s 84th birthday.”\nDespite her mother’s initial worries about the marathon endeavor, Jona highlighted the support and concern, stating, “She was very worried when I told her about running 42 km. She thought I was crazy and asked why I was doing this. I believe she is happy and relieved now that I am fine. She’s always concerned because I am the baby in the family, the youngest of her six children.”\nBorn in Bato, Leyte, Philippines, Jona expressed her deep gratitude to her mother, emphasizing the immense mental strength she gained from her upbringing. “My friends at Dubai Marina supported me during my preparation for the Dubai Marathon, but an undertaking like this requires significant mental strength. I credit that strength to my mother,” said Jona, who moved to Dubai in 2007.\nReflecting on her mother’s resilience and strength, Jona concluded, “My mother raised the six of us after my father died when I was only six. She is my superhero—a strong woman who pushed through life’s barriers for us. The mental strength I possess, I owe it to her. She is the ‘supermum’ who never gave up!”\nThis news has been read 299 times!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "melchora jagonos",
+          "sentiment": "none"
+        },
+        {
+          "name": "jona lei jagonos",
+          "sentiment": "none"
+        },
+        {
+          "name": "jona",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "dubai marathon",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:02:24.376+02:00",
+    "updated": "2024-01-08T01:02:24.376+02:00"
+  },
+  {
+    "uuid": "16866f960c4473e00a15bf0e54bbfb3d3658c427",
+    "url": "https://www.1news.co.nz/2024/06/14/murder-charge-after-man-allegedly-hit-by-vehicle-in-akls-massey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "1News Reporters",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "Murder charge after man allegedly hit by vehicle in Akl's Massey",
+    "text": "A 40-year-old woman has been charged with murder following the death of a man in Auckland's Massey last night.\nAt around 11.20pm, police were called to Moire Rd following a report of a person struck by a vehicle.\n\"Despite efforts from first responders, the man sadly died at the scene,\" a spokesperson said.\nThe woman is due to appear in the Waitākere District Court today charged with murder.\nWaitematā Detective Senior Sergeant Nick Poland said it appeared to be an \"isolated incident\" and the victim and woman \"were known to each other\".\n\"As such, police are not seeking anyone else in relation to this matter.\"\nA St John Ambulance spokesperson said it responded to the incident with one ambulance, two rapid response vehicles and an operations manager.\nPoland said the community can expect to see an increased police presence in the area while further inquiries are carried out.\n\"A scene guard remains in place this morning and will likely continue throughout the day.\"\n\"Police will endeavour to provide further details around the identity of the victim when we are in a position to do so,\" Poland said.\n\"However, as this matter is now before the Court, we are limited in providing further comment.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "massey",
+          "sentiment": "negative"
+        },
+        {
+          "name": "polan",
+          "sentiment": "none"
+        },
+        {
+          "name": "nick poland",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "waitākere district court",
+          "sentiment": "none"
+        },
+        {
+          "name": "st john ambulance",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "akl's massey",
+          "sentiment": "none"
+        },
+        {
+          "name": "auckland",
+          "sentiment": "none"
+        },
+        {
+          "name": "poland",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T00:33:39.357+03:00",
+    "updated": "2024-06-14T00:33:39.357+03:00"
+  },
+  {
+    "uuid": "6034f6b0546107833379a5f7f080d46f211ee0b0",
+    "url": "https://www.getfootballnewsfrance.com/2024/marseille-suspend-rayan-hassad-for-wishing-chancel-mbemba-happy-birthday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicholas Hartland",
+    "published": "2024-08-15T15:48:00Z",
+    "title": "Marseille suspend Rayan Hassad for wishing Chancel Mbemba happy birthday",
+    "text": "According to a report by La Provence , Rayan Hassad (18) was suspended by Olympique de Marseille as a precautionary measure after he wished Chancel Mbemba (30) happy birthday on Instagram. Mbemba himself was suspended by the club last week following an incident during training where he was accused of demonstrating poor behaviour towards a member of the club’s management. La Provence writes that Hassad wishing “happy birthday cousin” to the Congolese international was the final straw in a number of complaints raised by the club, with the term “cousin” thought to be a reference to the incident causing Mbemba’s suspension . In a letter sent to the reserves player by the club, confirming his suspension, the happy birthday message was allegedly one of the reasons for the sanction alongside, an accusation that Hassad insulted a fellow teammate and delayed in or refused to carry out the instructions of a club official. Rayan Hassad issues an apology to Marseille for his happy birthday story Hassad posted on his Instagram story today apologising for his actions, the teenager wrote: “I was indeed suspended as a precautionary measure by Olympique de Marseille following an Instagram story where I wished a teammate a happy birthday.” He continued, “I would like to clarify that at no time did I want to cause harm to my club and its management. It was a simple birthday message, as I usually do with other teammates. If I hurt someone, I apologise but know that this was never my intention.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.laprovence.com/article/om/1926010718708615/info-la-provence-clash-a-l-om-je-t-appelle-cousin-si-je-veux-ce-qu-a-dit-mbemba-a-zarrak-proche-de-benatia",
+      "https://www.laprovence.com/article/om/2618961967588115/om-un-jeune-olympien-mis-a-pied-a-titre-conservatoire-pour-avoir-souhaite-un-bon-anniversaire-a-mbemba",
+      "https://twitter.com/NickHartland_",
+      "https://www.twitter.com/NickHartland_",
+      "https://laprovence.com/article/om/2618961967588115/om-un-jeune-olympien-mis-a-pied-a-titre-conservatoire-pour-avoir-souhaite-un-bon-anniversaire-a-mbemba",
+      "https://laprovence.com/article/om/1926010718708615/info-la-provence-clash-a-l-om-je-t-appelle-cousin-si-je-veux-ce-qu-a-dit-mbemba-a-zarrak-proche-de-benatia"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rayan hassad",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chancel mbemba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mbemba",
+          "sentiment": "none"
+        },
+        {
+          "name": "hassad",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "marseille",
+          "sentiment": "negative"
+        },
+        {
+          "name": "olympique de marseille",
+          "sentiment": "negative"
+        },
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "la provence",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:00:46.633+03:00",
+    "updated": "2024-08-16T01:39:13.826+03:00"
+  },
+  {
+    "uuid": "838983f0b9d4bb5892b53e99f313ca9c9d60bd69",
+    "url": "https://www.businesstoday.in/india/story/bengaluru-rain-airports-terminal-2-flooded-17-flights-diverted-to-chennai-as-heavy-downpour-lash-the-city-429101-2024-05-10",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@business_today",
+    "published": "2024-05-10T06:12:00Z",
+    "title": "Bengaluru Rain: Airport's Terminal 2 flooded, 17 flights diverted to Chennai as heavy downpour lash the city - BusinessToday",
+    "text": "Bengaluru came to a partial standstill on Friday as heavy rains lashed the city, causing severe waterlogging and disrupting air travel. The downpour resulted in flooding at the Kempegowda International Airport, also known as Bengaluru Airport or BLR Airport, forcing the diversion of at least 17 flights to Chennai. The overnight flooding primarily affected Terminal 2 (T2) of the airport, which handles most domestic flights. Videos circulating on social media showed water entering the terminal building, causing inconvenience to passengers and impacting flight operations. \"A very heavy downpour of rain within a short span of time on the evening of May 9, 2024, resulted in water leakage in certain areas of the terminals at Bengaluru airport,\" Bangalore International Airport Limited (BIAL), which operates KIA said in a statement. \"Our teams promptly responded to the situation to mitigate the impact and restore normal operations. We regret the inconvenience caused to our passengers\". it added. The heavy rains, which began on Thursday night and continued through Friday morning, are being attributed to a cyclonic circulation over the Bay of Bengal. The India Meteorological Department (IMD) has issued a yellow alert for Bengaluru, warning of very heavy rainfall at most places over the next 24 hours. Severe weather conditions posed significant challenges at the Bangalore International Airport Limited (BIAL), leading to the diversion of several flights. The intense weather conditions which included heavy downpours and forceful winds created hazardous landing conditions, an official statement from BIAL described. The tumultuous weather between 9:35pm and 10:29pm led to diversion of countless flights, including those scheduled for international destinations, as reported by the news agency PTI. These extreme weather conditions caused considerable disruption to regular airport operations, especially impacting flight arrivals and departures during that hour. The BIAL spokesperson confirmed that a total of 17 flights were affected by these undesirable weather conditions. Precisely, 13 domestic flights were rerouted, alongside three international passenger flights, and a single international cargo flight. All these flights were redirected to Chennai as a precautionary measure against the harrowing weather in Bangalore. The weather department has forecasted light to moderate rainfall for the northern interior regions of Karnataka until May 13. This forecast also noted the high possibility of thunderstorms, lightning, and gusty winds in these regions. This weather prediction also indicates a more intense scenario for the southern interior of Karnataka. Heavy rainfall is expected in this region on May 12 and May 13. Over the past few days, central Bengaluru experienced significant weather changes with rainfall observed in multiple areas. Indiranagar, Marathahalli, Vijayanagar, CV Raman Nagar, Ramamurthy Nagar, KR Puram, Hoodi, Mahadevapura, Banaswadi, among others, all received rainfall. Meanwhile, IndiGo issued an advisory where it said, \"Strong winds and good rains ahead for #Delhi #Kolkata & #Bengaluru. While you enjoy the cool weather, do keep a tab on your flight status https://bit.ly/3DNYJqj before you head to the airport.\" Copyright©2024 Living Media India Limited. For reprint rights: Syndications Today",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://bit.ly/3DNYJqj",
+      "https://www.bit.ly/3DNYJqj"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "kia",
+          "sentiment": "none"
+        },
+        {
+          "name": "bangalore international airport limited",
+          "sentiment": "none"
+        },
+        {
+          "name": "bial",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "chennai",
+          "sentiment": "none"
+        },
+        {
+          "name": "bengaluru",
+          "sentiment": "none"
+        },
+        {
+          "name": "bengaluru airport",
+          "sentiment": "none"
+        },
+        {
+          "name": "kempegowda international airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-10T11:51:21.526+03:00",
+    "updated": "2024-05-10T11:51:21.526+03:00"
+  },
+  {
+    "uuid": "98cf076b5813454fbb18b615f8e13e2980b3f435",
+    "url": "https://kitchener.citynews.ca/2024/05/04/princess-anne-lays-wreath-at-b-c-veterans-cemetery-receives-21-gun-salute",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Staff",
+    "published": "2024-05-04T22:28:00Z",
+    "title": "Princess Anne lays wreath at B.C. veteran’s cemetery; receives 21-gun salute",
+    "text": "Princess Anne lays wreath at B.C. veteran’s cemetery; receives 21-gun salute\nPosted May 4, 2024 06:28:20 PM.\nLast Updated May 4, 2024 06:40:25 PM.\nESQUIMALT, B.C. — Princess Anne paid tribute to veterans buried at a cemetery in British Columbia today, laying a wreath to honour the more than 2,500 military personnel and family members buried there.\nThe princess spent more than an hour touring the God’s Acre cemetery, a national historic site in Esquimalt, B.C., that dates back to 1868.\nThe visit to the secluded, tree-covered cemetery is part of her three-day visit to B.C., which started Friday at North Vancouver with her participation in the commissioning of the first Arctic patrol vessel for Canada’s Pacific fleet.\nThe princess was on board HMCS Max Bernays early Saturday when it entered the fleet’s home base in Esquimalt Harbour to the greeting of a 21-gun salute.\nHer tour will see her attend a commemorative service on Sunday for the Battle of the Atlantic, which will take place at the B.C. legislature.\nPrincess Anne, the sister of King Charles, is also scheduled to visit the Royal Victoria Yacht Club and members of the Victoria Therapeutic Riding Association later in the day.\nThis report by The Canadian Press was first published May 4, 2024.\nThe Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "charles",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hmcs max bernays",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "north vancouver",
+          "sentiment": "none"
+        },
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "esquimalt",
+          "sentiment": "none"
+        },
+        {
+          "name": "esquimalt harbour",
+          "sentiment": "none"
+        },
+        {
+          "name": "esquimalt",
+          "sentiment": "none"
+        },
+        {
+          "name": "british columbia",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-05T03:23:15.614+03:00",
+    "updated": "2024-05-05T03:23:15.614+03:00"
+  },
+  {
+    "uuid": "224333d506bdfc5d797f094cb6cfba894d9b2c2d",
+    "url": "https://www.presstelegram.com/2024/10/17/fast-chargers-for-heavy-duty-ze-trucks-unveiled-at-port-of-long-beach",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Donna Littlejohn",
+    "published": "2024-10-17T22:04:00Z",
+    "title": "Fast chargers for heavy-duty ZE trucks unveiled at Port of Long Beach – Press Telegram",
+    "text": "Thirty new “hyper-fast” chargers were unveiled Thursday, Oct. 17, at the Port of Long Beach by 4 Gen Logistics. The chargers are designed to quickly power the family-owned company’s growing fleet of 79 heavy-duty electric trucks serving the Port of Long Beach — and marks the largest charging facility in a North American port to date. The chargers, capable of speeds up to 350 kilowatts, were developed in collaboration with Electrify America. The company said in a release that the unveiling marks “a significant step in 4 Gen’s commitment to a fully zero-emission fleet by 2025, positioning it as the only North American company operating over 75 zero-emission trucks (ZEVs).” It also comes, the release said, “10 years ahead of California’s Air Resources Board (CARB) mandate requiring all drayage trucks to be zero-emission by 2035.” The chargers will support the growing 4 Gen fleet, which currently consists of 79 ZEVs, including Class 8 Volvo VNRs, Kenworth T680E BEVs and Nikola hydrogen fuel cell trucks. The infrastructure is part of a broader effort to reduce emissions in Southern California, especially around the ports of Long Beach and Los Angeles. The first phase includes chargers across Rialto and Long Beach. “With our partners,” 4 Gen Logistics CEO David Duncan said in a written comment, “we’re proving that zero-emission transportation is not just a future goal but a reality today.” The transition goals, however, have proved challenging as both the ports of Los Angeles and Long Beach encounter technology development timelines and low commercial availability; and when equipment is commercially available, it still comes with high vehicle costs. The new hyper-fast chargers are designed to enable the fleet to run multiple daily shifts between the Inland Empire and the ports. Electrify America’s $25 million “Green City” investment, focused on electrification projects in Long Beach and Wilmington, supports the first phase of the project. Speakers at Thursday’s event included U.S. Rep. Robert Garcia, Long Beach Mayor Rex Richardson, and Long Beach harbor commission Vice President Frank Colonna.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:21:53.578+03:00",
+    "updated": "2024-10-18T02:30:59.396+03:00"
+  }
+]

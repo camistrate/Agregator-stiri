@@ -1,0 +1,619 @@
+[
+  {
+    "uuid": "10eb794728c8e687f6a3cb9f3b9370c6712ec685",
+    "url": "https://daringfireball.net/linked/2024/08/08/snell-mac-permission-balance",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@gruber",
+    "published": "2024-08-08T00:00:00Z",
+    "title": "Daring Fireball: 'A Platform That’s Teetering on the Edge of Becoming a User-Experience Joke Akin to Windows Vista'",
+    "text": "By John Gruber [1Password](https://1password.com/daringfireball) — Secure every sign-in for every app on every device. Jason Snell, “Apple’s Permissions Features Are Out of Balance”: Some users will make bad decisions. That’s just reality. The wrong reaction is to take the decision out of every user’s hands to protect the ones who might do something stupid. Apple needs to find that balance, that protects people but gives users freedom to do what they want, however dangerous it might be. Apple’s recent feature changes suggest a value system that’s wildly out of balance, preferring to warn (and control) users no matter how damaging it is to the overall user experience. Maybe the people in charge should be forced to sit down and watch [that Apple ad that mocks Windows Vista]. Vista’s security prompts existed for good reasons — but they were a user disaster. The Apple of that era knew it. I’d guess a lot of people inside today’s Apple know it, too — but they clearly are unable to win the arguments when it matters. Never would have guessed I’d still find use for the “Windows Vista” tag in my CMS in 2024, but here we are. ★ Thursday, 8 August 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024),",
+      "https://workos.com/",
+      "https://www.workos.com/?utm_source=daringfireball&utm_medium=display&utm_campaign=q12024),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "john gruber",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jason snell",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:25:37.685+03:00",
+    "updated": "2024-08-23T04:06:18.704+03:00"
+  },
+  {
+    "uuid": "c0606e8225de2afc1fe435380a291373147b1dda",
+    "url": "http://dicp.cas.cn/xwdt/mtcf/202507/t20250731_7899666.html",
+    "ord_in_thread": 0,
+    "author": "青云软件 www.qysoft.cn",
+    "published": "2025-07-31T00:00:00Z",
+    "title": "【科技日报】\"酵母工厂\"改写芳香密码",
+    "text": "来源：《科技日报》第06版 生物\n发布时间：2025-07-30\n◎本报记者 张 蕴\n当消费者拧开一瓶面霜，扑面而来的香味不仅愉悦感官，而且蕴含着尖端生物科技的结晶——通过合成生物学技术精准制造的萜类香料。从薰衣草的舒缓花香到柠檬的清新果香，从檀木的沉稳气息到薄荷的清凉之气，萜类香料正悄然改写护肤品行业的气味密码。\n近日，记者采访了中国科学院大连化学物理研究所生物技术研究部研究员周雍进团队，揭秘“酵母工厂”在萜类香料制造中的应用与发展。\n兼具香气和生理功效\n萜类香料是可作为香料使用的萜类化合物，它是以异戊二烯为基本单元的天然分子，堪称自然界赋予人类的嗅觉宝藏。“这些异戊二烯单元像乐高积木一样，通过不同组合方式，可形成结构多样、香气迥异的萜类香料。”周雍进说。\n团队成员张梦瑶介绍，在个护产品中，萜类香料堪称感官与功能的“双料冠军”。首先，它们是极致嗅觉体验的缔造者，比如芳樟醇能还原铃兰的清澈花香，香叶醇具有玫瑰的甜蜜芬芳，而柠檬烯能带来鲜活的柑橘调。更重要的是，许多萜类香料还兼具生理功效。例如，胡椒中提取的β-石竹烯，既有温暖的木质辛香，又能抗菌抗炎，还能促进有效成分透皮吸收；德国洋甘菊中的红没药醇，不仅散发着甜美的花香，还具备舒缓抗炎的功效。这种“香气+功效”的双重特性，使它们成为功效型护肤品的理想成分。\n萜类香料合成的核心是两种关键前体，即异戊烯基焦磷酸和二甲基烯丙基焦磷酸。自然界的生物可以通过代谢途径获得这两种前体，从而自主合成萜类香料。周雍进介绍，第一条是甲基赤藓糖醇磷酸途径，常见于细菌等原核生物中，以丙酮酸和3-磷酸甘油醛为代谢起点；第二条是甲羟戊酸途径，常见于酵母等真核生物中，以乙酰辅酶A为代谢起点。但生物自主合成的萜类香料产量较低，难以满足消费者需求。\n传统生产中，人们多采用化学方法合成萜类香料。\n化学合成萜类香料主要有两大路径。首先是半合成路径，以天然萜类为起始原料，通过官能团转化和骨架重排来制备萜类香料。第二种是全合成路径，即直接从异戊二烯、乙炔等简单小分子出发，经多步反应构建萜类香料所需的分子骨架。但传统化学合成萜类香料也存在一些问题，周雍进介绍，化学合成路径虽已成熟，但其立体构型控制困难、副产物繁杂，且合成依赖石化原料。\n生物合成优势显著\n随着消费者对天然绿色产品需求的日益增长，合成生物学技术正为萜类香料的生产开辟新途径。\n“我们可以将酵母细胞看作微型工厂。”张梦瑶说，通过基因编辑技术，将特定的萜类合酶基因导入酵母细胞，这就好比为这座工厂安装了全新的“生产线”。由萜类合酶基因表达产生的萜类合酶能够在细胞内部精准地合成单一构型或是特定组合的萜类香料分子。与此同时，通过对酵母细胞的代谢网络进行改造，能够优化“原料供应链”，最终达成高纯度萜类香料的绿色化生产。\n张梦瑶告诉记者，相较于传统的化学合成方法，生物合成路径具有多重显著优势。一是具备精准制造能力。萜类合酶就像分子级的“3D打印机”，能精确直接获得单一构型，而化学法往往需要复杂的拆分纯化步骤。二是拥有创新设计潜力。科研人员通过改造萜类合酶，已成功让微生物生产出自然界中含量极低的檀香醇、诺卡酮等珍稀香料，甚至还创造出全新结构的非天然萜类分子。三是具有柔性生产特性。周雍进团队通过简单高效的代谢转化策略，能够让同一株酵母成为生产多种不同萜类香料的“多面手”，这种灵活性传统化工厂难以企及。此外，生物合成能使用可再生原料，并可在常温常压的水相中进行温和反应，绿色环保。\n这些优势表明，生物合成萜类香料不仅仅是传统合成方法的替代，更是推动香料产业向精准化、个性化、可持续发展方向迈进的重要引擎。\n产业化任重道远\n虽然生物合成萜类香料具有诸多优势，但是其产业化仍然任重道远。\n“从实验室的‘能做’到工厂的‘能赚’，中间隔着一道需要多学科协同跨越的产业鸿沟。”周雍进说。\n他坦言，这个转化过程需要3个环节的深度协同。首先是通过代谢工程改造手段，提升菌株的工业适应性和生产稳定性；其次是运用发酵工程技术，解决规模化生产中的工艺控制和放大问题；最后还需要应用化工技术，在控制成本的同时优化下游分离纯化流程。\n“需要特别强调的是，生物制造产业化绝非简单的工艺放大。它要求我们从最初的菌株设计阶段，就要统筹考虑生产成本、工艺可行性和市场竞争力。换句话说，我们既要算明白‘菌株代谢账’，更要算好‘经济生产账’。”周雍进说。\n他认为，从实验室走向产业化，实现大规模商业化应用，首先是要突破成本竞争力，核心是要提升工程菌株的产物滴度、生产速率和底物得率；其次，必须提升工程菌株的遗传稳定性和工业鲁棒性，确保其在长期、大规模生产中能够保持优良表型；此外，稳定的原料供应、成熟的销售渠道和法规认证体系等产业化配套条件也是不容忽视的。\n【链接】\n生物合成萜类香料面临双重挑战\n当前萜类香料的生物合成面临着“上游菌株构建”与“下游放大生产”的双重挑战。\n中国科学院大连化学物理研究所生物技术研究部研究员周雍进坦言，在上游环节，萜类合酶的挖掘与改造是核心课题。这些生物催化剂决定了最终萜类香料的结构与香气特性。同时，萜类香料及其中间体对微生物底盘细胞的毒性效应不容忽视。它们通常会破坏细胞膜结构，干扰正常的细胞活动，可能影响萜类香料的可持续生产。\n周雍进介绍，通过海量基因组数据结合高通量自动化技术，可大幅提升萜类合酶的挖掘效率。同时，蛋白质理性设计和定向进化策略可有效突破微生物异源合成的产量瓶颈。\n“此外，可以通过多策略组合应对毒性挑战。”团队成员张梦瑶说，“模块化基因线路设计、动态调控策略、利用细胞器区室化隔离有毒中间物，以及强化转运工程促进产物外排等，都是有效手段。”\n“下游的挑战则主要集中在工艺适配性方面。萜类香料的挥发性会对传统设备造成腐蚀。开发耐腐蚀新材料和专用气相捕集系统成为破局关键。”周雍进说。\n以下是该媒体报道地址：https://epaper.stdaily.com/statics/technology-site/index.html#/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Environment"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->biotechnology",
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Environment->natural resources"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://epaper.stdaily.com/statics/technology-site/index.html#/",
+      "https://www.epaper.stdaily.com/statics/technology-site/index.html#/",
+      "https://epaper.stdaily.com/statics/technology-site/index.html#"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:37:43.682+03:00",
+    "updated": "2025-07-31T07:42:12.000+03:00"
+  },
+  {
+    "uuid": "3c48ea9ddf085846fcbf680c1686ab3dea0d0e86",
+    "url": "https://www.elpais.com.co/cali/estos-fueron-los-compromisos-que-adquirio-alejandro-eder-con-los-calenos-0108.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción El País",
+    "published": "2024-01-02T01:54:00Z",
+    "title": "Estos fueron los compromisos que adquirió Alejandro Eder con los caleños",
+    "text": "Cali Estos fueron los compromisos que adquirió Alejandro Eder con los caleños Prometió que generar 100.000 nuevos empleos y que renovaría el centro de Cali. [Por: Redacción El País](/autor/redaccion-el-pais/) Pasado el fervor de la posesión del alcalde de Cali, Alejandro Eder, su discurso deja ver claramente su preocupación por la compleja situación financiera y administrativa por la que atraviesa el Municipio, pero además dejó claro, con los nombres de su gabinete, que se la jugará con la suya y que por ahora tendrá al margen ciertos sectores políticos de la ciudad. Asimismo, dejó muy definidos los que serán los pilares de su gestión. La seguridad es prioridad El primer programa prioritario que mencionó el alcalde Alejandro Eder, fue el ‘Plan Cali segura’, que se enfocará en acciones para la prevención de violencia en jóvenes y el apoyo a la Fuerza Pública. “Priorizaremos la lucha contra el hurto. El robo callejero es el delito de mayor impacto en la vida cotidiana. La lucha contra la inseguridad debe tener enfoque regional, por eso trabajaremos de la mano de la Gobernación y de los municipios de la región”, dijo. Alimentación para 340.000 caleños El segundo plan mencionado por el alcalde Eder fue ‘Cali sin Hambre’, con el cual espera llegar a 340.000 caleños. “Mejoraremos las condiciones del Plan de Alimentación Escolar y los comedores comunitarios. Debemos prevenir enfermedades infantiles a partir de una mejor nutrición y combatir el flagelo del hambre en las poblaciones vulnerables”, aseguró. Eder promete 100.000 empleos A través de Cali con Oportunidades, el Alcalde Municipal se comprometió a generar 100.000 nuevos empleos. “Esto lo haremos a través de la formación en habilidades tecnológicas, impulsando el emprendimiento, alcanzando el trabajo articulado con el sector privado y atrayendo la inversión”, dijo. Para ello, aseguró que simplificará los trámites y facilitará la creación de empresa. “No abandonaremos a nuestros jóvenes. Volverán programas para ellos y lucharemos por tener una educación de calidad”. Renovación del centro Eder manifestó que la renovación del centro de Cali será una prioridad. [“Impulsaremos la renovación urbana que involucra la transformación de la Carrera 10, la construcción del Bulevar de Jovita. Avanzaremos en el proyecto Ciudad Paraíso y recuperaremos la Plaza de Cayzedo como el corazón de la ciudad”, manifestó.](https://www.elpais.com.co/cali/hay-unas-posibilidades-muy-interesantes-ministro-del-interior-luis-fernando-velasco-dijo-como-trabajara-la-nacion-con-la-nueva-alcaldia-de-cali-0106.html) Asimismo recordó que impulsará el Tren de Cercanías. “Ya es hora que nuestra región vuelva a soñar con proyectos estratégicos, y de la mano de la Gobernación del Valle y de la alcaldía de Jamundí tenemos el compromiso de dar inicio al primer tramo de este proyecto de región”, informó el alcalde de Cali. ¿Y las alianzas políticas? Tras analizar los nombres de su gabinete es claro que Alejandro Eder se la jugará con la suya, ya que la participación de secretarios vinculados con los grupos políticos tradicionales es muy baja. “Hoy se inicia una nueva relación entre el Concejo y la Alcaldía que está lejos de los intereses particulares y cada vez más cercana a los intereses ciudadanos. Eso espero y eso quieren los ciudadanos”, sostuvo. [ Frente al rol de Diana Rojas, excandidata a la Alcaldía que se adhirió al final de la campaña, Eder aseguró que liderará el ‘Plan Cali 500′. ](https://www.elpais.com.co/cali/corfecali-emcali-y-metrocali-las-empresas-que-mas-le-preocupan-a-alejando-eder-por-su-grave-situacion-financiera-estas-son-las-cifras-0121.html) “Necesitamos comenzar pensar y planear la Cali del 2036, y así lo haremos con el ‘Plan Cali 500′. Este sueño lo construiremos de manera participativa, pues sin visión compartida no habrá futuro cierto”, dijo. Aseguró que durante su Alcaldía prepararán a Cali para el futuro. “Requerimos de una visión de largo plazo. Necesitamos visión, disciplina y determinación... Es hora de que Cali asuma con altura el hecho de ser la capital del Pacífico y del Suroccidente Colombiano”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-02T04:32:47.705+02:00",
+    "updated": "2024-01-02T04:32:47.705+02:00"
+  },
+  {
+    "uuid": "55d288091bf9c88ee399be99c25db15a2ed4e550",
+    "url": "https://www.openpr.com/news/4127349/growing-gaming-and-entertainment-industry-fuels-growth-in",
+    "ord_in_thread": 0,
+    "author": "The Business Research Company",
+    "published": "2025-07-31T05:11:40Z",
+    "title": "Growing Gaming And Entertainment Industry Fuels Growth In",
+    "text": "Growing Gaming And Entertainment Industry Fuels Growth In The structured light 3D scanner Market : Pivotal Factor Influencing Structured Light 3D Scanner Market Growth in 2025 07-31-2025 06:39 AM CET | IT, New Media & Software\nPress release from: The Business Research Company Structured Light 3D Scanner Market\nUse code ONLINE30 to get 30% off on global market reports and stay ahead of tariff changes, macro trends, and global economic shifts\nStructured Light 3D Scanner Market Size Growth Forecast: What to Expect by 2025?\nThe market for structured light 3D scanner has experienced swift expansion over the past few years. Its size is set to increase from $1.6 billion in 2024 to $1.88 billion in 2025, with a compound annual growth rate (CAGR) of 17.7%. Factors contributing to the growth during the historic period encompass an increase in automation, efforts in cultural heritage preservation, a surge in demand for reverse engineering, emphasis on safety, escalating use in surveying and mapping, and a rise in demand for 3D modelling.\nHow Will the Structured Light 3D Scanner Market Size Evolve and Grow by 2029?\nThe market size for the structured light 3D scanner is anticipated to experience an accelerated expansion in the coming years, reaching an estimated value of $3.56 billion by 2029, with a compound annual growth rate (CAGR) of 17.4%. Factors contributing to this growth over the forecast period are higher implementation rates in construction and architectural industries, amplified demand from the automotive sector, burgeoning e-commerce and online retail, combined with the reduction in costs and accessibility. Governmental initiatives and regulations. Key trends anticipated during this forecast period involve the use of drone technology, advancements in healthcare applications, improvement in software solutions, advent of portable and handheld scanners, and incorporation of augmented reality (AR) and virtual reality (VR).\nView the full report here:\nhttps://www.thebusinessresearchcompany.com/report/structured-light-3d-scanner-global-market-report\nWhat Drivers Are Propelling the Growth of Structured Light 3D Scanner Market Forward?\nThe structured light 3D scanner market is projected to expand due to the increasing growth of the gaming and entertainment industry. The sector encompasses those engaged in the production, creation, and distribution of recreational and interactive content that entertains the audience. The escalating gaming and entertainment industry growth is attributed to the popularity of esports and online gaming, the advent of augmented reality (AR) and virtual reality (VR) technologies, and the widespread use of smartphones and tablets. The realistic character modelling and immersive virtual environments in the gaming and entertainment experiences are enhanced by structured-light 3D scanners. Game developers employ these scanners to capture three-dimensional models of actors, real-world objects, and props. These scanned models become the basis for the creation of realistic items, people, and creatures within the gaming universe. For example, the American Gaming Association, a US-based national trade organization, reported in May 2023 that a robust demand for gaming entertainment led to a historical high in commercial gaming revenue of $60 billion in 2022, a 14% rise from the previous year. As a result, the burgeoning gaming and entertainment industry is bolstering the growth of the structured light 3D scanner market.\nGet your free sample here:\nhttps://www.thebusinessresearchcompany.com/sample.aspx?id=15006&type=smp\nWhich Emerging Trends Are Transforming the Structured Light 3D Scanner Market in 2025?\nLeading businesses in the structured light 3D scanner market are intensifying their efforts towards producing innovative products such as zoom-enabled optical 3D scanners to enhance their market revenue. A zoom-enabled optical 3D scanner is a special category of scanning device that employs optical technology to gather three-dimensional data of objects. This scanner provides the unique ability to adjust its optical zoom level, facilitating users to capture detailed 3D data at diverse magnification levels. For example, in March 2024, an industrial technology company based in Sweden, Hexagon AB, introduced the SmartScan VR800. This product represents the first optical 3D scanner in the market featuring a motorized zoom lens that provides users with full customization of software settings for data resolution and measurement volume. The SmartScan VR800 comes with sophisticated features such as Smart Resolution, Smart Zoom, and Smart Snap, enabling users to quickly alter data resolution, measurement volume, and document orientation data.\nWhat Are the Key Segments in the Structured Light 3D Scanner Market?\nThe structured light 3D scanner market covered in this report is segmented -\n1) By Product: Optical Scanner, Structured Light Scanner, Laser Scanner\n2) By Range: Short Range, Medium Range, Long Range\n3) By Component: Hardware, Software, Services\n4) By Application: Quality Control And Inspection, Reverse Engineering, Virtual Simulation, Face Or Body Scanning, Other Applications\n5) By End Users: Aerospace And Defense, Healthcare, Architecture And Construction, Entertainment And Media, Automotive, Other End Users\nSubsegments:\n1) By Optical Scanner: Handheld Optical Scanner, Desktop Optical Scanner\n2) By Structured Light Scanner: 2D Structured Light Scanner, 3D Structured Light Scanner\n3) By Laser Scanner: Handheld Laser Scanner, Stationary Laser Scanner\nTailor your insights and customize the full report here:\nhttps://www.thebusinessresearchcompany.com/customise?id=15006&type=smp\nWho Are the Key Players Shaping the Structured Light 3D Scanner Market's Competitive Landscape?\nMajor companies operating in the structured light 3D scanner market are Carl Zeiss Optotechnik GmbH, Hexagon AB, Nikon Metrology NV, Trimet, 3D Digital Corporation, FARO Technology Inc., GOM GmbH, Creaform Inc., Shining 3D Tech, Basis Software Inc., Perceptron Inc., Steinbichler Optotechnik GmbH, Capture 3D, Artec 3D, Solutionix Corporation, Kreon Technologies, Breuckmann GmbH & Co. KG, Exact Metrology, Riegl Laser Measurement Systems, EVA Optic, ScanTech International Inc., ShapeGrabber Inc., RangeVision, True Point Laser Scanning LLC, Fuel 3D\nWhat Geographic Markets Are Powering Growth in the Structured Light 3D Scanner Market?\nNorth America was the largest region in the structured light 3D scanner market in 2024. Asia-Pacific is expected to be the fastest-growing region in the forecast period. The regions covered in the structured light 3D scanner market report are Asia-Pacific, Western Europe, Eastern Europe, North America, South America, Middle East, Africa.\nPurchase the full report today:\nhttps://www.thebusinessresearchcompany.com/purchaseoptions.aspx?id=15006\n\"This Report Supports:\n1.Business Leaders & Investors - To identify growth opportunities, assess risks, and guide strategic decisions.\n2.Manufacturers & Suppliers - To understand market trends, customer demand, and competitive positioning.\n3.Policy Makers & Regulators - To track industry developments and align regulatory frameworks.\n4.Consultants & Analysts - To support market entry, expansion strategies, and client advisory work.\"\nConnect with us on:\nLinkedIn: https://in.linkedin.com/company/the-business-research-company ,\nTwitter: https://twitter.com/tbrc_info ,\nYouTube: https://www.youtube.com/channel/UC24_fI0rV8cR5DxlCpgmyFQ .\nContact Us\nEurope: +44 7882 955267,\nAsia: +91 88972 63534,\nAmericas: +1 310-496-7795 or\nEmail:info@tbrc.info\nLearn More About The Business Research Company\nWith over 15,000+ reports from 27 industries covering 60+ geographies, The Business Research Company has built a reputation for offering comprehensive, data-rich research and insights. Our flagship product, the Global Market Model delivers comprehensive and updated forecasts to support informed decision-making.\nThis release was published on openPR.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business information",
+      "Economy, Business and Finance->media and entertainment industry",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://opr.li/com/568eff67f719d1f8f84b2f3610aff87e/",
+      "https://opr.li/com/6049466e756848cb35b0383d7aa49213/",
+      "https://opr.li/com/a9767bf595d7e1c1f14f7ce99e5f97c1/",
+      "https://opr.li/com/c9fe4ef9524cb3ee79b0b65ada64e100/",
+      "https://www.thebusinessresearchcompany.com/customise?id=15006&type=smp",
+      "https://www.thebusinessresearchcompany.com/report/structured-light-3d-scanner-global-market-report",
+      "https://opr.li/com/6e5956d25eca601e6d1199a17e587d5a/",
+      "https://opr.li/com/17a04025bcec56360e28b7e15ef4e11c/",
+      "https://www.thebusinessresearchcompany.com/sample.aspx?id=15006&type=smp",
+      "https://opr.li/com/f8961fc89c42c5b17145bf5f7f8a30fb/",
+      "https://www.youtube.com/channel/UC24_fI0rV8cR5DxlCpgmyFQ",
+      "https://twitter.com/tbrc_info",
+      "https://www.thebusinessresearchcompany.com/purchaseoptions.aspx?id=15006",
+      "https://in.linkedin.com/company/the-business-research-company",
+      "https://www.thebusinessresearchcompany.com/purchaseoptions.aspx",
+      "https://opr.li/com/f8961fc89c42c5b17145bf5f7f8a30fb",
+      "https://opr.li/com/17a04025bcec56360e28b7e15ef4e11c",
+      "https://www.opr.li/com/f8961fc89c42c5b17145bf5f7f8a30fb/",
+      "https://www.opr.li/com/6049466e756848cb35b0383d7aa49213/",
+      "https://thebusinessresearchcompany.com/purchaseoptions.aspx?id=15006",
+      "https://opr.li/com/6049466e756848cb35b0383d7aa49213",
+      "https://www.opr.li/com/a9767bf595d7e1c1f14f7ce99e5f97c1/",
+      "https://thebusinessresearchcompany.com/report/structured-light-3d-scanner-global-market-report",
+      "https://opr.li/com/568eff67f719d1f8f84b2f3610aff87e",
+      "https://www.opr.li/com/568eff67f719d1f8f84b2f3610aff87e/",
+      "https://www.opr.li/com/c9fe4ef9524cb3ee79b0b65ada64e100/",
+      "https://opr.li/com/6e5956d25eca601e6d1199a17e587d5a",
+      "https://youtube.com/channel/UC24_fI0rV8cR5DxlCpgmyFQ",
+      "https://www.thebusinessresearchcompany.com/customise",
+      "https://www.thebusinessresearchcompany.com/sample.aspx",
+      "https://opr.li/com/a9767bf595d7e1c1f14f7ce99e5f97c1",
+      "https://opr.li/com/c9fe4ef9524cb3ee79b0b65ada64e100",
+      "https://www.opr.li/com/6e5956d25eca601e6d1199a17e587d5a/",
+      "https://www.in.linkedin.com/company/the-business-research-company",
+      "https://www.twitter.com/tbrc_info",
+      "https://thebusinessresearchcompany.com/customise?id=15006&type=smp",
+      "https://www.opr.li/com/17a04025bcec56360e28b7e15ef4e11c/",
+      "https://thebusinessresearchcompany.com/sample.aspx?id=15006&type=smp"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "New Media & Software\nPress",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:11:40.707+03:00",
+    "updated": "2025-07-31T08:15:07.000+03:00"
+  },
+  {
+    "uuid": "39d06e09fc15f66f1967b36a6f480b1749387de0",
+    "url": "https://bnnbreaking.com/world/defiant-palestinian-women-pray-at-qalandia-checkpoint-after-al-aqsa-denial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Muhammad Jawad",
+    "published": "2024-03-29T02:27:00Z",
+    "title": "Defiant Palestinian Women Pray at Qalandia Checkpoint After Al-Aqsa Denial",
+    "text": "In a striking display of faith and protest, Palestinian women worshippers were compelled to hold their prayers at the Israeli checkpoint of Qalandia after being denied access to the sacred Al-Aqsa Mosque compound in occupied Jerusalem. This incident underscores the ongoing tensions and restrictions imposed by Israeli occupation authorities on Palestinian religious freedoms, particularly affecting access to one of Islam's holiest sites.\nAdvertisment The Incident at Qalandia Checkpoint On a serene morning, a group of Palestinian women set out to perform their religious duties at Al-Aqsa Mosque, only to be met with barriers at the Qalandia checkpoint. Israeli authorities, citing security concerns, prevented their passage into Jerusalem, compelling these women to pray in the open, right at the checkpoint. This act of devotion amidst adversity not only highlights the spiritual resilience of the Palestinian community but also brings to the fore the restrictive measures affecting their religious practices.\nAl-Aqsa Mosque: A Symbol of Faith and Struggle Advertisment Al-Aqsa Mosque, situated in the heart of Jerusalem, holds profound religious significance for Muslims worldwide, being the third holiest site in Islam. The mosque has also been a focal point of the Israeli-Palestinian conflict, with access to the site frequently restricted by Israeli authorities. These actions have intensified tensions, with Palestinians viewing the restrictions as part of a broader attempt to erase their presence and heritage in Jerusalem. The recent denial of access to Palestinian women worshippers at Qalandia checkpoint is a stark reminder of the ongoing struggle for religious freedom and rights in the face of occupation.\nImplications and Reflections The incident at Qalandia checkpoint is not an isolated event but part of a larger pattern of restrictions on Palestinian access to religious sites, which many argue is an attempt to alter the demographic and cultural landscape of Jerusalem. It raises critical questions about the impact of the Israeli occupation on Palestinian religious practices and cultural heritage. As the international community watches, the resilience of Palestinian worshippers at Qalandia serves as a poignant symbol of their enduring struggle for freedom, dignity, and the right to practice their religion without hindrance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.arabnews.com/node/2484561/battleground-jerusalem",
+      "https://www.greaterkashmir.com/op-ed-2/the-impact-of-conflict-on-cultural-heritage/",
+      "https://www.greaterkashmir.com/op-ed-2/the-impact-of-conflict-on-cultural-heritage",
+      "https://greaterkashmir.com/op-ed-2/the-impact-of-conflict-on-cultural-heritage/",
+      "https://arabnews.com/node/2484561/battleground-jerusalem"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "al-aqsa",
+          "sentiment": "positive"
+        },
+        {
+          "name": "struggle advertisment al-aqsa mosque",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-aqsa mosque",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "jerusalem",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T16:38:41.635+03:00",
+    "updated": "2024-03-29T16:38:41.635+03:00"
+  },
+  {
+    "uuid": "36ba8aa26f0c1d09bfaf00d49363390cb79bbdef",
+    "url": "https://en.shiftdelete.net/apple-is-opening-the-doors-to-a-new-era-major-changes-are-on-the-way/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mehmet Alp Gözbaşı",
+    "published": "2023-12-28T19:00:00Z",
+    "title": "Apple is opening the doors to a new era!",
+    "text": "Apple, in its effort to advance its success in the industry, is preparing to implement various changes. The company, which claims to make devices ‘smarter’, aims to use more powerful hardware and strengthen the interaction between humans and technology. Here are the details: Apple products will now be smarter! The rapidly advancing technology has pushed the entire tech world, including major corporations, to take innovative steps. Known for its innovative approach, Apple plans to further its position in the sector by developing smarter and more successful products. The company is taking serious steps based on more advanced artificial intelligence models and superior performance hardware. In today’s technology, our smart devices can take voice commands from us and respond to them, monitor our heart rate and blood oxygen levels in real-time, translate all world languages into each other, and allow us to video chat with our loved ones. These functions have become quite standard. However, artificial intelligence technology, which is just starting to be integrated into our lives, has not yet reached this level of ordinariness. Apple, wanting to redefine the norms at this point, plans to spend more time on artificial intelligence technology in the coming period to introduce state-of-the-art products to the user experience. With this leap, the tech giant aims to surpass the current limitations of artificial intelligence technology and is trying to bring a new perspective to the AI models used in its devices. Apple’s research team has tackled the issue of ‘memory’, one of the biggest factors limiting artificial intelligence. Thanks to a new method discovered during the research process, artificial intelligence models can operate at a capacity equivalent to twice the DRAM size of the device while significantly speeding up CPU and GPU operations. The steps taken by the company within this mindset seem to set the stage for the beginning of a new era in the technology world. We expect the company, which will be discussed in the future with much more successful results, is allocating a significant budget for these steps. What do you think about this topic? You can share your thoughts with us in the comments section.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:28:52.493+02:00",
+    "updated": "2023-12-29T00:28:52.493+02:00"
+  },
+  {
+    "uuid": "732b52b55d81bc92fa75d39e7c4de030e45019c4",
+    "url": "https://www.tori.ng/news/257579/pregnant-woman-rescued-from-kidnappers-den-in-ogun.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Samuel",
+    "published": "2023-12-29T06:48:00Z",
+    "title": "Pregnant Woman Rescued From Kidnappers’ Den In Ogun",
+    "text": "Home Contact Us [Tip Us: [email protected]]https://www.tori.ng/\nA pregnant woman (name withheld), who was abducted at a community in Ijebu-Igbo, Ijebu-North Local Government Area of Ogun State, has been rescued by the Ogun State Police Command.\nThe Ogun State Police Public Relations Officer, Omolola Odutola, confirmed the development to PUNCH Metro on Thursday.\nAccording to Odutola, some gunmen had ambushed the couple in front of their house, kidnapping the pregnant wife and leaving the husband behind.\nPUNCH Metro reports that the incident occurred at about 11:05 pm on Monday, Christmas Day.\nThe PPRO, in an exclusive interview with PUNCH Metro, said, “The Divisional Police Officer in Ijebu-Igbo received a distress call about a suspected kidnapping incident.”\nAccording to her, “A team of policemen was dispatched to the scene, when they got to the scene, they saw the husband, but the wife had been kidnapped.”\nOdutola quoted the husband as saying that “while they were entering their house, six armed men from nowhere suddenly came out from the bush in front of their house and kidnapped the wife.”\nShe added that the DPO, his men, operatives of the So-Safe Corps, Amotekun and others formed part of the rescue team.\n“They searched through the bush for hours and were able to rescue the woman on Tuesday. The woman was taken to hospital for treatment,” she added.\nOdutola told our correspondent that kidnappers were now trying to go into communities to operate.\n“Going into communities to kidnap is the new trend now. We have taken over the highways in Ogun. You will see policemen on the road now. But the kidnappers have got into the inner villages to start disturbing. We will get them; we are going back to the drawing board. Criminals have no place in this state.\n“So, we are calling on our traditional rulers and our community leaders in the state to establish an internal security to barricade the entry and exit points to their communities; and give security agents the necessary information to aid the security of lives and property. Villagers can easily identify strangers in their communities, they should help the police.\n“The Ogun State Command under the Commissioner of Police, Abiodun Alamutu, will not relent until criminals are flushed out of the state, wherever they are,” Odutola added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "odutola",
+          "sentiment": "none"
+        },
+        {
+          "name": "omolola odutola",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ogun state police command",
+          "sentiment": "none"
+        },
+        {
+          "name": "punch metro",
+          "sentiment": "none"
+        },
+        {
+          "name": "ogun state",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ogun",
+          "sentiment": "none"
+        },
+        {
+          "name": "ijebu",
+          "sentiment": "none"
+        },
+        {
+          "name": "ijebu-igbo",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:37:31.717+02:00",
+    "updated": "2023-12-29T13:37:31.717+02:00"
+  },
+  {
+    "uuid": "469be10f0679ca8a3ae1402364dbbb86a8d1dc2c",
+    "url": "https://www.dexerto.com/reality-tv/90-day-the-single-life-fans-slam-natalies-job-interview-skills-2499074",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Erica Handel",
+    "published": "2024-01-25T21:59:00Z",
+    "title": "90 Day: The Single Life fans slam Natalie’s job interview skills - Dexerto",
+    "text": "Entertainment Reality TV 90 Day: The Single Life fans slam Natalie’s job interview skills Erica Handel ❘ Published: 2024-01-25T21:59:39 ❘ Updated: 2024-01-25T21:59:51 TLC\nNatalie went on a job interview on 90 Day: The Single Life.\nNatalie Mordovtseva went on her first job interview in America on 90 Day: The Single Life, but fans think her interview skills need work.\nNatalie Mordovtseva is looking for a job on 90 Day: The Single Life , and her boyfriend Josh Weinstein’s cousin Adam interviewed her at the chiropractor’s office that he works at.\nAn exclusive clip from the upcoming episode of 90 Day: The Single Life posted by ET shows Natalie on the job interview , and she wasn’t prepared for it at all.\nArticle continues after ad People Natalie Mordovtseva goes on job interview on 90 Day: The Single Life. 90 Day Fiancé fans question Natalie’s intentions to work When Adam asked about her experience in customer service, she said, “I used to work in a bookstore, so I have experience selling books,” which didn’t relate to working with customers.\nArticle continues after ad Natalie then mentioned that she has experience answering phones, emails, and copywriting, but couldn’t explain what job she used those skills at.\nIn the comments of the video , 90 Day Fiancé fans criticized Natalie’s lack of effort at the job interview.\n“I don’t think she really wants to work. I think she wants to be taken care of. That’s how she comes across,” one fan commented.\nSign up to Dexerto for free and receive: Fewer Ads | Dark Mode | Deals in Gaming, TV and Movies, and Tech Email Sign up Article continues after ad “Who goes to an interview without a CV already updated,” another fan agreed.\n“She’s there for around 3 years and did not translate her CV yet?! So interested in having a job,” a third fan chimed in.\nArticle continues after ad Natalie expressed to Josh that she wants to build a life for herself in America, but fans feel that she hasn’t taken the steps to do so.\nShe relied on Josh to help her find her an apartment, and is doing the same thing when it comes to looking for a job.\nArticle continues after ad Natalie has lived in America for three years, and still doesn’t realize that she has to work hard to get what she wants.\n90 Day: The Single Life airs Mondays at 8:00 p.m. ET on TLC.\nRelated Topics 90 day fiance About The Author Erica Handel Erica Handel is a Reality TV Writer at Dexerto. Her favorite reality shows are Below Deck, The Kardashians, Vanderpump Rules, Dancing with the Stars, and the Real Housewives franchise. She attended BravoCon and a taping of Watch What Happens Live and has even met a few Bravo stars in person.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [
+      "http://www.youtube.com/watch?v=TzS8STbzouo",
+      "http://www.youtube.com/watch?v=TzS8STbzouo\\n\\n\\n\\n\\n\\",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=TzS8STbzouo",
+      "http://youtube.com/watch?v=TzS8STbzouo\\n\\n\\n\\n\\n\\"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "erica hand",
+          "sentiment": "negative"
+        },
+        {
+          "name": "natalie",
+          "sentiment": "negative"
+        },
+        {
+          "name": "adam",
+          "sentiment": "none"
+        },
+        {
+          "name": "josh weinstein",
+          "sentiment": "none"
+        },
+        {
+          "name": "natalie mordovtseva",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:29:19.272+02:00",
+    "updated": "2024-01-26T00:29:19.272+02:00"
+  },
+  {
+    "uuid": "6522e398cc21ae67648a8b82f6ab203a717709ff",
+    "url": "https://www.kgw.com/video/sports/locked-on/lo-national/nfl-draft-show/clemsons-avieon-terrell-poised-for-nfl-draft-stardom-will-he-surpass-brother-aj/535-1dae62d7-827e-4ca1-afc7-a82bafa45f49",
+    "ord_in_thread": 0,
+    "author": "Author kgw com",
+    "published": "2025-07-15T18:08:00Z",
+    "title": "Clemson's Avieon Terrell POISED for NFL Draft STARDOM | Will He SURPASS Brother A.J.? | kgw.com",
+    "text": "Skip Navigation\nNavigation\nNews\nBack\nSports\nBack\nSearch\nSearch:\nSearch\nRight Now\nPortland, OR »\n78°\nPortland, OR »\nADVERTISE WITH US\nYOUR PHOTOS\nKGW INVESTIGATES\nTHE STORY\nSTRAIGHT TALK\nHELLO, ROSE CITY!\nKEEPING YOU SAFE\nGOOD ENERGY\nFRESH FROM OREGON\nHEALTHIER TOGETHER\nLET'S GET OUT THERE\nPACIFIC STORYLAND\nWHAT'S IN A NAME?\nSOLUTIONS PROJECT\nCLIMATE CRISIS\nSUNRISE\nMEET THE TEAM\nTV LISTINGS\nBreaking News\nMore (\n) »\nClemson's Avieon Terrell POISED for NFL Draft STARDOM | Will He SURPASS Brother A.J.?\nTo stream KGW on your phone, you need the KGW app.\nDownload the KGW app\nNFL Draft 2026: Cornerback prospects set to reshape defenses. Will Avieon Terrell follow in his brother's first-round footsteps?\nBefore You Leave, Check This Out",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": true,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "A.J.",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "STORYLAND",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Clemson",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "NFL",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "clemson",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": "local_news",
+        "city": [
+          "Portland"
+        ],
+        "state": [
+          "Oregon"
+        ],
+        "country": [
+          "US"
+        ],
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:40:25.636+03:00",
+    "updated": "2025-07-24T07:44:06.000+03:00"
+  },
+  {
+    "uuid": "f1e218115e7a7844819ff7da36d2c6e2afdcf35f",
+    "url": "https://independent.ng/waste-plastic-recycling-business-is-a-lucrative-venture-adelaja",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Oluseyi Taiwo-Oguntuase",
+    "published": "2024-10-04T00:17:00Z",
+    "title": "Waste Plastic Recycling Business Is A Lucrative Venture – Adelaja",
+    "text": "Modupe Adelaja, Chief Executive Officer of Zyntomax Ventures Limited, a sustainable waste management and recycling company, is the Vice President of the Lagos State Recyclers Association. In this interview with SEYI TAIWO-OGUNTUASE , she speaks about her recycling business, what is needed to start the business, how lucrative the business is and the need for the government to make adequate policies and regulations to support waste management, among other salient issues. Excerpts:\nYour company is into waste management and recycling, what area of recycling are you into and why?\nI specialise in recycling waste plastics and industrial nylon films.\nI chose this field because there is a readily available market both locally and internationally.\nWhat are the potential opportunities in this business?\nThe opportunities in waste plastics recycling are significant and diverse.\nWaste plastics recycling presents several potential opportunities, including; environmental benefits; economic benefits, innovations and technological advancement; resources conservation; job creation, products diversity and corporate sustainability.\nFor environmental benefit, recycling waste plastics reduces the amount of plastics waste that ends up in the landfills or the natural environment, which can have significant environmental benefits, such as reducing greenhouse gas emissions, conserving resources, and reducing the harm of plastics on wildlife.\nRecycling waste can create economic opportunities in various ways, such as creating jobs in the recycling industry, reducing the cost of waste management for municipalities and businesses, and creating new markets for recycled plastic products.\nResources conservation; recycling plastic reduces the need for new plastics to be produced, which conserves natural resources such as oil and gas.\nRecycling plastic waste can be cheaper than producing new plastic, particularly if the plastic waste is sorted and cleaned before recycling.\nThe recycling industry creates jobs in the collection, sorting, processing, and manufacturing of recycled plastic products.\nHow lucrative is the recycling business?\nThe waste plastic recycling business in Nigeria can be a lucrative venture if it is approached strategically and with the right resources.\nHowever, there are several factors that can affect the profitability of the business.\nLarger businesses with the capacity to process more waste and produce higher volumes of recycled products are likely to be more profitable than smaller ones. Availability and cost of raw materials, if the cost of raw materials is high it may be difficult to generate profit.\nAccess to funding is crucial for the success of any business, including waste plastics recycling. Waste plastic recycling can be a profitable business in Nigeria, especially with the increasing awareness of the importance of recycling and the growing demand of importance of recycling and the growing demand for sustainable products.\nDo one need any form of training before venturing into this business?\nYes, it’s important to have some training before starting a waste plastic recycling business. While the recycling business may seem simple, it requires specific knowledge and skills to ensure that the process is safe, efficient, and effective. You must understand the type of plastics.\nDifferent types of plastics have different properties and require different recycling methods, knowing how to identify and sort the various types of plastics is crucial for an effective recycling process.\nYou must have the knowledge of the recycling process; knowing the different processes involved in recycling plastics, such as shredding, washing, and melting, is important to ensure successful and profitable operations.\nTraining can help you develop business management skills and strategies for marketing and promoting your recycling business.\nHow do you source for wastes?\nWaste plastics can be obtained from various sources for recycling.\nWaste plastics can be collected from households through collection programs, door to door collection, and drop-off centers.\nBusinesses, offices, factories, and other industrial establishments generate significant amounts of waste plastics that can be collected for recycling.\nLandfills and dumpsites are also potential sources of waste plastics.\nHowever, it is important to ensure that the waste collected from this site is sorted to avoid contamination.\nThere are informal sectors of waste pickers who collect waste plastics from streets, markets, and other public places.\nThese waste pickers can be a source of waste plastics for recycling.\nTo start a waste plastics recycling business, you need to establish a reliable supply chain for waste plastics.\nThis can involve working with waste collection companies, partnering with waste pickers and informal sectors, or establishing your own collection network.\nIt is important to ensure that the waste plastic you collect is clean, sorted, and free from contaminants to ensure the quality of the recycled materials.\nWhat type of equipment do you need to recycle, how affordable are they?\nOperating a waste plastics recycling factory in Nigeria requires a variety of equipment depending on the scale of the operation.\nSome of the necessary equipment includes; Shredder, this is used to shred the plastic waste into smaller pieces, which can then be processed further.\nThe cost of a shredder machine ranges from $2,000 to $50,000, depending on the size and capacity. Melting machine, this includes extruders and injection molding machines for melting and molding plastics waste into new products.\nThe cost of an extruder or melting machine ranges from $10,000 to $100,000, depending on the size and capacity. We also have compressors which are used to compress the plastics.\nSorting machine, this includes conveyors, screens, and magnetic separators for separating different types of plastic waste, washing equipment, this includes washing tanks and machines for cleaning and removing contaminants from plastic waste.\nThe cost of washing equipment is between $5,000 and $20,000. We also have drying equipment; this includes centrifuges and air dryers for drying plastic waste after washing. The cost of this is between $5,000 and $20,000.\nHowever, the cost of setting up a waste plastics recycling factory in Nigeria will depend on the scale of the operation and the specific equipment used.\nHas there been any time you fell short of materials to recycle?\nWaste plastic is available; it all depends on your strategies.\nWhat are some of the challenges in doing this business?\nSome challenges facing waste plastics recycling in Nigeria are; lack of infrastructure, we lack adequate infrastructure for waste management, including plastic recycling, there are limited recycling facilities, and those that exist may not be able to handle the volume of plastic waste generated in the country.\nInefficient waste collection, the collection of waste in Nigeria is often inefficient, with many areas lacking regular collection services.\nLow awareness, many Nigerians are not aware of the benefits of recycling or the harm that plastic waste can cause to the environment.\nThis leads to a lack of demand for recycled products, making it difficult for recycling companies to operate profitably.\nLack of government support: The Nigerian Government has not provided adequate support for waste management, including plastic recycling. This has made it difficult for recycling companies to access the funding and resources needed to expand their operations.\nPoor quality of recyclable materials, the quality of plastic waste in Nigeria is often poor, making it difficult to recycle, this is due to lack of separation at the source and the poor handling during transportation, leading to contamination and reducing the value of the recyclables materials.\nLack of adequate policies, regulations discourage investment in recycling business- Inadequate policies, Nigeria lacks adequate policies and regulations to support waste management, including plastics recycling, this makes it difficult for companies to operate within a structured legal framework and discouraged investment in the sector, another challenge is limited market.\nIf someone wants to go into this line of business what advice would you give?\nStarting a waste plastic recycling business can be a great idea for those who are passionate about the environment and sustainability.\nHere are some steps to take: Conduct market research, before starting any business, it is essential to conduct thorough market research to understand the demand for your products, the competition, and the pricing strategies of your competitors.\nYou need to identify potential customers, such as companies that use plastics or recycled plastics products.\nAlso create a business plan, obtain the necessary permit and license from the Lagos waste management authority (LAWMA). Secure funding because starting a waste plastics recycling business can be capital intensive.\nYou also need to develop a marketing strategy to promote your business and attract customers. Starting a waste plastics recycling business requires hard work, dedication, and careful planning.\nHowever, with the right approach and mindset, you can build a successful and profitable business that contributes to a more sustainable future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Zyntomax Ventures Limited",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Lagos State Recyclers Association",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T03:36:24.954+03:00",
+    "updated": "2024-10-04T03:36:24.954+03:00"
+  }
+]

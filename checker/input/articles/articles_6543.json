@@ -1,0 +1,685 @@
+[
+  {
+    "uuid": "43baeb6ddebc4786e24742fca104a3b34b0be229",
+    "url": "https://www.cbc.ca/news/canada/sharif-rahman-death-accused-extradition-fight-1.7506118",
+    "ord_in_thread": 0,
+    "author": "Jonathon Gatehouse",
+    "published": "2025-04-09T21:08:00Z",
+    "title": "Trio charged in death of Ontario restaurateur fight extradition from Scotland | CBC News",
+    "text": "Three men facing charges in the death of an Owen Sound, Ont., restaurant owner are fighting their extradition from Scotland with claims that Canadian jails are overcrowded and disease-ridden.\nSharif Rahman, 44, was attacked outside of The Curry House restaurant in downtown Owen Sound on Aug. 17, 2023, after confronting three men about an unpaid $150 bill. The 44-year-old husband and father of a young girl died a week later in a London, Ont., hospital.\nRobert Evans, 24, faces a charge of manslaughter. His father, Robert Busby Evans, 47, and his uncle, Barry Evans, 54, are charged with being accessories after the fact. All three remain in custody pending extradition proceedings.\nAt a preliminary hearing in Edinburgh Sheriff Court last week, their lawyer claimed that overcrowding and \"harsh conditions\" in Ontario provincial jails are \"known issues\" and should be considered in the extradition decision.\nThe lawyer also raised concerns about access to health care, citing an outbreak in March of streptococcal A disease that killed two inmates at the Maplehurst Correctional Complex in Milton, Ont.\nThe court was told that an expert's report on conditions at Canadian correctional institutions has been requested.\nSheriff Julius Komorowski, who presided over the hearing, instructed the prosecution to liaise with Ontario authorities to determine where the three men would be held if extradited and to seek assurances about jail conditions.\nNo family or friends of the accused were present during the proceedings.\nThree men charged in connection with Rahman's 2023 death are fighting extradition proceedings in court in Edinburgh, Scotland. (Edward Sharp-Paul for CBC News) The trio are scheduled to return to court in late April for the conclusion of the preliminary hearing.\nCanadian authorities have provided the public with scant information about the case, refusing to discuss why the accused were in the country, how and when they left, or details about the altercation that led to Rahman's death.\nIn August 2024, almost a year after the incident, police issued a brief news release saying arrests had been made.\nIt wasn't until Dec. 19 that investigators disclosed the names of the suspects and confirmed that the father and son had been apprehended in late July, and the uncle at the end of October.\nIn this photo from August 2023, people in Owen Sound, Ont., gathered near Sharif Rahman's restaurant following his funeral. (Michelle Both / CBC News) Ontario court documents about the case remain sealed.\nQuestions from CBC News about the case have gone unanswered, with the Ministry of the Attorney General, Crown and courts all saying there is no \"publicly available information\" to share.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Crime, Law and Justice->homicide",
+      "Crime, Law and Justice->investigation (criminal)"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Robert Busby Evans",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sharif Rahman",
+          "sentiment": "none"
+        },
+        {
+          "name": "Robert Evans",
+          "sentiment": "none"
+        },
+        {
+          "name": "Barry Evans",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Curry House",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "43baeb6ddebc4786e24742fca104a3b34b0be229",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:19:55.750+03:00",
+    "updated": "2025-04-10T00:19:55.750+03:00"
+  },
+  {
+    "uuid": "44fad7ad8ef82da673e4459fd8174aa5a02eb197",
+    "url": "https://www.homelandsecuritynewswire.com/dr20240822-artificial-intelligence-at-war",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peter Layton",
+    "published": "2024-08-22T00:00:00Z",
+    "title": "AI, cybersecurity, killer robot, existential threats",
+    "text": "AIArtificial Intelligence at War The Gaza war has shown that the use of AI in tactical targeting can drive military strategy by encouraging decision-making bias. At the start of the conflict, an Israeli Defense Force AI system called Lavender apparently identified 37,000 people linked to Hamas. Its function quickly shifted from gathering long-term intelligence to rapidly identifying individual operatives to target. There’s a [global arms race](https://link.springer.com/book/10.1007/978-3-031-58649-1) under way to work out how best to use artificial intelligence for military purposes. The Gaza and Ukraine wars are now accelerating this. These conflicts might inform Australia and others in the region as they prepare for a possible AI-fueled ‘ [hyperwar](https://www.usni.org/magazines/proceedings/2017/july/hyperwar)’ closer to home, given that China envisages fighting wars using [automated decision-making](https://warontherocks.com/2021/10/schrodingers-military-challenges-for-the-chinas-military-modernization-ambitions/) under the rubric of what it calls ‘ [intelligentization](https://www.defenseone.com/ideas/2021/09/how-chinese-strategists-think-ai-will-power-military-leap-ahead/185409/)’. The Gaza war has shown that the use of AI in tactical targeting can drive military strategy by encouraging decision-making bias. At the start of the conflict, an Israeli Defense Force AI system called Lavender apparently [identified](https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes) 37,000 people linked to Hamas. Its function quickly shifted from gathering long-term intelligence to rapidly identifying individual operatives to target. Foot soldiers were easier to [swiftly locate and attack](https://www.972mag.com/lavender-ai-israeli-army-gaza/) than senior commanders, so they dominated the attack schedule. Lavender created a simplified digital model of the battlefield, allowing dramatically faster targeting and much higher rates of attacks than in earlier conflicts. Human analysts did review Lavender’s recommendations before authorizing attacks, but they quickly grew to trust it, considering it [more reliable](https://foreignpolicy.com/2024/05/02/israel-military-artificial-intelligence-targeting-hamas-gaza-deaths-lavender/). Humans often spent only 20 seconds considering Lavender’s target recommendations before approving them. These human analysts displayed [automation bias](https://www.forbes.com/sites/brycehoffman/2024/03/10/automation-bias-what-it-is-and-how-to-overcome-it/) and [action bias](https://thedecisionlab.com/biases/action-bias). Indeed, it could be said that Lavender was encouraging and amplifying these biases. In a way, the humans offloaded their thinking to the machine. Human-machine teams are considered by many, including the [Australian Defense Force](https://tasdcrc.com.au/wp-content/uploads/2020/12/ADF-Concept-Robotics.pdf), to be central to future warfighting. The way Lavender’s tactical targeting drove military strategy suggests that the AI machine part should be designed to work with humans on the task they are undertaking, not be treated as a part able to be quickly switched between different functions. Otherwise, humans might lose sight of the strategic or operational context and instead focus on the machine-generated answers. For example, the purpose-designed [Ukrainian GIS Arta system](https://asiatimes.com/2022/07/musks-tech-put-to-deadly-weapon-effect-in-ukraine/) takes a bottom-up approach to target selection by giving people a well-fused picture of the battlespace, not a recommendation derived opaquely of what to attack. It’s described as ‘ [Uber for artillery](https://www.newamerica.org/future-frontlines/blogs/how-ukraines-uber-for-artillery-is-leading-the-software-war-against-russia/)’. Human users apply the context as they understand it to decide what is to be targeted.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://defenseone.com/ideas/2021/09/how-chinese-strategists-think-ai-will-power-military-leap-ahead/185409/)’.",
+      "https://www.thedecisionlab.com/biases/action-bias).",
+      "https://link.springer.com/book/10.1007/978-3-031-58649-1)",
+      "https://www.link.springer.com/book/10.1007/978-3-031-58649-1)",
+      "https://www.asiatimes.com/2022/07/musks-tech-put-to-deadly-weapon-effect-in-ukraine/)",
+      "https://972mag.com/lavender-ai-israeli-army-gaza/)",
+      "https://www.forbes.com/sites/brycehoffman/2024/03/10/automation-bias-what-it-is-and-how-to-overcome-it/)",
+      "https://usni.org/magazines/proceedings/2017/july/hyperwar)’",
+      "https://asiatimes.com/2022/07/musks-tech-put-to-deadly-weapon-effect-in-ukraine/)",
+      "https://www.newamerica.org/future-frontlines/blogs/how-ukraines-uber-for-artillery-is-leading-the-software-war-against-russia/)’.",
+      "https://www.warontherocks.com/2021/10/schrodingers-military-challenges-for-the-chinas-military-modernization-ambitions/)",
+      "https://forbes.com/sites/brycehoffman/2024/03/10/automation-bias-what-it-is-and-how-to-overcome-it/)",
+      "https://www.foreignpolicy.com/2024/05/02/israel-military-artificial-intelligence-targeting-hamas-gaza-deaths-lavender/).",
+      "https://newamerica.org/future-frontlines/blogs/how-ukraines-uber-for-artillery-is-leading-the-software-war-against-russia/)’.",
+      "https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)",
+      "https://www.defenseone.com/ideas/2021/09/how-chinese-strategists-think-ai-will-power-military-leap-ahead/185409/)’.",
+      "https://tasdcrc.com.au/wp-content/uploads/2020/12/ADF-Concept-Robotics.pdf),",
+      "https://warontherocks.com/2021/10/schrodingers-military-challenges-for-the-chinas-military-modernization-ambitions/)",
+      "https://www.tasdcrc.com.au/wp-content/uploads/2020/12/ADF-Concept-Robotics.pdf),",
+      "https://thedecisionlab.com/biases/action-bias).",
+      "https://www.usni.org/magazines/proceedings/2017/july/hyperwar)’",
+      "https://theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes)",
+      "https://foreignpolicy.com/2024/05/02/israel-military-artificial-intelligence-targeting-hamas-gaza-deaths-lavender/).",
+      "https://www.972mag.com/lavender-ai-israeli-army-gaza/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-23T02:27:06.648+03:00",
+    "updated": "2024-08-23T02:27:06.648+03:00"
+  },
+  {
+    "uuid": "c349a03210c5433fc0b6e910da81e0c7f6db7d3f",
+    "url": "https://flipboard.com/topic/otago/this-airport-is-considered-the-scariest-in-the-world-here-s-why/a-IcGifgxUTnqa4bujTUh2zQ%3Aa%3A1944816596-a73a4be280%2Fnypost.com",
+    "ord_in_thread": 0,
+    "author": "New York Post - Fabiana Buontempo",
+    "published": "2025-05-01T01:31:00Z",
+    "title": "This airport is considered the scariest in the world - here's why | Flipboard",
+    "text": "This airport is considered the scariest in the world — here’s why No one wants to be on a plane that is flying into or out of an airport considered the “world’s scariest.” So, as a word of advice — avoid the …\nNew York Post - Fabiana Buontempo • 1h",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Environment"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Fabiana Buontempo",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T05:23:20.636+03:00",
+    "updated": "2025-05-01T05:31:44.073+03:00"
+  },
+  {
+    "uuid": "d1a956b8eb3dfdb76517ae595dd755b6d4981711",
+    "url": "https://www.nbcphiladelphia.com/paris-2024-summer-olympics/us-mens-rugby-eliminated-quarterfinals-medal/3923825",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sanjesh Singh",
+    "published": "2024-07-25T00:00:00Z",
+    "title": "US men’s rugby eliminated in Olympic quarters, will not medal – NBC10 Philadelphia",
+    "text": "Team USA will not medal in men's rugby in Paris .\nThe Eagles on Thursday fell to Australia 18-0 in their quarterfinal matchup , ending a chance to at least claim a bronze medal in the competition.\nPhiladelphia news 24/7: Watch NBC10 free wherever you are\nAustralia will move onto the semifinals on Saturday, July 27, where it will play two-time gold medalists Fiji .\nThe Eagles, though, haven't played their last game. They will play Ireland on Saturday at 9 a.m. ET in the first of two placement games.\n329 medal events. 32 sports. Endless drama. Catch all the action at the Paris Olympics . Sign up for our free Olympics Headlines newsletter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "philadelphia [team usa",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new zealand",
+          "sentiment": "none"
+        },
+        {
+          "name": "fiji",
+          "sentiment": "none"
+        },
+        {
+          "name": "ireland",
+          "sentiment": "none"
+        },
+        {
+          "name": "south africa",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "paris",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T02:24:08.827+03:00",
+    "updated": "2024-07-26T12:17:55.364+03:00"
+  },
+  {
+    "uuid": "638df61d2f24f13ac1161d0860f2ac8a2265ef49",
+    "url": "https://www.standard.net.au/story/8472243/severe-thunderstorms-forecast-for-east-coast/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@francophileenoz",
+    "published": "2023-12-28T14:46:00Z",
+    "title": "Severe Thunderstorms Forecast for East Coast | The Standard | Warrnambool, VIC",
+    "text": "After bouts of wild weather over Christmas, the east coast will face another round of severe thunderstorms and rain according to the Bureau of Meteorology's (BoM) latest forecast. $1/ (min cost $8) Login or signup to continue reading Severe thunderstorms have eased across eastern Australia but are expected to redevelop around eastern Queensland and northeast NSW from December 30 into the New Year. Parts of Australia are set to face wet and potentially wild weather on New Years Eve and New Year's Day. BoM senior meteorologist Sarah Scully said isolated thunderstorms are possible for parts of Queensland, NSW, Victoria and South Australia. \"Severe thunderstorms are possible in Queensland between St Lawrence and Redcliffe, although activity will not be as widespread compared to previous days,\" Ms Scully said. \"Isolated gusty thunderstorms are also possible over western South Australia.\" Showers and storms are possible across parts of southern and eastern Australia, mainly NSW, eastern South Australia, and northern Victoria on December 29. There is a risk of severe thunderstorms in Sydney, the Blue Mountains and the Hunter regions. Severe thunderstorms will become more widespread from this weekend concentrating in north-east NSW, and south-east and central Queensland. BoM said there are indications that isolated, very dangerous thunderstorms with destructive winds, giant hail and intense rainfall may be possible across southeast Queensland on Saturday. BoM has encouraged the community to stay up to date with the latest forecasts and warnings using the BOM Weather app and website. Queensland will also experience heatwave conditions along the east coast affecting Brisbane, the Sunshine Coast and areas surrounding Cairns. Northern and Western Australia will also face heatwave conditions with temperatures reaching the mid to high 40 degree Celsius in some areas. Sign up for our newsletter to stay up to date. We care about the protection of your data. Read our [Privacy Policy](/privacy/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "scully",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah scully",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "standard | warrnambool",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bureau of meteorology",
+          "sentiment": "none"
+        },
+        {
+          "name": "redcliffe",
+          "sentiment": "none"
+        },
+        {
+          "name": "nsw",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "victoria",
+          "sentiment": "none"
+        },
+        {
+          "name": "australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "st lawrence",
+          "sentiment": "none"
+        },
+        {
+          "name": "sydney",
+          "sentiment": "none"
+        },
+        {
+          "name": "queensland",
+          "sentiment": "none"
+        },
+        {
+          "name": "south australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T05:29:52.014+02:00",
+    "updated": "2023-12-29T05:29:52.014+02:00"
+  },
+  {
+    "uuid": "6c67c816101d4a4a1db8cbd2ba794a841b154adc",
+    "url": "https://freerepublic.com/focus/f-news/4242694/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SharpRightTurn",
+    "published": "2024-06-06T08:23:00Z",
+    "title": "Jon Tester, the Largest Recipient of Lobbyist Cash in America, Dings Opponent for Taking Lobbyist Cash",
+    "text": "Senator Jon Tester took more money from lobbyists than any senator last year. Now, the Montana Democrat claims his Republican opponent is captive to private interests.\nTester’s new $640,000 television ad campaign claims Tim Sheehy, who secured the Republican Senate nomination Tuesday, is \"shady,\" because he’s \"taken hundreds of thousands in lobbyist cash.\"\nLobbyists have donated more than $458,000 to Tester from 2023-2024, besting his Democratic colleague Sen. Bob Casey (D., Pa.), who raised $356,169. No Senate Republican incumbent comes close to Tester, who received more money from lobbyists than former House speaker Kevin McCarthy (R., Calif.).\nTester faces one of the Senate's toughest reelection fights in November, in a state former president Donald Trump won by more than 16 points. In his fight to cling to his seat, Tester has attempted to brand himself as an independent dedicated to good governance.\nThat image often conflicts with reality. Tester votes with President Joe Biden 91 percent of the time, even as he avoids calling himself a Democrat in campaign ads.\nHe is also a long opponent of dark money but happily accepts help from the dark money groups that spend millions on his behalf. A super PAC connected to Senate majority leader Chuck Schumer (D., N.Y.) spent nearly $6 million to boost Sheehy’s primary challenger, who was seen as the weaker of the two candidates.\nTester recently introduced a proposal to bolster his moderate credentials: a balanced budget constitutional amendment. In his 17 years in the Senate, Tester voted against similar measures at least eight times as the federal debt ballooned by 400 percent.\nIn April, the Tester campaign launched a $14.5 million ad campaign featuring footage of the southern border wall. Tester voted against border wall funding in 2017, calling Trump’s proposal \"ineffective and wasteful.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jon tester",
+          "sentiment": "negative"
+        },
+        {
+          "name": "montana democ",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "tim sheehy",
+          "sentiment": "none"
+        },
+        {
+          "name": "tester",
+          "sentiment": "none"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "joe biden",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin mccarthy",
+          "sentiment": "none"
+        },
+        {
+          "name": "bob casey",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "republican senate",
+          "sentiment": "none"
+        },
+        {
+          "name": "house",
+          "sentiment": "none"
+        },
+        {
+          "name": "senate republican",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "america",
+          "sentiment": "none"
+        },
+        {
+          "name": "pa.",
+          "sentiment": "none"
+        },
+        {
+          "name": "calif.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T01:42:52.775+03:00",
+    "updated": "2024-06-07T01:42:52.775+03:00"
+  },
+  {
+    "uuid": "066df1e8c968cfb2c6df340cecec083427eb41ac",
+    "url": "https://www.infranken.de/ueberregional/newsticker-national/panorama/tunneleinsturz-in-los-angeles-31-arbeiter-gerettet-art-6239005",
+    "ord_in_thread": 0,
+    "author": "dpa",
+    "published": "2025-07-10T07:34:00Z",
+    "title": "Tunneleinsturz in Los Angeles: 31 Arbeiter gerettet",
+    "text": "Aufatmen in Kalifornien: Nach dem Einsturz eines Tunnels im Großraum der US-Metropole Los Angeles hat die Feuerwehr alle Eingeschlossenen bergen können. 31 Menschen, wohl alle Tunnelarbeiter, seien am Mittwochabend (Ortszeit) lebend und ohne sichtbare Verletzungen gerettet worden, teilte die Feuerwehr mit. Der Unglücksort befindet etwa 30 Kilometer südlich des Zentrums von Los Angeles.&nbsp; Ersten Berichten der Feuerwehr zufolge gelang es einigen Arbeitern nach dem Einsturz, über einen Berg loser Erde zu klettern. Auf der anderen Seite trafen sie demnach auf Kollegen. Anschließend seien die Eingeschlossenen mit einem Tunneltransportmittel zum Ausgang gebracht worden. Sanitäter versorgten daraufhin die Geretteten und untersuchten sie genauer, hieß es.&nbsp; Ein großer Rettungseinsatz&nbsp; Mehr als 100 Einsatzkräfte waren nach Angaben der Feuerwehr zum Unglücksort geeilt, darunter spezialisierte Rettungsteams. Der Einsturz passierte demnach mehr als acht Kilometer vom einzigen Tunneleingang entfernt. Es handele sich um einen im Bau befindlichen Tunnel für die kommunale Abwasserentsorgung, hieß es weiter. Die Ermittlungen zur Ursache des Einsturzes dauern an.&nbsp; Etwa eine Stunde waren die Arbeiter in dem Tunnel eingeschlossen, meldete CBS News. Der Tunnel sei insgesamt mehr als 11 Kilometer lang und etwas mehr als fünf Meter breit, schrieb der US-Sender unter Berufung auf den Betreiber.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Disaster and Accident->emergency response",
+      "Social Issue->communities",
+      "Social Issue->social problem",
+      "Health->emergency care",
+      "Health->public health",
+      "Health->injury"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T15:35:47.198+03:00",
+    "updated": "2025-07-11T13:10:50.000+00:00"
+  },
+  {
+    "uuid": "8f030bd5e0e2ac6d5ad9362fd6e667946c305fbc",
+    "url": "https://www.bergamonews.it/2025/01/23/bergamo-torna-la-festa-del-cioccolato-al-via-la-12esima-edizione/772069",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sofia Tirone",
+    "published": "2025-01-23T21:34:00Z",
+    "title": "Bergamo, torna la Festa del Cioccolato: al via la 12esima edizione",
+    "text": "Bergamo. Ebbene sì, oggi, giovedì 23 gennaio, si è inaugurata la 12esima edizione della Festa del Cioccolato, ormai considerata una tradizione per Bergamo.\nInfatti, viene piacevolmente apprezzata dai cittadini perché rappresenta un modo di vivere la città e di stare in compagnia.\nCiò nonostante, la festa non finisce qui, perché non è solo il cioccolato ad unire gli animi, ma bensì anche la collaborazione dei maestri del cioccolato provenienti da tutta Italia e non solo. Infatti, quest’anno anche il Belgio e l’Ungheria hanno partecipato, portando dunque l’Europa all’interno di questo appuntamento tipicamente bergamasco.\nMa dal punto di vista emotivo? Niente panico! I venditori sono super disponibili a farti assaggiare i loro prodotti ed il tempo è stabile e freddo, ma a scaldare i cuori non sono solo le barrette e le praline ma anche la cioccolata calda, tanto che l’apertura di questo evento è stata memorabile.\nLa sindaca Elena Carnevali, il vice sindaco Sergio Gandi, l’assessore ai Servizi Sociali Marcella Messina e l’assessore alle Politiche Abitative Claudia Lenzini hanno versato 21 metri di cioccolato temperato sul Sentierone, ove oltre trenta persone si sono radunate ad assistere a questo particolare battesimo della storica kermesse cittadina. Dopo soli 10 minuti, il cioccolato era già pronto per essere tagliato, condiviso e mangiato: cioccolato fondente davvero squisito!\nInoltre, ce n’è per tutti i gusti: una dozzina di bancarelle vendono cioccolato con forme di personaggi dal film Frozen, dal videogioco Super Mario, dal mitico cartone di Hello Kitty e tanti altri, insieme alle classiche proposte come le torte. Senza dimenticare anche i teneri animaletti tutti da mangiare tra i quali i panda, i cani e le giraffe!\nQuindi, cosa aspettate a venire ad assaporare un po’ di dolcissimo cioccolato? La festa è aperta tutti i giorni dalle 9 della mattina fino alle 19 della sera, da oggi (giovedì 23 gennaio) fino a domenica 26 gennaio.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->festival",
+      "Arts, Culture and Entertainment->customs and tradition",
+      "Arts, Culture and Entertainment->culture",
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->leisure",
+      "Human Interest->anniversary"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Elena Carnevali",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sergio Gandi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Servizi Sociali Marcella Messina",
+          "sentiment": "none"
+        },
+        {
+          "name": "Ungheria",
+          "sentiment": "none"
+        },
+        {
+          "name": "Belgio",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Bergamo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Italia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:07:57.388+02:00",
+    "updated": "2025-01-24T00:07:57.388+02:00"
+  },
+  {
+    "uuid": "4824e32658662ccee616b3414c046aff5e09b720",
+    "url": "https://www.wnem.com/2025/01/03/staying-colder-today-with-scattered-snow-showers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WNEMTV5news",
+    "published": "2025-01-03T09:11:00Z",
+    "title": "Staying colder today with scattered snow showers",
+    "text": "Staying colder today with scattered snow showers\nSAGINAW, Mich. (WNEM) - More snow showers will move through mid-Michigan today, some of which has already come through early this morning. These early-morning snow showers have been steady enough to bring light accumulations on roadways, so remember to drive to the current conditions! There haven’t been any major delays but bridges and overpasses in particular could stay slick.\nThe longer outlook continues to support below-freezing temperatures. This will be good for our area ice fishers! While we’re lacking ice again right now, we’ll be building ice back up through the coming week. Snowmobilers and skiers, now we have the cold air in place... we just need the snow! [Click here](https://www.wnem.com/weather/forecast/7-day/) for a look ahead at the cold 7-Day First Alert Forecast!\nToday\nThis morning there’s already a light coating of fresh snow on many roadways from the Bay Region and south. Though we haven’t had any major issues regarding delays, you still might want to factor a few extra minutes into your routine this morning!\nScattered snow showers will continue today due to the wind direction being more favorable again: northwesterly. Additionally, a weak disturbance passing through has been just enough to bring some favorable large-scale dynamics too, essentially conditions which are able to make snow more efficiently. The scattered nature of these snow showers today will last most of the daytime in an on-and-off fashion. By this evening though, most activity will start coming to an end.\nRoscommon County is highlighted specifically by a [Winter Weather Advisory](https://www.wnem.com/weather/alerts/). There, the lake-effect will be a little bit more frequent than the rest of our area, leading to locally higher snow totals. While Ogemaw County is not included, some of these bands could reach into there at times too. Overall, most of mid-Michigan only sees a dusting or light coating out of today’s snow showers, while Roscommon specifically could see totals as high as 2″ to 5″. The northern Thumb could also have a slightly higher total given some enhancement from the Saginaw Bay, but those totals have a ceiling at just 2″.\nHighs today will reach 26 degrees with the northwest wind sustained at 10 to 15 mph, gusting to 25 mph. This wind is the same speed as the last few days now. Wind chills will be in the middle teens at best. The normal high for January 3rd is 31 degrees.\nTonight\nOther than a stray flurry, a dry night is ahead with mostly cloudy skies. Lows will fall to 16 degrees though with the same northwest wind holding on. Be prepared for single digit wind chills on Saturday morning if you’re heading out for any early errands or activities!\nWeekend Forecast\nThis weekend is generally on the quieter-side of the coin by winter standards! Temperatures will remain cold, but snow chances are minimal. We’ll start with mostly cloudy skies Saturday before turning partly cloudy late in the day. Clouds will then build back in on Sunday. During this time, only a stray flurry or two are possible. The better chance of snowfall will be in the northern Lower Peninsula.\nHighs will only reach 23 degrees Saturday, if not, even colder for some. Lows will fall to 15 degrees on Saturday night. Highs reach 25 degrees on Sunday. The same northwest wind gusting to 25 mph from Friday will hold on all weekend long too. Again, while cold, it’ll be quiet! We hope you have a great weekend and kick off 2025 on a great note!\nCopyright 2025 WNEM. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Weather->weather phenomena",
+      "Social Issue->demographics",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Region",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T12:42:56.903+02:00",
+    "updated": "2025-01-03T12:42:56.903+02:00"
+  },
+  {
+    "uuid": "fcddfe6f3cc3b068569c02a74f624dc9c630d6e1",
+    "url": "https://www.ncesc.com/roman-catholic-churches-near-me",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Tripadvisor",
+    "published": "2024-05-25T04:00:00Z",
+    "title": "Roman Catholic Churches Near Me - Blog FAQ (2024 Edition)",
+    "text": "Use the map below to find Roman Catholic Churches Near Me: Contents [Roman Catholic Churches Near Me](#Roman_Catholic_Churches_Near_Me) [What are Roman Catholic Churches?](#What_are_Roman_Catholic_Churches) [What Services Do Roman Catholic Churches Offer?](#What_Services_Do_Roman_Catholic_Churches_Offer) [What Are The Benefits of Attending a Roman Catholic Church?](#What_Are_The_Benefits_of_Attending_a_Roman_Catholic_Church) [How Are Roman Catholic Churches Regulated?](#How_Are_Roman_Catholic_Churches_Regulated) [What Is The Role of Priests in the Roman Catholic Church?](#What_Is_The_Role_of_Priests_in_the_Roman_Catholic_Church) [Where Can I Find Roman Catholic Churches Near Me?](#Where_Can_I_Find_Roman_Catholic_Churches_Near_Me) [What Should I Expect When Attending a Roman Catholic Church?](#What_Should_I_Expect_When_Attending_a_Roman_Catholic_Church) [Do I Need To Be Catholic To Attend A Roman Catholic Church?](#Do_I_Need_To_Be_Catholic_To_Attend_A_Roman_Catholic_Church) [What Is The Significance of The Eucharist in The Roman Catholic Church?](#What_Is_The_Significance_of_The_Eucharist_in_The_Roman_Catholic_Church) [What Are The Seven Sacraments Observed by The Roman Catholic Church?](#What_Are_The_Seven_Sacraments_Observed_by_The_Roman_Catholic_Church) [What Are The Basic Beliefs of The Roman Catholic Church?](#What_Are_The_Basic_Beliefs_of_The_Roman_Catholic_Church) [What Is The Papacy and The Role of The Pope in The Roman Catholic Church?](#What_Is_The_Papacy_and_The_Role_of_The_Pope_in_The_Roman_Catholic_Church) [How Can I Get More Involved in The Roman Catholic Church?](#How_Can_I_Get_More_Involved_in_The_Roman_Catholic_Church) [What Is The Catholic Community Like?](#What_Is_The_Catholic_Community_Like) [How Can I Connect with Other Catholics?](#How_Can_I_Connect_with_Other_Catholics) [What Are Some Challenges of Being a Roman Catholic?](#What_Are_Some_Challenges_of_Being_a_Roman_Catholic) [Is It Difficult to Become a Roman Catholic?](#Is_It_Difficult_to_Become_a_Roman_Catholic) Roman Catholic Churches Near Me For Roman Catholics, the church is not just a place of worship, but a sanctified space where the faithful come together to celebrate their beliefs, find solace, and build community. Whether you are on a spiritual journey, need to confess your sins, or seeking to find a place to worship and connect with others, you can find a Roman Catholic church near you. What are Roman Catholic Churches? Roman Catholic churches are houses of worship that are part of the Roman Catholic Church, the largest Christian denomination in the world. These churches follow the teachings of the Roman Catholic Church, which is led by the Pope, and celebrate sacraments such as baptism, communion, and confession. What Services Do Roman Catholic Churches Offer? Roman Catholic Churches offer a broad range of services, including daily and weekly masses, sacraments, confessions, hymns, prayers, religious study groups, and outreach programs. They also provide opportunities for fellowship and socializing, including churches that feature food pantries, shelter for the homeless, and other community services. What Are The Benefits of Attending a Roman Catholic Church? Attending a Roman Catholic Church offers many benefits such as building community, spiritual growth, and religious education. When you join a church, you become part of a community that shares your beliefs, values, and traditions. You can also deepen your faith through prayer, study, and attending mass. Furthermore, by participating in church services, you can learn more about Catholicism, sacraments, and religious traditions. How Are Roman Catholic Churches Regulated? The Roman Catholic Church has its own set of regulations and policies independent of government regulations. The Pope is the supreme authority of the church, and he has the power to make decisions on behalf of the church. The Vatican, the headquarters of the Roman Catholic Church in Rome, oversees the church’s worldwide network and ensures that all members of the church adhere to its policies and beliefs. What Is The Role of Priests in the Roman Catholic Church? Priests are a vital part of the Roman Catholic Church. They are ordained by the church to perform sacraments such as baptism, weddings, and funerals, and to lead masses and confessions. Additionally, priests provide spiritual guidance, counsel and support, and lead groups and ministries within the church. Where Can I Find Roman Catholic Churches Near Me? You can find Roman Catholic churches near you by using church locator websites such as MassTimes.org, CatholicMassTime.org, or by contacting your local parish. You can also visit the Vatican website to find a church in your area. What Should I Expect When Attending a Roman Catholic Church? When you attend a Roman Catholic Church, you can expect to participate in a mass, which includes hymns, prayers, and the sacraments. You will also find the church filled with Catholic artwork, statues of saints, and other religious artifacts that reflect the faith and traditions of the church. Do I Need To Be Catholic To Attend A Roman Catholic Church? No, you do not need to be Catholic to attend a Roman Catholic Church. The church welcomes people of all faiths and backgrounds to attend its services and participate in its programs. However, the sacraments are reserved for Catholics who have been baptized and confirmed in the church. What Is The Significance of The Eucharist in The Roman Catholic Church? The Eucharist is a central sacrament in the Roman Catholic Church, and it refers to the bread and wine that are consecrated during mass and represent the body and blood of Christ. The Eucharist is a symbol of the sacrificial death of Jesus Christ and is believed to be the source of spiritual nourishment that is essential for Christians. What Are The Seven Sacraments Observed by The Roman Catholic Church? The seven sacraments of the Roman Catholic Church are baptism, confirmation, the Eucharist, penance, anointing of the sick, holy orders, and matrimony. These sacraments are key to the church’s spiritual beliefs and traditions and provide the faithful with a means of connecting with God. What Are The Basic Beliefs of The Roman Catholic Church? The Roman Catholic Church is founded on the belief in God, the Holy Trinity, the Bible as the word of God, the teachings of Jesus Christ, and the role of the church in providing spiritual guidance, support, and education. The church also upholds teachings on morality, social justice, and respect for human rights. What Is The Papacy and The Role of The Pope in The Roman Catholic Church? The Pope is the spiritual leader of the Roman Catholic Church, and he is responsible for guiding the church’s worldwide network, policy-making, and shaping faith and policy. The Pope is considered the Bishop of Rome and the Successor of Peter, the Apostle. The Papacy exerts significant religious and political influence, overseeing the activities of over one billion Catholics worldwide. How Can I Get More Involved in The Roman Catholic Church? To get more involved in the Roman Catholic Church, attend regular mass, join a church group, enroll in a class or religious education, serve at church events, connect with church outreach programs, and participate in charity work. This helps you become an active, engaged member of the church community and strengthens your faith. What Is The Catholic Community Like? The Catholic community is a large and diverse group of individuals who share the common bond of faith, love, and respect for one another. The Catholic community extends beyond any particular church or parish and includes people of all races, cultures, and ages. The community is welcoming, supportive and values relationships, prayer, and outreach to others. How Can I Connect with Other Catholics? To connect with other Catholics, you can visit a nearby church, join a Catholic prayer or support group, attend a Catholic retreat, participate in volunteer activities, or connect through social media forums or online communities. You can also attend Catholic events or visit Shrines or pilgrimage sites. What Are Some Challenges of Being a Roman Catholic? Being a Roman Catholic can present challenges such as balancing secular life with religious devotion, reconciling Catholic traditions and beliefs with modern values and questions around the faith’s stance on various social, ethical or political issues. However, the support and community found in the Roman Catholic Church, along with the guidance and teachings of the faith, can help navigate these challenges and stay faithful to the church. Is It Difficult to Become a Roman Catholic? Becoming a Roman Catholic involves a process of religious education, baptism, confirmation, and participation in the sacraments. It is not difficult to become a Roman Catholic, but it requires a willingness to learn, connect with the Church’s teachings, and devote oneself to the Catholic community and traditions. Parish priests and religious education instructors can guide people interested in becoming Roman Catholics through the process.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "roman catholic church",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-25T21:17:19.761+03:00",
+    "updated": "2024-05-25T21:17:19.761+03:00"
+  }
+]

@@ -1,0 +1,595 @@
+[
+  {
+    "uuid": "012bd3e884b169ccd80d6876aae5aad20748067a",
+    "url": "https://www.helpnetsecurity.com/2024/11/15/sitting-ducks-attack",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Help Net Security",
+    "published": "2024-11-15T14:52:00Z",
+    "title": "Cybercriminals hijack DNS to build stealth attack networks",
+    "text": "Help Net Security November 15, 2024 Share Cybercriminals hijack DNS to build stealth attack networks\nHijacking domains using a ‘Sitting Ducks attack’ remains an underrecognized topic in the cybersecurity community. Few threat researchers are familiar with this attack vector, and knowledge is scarce. However, the prevalence of these attacks and the risk to organizations are significant.\nInfoblox researchers estimate that over 1 million registered domains could be vulnerable daily.\nMore evidence found on Sitting Ducks Attacks During a Sitting Ducks attack, the malicious actor gains control of a domain by taking over its DNS configurations. Cybercriminals have used this vector since 2018 to hijack tens of thousands of domain names. Victim domains include well-known brands, non-profits, and government entities.\nInfoblox crafted a monitoring initiative after the initial paper on Sitting Ducks attacks was published in July 2024. The results are very sobering, as 800,000 vulnerable domains were identified, and about 70,000 were later identified as hijacked.\nThe Vipers and Hawks Feasting on Sitting Ducks Attacks Vacant Viper is one of the earliest known threat actors to exploit the Sitting Ducks attack and has hijacked an estimated 2,500 domains each year since December 2019. This actor uses hijacked domains to augment their malicious traffic distribution system (TDS) called 404TDS to run malicious spam operations, deliver porn, establish remote access trojan ( RAT ) C2s, and drop malware such as DarkGate and AsyncRAT.\nVacant Viper does not hijack domains for a specific brand connection but instead for domain resources with high reputations that security vendors will not block. The newly published report lists examples of attack chains showing redirection techniques used by the 404TDS and their affiliates, including how Vacant Viper uses hijacked domains in the 404TDS.\nVextrio Viper This actor has used hijacked domains as part of their massive TDS infrastructure since early 2020. Vextrio runs the most extensive known cybercriminal affiliate program, routing compromised web traffic to over 65 affiliate partners, some of whom have also stolen domains via ‘Sitting Ducks’ for their malicious activities.\nMany affiliates use a Russian antibot service to filter out bots and security researchers. The functionality of AntiBot includes the ability to set rules to block certain bot services or users based on their IP geolocation, user-agent, etc.\nHorrid Hawk and Hasty Hawk The animal designation of Hawks was given because the threat actors swoop in and hijack vulnerable domains, much like hawks dive down to snatch their prey. Infoblox has named several new actors thriving on hijacked domains.\nHorrid Hawk: A DNS threat actor that has been hijacking domains and using them for investment fraud schemes since at least February 2023. This actor is interesting because they use hijacked domains in every step of their campaigns, crafting convincing lures containing non-existent government investment programs or summits. They embed the hijacked domains in short-lived Facebook ads targeting users in over 30 languages, spanning multiple continents.\nHasty Hawk: Another threat actor discovered during our research into ‘Sitting Ducks’ hijackings. Since at least March 2022, Hasty Hawk has hijacked over 200 domains to operate widespread phishing that primarily spoof DHL shipping pages and fake donation sites to support Ukraine.\nThe actor exploits many providers, often reconfiguring hijacked domains to host content on Russian IPs. Hasty Hawk uses Google ads and other means, such as spam messages, to distribute malicious content. They also use a TDS to route users to different webpages that vary in content and language depending on their geolocation and other user characteristics. Hasty Hawk switches some of their domains back and forth between various campaign themes.\nMore about attacks cybercrime DNS hijacking Infoblox report Share",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://en.wikipedia.org/wiki/Remote_desktop_software#RAT",
+      "https://www.en.wikipedia.org/wiki/Remote_desktop_software#RAT"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Sitting Ducks",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "012bd3e884b169ccd80d6876aae5aad20748067a",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T17:18:29.399+02:00",
+    "updated": "2024-11-15T18:12:15.483+02:00"
+  },
+  {
+    "uuid": "98ee9ddb68b0776f89d9c9796cf57b194dd51cad",
+    "url": "https://brocku.ca/brock-news/2024/02/brock-prof-among-international-experts-to-speak-at-sustainability-panel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Brock News",
+    "published": "2024-02-15T21:26:00Z",
+    "title": "Brock prof among international experts to speak at sustainability panel",
+    "text": "Liette Vasseur, Brock University Professor of Biology and UNESCO Chair on Sustainability: From Local to Global, will be a panelist at “Identify and break the barriers to move beyond sustainability to transformative thinking,” taking place on Thursday, Feb. 22.\nAn upcoming public talk featuring a panel of international researchers will discuss the radical thinking and urgent changes needed to preserve life on Earth.\n“Identify and break the barriers to move beyond sustainability to transformative thinking” will take place Thursday, Feb. 22 at 6:30 p.m. in the Newman Room at the Four Points by Sheraton, located at 3530 Schmon Parkway in Thorold.\nBrock Professor of Biology Liette Vasseur is hosting the event and will be among the panelists. The UNESCO Chair on Community Sustainability: From Local to Global says experts from a variety of disciplines will share their perspectives on what it means to move beyond sustainability and will present examples of radical transformation that can restore the health of Earth for human survival.\n“Much needs to be done, and with the accelerated planetary changes, we urgently need to elevate the discussion,” says Vasseur. “Transformative thinking and concrete actions are needed to transform our world’s current unsustainable systems.”\nPanelists include:\n- Simone Bignall, Senior Researcher at the University of Technology’s Jumbunna Research Hub for Indigenous Nations and Collaborative Futures in Sydney, Australia\n- Jacqueline Corbett, Professor of Management Information Systems at Université Laval in Laval, Que.\n- Mike Jones, an instructor and researcher at the Uppsala University and the Swedish University of Agricultural Sciences Centre for Biological Diversity in Uppsala, Sweden\n- Christie Manning, Professor of Environmental Studies at Macalester College in St. Paul, Minn.\n- Liette Vasseur, UNESCO Chair on Community Sustainability and Professor of Biology at Brock University\nThere will be time for the public to comment and ask questions of the experts to further the discussion.\nThe event is part of a larger project,\nBeyond Sustainability: Radical Transformation Through System Thinking, co-led by Vasseur and Professor of Philosophy Christine Daigle, Director of Brock’s Posthumanism Research Institute. Supported by a New Frontiers in Research Fund (NFRF) – Exploration grant, which is funded by the Government of Canada, the project brings together experts in environmental science, philosophy, economics, Indigenous culture, performing arts, literature and political science to work with local and international community groups on creating a more sustainable social-ecological system.\nWhile in town, Vasseur and the other panelists will be participating in a NFRF-supported international “think tank” at the Brock LINC Research Impact Hub from Wednesday, Feb. 21 to Friday, Feb. 23 to continue the conversation and plan for further action.\nRegistration is not required to attend “Identify and break the barriers to move beyond sustainability to transformative thinking.” For more information, please email Brock NFRF Research Assistant Jocelyn Baker at",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Science and Technology",
+      "Education"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "liette vasseur",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brock",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brock professor of biology liette vasseur",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "brock university",
+          "sentiment": "negative"
+        },
+        {
+          "name": "unesco",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sheraton",
+          "sentiment": "none"
+        },
+        {
+          "name": "global",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "earth",
+          "sentiment": "none"
+        },
+        {
+          "name": "newman room",
+          "sentiment": "none"
+        },
+        {
+          "name": "thorold",
+          "sentiment": "none"
+        },
+        {
+          "name": "schmon parkway",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-16T01:17:48.590+02:00",
+    "updated": "2024-02-16T01:17:48.590+02:00"
+  },
+  {
+    "uuid": "f79673ed438aca9a2ae100276f05362b0cfe0ced",
+    "url": "https://www.foxcarolina.com/video/2024/03/14/world-kidney-day-hopes-raise-awareness-those-affected-by-kidney-disease",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@foxcarolinanews",
+    "published": "2024-03-14T00:00:00Z",
+    "title": "World Kidney Day hopes to raise awareness for those affected by kidney disease",
+    "text": "Updated: 22 minutes ago| We're now learning new details about what caused thousands in the Upstate to lose power and led to a massive backup on 85. Updated: 24 minutes ago| A man accused of killing a young motorcyclist in a crash pleaded guilty in court this afternoon. Updated: 25 minutes ago| A Greenwood man will spend almost two decades in prison after pleading guilty to what officials call a vicious assault. Updated: 4 hours ago| Youth summer art camp & spring sessions at the Greenville Center for Creative Arts Updated: 5 hours ago| Ingredients: Irish soda bread or a Brioch bread-cit out to a circle or leave whole Beech mushrooms , cooked or roast the mushrooms 4 oz beans/ baked or White beans 1 garlic clove 4 slices cooked bacon 1 small onion, diced Qauil egg or Chicken egg Banger sausage Chop bacon and add to sauce pan on med. heat, cook for 4 mins then add onion, garlic and beans. Cooke down to a paste consistency. Set aside Cut sausage in half lenth wise and cook in the sauce pan till done. Cook egg to preferred doneness Toast the bread, when toasted , add cooked sausage on top, and then the bean mix and then the cooked egg and mushroom on top",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "cook",
+          "sentiment": "none"
+        },
+        {
+          "name": "cooke",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "chicken egg banger",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "greenwood",
+          "sentiment": "none"
+        },
+        {
+          "name": "greenville center",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-15T00:49:43.485+02:00",
+    "updated": "2024-03-15T00:49:43.485+02:00"
+  },
+  {
+    "uuid": "132317c7d57633b7b4564bf4e9925d093c4cd9af",
+    "url": "https://newstral.com/en/article/en/1260486387/pssd-what-happens-when-antidepressants-kill-your-sex-drive",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newstral.com",
+    "published": "2024-11-22T00:00:00Z",
+    "title": "dazeddigital.com: «PSSD: What happens when antidepressants kill your sex drive» - Related news - Newstral.com",
+    "text": "Newstral\nArticle\n[dazeddigital.com](/en/sources/202943) on 2024-11-22 15:36\nPSSD: What happens when antidepressants kill your sex drive\nRelated news\n[8 Women Share What Happened When Antidepressants Killed Their Sex Drive](http://www.huffingtonpost.com/2015/04/15/antidepressants-decreased-my-sex-drive_n_7024738.html)[huffingtonpost.com](/en/sources/3329),,,,[sex work: What Happens When Sex Workers Put Women of Color First](https://www.vice.com/en_us/article/bjyp35/what-happens-when-sex-workers-put-women-of-color-first)[Vice (US)](/en/sources/31273)[Some tips for boosting low sex drive when nothing else works](https://nypost.com/2020/02/21/some-tips-for-boosting-low-sex-drive-when-nothing-else-works/)[New York Post](/en/sources/128)[When Brexit Happens, Will Hunger Pangs Follow?](https://www.nytimes.com/2019/01/30/business/brexit-food-shortages.html?partner=rss&emc=rss)[The New York Times](/en/sources/11),,,,[What happens when beer goes bad](http://news.com.au.feedsportal.com/c/34564/f/632404/s/42419bb1/sc/10/l/0L0Snews0N0Bau0Clifestyle0Cfood0Cwhen0Ebeer0Egoes0Ebad0E80Ethings0Eto0Ebeware0Enext0Etime0Eyou0Egrab0Ea0Ecoldie0Cstory0Efneuz92c0E12271836298630Dfrom0Fpublic0Irss/story01.htm)[news.com.au](/en/sources/30336)[What happens when financial opposites attract?](https://www.brisbanetimes.com.au/money/planning-and-budgeting/what-happens-when-financial-opposites-attract-20180212-h0vxn2.html?utm_medium=rss&utm_source=rss_feed)[Sydney Morning Herald](/en/sources/228)[What Happens When Billionaires Children Inherit](https://www.forbes.com/sites/oliverwilliams1/2019/04/24/what-happens-when-billionaires-children-inherit/)[Forbes](/en/sources/2783)[I](http://indefinitelywild.gizmodo.com)[What Happens When You Get A Parasite](http://indefinitelywild.gizmodo.com/what-happens-when-you-get-a-parasite-1732054948)[indefinitelywild.gizmodo.com](/en/sources/4030),,,,[What Happens When Progressives Tax (and Spend)](http://canadafreepress.com/index.php/article/68852)[canadafreepress.com](/en/sources/30289)[B](http://www.barrons.com)[What Happens When Governments Go Crypto](https://www.barrons.com/articles/cryptocurrency-is-threatening-the-role-of-central-banks-why-governments-must-go-crypto-51619814196?mod=hp_minor_pos16)[barrons.com](/en/sources/200942),,,,[The future happens when legacies converge](https://timesofmalta.com/articles/view/the-future-happens-when-legacies-converge.862351)[timesofmalta.com](/en/sources/30226)[What happens when music is criminalised?](https://www.euronews.com/culture/2022/05/26/what-happens-when-a-country-criminalises-music)[euronews](/en/sources/403),,,,[What happens to racehorses when they retire?](https://www.northernstar.com.au/news/what-happens-to-racehorses-when-they-retire/3576611/)[northernstar.com.au](/en/sources/30487)[Venezuela: What happens when socialism fails](https://www.foxnews.com/media/venezuela-what-happens-when-socialism-fails)[Fox News](/en/sources/2556),,,,[What happens when radio has pictures?](http://www.newstatesman.com/culture/tv-radio/2016/04/what-happens-when-radio-has-pictures)[New Statesman](/en/sources/405)[What happens when a theme park dies](http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11737073)[NZ Herald](/en/sources/229)[What happens when you don’t get drafted?](http://lasvegassun.com/news/2015/jul/12/what-happens-when-you-dont-get-drafted/)[lasvegassun.com](/en/sources/28488),,,,[What happens when flu meets Covid-19?](https://www.herald.co.zw/what-happens-when-flu-meets-covid-19/)[herald.co.zw](/en/sources/221090),,,,[What happens when the queen dies?](http://www.metro.us/news/what-happens-when-queen-elizabeth-ii-dies)[metro.us](/en/sources/222085)[What happens when solar panels die?](https://www.engadget.com/science/what-happens-when-solar-panels-die-140019832.html?src=rss)[engadget](/en/sources/283),,,,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.forbes.com/sites/oliverwilliams1/2019/04/24/what-happens-when-billionaires-children-inherit/",
+      "http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11737073",
+      "https://www.northernstar.com.au/news/what-happens-to-racehorses-when-they-retire/3576611/",
+      "https://timesofmalta.com/articles/view/the-future-happens-when-legacies-converge.862351",
+      "https://www.herald.co.zw/what-happens-when-flu-meets-covid-19/",
+      "https://nypost.com/2020/02/21/some-tips-for-boosting-low-sex-drive-when-nothing-else-works/",
+      "http://lasvegassun.com/news/2015/jul/12/what-happens-when-you-dont-get-drafted/",
+      "http://www.barrons.com",
+      "https://www.engadget.com/science/what-happens-when-solar-panels-die-140019832.html?src=rss",
+      "http://indefinitelywild.gizmodo.com",
+      "http://www.huffingtonpost.com/2015/04/15/antidepressants-decreased-my-sex-drive_n_7024738.html",
+      "http://canadafreepress.com/index.php/article/68852",
+      "http://www.metro.us/news/what-happens-when-queen-elizabeth-ii-dies",
+      "https://www.brisbanetimes.com.au/money/planning-and-budgeting/what-happens-when-financial-opposites-attract-20180212-h0vxn2.html?utm_medium=rss&utm_source=rss_feed",
+      "http://indefinitelywild.gizmodo.com/what-happens-when-you-get-a-parasite-1732054948",
+      "https://www.euronews.com/culture/2022/05/26/what-happens-when-a-country-criminalises-music",
+      "https://www.barrons.com/articles/cryptocurrency-is-threatening-the-role-of-central-banks-why-governments-must-go-crypto-51619814196?mod=hp_minor_pos16",
+      "http://www.newstatesman.com/culture/tv-radio/2016/04/what-happens-when-radio-has-pictures",
+      "https://www.nytimes.com/2019/01/30/business/brexit-food-shortages.html?partner=rss&emc=rss",
+      "https://www.vice.com/en_us/article/bjyp35/what-happens-when-sex-workers-put-women-of-color-first",
+      "http://news.com.au.feedsportal.com/c/34564/f/632404/s/42419bb1/sc/10/l/0L0Snews0N0Bau0Clifestyle0Cfood0Cwhen0Ebeer0Egoes0Ebad0E80Ethings0Eto0Ebeware0Enext0Etime0Eyou0Egrab0Ea0Ecoldie0Cstory0Efneuz92c0E12271836298630Dfrom0Fpublic0Irss/story01.htm",
+      "https://www.foxnews.com/media/venezuela-what-happens-when-socialism-fails",
+      "http://www.indefinitelywild.gizmodo.com/what-happens-when-you-get-a-parasite-1732054948",
+      "https://barrons.com/articles/cryptocurrency-is-threatening-the-role-of-central-banks-why-governments-must-go-crypto-51619814196?mod=hp_minor_pos16",
+      "http://newstatesman.com/culture/tv-radio/2016/04/what-happens-when-radio-has-pictures",
+      "http://nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11737073",
+      "https://www.timesofmalta.com/articles/view/the-future-happens-when-legacies-converge.862351",
+      "http://www.nzherald.co.nz/business/news/article.cfm",
+      "http://www.canadafreepress.com/index.php/article/68852",
+      "https://nypost.com/2020/02/21/some-tips-for-boosting-low-sex-drive-when-nothing-else-works",
+      "http://www.indefinitelywild.gizmodo.com",
+      "https://www.nytimes.com/2019/01/30/business/brexit-food-shortages.html",
+      "https://forbes.com/sites/oliverwilliams1/2019/04/24/what-happens-when-billionaires-children-inherit/",
+      "https://brisbanetimes.com.au/money/planning-and-budgeting/what-happens-when-financial-opposites-attract-20180212-h0vxn2.html?utm_medium=rss&utm_source=rss_feed",
+      "https://engadget.com/science/what-happens-when-solar-panels-die-140019832.html?src=rss",
+      "https://www.barrons.com/articles/cryptocurrency-is-threatening-the-role-of-central-banks-why-governments-must-go-crypto-51619814196",
+      "http://barrons.com",
+      "https://vice.com/en_us/article/bjyp35/what-happens-when-sex-workers-put-women-of-color-first",
+      "https://www.northernstar.com.au/news/what-happens-to-racehorses-when-they-retire/3576611",
+      "http://www.news.com.au.feedsportal.com/c/34564/f/632404/s/42419bb1/sc/10/l/0L0Snews0N0Bau0Clifestyle0Cfood0Cwhen0Ebeer0Egoes0Ebad0E80Ethings0Eto0Ebeware0Enext0Etime0Eyou0Egrab0Ea0Ecoldie0Cstory0Efneuz92c0E12271836298630Dfrom0Fpublic0Irss/story01.htm",
+      "https://www.herald.co.zw/what-happens-when-flu-meets-covid-19",
+      "https://foxnews.com/media/venezuela-what-happens-when-socialism-fails",
+      "https://northernstar.com.au/news/what-happens-to-racehorses-when-they-retire/3576611/",
+      "https://www.engadget.com/science/what-happens-when-solar-panels-die-140019832.html",
+      "https://herald.co.zw/what-happens-when-flu-meets-covid-19/",
+      "https://www.brisbanetimes.com.au/money/planning-and-budgeting/what-happens-when-financial-opposites-attract-20180212-h0vxn2.html",
+      "http://metro.us/news/what-happens-when-queen-elizabeth-ii-dies",
+      "https://nytimes.com/2019/01/30/business/brexit-food-shortages.html?partner=rss&emc=rss",
+      "http://www.lasvegassun.com/news/2015/jul/12/what-happens-when-you-dont-get-drafted/",
+      "http://lasvegassun.com/news/2015/jul/12/what-happens-when-you-dont-get-drafted",
+      "https://www.forbes.com/sites/oliverwilliams1/2019/04/24/what-happens-when-billionaires-children-inherit",
+      "https://www.nypost.com/2020/02/21/some-tips-for-boosting-low-sex-drive-when-nothing-else-works/",
+      "https://euronews.com/culture/2022/05/26/what-happens-when-a-country-criminalises-music",
+      "http://huffingtonpost.com/2015/04/15/antidepressants-decreased-my-sex-drive_n_7024738.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "New York Times",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T17:13:24.582+02:00",
+    "updated": "2024-11-22T17:13:24.582+02:00"
+  },
+  {
+    "uuid": "baf6b2f9a5f8210114c2e309745b9afb46ade776",
+    "url": "https://theglobalherald.com/news/skunk-water-sprayed-at-worshippers-near-al-aqsa-mosque/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TheGlobalHerald",
+    "published": "2023-12-29T11:12:00Z",
+    "title": "Skunk water sprayed at worshippers near Al-Aqsa Mosque - The Global Herald",
+    "text": "Al Jazeera English published this video item, entitled “Skunk water sprayed at worshippers near Al-Aqsa Mosque” – below is their description. There has been a skunk water truck which has been spraying water towards Palestinians and Muslim worshippers. This produces an awful smell, which has been drifting in the air. People have also been attacked with tear gas grenades. The reason why there are these confrontations is that, since October 7, there have been vast restrictions on Muslims entering the place they revere as the third holiest place in Islam, the Al-Aqsa Mosque compound. The Israelis are only allowing people over 45 years old, but even then, they can restrict them. We have only seen about 3,00 to 4,000 worshippers in the past two weeks. Usually, you’d have between 50,000 and 60,000 people praying in the mosque. So there’s been real tension here.Al Jazeera English YouTube Channel Got a comment? Leave your thoughts in the comments section, below. Please note comments are moderated before publication.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "global herald al jazeera",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jazeera english youtube channel got",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-aqsa mosque",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "al-a",
+          "sentiment": "none"
+        },
+        {
+          "name": "al-aqsa mosque",
+          "sentiment": "none"
+        },
+        {
+          "name": "islam",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T13:46:14.478+02:00",
+    "updated": "2023-12-29T13:46:14.478+02:00"
+  },
+  {
+    "uuid": "d8920d0875508ae4611da95304de3e26c696c59d",
+    "url": "https://english.vov.vn/en/society/ho-chi-minh-city-cancels-may-1-drone-light-show-post1196285.vov",
+    "ord_in_thread": 0,
+    "author": "VOV",
+    "published": "2025-05-01T03:57:00Z",
+    "title": "Ho Chi Minh City cancels May 1 drone light show",
+    "text": "Ho Chi Minh City cancels May 1 drone light show Thursday, 10:57, 01/05/2025 VOV.VN - Ho Chi Minh City’s Department of Culture and Sports has announced that the planned drone light show featuring 10,500 unmanned aerial vehicles (drones) on the evening of May 1 will be canceled.\nA rehearsal of 10,500-drone light show over Saigon River on April 28 On April 30, the city had attempted to launch the show, but it was suspended due to signal interference. “To ensure flight safety, the organizing unit decided to halt the performance and retrieve the drones,” the department added.\nEarlier, on April 28, the city held a rehearsal of the light show featuring 10,500 drones.\nThe event received enthusiastic support from a large number of residents and visitors. This was the largest drone light show ever held in Ho Chi Minh City.\nHCM City to celebrate national reunification with record-breaking drone show Ho Chi Minh City is set to celebrate the 50th anniversary of southern liberation and national reunification on April 30 with a spectacular lineup of events, headlined by a world-record attempt featuring 10,500 drones in a stunning light show.\nVOV",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->leisure",
+      "Lifestyle and Leisure->travel and tourism",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fenglish.vov.vn%2Fen%2Fsociety%2Fho-chi-minh-city-cancels-may-1-drone-light-show-post1196285.vov",
+      "https://news.google.com/publications/CAAqBwgKMPHQsAsw_uvHAw",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://www.news.google.com/publications/CAAqBwgKMPHQsAsw_uvHAw",
+      "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fenglish.vov.vn%2Fen%2Fsociety%2Fho-chi-minh-city-cancels-may-1-drone-light-show-post1196285.vov"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ho Chi Minh Cit",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "HCM City",
+          "sentiment": "none"
+        },
+        {
+          "name": "Saigon",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:10:14.992+03:00",
+    "updated": "2025-05-01T04:12:53.000+00:00"
+  },
+  {
+    "uuid": "6e3514e2b035bc43dcf1bff000a56d972b56b83a",
+    "url": "https://news.knowledia.com/FR/fr/articles/un-trafic-tres-lucratif-face-au-pillage-des-arbres-les-forestiers-d5adcd3e720a22bfb116e754d178a8d72bc77d1d",
+    "ord_in_thread": 0,
+    "author": "Éric De La Chesnais",
+    "published": "2025-04-09T21:53:56Z",
+    "title": "«Un trafic très lucratif» : face au pillage des arbres, les forestiers s'organisent",
+    "text": "Les vols de bois se multiplient en France, notamment dans le Grand Est où des parcelles entières sont coupées par des malfrats qui envoient la marchandise à l'étranger. Réservé aux abonnés\nIls avaient trouvé leur petit coin de bonheur où ils venaient s'oxygéner le dimanche avec leurs deux petits garçons. « En mai 2022, nous avons acheté un bout de forêt sur la commune de Yutz en Moselle, raconte Éric Guillemaille, cadre chez GRDF. Une parcelle de 1,25 hectare sur laquelle poussaient de très beaux…\nÉric De La Chesnais",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->vandalism",
+      "Crime, Law and Justice->organised crime",
+      "Environment->conservation",
+      "Environment->environmental pollution",
+      "Environment->nature",
+      "Social Issue->social condition",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.lefigaro.fr/sciences/un-trafic-tres-lucratif-face-au-pillage-des-arbres-les-forestiers-s-organisent-20250409",
+      "https://lefigaro.fr/sciences/un-trafic-tres-lucratif-face-au-pillage-des-arbres-les-forestiers-s-organisent-20250409"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:53:56.284+03:00",
+    "updated": "2025-04-10T00:53:56.284+03:00"
+  },
+  {
+    "uuid": "c69527ae0be58974c4f545ee89e84c9327a5ee65",
+    "url": "https://www.newsbytesapp.com/news/lifestyle/autumnal-forest-hikes-in-bavaria/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anujj Trehaan",
+    "published": "2024-07-19T02:55:00Z",
+    "title": "Go for these forest hikes in Bavaria",
+    "text": "Bavaria, Germany, is a treasure trove of natural beauty, especially during fall when the forests turn into a vibrant palette of colors. The crisp air and the rustling leaves underfoot create an enchanting atmosphere for hikers. This guide highlights five must-visit forest trails that promise breathtaking views and a serene hiking experience in the heart of Bavaria's autumnal landscape. Tegernsee is more than just a lake; it's an autumnal wonderland surrounded by forests that blaze with color during the fall. The Neureuth trail offers panoramic views of the lake against a backdrop of golden larches and fiery maples. This moderate hike is about six kilometers long, making it perfect for a day trip filled with stunning vistas and peaceful moments in nature. Nestled on the border with Austria, Berchtesgaden National Park is renowned for its breathtaking alpine scenery and untouched woodlands. The Wimbachklamm gorge hike invites you on a journey through enchanting forests ablaze with autumn colors, alongside the soothing sounds of rushing streams and cascading waterfalls. This trail, ranging from easy to moderate difficulty, truly encapsulates the essence of Bavarian wilderness in the fall season. Just outside Nuremberg, the Lorenzer Reichswald is a dense forest rich in history and natural beauty. In fall, this area transforms into a vibrant mosaic of colors, making it perfect for leisurely hikes or bike rides along its well-marked paths. It's especially appealing for those eager to combine outdoor activities with a touch of historical exploration, offering a unique experience amidst the changing seasons. Near the famous Neuschwanstein Castle, Fussen offers hikers the Lechfall trail—a path that winds through vibrant forests alongside the Lech River. In autumn, this trail becomes even more magical as the foliage turns brilliant shades of orange and red. It's an easy hike suitable for all ages, offering enchanting views that seem straight out of a storybook. For those seeking adventure at higher altitudes, Garmisch-Partenkirchen offers the Partnachklamm gorge hike. This trail, encircled by cliffs adorned in autumn's palette, blends natural beauty with a physical challenge. Hikers can experience the beauty of cascading waterfalls weaving through forests of golden trees. This unforgettable journey showcases some of Bavaria's most spectacular landscapes, ideal for immersing oneself in the tranquility of nature's autumnal change.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "tegernsee tegernsee",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bavaria bavaria",
+          "sentiment": "none"
+        },
+        {
+          "name": "bavaria",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        },
+        {
+          "name": "austria",
+          "sentiment": "none"
+        },
+        {
+          "name": "berchtesgaden",
+          "sentiment": "none"
+        },
+        {
+          "name": "berchtesgaden national park",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-19T08:27:26.389+03:00",
+    "updated": "2024-07-19T09:27:57.505+03:00"
+  },
+  {
+    "uuid": "2f6b4970661b8ed5ccf65e3e18eac510c974601c",
+    "url": "https://www.newsdirectory3.com/delhi-air-quality-plunges-to-severe-plus-category",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "newsdirectory3",
+    "published": "2024-12-19T21:35:00Z",
+    "title": "Delhi Air Quality Plunges to ‘Severe-Plus’ Category",
+    "text": "Delhi⁣ Gasps for Air as Pollution Reaches ‘Severe-Plus’ ‍Levels for Fourth Straight ‍Day Delhi’s air quality plummeted to alarming levels ⁢on Thursday,marking the⁣ fourth consecutive day the city has been shrouded in a thick blanket of smog. The overall Air Quality Index (AQI) plunged into the ‘severe-plus’ category, raising serious health concerns for residents. ​While a slight improvement to the ‘severe’ ‌category is ⁢predicted for Friday, the situation remains dire.\n1200/POLLUTION%20STANDALONE%202024 19 12 8.jpg”/> 320/POLLUTION%20STANDALONE%202024 19 12 8.jpg”/>\n​ ‌ ‌People‌ wearing face masks amid thick smog in Delhi on Thursday.\n​ ⁣\n⁣ ‍ ⁣ ‌\nThe ‘severe-plus’ category, with an AQI reading between 451‍ and 500, ​poses significant health risks, particularly for vulnerable populations like children, the elderly, and those with respiratory conditions.Delhi’s 24-hour⁣ average AQI reached a staggering 451 on Thursday.The alarming situation has sparked criticism from ⁣the opposition Bharatiya Janata Party⁢ (BJP). virendra Sachdeva, president of the ⁣BJP’s Delhi unit, accused the ruling Aam Aadmi Party (AAP)⁢ government of inaction.\n“People have been suffering ‌from pollution for an extended period,and for the last 72 hours,the city remains under Stage-IV of the ‌Graded Response Action Plan,” Sachdeva said.”This leaves all residents troubled‌ in one way or another. ⁤Neither Chief Minister Atishi ‌nor Surroundings Minister Gopal Rai⁣ has addressed the gravity‌ of the ‌situation.”\nThe city’s air quality is expected to remain a major concern in the coming days, highlighting the urgent need for effective ⁣measures to ⁤combat pollution and protect ⁢public health.\nPlease provide me with the context or the question ‌you’d like me⁤ to answer. I need more details to understand what you’re looking for. 😊\nsuch as, you could ask:\n“Can you write a short story about a talking cat?”\n“What are the main causes of climate change?”\n* “How do I bake a chocolate chip cookie?” ⁤\nI’m ready to help! 👍",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Health"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->air pollution",
+      "Health->health organisation",
+      "Health->public health"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/Kq6MsUcUBTI",
+      "https://th-i.thgim.com/public/incoming/pav1co/article69006425.ece/alternates/LANDSCAPE",
+      "https://youtube.com/embed/Kq6MsUcUBTI",
+      "https://www.th-i.thgim.com/public/incoming/pav1co/article69006425.ece/alternates/LANDSCAPE"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "virendra Sachdeva",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bharatiya Janata Party",
+          "sentiment": "none"
+        },
+        {
+          "name": "BJP",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T01:15:59.986+02:00",
+    "updated": "2024-12-20T01:15:59.986+02:00"
+  }
+]

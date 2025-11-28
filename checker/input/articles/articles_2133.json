@@ -1,0 +1,544 @@
+[
+  {
+    "uuid": "c119d388c290ebe89c37dcb0ccbd1f40b33684c0",
+    "url": "https://www.stheadline.com/health-edu/3469849/女子雙腿發癢以為皮膚過敏-求醫揭患肝癌-醫生籲皮膚現4異狀要留神",
+    "ord_in_thread": 0,
+    "author": "女子雙腿發癢以為皮膚過敏 求醫揭患肝癌 醫生籲皮膚現4異狀要留神",
+    "published": "2025-07-03T04:24:00Z",
+    "title": "女子雙腿發癢以為皮膚過敏 求醫揭患肝癌 醫生籲皮膚現4異狀要留神",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; const loadButtomAnchor = (isMobile) => { const ad = (isMobile ? adUnits_m['fadeinout'] : adUnits['fadeinout'])[0]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} fadeinout : Code:${ad.code} DIV: ${ad.divid}`); anchorSlot = googletag.defineOutOfPageSlot(ad.code, googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR); Object.entries(page_level_kv).forEach(( [key, value]) => { anchorSlot.setTargeting(key, value); }); anchorSlot.addService(googletag.pubads()); googletag.display(anchorSlot); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); loadButtomAnchor(isMobileAds); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 星島學生報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 贏跑網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 Copyright © 2025 SingTao Ltd.All rights reserved. 女子雙腿發癢以為皮膚過敏 求醫揭患肝癌 醫生籲皮膚現4異狀要留神 醫生教室 更新時間：12:24 2025-07-03 HKT\n發佈時間：12:24 2025-07-03 HKT 字體大小 肝癌 是本港癌症第3位致命殺手，2023年更有逾千四人死於肝癌，佔癌症死亡總數的9.5%。要及早識別自己是否患上肝癌，經常留意皮膚狀況竟然也有效？內地一名女子因雙腿痕癢2個月，以為只是簡單過敏的她最終竟證實患上肝癌。有醫生指，若發現自己的皮膚出現4大異樣，有機會是肝癌徵兆。\n肝癌徵兆｜女子雙腿發癢以為皮膚過敏 求醫揭患肝癌 皮膚痕癢也是肝癌警號？據內地媒體 《潮新聞》 報道，杭州一位50歲女士在2個月前雙腿開始莫名痕癢，她最初以為是天氣潮濕、常吹冷氣引起的皮膚敏感，遂自行購買過敏藥服用；豈料痕癢狀況其後延伸至上半身，更越來越嚴重。李女士求醫後，醫生發現她肝臟有腫瘤，屬原發性肝癌，可幸的是李女士及早發現病況，手術切除腫瘤後，也正在康復中。\n自測 肝臟病變 徵兆：\n肝臟病變 4大警號： 杭州南星街社區健康服務中心全科醫生李曉強解釋，肝臟是個「沉默」器官，肝內沒有痛覺神經，就算肝細胞損傷得嚴重，身體也可能沒甚麼特別不舒服的感覺。因此，肝癌早期很會隱藏，不少人一發現肝癌就已是晚期。\n李醫生提醒，若皮膚出現以下4種異常要警惕肝臟病變，或是肝臟發出的「求救信號」：\n肝臟病變 警號 | 1. 皮膚痕癢 肝臟出現損傷，有可能會活化皮膚中的神經纖維，透過訊號傳導至神經中樞直達腦感覺皮質，進而產生皮膚痕癢問題。\n肝臟病變 警號 | 2. 皮膚發黃 肝功能受損時，體內膽紅素會積聚，有機會令皮膚發黃，尤其是眼白和皮膚表面可能呈現蠟黃色，即是黃疸。\n肝臟病變 警號 | 3. 蜘蛛痣 當肝臟受損時，對雌激素的代謝能力會受到影響，雌激素在血液中濃度升高，進而刺激皮膚毛細血管擴張，形成蜘蛛痣。蜘蛛痣特徵：\n皮膚表面呈紅色、紫色的小血管瘤 看起來像1隻蜘蛛 自測方法：按壓時蜘蛛痣會消失，鬆手後再次出現 肝臟病變 警號 | 4. 異常出血 肝臟是人體合成凝血因子的場所，與凝血功能相關。若肝功能受損，身體有機會出現以下異常出血：\n牙齦出血 皮膚出血點 消化道出血 肝癌9大症狀 腹脹/體重降恐是警號 根據香港 衞生署資料 ，肝癌是是肝細胞異常生長所形成的癌病，可分為「原發性肝癌」（在肝臟開始）或「繼發性肝癌」（源自另一器官及擴散至肝臟）。肝癌早期一般沒有任何病徵，其後較常出現以下徵狀：\n右上腹疼痛 發燒 皮膚及眼睛泛黃 腹部腫脹 小便呈茶色、大便呈淺灰色 食慾不振 噁心 體重下降 疲倦及虛弱 甚麼人更易患肝癌？ 除了乙型肝炎，還有甚麼因素容易引發肝癌？根據本港醫管局資料，有8大高危因素會增加患肝癌風險：\n乙肝病毒：慢性乙肝病毒攜帶者患肝癌的機會，比非乙肝病毒攜帶者大約高出100倍。 肝硬化：感染到乙型肝炎的人約在10年後才會出現慢性肝炎；大概再到21年後才會演變成肝硬化；肝硬化之後約29年才會變成肝癌。 丙型肝炎：慢性乙型和丙型肝炎攜帶病毒者患肝癌的機會大約比常人高150倍；因丙型肝炎而患肝癌者於西方國家較常見。 酗酒：濫用酒精的乙型肝炎帶病毒者患肝癌的機會比一般的帶病毒者高2倍。 非酒精性脂肪性肝病（NAFLD）及非酒精性脂肪肝（NASH）：肥胖、糖尿病，及其他代謝紊亂疾病均會使到肝臟損害，從而導致肝硬化及肝癌。 進食有毒素的食物：花生及穀類果實中所發現的黃曲霉毒，在動物實驗中已被証實可導致肝癌。 長期受到某些環境、污染物侵害（如吸入製膠廠膠廠使用到的聚氯乙烯） 膽管炎或先天性膽總管囊腫，可引致膽管細胞癌。 資料來源： 《潮新聞》 、 衞生署 、 香港癌症資料統計中心\n延伸閱讀：改善脂肪肝不能戒碳水？醫生教7大飲食法則 吃這款零食護肝更降血糖血壓\n---\n相關文章：\n肝癌徵兆｜身體3部位生痣 男子求醫揭肝硬化 患肝癌死亡率極高\n自測肝病3大臉部徵兆 長這種痣恐中招？醫生教5招護肝排毒\n脂肪肝引發肝癌風險高17倍！推介2種水果改善脂肪肝 這樣吃更降血脂血糖\n肝臟科醫生教消除脂肪肝！把握4大飲水時機護肝 更可護腸減肥 起床後必飲？\n↓立即下載星島頭條App↓\n↓立即下載星島頭條App↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->medical condition",
+      "Health->health care approach",
+      "Social Issue->social problem",
+      "Social Issue->social services",
+      "Social Issue->disabilities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www3.ha.org.hk/cancereg/tc/default.asp",
+      "https://news.qq.com/rain/a/20250630A053G900",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://www3.ha.org.hk/cancereg/tc/topten.html",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.chp.gov.hk/tc/static/80048.html",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://chp.gov.hk/tc/static/80048.html",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://.ha.org.hk/cancereg/tc/topten.html",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://.ha.org.hk/cancereg/tc/default.asp",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://www.news.qq.com/rain/a/20250630A053G900",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982?src=embed",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://e.infogram.com/f3414dde-f901-49fe-bf90-c60280eef982",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "& TV",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TV",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:16:58.934+03:00",
+    "updated": "2025-07-04T06:07:54.000+00:00"
+  },
+  {
+    "uuid": "d273ef4344b4886110d933b38c28096dd2da0a0b",
+    "url": "https://www.opovo.com.br/noticias/fortaleza/2023/12/29/reveillon-da-paz-2024-tera-espaco-kids-pela-primeira-vez-e-bandas-referencias-do-mundo-gospel.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "O Povo",
+    "published": "2023-12-29T08:00:00Z",
+    "title": "Réveillon da Paz 2024 terá espaço kids pela primeira vez e bandas referências do mundo gospel",
+    "text": "Réveillon da Paz 2024 terá espaço kids pela primeira vez e bandas referências do mundo gospelÀ meia-noite, na virada do ano, todos estarão de joelhos diante de Jesus, para a realização do Santíssimo Sacramento [Gabriel Gago](https://www.opovo.com.br/autor/gabriel-gago/)Tipo [Notícia](https://www.opovo.com.br/conhecaopovo/tiposdenoticias) Elencar a fé com o desejo de próspero 2024. O \"Réveillon da Paz 2024\", que acontece no dia 31 de dezembro, a partir das 18 horas, é uma opção para famílias e religiosos que buscam uma virada do ano fora do convencional. O evento, com entrada gratuita, será no Condomínio Espiritual Uirapuru (CEU), em [Fortaleza](https://www.opovo.com.br/noticias/fortaleza/). A programação contará com louvor, pregação, Missa com o padre Antonio Furtado e Adoração ao Santíssimo Sacramento. Seja assinante O POVO+ Tenha acesso a todos os conteúdos exclusivos, colunistas, acessos ilimitados e descontos em lojas, farmácias e muito mais. [Assine](https://mais.opovo.com.br/) \"É um momento que marca muito a nossa vida, porque estamos entrando em um ano novo na presença D'Aquele que é o Rei dos reis e o Senhor dos senhores. Nada melhor do que ficar na presença de Deus, e o Réveillon da Paz começa com a santa missa\", afirma o padre Antonio Furtado. Como ponto mais importante a se destacar, à meia-noite, todos estarão de joelhos diante de Jesus, para a realização do Santíssimo Sacramento. Para agitar o espaço, estarão presentes as bandas Sopragod, Naldo José e Missionário Shalom, sucessos do meio artístico gospel. A comunidade também motiva o público a doar 1 quilo (kg) de alimento não perecível, que será doado aos projetos de promoção humana do Shalom. Novidade e Buffet open food A novidade deste ano é a presença de um ambiente voltado para o público infantil, com brinquedos e atividades lúdicas. O \"Passaporte Kids\", que oferece apenas direito aos brinquedos, custa R$ 35. Haverá, também, um local open food próximo ao palco, com uma área de mesas e serviço de buffet. Quem optar por adquirir mesa ficará em um espaço reservado e terá direito à \"ceia\" (com entrada, jantar e sobremesa). As vendas são feitas por meio do site do evento. Os valores giram em torno de R$ 159,90, o pacote mais caro, e R$ 119,90, valor destinado à crianças de 7 a 12 anos de idade. Para crianças de até 6 anos, o buffet é gratuito. Serviço Réveillon da Paz 2024 Quando: 31 de dezembro Onde: Condomínio Espiritual Uirapuru (CEU), na av. Alberto Craveiro, 2222 - Castelão Horário: A partir das 18 horas Estacionamento: R$ 16 (carro)/ R$ 8 (moto) Mais informações: [https://www.reveillondapaz.com.br](https://www.reveillondapaz.com.br) [Fale com a gente](https://www.opovo.com.br/falecomagente)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.reveillondapaz.com.br",
+      "https://www.reveillondapaz.com.br)",
+      "https://reveillondapaz.com.br)",
+      "https://reveillondapaz.com.br"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T14:55:42.407+02:00",
+    "updated": "2023-12-29T14:55:42.407+02:00"
+  },
+  {
+    "uuid": "9da6bea0fb5ace55d567899096422e59749f6329",
+    "url": "https://vancouver.citynews.ca/2025/04/16/surrey-health-care-workers-demand-immigration-justice-protest-pnp-cuts",
+    "ord_in_thread": 0,
+    "author": "Jan Schuermann",
+    "published": "2025-04-16T21:13:00Z",
+    "title": "Surrey health-care workers demand immigration justice",
+    "text": "Surrey health-care workers demand immigration justice\nPosted April 16, 2025 2:13 pm.\nLast Updated April 16, 2025 2:19 pm.\nHealth-care workers will hold a rally in Surrey on Thursday to protest federal cuts to an immigration policy that threaten their path to permanent residency.\nOn Tuesday, the B.C. government said the odds of new applications from immigrants looking to be accepted into its Provincial Nominee Program (PNP) this year have dropped to near zero for anyone other than health workers or entrepreneurs after the federal government slashed the number of available slots.\nA bulletin from the province says it was only allotted 4,000 nominations this year, about half of what it had last year and substantially less than the 11,000 it wanted.\nIt says the program, which helps immigrants already living in Canada gain permanent residency if they fill key jobs, will accept 1,100 new applications this year, mainly for doctors, nurses, and other health professionals, as well as entrepreneurs.\nThursday’s protest aims to pressure the government on restoring PNP spots for housekeepers, dietary aides, relational security officers, and many more health-care workers—people who rely on the immigration policy for a permanent, fair pathway to permanent residency.\nThe Hospital Employees’ Union (HEU) argues that B.C. can not afford to lose these essential health-care workers since the province is already struggling with health-care staffing shortages.\nThe union also stresses that the people affected by the PNP cuts are essential health-care workers with hard-to-fill jobs.\nHEU, which has more than 60,000 members in the province, says the protest will be held at King George Boulevard and will not disrupt hospital operations.\nThe rally is scheduled for 11 a.m. on Thursday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "Health"
+    ],
+    "topics": [
+      "Social Issue->immigration",
+      "Social Issue->social problem",
+      "Politics->political dissent",
+      "Politics->civil rights",
+      "Politics->government policy",
+      "Health->public health",
+      "Health->health organisation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "PNP",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:33:36.564+03:00",
+    "updated": "2025-04-17T00:33:36.564+03:00"
+  },
+  {
+    "uuid": "d8e090cab8853d5902ba068881504bef436634c9",
+    "url": "https://punchng.com/obi-decries-prolonged-fct-primary-school-teachers-strike",
+    "ord_in_thread": 0,
+    "author": "Makua Ubanagu",
+    "published": "2025-06-26T09:47:00Z",
+    "title": "FCT Teachers' Strike: Obi Condemns 3-Month School Closure",
+    "text": "Former Labour Party presidential candidate, Peter Obi, has raised concerns over the ongoing strike by public primary school teachers in the Federal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Politics",
+      "Social Issue"
+    ],
+    "topics": [
+      "Education->teachers",
+      "Education->school",
+      "Education->students",
+      "Politics->education policy",
+      "Politics->political candidates",
+      "Politics->political crisis",
+      "Social Issue->social services",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Peter Obi",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Labour Party",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Federal Capital Territory",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "d8e090cab8853d5902ba068881504bef436634c9",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T12:53:25.409+03:00",
+    "updated": "2025-06-26T15:21:15.396+03:00"
+  },
+  {
+    "uuid": "fe67b8e9dbcf60349665827fef0d1231540f81c3",
+    "url": "https://www.wsbradio.com/news/national/rob-manfred-says/P6BJOAX3JBXCUHMIY3TKW5UPAU",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jack Baer, Yahoo Sports",
+    "published": "2024-02-15T23:11:00Z",
+    "title": "Rob Manfred says tenure as MLB commissioner will end in 2029 – 95.5 WSB",
+    "text": "MLB commissioner Rob Manfred's tenure officially has an end date. Five years from now. Manfred told reporters at MLB spring training media day on Thursday that he will step down as commissioner in Jan. 2029, when his contract expires. Manfred [signed a four-year extension last summer that took his reign to nearly the end of the decade](https://sports.yahoo.com/mlb-commissioner-rob-manfred-receives-4-year-extension-from-owners-191217907.html). That timeframe will see Manfred spend 14 years as commissioner, which he said was enough. He will be 70 years old when that day comes. \"You can only have so much fun in one lifetime, Manfred said. \"I have been open with [the owners] about the fact that this is going to be my last term.\" Manfred has held baseball's top job since 2015, when he succeeded Bud Selig after a stint as the league's chief operating officer. He first started working with the league in 1987 and joined on a full-time basis in 1998. Before becoming commissioner, most of his production for MLB came at the bargaining table as one of the league's labor lawyers. He also led MLB's investigation of the Biogenesis PED scandal in 2012. Like every other major sports league, MLB franchise values have exploded under Manfred, which is what his 30 bosses care about. However, Manfred's legacy will be defined by much more than that. How will Rob Manfred's time as MLB commissioner be remembered? Manfred's time as commissioner has not been without criticism. Overall, he is not popular with fans (like most commissioners) and even less so with MLB players and their union that he has negotiated and lobbied against. It was under his watch that a lockout delayed the start of the 2022 season and nearly cost the league games, and there was also a significant conflict between the league and union over how to resume the 2020 season in the wake of the COVID-19 pandemic. The most controversial decision of Manfred's career is likely the resolution of the Houston Astros cheating scandal, as he was blasted by fans and some players for giving Astros players immunity in exchange for honesty about what transpired during their World Series run in 2017. In all likelihood, that might have been a decision Manfred needed to make, as the league had little leverage otherwise against the players, whose union would have pushed back hard on any real discipline. His bigger oversight might have been a failure to make sure players were documented to have received a memo in Sept. 2017 explicitly banning electronic sign-stealing, leaving open a legal defense for the union. Those episodes, in addition to Manfred's decision to move the 2021 All-Star Game from Atlanta to Colorado over a restrictive voter rights bill in Georgia, were the times Manfred most saw his own name in the headlines. There have been slower-moving disputes inside the league as well, such as the ongoing move of the Oakland Athletic and the MASN dispute between the Washington Nationals and Baltimore Orioles. The other side of Manfred's tenure has been MLB's rule changes in recent years. Manfred's constant refrain was to shorten games, which he accomplished with the pitch clock last season. Other changes have included a ban on defensive shifts and restricting pick-off moves, with [even more on the horizon](https://sports.yahoo.com/mlb-rule-changes-for-2024-amend-pitch-clock-runners-lane-and-more-205726234.html). And possibly robot umps. Manfred still has five more years on the job, which is plenty more time to make changes. He has [previously hinted at expanding MLB to 32 teams](https://sports.yahoo.com/rob-manfred-robot-umps-mlb-2024-expansion-32-teams-023056119.html), and you never know what scandal might pop up next.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "external_links": [
+      "https://sports.yahoo.com/mlb-rule-changes-for-2024-amend-pitch-clock-runners-lane-and-more-205726234.html).",
+      "https://sports.yahoo.com/rob-manfred-robot-umps-mlb-2024-expansion-32-teams-023056119.html),",
+      "https://sports.yahoo.com/mlb-commissioner-rob-manfred-receives-4-year-extension-from-owners-191217907.html).",
+      "https://www.sports.yahoo.com/mlb-rule-changes-for-2024-amend-pitch-clock-runners-lane-and-more-205726234.html).",
+      "https://www.sports.yahoo.com/mlb-commissioner-rob-manfred-receives-4-year-extension-from-owners-191217907.html).",
+      "https://www.sports.yahoo.com/rob-manfred-robot-umps-mlb-2024-expansion-32-teams-023056119.html),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rob manfred",
+          "sentiment": "negative"
+        },
+        {
+          "name": "manfred",
+          "sentiment": "negative"
+        },
+        {
+          "name": "bud selig",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wsb mlb",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mlb",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T01:37:53.902+02:00",
+    "updated": "2024-02-16T01:37:53.902+02:00"
+  },
+  {
+    "uuid": "bfc1211458467522b04a99bed1b37e5cef90f13b",
+    "url": "https://celebrity.nine.com.au/latest/rita-moreno-reveals-how-she-met-lenny-kravitz/c0fb8bc4-e656-449c-8f1f-ede9439a2673",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "9Honey Celebrity with CNN",
+    "published": "2024-04-18T21:20:00Z",
+    "title": "Rita Moreno reveals the 'astonishing' moment she met Lenny Kravitz",
+    "text": "Rita Moreno is a legend, but that doesn't stop her from introducing herself to those she admires. The EGOT (Emmy, Grammy, Oscar and Tony) winner shared just one such story on The Jennifer Hudson Show Thursday (US time). Moreno talked about attending this year's Academy Awards and afterwards the Vanity Fair party . She told Hudson that she doesn't get out much, but when she does she likes to do it up big. Watch the video above. READ MORE: Why Tom Selleck took a three-year break from acting Since she's a widow (her husband of 45 years Leonard Gordon passed away in 2010), Moreno said her date is often her daughter, Fernanda Luisa Gordon. She says she and Fernanda were attending the event together when she spotted rocker Lenny Kravitz at the party. READ MORE: Paul McCartney and John Lennon's sons release single together \"I said 'Let's go say hello,'\" Moreno recalled. \"She said 'Do you know him?' I said 'No,' but it's a party and he was all alone.\" The triple-threat singer, dancer and actress wasn't prepared for what happened next. \"I went to him and I said, 'Hello, I'm Rita Moreno' and at that point - you're not going to believe this - he fell to the floor and he got on his knees and he just went on and on and on about how much he's admired me all these years and all that kind of stuff,\" she said. READ MORE: Chris Hemsworth shares photos from sweet getaway with daughter \"But you know I nearly peed my britches.\" Moreno said she absolutely did not keep her cool and was \"astonished.\" In 1962, Moreno became the first Latina to win an Oscar when she when the Academy Award for supporting actress for her performance in the film version of the Broadway musical West Side Story. For a daily dose of 9Honey, subscribe to our newsletter here FOLLOW US ON WHATSAPP HERE : Stay across all the latest in celebrity, lifestyle and opinion via our WhatsApp channel. No comments, no algorithm and nobody can see your private details.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://imageresizer.static9.net.au/eiT7EcRIfhNXgPiK_6NLfD4V6cE=/0x0:1395x785/636x358/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://imageresizer.static9.net.au/gP1AeUZGX6cNyKBQn9aMX9yQhCk=/0x0:1395x785/792x446/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://imageresizer.static9.net.au/zWbz6rvCzNwzvC0oxa7TbyRClL8=/636x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://www.imageresizer.static9.net.au/pQ9SVpD9r6WqarICBxUr-FS90Aw=/0x0:1395x785/396x223/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://imageresizer.static9.net.au/g8X244lxlhSYQ9yDBSb7k9vyWm4=/792x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://www.imageresizer.static9.net.au/zWbz6rvCzNwzvC0oxa7TbyRClL8=/636x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://imageresizer.static9.net.au/tsygNAmSmlH6ZayV9NMaERBKCgs=/0x475:3333x2974/792x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://www.imageresizer.static9.net.au/XcHa-f6vnu37HWH-iF90iIIoE34=/0x475:3333x2974/636x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "http://www.youtube.com/watch?v=C4clDvJRqlQ",
+      "https://www.imageresizer.static9.net.au/V5--4g84n8xGLPFahOpoaRdZ4qw=/396x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://imageresizer.static9.net.au/UGnlAEa-TK7_Ng9YfKaGlFvvyJw=/0x0:1395x785/1274x717/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://www.imageresizer.static9.net.au/UGnlAEa-TK7_Ng9YfKaGlFvvyJw=/0x0:1395x785/1274x717/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://imageresizer.static9.net.au/qyWUNMo98-Oa_7OLOuJexQ5LetI=/0x475:3333x2974/396x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://imageresizer.static9.net.au/XcHa-f6vnu37HWH-iF90iIIoE34=/0x475:3333x2974/636x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "http://www.youtube.com/watch",
+      "https://www.imageresizer.static9.net.au/gP1AeUZGX6cNyKBQn9aMX9yQhCk=/0x0:1395x785/792x446/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://imageresizer.static9.net.au/s2PYZqQNN_n94uLAnV_uwgkfNac=/0x475:3333x2974/1274x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://imageresizer.static9.net.au/2kQfqzVB4lXdtU-QeMKViLFm3Qo=/1274x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://imageresizer.static9.net.au/V5--4g84n8xGLPFahOpoaRdZ4qw=/396x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://www.imageresizer.static9.net.au/tsygNAmSmlH6ZayV9NMaERBKCgs=/0x475:3333x2974/792x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://www.imageresizer.static9.net.au/eiT7EcRIfhNXgPiK_6NLfD4V6cE=/0x0:1395x785/636x358/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33",
+      "https://www.imageresizer.static9.net.au/s2PYZqQNN_n94uLAnV_uwgkfNac=/0x475:3333x2974/1274x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://www.imageresizer.static9.net.au/2kQfqzVB4lXdtU-QeMKViLFm3Qo=/1274x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "http://youtube.com/watch?v=C4clDvJRqlQ",
+      "https://www.imageresizer.static9.net.au/g8X244lxlhSYQ9yDBSb7k9vyWm4=/792x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fefc2054a-6e63-46fd-82bb-9042eaa79cec",
+      "https://www.imageresizer.static9.net.au/qyWUNMo98-Oa_7OLOuJexQ5LetI=/0x475:3333x2974/396x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F462fc077-e9b0-4439-8089-0074bb389181",
+      "https://imageresizer.static9.net.au/pQ9SVpD9r6WqarICBxUr-FS90Aw=/0x0:1395x785/396x223/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fc250d42f-6f56-484a-ac91-510570ff3c33"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "rita moreno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "lenny kravitz rita moreno",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "moreno",
+          "sentiment": "none"
+        },
+        {
+          "name": "tony",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom selleck",
+          "sentiment": "none"
+        },
+        {
+          "name": "lenny kravitz",
+          "sentiment": "none"
+        },
+        {
+          "name": "leonard gordon",
+          "sentiment": "none"
+        },
+        {
+          "name": "hudson",
+          "sentiment": "none"
+        },
+        {
+          "name": "fernanda luisa gordon",
+          "sentiment": "none"
+        },
+        {
+          "name": "fernanda",
+          "sentiment": "none"
+        },
+        {
+          "name": "oscar",
+          "sentiment": "none"
+        },
+        {
+          "name": "jennifer hudson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vanity fair oscar party",
+          "sentiment": "none"
+        },
+        {
+          "name": "vanity fair",
+          "sentiment": "none"
+        },
+        {
+          "name": "vanity fair after party",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:41:50.438+03:00",
+    "updated": "2024-04-19T01:30:46.385+03:00"
+  },
+  {
+    "uuid": "76d2b752b90551bc69dc3b6d9634aacac2afa9a9",
+    "url": "https://www.colombia.com/vida-y-estilo/esoterismo/asi-debes-hacer-el-ritual-de-las-12-uvas-para-atraer-la-prosperidad-en-ano-nuevo-442308",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alexandra Méndez",
+    "published": "2023-12-29T19:31:00Z",
+    "title": "Año nuevo: así debes hacer el ritual de las 12 uvas para atraer la prosperidad y la abundancia",
+    "text": "Alexandra Méndez• Colombia.com\nAño nuevo: así debes hacer el ritual de las 12 uvas para atraer la prosperidad y la abundancia\nDescubre la forma correcta de llevar a cabo el ritual de las 12 uvas y otras tradiciones que puedes poner en práctica para atraer la prosperidad.\nDescubre la forma correcta de llevar a cabo el ritual de las 12 uvas y otras tradiciones que puedes poner en práctica para atraer la prosperidad.\nA pocos días de que finalice el 2023, muchas personas se encuentran realizando los preparativos para celebrar la llegada del Año Nuevo en familia y con la mejor actitud. Como parte de las tradiciones de este festejo, algunas personas deciden poner en práctica algunos rituales y agüeros para atraer la prosperidad, la abundancia, el amor y la felicidad.\nUno de los más populares es el de las 12 uvas; sin embargo, tiene múltiples variantes. Por ello, en esta temporada diversos expertos en el tema del esoterismo y la ley de la atracción comparten la forma correcta de llevarlo a cabo dependiendo de lo que queramos conseguir el año que entra.\nPara atraer la abundancia y la prosperidad económica\nEl creador de contenido en TikTok, especialista en artes ocultas @\nivanixcot señala que el mejor ritual para atraer la estabilidad financiera y la abundancia económica consiste en comer 12 uvas a la media noche con el pie izquierdo levantando, y mientras lo haces debes sostener debajo del pie derecho una lista con tres deseos. Al finalizar las uvas, debes quemar el papel y lanzar las cenizas al aire.\nEn segundo lugar, expone que el día de Nochevieja debes traer contigo un total de 13 monedas o colocar un billete de alta denominación en tu bolsillo, cartera o zapato derecho para tener dinero todo el año.\nPara manifestar salud y armonía\nEn la noche de año nuevo, el experto recomienda encender velas de colores con diversos propósitos: verde para la salud, roja para el amor, amarilla para la prosperidad y azul para la paz y la calma. Las velas deberán durar encendidas toda la noche hasta que se consuman por completo.\nPara atraer el amor\nPor último, si lo que deseas es que en 2024 el amor llegue a tu vida, debes poner en práctica el siguiente ritual: coloca en tu cintura un lazo rojo y permanece toda la noche con él. El experto señala que este debe estar presente en tu día a día durante todo el año. “No es necesario salir a la calle con el puesto, con tenerlo en un lugar visible de la habitación es suficiente”, concluye.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://vm.tiktok.com/ZM6UQTexp/",
+      "https://vm.tiktok.com/ZM6UQTexp",
+      "https://www.vm.tiktok.com/ZM6UQTexp/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T22:08:23.035+02:00",
+    "updated": "2023-12-29T22:08:23.035+02:00"
+  }
+]

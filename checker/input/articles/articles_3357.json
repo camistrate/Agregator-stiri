@@ -1,0 +1,389 @@
+[
+  {
+    "uuid": "ddfae367fc976c6b5c9304f1341c5840b15ca054",
+    "url": "https://www.safetydetectives.com/news/nso-group-used-whatsapp-exploits-to-deploy-pegasus-spyware",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paige Henley",
+    "published": "2024-11-21T23:39:00Z",
+    "title": "NSO Group Used WhatsApp Exploits to Deploy Pegasus Spyware",
+    "text": "Paige Henley\nPublished on: November 21, 2024\nPublished on: November 21, 2024\nRecent court filings in Meta’s lawsuit against Israeli spyware vendor NSO Group have revealed shocking details about how NSO exploited WhatsApp’s vulnerabilities to deliver its Pegasus spyware.\nDespite Meta suing the company in October 2019, NSO continued to develop and deploy zero-click exploits, including one called “Erised,” which remained active until at least May 2020. These attacks allowed Pegasus to infect devices without user interaction, compromising the privacy of thousands globally.\nThe documents expose NSO’s methods, including reverse-engineering WhatsApp’s code to create exploits like “Heaven” and “Eden.” The spyware leveraged WhatsApp’s servers to redirect targeted devices to NSO-controlled systems, bypassing security defenses. When WhatsApp implemented server-side updates in 2018, NSO adapted, creating new tools to maintain access.\n“They developed those exploits by extracting and decompiling WhatsApp’s code, reverse-engineering WhatsApp, and designing and using their own ‘WhatsApp Installation Server’ (or ‘WIS’) to send malformed messages (which a legitimate WhatsApp client could not send) through WhatsApp servers and thereby cause target devices to install the Pegasus spyware agent—all in violation of federal and state law and the plain language of WhatsApp’s Terms of Service,” the released documents stated.\nOne exploit tracked as CVE-2019-3568 targeted 1,400 devices in May 2019. After WhatsApp strengthened its defenses, NSO pivoted to “Eden,” a more sophisticated attack using WhatsApp’s own relay servers.\nContrary to NSO’s claims that its spyware is client-operated to combat terrorism and crime, the filings show that NSO controlled the entire process. Clients provided a phone number, and NSO managed the installation, surveillance, and data retrieval. Victims of Pegasus include journalists, activists, and government officials, sparking global concerns about misuse.\nThe implications extend beyond this lawsuit. Apple, which has enhanced iOS security with tools like Lockdown Mode, recently dropped its own lawsuit against NSO, citing concerns about revealing sensitive threat intelligence. Meanwhile, WhatsApp continues to strengthen defenses, but the persistence of NSO’s spyware highlights the challenges of protecting users from commercial surveillance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:33:06.429+02:00",
+    "updated": "2024-11-22T02:33:06.429+02:00"
+  },
+  {
+    "uuid": "431db6fa2f75c64e1bb07925aaa0776c5f9fb9da",
+    "url": "https://ultimasnoticias.com.ve/noticias/sucesos/en-2023-termino-el-pranato-en-las-carceles/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Últimas Noticias",
+    "published": "2023-12-29T14:00:00Z",
+    "title": "En 2023 terminó el pranato en las cárceles",
+    "text": "Durante el año 2023 se llevó a cabo la Operación Gran Cacique Guaicaipuro que puso fin al control de pranes y mafias carcelarias de ocho recintos penintenciarios en el país.\nEn los operativos, que comenzaron desde la madrugada, participaron más de 11 mil funcionarios civiles y militares de diferentes cuerpos, en una acción conjunta para recobrar el control de las cárceles por parte del Estado.\nTodo el país vivió atónito la toma de Tocorón en el estado Aragua, recinto carcelario que sirvió de centro de operaciones para el Tren de Aragua y donde se pudo adelantar la operación sin ninguna muestra de violencia.\nLuego de la penitenciaría aragüeña fueron tomados por las autoridades otros siete recintos, donde tampoco hubo hechos violentos ni fallecidos que lamentar.\nEl presidente Nicolás Maduro publicó en su cuenta en la red social X, que este año el Gobierno “ha trabajado de manera articulada y cohesionada para garantizar la seguridad y la tranquilidad de la población venezolana, alcanzando la liberación del 100 % de los centros penitenciarios en el país. Contamos con cuerpos de seguridad humanistas y comprometidos con la Patria”.\nEl mandatario manifestó que el país esta “100% libre de mafias”, y calificó la operación en su conjunto como “un certero golpe al crimen organizado que operaba en estos centros penitenciarios”.\nComo resultado directo de la Operación Cacique Guaicaipuro las autoridades lograron incautar 605 armas de fuego, 862 armas blancas y 399.587 municiones, de acuerdo con el balance oficial dado por el ministro de Relaciones Interiores, Justicia y Paz, Remigio Ceballos Ichazo.\nAsimismo el operativo dejó como resultado la recuperación de 4.015 espacios dentro de estos centros penitenciarios y el traslado de más de 8.000 privados de libertad a otras prisiones y lugares de reclusión.\nDestaca, según el video publicado por el presidente Maduro en X, que durante 2023 se incautaron 45.379 kilos de diferentes drogas.\nEl ministro de Interior, Remigio Ceballos Ichazo declaró al finalizar la operación que “pasamos a una nueva fase en esta gran campaña Gran Cacique Guaicaipuro. para el reimpulso del sistema penitenciario y para la profundización del combate contra las bandas criminales estén donde estén. ¡Vamos en combate directo!!”\nEl jefe de Estado pidió durante la operación a los cuerpos de seguridad actuar contra los presos que lideran redes criminales dentro de las cárceles”.\nEl presidente Nicolás Maduro agrego que giró instrucciones para que las cárceles venezolanas “sean centros verdaderamente controlados, sin pranato”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:08:21.295+02:00",
+    "updated": "2023-12-29T16:08:21.295+02:00"
+  },
+  {
+    "uuid": "c7d58a291ca9569007b93ba4bd0b7a8a29f70cf8",
+    "url": "https://smotrim.ru/article/4491426",
+    "ord_in_thread": 0,
+    "author": "Смотрим",
+    "published": "2025-05-08T03:21:00Z",
+    "title": "В Улан-Уде без воды остались 15 многоквартирных домов",
+    "text": "8 мая 2025, 05:21\n8 мая 2025, 06:21\n8 мая 2025, 07:21\n8 мая 2025, 08:21\n8 мая 2025, 09:21\n8 мая 2025, 10:21\n8 мая 2025, 11:21\n8 мая 2025, 12:21\n8 мая 2025, 13:21\n8 мая 2025, 14:21\n8 мая 2025, 15:21\nВ Улан-Уде без воды остались 15 многоквартирных домов\nВ Улан-Удэ в результате коммунальной аварии без холодного водоснабжения остались 15 многоквартирных домов и торговый центр.\nЧП произошло на улице Краснофлотской, где вода затопила проезжую часть, передает РИА Новости со ссылкой на МУП \"Волоканал\".\nНа место направлена ремонтная бригада. Одновременно ведется откачка воды с проезжей части.\nО причинах коммунальной аварии пока не сообщается.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Social Issue",
+      "Environment"
+    ],
+    "topics": [
+      "Disaster and Accident->disaster",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->demographics",
+      "Environment->water",
+      "Environment->environmental pollution"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ria.ru",
+      "https://www.ria.ru"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T07:00:52.979+03:00",
+    "updated": "2025-05-08T04:05:47.000+00:00"
+  },
+  {
+    "uuid": "2a842f6e3bde35de2b89d75e798e36d18fb72180",
+    "url": "https://www.pulzo.com/mundo/asesinato-jovenel-moise-emiten-orden-captura-su-esposa-su-magnicidio-PP3418996A",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "canaluno@pulzo-hermes.com",
+    "published": "2024-02-01T23:18:00Z",
+    "title": "Asesinato de Jovenel Moise: emiten orden de captura a su esposa por su magnicidio",
+    "text": "[La imputación por asesinato a Martine Moise, viuda del presidente haitiano](https://www.pulzo.com/mundo/viuda-jovenel-moise-martine-moise-imputada-haiti-por-asesinato-presidente-PP3414045) Jovenel Moise, abre un nuevo capítulo en la investigación de este magnicidio, un caso por el que cinco personas ya se han declarado culpables ante la justicia de Estados Unidos, donde se planificó y financió el complot. Moise fue torturado y [ asesinado](https://www.pulzo.com/noticias/asesinatos) la madrugada del 7 de julio de 2021 en su residencia privada del sector capitalino de Pétion-ville por un grupo de mercenarios, en su mayoría colombianos. (Vea también: [Identifican a modelo que fue víctima de sicariato en el barrio Villas de Granada (Bogotá))](https://www.pulzo.com/nacion/bogota/sicariato-villas-granada-bogota-identifican-modelo-que-murio-PP3416951) En el ataque su esposa, la primera dama Martine Moise, resultó herida, por lo que ese mismo día fue trasladada a Miami (Estados Unidos). Informaciones publicadas este martes en la prensa local dan cuenta de que el juez Walter Wesser Voltaire, quien investiga el caso, emitió una orden de detención contra Martine Moise en octubre de 2023 [con relación al asesinato del jefe de Estado.](https://www.pulzo.com/mundo/jovenel-moise-cae-autor-intelectual-asesinato-presidente-haiti-PP3158194A) (Vea también: [Culpan a mujer de asesinar a bebé de 7 meses en Antioquia; hay recompensa por encontrarla)](https://www.pulzo.com/nacion/antioquia-hoy-mujer-asesino-abuso-bebe-7-meses-era-hija-su-pareja-PP3417991A) La mujer, quien siempre ha abogado por la creación de un tribunal internacional que investigue la muerte de su marido, está acusada de robo a mano armada, intento de asesinato y [conspiración para atentar contra Jovenel Moise](https://www.pulzo.com/mundo/presidente-haiti-jovenel-moise-es-asesinado-tiros-su-casa-PP1062956), de acuerdo con las publicaciones. La noticia sobre la acusación de la ex primera dama se ha conocido coincidiendo con el fin de la gestión de Wesser Voltaire, cuya sentencia podría hacerse pública entre finales de febrero y marzo, de acuerdo con las informaciones divulgadas. (Vea también: [Grave tragedia en pleno partido amistoso: asesinaron a exfutbolista mientras tomaba agua)](https://www.pulzo.com/mundo/asesinan-exfutbolista-pleno-partido-futbol-mexico-PP3418016A) De momento, Martine Moise no se ha referido públicamente al tema. ¿Quiénes son las demás personas implicadas en el asesinato del mandatario haitiano? El exsenador haitiano Joseph Joel John, el haitiano-chileno Rodolphe Jaar y [el exmilitar colombiano Alejandro Rivera García han sido sentenciados](https://www.pulzo.com/nacion/cancilleria-ira-haiti-ver-estado-colombianos-detenidos-magnicidio-PP3215691A) a cadena perpetua en un tribunal de Miami por su participación en el magnicidio. (Vea también: [Homicidio en Villas de Granada, Bogotá, se habría ordenado desde cárcel; nuevos detalles)](https://www.pulzo.com/nacion/bogota/doble-homicidio-villas-granada-bogota-fue-ordenado-desde-carcel-modelo-PP3415732) Otras dos personas, el exmilitar colombiano Mario Antonio Palacios y el haitiano-colombiano y exinformante del Departamento Estadounidense Antidrogas (DEA) Joseph Vincent, se declararon culpables del asesinato y esperan sentencia en Miami. (Vea también: [Lanzan medidas para proteger la vida de las mujeres en Cali; van 3 feminicidios en la ciudad)](https://www.pulzo.com/nacion/anuncian-nuevas-medidas-proteger-vida-mujeres-cali-asi-seran-PP3414164A) De acuerdo con documentos de la corte de Miami, entre febrero y julio de 2021 el sur de Florida “sirvió como lugar central para planificar y financiar el complot para derrocar al presidente Moïse y reemplazarlo con alguien que sirviera a los objetivos políticos e intereses financieros de los conspiradores”. Fuente: EFE. LO ÚLTIMO [Mundo] Hace 1 hora [Emiten orden de arresto contra esposa de expresidente Jovenel Moise, por magnicidio en Haití](/mundo/asesinato-jovenel-moise-emiten-orden-captura-su-esposa-su-magnicidio-PP3418996A) [Mundo] Hace 2 días [Confirman los países más corruptos de América Latina; qué posición ocupó Colombia](/mundo/cuales-son-paises-mas-corruptos-latinoamerica-que-puesto-tiene-colombia-PP3413768A) [Mundo]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T01:44:08.211+02:00",
+    "updated": "2024-02-02T01:57:06.739+02:00"
+  },
+  {
+    "uuid": "54c3bc78db397fb5b9e758f88c15be7a5862827d",
+    "url": "https://www.ilgiornaledivicenza.it/territorio-vicentino/vicenza/sciopero-generale-manifestazione-e-corteo-anche-a-vicenza-1.12511931",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Società Editrice Athesis S.p.A.",
+    "published": "2024-11-29T07:57:00Z",
+    "title": "Sciopero generale: manifestazione e corteo anche a Vicenza",
+    "text": "Tutta Italia ferma per otto ore. Scatta lo sciopero generale indetto da Cgil e Uil per la giornata di oggi (venerdì 29 novembre), contro la Manovra finanziaria 2025 del governo Meloni. Solo i trasporti, dopo la precettazione del ministro Salvini, sciopereranno per 4 ore.\nI lavoratori incroceranno le braccia per chiedere di cambiare la manovra di bilancio, per ottenere aumenti salariali e pensionistici e per invocare maggiori finanziamenti in ambito pubblico e investimenti nel comparto industriale.\nA Vicenza, dove insieme ai sindacati sono scesi in piazza anche i centri sociali, il corteo dei sindacati, composto da centinaia di persone, è partito da piazza Esedra alle 9:30, per unirsi a studenti e centri sociali all’altezza di piazzale della stazione e proseguire per viale Venezia verso viale Risorgimento.\nVerso le 10.30, una volta arrivati all’incrocio tra viale Risorgimento e viale Margherita, all’altezza delle scalette di Monte Berico, i cortei di FIOM e centri sociali si sono distaccati dalla manifestazione principale all’altezza di borgo Berga per un’azione dimostrativa contro il decreto sicurezza sotto forma di blocco stradale, che ha coinvolto tutte e quattro le corsie per circa 20 minuti, mandando in tilt il traffico del mattino.\nIl resto del corteo, invece, ha proseguito la manifestazione fino a piazza Matteotti, dove i sindacati hanno organizzato una serie di interventi per rivendicare le proprie posizioni.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T12:36:15.238+02:00",
+    "updated": "2024-11-29T12:36:15.238+02:00"
+  },
+  {
+    "uuid": "86720000e71e8750564a260528c5a7495be91787",
+    "url": "https://www.starbeacon.com/region/treacherous-surf-pounds-california-amid-flood-advisories-and-coastal-evacuations/article_1a02ebee-358a-5173-98a4-cbcd1a6b99e2.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Karen Garcia - Los Angeles Times (TNS)",
+    "published": "2023-12-29T02:03:00Z",
+    "title": "Treacherous surf pounds California amid flood advisories and coastal evacuations",
+    "text": "California's first huge swells of the winter are wreaking havoc on the state's coastline as an incoming atmospheric river storm is forcing evacuations amid flooding of beach and coastal roads. Marin County residents in the Calles Pinos, Pradero, Sierra, Onda Resaca, Ribera and Embarcadero areas as well as Calle de Arroyo were [ordered to temporarily evacuate](https://emergency.marincounty.org/) Thursday morning due to high risk of wave damage and coastal flooding. Evacuated residents were told to head to the Stinson Beach Community Center. Santa Cruz County issued an [evacuation warning Thursday on X,](https://x.com/sccounty/status/1740409668441424041?s=20) formerly known as Twitter, for coastal areas near Seacliff State Beach because of flooding. Within the evacuation area, the tourist hot spot known as the Rio del Mar Esplanade is currently flooded with several inches of storm water. [On X, the California Highway Patrol](https://x.com/CHPscrz/status/1740409154890788893?s=20) cautions that residents avoid the area and not attempt to drive across or through. According to the [National Weather Service's coastal flood warning](https://www.weather.gov/mtr/) for the Bay Area, large breaking waves are causing significant flooding of beach and coastal roads. The waves are depositing large amounts of debris and causing road closures. The San Francisco Bay Area coast could see waves up to 40 feet in some locations. The National Weather Service issued a warning for residents to stay away from rocks, jetties, piers and other waterside infrastructure. In Southern California, the waves aren't expected to be as big, but high surf is expected through Saturday, meteorologists said. In Ventura County, waves of up to 12 feet have already been reported, and the Central Coast has seen 18- to 20-foot swells, said Mike Wofford with the National Weather Service's Oxnard office. In a beachside community in Ventura, [residents watched](https://twitter.com/PostScottWilson/status/1740454171122569265) as waves washed trash bins away, sending foaming streams of seawater into neighborhood streets. A high surf advisory went into effect at 4 a.m. Thursday for Point Conception in Santa Barbara County and Hermosa Beach, Manhattan Beach and Palos Verdes Peninsula beaches in Los Angeles County, all of which can expect sets of 15- to 20-foot waves and dangerous rip currents. \"We're expecting the highest waves today to be arriving either late morning or early afternoon and then, maybe some drops in height tomorrow, but still well above normal,\" Wofford said. The waves will pick back up Saturday when another surge of higher swells arrives. There have been [really strong storms](https://www.latimes.com/environment/story/2023-10-19/noaa-predicts-warm-wet-el-nino-winter-for-california-after-summer-of-record-heat) over the Pacific Ocean that \"we don't necessarily see because they move up to the north or go in some other direction,\" Wofford said. While the storms are moving through, strong winds can form big waves, which \"propagate out along, and the waves just come barreling right in,\" he said. Along with the high surf advisory, the National Weather Service issued a coastal flood advisory through 10 p.m. Saturday. Although no structural or road damage is expected, there is an increased risk for drowning, the agency warned. Rip currents can pull swimmers and surfers out to sea, and large breaking waves can cause injuries, wash people off beaches or rocks and capsize small boats. \"Never turn your back to the ocean,\" the [National Weather Service said on X](https://x.com/NWSBayArea/status/1740326735466418358?s=20). Rain won't be compounding the waves in the Los Angeles County area, as the forecast doesn't call for rain until early Saturday and will continue for most of the day until it tapers off, Wofford said. There's a 30% to 40% chance of rain Sunday into Monday, but it will be in the form of light showers. ©2023 Los Angeles Times. Visit at [latimes.com](https://www.latimes.com). Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://emergency.marincounty.org/",
+      "https://x.com/NWSBayArea/status/1740326735466418358?s=20",
+      "https://www.weather.gov/mtr/",
+      "https://twitter.com/PostScottWilson/status/1740454171122569265",
+      "https://www.latimes.com/environment/story/2023-10-19/noaa-predicts-warm-wet-el-nino-winter-for-california-after-summer-of-record-heat",
+      "https://x.com/CHPscrz/status/1740409154890788893?s=20",
+      "https://www.latimes.com",
+      "https://x.com/sccounty/status/1740409668441424041?s=20",
+      "https://x.com/CHPscrz/status/1740409154890788893",
+      "https://emergency.marincounty.org",
+      "https://www.x.com/sccounty/status/1740409668441424041?s=20",
+      "https://www.x.com/NWSBayArea/status/1740326735466418358?s=20",
+      "https://latimes.com",
+      "https://x.com/sccounty/status/1740409668441424041",
+      "https://www.twitter.com/PostScottWilson/status/1740454171122569265",
+      "https://www.weather.gov/mtr",
+      "https://www.x.com/CHPscrz/status/1740409154890788893?s=20",
+      "https://weather.gov/mtr/",
+      "https://www.emergency.marincounty.org/",
+      "https://latimes.com/environment/story/2023-10-19/noaa-predicts-warm-wet-el-nino-winter-for-california-after-summer-of-record-heat",
+      "https://x.com/NWSBayArea/status/1740326735466418358"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ribera",
+          "sentiment": "none"
+        },
+        {
+          "name": "onda resaca",
+          "sentiment": "none"
+        },
+        {
+          "name": "calle de arroyo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "national weather service",
+          "sentiment": "none"
+        },
+        {
+          "name": "california highway patrol",
+          "sentiment": "none"
+        },
+        {
+          "name": "stinson beach community center",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "california",
+          "sentiment": "none"
+        },
+        {
+          "name": "calles pinos",
+          "sentiment": "none"
+        },
+        {
+          "name": "bay area",
+          "sentiment": "none"
+        },
+        {
+          "name": "seacliff state beach",
+          "sentiment": "none"
+        },
+        {
+          "name": "marin county",
+          "sentiment": "none"
+        },
+        {
+          "name": "sierra",
+          "sentiment": "none"
+        },
+        {
+          "name": "pradero",
+          "sentiment": "none"
+        },
+        {
+          "name": "santa cruz county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T04:34:50.727+02:00",
+    "updated": "2023-12-29T05:36:16.263+02:00"
+  },
+  {
+    "uuid": "c96d776c88e97e7a80ac110a7587e9b98d2c6f42",
+    "url": "https://www.ar15.com/forums/General/Brothers-saved-dozens-at-Nova-Festival-on-Oct-7th-fighting-Hamas-with-commander-s-phoned-in-advice/5-2696289/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "michigan66",
+    "published": "2023-12-29T17:58:00Z",
+    "title": "Brothers saved dozens at Nova Festival on Oct 7th fighting Hamas with commander’s phoned-in advice - AR15.COM",
+    "text": "Times of Israel: Brothers saved dozens at Nova, fighting terrorists with commander’s phoned-in advice\nDaniel and Neria Sharabi defended some 30 rave attendees sheltering behind a tank, using unfamiliar weapons as reserve commander gave instructions over the phone\nPartygoers shelter behind a tank with a Sharabi brother standing and wearing a helmet on the right, as they fend off terrorists, October 7, 2023\nHighpoints: Two brothers saved dozens of lives during the massacre by Hamas terrorists at the Supernova music festival on October 7 by providing fire cover for escapees with weapons they found in a tank, while receiving instructions over the phone from an IDF officer.\nThe Sharabi brothers were partying at Supernova when rocket sirens started blaring at 6:30 a.m. In a video captured by Neria, he and his friends Karin Journo and Yosef-Haim Ohana can be seen seeking shelter behind some parked cars, jokingly wondering why the terrorists in Gaza couldn’t wait until later to begin launching their missiles.\nNeria said.. they were ordered to disperse, and he left Karin — who had a broken leg prior to the event — and together with his cousin Shalev Yehoshua, went to retrieve his car. Minutes later, Karin was murdered.\nRealizing this was no regular bout of rockets from Gaza, they fled toward the highway.\n...shortly after 9 a.m., under heavy shelling, a damaged tank veered off the highway toward the parking lot. A member of the tank’s crew died, as the other three escaped; two of them were killed.\nThe survivor, tank driver Ido Somekh, valiantly fought off scores of terrorists before he was overpowered... About a dozen terrorists attempted to kill Somekh with his own gun, which fortunately malfunctioned.\nRealizing they would need to fend off the approaching terrorists, Daniel and Neria entered the tank, rummaging for firearms.\nNeria found the soldier’s gun, which was full of sand...with a tiny tub of Vaseline from a woman hiding behind the tank, Neria lubricated the weapon so that it could be used.\nDaniel took the tank’s machine gun. Both brothers, who had served as infantry soldiers, were unable to find ammunition for the machine gun.\nDaniel scoured his phone contacts for anyone who might know where to find the ammunition.\n“I just wrote ‘army’ in my contacts, and searched, and called everyone,” he said.\nUltimately, he spoke with Yoni Skrisewsky, a commander of his reserve company, who told him where to look in the tank.\nFor five hours... .Skrisewsky gave tactical advice to the Sharabi brothers over the phone..Hours later, in the afternoon, the group was finally rescued by security forces.\nThey recalled finally sitting down....[and] rolling a joint , at which point a police officer shouted at them “what do you think you are doing?” View Quote\nArticle:\nClick To View Spoiler Brothers saved dozens at Nova, fighting terrorists with commander’s phoned-in advice\nTwo brothers saved dozens of lives during the massacre by Hamas terrorists at the Supernova music festival on October 7 by providing fire cover for escapees with weapons they found in a tank, while receiving instructions over the phone from an IDF officer. Some 360 of the 1,200 people killed in southern Israel that day were slaughtered at the outdoor festival.\nAccording to a Channel 12 news report, rave attendees Daniel and Neria Sharabi fended off terrorists with firearms from the tank near the site of the massacre, also treating the wounded who were hiding with them.\nWith Daniel’s former IDF commander, Yoni Skariszewski, advising them by telephone, the brothers saved some 30 partygoers sheltering behind the tank amid the Hamas onslaught, the report said.\nThe Sharabi brothers were partying at Supernova when rocket sirens started blaring at 6:30 a.m. In a video captured by Neria, he and his friends Karin Journo and Yosef-Haim Ohana can be seen seeking shelter behind some parked cars, jokingly wondering why the terrorists in Gaza couldn’t wait until later to begin launching their missiles.\nNeria told Channel 12 (Hebrew link) that they were ordered to disperse, and he left Karin — who had a broken leg prior to the event — and together with his cousin Shalev Yehoshua, went to retrieve his car. Minutes later, Karin was murdered.\nThe brothers said they began to hear gunfire and immediately realized from their army service that it was the sound of Kalashnikovs, rather than fire coming from Israeli military weapons.\nDaniel was a combat medic during his service, and Neria served in the infantry.\nRealizing this was no regular bout of rockets from Gaza, they fled toward the highway.\nDaniel administered first aid to an injured woman, when he, Neria, Yosef, and Shalev were called upon by two soldiers, Sgt. First Class Itai Bausi and another identified only as Ben, to help them evacuate the wounded on a stretcher.\nSoon, terrorists armed with automatic weapons stormed the scene in pickup trucks, firing incessantly.\nItai and Ben were killed, as Daniel, Neria, Shalev and Yosef managed to take cover behind some parked cars. The car near Yosef was hit by an RPG missile. This was the last time the Sharabi brothers saw him before he was snatched by terrorists who took him to Gaza, where he is still being held hostage.\nThe brothers recounted that shortly after 9 a.m., under heavy shelling, a damaged tank veered off the highway toward the parking lot, running over some of the vehicles. A member of the tank’s crew died, as the other three escaped; two of them were killed.\nThe survivor, tank driver Ido Somekh, valiantly fought off scores of terrorists before he was overpowered, the brothers said. About a dozen terrorists attempted to kill Somekh with his own gun, which fortunately malfunctioned.\nRealizing they would need to fend off the approaching terrorists, Daniel and Neria entered the tank, rummaging for firearms. The tank’s fallen crew member was splayed on the floor. Neria furiously searched the body for a weapon, as he apologized profusely to the dead soldier.\nFinally, Neria found the soldier’s gun, which was full of sand and therefore likely to malfunction. With a tiny tub of Vaseline from a woman hiding behind the tank, Neria lubricated the weapon so that it could be used.\nDaniel took the tank’s machine gun. Both brothers, who had served as infantry soldiers, did not know their way around a tank and were initially unable to find ammunition for the machine gun.\nDaniel scoured his phone contacts for anyone who might know where to find the ammunition.\n“I just wrote ‘army’ in my contacts, and searched, and called everyone,” he said.\nUltimately, he spoke with Yoni Skrisewsky, a commander of his reserve company, who told him where to look in the tank.\n“Where is the army, where is the air force?” Daniel begged Skrisewsky, who reassured him that help was on the way.\nYoni, whose own father Rody was murdered in the Hamas onslaught, left Tel Aviv for Re’im with three other members of his reserve company to help fight off the terrorists.\nFor five hours, until he arrived at Re’im, Skrisewsky gave tactical advice to the Sharabi brothers over the phone, as they fended off their assailants, giving cover for injured Nova attendees and applying improvised tourniquets to their wounds.\nTheir heroic actions saved dozens from murder or abduction.\n“We told them that whoever could fight, must fight. Whoever can treat [the wounded], must treat. And everyone else must pray,” the brothers said of their instructions to those sheltering behind the tent.\nHours later, in the afternoon, the group was finally rescued by security forces.\nThey recalled finally sitting down having saved so many lives, and rolling a joint, at which point a police officer shouted at them “what do you think you are doing?”\nWhen told that they were heroes, the brothers demurred: “The heroes are the ones who died that day.”\n“The medics who were killed, those who heroically fought and died, those who were kidnapped [are the heroes],” Daniel said.\nOn October 7, some 3,000 Hamas terrorists crossed the border from Gaza into Israel, brutally murdering about 1,200 people, mainly civilians, and engaging in widespread violence, including sexual assault, as they took some 240 hostages. Over 360 of those massacred were at the Nova music festival.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.timesofisrael.com/brothers-saved-dozens-at-nova-fighting-terrorists-with-commanders-phoned-in-advice/",
+      "https://www.timesofisrael.com/brothers-saved-dozens-at-nova-fighting-terrorists-with-commanders-phoned-in-advice",
+      "https://timesofisrael.com/brothers-saved-dozens-at-nova-fighting-terrorists-with-commanders-phoned-in-advice/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yosef-haim ohana",
+          "sentiment": "none"
+        },
+        {
+          "name": "neria sharabi",
+          "sentiment": "none"
+        },
+        {
+          "name": "karin —",
+          "sentiment": "none"
+        },
+        {
+          "name": "neria",
+          "sentiment": "none"
+        },
+        {
+          "name": "karin journo",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel",
+          "sentiment": "none"
+        },
+        {
+          "name": "sharabi",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "brothers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "idf",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T20:01:41.934+02:00",
+    "updated": "2023-12-29T20:01:41.934+02:00"
+  }
+]

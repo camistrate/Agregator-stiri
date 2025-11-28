@@ -1,0 +1,553 @@
+[
+  {
+    "uuid": "e07d0ef6a8594a280caed6e19817f9afb36285df",
+    "url": "https://www.ren.tv/news/proisshestviia/1330256-ukrainka-razgromila-arendovannuiu-kvartiru-za-god-zhizni-v-tailande",
+    "ord_in_thread": 0,
+    "author": "@rentvchannel",
+    "published": "2025-05-01T03:59:00Z",
+    "title": "Украинка за год разгромила арендованную квартиру в Таиланде",
+    "text": "Украинка разгромила арендованную квартиру за год проживания на Пхукете в Таиланде. Об этом сообщила владелец имущества в социальной сети Facebook*.\n\"У меня сняли квартиру на год, клиент из Украины. Мой агент по недвижимости прислал мне фотографию. Сначала я сильно заплакала\", – написала она.\nТакже хозяйка квартиры пообещала рассказать все подробности инцидента. К делу уже подключили местную полицию.\nРанее, 30 декабря 2024 года, украинский беженец с топором напал на полицейских в Германии.\n* Корпорация Meta Platforms, которой принадлежат Facebook, Instagram, WhatsApp и Oculus, признана в РФ экстремистской организацией, ее деятельность запрещена на территории РФ.\n(function() { var sc = document.createElement('script'); sc.type =\n'text/javascript'; sc.async = true; sc.src =\n'//jsn.24smi.net/smi.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\n(function() { var sc = document.createElement('script');\nsc.type = 'text/javascript'; sc.async = true; sc.src =\n'//jsn.24smi.net/smi.js'; sc.charset = 'utf-8'; var s =\ndocument.getElementsByTagName('script')[0];\ns.parentNode.insertBefore(sc, s); }());\nvar checkIsTestPage = false;\nvar isTest = checkIsTestPage;\nvar init_adfox_under_article_desktop_1330256 = function() {\n// puid2: '229103',\nif (window.Ya && window.Ya.adfoxCode) {\nvar params = isTest ? {\np1: 'ddomg',\np2: 'ffnu'\n} : {\np1: 'bzorw',\np2: 'fulf',\npuid8: window.localStorage.getItem('puid8'),\npuid12: '186107',\npuid21: 1,\npuid26: window.localStorage.getItem('puid26'),\npuid4: 'ren.tv',\n};\nconst pk = window.localStorage.getItem('pk');\nif (pk) {\nparams.pk = pk;\nparams.pke = '1';\n}\nvar existBidding = window.Ya?.headerBidding.getBidsReceived().map(elm => elm.containerId) || []\nvar elementId = isTest ? 'adfox_172319719459163455_1330256' : 'adfox_151870620891737873_1330256'\nif (window.Ya.headerBidding && !existBidding.includes(elementId)) {\nwindow.Ya.headerBidding.pushAdUnits([\n{\n\"code\": elementId,\n\"bids\": [\n{\"bidder\": \"adriver\", \"params\": {\"placementId\": \"30:rentv_970x250_mid\"}},\n{\"bidder\": \"bidvol\", \"params\": {\"placementId\": \"37226\"}},\n{\"bidder\": \"sape\", \"params\": {\"placementId\": \"836081\"}},\n{\"bidder\": \"hybrid\", \"params\": {\"placementId\": \"6602ab127bc72f23c0325b09\"}},\n{\"bidder\": \"adfox_adsmart\", \"params\": {\n\"pp\": \"h\",\n\"ps\": \"doty\",\n\"p2\": \"ul\",\n\"puid20\": \"\"\n}}\n],\n\"sizes\": [[970,250],[728,250],[728,90],[990,90],[990,250]]\n}\n]);\n}\nwindow.yaContextCb?.push(() => {\nYa.adfoxCode.createScroll({\nownerId: checkIsTestPage ? 241452 : 264443,\ncontainerId: elementId,\nparams: params,\nlazyLoad: true,\n}, ['desktop', 'tablet'], {\ntabletWidth: 1104,\nphoneWidth: 576,\nisAutoReloads: false\n});\n});\n}\n}\nif (window.Ya && window.Ya.adfoxCode) {\ninit_adfox_under_article_desktop_1330256();\n} else {\ndocument.addEventListener('adfoxload', event => {\ninit_adfox_under_article_desktop_1330256();\n});\n}\n(window.smiq = window.smiq || []).push({});",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->house and home",
+      "Lifestyle and Leisure->travel and tourism",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:44:40.505+03:00",
+    "updated": "2025-05-01T04:52:57.000+00:00"
+  },
+  {
+    "uuid": "49d115d2f4fe62463b77faa4133d05bb2b6f827b",
+    "url": "https://vnexplorer.net/la-tempete-gerrit-meurtriere-en-angleterre-3-hommes-retrouves-morts-dans-leur-voiture-tombee-dans-une-riviere-s708793.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T15:09:00Z",
+    "title": "La tempête Gerrit meurtrière en Angleterre: 3 hommes retrouvés morts dans leur voiture tombée dans une rivière",
+    "text": "La tempête Gerrit meurtrière en Angleterre: 3 hommes retrouvés morts dans leur voiture tombée dans une rivière\nTrois hommes ont été retrouvés morts jeudi, piégés dans un véhicule retrouvé dans une rivière au nord de l’Angleterre, frappé comme d’autres régions du Royaume-Uni par la tempête Gerrit qui a provoqué de fortes intempéries, a annoncé la police locale.\nUn autre homme qui avait tenté de les aider a été récupéré sain et sauf, a-t-elle précisé, ajoutant que les conditions météo locales “rendent la conduite automobile dangereuse”. Plusieurs régions du Royaume-Uni, en particulier en Ecosse et dans le nord de l’Angleterre, sont frappées depuis mercredi par la tempête Gerrit qui a entraîné d’importantes chutes de pluie et de neige, ainsi que des vents violents, avec notamment 136 km/h enregistrés dans l’Aberdeenshire en Ecosse.\nDes vents tourbillonnants qualifiés de “tornade” par la police et provoqués par un orage supercellulaire, selon l’Agence nationale de météorologie (Met Office), a également dévasté une centaine de maisons près de Manchester dans la nuit de mercredi à jeudi, sans faire de blessé.\nDes milliers de logements restaient sans électricité jeudi après-midi en Ecosse, tandis que les transports ferroviaire et aérien sont perturbés avec des trains et des vols annulés.\nDes automobilistes sont également restés plusieurs heures coincés dans leur véhicule à cause de la neige, et des routes ont été coupées par des chutes d’arbres sur la chaussée ou des inondations.\nPlus au sud, le transport de ferries entre Douvres et la France a également subi des retards mercredi à cause des vents forts soufflant sur la Manche, selon la compagnie DFDS.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mblAL.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mblAL.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T17:11:54.595+02:00",
+    "updated": "2023-12-29T17:11:54.595+02:00"
+  },
+  {
+    "uuid": "c9115a1d76cfa19b6a5f9cb6b237c5a23c18ca66",
+    "url": "https://agupdate.com/tristateneighbor/opinion/columnists/a_lil_bit_country/in-winter-we-renew-hopes-for-what-lies-ahead/article_65439220-a42e-11ee-a8b5-9fa12c086108.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Laura Tonkyn for the Tri-State Neighbor",
+    "published": "2024-01-01T16:15:00Z",
+    "title": "In winter we renew hopes for what lies ahead",
+    "text": "With the warm, dry winter we’ve had so far this winter, I’ve taken several walks in the woods in past weeks. It’s rather a monochrome landscape, with the brown grasses, dull green pines and the craggy granite rock facings. The grasses lie drab and spent, the dead timber is exposed, and the spikes of white are the ghostly remains of wildflowers that flourished not so many months ago. The year is approaching its end.\nYet as I trudge through the matted residue, hidden in the soil underneath my feet is a living world silently preparing for the eternal rebirth of our beautiful green surface. While the world we know sleeps, underground life is busy at work, carrying out its purpose to replenish the foundational systems of our planet.\nIn fact, according to the Soil Science Society of America, more organisms live in the soil than live aboveground. Just a handful of soil contains millions of living things, all doing their part to make our environment clean, healthy and vibrant. From tiny bacteria and microorganisms to earthworms and bugs and on to underground mammals like moles and gophers, millions of organisms and thousands of species play their part in aerating the soil, decomposing dead plants and animals and creating the nutrients on which our above-ground world draws its sustenance.\nAs I take my walks, I often reflect on how timeless it all is – these living processes we think so little about that underlie our very existence. Long before we are born and long after we die, life never falters no matter how it changes course or reinvents itself. As I look up at the rock cliffs or walk around the outcroppings at my feet, I think about how even these supposedly lifeless objects have existed eons before I was born and will continue to do so eons into the future.\nPeople are also reading…\nI was joined by my husband on our latest walk in the woods as we searched and found this year’s Christmas tree. We cut it down and decorated it, so now this dead tree symbolizes the birth of Jesus and of the religion that promises eternal life to its believers. As the New Year begins, we all celebrate the rebirth of the cycle of life, even as we prepare for months of living in the depths of winter.\nFor those of us who dwell across the Northern Plains, that means at least three months before the earliest signs of spring begin to appear. Yet, as the cold and dark descend, we renew our hopes for what lies ahead. We reaffirm our ties with family and friends with holiday celebrations and we make resolutions on how to improve ourselves. We address loved ones and strangers alike with Happy New Year greetings – affirming our common aspirations for better days ahead. Whatever our differences, we all want life to be good.\nI will celebrate my 70th birthday on New Year’s Day. It’s not too unusual for someone to remark upon this accident of birth, yet I don’t recall ever being particularly impressed with it myself. However, I have been thinking about it more than usual as I enter those years that generally define actually being “old” instead of “getting old.”\nI certainly hold to the expectation of being around for a reasonable number of future springs, but I cannot deny that I am in the winter of my life. No matter, my hopes do not falter – they have simply changed course and reinvented themselves as happens to all who arrive in this living world.\nWriting this column for the past two years has been a gift. It has been a discipline – a way to gather my thoughts and consider the order of my life. I have been gratified by those who contacted me and expressed their appreciation of my bi-weekly meanderings. As I write this final column, it is clear that living a country life has been the right choice for me. Indeed, the natural world has showed me time and again that every season is a growing season and our winter celebrations are an affirmation of the eternal promise of life. Happy New Year!\nLaura Tonkyn has spent 40 years becoming as self-sufficient as possible with her jack-of-all-trades husband, Art, on their eight-acre homestead in the Black Hills of South Dakota. She has written/edited for a number of local/regional papers, including the Rapid City Journal and Faces Magazine. Reach her at .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest",
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "soil science society of america",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-01T18:54:27.810+02:00",
+    "updated": "2024-01-01T18:54:27.810+02:00"
+  },
+  {
+    "uuid": "4013a315f88f8ab57ddc60c0dada038e67cd7039",
+    "url": "https://rp-online.de/nrw/staedte/neuss/neuss-kurs-in-der-sommerakademie-der-vhs-bastelt-wetterballon_aid-129049479",
+    "ord_in_thread": 0,
+    "author": "Simon Janßen",
+    "published": "2025-06-12T08:00:00Z",
+    "title": "Jugendliche schicken Wetterballon in die Höhe: Bei der Neusser Sommerakademie geht's ins Weltall",
+    "text": "Achtung, hier geht es in luftige Höhen! Wissenschaft live erleben können Jugendliche im Kursus „Wetterballon und Klima“, der im Zuge der Sommerakademie vom 14. bis 19. Juli an der Volkshochschule (VHS) Neuss stattfindet. Mit dem Dozenten Julian Tilmes erschließen sich die jungen Teilnehmer nicht nur Fakten über die Erdatmosphäre, sondern bereiten auch den Flug eines eigenen Wetterballons vor. Dazu gehört das Einrichten einer Styroporsonde mit Kameras, Batterien, GPS-Trackern und eigenen Experimenten. Zum Beispiel kann getestet werden, wie sich Wasser, Cola oder Alkohol im Weltall verhalten – oder ab wann ein Schaumkuss in der Stratosphäre in die Breite geht. Was mitfliegt, werden die Jugendlichen zusammen mit dem Dozenten entscheiden und an der Sonde befestigen.\nBevor es losgeht, muss dann noch die Flugbahn berechnet werden – denn der Landeplatz der Sonde sollte nicht gerade mitten in einer Großstadt liegen. Ein bisschen Glück mit dem Wetter spielt auch mit, denn bei Starkregen oder Sturm kann der Ballon nicht starten. Wenn die Bedingungen günstig sind, geht es los: Vom Vorplatz des Romaneums aus steigt der mit Helium gefüllte Ballon in den Himmel und nimmt das Equipment mit auf die Reise. Gleich nach dem Start wird sich der Dozent an die Fährte der Sonde heften, die per GPS getrackt werden kann. In der Volkshochschule kann die Gruppe derweil den Weg des Ballons live verfolgen und lernt in der Zwischenzeit vom Dozenten Tim Cürlis, wie das aus dem Projekt entstandene Bildmaterial optimal für Social Media oder eine Präsentation aufbereitet werden kann.\nIn Höhe von etwa 36.000 Metern platzt der Ballon und die Sonde schwebt an einem Fallschirm zur Erde. Jetzt braucht es erneut ein bisschen Glück: Ob sie auf freiem Feld, in einem hohen Baum oder gar im Wasser landet, kann nicht genau vorhergesagt werden – doch die gute Nachricht ist: die meisten dieser Projekte gehen gut aus und die Sonden können in der Regel geborgen werden. Das berichtet jedenfalls die Firma Stratoflights, von der die VHS Neuss den Ballon und das meiste Zubehör erworben hat. Stratoflights hat schon eine Vielzahl von Schulprojekten, Marketingaktionen und Filmprojekten begleitet, bei denen Wetterballone ins All geschickt wurden. Die Firma hat die Volkshochschule bei der Konzeption des Kurses beraten. Wenn die Suche nach der Sonde erfolgreich war, kehrt der Dozent Julian Tilmes zurück ins Romaneum – mit atemberaubenden Bildern und spannenden Daten, die im Folgenden ausgewertet und aufbereitet werden. Eins ist sicher: Wer in der ersten Ferienwoche zu Hause bleiben muss und den Urlaubsbildern der Freunde etwas entgegensetzen möchte, dürfte mit eigenen Aufnahmen aus dem Weltall ziemlich gut dastehen.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->scientific exploration",
+      "Science and Technology->meteorology",
+      "Education->students",
+      "Education->educational grading",
+      "Human Interest->graduation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Julian Tilmes",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Neuss",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Volkshochschule",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "VHS",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_de",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:22:52.897+03:00",
+    "updated": "2025-06-13T09:07:08.000+00:00"
+  },
+  {
+    "uuid": "fdb6681a7438b79c04c7b056393a23f5279be11b",
+    "url": "https://blackstarnews.com/wilmington-tunnel-collapse-on-july-9-2025",
+    "ord_in_thread": 0,
+    "author": "Olivia Blake",
+    "published": "2025-07-10T09:03:00Z",
+    "title": "Wilmington Tunnel Collapse on July 9, 2025: All Workers Safe",
+    "text": "On the evening of July 9, a tunnel collapse was reported in Wilmington Tunnel Collapse , Los Angeles, trapping 31 workers. The tunnel was under construction when a part of it collapsed on the workers at 8 pm on Wednesday. Initially, the authorities believed that around 15 workers were trapped beneath the industrial tunnel that had collapsed. Thus, the Los Angeles Fire Department (LAFD) arrived, along with more than 100 personnel at the collapse site to help the trapped people. However, the staff had rescued 31 workers from the collapse scene, instead of 15. This was an emergency that required immediate attention from the rescue ops.\nWhat Happened at Wilmington, Los Angeles? On Wednesday, an industrial tunnel collapsed, trapping 31 workers with it, which required immediate attention from the authorities. The Los Angeles Fire Department (LAFD) was called about the incident, and they were assigned an emergency task immediately. They reached 1710 N Figueroa St., Los Angeles, which was the entry point for the industrial tunnel. According to the information they received about the collapse incident, the workers were trapped approximately six miles south of the entry point. The officials reported that the tunnel was under construction and would be a carrier of wastewater. Additionally, the mouth of the tunnel was 18 feet wide, which is ideal for carrying a large amount of sewage. It was quite challenging to rescue so many people when they had to cover about 6 miles to reach them.\nAlso read: Ruidoso Flash Flood 2025: Emergency & Rescues\nSteps taken by the Rescue team The Los Angeles Fire Department (LAFD) immediately assigned more than 100 personnel to the site to rescue the assumed 15 workers in the tunnel. The personnel included Urban Search and Rescue teams (USAR) for rescuing the trapped workers in the tunnel. Many news outlets have reported the operation by sending their helicopters for an aerial view. According to them, the rescue team was seen installing safety measures for the vertical entry point of the tunnel.\nThe tunnel was a major industrial project to mobilise wastewater to their main plant for filtering and purifying the water. However, the project only made one entry point for the tunnel, which stretched for miles. This posed a challenge for the rescue team, which was tasked with saving approximately 15 workers from an emergency. The cause of the collapse is unknown to the authorities, as their primary focus is rescuing the workers trapped inside the tunnel. Additionally, a team of engineers and structural experts is on the site to examine any further risks of fallout in the tunnel.\nWere all the 31 Workers Rescued? The rescue team made every effort to rescue all the workers inside the tunnel, which they did. The news helicopters were recording the process adopted by the rescue teams to help the workers trapped inside the tunnel. Cranes were used to aid the team in rescuing the workers who were extending a metal compartment in the tunnel. The team stepped onto the compartments to enter the tunnel for their rescue mission. Moreover, some of them had to separate from those compartments to help the workers stuck inside the tunnel. They climbed out of the tunnel, passing through the loose soil where the tunnel collapsed, and joined the rest of the team.\nBy 9:20 pm, all the workers had been rescued from the tunnel that collapsed while they were inside. Many of them hugged each other as they safely came out of a near-death experience. The paramedics arrived at the location to check for any possible injuries to the victims of the collapse. Fortunately, the workers were safe and not injured.\nAbout the Tunnel Project and the Collapse According to the Project website, this tunnel was a step in replacing the older sewage tunnels with a better infrastructure. However, the tunnel collapsed midway due to unknown reasons. LA Mayor Karen Bass arrived at the location as soon as he heard the incident. He posted a post on X saying that he spoke with the workers who were trapped in the tunnel and acknowledged the rescue team’s efforts.\nThe details about the reason for the collapse are not identified right now. However, the authorities will look into the matter and inform the media about the same.\nAlso read: TSA Drops Shoe Removal Rule at Some Airports: What You Need to Know\nConclusion The Urban Search and Rescue (USAR) team is trained to be calm and equipped for such life-or-death situations. They are trained to rescue people when they are trapped in confined spaces, such as tunnels. Their expertise in their work is a necessity, as one mistake can lead to a horrific death. However, the team managed to rescue all the workers amid the challenges they faced in reaching them.\nTo Support our independent investigative journalism contributions are welcome via Cashapp to: $BlackStarNews\nAlso support Black Star News by buying merch from our brand new Black Star Store!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Los Angeles Fire Department",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "LAFD",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T13:50:51.094+03:00",
+    "updated": "2025-07-11T08:24:20.322+03:00"
+  },
+  {
+    "uuid": "574e9506a475f704d842cfe35a098ca0bc467140",
+    "url": "https://www.thestate.com/news/weather-news/article309914910.html",
+    "ord_in_thread": 0,
+    "author": "SC Weather Bot",
+    "published": "2025-07-03T03:54:00Z",
+    "title": "Thunderstorms with marble-sized hail in Upstate SC Wednesday - gusts as high as 40 mph",
+    "text": "Weather News\nThunderstorms with marble-sized hail in Upstate SC Wednesday – gusts as high as 40 mph\nThe creation of this content included the use of AI based on templates created, reviewed and edited by journalists in the newsroom. Read more on our AI policy here.\nA weather alert was issued by the NWS Greenville-Spartanburg SC on Wednesday at 11:50 p.m. for strong thunderstorms until Thursday at 12:15 a.m. The alert is for Abbeville, Laurens and Greenwood counties.\nWind gusts of up to 40 mph and marble-sized hail (0.5 inches) are anticipated.\n\"At 11:50 p.m., Doppler radar tracked a strong thunderstorm 14 miles southwest of Laurens, or near Ware Shoals, moving south at 15 mph,\" according to the NWS. \"Gusty winds could knock down tree limbs and blow around unsecured objects. Minor hail damage to outdoor objects is possible.\"\nLocations impacted by the alert include Ware Shoals, Donalds, Cokesbury, Hodges, Shoals Junction, Princeton and Hickory Tavern.\nThe NWS states, \"If outdoors, consider seeking shelter inside a building.\"\nThis alert is in effect until Thursday at 12:15 a.m.\nWhat to do as threat of lightning approaches?\nAround 25 million lightning strikes occur in the United States every year, with most taking place during the summer months. The NWS reports that these strikes result in about 20 fatalities annually. The probability of lightning strikes rises as a thunderstorm approaches and peaks when the storm is directly above. As the storm moves away, this likelihood decreases.\nHere are tips on how to stay safe during a thunderstorm:\n- To minimize risk of being struck by lightning, when going outside, have a plan to get to a safer place.\n- If the sky grows ominous and you hear thunder, seek out a safe place to take shelter.\n- Once inside, abstain from touching corded phones, electrical devices, plumbing, and windows and doors.\n- Wait for 30 minutes after the final lightning or thunder before heading outside again.\nIf finding indoor shelter is not an option:\n- Avoid open fields, hill peaks, or ridge tops.\n- Stay away from tall, isolated trees or other tall objects. If you are in a forest, stay near a lower stand of trees.\n- If you are with a group, fan out to stop the current from transmitting between members.\n- If you are camping in an open area, set up camp in a valley, ravine, or other low area. Remember, a tent offers no protection from lighting.\n- Do not approach water, wet objects, or metal items. Although water and metal do not attract lightning, they conduct electricity effectively.\nWhat steps to follow when driving in the rain?\n- Turn on your headlights - Even when it's light outside, using headlights can improve visibility and alert other drivers to your presence.\n- While on the road - Opt for the middle lanes and remain on higher ground. Rainwater tends to gather along the road edges.\n- Keep clear of puddles - Driving through puddles or low rainwater areas can cause vehicles to hydroplane or skid out of control\n- Give ample space to large vehicles - Trucks or buses can create a water spray that diminishes visibility.\n- Avoid flooded zones - If you encounter a flooded road, make a U-turn and go back. The powerful currents of flash floods can carry drivers off the road. Driving through deep water can also damage a vehicle's mechanical and electrical systems.\nWhat is hydroplaning?\nHydroplaning happens when a vehicle starts sliding uncontrollably on wet roads.\nThis happens when water in front of the tire builds up faster than the vehicle's weight can push water out of the way. The water pressure then causes the vehicle to rise and slide on a thin layer of water between the tires and the road, making the driver lose control. Hydroplaning is most commonly attributed to three factors:\n- Vehicle speed - When a vehicle's speed increases, the tire-traction grip and ability to control the vehicle decreases. Drive at a reduced speed during wet weather.\n- Water depth - The deeper the water, the sooner a vehicle loses traction on the road. It doesn't matter how deep the water is, even a thin layer can lead to hydroplaning.\n- Tire tread depth - Checking your tire tread before hitting the road is important, as low or no tread can lead to sliding.\nIn the event of your vehicle hydroplaning, here's what to know:\n- Ease off the accelerator - Step off the gas to slow down the vehicle until the tires find traction.\n- Turn into the skid - Turning into the skid can help the vehicle's tires realign to regain control.\n- Make sure the tires reconnect with the road - During the skid, wait until the tires reconnect with the road and then gently straighten the wheels to regain control.\n- Brake gently as needed - Brake normally if the vehicle has anti-lock brakes and pump brakes gently if in an older vehicle.\nSource: The National Weather Service\nThis story was originally published July 2, 2025 at 11:54 PM.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Social Issue",
+      "Health"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Weather->weather phenomena",
+      "Social Issue->mankind"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Laurens",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Cokesbury",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NWS Greenville-Spartanburg SC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "574e9506a475f704d842cfe35a098ca0bc467140",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-07-03T08:02:21.573+03:00",
+    "updated": "2025-07-03T05:13:22.000+00:00"
+  },
+  {
+    "uuid": "172cb077f434d305a0390461d5258efbc3fec4f7",
+    "url": "https://www.cnr.cn/hebei/yw/20250313/t20250313_527098721.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "姜丽丽",
+    "published": "2025-03-13T00:00:00Z",
+    "title": "网上能预约 河北义务植树更方便_央广网",
+    "text": "原标题：\n网上能预约 义务植树更方便\n3月12日是我国第47个植树节。河北省绿化委员会办公室相关负责人介绍，今年河北深入推进“互联网+全民义务植树”，不断探索“义务植树+”新路径，大力开展“我为三北种棵树”活动，推进2025年全民义务植树工作提质量、上水平。\n为让人们更好地了解、参与义务植树，2023年，“互联网+全民义务植树”工作在全国正式推开。2024年，河北累计发布各类义务植树尽责活动2528个，位居全国第5，初步实现了尽责形式多样化和便利化。全省3383.5万人次参加义务植树，折合植树9953.2万株。全省共完成乡村绿化美化面积10.6万亩，1000个提升村绿化任务如期完成，新建省级森林乡村214个，超额完成省级森林乡村建设任务。\n2024年，省绿化委员会办公室公布了第二批省级“互联网+全民义务植树”基地名单，石家庄滹沱河城市森林公园义务植树基地等14个基地名列其中。至此，河北省级“互联网+全民义务植树”基地总数达到30个。截至去年底，全省各级各类“互联网+全民义务植树”基地达到139个。\n“义务植树基地的设立，综合考虑了政策法规、土地条件、生态需求及社会参与等因素，方便人们就近进行义务植树。”省绿化委员会办公室相关负责人介绍。\n增绿就是增优势，植树就是植未来。充分利用全民义务植树网络平台，河北今年将全力做好集体植树等各类活动以及捐资尽责项目的线上发布工作，做到“应上线、尽上线”，方便群众“一键”参与。各地还将充分利用林场林地、公园、动植物园、生态产业园等，继续新建一批各级“互联网+全民义务植树”基地，向社会公开义务植树接待地点、接待时间和尽责方式，满足公众便捷化植树需要。\n公众可通过登录义务植树网络平台，选择合适项目就近履行劳动尽责义务，也可以通过联系省级义务植树基地就近履行劳动尽责义务。按照规定完成3至5株苗木种植任务后，平台将为其颁发全民义务植树尽责证书。\n通过网络捐赠方式也能履行义务。公众可通过网络捐赠3至5株树（即30至50元），平台将自动颁发全民义务植树尽责证书。\n全国绿化委员会印发的《全民义务植树尽责形式管理办法（试行）》明确，义务植树尽责形式分为造林绿化、抚育管护、自然保护、认种认养、设施修建、捐资捐物、志愿服务、其他形式等8类。河北不断探索“义务植树+”新路径，将义务植树与生态教育、城乡绿化等进行融合创新，把古树名木保护也作为义务植树尽责形式。\n2024年，河北全面打响“三北”工程攻坚战，完成“三北”工程建设任务489万亩，在项目开工率、中央投资完成率等方面居全国前列。\n今年，河北大力开展“我为三北种棵树”活动。承担“三北”工程建设任务的地区，将围绕这一主题组织开展系列义务植树活动，形成品牌，营造良好氛围，凝聚多方力量共同为“三北”工程建设作贡献。各部门（系统）也将发挥行业、资源优势，共同参与“我为三北种棵树”活动。\n省林业和草原局党组书记、局长王忠表示，河北将大力弘扬塞罕坝精神、“三北精神”，统筹山水林田湖草沙一体化保护和系统治理，坚定不移推进林草五大体系建设，优生态、促发展，守底线、保安全，今年完成营造林600万亩，修复治理退化草原50万亩，防沙治沙168万亩，持续构建布局合理、功能完备的生态防护体系。（曹智、袁媛）\n关注精彩内容",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Environment->flowers and plants",
+      "Environment->sustainability",
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->lifestyle",
+      "Social Issue->communities",
+      "Social Issue->social condition",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:40:34.989+02:00",
+    "updated": "2025-03-13T03:40:34.989+02:00"
+  },
+  {
+    "uuid": "1dd5fba54c42e8b78b170b56fd5e66021f8f6767",
+    "url": "https://www.nasdaq.com/articles/ai-and-robotics-etf-aiq-hits-new-52-week-high-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zacks",
+    "published": "2023-12-28T21:29:00Z",
+    "title": "AI and Robotics ETF (AIQ) Hits New 52-Week High",
+    "text": "For investors seeking momentum, Global X Artificial Intelligence & Technology ETF\n[AIQ](/market-activity/etf/aiq) is probably on the radar. The fund just hit a 52-week high and is up 60.01% from its 52-week low price of $19.58/share.\nBut are more gains in store for this ETF? Let’s take a quick look at the fund and the near-term outlook on it to get a better idea of where it might be headed:\nAIQ in Focus\nThe underlying Indxx Artificial Intelligence & Big Data Index is designed to provide exposure to exchange-listed companies in developed markets that are positioned to benefit from the further development and implementation of artificial intelligence technology, as well as to companies that provide critical technology and services for the analysis of large and complex data sets. The product charges 68 bps in annual fees (see:\nArtificial Intelligence And Robotics ETF).\nWhy the Move?\nThe global AI market is forecast to witness a CAGR of about 17.3% from to 2023 to 2030, reaching a valuation of around $738.80 billion,\naccording to Statista. The potential of AI to revolutionize global productivity and GDP is immense.\nNotably, AI has deeply infiltrated numerous sectors across our society. It has made its mark in healthcare, transportation, entertainment and cybersecurity, transforming and revolutionizing these industries. With innovative projects and major product launches this year, the artificial intelligence boom is expected to prevail in 2024. Increasing corporate spending on AI is also acting as a tailwind for the fund.\nMore Gains Ahead?\nCurrently, it might continue its strong performance in the near term,\nwith a positive weighted alpha of 52.16, which gives cues of a further rally.\nWant key ETF info delivered straight to your inbox?\nZacks’ free Fund Newsletter will brief you on top news and analysis, as well as top-performing ETFs, each week.\nGet it free >> Want the latest recommendations from Zacks Investment Research? Today, you can download 7 Best Stocks for the Next 30 Days. Click to get this free report Global X Artificial Intelligence & Technology ETF (AIQ): ETF Research Reports To read this article on Zacks.com click here.\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://www.statista.com/outlook/tmo/artificial-intelligence/worldwide",
+      "https://www.barchart.com/etfs-funds/quotes/AIQ/overview",
+      "https://www.zacks.com/registration/pfp/?ALERT=RPT_7BST_LP194&ADID=SYND_NASDAQ_7BEST_ETFNEWSANDCOMMENTARY&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://www.zacks.com/registration/newsletter/?type=FND&adid=SYND_NASDAQ_ZU_FUNDSNEWSLETTERMONEYSENSEEDCETF_ETFNEWSANDCOMMENTARY_IND_12282023&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://www.zacks.com/funds/etfs/etf-categories/Artificial-Intelligence-and-Robotics-ETF-79",
+      "https://www.zacks.com/stock/news/2203332/ai-and-robotics-etf-aiq-hits-new-52-week-high?cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://www.zacks.com/registration/pfp/?ALERT=ETF225&adid=SYND_NASDAQ_TCK_ETFNEWSANDCOMMENTARY&d_alert=rd_final_rank&t=AIQ&split=1&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://zacks.com/registration/newsletter/?type=FND&adid=SYND_NASDAQ_ZU_FUNDSNEWSLETTERMONEYSENSEEDCETF_ETFNEWSANDCOMMENTARY_IND_12282023&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://zacks.com/stock/news/2203332/ai-and-robotics-etf-aiq-hits-new-52-week-high?cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://zacks.com/registration/pfp/?ALERT=ETF225&adid=SYND_NASDAQ_TCK_ETFNEWSANDCOMMENTARY&d_alert=rd_final_rank&t=AIQ&split=1&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://barchart.com/etfs-funds/quotes/AIQ/overview",
+      "https://zacks.com/registration/pfp/?ALERT=RPT_7BST_LP194&ADID=SYND_NASDAQ_7BEST_ETFNEWSANDCOMMENTARY&cid=CS-NASDAQ-FT-etf_news_and_commentary-2203332",
+      "https://zacks.com/funds/etfs/etf-categories/Artificial-Intelligence-and-Robotics-ETF-79",
+      "https://www.zacks.com/stock/news/2203332/ai-and-robotics-etf-aiq-hits-new-52-week-high",
+      "https://www.zacks.com/registration/newsletter/",
+      "https://statista.com/outlook/tmo/artificial-intelligence/worldwide",
+      "https://www.zacks.com/registration/pfp/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "global x artificial intelligence & technology etf",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "statista",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:18:22.778+02:00",
+    "updated": "2023-12-29T01:18:22.778+02:00"
+  },
+  {
+    "uuid": "fef976213489cea267ab464cf6bc29172c8fc806",
+    "url": "https://www.nasdaq.com/articles/nicaragua-arrests-two-high-ranking-catholic-priests-with-close-ties-to-cardinal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2023-12-29T04:58:00Z",
+    "title": "Nicaragua arrests two high-ranking Catholic priests with close ties to cardinal",
+    "text": "By Ismael Lopez\nSAN JOSE, Dec 28 (Reuters) - Nicaraguan police detained on Thursday two senior Catholic priests who are close to the country's top church leader, a person with knowledge of the matter said, raising to at least six the number of clergymen detained this week.\nThe source, who declined to be named for fear of arrest, said the two priests were detained for publicly praying for jailed Bishop Rolando Alvarez, the most prominent critic of President Daniel Ortega.\nLocal media outlet Confidencial named the priests as Carlos Aviles and Hector Treminio, and noted that their arrest brings to at least six the number of priests detained over the past week, adding that two of the clerics had already been released.\nThe government's press office did not immediately respond to a request for comment.\nOver the past few years, Ortega's government has targeted members of the Catholic church, a crackdown officials have in the past said was needed to punish treasonous behavior or other alleged crimes.\nAviles is the second-highest ranking cleric in the Archdiocese of Managua, led by Cardinal Leopoldo Brenes, while Treminio is its treasurer.\nAlvarez, the bishop of Matagalpa, forcefully criticized the government's deadly response to mass protests that broke out in 2018, and was convicted of treason and sentenced to a 26-year prison term earlier this year.\nLast week, police arrested Bishop Isidro Mora of the Siuna diocese, making him the second bishop to be detained after Alvarez's detention in 2022.\nMany of the latest clergymen detained were arrested because they publicly offered prayers for Alvarez, according to the source and local media, but the government has not issued any statements explaining the priests' alleged crimes.\nNicaraguan Bishop Silvio Baez, who has been living in exile in Florida since 2019 and is the second-ranking leader of the archdiocese, called for the priests to be released.\n\"I ask God to protect them and that they be freed immediately!\" wrote in a post on X on Thursday.\nAccording to exiled Nicaraguan researcher Martha Patricia Molina, who publishes records of what she describes as the persecution of the Catholic Church under Ortega, the number of bishops, priests and seminarians behind bars in the country currently stands at nine.\n(Reporting by Ismael Lopez; Writing by David Alire Garcia and Miral Fahmy)\n(( ; +52 55 5282 7151; Reuters Messaging:\n[david.aliregarcia.thomsonreuters.com@reuters.net](rm://david.aliregarcia.thomsonreuters.com@reuters.net/)))\nThe views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "ismael lopez",
+          "sentiment": "negative"
+        },
+        {
+          "name": "catho",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hector treminio",
+          "sentiment": "none"
+        },
+        {
+          "name": "rolando alvarez",
+          "sentiment": "none"
+        },
+        {
+          "name": "ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "cardinal l",
+          "sentiment": "none"
+        },
+        {
+          "name": "carlos aviles",
+          "sentiment": "none"
+        },
+        {
+          "name": "daniel ortega",
+          "sentiment": "none"
+        },
+        {
+          "name": "aviles",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reuters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "confidencial",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "san jose",
+          "sentiment": "none"
+        },
+        {
+          "name": "nicaragua",
+          "sentiment": "none"
+        },
+        {
+          "name": "managua",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T07:41:35.312+02:00",
+    "updated": "2023-12-29T07:41:35.312+02:00"
+  },
+  {
+    "uuid": "69713d88e2c33b4afd6815794882ffefa595431d",
+    "url": "https://www.diariolibre.com/usa/actualidad/2023/12/29/aumento-del-flujo-migratorio-y-frio-fuerzan-a-improvisar-albergue/2563274",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diario Libre",
+    "published": "2023-12-29T15:29:00Z",
+    "title": "Aumento del flujo migratorio y frío fuerzan a improvisar albergue - Diario Libre",
+    "text": "El drástico aumento en el cruce de migrantes y las bajas temperaturas invernales han obligado al condado de Santa Cruz, en la frontera de Arizona con México, a improvisar un refugio en lo que anteriormente fue un banco.\n\"Este edificio tenía muchos años cerrado. Por ahora decidimos utilizarlo para albergar a los migrantes mientras esperan ser transportados a otros lugares, incluyendo albergues en Tucson y Phoenix\", dijo a EFE el alcalde de la ciudad de Nogales, Arizona, Jorge Maldonado.\nDiariamente la Patrulla Fronteriza está liberando a cientos de migrantes , en su mayoría familias enteras, en las calles de Nogales.\nLa cantidad es tan grande que esa ciudad del condado de Santa Cruz se vio obligada a buscar una forma de brindar refugio temporal a los migrantes para que no tengan que esperar en las calles expuestos a las bajas temperaturas del invierno.\nLa idea surgió después de que la semana pasada la región fuera azotada por una tormenta invernal que trajo lluvia por días y temperaturas gélidas.\n\"Para las madres y los niños es mejor esperar dentro del edificio que en las calles\", dijo el alcalde.\nAl momento en que bajan de los autobuses de la Patrulla Fronteriza , los migrantes son recibidos por empleados del condado, quienes en español les dan instrucciones.\nAfuera del inmueble se ha colocado un señalamiento que prohíbe acercarse o tomar fotografías a los migrantes , y se advierte al público que el edificio ya no es un banco.\nLa Patrulla Fronteriza Sector Tucson, el cual cubre el 90 % de la frontera de Arizona con México, reportó un incremento del 159 % en las detenciones de migrantes en esta región solamente durante noviembre.\nMientras que en octubre ese sector registró la detención de 46.349 migrantes , durante noviembre registró cerca de 120.000 detenciones.\nEl incremento en el cruce migratorio ha sido tan grande que a principios de diciembre la gobernadora de Arizona, la demócrata Katie Hobbs, ordenó el envío de miembros de la Guardia Nacional para asistir a la Patrulla Fronteriza.\nTEMAS - migrantes Seguir Tema + Siguiendo ✓ Refugio improvisado Seguir Tema + Siguiendo ✓ patrulla fronteriza Seguir Tema + Siguiendo ✓ flujo migratorio Seguir Tema + Siguiendo ✓ EFE Fehaciente, fidedigno y fácil. Agencia de noticias multimedia en español.\nEn portada Ver todos Actualidad Tres muertos y heridos en violentos incidentes en Año Nuevo en Santiago",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T19:27:17.432+02:00",
+    "updated": "2024-01-01T19:26:51.359+02:00"
+  }
+]

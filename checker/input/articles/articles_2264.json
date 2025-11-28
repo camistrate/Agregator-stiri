@@ -1,0 +1,437 @@
+[
+  {
+    "uuid": "ea6572deb59cadf5cd022388d9147a67644a974b",
+    "url": "https://roanoke.com/news/nation-world/government-politics/italy-g7/image_8fc5039b-0b0e-5bbb-93eb-33f62db11866.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Brandon, Pool",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "Italy G7",
+    "text": "Italy G7 - Alex Brandon, Pool - - Updated 0 Most Popular - [Roanoke woman convicted in Jan. 6 riots at U.S. Capitol](/news/local/crime-courts/roanoke-woman-convicted-in-jan-6-riots-at-u-s-capitol/article_97ba1026-276e-11ef-9a30-3bc95dced5f0.html) - [Mountain Valley Pipeline is done and ready, developers say](/news/local/mountain-valley-pipeline-is-done-and-ready-developers-say/article_240b4b94-274c-11ef-b5b5-cf8d162f1348.html) - [Christiansburg softball caps historic season with first state title](/sports/high-school/softball/christiansburg-softball-caps-historic-season-with-first-state-title/article_5863ccca-25c8-11ef-a516-4b0816ba57c0.html) - [Teen killed in Roanoke's second unjustified fatal shooting of 2024](/news/local/crime-courts/roanoke-teen-killed-homicide-shooting-fatal-ferncliff-avenue-northwest-police-jerry-stokes-caitlyn-cline-javonte-smith-jaevian-allen-uhura-willis/article_9d11be42-237d-11ef-bcac-cbb37b47cd64.html) - [In the region: Radford's Pittman transferring to Virginia Tech](/sports/college/baseball/virginia-tech-hokies/in-the-region-radfords-pittman-transferring-to-virginia-tech/article_f5d9bfa2-268e-11ef-a995-ff04e0a4c535.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alex brandon",
+          "sentiment": "negative"
+        },
+        {
+          "name": "radford",
+          "sentiment": "none"
+        },
+        {
+          "name": "pittman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "virginia tech",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "italy",
+          "sentiment": "none"
+        },
+        {
+          "name": "roanoke",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s. capitol",
+          "sentiment": "none"
+        },
+        {
+          "name": "[mountain valley pipeline",
+          "sentiment": "none"
+        },
+        {
+          "name": "christiansburg",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:07:26.541+03:00",
+    "updated": "2024-06-14T01:07:26.541+03:00"
+  },
+  {
+    "uuid": "a85883fe95cdfe49889c36177ce87e1653c17e02",
+    "url": "https://finance.sina.com.cn/jjxw/2025-03-13/doc-inepnchw5143846.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sina.com.cn",
+    "published": "2025-03-12T23:54:00Z",
+    "title": "德国可再生能源发电占比已近六成|德国_新浪财经_新浪网",
+    "text": "来源:新华社\n新华社柏林3月12日电 （记者杜哲宇）德国联邦统计局12日发布的最新数据显示，2024年德国可再生能源发电量同比增长2.3%，占总发电量的59.4%，达到历史新高，这一占比明显高于欧盟47.4%的整体水平。\n数据显示，风能依然是德国最主要的能源来源，占总发电量的31.5%；光伏发电同比大幅增长10.4%，达到595亿千瓦时，占总发电量的13.8%；水力发电量也同比增长10.3%，达到204亿千瓦时，占总发电量的4.7%。\n相比之下，以煤炭、天然气为代表的传统能源发电量同比下降11%，降至1751亿千瓦时，占总发电量的40.6%。煤炭虽仍是德国第二大能源来源，但其重要性持续下降，发电量同比减少16%，降至972亿千瓦时，占总发电量的22.5%，创下历史新低。天然气发电量小幅回升，同比增长4.6%，达到641亿千瓦时，占总发电量的14.9%。\n此外，由于制造业生产减少导致电力需求减少，以及从其他国家进口电量增加，2024年德国总发电量同比减少3.6%，降至4315亿千瓦时。\n德国正大力发展风能、 太阳能 等可再生能源，计划到2030年实现可再生能源占电力供应至少80%的目标，到2045年成为世界上第一批实现气候中和转型的工业国家之一。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Environment->energy resources",
+      "Environment->sustainability",
+      "Economy, Business and Finance->macro economics",
+      "Economy, Business and Finance->energy and resource"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T02:01:54.049+02:00",
+    "updated": "2025-03-13T02:01:54.049+02:00"
+  },
+  {
+    "uuid": "8d83a4148eed1670e95d89cd9915a422f70688f9",
+    "url": "https://indianexpress.com/article/india/feel-divine-energy-modi-ends-tamilnadu-visit-with-tribute-to-thiruvalluvar-9366570",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arun Janardhanan",
+    "published": "2024-06-01T18:49:00Z",
+    "title": "‘Feel divine energy’: Modi ends Tamil Nadu visit with tribute to Thiruvalluvar | India News - The Indian Express",
+    "text": "The visit mirrors Modi’s pattern of embarking on spiritual journeys at the end of significant political campaigns. Written by Arun Janardhanan Chennai | June 2, 2024 02:49 IST Follow Us PM Narendra Modi at the Thiruvalluvar statue, Saturday. (Image source: PTI) Prime Minister Narendra Modi, clad in white, emerged from his 45-hour-long meditation at the Vivekananda Rock Memorial on Saturday. His spiritual sojourn comes against the backdrop of the final phase of the Lok Sabha elections.\nThe Prime Minister’s meditation session began on the evening of May 30, in the Dhyan Mandapam, where the revered Swami Vivekananda is believed to have had a divine vision of Bharat Mata.\nThe rock memorial, set against the backdrop of Kanyakumari’s famed sunrise and sunset vistas, sits on a tiny islet where the Eastern and Western coastlines of India meet, and where the Indian Ocean, Bay of Bengal, and Arabian Sea converge. At dawn, Modi performed the Surya Arghya, a ritual involving the offering of water to the sun, symbolising reverence and gratitude. Clad in saffron, he poured water from a traditional, small beaker-like vessel into the sea, chanting prayers.\nAdvertisement Also Read | PM Modi in Kanyakumari: Can a meditation break work for you? After completing his meditation, Modi paid floral tributes to the 133-foot statue of Thiruvalluvar, a towering figure in Tamil literature, which stands adjacent to the rock memorial. Arriving at the statue complex by ferry, he placed a garland at the poet’s feet.\nAfter completing his meditation, Modi returned to the mainland by ferry and took the helicopter to Thiruvananthapuram before taking an aircraft to Delhi around 4 pm. On completing his meditation, he wrote, “Visiting the Vivekananda Rock Memorial at Kanyakumari, the southernmost tip of India, I feel a divine energy. It is on this rock that Mother Parvati and Swami Vivekananda had meditated. Later, Eknath Ranade transformed this rock into a ‘Shila Smarak’ that brought Swami Vivekananda’s thoughts to life. Swami Vivekananda, a leader of spiritual renaissance, has been my ideal, my energy, and the source of my spirituality.”\n“My meditation at this ‘Shila Smarak’ is one of the unforgettable moments of my life. Sitting at the feet of ‘Ma Bharati’, I once again reaffirm my resolve that every moment of my life and every particle of my body will always be dedicated to the service of the nation,” he wrote. “With wishes for the progress of the nation and the welfare of its citizens, I offer my utmost reverence to ‘Ma Bharati’.”\nPM Shri @narendramodi performed 'Dhyana' at the Swami Vivekananda Rock Memorial in Kanniyakumari, Tamil Nadu . pic.twitter.com/Y2aWgv1tW8\n— BJP (@BJP4India) June 1, 2024\nThe visit mirrors Modi’s pattern of embarking on spiritual journeys at the end of significant political campaigns. In 2019, he visited Kedarnath, a sacred Hindu pilgrimage site in the Himalayas. In 2014, following his electoral victory, he travelled to Shivaji’s Pratapgarh fort.\nAdvertisement A BJP statement ahead of his journey to Kanyakumari spoke about mythological links of the rock, where Goddess Parvati is believed to have meditated on one foot, awaiting her union with Lord Shiva. The Rock Memorial was built in 1970 to commemorate visit of Swami Vivekananda, who meditated here before his journey to the West.\nClick here for real-time updates on the Lok Sabha 2024 Exit Poll results\n© The Indian Express Pvt Ltd First uploaded on: 02-06-2024 at 02:49 IST Tags: Narendra Modi Latest Comment Post Comment Read Comments Advertisement KCET 2024 Results declared at cetonline.karnataka.gov.in Education Updated: June 1, 2024 18:26 IST The Karnataka Examination Authority has declared the KCET results on June 1. The exam was held on April 18 and 19 for admissions to BTech programmes. Students can check their results on the official website by entering their registration number and name.\nView all shorts Live Blog UEFA Champions League Final, Real Madrid vs Dortmund Live Score: Madrid win 15th UCL title with 2-0 win at Wembley; Dani Carvajal and Vinicius Jr with the goals 22 mins ago West Bengal Exit Polls Result 2024 Live Updates: Pollsters predict edge for BJP over TMC 4 hours ago Exit Poll 2024 Live Updates: BJP makes big gains in Bengal, South as multiple surveys predict NDA returning to power with thumping majority 4 hours ago Bihar Exit Poll Results 2024 Live Updates: BJP-led NDA likely to win more than 30 seats, 2-4 for INDIA bloc, predict surveys 4 hours ago\nBest of Express As curtains come down on Lok Sabha polls, Modi says INDIA bloc’s ‘regressive politics rejected by people’ Cities Defying threats, women in Sandeshkhali step out to vote without fear after years Entertainment Exclusive | Film producer body, management agencies hold 'preliminary meeting' to tackle Bollywood stars' rising entourage cost Entertainment 'Naseeruddin Shah smoked a lot, I would worry if he'd do his work properly': Shyam Benegal recalls Manthan shoot, calls Smita Patil 'diligent' Trending Lok Sabha Elections 2024: In Punjab, Indian Army personnel queue up to cast vote Trending Watch: Ghaziabad residents rescue monkey with ORS, massage, cold water bath amid rising temperatures Sports UEFA Champions League Final Live Score Sports Rishabh Pant, bowlers shine as India thump Bangladesh in T20 World Cup warm-up match Opinion For India to become ‘developed’ by 2047, here’s what we need to do Explained Why is India's North East witnessing record-breaking temperatures? Lifestyle Spicing up skincare: Can cinnamon treat acne? Here's what dermatologists have to say Technology How Meta's collaboration with creators is transforming sports consumption in India Advertisement Must Read Sports UEFA Champions League Final Live Score Sports Rishabh Pant, bowlers shine as India thump Bangladesh in T20 World Cup warm-up match Sports ReBorn in the USA: Cricket in the land of baseball Technology How Meta's collaboration with creators is transforming sports consumption in India Technology Tech for biodiversity is great but not at the cost of forest communities: Anita Arjundas Tech Layoffs 2024: May sees massive decline in job cuts, dropping to 9k from April's 21k Lifestyle Spicing up skincare: Can cinnamon treat acne? Here's what dermatologists have to say Advertisement Buzzing Now Trending Lok Sabha Elections 2024: In Punjab, Indian Army personnel queue up to cast vote Trending Watch: Ghaziabad residents rescue monkey with ORS, massage, cold water bath amid rising temperatures Trending Pakistan bowler Naseem Shah consoles boy with fake autograph on behalf of Babar Azam, wins hearts Trending Bihar man performs risky bike stunt to film reel, fined by police Trending Leopard leaps over 10 ft wall to hunt hen; spreads panic among Coimbatore residents Jun 01: Latest News 01 Virat Kohli on importance of T20 World Cup in USA: ‘Tells you about growing impact of the sport in the world’ 02 Sanders criticises Trump on climate change amidst heatwave in India 03 Days before counting, Congress Pune candidate says strong room norms violated 04 EC seeks report on Uddhav Thackeray’s press conference on voting day 05 Petition filed against Pakistan PM Shehbaz Sharif for calling country’s judiciary ‘black sheep’ Advertisement Link Subscription Subscribe Sign In e-paper Premium India Elections 2024 Bollywood Opinion Political Pulse Explained Science Cricket Sports World Business Entertainment Jobs Health Lifestyle Technology Education Movie Review Eye Trending Cities Newsletters WebSeries Photos Videos Audio Web Stories Trending UPSC Pack EXIT POLL RESULTS 2024 🗳️ History of Elections Premium Stories 📝 Shorts Mini Games 🎙️ Podcast Brand Solutions close Edition India International Subscribe Sign In e-paper Premium India Elections 2024 Bollywood Opinion Political Pulse Explained Science Cricket Sports World Business Entertainment Jobs Health Lifestyle Technology Education Movie Review Eye Trending Cities Newsletters WebSeries Photos Videos Audio Web Stories Top Categories Explained News Political Pulse Latest Opinion Mumbai News Delhi News Pune News Bangalore News Bollywood News Health News India News Sports News Lifestyle News Latest News Cricket Tech Reviews Gadgets Mobile & Tabs Food & Wine Elections 2024 Fitness Trending News Latest News Health and Wellness Education News Buy All-Access Plan Entertainment News Trending News Political News Business News Why Subscribe Indian Express Buy Digital Premium Subscribe To The Indian Express Lok Sabha Election Schedule Indian Express subscription UPSC offer Exit Poll Results 2024 LATEST STORIES With exit poll results and BJP’s return, a message: North to South, the Indian voter has evolved Rishabh Pant up the order, Arshdeep Singh with new ball, no room for Yashasvi Jaiswal: Win over Bangladesh in warm-up game hints at India’s tactics BMC gears up for monsoon, deploys 481 dewatering pumps in low lying areas Rahul writes to President against Agnipath scheme, urges her to intervene Three agro firm owners, agent booked for duping Kandivali businessman of Rs 1.32 crore German court orders man born in Afghanistan held after knife attack at an anti-political Islam event Idaho jury deliberating sentence for man who killed wife and girlfriend’s 2 children If each sadhu is allowed to build shrine on public land, it would lead to disastrous consequences: Delhi HC Yemen’s Houthis sentence 44 to death on charges of collaboration with a Saudi-led coalition Exit polls are a lot like trailer-only shows — picture abhi baaki hai Gross GST collections up 10% to Rs 1.73 lakh crore in May, growth rate moderates T20 World Cup 2024 Q&A: Do you have to wake up early to watch India’s matches? And other key questions answered Panama prepares to evacuate first island in face of rising sea levels Exit polls forecast resounding return of BJP-led NDA for third term, significant gains in South Boeing’s Starliner ready for first crewed launch halted again UEFA Champions League Final, Real Madrid vs Dortmund Live Score: Madrid win 15th UCL title with 2-0 win at Wembley; Dani Carvajal and Vinicius Jr with the goals Follow Us Download Apps The Indian Express website has been rated GREEN for its credibility and trustworthiness by Newsguard, a global service that rates news sources for their journalistic standards. Express Group The Indian Express ieTamil.com The Financial Express ieBangla.com Loksatta ieMalayalam.com Jansatta ieGujarati.com inUth The ExpressGroup MyInsuranceClub Newsletters 26/11 Stories of Strength Ramnath Goenka Excellence in Journalism Awards Online Classes for Kids Light House Journalism Compare Term Insurance Quick Links T&C Privacy Policy Advertise with Us Brand Solutions Contact Us Subscribe Statutory provisions on reporting (sexual offenses) This website follows the DNPA’s code of conduct CSR Copyright © 2024 The Indian Express [P] Ltd. All Rights Reserved",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "narendra modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "modi",
+          "sentiment": "negative"
+        },
+        {
+          "name": "swami vivekananda",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "indian express",
+          "sentiment": "negative"
+        },
+        {
+          "name": "india news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "surya arghya",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "tamil nadu",
+          "sentiment": "none"
+        },
+        {
+          "name": "india",
+          "sentiment": "none"
+        },
+        {
+          "name": "bharat mata",
+          "sentiment": "none"
+        },
+        {
+          "name": "indian ocean",
+          "sentiment": "none"
+        },
+        {
+          "name": "kanyakumari",
+          "sentiment": "none"
+        },
+        {
+          "name": "bay of bengal",
+          "sentiment": "none"
+        },
+        {
+          "name": "vivekananda rock memorial",
+          "sentiment": "none"
+        },
+        {
+          "name": "arabian sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "lok sabha",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T00:29:15.907+03:00",
+    "updated": "2024-06-02T01:01:28.272+03:00"
+  },
+  {
+    "uuid": "ed05d2b1d98695dd377c473f12b5032775de3709",
+    "url": "https://www.eib.org/en/stories/oradea-sustainable-urban-infrastructure-romania",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andreia Nuno",
+    "published": "2024-07-05T06:00:00Z",
+    "title": "How to plan a green city",
+    "text": "The\nMunicipality of Oradea in Romania illustrates perfectly that smaller cities can play a significant role in promoting sustainability and climate action.\nAn important social, economic, and cultural centre in Romania’s North-West, Bihor County’s capital and a growing city, Oradea set clear objectives to improve the quality of life for its residents and to become a model for sustainable urban development. And over the years, the Municipality has accomplished them and set new ones. The Municipality’s journey has been in partnership with the European Investment Bank, working together for the last 15 years. Here’s how a relatively small city made big strides towards a better life for its citizens.\n“It has been very rewarding to witness the progress the municipality has made,” says Patricia Llopis, a senior urban specialist at the European Investment Bank who works with Oradea. “They prove time and time again that being a smaller municipality is not a disadvantage. They built their capacity over time, their knowledge and understanding, investing in ever greener projects, matching the EIB’s green ambitions, while having a major impact on citizens’ lives and delivering positive results.”\n- Read about\n[renovation of the University of Medicine, Pharmacy, Science, and Technology in Târgu Mureş in Romania](/en/stories/romania-university-renovation)\nOredea and the EIB\nSince 2008, the Municipality of Oradea has signed six contracts with the\nEuropean Investment Bank for a total of [€115 million](/en/press/all/2023-235-eib-group-and-romania-marking-30-years-of-partnership-with-eur675-million-in-new-financing), part of an investment programme of around €380 million, co-financed with EU structural funds These loans have made it possible for the municipality to – inter alia - upgrade public transport and improve road safety as well as rehabilitate the city hall and a number of other important public buildings. The EIB financing also supported the expansion of the emergency unit at the local hospital; energy efficiency improvements to public street lighting, schools and hospitals; the construction of student dormitories, the exploitation of underground water for geothermal water heat, and the laying out of new public parks.\nMost recently, EIB and Oradea Municipality signed a loan for EUR 20.9m in June 2023 toward financing smart public lighting, the modernisation of the city’s central park and the greening of public transport. Oradea can be a source of inspiration for other medium-sized municipalities across Europe. Over the years Oradea has worked with the EIB on 123 projects, step-by-step and project-by-project delivering a positive impact on the quality of life of its citizens, on the environment and on climate.\n“By combining grants from the EU structural funds with EIB loans, Oradea Municipality has managed to implement a number of impactful investments faster and at a larger scale than would have been possible with EU grants alone.” says Snezhina Kovacheva, the loan officer from the European Investment Bank who works on the project. “Oradea Municipality exemplifies the type of impact that can be achieved when a compelling political vision is combined with implementation capacity at the local level.”\nImprove public buildings and green open spaces\nThe need for more open, green and recreational spaces for the city’s residents led the municipality to develop the Oradea Green City Programme.\nThis strategic planning document outlines the priorities “for the development of green urban public space and the increase in the standard of living of the municipality’s citizens,” says Florin Birta, Mayor of Oradea.\nUnder the Green City Programme, 91.3% of the population will have access to a public green urban space within a five-minute walk from their home by 2030 and green space per inhabitant will rise from 23 square meters per inhabitant to 29.4 square metres, an excellent level by European standards.\nImproving energy efficiency in public buildings and spaces\nInvestment in smart public lighting—with LED lighting and motion sensors— aims to improve the urban safety of Oradea’s citizens, making sure that every pedestrian street and road is well-lit, particularly in winter.\nThe municipality is also developing a new management system to control and reduce its energy costs. The new system identifies faults and reduce repair times.\n“We want Oradea to be a dynamic city, where the municipality is a key player in active development by creating the right conditions for that development, through the necessary public investments,” says Mayor Birta.\nContinue to develop public transport\nEach day, Oradea Municipality’s local public transport network carries people on 175 000 trips, mostly on the tram and the bus. A modern and efficient public transport fleet attracts more users and has a smaller carbon footprint that a more dated fleet would, reducing environmental pollution and contributing to climate action.\nThe municipality intends to develop its public transport infrastructure further, develop new means of public transport and link different types of public transport together as well as expand pedestrian areas and cycling routes.\nThe modernisation of the city’s streets gives public transport priority over private vehicles.\n- Read about\n[Romanian transport infrastructure](/en/stories/romanian-transport-infrastructure-roller-coaster-ride)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Education",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://oradea.ro/en/",
+      "https://oradea.ro/en",
+      "https://www.oradea.ro/en/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "patricia llopis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "municipality",
+          "sentiment": "none"
+        },
+        {
+          "name": "european investment bank",
+          "sentiment": "none"
+        },
+        {
+          "name": "eib",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "oradea",
+          "sentiment": "none"
+        },
+        {
+          "name": "romania",
+          "sentiment": "none"
+        },
+        {
+          "name": "west",
+          "sentiment": "none"
+        },
+        {
+          "name": "bihor county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T15:08:21.998+03:00",
+    "updated": "2024-07-05T15:08:21.998+03:00"
+  },
+  {
+    "uuid": "2bd8a79d9a9b9328d14e272c36b1caa517715936",
+    "url": "https://www.vavel.com/es/futbol/2025/03/19/real-madrid/1217539-dani-carvajal-acelera-su-regreso-quiere-estar-en-el-mundial-de-clubes.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iker Vicente Mohorte",
+    "published": "2025-03-19T22:53:00Z",
+    "title": "Dani Carvajal acelera su regreso: quiere estar en el Mundial de Clubes",
+    "text": "Dani Carvajal está en modo bestia. Cinco meses después de su grave lesión en la rodilla, el lateral del Real Madrid ya pisa el césped de Valdebebas y se marca un objetivo claro: estar listo para el Mundial de Clubes en junio. Su recuperación va viento en popa y su motivación está por las nubes.\nUna lesión que hizo temer lo peor\nEl 5 de octubre de 2024, en un partido contra el Villarreal, Carvajal sufrió una de las lesiones más complicadas de su carrera: rotura del ligamento cruzado anterior, colateral externo y el tendón poplíteo. Un combo terrible que lo obligó a pasar por el quirófano y empezar una recuperación durísima.\nA pesar del golpe, el madrileño nunca bajó los brazos. Desde el primer momento, su mentalidad fue clara: trabajar sin descanso para volver lo antes posible. Ahora, tras meses de rehabilitación, ya entrena con balón y pisa el césped, acercándose cada vez más a su regreso.\nUn regreso con fecha en la mira\nEl objetivo de Carvajal es claro: volver en junio para disputar el Mundial de Clubes en Estados Unidos. Su evolución ha sido tan buena que los médicos han tenido que pedirle que frene un poco: \"Le hemos tenido que parar\", dicen desde Valdebebas. Pero él sigue con el acelerador a fondo.\nAdemás, el Real Madrid lo espera con los brazos abiertos. La banda derecha ha sufrido sin él, y aunque Lucas Vázquez ha hecho lo que ha podido, su regreso es clave para reforzar al equipo de cara a la próxima temporada.\nCarvajal, más motivado que nunca\nEn una reciente entrevista, el lateral dejó claro su estado de ánimo: \"Estoy como un animal. Voy muy bien, avanzando día a día en plazos excelentes y sin contratiempos.\" Además, aunque reconoce que extraña jugar, ha aprovechado la lesión para pasar más tiempo con su familia.\nCon su vuelta cada vez más cerca, el madridismo ya sueña con ver de nuevo a uno de sus capitanes en acción. Y si algo ha demostrado Carvajal en toda su carrera, es que siempre vuelve más fuerte.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->regular competition",
+      "Sport->soccer",
+      "Sport->sport event"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:19:33.288+02:00",
+    "updated": "2025-03-20T01:19:33.288+02:00"
+  },
+  {
+    "uuid": "bc95f52c1aac1e65ad87be9f115516c30df681ba",
+    "url": "https://www.hellomagazine.com/celebrities/510658/sam-taylor-johnson-husband-aaron-rare-photos-vacation/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emmy Griffiths",
+    "published": "2024-01-05T21:58:00Z",
+    "title": "Sam Taylor-Johnson shares rare photo with rumoured James Bond husband Aaron in sweet vacay snaps",
+    "text": "Sam Taylor-Johnson and her husband Aaron have had an incredible time in the Caribbean, with Sam sharing very rare snaps of herself with her hubby after their relaxing stay. Posting a series of photos to Instagram, including snaps of the pair dancing on the beach, delicious cuisine, and spending time with their friends in Jamaica, the 56-year-old captioned the post: \"2024. Feeling the feelings,\" accompanied by hearts and Jamaica flag emojis. Fans were quick to comment, with one writing: \"Holy moly, that looks like an awesome time. I'd have just laid down taking in the vibe,\" while another person added: \"This is too perfect!! Fomo.\" The trip comes while the Internet is rife with reports that Aaron is set to become the new James Bond. After being quizzed about the gig back in August 2023, he told Esquire: \"What comes from [Kraven] could generate many different conversations… But this is the thing, right? As I’ve already told you, I have to go by the beat of my own drum. It’s my own path, what feels intuitive to me. \"I’ve never made a decision based on other people’s perspectives, or their judgments, or their expectations. You lose your [expletive] mind if you do that. Your sense of worth and soul is gone. You need to understand what is integral to you and what feels right, and you’ve got to stay on track with what’s present in front of you. Kraven is what’s in front of me. I’ve spent two years making Kraven. So all that hard work we put into trying to get that to where it is – that’s where I’m at right now.\" Sam and Aaron have been married since 2012, having met on the set on Nowhere Boy, and now share two daughters. Speaking about meeting her for the audition, Aaron told Harper’s Bazaar: \"I remember it very, very clearly. I know exactly what she was wearing. This white shirt that she still has, that I love. It definitely changed my life, though not in the way I expected.\" Addressing their 23-year age gap, he told The Telegraph: \"When I met Sam I'd already lived a life far beyond that of most of my contemporaries – I didn't relate to anyone my age. I just feel that we're on the same wavelength.\" Sam told The Sunday Times: \"We spend every minute of the day together. My friends call him Benjamin Button because he has — on the outside — such youth, and on the inside, he is so wise and settled. He doesn't like parties. He likes being at home and cooking for the family. He likes walking the dogs. He loves his chickens — he collects the eggs and makes breakfast for everyone.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sam taylor",
+          "sentiment": "positive"
+        },
+        {
+          "name": "aaron",
+          "sentiment": "positive"
+        },
+        {
+          "name": "james bond",
+          "sentiment": "positive"
+        },
+        {
+          "name": "sam shar",
+          "sentiment": "positive"
+        },
+        {
+          "name": "johnson",
+          "sentiment": "positive"
+        },
+        {
+          "name": "esquire",
+          "sentiment": "none"
+        },
+        {
+          "name": "fomo",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "caribbean",
+          "sentiment": "none"
+        },
+        {
+          "name": "jamaica",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:03:32.571+02:00",
+    "updated": "2024-01-06T02:01:37.107+02:00"
+  },
+  {
+    "uuid": "986fffc4682128426586800eb5aaf5bb382af615",
+    "url": "https://www.bostonherald.com/2024/05/06/droppa-support-the-national-wwii-memorial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jane Droppa",
+    "published": "2024-05-06T00:51:00Z",
+    "title": "Droppa: Support the National WWII memorial",
+    "text": "In times of war and peace, the role of our Allies has proven essential in preserving the basis for a stable, free and prosperous world. During World War II, cooperation between the Allied nations was critical in defeating the forces of tyranny and ending the deadliest military conflict in human history.\nAs we draw near the 79th anniversary of Victory in Europe Day, it’s a poignant moment to reflect on the immense sacrifices our Allies made alongside us in the defeat of Nazi Germany and the jubilant worldwide celebrations that followed with the triumph of liberty. In today’s turbulent global landscape, I remain optimistic that Americans and our global counterparts will remember the remarkable achievements born of unity in our pursuit of peace and freedom.\nAs the child of a World War II veteran, I hold a profound gratitude for my father’s selfless service, a sentiment shared by countless others whose families were touched by that era. Like the 16 million who served, my father embodied the resilience and values of the Greatest Generation. Another figure who left an indelible mark on that time was F. Haydn Williams, a lifelong friend of my parents. His honorable service throughout WWII is a testament to his dedication.\nIn 1993, Williams took the helm of the American Battle Monuments Commission’s National World War II Memorial Site and Design Committee, leading with unwavering commitment. His pivotal role in shaping the memorial’s vision and execution earned him the well-deserved title of the “Father of the World War II Memorial.”\nThe National World War II Memorial in Washington honors the 16 million who served in the U.S. armed forces during World War II, the more than 400,000 who died, and the millions who supported the war effort from home.\nSymbolic of the defining event of the 20th century, the memorial is a monument to the spirit, sacrifice and commitment of the American people to the common defense of the nation and the broader causes of peace and freedom from tyranny throughout the world. It inspires future generations, deepening their appreciation of what the World War II generation accomplished in securing freedom and democracy.\nAs with any public structure, the memorial needs continual repair and maintenance. It is only one of many memorials for which the National Park Service is responsible. It is the mission of Friends of the National World War II Memorial to focus solely on this memorial, its needs and the educational programming opportunities associated with it.\nAs such, Congress passed a law authorizing the U.S. Treasury to mint coins commemorating the memorial. Proceeds from the sale of the commemorative coins will go to the Friends of the National World War II Memorial to be used to maintain and repair the memorial and for educational and commemorative programming.\nThe Greatest Generation was the last to fight in a world war. With less than 120,000 of these treasured heroes still with us, let’s take a moment to honor those who fought across Europe and all who served.\nJane Droppa is the chair of the Friends of the National World War II Memorial in Washington/InsideSources",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nazi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-06T08:00:15.159+03:00",
+    "updated": "2024-05-06T09:37:49.283+03:00"
+  }
+]

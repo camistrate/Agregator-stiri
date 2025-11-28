@@ -1,0 +1,287 @@
+[
+  {
+    "uuid": "cbdbaad1758bc3dc58f84a4a706bd502fc2032f1",
+    "url": "https://profit.pakistantoday.com.pk/2025/02/27/aws-joins-google-microsoft-in-quantum-computing-race-with-ocelot-chip",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Monitoring Desk",
+    "published": "2025-02-27T14:34:00Z",
+    "title": "AWS joins Google, Microsoft in quantum computing race with Ocelot chip",
+    "text": "Amazon Web Services (AWS), the cloud computing unit of Amazon.com, unveiled a new quantum computing chip named Ocelot on Thursday, aiming to shorten the timeline for building a commercially viable quantum computer by up to five years.\nThe announcement coincided with the publication of a peer-reviewed study in the journal Nature.\nOcelot is a prototype with limited computing power, but AWS believes it has identified scalable technology to advance quantum computing. AWS joins industry competitors Alphabet, Microsoft, and startup PsiQuantum, which have also announced quantum advancements in recent months.\nQuantum computers have the potential to perform computations that conventional computers would take millions of years to complete, aiding research in fields such as material science and pharmaceuticals. However, quantum computing faces challenges due to the instability of qubits, its fundamental processing units.\nAWS has developed a prototype chip that uses only nine physical qubits to generate one functional logical qubit by leveraging “cat” qubits, named after physicist Erwin Schrödinger’s thought experiment. The standard industry approach estimates a need for about a million physical qubits to achieve useful computing power, but AWS claims its method could reduce that number to 100,000.\nAWS has not set a timeline for when its quantum technology will be commercially ready but sees the development as a significant step toward practical quantum computing.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->scientific research",
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Erwin Schrödin",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Amazon.com",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Google",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Microsoft",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:08:03.707+02:00",
+    "updated": "2025-02-28T00:08:03.707+02:00"
+  },
+  {
+    "uuid": "af80795fb4aa397082c5f8addfd20c7e5fd20f30",
+    "url": "https://www.lanazione.it/siena/cronaca/beko-sciopero-e-presidio-a-siena-vogliamo-risposte-e-garanzie-f8504920",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "La Nazione",
+    "published": "2024-09-13T05:11:00Z",
+    "title": "Beko, sciopero e presidio a Siena: \"Vogliamo risposte e garanzie\"",
+    "text": "Sciopero di due ore tra la fine del primo e l’inizio del secondo turno e presidio davanti alla fabbrica. Hanno incrociato le braccia e gridato la loro preoccupazione i 299 lavoratori dello stabilimento senese di Beko Europe, dove ieri è iniziata la “stagione della mobilitazione“. A fronte dell’improvvisa chiusura di due siti produttivi in Polonia e del trasferimento della produzione in Turchia, è scattata la protesta per le ripercussioni che tali provvedimenti avranno sul territorio nazionale. In attesa di un nuovo incontro al ministero delle Imprese e del made in Italy, alla luce del \"silenzio assordante\" opposto dalla multinazionale alle ripetute richieste di condivisione del piano industriale presentate dai sindacati, ieri la produzione si è fermata in tutti i cinque stabilimenti italiani. Quello di Siena viene considerato quello più a rischio, in quanto l’anno si chiuderà con una produzione di 267mila pezzi (congelatori), cioè il minimo storico. Da oltre un anno i lavoratori, nonostante il passaggio da Whirlpool a Beko lo scorso aprile, si trovano in cassa integrazione in media per 7-10 giorni al mese con conseguente ’taglio’ degli stipendi.\n\"Questo è solo il primo passo – hanno tuonato i segretari di Fiom, Fim e Uilm di Siena –, è il segnale per dire a Beko che non potrà fare in Italia quello che ha già fatto in Polonia. Comune e Regione utilizzino tutti gli strumenti in loro possesso per governare questa crisi, che rischia di avere ripercussioni impattanti non soltanto a Siena, ma anche su tutto il territorio provinciale\". Ad aggravare la situazione, il fatto che proprio ieri l’azienda ha modificato all’improvviso il calendario dei giorni di cassa integrazione di settembre per problemi nell’approvvigionamento dei materiali. E mentre sindacati e lavoratori hanno ribadito la richiesta al ministero di convocare al più presto il tavolo a Roma, ieri qualcosa si è mosso: Valerio Fabiani, delegato del presidente Giani alle crisi industriali, ha fissato per l’8 ottobre un incontro con Beko per fare il punto della situazione e cercare una mediazione.\nSolidarietà ai 299 operai è stata espressa dalla consigliera regionale Pd Anna Paris, dalla candidata del centrosinistra alla presidenza della Provincia Agnese Carletti e dal gruppo Dem in Consiglio comunale a Siena, promotore di un’interrogazione urgente al sindaco Nicoletta Fabio, firmata da tutte le opposizioni. Vicinanza ai lavoratori anche dai consiglieri comunali di Fdi, Pierluigi De Angelis ed Emanuela Anichini.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Labor"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-13T10:14:22.949+03:00",
+    "updated": "2024-09-13T10:14:22.949+03:00"
+  },
+  {
+    "uuid": "16c20481568c6d41fb03f6da0b5452a567a50aa9",
+    "url": "https://newstral.com/es/article/es/1259948075/lleva-la-uat-a-universitarios-campa%C3%B1a-de-salud-preventiva-y-vacunaci%C3%B3n",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newstral.com",
+    "published": "2024-11-08T00:00:00Z",
+    "title": "laverdad.com.mx: «Lleva la UAT a universitarios campaña de salud preventiva y vacunación» - Artículos tematicamente parecidos - Newstral.com",
+    "text": "Newstral Artículo [Llaverdad.com.mx](/es/sources/470616) el 2024-11-08 01:59 Lleva la UAT a universitarios campaña de salud preventiva y vacunación Noticias relacionadas [Lleva UAT a universitarios programa de salud preventiva](http://www.ultimasnoticiasenred.com.mx/el-lado-amable/lleva-uat-a-universitarios-programa-de-salud-preventiva/)[ultimasnoticiasenred.com.mx](/es/sources/203784)[D](http://diariodebate.com)[Lleva UAT a Universitarios Programa de Salud Preventiva](http://diariodebate.com/uat/lleva-uat-a-universitarios-programa-de-salud-preventiva/)[diariodebate.com](/es/sources/203973)[E](http://elmercurio.com.mx)[Arranca en la UAT campaña ‘Universitarios con Corazón de Niño’](https://elmercurio.com.mx/la-region/arranca-en-la-uat-campana-universitarios-corazon-nino)[elmercurio.com.mx](/es/sources/222870)[E](https://eldiariomx.com)[Se suma UAT a campaña intensiva de vacunación](https://eldiariomx.com/2022/04/25/se-suma-uat-campana-intensiva-vacunacion/)[eldiariomx.com](/es/sources/474248)[L](https://laverdad.com.mx)[Promueve la UAT campaña de salud preventiva en el Campus Victoria](https://laverdad.com.mx/2024/09/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)[laverdad.com.mx](/es/sources/470616)[Promueve la UAT campaña de salud preventiva en el Campus Victoria](https://ultimasnoticiasenred.com.mx/el-lado-amable/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)[ultimasnoticiasenred.com.mx](/es/sources/203784)[L](http://www.lajornadadeoriente.com.mx)[Dispone la UAT de 385 voluntarios para participar en la campaña de vacunación contra el Covid-19; rector](https://www.lajornadadeoriente.com.mx/tlaxcala/uat-voluntarios-vacunacion-covid-19-rector/)[lajornadadeoriente.com.mx](/es/sources/203759)[L](http://www.lajornadadeoriente.com.mx)[Reconoce UAT trayectoria de trabajadores universitarios](https://www.lajornadadeoriente.com.mx/tlaxcala/reconoce-uat-trayectoria-de-trabajadores-universitarios/)[lajornadadeoriente.com.mx](/es/sources/203759)[E](http://elgraficotam.com.mx)[Apoya la UAT economía de los universitarios](https://elgraficotam.com.mx/2019/08/12/apoya-la-uat-economia-de-los-universitarios/)[elgraficotam.com.mx](/es/sources/203861)[Aplica UAT programa de salud preventiva](https://eldiariodevictoria.com/2019/06/18/aplica-uat-programa-de-salud-preventiva/)[eldiariodevictoria.com](/es/sources/203738)[Arrancará campaña de vacunación](https://www.diariomarca.com.mx/2023/09/arrancara-campana-de-vacunacion/)[diariomarca.com.mx](/es/sources/203927)[E](http://expreso.press)[Promueve UAT campañas de salud preventiva en universitarios](https://expreso.press/2018/09/13/promueve-uat-campanas-de-salud-preventiva-en-universitarios/)[expreso.press](/es/sources/203797)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://expreso.press)",
+      "https://laverdad.com.mx)",
+      "https://eldiariomx.com/2022/04/25/se-suma-uat-campana-intensiva-vacunacion/)",
+      "https://laverdad.com.mx/2024/09/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)",
+      "https://eldiariodevictoria.com/2019/06/18/aplica-uat-programa-de-salud-preventiva/)",
+      "https://www.lajornadadeoriente.com.mx/tlaxcala/reconoce-uat-trayectoria-de-trabajadores-universitarios/)",
+      "https://www.lajornadadeoriente.com.mx/tlaxcala/uat-voluntarios-vacunacion-covid-19-rector/)",
+      "http://www.ultimasnoticiasenred.com.mx/el-lado-amable/lleva-uat-a-universitarios-programa-de-salud-preventiva/)",
+      "https://elmercurio.com.mx/la-region/arranca-en-la-uat-campana-universitarios-corazon-nino)",
+      "http://diariodebate.com)",
+      "http://www.lajornadadeoriente.com.mx)",
+      "https://ultimasnoticiasenred.com.mx/el-lado-amable/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)",
+      "https://eldiariomx.com)",
+      "http://elgraficotam.com.mx)",
+      "http://elmercurio.com.mx)",
+      "https://www.diariomarca.com.mx/2023/09/arrancara-campana-de-vacunacion/)",
+      "http://diariodebate.com/uat/lleva-uat-a-universitarios-programa-de-salud-preventiva/)",
+      "https://elgraficotam.com.mx/2019/08/12/apoya-la-uat-economia-de-los-universitarios/)",
+      "https://expreso.press/2018/09/13/promueve-uat-campanas-de-salud-preventiva-en-universitarios/)",
+      "https://www.eldiariomx.com/2022/04/25/se-suma-uat-campana-intensiva-vacunacion/)",
+      "https://www.eldiariomx.com)",
+      "http://ultimasnoticiasenred.com.mx/el-lado-amable/lleva-uat-a-universitarios-programa-de-salud-preventiva/)",
+      "https://diariomarca.com.mx/2023/09/arrancara-campana-de-vacunacion/)",
+      "https://www.laverdad.com.mx)",
+      "https://www.expreso.press/2018/09/13/promueve-uat-campanas-de-salud-preventiva-en-universitarios/)",
+      "http://lajornadadeoriente.com.mx)",
+      "https://www.eldiariodevictoria.com/2019/06/18/aplica-uat-programa-de-salud-preventiva/)",
+      "https://www.ultimasnoticiasenred.com.mx/el-lado-amable/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)",
+      "http://www.diariodebate.com)",
+      "https://lajornadadeoriente.com.mx/tlaxcala/uat-voluntarios-vacunacion-covid-19-rector/)",
+      "https://lajornadadeoriente.com.mx/tlaxcala/reconoce-uat-trayectoria-de-trabajadores-universitarios/)",
+      "http://www.elmercurio.com.mx)",
+      "http://www.diariodebate.com/uat/lleva-uat-a-universitarios-programa-de-salud-preventiva/)",
+      "https://www.laverdad.com.mx/2024/09/promueve-la-uat-campana-de-salud-preventiva-en-el-campus-victoria/)",
+      "http://www.elgraficotam.com.mx)",
+      "http://www.expreso.press)",
+      "https://www.elmercurio.com.mx/la-region/arranca-en-la-uat-campana-universitarios-corazon-nino)",
+      "https://www.elgraficotam.com.mx/2019/08/12/apoya-la-uat-economia-de-los-universitarios/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T03:16:59.332+02:00",
+    "updated": "2024-11-08T03:16:59.332+02:00"
+  },
+  {
+    "uuid": "eb752329cfadc32101f9825f2a1664b187ab5611",
+    "url": "https://bvmsports.com/2025/01/16/nba-draft-prospect-credits-lebron-james-for-inspiring-him-to-take-unconventional-path",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@jonahkubicek",
+    "published": "2025-01-16T21:18:00Z",
+    "title": "NBA Draft prospect credits LeBron James for inspiring him to take unconventional path",
+    "text": "NBA Draft prospect credits LeBron James for inspiring him to take unconventional path\nThere was a point in time, up until the league banned the practice in 2006, where some of the very best players in the NBA skipped college entirely and went straight to the league out of high school. Kobe Bryant, Kevin Garnett, Jermaine O’Neal, Tracy McGrady, Dwight Howard and plenty of other players made the jump from high school to the NBA, but none found more lasting success than LeBron James, who won Rookie of the Year in 2004, a year after winning Ohio’s Mr. Basketball award. In recent years, players have avoided the NCAA by playing overseas or in…\nRead more at @sportingnews",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->basketball",
+      "Sport->sports honour",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.sportingnews.com/us/nba/los-angeles-lakers/news/nba-draft-prospect-credits-lebron-james-inspiring-him-take-unconventional-path/4fc8f843cc5242ce3439fea7",
+      "https://sportingnews.com/us/nba/los-angeles-lakers/news/nba-draft-prospect-credits-lebron-james-inspiring-him-take-unconventional-path/4fc8f843cc5242ce3439fea7"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "LeBron James",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Jermaine O’Neal",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kevin Garnett",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tracy McGrady",
+          "sentiment": "none"
+        },
+        {
+          "name": "Dwight Howard",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kobe Bryant",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "NBA",
+          "sentiment": "negative"
+        },
+        {
+          "name": "NCAA",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-17T00:07:33.734+02:00",
+    "updated": "2025-01-17T00:07:33.734+02:00"
+  },
+  {
+    "uuid": "529179466e291cfbe9637f14c3596271ea91b2b8",
+    "url": "https://www.trendencias.com/shopping/estas-zapatillas-skechers-les-da-mil-vueltas-comodidad-a-adidas-samba-cuestan-mitad",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@beneyto98",
+    "published": "2024-02-16T08:34:00Z",
+    "title": "Estas zapatillas Skechers les da mil vueltas en comodidad a las Adidas Samba y cuestan la mitad",
+    "text": "En el próximo mes me he hecho un planing, que espero cumplir con éxito, en el que he marcado las horas y los lugares a visitar en mi nueva ciudad. Por el momento, no quiero desvelar donde será, pero estoy segura de que me sorprenderá y ya os iré contando, pero todo a su tiempo. Por eso, necesitaré unas zapatillas que pueda llevar con todos los looks y, sinceramente, se conviertan en las más imprescindibles de mi fondo de zapatero. Skechers SKECH-AIR DYNAMIGHT THE HALCYON, Zapatillas para Mujer, Black Mesh / Rose Gold Trim, 35 EU Se trata de un modelo de Skechers que ya arrasó en 2023 y también espera hacerlo este año. Evidentemente, también me he fijado en su precio que sinceramente me ha animado considerablemente a meterla en el carrito inmediatamente. Estas zapatillas son negras con detalles metalizados en marrones. Este le da un carácter más elegante y, por supuesto, totalmente combinable con vestidos tanto en invierno como en primavera y con [vaqueros en tendencia](https://www.trendencias.com/propuestas-y-consejos/siete-vaqueros-que-tendencia-este-otono-invierno-2022-2023-siluetas-amplias-no-tienen-rival) si apostamos por un look más diario y urbano. Cuando me fijo en unas zapatillas por su diseño, sinceramente, no lo hago en unas Skechers. Casi siempre se me van los ojos detrás de unas [zapatillas New Balance](https://www.trendencias.com/shopping/zapatillas-new-balance-que-arrasan-2023-estas-que-puedes-elegir-tu-estilo-presupuesto) o Adidas, dependiendo del mood con el que me levante ese día. Pero en comodidad son las número uno y este modelo con espuma viscoelastica en la suela mucho más. El precio de las zapatillas en Amazon es [54,99 euros](https://www.trendencias.com/redirect?url=https%3A%2F%2Fwww.amazon.es%2Fdp%2FB08TP4QLT5%3Ftag%3Dtre-pivot-seleccion-21%26linkCode%3Dogi%26th%3D1%26psc%3D1%26asc_refurl%3D443198%26asc_source%3Dtrendencias%26asc_campaign%3Dperish&category=shopping&ecomPostExpiration=perish&postId=622937). Nota: Algunos de los enlaces de este artículo son afiliados y pueden reportar un beneficio económico a Trendencias. En caso de no disponibilidad, las ofertas pueden variar. Fotos | [@skechersspain](https://www.instagram.com/p/C0gbFEFrAML/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Amazon En Trendencias | [Zapatillas Salomon: la tendencia que vuelve pisando fuerte y cinco looks inspiradores para llevarlas con estilo](https://www.trendencias.com/shopping/zapatillas-salomon-tendencia-que-vuelve-pisando-fuerte-cinco-looks-inspiradores-para-llevarlas-estilo) En Trendencias | [Las camisetas tendencia en 2024: del polo de lujo a los diseños de alma motera](https://www.trendencias.com/propuestas-y-consejos/camisetas-que-seran-tendencia-2023-polo-lujo-a-disenos-alma-motera). En Trendencias | [Las 32 escapadas románticas por España para hacer en pareja en las que quizá no habías pensado](https://www.trendencias.com/viajes/27-escapadas-espana-para-hacer-pareja-que-quiza-no-habias-pensado).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Lifestyle and Leisure",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.instagram.com/p/C0gbFEFrAML/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==),",
+      "https://www.instagram.com/p/C0gbFEFrAML/",
+      "https://instagram.com/p/C0gbFEFrAML/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T11:37:28.880+02:00",
+    "updated": "2024-02-16T11:37:28.880+02:00"
+  }
+]

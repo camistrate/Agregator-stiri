@@ -1,0 +1,356 @@
+[
+  {
+    "uuid": "d1eebe2e851d59cf0c80a20e0f917201599daa86",
+    "url": "https://www.bhaskar.com/local/jharkhand/jamshedpur/news/tips-to-protect-children-from-heat-are-being-given-in-toy-bank-134896507.html",
+    "ord_in_thread": 0,
+    "author": "@dainikbhaskar",
+    "published": "2025-04-23T22:30:00Z",
+    "title": "टॉय बैंक में बच्चों को दिए जा रहे गर्मी से बचाव के टिप्स",
+    "text": "Hindi NewsLocalJharkhandJamshedpur- Tips To Protect Children From Heat Are Being Given In Toy Bank\nटॉय बैंक में बच्चों को दिए जा रहे गर्मी से बचाव के टिप्स\nजमशेदपुर45 मिनट पहले\n- कॉपी लिंक\nजमशेदपुर |गर्मी के मौसम को देखते हुए टॉय बैंक में बच्चों के लिए जागरूकता कार्यक्रम का आयोजन किया गया। कार्यक्रम में बच्चों को बताया गया कि तेज धूप और लू से कैसे बचा जाए और खुद को हाइड्रेटेड कैसे रखा जाए, इसकी जानकारी दी जा रही है। बच्चों को खूब पानी\n.\nपूरी खबर पढ़ें ऐप पर\",\"title\":\"टॉय बैंक में बच्चों को दिए जा रहे गर्मी से बचाव के टिप्स\",\"imageURL\":\"https://images.bhaskarassets.com/web2images/521/2020/11/db_1604320813.png\"}}}&feature=website&channel=locked_article&campaign=134896507)प्रीमियम मेंबरशिप है तो\nलॉगिन करें",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "hindi",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Health->health care approach",
+      "Health->health organisation",
+      "Health->public health",
+      "Education->social learning",
+      "Education->parents group",
+      "Education->students",
+      "Human Interest->ceremony"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://dainik-b-alternate.app.link?db_metadata={\"link\":{\"uri\":\"bhaskar://news/detail/\",\"data\":{\"storyId\":\"134896507\",\"catId\":\"6194\",\"catDisplayName\":\"जमशेदपुर (पूर्वी सिंहभूम",
+      "https://www.dainik-b-alternate.app.link?db_metadata={\"link\":{\"uri\":\"bhaskar://news/detail/\",\"data\":{\"storyId\":\"134896507\",\"catId\":\"6194\",\"catDisplayName\":\"जमशेदपुर (पूर्वी सिंहभूम",
+      "https://dainik-b-alternate.app.link"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T02:15:30.725+03:00",
+    "updated": "2025-04-24T02:15:30.725+03:00"
+  },
+  {
+    "uuid": "2a284c9c838125873cc99c3797a99f052bf45edb",
+    "url": "https://www.codeproject.com/Articles/5377602/Google-Sheets-in-Csharp-How-to-Build-Your-Own-Leve",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dev Leader",
+    "published": "2024-02-15T20:32:00Z",
+    "title": "Google Sheets in C# – How to Build Your Own Levels.fyi!",
+    "text": "Many developers are surprised to learn that levels.fyi, known for its tech salary data, initially ran on spreadsheets without a backend database. This example shows the potential of spreadsheets in managing web data and how you can start with something that works to optimize it later. We can do the same thing with Google Drive and Google Sheets in C#!\nIn this article, I’ll guide you through accessing Google Sheets from Google Drive using C# and .NET. I’ll share the code I used in my own personal projects to make some of this work more effectively. Let’s get into it!\nBefore we get too far into things, let’s make sure you have things setup properly. This will save you some time in the long run — I promise!\nBefore we start writing any code, ensure you have the necessary Google API packages installed. For this tutorial, we’re using:\nThese versions were current at the time of writing, so please adjust according to any future updates.\nTo interact with Google APIs in the same way that I’m illustrating in this tutorial, you’ll need a JSON credential file from the Google Cloud console. This involves creating a service account and sharing your Google Drive files with it, granting the necessary permissions. This step is critical for the API to access your spreadsheets.\nTo do this, make sure you log in to your Google Cloud console and create a new service account (or leverage an existing one). The reason a service account is beneficial here is that you get an associated email address with it, and you can share your files/folders with the email so that the service account gets permission. Without the correct permissions to your files, the API calls might be structured and called properly but they’ll fail to find any results!\nIf you’d like more visual guidance on some of these steps, you can follow along with this video tutorial on using Google Sheets in C#:\nThe first step in our C# application involves referencing the Google Sheets and Google Drive APIs through NuGet packages. You did that part though, right? You should have similar entries to this in your csproj file (keeping in mind the versions will likely be different by the time you are reading this):\n<PackageReference Include=\"Google.Apis.Drive.v3\" Version=\"1.66.0.3309\" />\n<PackageReference Include=\"Google.Apis.Sheets.v4\" Version=\"1.66.0.3148\" />\nYou’ll also need to ensure you get your credentials loaded up in code. This code illustrates setting up the authentication with our JSON credentials to establish a connection with Google’s services, using the correct scopes:\nvar credential = GoogleCredential\n.FromJson(\n\"\"\"\n{\n\"type\": \"service_account\",\n\"project_id\": \"api-abc123abc123-456789\",\n\"private_key_id\": \"123456789123456789\",\n\"private_key\": \"-----BEGIN PRIVATE KEY----KEY HERE------END PRIVATE KEY-----\\n\",\n\"client_email\": \"project-name@api-aabbcc-123456.iam.gserviceaccount.com\",\n\"client_id\": \"your client ID here\",\n\"auth_uri\": \"https://accounts.google.com/o/oauth2/auth\",\n\"token_uri\": \"https://oauth2.googleapis.com/token\",\n\"auth_provider_x509_cert_url\": \"https://www.googleapis.com/oauth2/v1/certs\",\n\"client_x509_cert_url\": \"https://www.googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com\",\n\"universe_domain\": \"googleapis.com\"\n}\n\"\"\")\n.CreateScoped(\nDriveService.ScopeConstants.Drive,\nSheetsService.ScopeConstants.Drive,\nSheetsService.ScopeConstants.Spreadsheets);\nOf course, this is a dummy credential file, but you get the idea. Also, consider that you don’t want to keep this in your source code but probably load it from some secure storage if you’re deploying this application (vs just running some code locally for fun)!\nOur main goal is to access and manipulate data within Google Sheets. However, finding the right spreadsheet can be challenging without knowing its unique ID. I don’t know about you, but when I use Google Drive and Google Sheets, I look up files and folders by their name and path… not by some hidden unique identifier.\nWe can tackle this by implementing a method to search for the spreadsheet using a path-like structure, despite Google Drive not natively supporting this feature:\npublic sealed class GoogleDriveClient(\nDriveService _driveService)\n{\npublic async Task<GoogleDriveFile> GetFileOrFolderForPathAsync(\nstring fullyQualifiedPath,\nCancellationToken cancellationToken)\n{\nQueue<string> pathPartQueue = new();\nforeach (string pathPart in fullyQualifiedPath.Split(['/', '\\\\']))\n{\npathPartQueue.Enqueue(pathPart);\n}\nStringBuilder pathSoFar = new(fullyQualifiedPath.Length);\nstring? parentId = null;\nwhile (pathPartQueue.Count > 0)\n{\nstring pathPart = pathPartQueue.Dequeue();\npathSoFar.Append(pathPart);\nFilesResource.ListRequest listRequest = CreateListRequest(\n_driveService,\nparentId,\npathPart);\nFileList items = await listRequest\n.ExecuteAsync(cancellationToken)\n.ConfigureAwait(false);\nif (items.Files.Count == 0)\n{\nthrow new InvalidOperationException(\n$\"Could not find a match for '{pathSoFar}'.\");\n}\nelse if (items.Files.Count > 1)\n{\nthrow new InvalidOperationException(\n$\"Multiple matches for '{pathSoFar}'.\");\n}\nif (pathPartQueue.Count == 0)\n{\nreturn items.Files[0];\n}\nparentId = items.Files[0].Id;\npathSoFar.Append('/');\n}\nthrow new InvalidOperationException(\n$\"Could not find a match for '{fullyQualifiedPath}'.\");\n}\nprivate static FilesResource.ListRequest CreateListRequest(\nDriveService driveService,\nstring? parentId,\nstring pathPart)\n{\nvar listRequest = driveService.Files.List();\nlistRequest.SupportsAllDrives = true;\nlistRequest.IncludeItemsFromAllDrives = true;\nlistRequest.PageSize = 2;\nlistRequest.Q = $@\"name = '{pathPart}'\";\nif (parentId != null)\n{\nlistRequest.Q += $@\" and '{parentId}' in parents\";\n}\nreturn listRequest;\n}\n}\nThe code above uses a path to a file or folder in Google Drive to be able to query each “path part” until the file or folder is found. If no such file or folder is found or there are multiple matches, an exception is thrown.\nNow that we have the file, we have the magical identifier that we need to access our Google Sheet spreadsheet in C#! Let’s look at the following code:\npublic sealed class DevLeaderLongFormTextPostContentFetcher(\nGoogleDriveClient _googleDriveClient,\nSheetsService _sheetsService)\n{\npublic async Task ProcessSpreadsheetAsync(\nstring pathToFileOnGoogleDrive,\nCancellationToken cancellationToken)\n{\nvar file = await _googleDriveClient.GetFileOrFolderForPathAsync(\npathToFileOnGoogleDrive,\ncancellationToken);\nvar spreadsheet = await _sheetsService\n.Spreadsheets\n.GetByDataFilter(\nnew()\n{\nIncludeGridData = true,\n},\nfile.Id)\n.ExecuteAsync(cancellationToken)\n.ConfigureAwait(false);\nforeach (var rowData in sheet.Data[0].RowData)\n{\n// TODO: do something with the row data!\n}\n}\n}\nIn the code above, we look for the spreadsheet at the particular path. From there, we open it up with the sheets service because we have the ID of the file that was returned. Once we have a spreadsheet object, we can use the Google Sheets API to interact with it accordingly.\nIn the code that we saw above, it’s by no means optimized for performance. If you have to do multiple lookups, even for the same file path… you’ll be stuck doing multiple queries. If you want to minimize the number of API calls, you could consider caching the paths to ID mapping locally. This would allow you to shortcut if you had a partial path match and skip having to do multiple path-part lookups — or jump right to the file ID if you’ve seen the exact path already.\nYou could expand this logic to work with other file types from Google as well! Instead of just spreadsheets, what about documents? When we consider other document types, something you might have noticed is that there aren’t extensions for spreadsheets (at least in my experience) on Google Drive. So what happens to our API calls if we have a document and a spreadsheet with the same name? Is it even possible in Google Drive? Try it out!\nThis guide has walked you through the basics of using the Google Sheets API in C# to access and manipulate data stored in Google Drive. You can now build applications leveraging data stored in your Google Drive by coding them up in dotnet!\nThe initial setup and authentication we used involved getting a JSON credential from Google Cloud console. Beyond that, we had to navigate down to the file in question by going each part of a path at a time — unless you want to work with the file IDs directly!\nWhether you’re looking to build a data-driven website or manage content schedules (which is what I was doing!), these Google APIs can help you out! Feel free to experiment with these concepts in your projects and explore the full capabilities of the Google Sheets and Drive APIs in your .NET applications. If you found this useful and you’re looking for more learning opportunities, you can check out my free videos on YouTube!\nYes! You can use Google Drive APIs and Google Sheets APIs to manage a dynamic data store for your C# applications by accessing and manipulating spreadsheets. While this may not be a suggested scalable approach for large high-performance applications, it could certainly work for smaller use cases to get started!\nIf following the tutorial in this article, you’ll need the Google Sheets API (v4) and Google Drive API (v3) packages. These NuGet packages are essential for interacting with Google’s services in a C# application.\nAuthentication requires a JSON credential file from the Google Cloud console. The article outlines creating a service account, obtaining the JSON credentials, and sharing your Google Drive files with this account for the necessary permissions.\nYou can search for a spreadsheet using a path-like structure, despite Google Drive not supporting this feature natively. This allows developers to locate files by name and path instead of unique identifiers. This is accomplished by going to each part of the path to look for a sub-folder before reaching the target file.\nConsider optimizing performance by caching paths to ID mappings locally to minimize API calls. The article suggests expanding the logic to work with other file types and handling documents and spreadsheets with the same name.\nUsing these APIs, you can build data-driven applications, manage content schedules, and leverage Google Drive’s storage capabilities within your .NET applications, enabling a wide range of functionalities from data analysis to content management.\nThis article, along with any associated source code and files, is licensed under The Code Project Open License (CPOL)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "external_links": [
+      "https://www.googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com",
+      "https://accounts.google.com/o/oauth2/auth",
+      "https://www.googleapis.com/oauth2/v1/certs",
+      "https://oauth2.googleapis.com/token",
+      "https://googleapis.com/robot/v1/metadata/x509/project-name%40api-aabbcc-123456.iam.gserviceaccount.com",
+      "https://www.oauth2.googleapis.com/token",
+      "https://googleapis.com/oauth2/v1/certs",
+      "https://www.accounts.google.com/o/oauth2/auth"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "google",
+          "sentiment": "negative"
+        },
+        {
+          "name": "google drive",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T01:19:57.862+02:00",
+    "updated": "2024-02-16T01:19:57.862+02:00"
+  },
+  {
+    "uuid": "49337bf5b2401fc0cdb50f645fbf6af8584993d5",
+    "url": "http://www.360doc.com/content/25/0501/11/20505361_1152476067.shtml",
+    "ord_in_thread": 0,
+    "author": "www.360doc.com",
+    "published": "2025-05-01T00:00:00Z",
+    "title": "新中式工厂灯具：这些家电品牌真的不要买了#万般滋味皆是生活 #笔记灵感 #用一张照片证明春天来了 #笔记灵感 #买了不后悔的家电 #家电齐全 #家电 #万万没想到 #幸福感爆棚的家电 #不懂就问...",
+    "text": "搜索\n我的图书馆\n留言交流\n新中式工厂灯具：这些家电品牌真的不要买了#万般滋味皆是生活 #笔记灵感 #用一张照片证明春天来了 #笔记灵感 #买了不后悔的家电 #家电齐全 #家电 #万万没想到 #幸福感爆棚的家电 #不懂就问...\nlxqyizhong\n2025-05-01\n|\n转藏\n大\n中\n小\n展开全文\n这些家电品牌真的不要买了\n#万般滋味皆是生活 #笔记灵感 #用一张照片证明春天来了 #笔记灵感 #买了不后悔的家电 #家电齐全 #家电 #万万没想到 #幸福感爆棚的家电 #不懂就问有问必答 #智能家居 #浪漫生话的记录者 #家电选购\n本站是提供个人知识管理的网络存储空间，所有内容均由用户发布，不代表本站观点。请注意甄别内容中的联系方式、诱导购买等信息，谨防诈骗。如发现有害或侵权内容，请点击\n一键举报。\n转藏\n献花（\n0\n）\n+1\n上一篇：\n下一篇：\n猜你喜欢\n0\n条评论\n写评论...\n发表\n请遵守用户\n评论公约\n查看更多评论\n类似文章\n更多\n复制\n打印文章\n发送到手机\n微信扫码，在手机上查看选中内容\n全屏阅读\n朗读全文\n复制\n打印文章\n发送到手机\n微信扫码，在手机上查看选中内容\n全屏阅读\n朗读全文",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->house and home"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T06:19:35.029+03:00",
+    "updated": "2025-05-01T03:21:03.000+00:00"
+  },
+  {
+    "uuid": "eb87f1c94d496403bfee7f6395681da3e2fad839",
+    "url": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2024/01/07/lucas-braga-se-despede-do-santos-vivi-o-sonho-de-varias-geracoes-da-minha-familia.ghtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "globo.com",
+    "published": "2024-01-07T18:04:00Z",
+    "title": "Lucas Braga se despede do Santos: \"Vivi o sonho de várias gerações da minha família\" | santos | ge",
+    "text": "O atacante Lucas Braga publicou em seu Instagram um emocionado texto de despedida do Santos . Ele foi emprestado ao Shimizu S-Pulse, da segunda divisão do Japão , até o fim de 2024, com valor de compra fixado em contrato.\nSiga o canal ge Santos no WhatsApp!\n1 de 1 Lucas Braga fez post de despedida do Santos — Foto: Reprodução / Instagram Lucas Braga fez post de despedida do Santos — Foto: Reprodução / Instagram\nSantista declarado, ele disse em seu texto ter realizado o sonho de várias gerações de sua família ao vestir a camisa do Peixe. O jogador foi titular na reta final do ano passado, atuando improvisado na lateral direita para tentar resolver o problema do setor sob o comando de Marcelo Fernandes.\nEm seu post, Lucas também comentou que passou boa parte do ano atuando lesionado, mas não deu maiores detalhes do que teria sido o problema, em um 2023 que foi o mais \"difícil da vida\".\nMais do Peixe:\n+ Santos barra jogadores em portão e indica quem está fora\n+ Saída de Marcos Leonardo abre espaço para disputa no ataque\nVeja gol de Lucas Braga pelo Santos em 2022\nComo não figurava nos planos para 2024, acabou sendo emprestado a um time que quase conseguiu o acesso para a primeira divisão japonesa. Quarto colocado na fase de pontos corridos, o S-Pulse foi para os playoffs e conquistava a vaga com a vitória parcial sobre o Tokyo Verdy até os minutos finais da decisão pelo acesso, mas sofreu o empate. Por ter campanha pior do que o adversário, não subiu.\nNo Santos desde 2019, Lucas Braga foi emprestado ao Cuiabá e à Inter de Limeira até se firmar no profissional. De 2020 até o fim de 2023, oscilou entre titular e reserva do Peixe, mas atuou pelo menos 41 partidas em todas as temporadas pelo clube.\nApesar de alguns boas atuações, Lucas Braga viu o Santos terminar o Brasileirão em 17º lugar e rebaixado para a segunda divisão. Pelo Peixe, foram 199 jogos e 18 gols marcados.\nConfira o texto do jogador em seu Instagram:\n\"Um simples post nas redes sociais não é capaz de traduzir aquilo que realmente estamos sentindo, mas não é por isso que não devo tentar me expressar. Meu coração se enche de gratidão não só ao gigante Santos Futebol Clube, mas também à minha mãe Nilza e ao meu avô João, que me fizeram santista desde que eu nasci.\nViver o sonho de várias gerações da sua família é o maior dos privilégios que alguém pode ter. Pouquíssimas pessoas têm a oportunidade de marcar 18 gols pelo seu time de coração, o time do Rei! E também disputar uma final de Libertadores... Eu tive essa chance, procurei valorizá-la ao máximo e vivê-la intensamente a cada dia, a cada treino, e a cada oportunidade.\nQuando falo em viver um sonho, posso dizer que nada na minha vida nunca caiu do céu. Entre o Lucas criança que frequentava a arquibancada e o Lucas que agora está entre os 100 jogadores que mais vestiram essa camisa gloriosa na história, existiram muitos dias e noites de dificuldades, suor e uma busca constante por evoluir. Desde pequeno, aprendi que o valor das conquistas está em fazer por merecer cada uma delas, e assim sempre foi.\n2023 foi com certeza o ano mais triste da minha vida. Eu poderia citar aqui inúmeros fatores, como ter atuado lesionado por quase 1 ano, mas a verdade é uma só: eu jamais me perdoaria se não tivesse dado o meu melhor a cada dia para tentar ajudar o Santos , e jamais fugiria da minha parcela de responsabilidade pelo trágico desfecho da temporada, por ser santista levarei essa cicatriz pelo resto da vida, não há perdão naquilo que é imperdoável, mas é preciso ter dignidade e reconhecer os seus maiores fracassos.\nHoje, eu saio para um novo desafio, mas não sem deixar o meu mais sincero AMOR e GRATIDÃO ao @santosfc, à nação santista, e a todos os funcionários que trabalham para fazer um Santos FC melhor.\nQuem conhece a história, a alma e a essência do Santos FC sabe que logo o clube estará de volta ao topo, onde nasceu para estar.\nObrigado por tudo @SantosFC Pra SEMPRE no meu coração 🤍🖤\".\n+ Clique aqui e saiba tudo sobre o Santos\n🎧 Ouça o podcast ge Santos 🎧\n50 vídeos Santos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://bit.ly/3yN4ge9",
+      "https://s2-ge.glbimg.com/6_lCHTqZ7B4r6R0h7vLy-0q7Q1Q=/1280x720/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/13/60/12246013",
+      "https://s2-ge.glbimg.com/mLHdquodhNqogBU_nW9qirIAFVY=/1280x720/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/52/43/12244352",
+      "https://www.whatsapp.com/channel/0029Va4ZMHb545um8s7JGm0A",
+      "https://s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css",
+      "https://s2-ge.glbimg.com/3NECPVSUcFlXcrhMpE2j80S8hrQ=/1280x720/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/84/43/12244384",
+      "https://957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://www.s2-ge.glbimg.com/3NECPVSUcFlXcrhMpE2j80S8hrQ=/1280x720/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/84/43/12244384",
+      "https://www.s2-ge.glbimg.com/6_lCHTqZ7B4r6R0h7vLy-0q7Q1Q=/1280x720/smart/filters:strip_icc()/s02.video.glbimg.com/deo/vi/13/60/12246013",
+      "https://www.bit.ly/3yN4ge9",
+      "https://whatsapp.com/channel/0029Va4ZMHb545um8s7JGm0A",
+      "https://www.s2-ge.glbimg.com/mLHdquodhNqogBU_nW9qirIAFVY=/1280x720/smart/filters:strip_icc()/s01.video.glbimg.com/deo/vi/52/43/12244352",
+      "https://www.957b0b3a18c149f4814f2525021e644f@web.sentry.globoi.com/786",
+      "https://www.s3.glbimg.com/v1/AUTH_c5dfc0eef7ee40d68bdd0993be881440/coral-custom-style/style.css"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:04:48.566+02:00",
+    "updated": "2024-01-08T00:04:48.566+02:00"
+  },
+  {
+    "uuid": "528c7c370ef0f2ca8a33246a551ee122eaec931c",
+    "url": "https://www.elindependiente.com/internacional/2024/01/20/siempre-que-sufrimos-un-ataque-salimos-fortalecidos-y-ahora-ocurrira-lo-mismo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Francisco Carrión",
+    "published": "2024-01-19T22:08:00Z",
+    "title": "“Siempre que sufrimos un ataque salimos fortalecidos y ahora ocurrirá lo mismo”",
+    "text": "[En una semana marcada por la escalada de los ataques en el mar Rojo](https://www.elindependiente.com/internacional/2024/01/03/los-huties-de-yemen-reivindican-un-nuevo-ataque-contra-un-buque-que-se-dirigia-a-israel/), tras el inicio de los bombardeos de la coalición liderada por Estados Unidos, Mohamed al Bujaiti advierte de que los hutíes no se amedrentarán. En una entrevista exclusiva con El Independiente, mantiene el tono desafiante: asegura que [la designación como grupo terrorista por la administración Biden](https://www.elindependiente.com/internacional/2024/01/17/eeuu-planea-designar-terroristas-a-los-huties-mientras-prosiguen-los-ataques-en-el-mar-rojo/) no moverá un ápice la estrategia del movimiento chií que algunos comparan ya con una suerte de Hizbulá yemení. Al Bujaiti es un rostro conocido de [los hutíes, que en 2015 tomaron el control de la capital de Yemen, Saná, ](https://www.elindependiente.com/internacional/2024/01/13/la-guerra-de-los-huties-en-el-mar-rojo-en-mapas/)y han logrado desde entonces consolidar su dominio en amplias zonas del país a pesar de ocho años de bombardeos de la coalición árabe encabezada por Arabia Saudí. “Siempre que sufrimos un ataque, salimos fortalecidos de él”, avanza este veterano miembro del buró político de Ansar Alá (“Los partisanos de Alá”, la denominación oficial de los hutíes) en la conversación con este diario. Pregunta.- ¿Cómo les están afectando a sus capacidades militares los ataques aéreos de Estados Unidos y Reino Unido? Respuesta.- La agresión estadounidense-británica no es de hoy. Al contrario, comenzó en 2015 [inicio de los bombardeos de la coalición de Arabia Saudí] y no pudo destruir nuestras capacidades porque tomamos todas las precauciones posibles. El presidente estadounidense ha admitido que sus ataques no han logrado sus objetivos, pero ha insistido en que continuarán. “Que EEUU pare los crímenes en Gaza y entonces detendremos nuestras operaciones contra Israel de forma automática” P.- ¿Le inquieta que estos ataques le hagan perder su capacidad de lanzar misiles y drones contra buques en el mar Rojo? R.- Es lo opuesto. Nuestras capacidades se están desarrollando, como demuestra el reciente ataque en el golfo de Adén, en el que se utilizó un nuevo misil que acababa de entrar en servicio, lo que ha sorprendido a Estados Unidos. P.- ¿Cómo van a responder a los ataques aéreos estadounidenses? R.- Vamos a seguir apuntando a los intereses de Estados Unidos y Reino Unido y a sus fuerzas militares allí donde nuestras manos lleguen y uno de los resultados de esto es que los países agresores se están absteniendo de navegar por el mar Rojo porque sus barcos se han convertido en un objetivo legítimo para nuestras fuerzas armadas. Seguiremos apuntando a los intereses de Estados Unidos y a su fuerza militar allí donde nuestras manos lleguen P.- ¿Se plantean renunciar a atacar a los barcos? R.- Nuestra guerra es moral. Estados Unidos y Reino Unido manejan los valores morales de un modo selectivo y esquizofrénico porque exigen que Yemen detenga sus operaciones militares contra Israel, cuando nuestras operaciones son por razones humanitarias, y describen estas operaciones como un acto de terrorismo, mientras que apoyan la continuación de los crímenes de genocidio en Gaza y privan a sus residentes de la entrada de alimentos, medicinas y combustible. Por lo tanto, les decimos a Estados Unidos y Reino Unido que paren los crímenes de genocidio en Gaza y levanten el asedio sobre ella, y entonces detendremos todas nuestras operaciones contra Israel de forma inmediata y automática. P.- No pocos países occidentales se han sorprendido por el alcance de los ataques que han lanzado desde octubre. ¿Cuál es el verdadero poder militar de los hutíes en la actualidad? R.- En primer lugar, no fiamos nuestras posibilidades a nuestras fuerzas militares porque no son nada comparadas con las que tienen Reino Unido, Estados Unidos y sus aliados. Más bien, apostamos por el poder del Dios Todopoderoso porque nosotros nos movemos en el marco de sus directrices. P.-¿Cambiarán la estrategia de ataque a cambio de que cesen los ataques de la coalición estadounidense? R.- Sólo atacamos barcos vinculados a Israel, no con el objetivo de hundirlos o detenerlos, sino con el objetivo de cambiar su rumbo para aumentar el coste económico de Israel como carta de presión para que detenga sus crímenes en Gaza y permita el acceso de alimentos, medicinas y combustible a sus asediados residentes y esto es un acto legítimo. Después de la agresión contra Yemen, ampliamos el alcance de los objetivos para incluir los buques de guerra y los buques comerciales de los países agresores. P.- Esta semana [la administración Biden ha anunciado que los hutíes vuelven a ser designados organización terrorista](https://www.elindependiente.com/internacional/2024/01/17/eeuu-planea-designar-terroristas-a-los-huties-mientras-prosiguen-los-ataques-en-el-mar-rojo/). ¿Les preocupa? R.- Esta decisión es una prueba de la bancarrota y la impotencia de Estados Unidos, y vino a satisfacer necesidades mediáticas y electorales porque estamos en estado de guerra abierta con Estados Unidos y Reino Unido. Es una decisión que no tendrá repercusiones. Además, hemos llegado a representar la voluntad de nuestro Estado y del pueblo yemení, y nuestras operaciones obtienen el apoyo árabe e islámico. Estados Unidos se encontrará cada vez más aislado. Ha perdido en su táctica de usar la \"clasificación terrorista\" como arma, utilizada para intimidar a sus oponentes. Hemos sido nosotros los que hemos demostrado su ineficacia. P.- ¿Hasta qué punto están preparadas sus defensas con el objetivo de repeler ataques procedentes de Estados Unidos? R.- Hasta ahora no se ha repelido ningún ataque, pero Yemen está desarrollando sus capacidades defensivas como ya ha hecho en el pasado. P.- ¿Qué apoyo militar le proporciona Irán? R.- Yemen sigue bajo bloqueo y, por tanto, dependemos de desarrollar nosotros mismos nuestras propias capacidades. La solución justa al conflicto en Oriente Próximo es desmantelar Israel pacíficamente P.- [España es uno de los países europeos que ha rehusado unirse a la coalición estadounidense contra los hutíes...](https://www.elindependiente.com/internacional/2023/12/28/por-que-espana-italia-y-francia-se-desmarcan-de-la-coalicion-de-eeuu-contra-los-huties-en-el-mar-rojo/) R.- Es una decisión positiva y coherente con la posición española que pide detener los crímenes de genocidio en Gaza. Valoramos esta postura. P.- Este viernes, sin embargo, el Gobierno español se ha mostrado favorable a unirse a [una coalición de la Unión Europea destinada a la vigilancia en el mar Rojo](https://www.elindependiente.com/internacional/2024/01/19/albares-espana-no-se-opondra-a-una-operacion-europea-en-el-mar-rojo/)... R.- Sólo tememos a Dios, y cualquier participación en la agresión contra Yemen es, de hecho, apoyar a Israel para que cometa más crímenes de genocidio. Si esto se confirma, no honra a España y será una vergüenza en su historia, por lo que le aconsejamos que revise su posición. En general, cualquier país que participe en la agresión directa contra Yemen en la práctica colocará a sus fuerzas e intereses militares en el objetivo legítimo para nuestras fuerzas armadas, como es el caso de Estados Unidos y Reino Unido. P.- El conflicto de Gaza está avivando el fuego en todo Oriente Próximo. ¿Qué solución proponen los hutíes? R.- La solución justa es desmantelar Israel pacíficamente permitiendo a los colonos judíos regresar a sus países de origen, emigrar a Europa o permanecer bajo un Estado palestino independiente en el que todos los ciudadanos, musulmanes, cristianos y judíos, disfruten de los mismos derechos. P.- Sus capacidades balísticas han aumentado espectacularmente en el transcurso de unos pocos años. ¿Cuáles son ahora sus próximos retos y objetivos? R.- Nuestra visión moral no cambia con nuestra fuerza. Nuestra opción estratégica sigue siendo lograr una paz justa y honorable que garantice la dignidad y la seguridad de todos los países y pueblos. No recurrimos al uso de las armas salvo en defensa propia o para apoyar a los oprimidos de la tierra, independientemente de su nacionalidad o religión. P.- ¿Qué diferencia existe entre los hutíes de hoy y la organización de hace 10 años, previa al control de Saná? R.- Se ha producido un gran cambio, gracias a Dios Todopoderoso. Siempre que sufrimos un ataque, salimos fortalecidos de él. La agresión contra Yemen en 2015 nos permitió cambiar el equilibrio de poder a nivel regional y la agresión contra nosotros que se está produciendo en estos momentos nos permitirá cambiar el equilibrio a nivel mundial. Este cambio es positivo porque nuestra visión moral no ha cambiado ni cambiará. P.- ¿Se dirige Oriente Próximo hacia el choque total? R.- Si la agresión contra Gaza y Yemen no cesa, el conflicto se extenderá y una de las consecuencias de ello será el fin de la hegemonía estadounidense sobre la región y la construcción de un Oriente Próximo independiente y estable. Todas las claves de la actualidad y últimas horas, en el canal de WhatsApp de El Independiente. Únete [aquí](https://whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s) Te puede interesar Comentarios [Normas ›](https://www.elindependiente.com/aviso-legal-terminos-uso/) Para comentar necesitas registrarte a El Independiente. El registro es gratuito y te permitirá comentar en los artículos de El Independiente y recibir por email el boletin diario con las noticias más detacadas. [Regístrate para comentar](https://usuarios.elindependiente.com/register/) [Ya me he registrado](https://usuarios.elindependiente.com/login)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s",
+      "https://www.whatsapp.com/channel/0029VaGCZ1FCBtx7z3Eqm71s"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-20T01:10:42.543+02:00",
+    "updated": "2024-01-20T04:27:57.482+02:00"
+  },
+  {
+    "uuid": "7c1c45c47524bdf257030dbc3bc9cf92e7c36acb",
+    "url": "https://vnexplorer.net/inondations-en-allemagne-deux-jours-de-precipitations-intenses-attendus-la-situation-pourrait-saggraver-s703815.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-29T09:10:00Z",
+    "title": "Inondations en Allemagne : deux jours de précipitations intenses attendus, la situation pourrait s’aggraver",
+    "text": "Inondations en Allemagne : deux jours de précipitations intenses attendus, la situation pourrait s’aggraver\nCertaines régions allemandes touchées par les inondations doivent se préparer vendredi à de nouvelles précipitations intenses, selon les prévisions de l’institut météorologique allemand DWD.\nPlusieurs endroits dans le Land de Rhénanie du Nord-Westphalie, situé dans l’ouest de l’Allemagne, et dans les massifs montagneux du Harz, au centre du pays, seront touchés par des pluies continues vendredi et samedi. Jusqu’à 40 mm de pluie devraient tomber en 24 heures.\nDans le Land de Basse-Saxe, dans le nord-ouest, la situation est tendue. Les régions le long des rivières Aller, Leine et Weser sont déjà inondées.\nLe ministre-président du Land, Stephan Weil, a indiqué jeudi qu’il n’y avait jamais eu d’inondations de cette ampleur dans la région. « Les experts avertissent depuis longtemps que les conditions météorologiques extrêmes, de plus en plus fréquentes, sont liées au dérèglement climatique », a-t-il expliqué.\nLe niveau de l’eau du fleuve Elbe dans la ville de Dresde devrait encore monter. Jeudi après-midi, l’eau se situait à 5,92 mètres de hauteur. Si le niveau grimpe à six mètres, le deuxième niveau d’alerte le plus élevé est alors déclaré. Le centre d’inondation des autorités s’attend à ce que cela se produise vendredi matin. Le niveau habituel du fleuve est à deux mètres.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mbE0Q.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mbE0Q.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T11:15:22.501+02:00",
+    "updated": "2023-12-29T11:15:22.501+02:00"
+  },
+  {
+    "uuid": "01373d2d6f7da2c769c80d90c3b7e33703776a62",
+    "url": "https://lecourrier.ch/2024/01/25/coup-de-semonce-3/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nathalie Gerber McCrae",
+    "published": "2024-01-25T21:25:00Z",
+    "title": "Coup de semonce",
+    "text": "Coup de semonce\n[France](/tag/france/)\nLe Conseil constitutionnel français a censuré jeudi un bon tiers – 35 articles sur 86 – de la loi immigration votée dans la douleur le 19 décembre dernier. Un texte qui durcissait le droit dans toute une série de domaines sensibles comme l’accès aux prestations sociales pour les étrangers non européens, le regroupement familial ou qui prévoyait des quotas migratoires. Sans oublier des mesures anti-étudiant·es.\nIl ne s’agit que d’une victoire partielle. Le gros de ces annulations – 32 des 35 articles biffés – provient d’un non-respect crasse du droit. Ces articles n’avaient pas vocation à figurer dans la loi. Ils étaient hors sujet. Rien n’empêcherait leur retour dans un cadre législatif adapté. Au vu de la dérive politique délétère observée en France – avec une droite de plus en plus extrême qui vient braconner sur les terres de l’extrême droite –, il y a de quoi rester raisonnablement inquiets. De fait, les patrons des Républicains ont exigé dans la foulée le repêchage des dispositions contestées. Cela s’appelle persister et signer dans l’ignominie.\nDeuxième motif d’inquiétude: la clique macroniste gouverne par lois d’exception – l’usage compulsif de l’article 49.3 pour passer en force – ou en ayant recours à des subterfuges. Elle a voté une loi comportant des articles déshonorants en espérant que ceux-ci seraient invalidés. Elle consacre une nouvelle fois de la sorte les thèses de l’extrême droite – qui a immédiatement crié à la victoire idéologique – et lui ouvre un boulevard, alors que le locataire de l’Elysée s’était présenté à l’élection comme rempart aux idéologies fascisantes.\nPis. Ce triste épisode d’une loi identifiée comme illégale et votée aux forceps consiste à laisser le Conseil constitutionnel faire le sale boulot. Et être désormais confronté à la vindicte du bloc de droite qui embouche des trompettes antidémocratiques, arguant «d’un coup de force des juges», selon les mots de Jordan Bardella, président du Rassemblement national. Mais pas que lui. Ce discret fumet populiste est porté aussi par les Républicains. Donald Trump fait des émules. A quand une tentative de putsch, comme au Capitole? Au discrédit politique et idéologique vient s’ajouter le discrédit institutionnel.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:38:58.182+02:00",
+    "updated": "2024-01-26T00:38:58.182+02:00"
+  },
+  {
+    "uuid": "ba315f35c7520bd70fe1a80017208cfc610469ab",
+    "url": "https://www.broadwayworld.com/new-jersey/article/Two-River-Theater-Reveals-Events-and-Accessibility-Services-in-Conjuction-with-AMERICAN-MARIACHI-20240919",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chloe Rabinowitz",
+    "published": "2024-09-19T17:58:00Z",
+    "title": "Two River Theater Reveals Events and Accessibility Services in Conjuction with AMERICAN MARIACHI",
+    "text": "The production will run September 28 to October 20, in the Joan and Robert Rechnitz Theater. American Mariachi, a moving comedy full of humor, heart, and joyful live music, written by José Cruz González, directed by James Vásquez, arrangements by Cynthia Reifler Flores runs September 28 to October 20, in the Joan and [Robert Rechnitz](/people/Robert-Rechnitz/) Theater. In conjunction with American Mariachi, Two River has curated an exciting lineup of events, many of them FREE, inspired by American Mariachi for all to enjoy. “Music, family, and joy, that’s what it’s all about,” says Artistic Director [Justin Waldman](/people/Justin-Waldman/). “What Jose and James have built with American Mariachi is an utter delight. As the guitarron strums, the trumpet blares, and the band comes together, you’ll be smiling from ear to ear.” The full event lineup includes: Inside Music Therapy with 180 Turning Lives Around Music isn’t just an enjoyable art form—it has real applications in therapeutic work to help us heal, rediscover ourselves, and connect to others. At this post-show discussion, professionals from our nonprofit partner, 180 Turning Lives Around, share how they use music therapy in their provided services, and the wide variety of ways music can be used to heal. The event is FREE. Tickets to the 1PM performance preceding the event are available for purchase. Tickets available at: [https://tworivertheater.org/whats-on/inside-music-therapy](https://tworivertheater.org/whats-on/inside-music-therapy/) In the Know with [Justin Waldman](/people/Justin-Waldman/) Artistic Director [Justin Waldman](/people/Justin-Waldman/) leads a discussion with director James Vásquez on his artistic career, professional history, and what went into the direction of this production. This event is FREE. Tickets to the 7PM performance following the event are available for purchase. Tickets available at: [ tworivertheater.org/whats-on/in-the-know-american-mariachi](http://tworivertheater.org/whats-on/in-the-know-american-mariachi) Two River Theater and Lakehouse Music Academy Present: A Celebration of Local Latine Music Join Two River and Asbury Park music incubator Lakehouse Music Academy in celebrating the incredible breadth of the Monmouth County Latine music scene! Rock and Roll, Salsa, Mariachi– the beats will have your feet moving! This event is FREE. Tickets available at: [ tworivertheater.org/whats-on/music-celebration-with-lakehouse-music-academy](http://tworivertheater.org/whats-on/music-celebration-with-lakehouse-music-academy) Two River Theater and Lady Celestina Present: Las Amigas Fabulosa Drag Night A night of drag artistry, featuring performances by incredible Latine drag queens Nikky Sky Blake, Catrina Lovelace, and host Kimmy Sumony. This event is $20. Tickets to the 8PM performance following the event are available for purchase. Tickets available at: [ tworivertheater.org/whats-on/las-amigas-fabulosa-drag-night](http://tworivertheater.org/whats-on/las-amigas-fabulosa-drag-night) TWO RIVER’S ACCESSIBILITY SERVICES INCLUDE: Fragrance Free performance Audience members are asked to refrain from wearing colognes, perfumes or scented oils for the safety and comfort of all. Sensory Inclusive performance Designed to welcome all patrons – those with and without disabilities – into a supportive, judgment free environment. Modifications are made to certain technical aspects that may be overstimulating for patrons with sensory processing disorders and/or on the autism spectrum, but the show remains intact. Play Date Offering free childcare services and discounted tickets for caregivers attending that performance. Audio Described and Open Captioned performance Available for patrons with vision loss and hearing loss. For more information on Two River Theater’s access services and to access ticket prices, visit [https://tworivertheater.org/accessibility/](https://tworivertheater.org/accessibility/) Videos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://tworivertheater.org/accessibility/",
+      "https://tworivertheater.org/whats-on/inside-music-therapy",
+      "http://tworivertheater.org/whats-on/music-celebration-with-lakehouse-music-academy)",
+      "https://tworivertheater.org/accessibility/)",
+      "https://tworivertheater.org/whats-on/inside-music-therapy/)",
+      "http://tworivertheater.org/whats-on/las-amigas-fabulosa-drag-night)",
+      "http://tworivertheater.org/whats-on/in-the-know-american-mariachi)",
+      "http://www.tworivertheater.org/whats-on/in-the-know-american-mariachi)",
+      "https://www.tworivertheater.org/accessibility/",
+      "https://www.tworivertheater.org/whats-on/inside-music-therapy",
+      "https://tworivertheater.org/accessibility",
+      "http://www.tworivertheater.org/whats-on/las-amigas-fabulosa-drag-night)",
+      "http://www.tworivertheater.org/whats-on/music-celebration-with-lakehouse-music-academy)",
+      "https://www.tworivertheater.org/whats-on/inside-music-therapy/)",
+      "https://www.tworivertheater.org/accessibility/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:07:27.552+03:00",
+    "updated": "2024-09-20T00:07:27.552+03:00"
+  }
+]

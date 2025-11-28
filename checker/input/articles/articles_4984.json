@@ -1,0 +1,636 @@
+[
+  {
+    "uuid": "7184ff7d0ac89ffcc99e04d2240f63364e53e4b3",
+    "url": "https://www.adn.com:443/opinions/letters/2024/08/08/letter-genetics-arent-so-simple",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@adndotcom",
+    "published": "2024-08-08T19:29:00Z",
+    "title": "Letter: Genetics aren't so simple - Anchorage Daily News",
+    "text": "It’s difficult to respond to Eric Olenick’s recent letter because it is so fundamentally wrong. It is so inaccurate, in fact, that it seems to have been written entirely as a provocation rather than an attempt to remotely characterize any facts. Genetic variations in sex chromosomes have been known for nearly 100 years. Before that, in 1905, Nettie Stevens made observations that led to the XY determination system. At first, (and perhaps ironically) her research and findings about sex determination were not appreciated, nor believed, because of the gender bias in science. This is all old news. I am surprised that, in forming his deeply held opinion, Mr Olenick has not run across the research and Nobel Prize-winning work that has informed our current knowledge base. It’s all there in Wikipedia, for those not inclined or trained to analyze the medical literature. Or, perhaps this is the kind of knowledge gap that can occur when science is taught, or learned, at home. — Nicolas Wieder Anchorage Have something on your mind? Send to [letters@adn.com](mailto:letters@adn.com) or click [here](https://www.adn.com/submit-letter/) to submit via any web browser. Letters under 200 words have the best chance of being published. Writers should disclose any personal or professional connections with the subjects of their letters. Letters are edited for accuracy, clarity and length.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Education"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "eric olenick",
+          "sentiment": "negative"
+        },
+        {
+          "name": "olenick",
+          "sentiment": "none"
+        },
+        {
+          "name": "nicolas wieder anchorage",
+          "sentiment": "none"
+        },
+        {
+          "name": "nettie stevens",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "wikipedia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:29:33.417+03:00",
+    "updated": "2024-08-09T00:29:33.417+03:00"
+  },
+  {
+    "uuid": "eb50d850bf1557c8e9a446db8f816c63bcc3b06d",
+    "url": "https://www.koreatimes.co.kr/southkorea/politics/20250808/ministry-to-intensify-labor-inspections-to-tackle-rights-violations-against-migrant-workers",
+    "ord_in_thread": 0,
+    "author": "yonhap@koreatimes.co.kr(KoreaTimes)",
+    "published": "2025-08-08T08:12:00Z",
+    "title": "Ministry to intensify labor inspections to tackle rights violations against migrant workers",
+    "text": "Labor Minister Kim Young-hoon, center, talks with foreign workers harvesting lettuce during his visit to a greenhouse complex in Wanju, North Jeolla Province, Friday. Yonhap The labor ministry announced Friday it will step up labor inspections to address concerns about human rights violations against migrant workers, including a three-week special reporting period for rights violations involving migrant workers. The latest move comes following public outrage over a video showing a Sri Lankan migrant worker being lifted while bound to a forklift at a brick factory in Naju, about 280 kilometers south of Seoul. From Aug. 11 to 29, the ministry will conduct intensive inspections of workplaces that employ large numbers of foreign workers, focusing on rural areas with poor conditions. Starting Aug. 20, it will also designate every Wednesday as a special reporting and counseling day. Labor attorneys and interpreters will be stationed at employment centers to provide one-stop services to assist the laborers in filing complaints. The ministry said it will send text messages to all employers and workers to guide them on how to seek counseling and file complaints on any rights violations. Earlier in the day, Labor Minister Kim Young-hoon visited a farm in Wanju, North Jeolla Province, to inspect the working conditions amid a heat wave and to hear directly from foreign workers about their challenges. \"Promoting the labor rights of foreign workers without discrimination is one of the most urgent tasks in our society, and any form of human rights abuse, such as harassment and violence, cannot be tolerated under any circumstances,\" Kim said. \"We will come up with comprehensive measures to protect the rights of foreign workers and eliminate discrimination against them.\" President Lee Jae Myung pledged stern actions against any mistreatment of foreign workers as he shared the video of the Sri Lankan worker on his Facebook page last month.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Labor->labour relations",
+      "Labor->employment",
+      "Labor->workplace health and safety",
+      "Social Issue->social condition",
+      "Politics->human rights",
+      "Politics->civil rights",
+      "Politics->government"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kim Young-hoon",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "North Jeolla Province",
+          "sentiment": "none"
+        },
+        {
+          "name": "Wanju",
+          "sentiment": "none"
+        },
+        {
+          "name": "Naju",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "trusted_news"
+      ],
+      "top_news": [
+        "top_news_kr",
+        "top_news_ph",
+        "top_news"
+      ],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-08T11:17:23.132+03:00",
+    "updated": "2025-08-09T12:05:00.000+03:00"
+  },
+  {
+    "uuid": "c5731752dcc388bcb5d0767387482683c14ed6a3",
+    "url": "https://www.brighteon.com/96412933-d932-44b2-a4f1-9882fe48d8f5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thrivetime Show",
+    "published": "2023-12-28T19:13:00Z",
+    "title": "ReAwaken America Tour | Pastor Dave Scarlett with HIS GLORY Ministries | Why We Must Save America for HIS Glory",
+    "text": "The ReAwaken America Tour Heads to the Home of Lockdowns, Motown (Detroit, Michigan) & It's Going to Be Profound (June 7th & 8th 2024) | Join General Flynn, Eric & Lara Trump, Kash Patel, Dr. Stella, Mel K & Team America | June 7-8 2024\nRequest Tickets to the Detroit, Michigan June 7th & 8th 2024 ReAwaken Tour Today At: www.TimeToFreeAmerica.com\nJoin General Flynn, Kash Patel, Eric Trump, Lara Trump, Lindell, Dr. Mikovits, Julie Green, Dr. Peter McCullough, Jim Breuer, Dr. Immanuel, & Team America\nRequest Tickets At: https://timetofreeamerica.com/ or by texting 918-851-0102\n**Scholarship Pricing Is Available to Make the ReAwaken America Tour Affordable for Everyone That Wants to Attend\nWatch the ReAwaken America Tour Documentary for FREE Today HERE: https://timetofreeamerica.com/watch-the-reawakening-documentary/\nLearn How to Protect Your Wealth Against Inflation & Central Bank Digital Currencies Today At: www.BH-PM.com\nWant to Read Patents Related to The Great Reset Agenda? - READ - www.TimeToFreeAmerica.com/Revelation\nWhat Is BRICS? - READ - https://timetofreeamerica.com/brics/#scroll-content\nWhat Are CBDCs - https://timetofreeamerica.com/eo-14067/#scroll-content\nWho Is Elon Musk? - READ - https://timetofreeamerica.com/musk/#scroll-content\nWho Is Yuval Noah Harari? - READ - https://timetofreeamerica.com/behind-the-great-reset/#scroll-content",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://timetofreeamerica.com/",
+      "https://timetofreeamerica.com/behind-the-great-reset/#scroll-content",
+      "https://timetofreeamerica.com/brics/#scroll-content",
+      "https://timetofreeamerica.com/musk/#scroll-content",
+      "https://timetofreeamerica.com/eo-14067/#scroll-content",
+      "https://timetofreeamerica.com/watch-the-reawakening-documentary/",
+      "https://www.timetofreeamerica.com/",
+      "https://timetofreeamerica.com/watch-the-reawakening-documentary",
+      "https://www.timetofreeamerica.com/brics/#scroll-content",
+      "https://www.timetofreeamerica.com/behind-the-great-reset/#scroll-content",
+      "https://timetofreeamerica.com",
+      "https://www.timetofreeamerica.com/eo-14067/#scroll-content",
+      "https://www.timetofreeamerica.com/watch-the-reawakening-documentary/",
+      "https://www.timetofreeamerica.com/musk/#scroll-content"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dave scarlett",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lara trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "mikovits",
+          "sentiment": "none"
+        },
+        {
+          "name": "lindell",
+          "sentiment": "none"
+        },
+        {
+          "name": "immanuel",
+          "sentiment": "none"
+        },
+        {
+          "name": "peter mccullough",
+          "sentiment": "none"
+        },
+        {
+          "name": "kash patel",
+          "sentiment": "none"
+        },
+        {
+          "name": "julie green",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim breuer",
+          "sentiment": "none"
+        },
+        {
+          "name": "eric trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "stella",
+          "sentiment": "none"
+        },
+        {
+          "name": "flynn",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "reawaken america tour",
+          "sentiment": "negative"
+        },
+        {
+          "name": "wealth against inflation & central bank digital",
+          "sentiment": "none"
+        },
+        {
+          "name": "brics",
+          "sentiment": "none"
+        },
+        {
+          "name": "eric & lara trump",
+          "sentiment": "none"
+        },
+        {
+          "name": "mel k & team america",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "detroit",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        },
+        {
+          "name": "michigan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:02:20.389+02:00",
+    "updated": "2023-12-29T00:02:20.389+02:00"
+  },
+  {
+    "uuid": "4427e753ec41c345053cc7e5e94f1a963eaea714",
+    "url": "https://www.wxxinews.org/npr-news/2024-05-02/the-long-road-ahead-for-ukraine-after-secured-military-assistance-from-the-u-s",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tom Bowman, Joanna Kakissis",
+    "published": "2024-05-02T22:27:00Z",
+    "title": "The long road ahead for Ukraine after secured military assistance from the U.S.",
+    "text": "The long road ahead for Ukraine after secured military assistance from the U.S.\nAILSA CHANG, HOST:\nIt has taken months of debate on the Hill, but Ukraine finally has the military assistance it has been desperately seeking. Ukraine says that this U.S. aid will make all the difference between winning and losing the war to Russia. But after two years of punishing fighting, what winning looks like is an increasingly complicated question. For more, we're joined now by NPR Ukraine correspondent Joanna Kakissis and NPR Pentagon correspondent Tom Bowman. Hey to both of you.\nTOM BOWMAN, BYLINE: Hey, Ailsa.\nJOANNA KAKISSIS, BYLINE: Hello.\nCHANG: Hello. OK, Joanna, I want to start with you. Like, what are you hearing from Ukrainian troops about the latest on the frontline? Like, why is this aid so critical at this moment?\nKAKISSIS: So the situation on the eastern frontline, where most of the active fighting is now going on - it's very bleak. And that's the word that Ukraine's military chief Oleksandr Syrskii used. He says that in the six months it took Congress to approve the latest aid package, Russia built up its offensives all along the eastern frontline. The Russians have occupied a city and a few villages in eastern Ukraine, and one of the most intense battles that's taking place right now is outside the town of Chasiv Yar, which we visited back in March. If the Russians occupy this town, it will clear the way for them to capture a railway hub that gets supplies to Ukrainian troops. Today we spoke to a soldier who is in Chasiv Yar right now, Oleh Shyriaiev. He's the commander of the 225th Separate Assault Battalion. He described how a lack of ammunition and troops has affected their positions.\nOLEH SHYRIAIEV: (Through interpreter) Over the past three to four weeks, the enemy has been constantly advancing. They are storming with infantry, and in some cases, there are 10 times more of them.\nKAKISSIS: He told us that the military aid approved by Congress has not made it to the frontline, at least not the one he is on. But he believes that when it arrives, his troops will be able to push the Russians back from Chasiv Yar.\nCHANG: Well, Tom, what about you? Like, what are you hearing from U.S. defense officials? How do they see this new aid helping on the battlefield?\nT BOWMAN: Well, Ailsa, first of all, officials in defense analysts say Ukraine's finally getting the artillery shells they need, the air defense missiles and, maybe more importantly, longer-range attack missiles that have already allowed Ukraine to hit Russian locations in Crimea and elsewhere. But that six-month delay in Congress approving that aid allowed Russia to make some advances, as Joanna just said. This sense with Pentagon officials and defense analysts is this year Ukraine will shore up its defenses, regroup and train more forces. It's unlikely they can mount a big offensive like the attempted last year. But here's Brad Bowman with the Foundation for Defense of Democracies.\nBRAD BOWMAN: I will be shocked if Ukraine has the ability to put together any sort of operational, strategic-level offensive this year. I don't expect that - so avoiding the loss of major cities, population centers this year, stopping or slowing the Russian momentum and then putting in the reforms and delivering the weapons systems necessary to see more results in 2025.\nT BOWMAN: So next year for an offensive against Russian forces, although there is a sense, Ailsa, that with the new weaponry, Ukraine might be able to exploit some Russian weaknesses here and there because you can't just be on the defense in a war.\nCHANG: Well, OK then. A question for both of you - if we're not talking about any kind of decisive, immediate change to this war, what does all of this tell us about where the war is headed or even how it might end? Tom, do you want to start?\nT BOWMAN: Well, the U.S. has said from the beginning that the goal here is to give Ukraine a better hand at any future negotiating table. But at this point, Ailsa, there's no sense from either side about talks. And the war will just go on at least into next year. Ukrainian officials talk about winning, kicking all Russian forces out. The top Pentagon officer, general C.Q. Brown, was asked recently a direct question. Can Ukraine win? He didn't use that word, instead saying the U.S. and others are giving Ukraine the tools to, quote, \"defend itself.\"\nCHANG: Interesting. Well, Joanna, what's the view from Ukraine?\nKAKISSIS: Well, Ailsa, most people used to start each sentence with, after our victory. And you don't hear people talking about victory in such certain terms anymore because Ukraine is not just short of weapons. It's also short of troops. I spoke to a military analyst, Serhii Kuzan, and he says these new conscription laws that are very controversial are trying to address this shortage.\nSERHII KUZAN: (Non-English language spoken).\nKAKISSIS: He's saying the task is to combine conscription and recruitment so Ukraine can plan a war for years to come. Most Ukrainians - they say winning the war does mean pushing all Russian troops out of Ukrainian land. But that cannot happen without U.S. support, which the next administration might not give. And even with this support, the path will indeed take many years and cost many lives.\nCHANG: That is NPR's Joanna Kakissis and Tom Bowman. Thank you to both of you.\nT BOWMAN: You're welcome.\nKAKISSIS: You're welcome. Transcript provided by NPR, Copyright NPR.\nNPR transcripts are created on a rush deadline by an NPR contractor. This text may not be in its final form and may be updated or revised in the future. Accuracy and availability may vary. The authoritative record of NPR’s programming is the audio record.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joanna kakissis",
+          "sentiment": "none"
+        },
+        {
+          "name": "chang",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom bowman",
+          "sentiment": "none"
+        },
+        {
+          "name": "joanna",
+          "sentiment": "none"
+        },
+        {
+          "name": "joanna kakissis",
+          "sentiment": "none"
+        },
+        {
+          "name": "oleksandr syrskii",
+          "sentiment": "none"
+        },
+        {
+          "name": "tom bowman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "congress",
+          "sentiment": "none"
+        },
+        {
+          "name": "hill",
+          "sentiment": "none"
+        },
+        {
+          "name": "npr ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "npr pentagon",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "u.s. ailsa",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        },
+        {
+          "name": "ailsa",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-03T04:38:04.172+03:00",
+    "updated": "2024-05-03T04:38:04.172+03:00"
+  },
+  {
+    "uuid": "7806c66f61c441e71a8d53b72de41642a8176210",
+    "url": "https://weekend.perfil.com/noticias/pesca/propuestas-que-se-vienen-corvinas-tiburones-y-variada.phtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@perfilcom",
+    "published": "2024-04-18T18:15:00Z",
+    "title": "Propuestas que se vienen: corvinas, tiburones y variada | Weekend",
+    "text": "Una de las propuestas que pican en punta tiene que ver con el agua salida, ya que en el balneario Reta, en el partido de Tres Arroyos, tendrá lugar uno de los cierres de la actividad piscatoria en el mar, en un evento que estaba programado para el domingo 14, pero el clima obligó a postergar una semana. Se trata del 2° Concurso a la corvina de mayor peso que organiza la subcomisión de pesca del club Costa Sud, y se anuncia de 10 a 16 hs. Hay $ 3.000.000 al ganador y la inscripción es de $ 25.000. Para más informes: Tel.: (02983) 542430.\nLeé también Pirañas o palometas, diferentes pero similares\nEl otro cierre será en Villa Gesell, muy cerca de donde arrancó todo en septiembre, en Pinamar, con la Fiesta de la Pescadilla, aquel evento que marca la apertura de la temporada de torneos pieza mayor. Será el mismo domingo 21, al igual que en Reta, pero de 10 a 14 hs, entre los paseos 142 a 155, en la zona sur de la ciudad. Es un concurso a la pieza de mayor peso y hay $ 1.000.000 al ganador, con premios en efectivo hasta el décimo clasificado. Para inscribirse, en forma anticipada se abonó $ 15.000, mientras que, en el momento del torneo, se pagan $ 20.000. Lo organiza el Club de Caza, Pesca y Náutica Villa Gesell, entidad a la que se contacta por redes, en Facebook o Instagram, como en forma telefónica al (02255) 5462491. Un detalle a tener en cuenta en el concurso es que no vale el chucho ni introducirse al agua en el lanzamiento, y habrá un sector exclusivo para lanzamiento tipo péndulo, desde el Paseo 151 a 155.\nLeé también Pescando en familia se mudó a la Patagonia\nLeé también Argentina es campeón del mundo de longcasting Saliendo del territorio bonaerense, se viene la 5° edición de las 15 horas del Tiburón en Playa Canto en Chubut. Desde las 18 hs del sábado 20 a las 9 hs del día siguiente. La modalidad es de una caña por pareja con devolución. Inscripción: $ 20.000 por pareja. Informes: Tel.: (02804) 658364.\nLeé también Truchas Steelhead: una figurita difícil pero no imposible Si pensamos en el litoral , escenario cada fin de semana de algún concurso o fiesta, se anuncia el encuentro de pesca semi variada de embarcados en San Javier, Santa Fe, con la organización de la subcomisión de pesca Club Atlético Huracán. $ 1.200.000 al ganador. Inscripción $ 90.000. También hay una propuesta en Pueblo Esther, con el planeamiento del Club de Pescadores El Siriri. Allí será el concurso de pesca variada en kayak. De 9 a 12 hs, con un 60 % de lo recaudado en premios. Inscripción $ 23.000. Informes: Tel.: (03413) 764260.\nImportantes propuestas para disfrutar el fin de semana, con muchas otras alternativas menores como picaditos o pequeños encuentros que movilizan cientos de pescadores y se repiten tanto cada sábado como domingo. Se miden fuerzas, se busca una medalla, un trofeo o un suculento premio mientras se comparte la actividad que apasiona a miles de aficionados.\nGalería de imágenes",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://ads.us.e-planning.net/ei/3/259a6/articulo/teads?it=i&rnd=$RANDOM",
+      "https://ads.us.e-planning.net/eb/3/259a6/articulo/teads?o=i&rnd=$RANDOM",
+      "https://ads.us.e-planning.net/eb/3/259a6/articulo/teads?o=j&rnd=",
+      "https://via.placeholder.com/64x64?text=WEEKEND",
+      "https://ads.us.e-planning.net/ei/3/259a6/articulo/teads",
+      "https://www.ads.us.e-planning.net/eb/3/259a6/articulo/teads?o=j&rnd=",
+      "https://www.ads.us.e-planning.net/eb/3/259a6/articulo/teads?o=i&rnd=$RANDOM",
+      "https://www.via.placeholder.com/64x64?text=WEEKEND",
+      "https://via.placeholder.com/64x64",
+      "https://ads.us.e-planning.net/eb/3/259a6/articulo/teads",
+      "https://www.ads.us.e-planning.net/ei/3/259a6/articulo/teads?it=i&rnd=$RANDOM"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:20:47.347+03:00",
+    "updated": "2024-04-19T00:20:47.347+03:00"
+  },
+  {
+    "uuid": "9e39aa5f72b05ae318801a20998f7fb09f401d0e",
+    "url": "https://lancasteronline.com/sports/nba/thanks-to-orlando-magic-shaquille-oneal-becomes-2nd-nba-player-with-3-retired-jerseys/article_395ea864-1036-5946-9a8f-87cd695c3a69.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chuck Schilken - Los Angeles Times (TNS)",
+    "published": "2024-01-05T21:33:00Z",
+    "title": "Thanks to Orlando Magic, Shaquille O'Neal becomes 2nd NBA player with 3 retired jerseys | Nba | lancasteronline.com",
+    "text": "LOS ANGELES — Shaquille O'Neal won three NBA titles with the Lakers. They retired his No. 34 jersey in 2013. The Hall of Fame player also won a championship ring with the Miami Heat. They retired his No. 32 jersey in 2016. But before all that, O'Neal spent the first four years of his career with the Orlando Magic — a team that had only been in the league three seasons before drafting the Louisiana State big man with the first pick in the 1992 draft — and led them to two appearances in the Eastern Conference finals and one in the NBA Finals. The Magic will retire Shaq's No. 32 jersey on Feb. 13, the team announced Thursday, making O'Neal the organization's first player to have his number hung from the Kia Center rafters. \"When someone asks who was the first player to officially put the Orlando Magic on the map, the answer is simple — Shaquille O'Neal,\" said Magic Chief Executive Alex Martins, whose team is celebrating its 35th season. \"He took this franchise to new heights, both on and off the court, and his legacy is still felt within our organization today.\" The announcement was made on-air during TNT's \"Inside the NBA,\" where O'Neal has served as an analyst since soon after he retired from the NBA in 2011. The network marked the occasion by dropping confetti on the Hall of Famer and playing the \"Superman\" theme. \"It was a great four years there,\" O'Neal said of his time in Orlando. \"I just wanted to come in and just make a name for myself.\" O'Neal joins Wilt Chamberlain as the only NBA players to have their jerseys retired by three of their former teams. Chamberlain's No. 13 jersey has been retired by the Lakers, Philadelphia 76ers and Golden State Warriors. Bill Russell's No. 6 jersey was retired for all teams by the NBA and the NBA Players Association following the Boston Celtics legend's death in 2022. Shaq averaged 27.2 points and 12.5 rebounds a game with the Magic. During that time, he compiled numbers that still rank among the franchise's all-time best, including 824 blocked shots (No. 2), 3,691 rebounds (No. 3) and 8,019 points scored (No. 6). In eight seasons with the Lakers, O'Neal averaged 27 points, 11.5 rebounds and 2.5 blocked shots. In four seasons with the Heat, he averaged 19.6 points, 9.1 rebounds and 1.8 blocked shots. Shaq also played for the Phoenix Suns, Cleveland Cavaliers and Celtics, but it is unlikely any of those teams will make him the only player to have his jersey retired by four, five or six franchises. Then again, stranger things have happened. The Heat retired Michael Jordan's No. 23 jersey in 2003 even though he never played for that organization — a move O'Neal spoke out against, along with the leaguewide retirement of Russell's number, on his podcast last week. \"I hate the fact that they hang up other people's jerseys,\" O'Neal said on \"The Big Podcast with Shaq. \"... This is what we built. Michael Jordan ain't never play for the Heat. Bill Russell ain't never play for the Heat. You did your own thing with your little Celtics family and Chicago family. But this Miami thing? … This is our thing. So I don't like that, personally. I'm not trying to be disrespectful.\" ©2024 Los Angeles Times. Visit latimes.com . Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shaquille o'neal",
+          "sentiment": "negative"
+        },
+        {
+          "name": "o'neal",
+          "sentiment": "none"
+        },
+        {
+          "name": "alex martins",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "lakers",
+          "sentiment": "negative"
+        },
+        {
+          "name": "orlando magic",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nba",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hall of fame",
+          "sentiment": "none"
+        },
+        {
+          "name": "shaq",
+          "sentiment": "none"
+        },
+        {
+          "name": "kia center",
+          "sentiment": "none"
+        },
+        {
+          "name": "miami heat",
+          "sentiment": "none"
+        },
+        {
+          "name": "louisiana state",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "los angeles",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:25:38.457+02:00",
+    "updated": "2024-01-06T00:25:38.457+02:00"
+  },
+  {
+    "uuid": "908895a9c0eb6d1d2b32e7264bdc8bf1b3b83aff",
+    "url": "https://original.antiwar.com/lucy/2014/05/21/the-inherent-awfulness-of-the-new-911-museum/",
+    "ord_in_thread": 0,
+    "author": "Lucy Steigerwald",
+    "published": "2025-07-17T00:51:00Z",
+    "title": "Comment on The Inherent Awfulness of the New 9/11 Museum by Barry's Blog # 481: Myth, Madness and the National Mall, Part Five of Seven | madnessatthegates",
+    "text": "On May 21, the $700 million dollar National\nSeptember 11 Memorial Museum opened to the general public,12 years and change\nafter that awful, now-historic day in September.\nThe museum provoked controversy\nfor years before it even opened. The astronomical cost – a mixture of private\nand government funding – to build the thing, as well as the $24 cost of admission\nis just one sore spot. More painfully, some families of 9/11 victims spent\nyears in court fighting the placement of 8,000 unidentified remains of some\n1000 people into a special mausoleum of sorts in the museum. These pieces of\nhuman beings are not going to be put on display for gawking tourists or anything,\nbut it’s perfectly understandable that family members would still find the prospect\nof bits of their loved ones sitting behind a museum door for all eternity to\nbe distressing. Yet, this is also the fundamental contrast between history and\npersonal sorrow. Though the former is made from the latter, it’s trickier to\nknow how to memorialize and remember when people who suffered or lost people\nare still here to witness how a tragedy is preserved.\nThis conflict was\nbeautifully explored by Buzzfeed’s Steve Kandell. In a recent essay, Kandell\ndescribes a gut-wrenching visit to the new museum after 12 years of his family’s\nattempts to mourn the sister they loved alone and without any of the pomp and\npolitics of having such \"special\" grief. Mostly, it’s a personal piece,\nbut Kandell mentions briefly his trouble with the loaded quality of 9/11. Or\nat least what came after – blowback is not mentioned. Still, one guy mourning\nhis sister should be forgiven for being unable to see the big picture; particularly\nwhen seeing the death of a sibling turned into a drop in the grand bucket is\na large part of what upsets him.\nThe 330 million people who tolerated two aggressive wars and a decade and\nmore of hysteria after 9/11 are another matter. And this brings up the question,\nwhat should be done about 9/11, historically? Can you make a museum about such\na political moment – to use the most banal term for murder being paid back by\nmore than two orders of magnitude – when it is still rippling throughout Iraq,\nPakistan, Afghanistan and all over the Middle East? When it is still being used\nto justify an incomprehensibly vast global spying enterprise? And when it gave\nus not only the PATRIOT Act, but\nalso what one writer dubbed \"the most dangerous sentence in U.S. history,\"\nthe Authorization for Use of Military Force (AUMF)?\nYou can’t. Even Washington DC’s Holocaust Museum, which includes bunks from\nBuchenwald, Raoul Wallenberg’s passport, and other eerie, powerful objects ends\nwith an uncomfortably pro-Israel feeling. Maybe this is a US sickness, but it\nseems that there must be always be a message, a false hope at the end, or a\npeople avenged. It can’t just all be meaningless bloodshed, after all. Go check\nout any war memorial (except, arguably the Vietnam war one). You can’t honor\nthe dead when you’re still using them to fuel wars, so you had better make their\ndeath mean something big. Or, as Charles Madison says\nin the classic antiwar film The Americanization of Emily, \"The\nrest of us who make heroes of our dead and shrines of our battlefields… we\nperpetuate war by exalting its sacrifices.\" The soldiers who were conscripted\nand the ones who volunteered are mixed together as one in every troop tribute.\nThey’re all heroes, no matter what. The 9/11 victims are the same. This is so\nvile, and has been used to justify so much misery, that a few family members\nbeing outraged by the museum’s gift shop is really too much to worry over.\nThe New York Post first mentioned this\nbrewing outrage on May 18. Turns out the museum’s $63 million annual operating\nbudget – including at least $10 million annual security costs, how fitting are\nthose metal detectors and scanners! – will be eased by the sale of painfully\nearnest, yet completely crass merchandise such as $64 \"survivor tree earrings\"\nand $39 hoodies emblazoned with an image of the Towers. Family members of victims\nare quoted voicing their disgust, but this is a museum that cost $250 million\nin tax dollars. Offsetting the upkeep with good, old fashioned capitalism is\na fair trade for continually honoring the dead in this fashion. Victims’ families\ndidn’t ask for their loved ones to be cast as Important Deaths for all time,\nbut expensive souvenirs are such a lesser evil compared to the last 12\nyears that it’s hard to feel moved by their sorrow now.\nIn his Buzzfeed piece, Kandell wearily alludes to this when he writes \"The events of the day have already been exploited and sold in ways previously incomprehensible, why get mad at a commemorative T-shirt now?\" Indeed. People like Kandell lost friends and family, and then they had the privilege of their loss being the battle cry for destroying Iraq, invading Afghanistan, and sending drones endlessly patrolling over Yemen and Pakistan; not to mention the NSA spying on everything we do. That – not a pricey hoodie – is the tragedy.\nSeptember 11 is history. The wars that came after continue, yet they are becoming history as well. And history invariably becomes fodder for a middle school field trip, full of people half paying attention. It’s horrible, and a natural progression of time.\nStill, it was too soon for a 9/11 museum, since we are still stuck in the muddy habit of using that day as the magic incantation which makes every foreign adventure legal and right. We should have fixed the mess our policies made before we tried to cast them carefully in the past. But that might mean admitting some people died for no good reason – particularly the hundreds of thousands of individuals in the Middle East, who will get no $700 million tributes from us.\nLucy Steigerwald is a contributing editor for Antiwar.com and a columnist\nfor VICE.com. She previously worked as an Associate Editor for Reason magazine.\nShe is most angry about police, prisons, and wars. Steigerwald blogs at www.thestagblog.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Politics->political dissent",
+      "Politics->censorship and freedom of speech",
+      "Politics->freedom of the press",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Human Interest->funeral and memorial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=10avuQW418Q",
+      "http://washingtonexaminer.com/after-almost-13-years-its-time-to-end-congress-blanket-authorization-of-force/article/2548626",
+      "http://www.cnn.com/2010/CRIME/10/04/scotus.rejected.cases/",
+      "http://nypost.com/2014/05/18/outrage-over-911-museum-gift-shops-crass-souvenirs/",
+      "http://www.slate.com/articles/health_and_science/science/2014/05/september_11_memorial_museum_controversy_unidentified_remains_and_lessons.html",
+      "http://www.buzzfeed.com/stevekandell/the-worst-day-of-my-life-is-now-new-yorks-hottest-tourist-at",
+      "http://www.thestagblog.com/",
+      "http://www.nbcnews.com/news/photo/national-september-11-memorial-museum-n105646",
+      "http://www.thestagblog.com",
+      "http://slate.com/articles/health_and_science/science/2014/05/september_11_memorial_museum_controversy_unidentified_remains_and_lessons.html",
+      "http://cnn.com/2010/CRIME/10/04/scotus.rejected.cases/",
+      "http://buzzfeed.com/stevekandell/the-worst-day-of-my-life-is-now-new-yorks-hottest-tourist-at",
+      "http://www.cnn.com/2010/CRIME/10/04/scotus.rejected.cases",
+      "http://nbcnews.com/news/photo/national-september-11-memorial-museum-n105646",
+      "http://thestagblog.com/",
+      "http://www.nypost.com/2014/05/18/outrage-over-911-museum-gift-shops-crass-souvenirs/",
+      "http://www.washingtonexaminer.com/after-almost-13-years-its-time-to-end-congress-blanket-authorization-of-force/article/2548626",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=10avuQW418Q",
+      "http://nypost.com/2014/05/18/outrage-over-911-museum-gift-shops-crass-souvenirs"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Barry",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Memorial Museum",
+          "sentiment": "negative",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T07:52:10.523+03:00",
+    "updated": "2025-07-17T04:56:29.000+00:00"
+  },
+  {
+    "uuid": "49be366e09bb7bc105534e694b133db380d7b30e",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3929336.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "中证A100ETF工银（561200）跌0.85%，半日成交额7554.00元_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，中证A100ETF工银（561200）跌0.85%，报1.161元，成交额7554.00元。中证A100ETF工银（561200）重仓股方面， 贵州茅台 截止午盘涨0.00%， 宁德时代 跌1.13%， 中国平安 跌0.93%， 招商银行 跌0.70%， 美的集团 跌0.65%， 比亚迪 跌1.40%， 长江电力 跌0.33%， 兴业银行 跌0.08%， 紫金矿业 跌1.44%， 中信证券 跌1.55%。\n中证A100ETF工银（561200）业绩比较基准为 收益率，管理人为工银瑞信基金管理有限公司，基金经理为史宝珖，成立（2023-12-22）以来回报为16.98%，近一个月回报为-1.12%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->financial service"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:17.291+03:00",
+    "updated": "2025-06-20T05:08:16.000+00:00"
+  }
+]

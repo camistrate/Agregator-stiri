@@ -1,0 +1,446 @@
+[
+  {
+    "uuid": "bc49bc5bd97d8fe30da3ac2bbe9671a8af67e406",
+    "url": "https://www.newsbreak.com/news/4074309160912-district-cuts-carpinteria-family-school-classes-plans-to-close-it-for-good",
+    "ord_in_thread": 0,
+    "author": "Rebecca Caraway, Noozhawk Staff Writer",
+    "published": "2025-06-26T02:33:00Z",
+    "title": "District Cuts Carpinteria Family School Classes, Plans to Close It for Good - NewsBreak",
+    "text": "District Cuts Carpinteria Family School Classes, Plans to Close It for Good - NewsBreak",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Education",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Education->private school",
+      "Education->school",
+      "Education->students",
+      "Social Issue->communities",
+      "Social Issue->social services",
+      "Social Issue->social problem",
+      "Politics->government policy",
+      "Politics->education policy",
+      "Politics->local government and authority"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [
+        "fake_news"
+      ],
+      "top_news": [],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-26T07:44:22.186+03:00",
+    "updated": "2025-06-26T04:52:20.000+00:00"
+  },
+  {
+    "uuid": "5341cc50f025b8aeded702648c18cacd7bbfca78",
+    "url": "https://www.boston25news.com/news/trending/japan-woman-her-90s-found-alive-rubble-5-days-after-deadly-earthquake/E4P7BFQ6VFC2RAZIAA4IFR2NAY/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bob D'Angelo, Cox Media Group National Content Desk",
+    "published": "2024-01-07T21:54:00Z",
+    "title": "Japan: Woman in her 90s found alive in rubble 5 days after deadly earthquake – Boston 25 News",
+    "text": "By Bob D'Angelo, Cox Media Group National Content Desk January 07, 2024 at 4:53 pm EST\nExpand\nDestruction: Snow covers the burned ruins of the Wajima morning market in the city of Wajima, in the Ishikawa prefecture of Japan. The city was severely damaged by a 7.6 magnitude earthquake. (STR/JIJI Press/AFP via Getty Images)\nBy Bob D'Angelo, Cox Media Group National Content Desk January 07, 2024 at 4:53 pm EST A woman in her 90s was rescued from beneath the rubble of a collapsed house Saturday in western Japan, five days after a powerful earthquake struck the region and killed more than 126 people.\n>> Read more trending news\nThe woman, who has not been identified, had been trapped beneath the first floor of the two-story structure in the town of Suzu after the 7.56 magnitude earthquake rocked the area, The New York Times reported. She was rescued at about 8:20 p.m. local time and was taken to an area hospital, according to the officer of Ishikawa Prefecture.\nThe Japanese newspaper Yomiuri Shimbun reported that the woman was responsive but was believed to be suffering from hypothermia, the BBC reported.\nOn Sunday, a doctor told reporters that the woman was well enough to speak, but her legs were injured, according to CNN .\nKume Takanori, a member of the emergency rescue team, told NHK that the woman’s knees had been stuck under furniture between the first and second floor, CNN reported. It took hours to free her, Takanori said.\nThe Times , citing experts, reported that the window for finding survivors after an earthquake is typically three days. It is possible to survive for longer periods, depending on access to water and food, temperatures in the area and the extent of the person’s injuries.\nThe death toll from the earthquake continues to rise, with at least 222 people still reported as missing, according to the newspaper.\nWajima city has had the highest number of fatalities, with 69, The Guardian reported. Suzu has 38 deaths.\nLatest headlines: Hawaii wildfires: Police find additional remains, raises death toll to 99 ‘Life-threatening rainfall event’: Heavy rain leaving roads, subways flooded; some left stranded Hawaii wildfires: First group of residents return to Lahaina Middleboro woman trades in career as state investigator to creating wooden flower arrangements Hawaii wildfires: Officials say death toll has dropped to 97 due to DNA tests © 2024 Cox Media Group",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.cnn.com/2024/01/06/asia/elderly-woman-rescued-japan-earthquake-intl-hnk/index.html",
+      "https://www.nytimes.com/2024/01/07/world/asia/japan-earthquake-survivor-rescued.html",
+      "https://www.bbc.com/news/world-asia-67901810",
+      "https://www.theguardian.com/world/2024/jan/06/woman-in-90s-pulled-alive-from-rubble-five-days-after-japan-earthquake",
+      "https://cnn.com/2024/01/06/asia/elderly-woman-rescued-japan-earthquake-intl-hnk/index.html",
+      "https://nytimes.com/2024/01/07/world/asia/japan-earthquake-survivor-rescued.html",
+      "https://bbc.com/news/world-asia-67901810",
+      "https://theguardian.com/world/2024/jan/06/woman-in-90s-pulled-alive-from-rubble-five-days-after-japan-earthquake"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bob d'angelo",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cox media group national content desk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "– boston",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "jiji press/afp",
+          "sentiment": "none"
+        },
+        {
+          "name": "the new york times",
+          "sentiment": "none"
+        },
+        {
+          "name": "yomiuri shimbun",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "wajima",
+          "sentiment": "none"
+        },
+        {
+          "name": "ishikawa prefecture",
+          "sentiment": "none"
+        },
+        {
+          "name": "suzu",
+          "sentiment": "none"
+        },
+        {
+          "name": "ishikawa",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:02:50.788+02:00",
+    "updated": "2024-01-08T00:02:50.788+02:00"
+  },
+  {
+    "uuid": "10653c3d68a6a6e776ebb3be021f296a3fe273ca",
+    "url": "https://www.163.com/dy/article/K57S11760514D3UH.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-07-24T03:29:00Z",
+    "title": "我的奶奶是\"西瓜院士\" 下一步：接班种瓜！|喻言|吴明珠|哈密瓜_网易订阅",
+    "text": "7月中旬，在重庆北碚西山坪的大棚里，杨晓寒收获了重庆第一批“玉露明珠”。而“玉露明珠”正是以她的奶奶中国工程院院士吴明珠的名字命名的新品种哈密瓜。1955年，25岁的吴明珠奔赴新疆，埋头西甜瓜的研究工作，这一扎根就是60余年。目前市面上售卖的西瓜，近百分之八十都是由吴明珠院士培育。今天，她的孙女也决定接过种瓜的接力棒，把这份甘甜继续传递下去。封面新闻记者 马嘉豪 喻言 部分视频素材来自受访者和网络",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Human Interest->anniversary",
+      "Science and Technology->biotechnology",
+      "Science and Technology->natural science",
+      "Science and Technology->agricultural technology",
+      "Lifestyle and Leisure->organic food",
+      "Lifestyle and Leisure->hobby"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_vn",
+        "top_news_th",
+        "top_news_nz",
+        "top_news_rs",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news_hk",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:49:43.311+03:00",
+    "updated": "2025-07-25T08:07:55.000+03:00"
+  },
+  {
+    "uuid": "86822605a8cd1b1ee7d2195a36f6cac9367bde88",
+    "url": "https://www.niagarafallsreview.ca/news/canada/benzene-alert-blamed-on-messaging-system-error/article_3c963d7b-8196-5f27-8b97-9bbeda7009f9.html",
+    "ord_in_thread": 0,
+    "author": "Javi Aviles-Saez, Local Journalism Initiative Reporter Sarnia Journal",
+    "published": "2025-05-07T23:32:00Z",
+    "title": "Benzene alert blamed on 'messaging system error'",
+    "text": "An alert issued this week by INEOS Styrolution about elevated benzene levels at its Sarnia facility has since been retracted, with the company citing a “messaging system error.” A follow-up clarification was issued today, stating that no exceedances occurred on May 5.\nThe original message, distributed through the Sarnia-Lambton Alerts system on May 5, stated that “hourly benzene emissions on-site have been detected above 0.021 parts-per million (67.5 µg/m³).” That figure matches the company’s internal “proactive alert” threshold — a level set below Ontario’s regulatory one-hour ambient air quality criterion (AAQC) for benzene of 90 µg/m³ (approximately 0.028 ppm).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Health",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->hazardous materials",
+      "Environment->water pollution",
+      "Environment->environmental pollution",
+      "Health->medical test",
+      "Health->government health care",
+      "Health->health organisation"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "86822605a8cd1b1ee7d2195a36f6cac9367bde88",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T03:42:52.100+03:00",
+    "updated": "2025-05-08T00:54:25.000+00:00"
+  },
+  {
+    "uuid": "1ac30920db8210701955b21dec9d8a8128cbee1c",
+    "url": "https://en.tempo.co/read/1875018/indonesias-islamic-economy-must-become-the-worlds-best-minister-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Petir Garda Bhwana",
+    "published": "2024-06-02T00:00:00Z",
+    "title": "Indonesia's Islamic Economy Must Become the World's Best, Minister Says - News En.tempo.co",
+    "text": "TEMPO.CO, Jakarta - Indonesia needs to make even greater efforts to boost its Islamic economy, pushing it to emerge at the top spot globally, Coordinating Economic Minister Airlangga Hartarto affirmed.Speaking at an Islamic boarding school (pesantren) in Bogor, West Java, on Saturday (June 1), he cited the State of the Global Islamic Economy (SGIE) 2023 report showing that Indonesia's Islamic economy came in third position, trailing second-ranked Saudi Arabia and first-ranked Malaysia.\\\"This does not make sense, considering our population of 280 million. Meanwhile, the populations of Malaysia and Saudi may be equal or less compared to that of West Java. Hence, we need to boost our Islamic economy to make it the world's number 1,\\\" he remarked.Hartarto noted that the ecosystem of Islamic economy and finance in Indonesia has been showing developments, especially in the fields of Islamic investment, halal food and beverages, modest fashion, pharmacy, cosmetics, and Muslim-friendly tourism.Standing among countries with the largest Muslim populations, Indonesia still wields huge potential to further develop its Islamic economy and finance. The potential is reflected in the existence of around 4.8 million pesantren students and 39.6 thousand pesantrens across the country, he said.He underlined that as many as 12,469 pesantrens, or nearly 40 percent of the total existing pesantrens, have the potential to contribute to the economy through agriculture, farming, fishery, as well as micro, small, and medium enterprises.\\\"As a religious educational institution, a pesantren also shares the responsibility to empower people socially and economically,\\\" he opined.Hartarto then emphasized the importance of endorsing inclusive finance, which serves as a critical component in actualizing a more inclusive society.In this regard, he noted that the government had issued Presidential Regulation No. 114 of 2020 that aimed to accelerate the broadening of people's access to financial products through intensified coordination between the central and regional governments, financial services industry, community organizations, and educational institutions.\\\"I hope that we will manage to achieve the target of boosting our financial inclusion rate to 90 percent by cooperating with pesantrens,\\\" he added.ANTARAEditor's Choice: President-elect Prabowo Subianto Pledges to Strengthen Indonesia's Defense Ties with SingaporeClick here to get the latest news updates from Tempo on Google News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "airlangga hartarto",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "muslim",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "jakarta",
+          "sentiment": "none"
+        },
+        {
+          "name": "indonesia",
+          "sentiment": "none"
+        },
+        {
+          "name": "saudi arabia",
+          "sentiment": "none"
+        },
+        {
+          "name": "malaysia",
+          "sentiment": "none"
+        },
+        {
+          "name": "bogor",
+          "sentiment": "none"
+        },
+        {
+          "name": "west java",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T11:23:43.497+03:00",
+    "updated": "2024-06-02T16:20:06.060+03:00"
+  },
+  {
+    "uuid": "ceade145a6bf2fee4a3bf9a6e8497b4ad4361dd2",
+    "url": "https://bvmsports.com/2025/03/19/all-about-the-mom-tee-higginss-makes-it-clear-who-hes-taking-care-of-with-new-contract",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Up & Adams Show with Kay Adams",
+    "published": "2025-03-19T23:13:00Z",
+    "title": "\"All About the Mom!\" Tee Higgins's Makes it Clear Who He's Taking Care of With New Contract",
+    "text": "“All About the Mom!” Tee Higgins’s Makes it Clear Who He’s Taking Care of With New Contract\nClick here to subscribe to never miss an episode of Up & Adams with Kay Adams: https://www.youtube.com/@UpAndAdamsShow?sub_confirmation=1 Season 3 of the Up and Adams Show: https://www.youtube.com/playlist?list=PLx3ucpDzWf1KaEckKKicNaresMDS6VIO5 2024 NFL Training Camp Interviews: https://www.youtube.com/playlist?list=PLx3ucpDzWf1LUvZVSXdypyEW1ouSvUhYu Full Interviews: https://www.youtube.com/playlist?list=PLx3ucpDzWf1LmJhtMh-WUhFGrusZzdT3m Player Interviews: https://www.youtube.com/playlist?list=PLx3ucpDzWf1LT3n0tSZfS5ofhFWzUloCH The official YouTube channel for Up and Adams with host Kay Adams. Up and Adams is a one-hour sports television show on FanDuel TV and YouTube. Every day, Kay will give you her authentic, unfiltered opinion on the day’s biggest NFL topics. Watch \"Up and Adams\" Monday-Friday at 11am ET LIVE on YouTube & FanDuel TV\nRead more at www.youtube.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->american football",
+      "Human Interest->celebrity",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->club and association",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=ifJsGAL6FWw",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=ifJsGAL6FWw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kay Adams",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "YouTube & FanDuel",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:31:52.965+02:00",
+    "updated": "2025-03-20T01:31:52.965+02:00"
+  },
+  {
+    "uuid": "ecdfc1f978b6a5cc4e08257f57fdd317326f1dea",
+    "url": "https://www.medindia.net/news/cannabis-use-linked-to-increased-cancer-risk-217953-1.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Medindia",
+    "published": "2024-11-14T19:00:00Z",
+    "title": "Cannabis Use Linked to Increased Cancer Risk",
+    "text": "Cannabis use may raise cancer risk, with studies linking it to certain cancers.\nCannabis consumption can wreak havoc on our cellular health, significantly increasing the risk of developing deadly cancerous tumors. In the study, published in the scientific journal Addiction Biology, cannabis is described as a “genotoxic” substance because it damages a cell's genetic information. This can lead to DNA mutations, accelerated ageing, and cancer. Alarmingly, this genotoxicity can be passed on to the next generation via a damaged egg and sperm -- making the risk of cannabis use trans-generational, said the researchers from the University of Western Australia.\n‘#Cannabis can damage your #DNA? It’s classified as a #genotoxic substance, linked to DNA mutations, premature aging, and even #cancer. #weed’\nIn the study, the team also linked established knowledge that cannabis use damages cellular energy production by inhibiting mitochondria with recent cancer research showing that mitochondrial dysfunction drives chromosomal damage which can surge rates of cancer, accelerated ageing, and birth defects.\nCannabis: A Hereditary Health Risk\n“The link we’ve described between cannabis use and genotoxicity has far-reaching consequences. This new research shows how genetic damage from cannabis use can be passed down the generations,” said Dr. Stuart Reece from the varsity Cannabis has been known to be linked with both micronuclear development and mitochondrial inhibition for many decades. Both human and rodent studies show that adult cannabis exposure is linked with the incidence of autism and cerebral processing difficulties in children prenatally exposed. However, the study argued that cannabinoid genotoxicity has long been “overlooked”.The researchers noted that “it may, in fact, be all around us through the rapid induction of ageing of eggs, sperm, zygotes, foetus and adult organisms with many lines of evidence demonstrating transgenerational impacts”.\nTogether, the data is clear and robust evidence for the transgenerational transmission of major genotoxic outcomes. In light of this, Reece called on policymakers to “reframe the discussion surrounding cannabis legalisation from a personal choice to one that potentially involves multiple subsequent generations.”\nSource-IANS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "University of Western Australia",
+          "sentiment": "none"
+        },
+        {
+          "name": "Addiction Biology",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T06:36:19.890+02:00",
+    "updated": "2024-11-15T06:36:19.890+02:00"
+  }
+]

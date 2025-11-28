@@ -1,0 +1,339 @@
+[
+  {
+    "uuid": "617e25c71b9379701ccdb6e627e0ee44e48e421d",
+    "url": "https://www.nbcmiami.com/weather/nbc-6-todays-forecast-first-alert-weather-south-florida/1883450/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@nbc6",
+    "published": "2024-01-13T22:43:00Z",
+    "title": "Today's Forecast - NBC 6 South Florida",
+    "text": "Miami and Fort Lauderdale recorded high temps again on Saturday before the cold front passed! Miami reached 86 breaking the old record of 84 and Fort Lauderdale reached 86, which tied the record.\nToday will be much cooler and we are already feeling the difference this morning. Temps are starting out in the upper 60s to low 70s. There are storms working through Broward County and that will continue for the first half of the day before they break up and become a lot more scattered.\nHighs today will be dependent on how fast and how long we break to the rain showers later on, but we should still expect to be in the low to mid 70s across the area.\nOvernight, the clouds linger and this will keep us nearly the same as this morning with a low of 68 but it will be breezy with the east wind 10-15 mph and gusts 20+ mph.\nGet South Florida local news, weather forecasts and entertainment stories to your inbox.\n[Sign up for NBC South Florida newsletters.]\nFor MLK day on Monday, we’ll stay mostly cloudy with a lower rain chance throughout the day. Breezy conditions last into Monday as well with highs in the upper 70s.\nThe next cold front will inch closer to the region as we head into the middle of the week. Late night showers arrive Tuesday with much of the day being rain-free. But the unsettled weather sticks around through Wednesday and lingers into Thursday before the front kicks out of here. Temps won’t move too much and stay in the 70s with overnight lows cool and in the 60s.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "nbc",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nbc south florida",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "fort lauderdale",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida miami",
+          "sentiment": "none"
+        },
+        {
+          "name": "miami",
+          "sentiment": "none"
+        },
+        {
+          "name": "broward county",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-14T15:02:04.856+02:00",
+    "updated": "2024-01-14T15:02:04.856+02:00"
+  },
+  {
+    "uuid": "3828f2f55f8dc91c24fffba9fa50a335d8c6ce85",
+    "url": "https://www.vrt.be/vrtnws/en/2025/03/28/workers-at-ab-inbev-breweries-in-leuven-en-hoegaarden-down-tools",
+    "ord_in_thread": 0,
+    "author": "Flanders News",
+    "published": "2025-03-28T08:48:00Z",
+    "title": "Workers at AB InBev breweries in Leuven en Hoegaarden down tools in dispute over \"toxic climate\" at the company",
+    "text": "Workers at AB InBev breweries in Leuven en Hoegaarden down tools in dispute over “toxic climate” at the company\nWorkers at the multi-national drinks company AB Inbev's breweries in Leuven and Hoegaarden (both Flemish Brabant) are staging a lightning strike. They are protesting at what they describe as “toxic climate” at AB Inbev. They are demanding urgent talks with management to resolve the issues.\nA picket has been in place at the gates of the Hoegaarden brewery since Friday morning and access to the brewery is blocked. Staff are also taking strike action at AB Inbev’s Leuven breweries site and at its various depots around the country. The union says that “toxic measures” at AB Inbev has led to the strike.\nGert Engels of the socialist trade union ABVV told VRT News that his members are fed up with they way they are being treated. “There is no single incident that has triggered the strike, but there is zero respect for the workers. Staff shortages have also played a role”.\nThe unions are calling for talks with management.. \"We are always asking for this, but management doesn’t want talks”. Lieven Guelinckx of the liberal trade union adds that consolatory talks planned for 27 February didn’t go ahead as management dismissed a constructive proposal for mediation to end the dispute that was put forward by the arbitrator out of hand. proposed by the conciliation agency to get out of the conflict. Mr Guelinckx added that the current situation is having a negative impact on the safety and health of AB Inbev staff.\nThe company has yet to release a statement.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Labor->labour dispute",
+      "Labor->labour relations",
+      "Labor->workplace health and safety",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Crime, Law and Justice->civil law"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Hoegaarden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Gert Engels",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Lieven Guelinckx",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Leuven",
+          "sentiment": "neutral"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Leuven en Hoegaarden",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "AB Inbev's",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "ABVV",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "VRT News",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "the liberal trade union",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "AB Inbev’s",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T13:14:41.817+03:00",
+    "updated": "2025-03-28T13:14:41.817+03:00"
+  },
+  {
+    "uuid": "edb03676c5b16963826e9c598e2579f052bf8fc8",
+    "url": "https://flipboard.com/topic/magictrick/merritt-schools-placed-on-lockdown-due-to-nearby-police-raid-kamloops/a-WCSwXfTxR7GHA3LFsaFJCQ%3Aa%3A3249317471-f5307e4839%2Fcastanet.net",
+    "ord_in_thread": 0,
+    "author": "castanet.net - Contributed",
+    "published": "2025-04-09T21:01:00Z",
+    "title": "Merritt schools placed on lockdown due to nearby police raid (Kamloops) | Flipboard",
+    "text": "Merritt schools placed on lockdown due to nearby police raid (Kamloops) UPDATE: 2:01 p.m. Police confirm they are on scene at “an unfolding incident” at a home on Clapperton Avenue in Merritt. “There is no risk to the …\ncastanet.net - Contributed • 14m",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->law enforcement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Clapperton Avenue",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:18:24.357+03:00",
+    "updated": "2025-04-10T00:18:24.357+03:00"
+  },
+  {
+    "uuid": "0cad97e608874a3040a3f68e338f3b1f11876065",
+    "url": "https://www.opovo.com.br/noticias/mundo/2025/03/19/nick-kyrgios-conquista-em-miami-sua-primeira-vitoria-desde-2022.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "afp",
+    "published": "2025-03-19T22:05:00Z",
+    "title": "Nick Kyrgios conquista em Miami sua primeira vitória desde 2022",
+    "text": "Nick Kyrgios conquista em Miami sua primeira vitória desde 2022\nO tenista australiano Nick Kyrgios venceu nesta quarta-feira (19) em sua estreia no Masters 1000 de Miami e comemorou sua primeira vitória no circuito em quase dois anos e meio.\nKyrgios, que despencou para 892ª posição do ranking da ATP, bateu o americano Mackenzie McDonald (N.101) por 2 sets a 1, com parciais de 6-3, 3-6 e 6-4.\nÉ + que streaming. É arte, cultura e história.\nVice-campeão de Wimbledon em 2022, o australiano teve a carreira prejudicada por uma série de lesões, principalmente no punho, um problema que voltou a aparecer no início deste mês, no Masters 1000 de Indian Wells, onde, às lágrimas, teve que abandonar a partida contra o holandês Botic van de Zandschulp.\nNesta quarta-feira, Kyrgios se recuperou de um início de jogo ruim contra McDonald, no qual perdeu os primeiros nove pontos disputados.\nO americano abriu 3-0 e fechou o primeiro set em apenas 28 minutos.\nMas Kyrgios não jogou a toalha e, apoiado pelos torcedores da Flórida, conseguiu uma grande virada explorando seu potente serviço, com 13 aces contra seis de McDonald.\nAo final da partida, o australiano comemorou de forma contida sua primeira vitória desde outubro de 2022. Seu próximo adversário em Miami será o russo Karen Khachanov (N.23).\nAos 29 anos, Kyrgios já insinuou que sua aposentadoria do tênis pode estar próxima, depois de ter feito apenas um jogo entre 2023 e 2024 devido à lesão no punho e outros problemas no joelho e no abdômen.\nDepois de se recuperar, voltou ao circuito no início deste ano com duas derrotas em seu país, no torneio de Brisbane e no Aberto da Austrália, antes de abandonar em Indian Wells.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->sport achievement",
+      "Sport->tennis",
+      "Sport->sports honour",
+      "Human Interest->record and achievement",
+      "Lifestyle and Leisure->exercise and fitness",
+      "Lifestyle and Leisure->game"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T00:21:39.209+02:00",
+    "updated": "2025-03-20T00:21:39.209+02:00"
+  },
+  {
+    "uuid": "8a1988aeb4cdcb404bcf70c71755df045713969a",
+    "url": "https://www.weau.com/2024/04/25/woman-arrested-following-hit-and-run",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WEAU13News",
+    "published": "2024-04-25T21:12:00Z",
+    "title": "Woman arrested following hit-and-run",
+    "text": "Woman arrested following hit-and-run VERNON COUNTY, Wis. (WEAU) - A woman was charged today following a hit-and-run crash last Wednesday. On April 17, just before 4 p.m., 32-year-old Tasha Sittig of rural Lone Rock, Wis. was arrested following a hit-and-run reported earlier that morning at the intersection of County Road C and Pine Road in the village of Yuba in Richland County. Sittig was charged on April 23 with two counts of second-degree recklessly endangering safety, disorderly conduct and resisting or obstructing an officer. Additionally, Sittig was charged on April 25 with reckless driving-endangering safety, unreasonable and imprudent speed and following too closely in an automobile. A $500 cash bond was set. She is scheduled to appear in court on May 7. According to a joint news release from the Richland and Vernon County Sheriff’s Offices, on April 17 at about 10 a.m., the Richland County Sheriff’s Office was notified of a hit-and-run crash at the intersection of County Road C and Pine Road in the village of Yuba in Richland County. No injuries were reported. The vehicle was described as a black SUV, last seen traveling north on County Road H towards Vernon County. The victim reported that the SUV was being operated in a reckless manner and the crash may have been intentional. At about 3:30 p.m., the Vernon County Sheriff’s Office received multiple reports of a black SUV being driven recklessly in the village of Viola in Richland and Vernon Counties. One caller reported that the vehicle drove through a barricaded section of North Commercial Street/State Highway 131 that was under construction. The SUV description and license plate matched the information from the hit-and-run report. It was found in Viola and the driver was identified as Sittig. She was taken into custody and booked into Richland County Jail. On April 22, the Vernon County Sheriff’s Office was notified that the driver of a black SUV had driven recklessly through the Kickapoo Area Schools campus on April 1 and again on April 17. Video evidence and witness statements were taken during the investigation. Copyright 2024 WEAU. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tasha sittig",
+          "sentiment": "none"
+        },
+        {
+          "name": "sittig",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "vernon county sheriff’s offices",
+          "sentiment": "none"
+        },
+        {
+          "name": "richland county sheriff’s office",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "wis.",
+          "sentiment": "none"
+        },
+        {
+          "name": "yuba",
+          "sentiment": "none"
+        },
+        {
+          "name": "richland county",
+          "sentiment": "none"
+        },
+        {
+          "name": "county road",
+          "sentiment": "none"
+        },
+        {
+          "name": "richland",
+          "sentiment": "none"
+        },
+        {
+          "name": "pine road",
+          "sentiment": "none"
+        },
+        {
+          "name": "lone rock",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:35:13.430+03:00",
+    "updated": "2024-04-26T00:35:13.430+03:00"
+  }
+]

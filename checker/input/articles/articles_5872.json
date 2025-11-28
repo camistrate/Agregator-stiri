@@ -1,0 +1,539 @@
+[
+  {
+    "uuid": "91219267f14a5ee9ff17402f17f39f41f4974a6d",
+    "url": "https://www.provideocoalition.com/wireless-lighting-control-is-wonderful",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@provideo",
+    "published": "2025-01-23T13:18:00Z",
+    "title": "Wireless lighting control is wonderful",
+    "text": "This is what a lighting department used to look like. Courtesy Pexels user Robert So. Often, development in technology gives us wonderful new things over time. Sometimes, though, it results in a teetering jenga tower of historic standards and modern devices held together with luck, hope, and skilled intervention. So, because we keep getting asked questions about it, let’s talk about the state of DMX lighting control.\nChanging lighting setups without rising to our feet is wonderful. The film industry picked up remote-control lights from theatre almost as soon as it became technically possible. Doing it not only remotely but wirelessly was probably more of a boon to film industry than to theatre, given stage sets stay in place for weeks and film sets don’t. Wireless control is fantastic.\nThe process of setting it up can be less fantastic. We connect keyboards, mice, webcams and other non-trivial devices via USB without even thinking about it. Even via Bluetooth things are fairly straightforward. Getting control commands from a tablet to a movie light, meanwhile, can demand a little bit more. It’s not the fault of the manufacturers, who are mostly just implementing available standards, but there does seem to be some room for considering how things could be easier.\nThis is what a lighting department now looks like. Technology has made gaffing a shoes-optional activity, which is nice. Courtesy Pexels user Timo Miroshnichenko. DMX is Forrest Gump DMX arose in the late 80s. It is basic – effectively a serial port sending numbers by turning the data lines on or off to represent ones and zeroes. One number is eight ones or zeroes (plus some framing). Eight bits means values between 0 and 255. DMX sends 512 of those numbers, followed by a marker indicating the start of the sequence. 512 values are updated at about 44Hz.\nDMX does not define what any of those 512 values mean. Each value controls one function of a light, such as brightness, colour, or on a moving light, it horizontal position. The next value might then control vertical position. We learn this by reading the light’s manual. If we set the light to address ten and the first value for that light controls brightness, then the tenth fader on our lighting desk will control the brightness of that light. There is, mostly, no automatic configuration.\nNow, we have far better ways of sending data over long cables. A single gigabit Ethernet link can carry thousands of times as much, which might be useful for pixel tubes in interactive lighting, which each demand hundreds of channels. Art-Net and sACN are two different protocols designed to send DMX data over Ethernet. That helps get more values to more lights in really large setups, but it doesn’t make the underlying DMX system any less primitive.\nNaturally, once we’re sending data over Ethernet, someone will ponder sending it over WiFi, and that works fine, too.\nThis is actually older than DMX. But not by much. WiFi Lights? The problem is that movie lights generally don’t (or didn’t) have WiFi receivers. Being a WiFi device, and connecting to another device, demands significant computer power and adds a huge amount of complexity to setup which most situations don’t want or need. In many devices, the network interface would be the most difficult part of the process in terms of sheer computer horsepower, and computer networks need IP addresses, passwords, and other setup.\nAs an alternative, we quickly encounter wireless DMX. That’s a phrase which deserves unpacking. It describes a variety of devices which plug into the 5-pin XLR input on a lighting device, and communicate with a transmitter plugged into the corresponding output on a control desk. That’s convenient, though the radio signals may not be compatible between brands. While a plug-in module is a convenient way to make any device wireless, there are often no power pins on a DMX connector, so they must use batteries, which can go flat, or add clutter with an external power supply.\nThe standard in this world is CRMX. It uses a BlueTooth-style pairing procedure in which both the light and the controller are told to connect. There is still no solution to the fact that DMX is just a list of unassigned numbers, but CRMX has features for more robust radio communications, and, crucially, it is built into many lights and controllers. It isn’t built into iPads, though. CRMX is not WiFi. We need an additional bridging device to generate CRMX. We can connect that bridge to the tablet by having the CRMX bridge also publish a WiFi network.\nSo – deep breath – we can run some software on a tablet, tell it which lights we’re using and how their channel layout works (which can change via menu options on modern lights), connect the tablet to the CRMX device using its WiFi network name and password, and send it (say) data. Then, we can pair the lights with the CRMX device, set the right start address, enable DMX mode, and we should be in business, so long as we can remember the login code for the ipad.\nLike so many things we rely on totally\n, this is not a technology we would build this way if we were to develop it from scratch right now. The fact that it is as accessible as it is represents a lot of work by software engineers. Again, none of this is the manufacturers’ fault. If we want to use a tablet to control lights, this is the most direct way to do it, given thirty plus years of technological history.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->information technology and computer science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->house and home"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:38:52.478+02:00",
+    "updated": "2025-01-24T00:38:52.478+02:00"
+  },
+  {
+    "uuid": "e47f242ecdd7bea8dd1316a6773d6ae88605a198",
+    "url": "https://www.lanazione.it/la-spezia/cronaca/cinque-terre-vacanza-turisti-ckewc9w5",
+    "ord_in_thread": 0,
+    "author": "La Nazione",
+    "published": "2025-05-01T01:05:00Z",
+    "title": "Vacanza da incubo alle Cinque Terre, lo sfogo dei turisti: \"Oltre 200 euro di biglietti per stare nelle stazioni\"",
+    "text": "Cinque Terre, 1 maggio 2025 – Una spesa di oltre 200 euro in biglietti del treno per passare buona parte del soggiorno sulle banchine ferroviarie anziché a gustare i fantastici paesaggi delle Cinque Terre . È la complicata giornata da turisti vissuta lo scorso 26 aprile da una comitiva di otto persone originarie delle Marche , che ha deciso di scrivere a La Nazione non solo per raccontare la propria esperienza ma anche per auspicare l’intervento delle istituzioni al fine di un miglioramento della situazione. “All’ufficio informazioni di Trenitalia – spiega Osvaldo Regno – ci hanno spiegato a grandi linee le condizioni di utilizzo del trenino e il relativo costo che, nel nostro caso è stato di 214 euro (sei adulti, un bambino di cinque anni e uno di due; ndr). Siamo partiti dalla Spezia con destinazione Monterosso : questa prima tappa tutto normale”. A Vernazza però arrivano i primi problemi. “Arrivati in stazione già si intravedevano difficoltà nel deflusso dei viaggiatori in arrivo e in partenza; in questa stazione il treno ferma in galleria e li si scende arrivando sul marciapiede ridotto con rischio di cadute sui binari – dice Regno –. La località era strapiena di turisti e la via principale era bloccata dal flusso umano comportando problemi negli spostamenti e anche rischi di sicurezza per tutti e in particolare per i bambini”. La comitiva riparte, “non senza difficoltà per salire vista le tante persone che sostavano sul marciapiede” dalla stazione di Vernazza a quella di Corniglia, dove avrebbe avuto “seri problemi per poter scendere dal treno a causa delle tantissime persone; siamo rimasti tutti bloccati sul marciapiede perché il deflusso tra chi arrivava e chi tornava aveva creato un blocco totale. Dopo venti minuti siamo riusciti a salire in strada, ma purtroppo anche qui la situazione era identica alla precedente e proibitiva. Troppa gente, pertanto abbiamo deciso di rinunciare a questa tappa e riprendere il treno”.\nRitornati sulla banchina, con i turisti “ammassati in modo indecente in un limitato spazio fisico, costretti a dover sostare anche oltre la riga gialla”, l’attesa per la comitiva è durata per circa trenta minuti , “dovuti anche al solito ritardo del treno. La sicurezza in questa situazione era totalmente preclusa per tutti, e avendo due piccoli da tutelare si può immaginare la tensione e la paura per quella situazione” dice Regno, che assieme agli altri ha poi raggiunto Manarola attraverso un “treno già super affollato ogni oltre limite. Speravamo in una situazione migliore invece, anche qui, blocco totale nel prendere il sottopassaggio per uscire dalla stazione, tutti fermi per altri 20 minuti”. Risultato: la comitiva è ritornata subito alla Spezia senza aver visitato praticamente nulla. “Un’esperienza decisamente negativa” dice Regno, che propone di “contingentare l’affluenza come previsto per le manifestazioni aperte al pubblico per garantirne la sicurezza. Trenitalia e tutti gli enti interessati dovrebbero valutare la necessità di adottare criteri e interventi volti a limitare i disagi ma ancor di più a garantire la sicurezza delle persone. Siamo dispiaciuti, rammaricati e anche molto arrabbiati perchè ci siamo sentiti ’fregati’ sia riguardo la mancata informazione su eventuali rischi di affollamento e per aver speso 214 euro per passare la maggior parte del tempo sui marciapiedi delle stazioni senza poter di fatto visitare i luoghi”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->holiday",
+      "Lifestyle and Leisure->travel and tourism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Cinque Terre",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T04:20:12.597+03:00",
+    "updated": "2025-05-01T01:21:52.000+00:00"
+  },
+  {
+    "uuid": "6db4dfe7d16b95e0e1f30a6a348c4f4840cda69f",
+    "url": "https://www.bta.bg/en/bg-world/594023-activist-alberta-alkalay-sees-jews-rescue-as-extraordinary-moral-capital-of-bul",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valentin Evstatiev,Maya Stefanova",
+    "published": "2023-12-30T17:21:00Z",
+    "title": "BTA :: Activist Alberta Alkalay Sees Jews' Rescue as Extraordinary Moral Capital of Bulgaria",
+    "text": "site.btaActivist Alberta Alkalay Sees Jews' Rescue as Extraordinary Moral Capital of Bulgaria The rescue of the Bulgarian Jews during World War II is arguably the second most important intangible asset of Bulgaria after the invention of the Slavic alphabet, according to the Chairperson of the Alef Jewish-Bulgarian Cooperation Centre, Alberta Alkalay. This is her way of describing the courage and the selflessness with which members of Bulgarian society challenged the status-quo 80 years ago and saved their Jewish fellow citizens from deportation to Nazi death camps. Alkalay is a descendant of rescued Jews who lived in the Black Sea city of Burgas. She and the Alef Centre founded by her have established a short-story writing competition for school students, mottoed \"Whosoever Saves a Single Life, Saves an Entire Universe\". Interviewed by BTA, Alkalay talked about her profound interest in the history of the Bulgarian Jews. She gave details about events in Burgas between 1941 and 1944 and named local personalities who helped the Jewish people. Becoming aware Growing up in Burgas during the communist era, she felt somewhat different from the Bulgarian kids because of the way her non-Slavic name sounded. There was no synagogue in the city. She knew that she was Jewish and her two great-grandmothers lived in Israel. When she was 17, she was sent on a visit to Poland and walked the entire March of the Living, an international event in which young people from around the world get together and walk the 6 km distance from the town of Oswiecim to the Auschwitz concentration camp. It was a mind-blowing journey, Alkalay said. Totally unprepared, she was confronted with some of the darkest moments of the Holocaust and felt as if she was reduced to ashes. The girl learned firsthand about what had happened to Jewish people, including members of her own family, in places like Auschwitz. Alkalay blamed her grandparents for not telling her enough about the Holocaust, but she understood that they wanted to protect her emotionally. She felt compelled to keep the memory alive and pass it down correctly to the younger generations. Making a difference Alkalay started working with Steven Spielberg's Shoah Foundation. As part of her work, she interviewed 100 Bulgarian Jews who were active citizens between 1941 and 1944. The pieces of the puzzle began to fall into place for her. She realized how important it was to make the information clear and public. Even very close friends of hers did not know what happened to their families during World War II. Ten years ago, when she began to promote the students' short-story writing competition \"Whosoever Saves a Single Life, Saves an Entire Universe\", she went from school to school asking young people to take part in the competition by writing about the rescue of the Bulgarian Jews, but at that time few people knew what the country had done for its Jewish population during the Holocaust. The Alef Centre leader said her mission is not just to teach people about the history of the Bulgarian Jews' rescue but also to explain that challenging the status-quo sincerely and selflessly can be a successful endeavour. Although Bulgaria was an ally to Nazi Germany, it managed to save its Jews. Such things do happen, and people should be aware of that, Alkalay insisted. She described the rescue as an extraordinary moral capital of Bulgaria. The Rescue: Burgas The Jews deportation order reached the city of Burgas in March 1943, she said. Everything was top secret. The authorities wanted this criminal act to be performed quietly because they feared a strong public reaction. The plan was to take away 174 Jewish families (422 people), starting from wealthier citizens. The order was received by telegraph at the post office. The post office director, Zhelyaz Petkov, first conveyed the news to his friend Avram Assa, the leader of the local Jewish community. They could not resist the order, but they tried to buy time. It was not until late on the next day that Petkov broke the news officially. The Jews eagerly spread the word among their Bulgarian friends. A sort of a committee was set up, comprising a couple of local industrialists, a lawyer, a former politician, public figures. They decided to send people to the capital Sofia to try to meet with King Boris III. Finding themselves unable to speak with the monarch, they got in touch with other influential people in Sofia, and thanks to the prompt intervention of the Orthodox Church, the deportation order was suspended. Suspended, not revoked. The cloud hanging over the Bulgarian Jews remained. A few months later, in July 1943, Jews in Burgas who were subject to deportation were named on lists again. This time, the targets were 298 local families, or 1,000 to 1,500 individuals. People continued to raise resources for the rescue effort. Another steering committee was set up, with Burgas mayor Dyanko Pravchev among its members. He and the mayors of Karnobat and Yambol travelled to Sofia to make their case for the revocation of the second order. As a result, Jews from Burgas never got on the deportation train. Taking credit Alkalay said the issue of who rescued the Bulgarian Jews 80 years ago is rather contentious. Personally, she believes that they were saved by decent, brave people working at various levels in and outside the institutions of the state, people who had not lost their humaneness. She noted that Burgas now has a Gratitude Memorial, built by the Alef Centre and thankful citizens. Alkalay wants to help raise a community of young people who can never be seen among the ranks of the neo-Nazis and who will never use hate speech. They will be the good guys. /VE/ news.modal.header news.modal.text",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alberta alkalay",
+          "sentiment": "negative"
+        },
+        {
+          "name": "alkalay",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "nazi",
+          "sentiment": "none"
+        },
+        {
+          "name": "bta",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "bulgaria",
+          "sentiment": "none"
+        },
+        {
+          "name": "black sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "burgas",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T20:45:22.292+02:00",
+    "updated": "2023-12-30T20:45:22.292+02:00"
+  },
+  {
+    "uuid": "6e5fda76665c36acf1b260bfddb9ec67d7525ee8",
+    "url": "https://cadenaser.com/comunitat-valenciana/2024/07/19/reabren-al-bano-las-playas-de-valencia-afectadas-por-el-vertido-de-fuel-radio-valencia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cadena SER",
+    "published": "2024-07-19T09:40:00Z",
+    "title": "Reabren al baño las playas de València afectadas por el vertido de fuel | Actualidad | Cadena SER",
+    "text": "[Sociedad](/actualidad/sociedad/) Reabren al baño las playas de València afectadas por el vertido de fuel El Ayuntamiento de la ciudad ha confirmado que el agua de las tres playas afectadas, El Saler, l'Arbre del Gos y La Garrofera, ya tienen la calidad óptima para el baño València El Ayuntamiento de València ha confirmado este viernes que se han decidido reabrir al baño las playas de El Saler, l'Arbre del Gos y La Garrofera, [afectadas este martes por el vertido de fuel ](https://cadenaser.com/comunitat-valenciana/2024/07/16/cerradas-las-playas-de-larbre-del-gos-y-el-saler-por-un-vertido-que-podria-ser-de-fuel-radio-valencia/)que llegó a esta zona. Lo ha confirmado este viernes a mediodía la alcaldesa de València, María José Catalá, en su visita a la zona, donde ha explicado que tras los análisis realizados en las últimas horas la calidad del agua es óptima para poder bañarse y ya se ha colocado la bandera verde en todas las torres para que los bañistas puedan acceder al mar. Catalá destaca que se ha actuado \"en tiempo récord\" por parte de todas las administraciones [para retirar el vertido de fuel](https://cadenaser.com/comunitat-valenciana/2024/07/17/se-reinician-las-labores-de-limpieza-del-vertido-en-valencia-que-ha-cerrado-tres-playas-radio-valencia/) en pocas horas y eliminar cualquier riesgo para la ciudadanía. Ha agradecido la labor de todos los técnicos implicados de Tragsa y del Ayuntamiento de València, además del trabajo hecho por la Generalitat y la Delegación del Gobierno en la Comunitat Valenciana. \"Esta es una muestra más de cómo se trabaja en equipo, de cómo se trabaja bien por parte de todas las administraciones y hay que agradecer que en tiempo récord hemos retirado el fuel, hemos atendido la mejora de la playa y ahora podemos decir que la calidad del agua es óptima y que este fin de semana todo el mundo podrá bañarse en estas playas en condiciones de normalidad\", ha asegurado la alcaldesa. Sigue la investigación Mientras tanto, continúa la investigación para conocer el origen del fuel, que está en un buque todavía por identificar, y Catalá ha anunciado que el Ayuntamiento va a trasladar a la Fiscalía toda la información de la que dispone. Asegura que es fundamental saber qué barco es el responsable de este vertido, porque el Ayuntamiento quiere \"perseguirlo\" y \"que asuma todas las responsabilidades\", incluido el coste de la limpieza del fuel. María José Catalá: \"Queremos perseguir al responsable de este vertido\" 00:20 Compartir El código iframe se ha copiado en el portapapeles Catalá ha comentado que \"se sabe que es un buque\", pero ha recordado que ahora mismo ya hay diligencias abiertas en la Fiscalía (la Unidad de Medio Ambiente ha abierto una investigación de oficio) y ahora ya le corresponde al Ministerio Publico analizar los hechos. \"Nosotros vamos a incorporar toda la documentación de la que disponemos y estoy convencida de que todos estamos interesados en identificar el buque y sobre todo en que asuma las responsabilidades de ese vertido\", ha insistido. Por su parte, desde el Centro de Coordinación de Emergencias de la Generalitat se ha informado que se ha finalizado el traslado de los residuos y han quedado los acopios limpios por lo que se da por finalizada la Situación 0 del PTECV. El estudio confirma que el vertido es de fuel El vertido detectado este martes en el mar y que llegó a la arena de las playas obligó a cerrar estos espacios para la retirada de la sustancia hasta este jueves, que se permitió el acceso público aunque con la bandera roja, ya que el baño no estaba permitido hasta que los análisis de las aguas han concluido que su calidad es óptima.Un estudio preliminar apunta que el vertido contiene fuel y algunos aceites, y por esos componentes podría proceder de un buque. La delegada del Gobierno en la Comunitat Valenciana, Pilar Bernabé, ha afirmado que el informe preliminar sobre los componentes del vertido de El Saler acotan \"en gran medida\" dónde podría estar el origen del vertido en relación a la tipología de embarcación. No obstante, ha insistido en que las líneas de investigación continúan abiertas. Al respecto, Bernabé ha recalcado que cuentan con resultados preliminares, por lo que ha pedido \"prudencia\". \"Es cierto que los análisis preliminares sí detectan un hidrocarburo mezclado con aceites, que eso acota en gran medida donde podría estar el origen de la tipología de embarcación\", ha apuntado. Sigue toda la última hora en el canal de Whatsapp de Radio Valencia: [haz clic aquí y suscríbete](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VaHjyqSFHWq2Q3iHB33R&data=05%7C02%7CASanchezSa%40prisaradio.com%7Cbcbba1a7cd834febfc0008dc718f345b%7Cc4fd49f3e15a44d882e2c909735d2e45%7C0%7C0%7C638510107081166370%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=WFs4%2BokiRyjbxmDJgRU9c1ksYZP%2F7O9hOQ0C1W8Esm0%3D&reserved=0) para recibir toda la información y la actualidad del día en tu móvil.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VaHjyqSFHWq2Q3iHB33R&data=05%7C02%7CASanchezSa%40prisaradio.com%7Cbcbba1a7cd834febfc0008dc718f345b%7Cc4fd49f3e15a44d882e2c909735d2e45%7C0%7C0%7C638510107081166370%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=WFs4%2BokiRyjbxmDJgRU9c1ksYZP%2F7O9hOQ0C1W8Esm0%3D&reserved=0)",
+      "https://www.eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwhatsapp.com%2Fchannel%2F0029VaHjyqSFHWq2Q3iHB33R&data=05%7C02%7CASanchezSa%40prisaradio.com%7Cbcbba1a7cd834febfc0008dc718f345b%7Cc4fd49f3e15a44d882e2c909735d2e45%7C0%7C0%7C638510107081166370%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=WFs4%2BokiRyjbxmDJgRU9c1ksYZP%2F7O9hOQ0C1W8Esm0%3D&reserved=0)",
+      "https://eur01.safelinks.protection.outlook.com/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-19T14:11:07.838+03:00",
+    "updated": "2024-07-19T23:07:14.926+03:00"
+  },
+  {
+    "uuid": "99b03102375bd4383120410542966bfd0c8ef463",
+    "url": "https://www.bild.de/politik/ausland-und-internationales/israel-krieg-anschlag-auf-bus-hamas-toetet-fuenf-hilfsmitarbeiter-684a667972dfcf2f6778f8b1",
+    "ord_in_thread": 0,
+    "author": "@Bild",
+    "published": "2025-06-12T07:07:00Z",
+    "title": "Israel-Krieg: Anschlag auf Bus! Hamas tötet fünf Hilfsmitarbeiter | Politik | BILD.de",
+    "text": "Der Hamas-Horror hört nicht auf: Nach Angaben der USA und der von den USA und Israel unterstützten Stiftung GHF sind am Mittwoch mindestens fünf ihrer Helfer bei einem Angriff der Gaza-Terroristen getötet worden. Die GHF sei noch dabei, die Fakten zusammenzutragen, erklärte die Stiftung in Washington am Mittwoch (Ortszeit). Besonders beängstigend: Neben den Toten gibt es laut GHF „zahlreiche Verletzte und die Befürchtung, dass einige unserer Teammitglieder als Geiseln genommen wurden“. Die Stiftung schilderte die Geschehnisse so: Eine Gruppe von mehr als zwei Dutzend Mitarbeitern der Hilfsorganisation sei auf dem Weg zu einer Verteilstelle für Hilfsgüter gewesen, als ihr Bus von der Hamas gegen 22 Uhr (Ortszeit, 21 Uhr MESZ) „brutal angegriffen“ worden sei. In einer ersten Mitteilung hieß es: „Wir verurteilen diesen abscheulichen und gezielten Angriff aufs Schärfste. Es handelte sich um Helfer. Humanitäre Helfer. Väter, Brüder, Söhne und Freunde, die täglich ihr Leben riskierten, um anderen zu helfen.“ Der Angriff sei nicht in einem Vakuum geschehen. Seit Tagen habe die Hamas das Team sowie die Zivilisten, die Hilfe annehmen, bedroht. Weiter schrieb die GHF: „Wir fordern die internationale Gemeinschaft auf, die Hamas umgehend für diesen unbegründeten Angriff und die anhaltende Bedrohung unserer Mitarbeiter zu verurteilen, die lediglich versuchen, die palästinensische Bevölkerung mit Nahrung zu versorgen.“ Die von Israel und den USA unterstützte Stiftung hatte im vergangenen Monat im Gazastreifen nach einer fast dreimonatigen israelischen Blockade von Hilfslieferungen ihren Einsatz begonnen. Dieser sollte eine Alternative zum Einsatz der UN und internationaler Hilfsorganisationen darstellen. Israel und die USA wollen mit dem Einsatz von GHF verhindern, dass sich die Hamas humanitäre Hilfsgüter aneignet und später teuer verkauft. Die Stiftung ist jedoch umstritten, zuletzt kam es immer wieder zu tödlichen Zwischenfällen in der Nähe ihrer Verteilungszentren.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "topics": [
+      "War, Conflict and Unrest->act of terror",
+      "Politics->international relations",
+      "Politics->political crisis",
+      "Politics->human rights"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "USA",
+          "sentiment": "none"
+        },
+        {
+          "name": "Washington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Hamas",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "GHF",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_dk",
+        "top_news_de",
+        "top_news_th",
+        "top_news_it",
+        "top_news_cl",
+        "top_news_fi",
+        "top_news_sk",
+        "top_news_be",
+        "top_news_nz",
+        "top_news_ch",
+        "top_news_nl",
+        "top_news_at",
+        "top_news_hr",
+        "top_news"
+      ],
+      "bias": "center"
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:11:09.880+03:00",
+    "updated": "2025-06-13T08:05:00.000+00:00"
+  },
+  {
+    "uuid": "6553feda7f643687c8397b853d4a5d7aafdcd4d8",
+    "url": "https://www.zazoom.it/2024-09-05/nations-league-zalewski-vanifica-i-gol-di-gilmour-e-mctominay-cr7-fa-900-in-carriera-contro-la-polonia/15319132",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@zazoomblog",
+    "published": "2024-09-05T00:00:00Z",
+    "title": "Nations League Zalewski vanifica i gol di Gilmour e McTominay CR7 fa 900 in carriera contro la Polonia",
+    "text": "Fonte : sportface di 5 set 2024 Nations League Zalewski vanifica i gol di Gilmour e McTominay CR7 fa 900 in carriera contro la Polonia Nations League, Zalewski vanifica i gol di Gilmour e McTominay. CR7 fa 900 in carriera contro la Polonia (Di giovedÃ¬ 5 settembre 2024) Tanta Serie A nelle partite odierne di Nations League 2024/2025. La Scozia perde 3-2 in casa contro la Polonia dopo aver rimontato dallo 0-2 sul 2-2 grazie ai due nuovi acquisti del Napoli, Billy Gilmour e Scott McTominay . Dopo le reti di Szymanski (8?) e Lewandowski (rigore, 44?), lâ€™ex Brighton ha accorciato le distanze al 46? e il 27enne al 77? ha completato lâ€™opera, realizzando la sua nona rete nelle ultime undici presenze da titolare con la nazionale. Alla fine perÃ² nel recupero Ã¨ un rigore del romanista Nicola Zalewski a regalare i tre punti alla Polonia . La copertina del girone perÃ² Ã¨ tutta per Cristiano Ronaldo. Nel giorno della sua 900esima rete in partite ufficiali, il Portogallo batte la Croazia e conquista i primi tre punti del gruppo 1 di Lega A. Leggi tutta la notizia su sportface Notizie su altre fonti Highlights e gol Danimarca-Svizzera 2-0: Nations League 2024/2025 (VIDEO) - I video degli highlights e i gol di Danimarca-Svizzera, sfida valida per la Nations League 2024/2025 che ha visto i padroni di casa imporsi per 2-0. Ecco, quindi, i video dei gol. Â The post Highlights e gol Danimarca-Svizzera 2-0: Nations League 2024/2025 (VIDEO) appeared first on SportFace. Decisive le reti nel finale di Dorgu e Hojbjerg, con il giovane esterno del Lecce che segna allâ€™82â€™, poco dopo il suo ingresso in campo, con un tiro ravvicinato di destro, mentre il centrocampista Ã¨ perfetto nel suo inserimento al 92?, chiuso con un bellâ€™appoggio di piatto al volo. sportface Nations League 2024/2025: il gol di Sensoli fa volare San Marino, festa totale in campo (VIDEO) - Un vantaggio minimo che Ã¨ durato fino al triplice fischio dellâ€™arbitro, che ha scatenato la festa in campo dei giocatori, con alcuni dei protagonisti che non sono riusciti a trattenere lâ€™emozione e si sono commossi per questo risultato davvero incredibile. . A realizzare la rete decisiva Ã¨ Nicko Sensoli, che nel secondo tempo ha trovato la zampata decisiva approfittando di una lettura errata della difesa avversaria e soprattutto del portiere Buchel. sportface San Marino dopo 20 anni vince una partita di calcio, il sogno diventa realtÃ in Nations League - Grazie a un gol di Sensoli, San Marino ha sconfitto 1-0 il Liechtenstein. La nazionale di San Marino ha ottenuto cosÃ¬ il primo successo dopo vent'anni esatti.Continua a leggere . fanpage Nations League 2024/25: calendario e risultati fase a leghe - La UEFA nations league 2024/25 Ã¨ iniziata con la fase a leghe giovedÃ¬ 5 settembre 2024 e si concluderÃ con la finale di domenica 8 giugno 2025. it.uefa A San Marino si fa la storia: torna la vittoria dopo 20 anni! - News di calciomercato, aggiornamenti sulle trattative e approfondimenti sulle squadre di Serie A, Serie B, Serie C e di calcio internazionale ... gianlucadimarzio Nations League, Ronaldo nella storia: gol numero 900 in carriera - Il fuoriclasse portoghese trascina il Portogallo al successo contro la Croazia. Zalewski lancia la Polonia: Gilmour e Mctominay non bastano alla Scozia ... corrieredellosport Video di Tendenza Video Nations League Video Nations League © Articolo pubblicato secondo le condizioni dell' Autore. Seguici in Rete Facebook Tik Tok Twitter Instagram You Tube Iscriviti",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Sport"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/channel/UCJs0ZT10hUiPRD0UZtUpI1Q",
+      "https://www.facebook.com/ZazoomBlog",
+      "https://twitter.com/zazoomblog",
+      "https://www.instagram.com/zazoomnews/",
+      "https://www.tiktok.com/@zazoomtechandgames?lang=it-IT",
+      "https://www.youtube.com/embed/7UT_zu1EKN0",
+      "https://www.youtube.com/embed/7UT_zu1EKN0&autoplay=1",
+      "https://www.fanpage.it/sport/calcio/san-marino-dopo-20-anni-vince-una-partita-di-calcio-il-sogno-diventa-realta-in-nations-league/",
+      "https://www.sportface.it/video-e-podcast/nations-league-2024-2025-gol-sensoli-volare-san-marino-festa-totale-campo-video/2679952",
+      "https://it.uefa.com/uefanationsleague/news/028a-1a23c3b36174-2eb89114b572-1000--nations-league-2024-25-calendario-e-risultati-fase-a-leghe/",
+      "https://www.youtube.com/embed/7UT_zu1EKN0?autoplay=1",
+      "https://www.sportface.it/calcio/nazionali/nations-league-gilmour-mctominay-salvano-scozia-contro-la-polonia-il-portogallo-batte-la-polonia-cr7-fa-900-carriera/2679839",
+      "https://gianlucadimarzio.com/it/san-marino-liechtenstein-vittoria-nations-league-news-5-settembre-2024",
+      "https://www.sportface.it/video-e-podcast/highlights-e-gol-danimarca-svizzera-2-0-nations-league-2024-2025-video/2679965",
+      "https://www.corrieredellosport.it/news/calcio/2024/09/05-132323441/nations_league_ronaldo_nella_storia_gol_numero_900_in_carriera",
+      "https://instagram.com/zazoomnews/",
+      "https://it.uefa.com/uefanationsleague/news/028a-1a23c3b36174-2eb89114b572-1000--nations-league-2024-25-calendario-e-risultati-fase-a-leghe",
+      "https://tiktok.com/@zazoomtechandgames?lang=it-IT",
+      "https://sportface.it/calcio/nazionali/nations-league-gilmour-mctominay-salvano-scozia-contro-la-polonia-il-portogallo-batte-la-polonia-cr7-fa-900-carriera/2679839",
+      "https://www.fanpage.it/sport/calcio/san-marino-dopo-20-anni-vince-una-partita-di-calcio-il-sogno-diventa-realta-in-nations-league",
+      "https://www.it.uefa.com/uefanationsleague/news/028a-1a23c3b36174-2eb89114b572-1000--nations-league-2024-25-calendario-e-risultati-fase-a-leghe/",
+      "https://www.tiktok.com/@zazoomtechandgames",
+      "https://www.instagram.com/zazoomnews",
+      "https://www.gianlucadimarzio.com/it/san-marino-liechtenstein-vittoria-nations-league-news-5-settembre-2024",
+      "https://youtube.com/embed/7UT_zu1EKN0?autoplay=1",
+      "https://fanpage.it/sport/calcio/san-marino-dopo-20-anni-vince-una-partita-di-calcio-il-sogno-diventa-realta-in-nations-league/",
+      "https://youtube.com/channel/UCJs0ZT10hUiPRD0UZtUpI1Q",
+      "https://youtube.com/embed/7UT_zu1EKN0&autoplay=1",
+      "https://www.youtube.com/embed/7UT_zu1EKN0",
+      "https://youtube.com/embed/7UT_zu1EKN0",
+      "https://sportface.it/video-e-podcast/nations-league-2024-2025-gol-sensoli-volare-san-marino-festa-totale-campo-video/2679952",
+      "https://corrieredellosport.it/news/calcio/2024/09/05-132323441/nations_league_ronaldo_nella_storia_gol_numero_900_in_carriera",
+      "https://sportface.it/video-e-podcast/highlights-e-gol-danimarca-svizzera-2-0-nations-league-2024-2025-video/2679965",
+      "https://facebook.com/ZazoomBlog",
+      "https://www.twitter.com/zazoomblog"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-09-06T00:33:37.476+03:00",
+    "updated": "2024-09-06T00:33:37.476+03:00"
+  },
+  {
+    "uuid": "35f0d89e6987a2bf17d27d4c3f5fa7e4fb17f0b9",
+    "url": "https://www.ndtv.com/feature/oscars-2024-red-carpet-hollywood-stars-wear-red-pins-to-call-for-ceasefire-in-gaza-5216427",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ritu Singh",
+    "published": "2024-03-11T03:26:00Z",
+    "title": "Oscars 2024 Red Carpet: Hollywood Stars Wear Red Pins To Call For Ceasefire In Gaza",
+    "text": "The pins symbolize a call for a ceasefire in the ongoing Israel-Hamas conflict. Several prominent celebrities like Billie Eilish, Finneas, Mark Ruffalo, Ava DuVernay, and Ramy Youssef showed up on the red carpet for the 96th Academy Awards wearing small red pins. These pins featured the silhouette of a hand with a black heart positioned at the palm. As the pictures of Holywood stars donning the red pins went viral, several fans wondered what it meant. Notably, the pins symbolize a call for a ceasefire in the ongoing Israel-Hamas conflict. See the pictures here: The big fashion message at the Oscars tonight was the red Artists4Ceasefire pins worn by attendees including Mark Ruffalo, Billie Eilish and Ramy Youssef. pic.twitter.com/SdecTY1kVW Notable celebrities wore Red Pins at the Oscars to call for a ceasefire in Gaza #Oscars pic.twitter.com/R2rcvx6FTK 'Poor Things' actor Ramy Youssef explained to a Variety reporter, that these pins are part of a creatives-led initiative to demand peace in Gaza. “We're all calling for an immediate and permanent ceasefire in Gaza. We're calling for the safety of everyone involved. We want lasting justice and peace for the Palestinian people. We just want to say, 'Let's stop killing children. There's so much there to process and it feels like the easiest way to have the conversations that people want to have is when they're isn't an active bombing campaign happening,'' Mr Youssef told Variety during the interview. According to the New York Times, the pins were provided by Artists4Ceasefire, a group of celebrities and members of the entertainment industry who signed an open letter urging President Biden to call for a cease-fire. The letter urged immediate action to halt the violence in Israel and Gaza, emphasising the human toll of the conflict. Stars who signed the letter include Jessica Chastain, Quinta Brunson, Richard Gere, America Ferrera, Cate Blanchett, Lupita Nyong'o and Mahershala Ali. \"We urge your administration, Congress, and all world leaders, to honour all of the lives in the Holy Land and call for and facilitate a ceasefire without delay – an end to the bombing of Gaza, and the safe release of hostages. Half of Gaza's two million residents are children, and more than two-thirds are refugees and their descendants being forced to flee their homes. Humanitarian aid must be allowed to reach them\", the letter read. Promoted Listen to the latest songs, only on JioSaavn.com ''The pin symbolizes collective support for an immediate and permanent cease-fire, the release of all of the hostages and for the urgent delivery of humanitarian aid to civilians in Gaza,” Artists4Ceasefire said in a news release. Actors Milo Machado-Graner and Swann Arlaud of ' Anatomy of a Fall' also wore pins featuring the Palestinian flag. Meanwhile, several protestors took to the streets of Hollywood and disrupted traffic outside the Dolby Theatre in support of Palestine.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Arts, Culture and Entertainment",
+      "Politics"
+    ],
+    "external_links": [
+      "https://twitter.com/Variety/status/1766949617143361708",
+      "https://t.co/R2rcvx6FTK",
+      "https://www.jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI",
+      "https://www.jiosaavn.com",
+      "https://twitter.com/hashtag/Oscars?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.nytimes.com/2024/03/10/style/red-pins-gaza-ceasefire-oscars.html",
+      "https://www.twitter.com/hashtag/Oscars?src=hash&ref_src=twsrc%5Etfw",
+      "https://www.t.co/R2rcvx6FTK",
+      "https://jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI",
+      "https://twitter.com/hashtag/Oscars",
+      "https://www.twitter.com/Variety/status/1766949617143361708",
+      "https://jiosaavn.com",
+      "https://nytimes.com/2024/03/10/style/red-pins-gaza-ceasefire-oscars.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "billie eilish",
+          "sentiment": "none"
+        },
+        {
+          "name": "mark ruffalo",
+          "sentiment": "none"
+        },
+        {
+          "name": "ramy youssef",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava duvernay",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "hollywood stars wear red pins",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "variety",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "holywood",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-11T08:23:10.406+02:00",
+    "updated": "2024-03-11T08:26:42.148+02:00"
+  },
+  {
+    "uuid": "1f7a96d13cfaf1d6f2e9aef479997de8de981b04",
+    "url": "https://www.az-online.de/deutschland/frost-experte-nennt-konkretes-datum-dramatische-wetter-wende-in-deutschland-polarluft-bringt-zr-93703315.html",
+    "ord_in_thread": 0,
+    "author": "Dominik Jung",
+    "published": "2025-05-08T02:51:00Z",
+    "title": "Extreme Wetter-Wende in Deutschland: Frosteinbruch - konkretes Datum genannt",
+    "text": "Extreme Wetter-Wende in Deutschland erwartet: Frosteinbruch – konkretes Datum genannt\nNach frühsommerlicher Wärme droht ein drastischer Temperatursturz. Ein Wetter-Experte sagt Bodenfrost und Schäden in Natur und Landwirtschaft voraus.\nKassel – Nach einer regelrechten Frühlingsexplosion mit Temperaturen nahe 30 Grad droht Deutschland Anfang Mai ein dramatischer Wetterumschwung. Wetter-Modelle deuten an, dass ein massiver Polarluftvorstoß unmittelbar bevorsteht. Der Diplom-Meteorologe und Klimaexperte Dominik Jung von wetter.net erklärt: „Wir erleben aktuell Wetterextreme, die in ihrer Heftigkeit und Schnelligkeit ungewöhnlich sind. Die Prognosen zeigen, dass nach den sommerlichen Tagen ein Absturz um 15 bis 20 Grad möglich ist.“\nBesonders brisant: Die eingeflossene Polarluft trifft auf eine Natur, die durch die Wärme der vergangenen Tage regelrecht explodiert ist. Blühende Pflanzen und junge Triebe könnten empfindlich auf Frost reagieren – mit potenziell erheblichen Folgen für die Landwirtschaft.\nDramatische Wetter-Wende im Mai: Bodenfrost und Luftfrost möglich\nSchon ab dem kommenden Wochenende könnten die Temperaturen in den Nächten verbreitet in den kritischen Bereich absinken. Bodenfrost ist in vielen Regionen wahrscheinlich, Luftfrost kann in typischen Kältelagen wie Mulden und Senken auftreten. Der Wechsel erfolgt dabei nahezu trocken, was bedeutet, dass es wenig schützende Wolken geben wird – ein gefährlicher Faktor, der das Risiko für empfindliche Pflanzen zusätzlich erhöht.\nBesonders betroffen könnten Obstplantagen, Weinbaugebiete und frisch ausgesäte Felder sein. „Die Natur ist auf Wachstum programmiert, aber die späte Rückkehr der Polarluft könnte schwere Schäden hinterlassen“, warnt Jung eindringlich. Für Landwirte und Gartenbesitzer wird die kommende Woche daher eine Phase höchster Aufmerksamkeit und Vorsicht.\nwetter.net - das Wetter auf den Punkt gebracht!\nDieser Artikel entstand in einer Content-Partnerschaft mit wetter.net. wetter.net bietet Ihnen alles Wissenswerte rund um Wetter und Klima. Auf unseren Seiten finden Sie weltweite Stadt- und Ortsprognosen für die nächsten 14 Tage und das für die ersten 7 Tage in 1-stündiger und für die nachfolgenden Tage in 3-stündiger zeitlicher Auflösung. Wettervorhersagen, Niederschlagsradar, Messwerte, Wetterwarnungen, Deutschlandwetter und Wetter-News informieren über die aktuelle Entwicklung sowie die kommenden Stunden und Tage.\nKlimawandel und Extremwetter? Meteorologe: „Wetterlagen werden instabiler“\nDer extreme Sprung von frühsommerlicher Wärme zu polarer Kälte innerhalb weniger Tage wirft Fragen auf – ist das schon eine Folge des Klimawandels? Dominik Jung sieht darin zumindest typische Muster: „Der Klimawandel sorgt nicht nur für eine allgemeine Erwärmung, sondern auch für extremere Ausschläge in beide Richtungen. Wetterlagen werden instabiler, und plötzliche Wechsel wie dieser könnten in Zukunft häufiger auftreten.“\nWährend sich das Wetter derzeit beruhigt, könnte ein neuer Kaltlufteinbruch schon Mitte Mai drohen. Damit bleibt die Gefahr bestehen, dass Natur und Landwirtschaft erneut stark in Mitleidenschaft gezogen werden. Beobachtung und Schutzmaßnahmen sind daher in den nächsten Tagen wichtiger denn je.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "german",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Weather->weather warning",
+      "Weather->weather phenomena",
+      "Environment->global warming",
+      "Environment->climate change",
+      "Social Issue->demographics",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.merkur.de/wetter/",
+      "https://www.wettere.net/",
+      "https://www.fr.de/thema/klima-sti162637/",
+      "https://www.wetter.net/",
+      "https://www.wettere.net",
+      "https://merkur.de/wetter/",
+      "https://fr.de/thema/klima-sti162637/",
+      "https://wetter.net/",
+      "https://wettere.net/",
+      "https://www.fr.de/thema/klima-sti162637",
+      "https://www.wetter.net",
+      "https://www.merkur.de/wetter"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Deutschland",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kassel",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ford",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "F",
+              "exchange": "NYSE"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-08T06:39:56.419+03:00",
+    "updated": "2025-05-08T03:45:45.000+00:00"
+  }
+]

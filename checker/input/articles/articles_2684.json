@@ -1,0 +1,247 @@
+[
+  {
+    "uuid": "3534e5612b1ee991e0a5a231590e78ef25f131cc",
+    "url": "https://www.krtv.com/weather/favorable-conditions-and-mostly-clear-skies",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brianna Juneau",
+    "published": "2024-01-01T01:57:00Z",
+    "title": "Favorable conditions and mostly clear skies",
+    "text": "WEATHER DISCUSSION: Another day of above-average temperatures graced the North Central MT forecast. Highs remained in the upper 30’s and 40’s for the most part, though places along the Rocky Mountain Front saw the highs reach into the low 50’s. 2023 will go out with more tranquil conditions as upper-level ridging continues to provide quiet and unseasonably warm temperatures across the state. Temperatures will cool off a bit to start out the New Year on Monday as an upper-level trough pushes through the area. This will bring a weak cold front and a few isolated light snow showers and flurries to the area but mostly in the Northwestern portion of the state and along the Hi-line. The snow is not likely to accumulate, however. While temperatures will be slightly cooler in the wake of this front, we will still be above average, with most areas seeing highs in the 30s to around 40 and low 40s with lows dipping to the teens and 20s. Upper-level ridging will return to the area for midweek, continuing dry conditions once again. This warm and dry spell will look to come to an end as we head to the weekend, however, as the first in a wave of upper-level disturbances pushes into the Northwestern US, which will look to bring the most widespread moisture we have seen since before Christmas. SUNDAY NIGHT: Mostly clear with lows in 20’s and 30’s. 5 to 10 mph winds with gusts possible up to 20 mph and 30 mph for some portions of North Central Montana. MONDAY (NEW YEAR’S DAY): Mostly sunny then mostly clear with highs in the 40’s and lows in the 20’s. 10 to 20 mph winds with gusts up to 30 mph then calming down during the evening. TUESDAY: Mostly sunny then partly cloudy with highs in the 40’s and lows in the 20’s. 5 to 10 mph winds. WEDNESDAY: Partly sunny then mostly cloudy with highs in the 30’s to 40’s and lows in the 20’s. 5 to 10 mph winds. THURSDAY: Mostly sunny then partly cloudy with highs in 30’s to 40’s and lows in the 20’s. FRIDAY: Chance of snow and mostly cloudy with highs in 30’s to 40’s and lows in the 20’s. SATURDAY: Chance of snow and mostly cloudy with highs in 30’s and lows in teens.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "rocky mountain front",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-01T08:20:56.028+02:00",
+    "updated": "2024-01-01T08:20:56.028+02:00"
+  },
+  {
+    "uuid": "42e70a24a9192fa3635431d152ab426da7029f90",
+    "url": "https://liveandletsfly.com/a330-bermuda-turbulence/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Live and Let’s Fly",
+    "published": "2023-12-28T19:39:00Z",
+    "title": "11 Hospitalized After Freak Turbulence On Airbus A330 Over Atlantic",
+    "text": "An Airbus A330 charter flight operating from Barbados to Manchester was forced to divert to Bermuda after severe and unexpected turbulence injured many onboard, resulting in 11 passengers being hospitalized.\nA330 Diverts To Bermuda After Severe Turbulence\nOn December 23, 2023 Maleth Aero flight DB1975 took off from Bridgetown International Airport (BGI) in Barbados bound for to Manchester International (MAN). The flight was operated by an Airbus A330-200 (registration 9H-MFS). 225 passengers and 13 crewmembers were onboard.\nOver the Atlantic, the aircraft hit unexpected and severe turbulence, sending people and objects flying through the cabin. The turbulence was so severe that injuries were reported and the captain opted to divert to LF Wade International Airport (BDA) in Bermuda. The airport released the following\nstatement:\n“At approximately 12:50, Maleth Aero Flight 1975, an Airbus A330-200, en route from Barbados to Manchester, experienced severe turbulence, necessitating an emergency landing at LF Wade International Airport…\n“Emergency Medical Technicians from the Bermuda Fire & Rescue Service [BFRS] greeted the aircraft to provide initial assessments of the passengers and pre-hospital care.\n“The response included nine BFRS vehicles, two King Edward Memorial Hospital VII ambulances and 20 BFRS personnel.\n“Eleven passengers were subsequently transported to the Emergency Department at the King Edward VII Memorial Hospital by the BFRS for further medical evaluation and treatment…\n“As a precautionary measure, the aircraft will remain grounded until a comprehensive inspection has been completed, ensuring the safety and integrity of the aircraft.”\nIndeed, the aircraft remains grounded in Bermuda, with many passengers missing Christmas Eve, Christmas Day, and Boxing Day as a result.\nMaleth Aero is a Maltese charter airline and was operating on behalf of P&O Cruises.\nCONCLUSION\nA Maleth Aero A330 remains on the ground in Bermuda after an emergency landing prompted by severe turbulence over the Atlantic.\nAs always, the takeaway from these stories is to fasten your seatbelt when seated on an aircraft, even if the seatbelt light is off. Turbulence can be unexpected and extreme: better to fasten up on the plane than to be fastened down to a gurney.\nimage:\nSteve Knight",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://bernews.com/2023/12/uk-flight-makes-emergency-landing-at-lf-wade/",
+      "https://bernews.com/2023/12/uk-flight-makes-emergency-landing-at-lf-wade",
+      "https://www.bernews.com/2023/12/uk-flight-makes-emergency-landing-at-lf-wade/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "maleth aero",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "airbus",
+          "sentiment": "negative"
+        },
+        {
+          "name": "maleth aero",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester international",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "barbados",
+          "sentiment": "none"
+        },
+        {
+          "name": "manchester",
+          "sentiment": "none"
+        },
+        {
+          "name": "bermuda",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlantic",
+          "sentiment": "none"
+        },
+        {
+          "name": "bridgetown international airport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:05:19.328+02:00",
+    "updated": "2023-12-29T00:05:19.328+02:00"
+  },
+  {
+    "uuid": "fe1911c08ebef7c0eef2b8b831a7a9a76281be8a",
+    "url": "https://www.larazon.es/andalucia/asi-generalife-chico-que-atrae-miles-visitantes-cada-ano_20240705668770be099c890001b5b39f.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Juan, Márquez",
+    "published": "2024-07-05T02:04:00Z",
+    "title": "Así es el \"Generalife chico\" que atrae a miles de visitantes cada año",
+    "text": "Patrimonio\nAsí es el \"Generalife chico\" que atrae a miles de visitantes cada año\nConstituye un ejemplo de jardín hispano-musulmán y cuenta con un valor histórico destacable\nUn rincón escondido en la provincia de Granada de excepcional valor medioambiental y patrimonial. El jardín nazarí de Vélez de Benaudalla, conocido como “Generalife chico”, constituye un ejemplo de jardín hispano-musulmán y cuenta con un valor histórico destacable. Finca de recreo, pero de explotación agrícola, consta de los elementos oportunos para cumplir con las necesidades utilitarias, al mismo tiempo que contribuye al disfrute de los sentidos, pues los jardines del Al-Andalus fueron diseñados para aportar a los hombres y mujeres cinco grandes beneficios: el espiritual (ya que el jardín es la visión terrenal del paraíso), el estético (paisaje generado para estimular todos los sentidos e inspirar la creación artística), el psicológico (ambiente que invita a la contemplación, la relajación y el descanso), el botánico y científico (lugar idóneo para aclimatar y procrear especies traídas de la tierras lejanas) y el alimenticio (el huerto, parte imprescindible en un jardín nazarí, era la zona donde crecían plantas aromáticas, condimentos, frutales y productos hortícolas).\nEl agua parte de un eje fundamental, constituido por una acequia de libre traza que se adapta al terreno y de la que fluye por diversos ramales, y mediante ingeniosos artificios, todo el sistema de riegos de la huerta y de alimentación de estanques, fuentes, surtidores y cascadas. Además su sonido, invitador y refrescante, se entrelaza con los aromas de las flores y árboles. La gran diversidad de plantas se relaciona con las funciones que este tipo de espacios tenían. No podían faltar flores a lo largo de todo el año, aromas de ambiente, plantas alimenticias y condimentos, árboles y arbustos y hierbas generando un intrincado palacio vegetal.\nEl jardín nazarí es portador de excepcionales valores estéticos que vienen definidos, fundamentalmente, por la delicada conjunción entre elementos naturales y espacios construidos, así como a través del cuidado diseño y una verdadera preocupación por crear ámbitos para el disfrute de los sentidos.\nVélez de Benaudalla es un municipio granadino situado en la zona costera de la provincia. Localizado en la carretera de Motril, cerca del margen izquierdo del río Guadalfeo, se expande una comarca con raíces históricas para Granada. Desde la época romana hasta la era nazarí, Benaudalla se convirtió en un enclave estratégico para los musulmanes donde su presencia es aún visible por los entramados florares que adoquinan sus calles.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Human Interest",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-05T07:36:31.106+03:00",
+    "updated": "2024-07-05T07:36:31.106+03:00"
+  },
+  {
+    "uuid": "270de593a9f21029490daa692d11c957bac5f19b",
+    "url": "https://en.royanews.tv/news/50367/Despite%20restrictions,%20thousands%20pray%20at%20Aqsa%20Mosque",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Roya News Team",
+    "published": "2024-03-29T00:00:00Z",
+    "title": "Despite restrictions, thousands pray at Aqsa | Roya News",
+    "text": "Published: 2024-03-29 14:53 Last Updated: 2024-03-29 15:59 Around 125,000 worshipers observed the third Friday prayer of Ramadan at the revered Aqsa Mosque, despite stringent and unprecedented measures imposed by the Israeli Occupation Forces in Jerusalem. Yousef Abu Sneina, the preacher at Aqsa Mosque, emphasized that Palestinians made the journey to the mosque today to reaffirm its Islamic significance and reject attempts to Judaize it. Israeli Occupation Forces persisted in imposing strict restrictions on access to Jerusalem, intensifying their presence at military checkpoints leading to the city. They conducted identity checks and prevented hundreds from reaching Jerusalem for Friday prayers, citing the lack of necessary permits. Many Palestinians resorted to praying in the streets near the checkpoints after being barred from entering the Aqsa Mosque, with the majority being elderly individuals. *Stay informed with our carefully curated content delivered directly to your inbox. Subscribe to our newsletter for exclusive updates and in-depth analysis. Click here to subscribe.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "aqsa",
+          "sentiment": "negative"
+        },
+        {
+          "name": "yousef abu sneina",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "israeli occupation forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "jerusalem",
+          "sentiment": "none"
+        },
+        {
+          "name": "aqsa mosque",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-29T16:02:27.224+03:00",
+    "updated": "2024-03-29T16:02:27.224+03:00"
+  },
+  {
+    "uuid": "04d0f9a325a932791e9801e159eee6d91b27c695",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrft3929310.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:33:00Z",
+    "title": "红利低波动ETF（563020）跌0.25%，半日成交额2445.00万元|ETF_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，红利低波动ETF（563020）跌0.25%，报1.214元，成交额2445.00万元。红利低波动ETF（563020）重仓股方面， 成都银行 截止午盘跌0.64%， 雅戈尔 跌0.28%， 兴业银行 跌0.08%， 亚太科技 跌1.76%， 沪农商行 涨0.20%， 南钢股份 跌1.21%， 大秦铁路 涨0.00%， 四川路桥 跌1.11%， 上海银行 涨0.19%， 建发股份 跌1.40%。\n红利低波动ETF（563020）业绩比较基准为中证红利低波动指数收益率，管理人为易方达基金管理有限公司，基金经理为鲍杰，成立（2023-12-06）以来回报为28.58%，近一个月回报为3.37%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "topics": [
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->financial service",
+      "Weather->weather statistic"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:06.440+03:00",
+    "updated": "2025-06-19T04:52:14.000+00:00"
+  }
+]

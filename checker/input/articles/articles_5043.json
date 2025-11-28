@@ -1,0 +1,260 @@
+[
+  {
+    "uuid": "db5bb11b7b027d20d8df836b0192914dcdd1d717",
+    "url": "https://www.wgem.com/2024/10/03/illinois-add-free-ev-charging-stations-state-parks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WGEM",
+    "published": "2024-10-03T21:38:00Z",
+    "title": "Illinois to add free EV charging stations to state parks",
+    "text": "EAST ST. LOUIS (WGEM) - Illinois state parks are getting a new addition, electric vehicles chargers. Illinois Gov. JB Pritzker joined state lawmakers and leaders from the Illinois Department of Natural Resources (IDNR) Thursday at Frank Holten State Park in East St. Louis to announce the IDNR will be installing 40 chargers at state parks, historic sites, museums, beaches and other widely used public areas. Electric mobility company EVBox donated the 40 chargers. The company’s North American headquarters are based in Libertyville , a Chicago suburb. Pritzker said people can use the chargers for free. It’s all part of a larger push to get more electric vehicles on Illinois roads. Pritzker estimates there are about 120,000 registered EVs in Illinois. The goal is to get that number to one million by 2030. “The most critical need on our way to that goal is building the charging infrastructure to make electric vehicles as convenient and accessible as any other car,” Pritzker said. The Department of Natural Resources has already installed chargers at four state parks: Frank Holden State Park, Eldon Hazlet State Recreation Area near Carlyle, Washington County State Recreation Area near Nashville and Jim Edgar Panther Creek State Fish and Wildlife Area in Cass County. Copyright 2024 WGEM. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T01:22:18.395+03:00",
+    "updated": "2024-10-04T16:22:38.829+03:00"
+  },
+  {
+    "uuid": "240d301826c9d337edd4ea320d0af55bfd11069c",
+    "url": "https://blockchain.news/news/github-performance-challenges-dns-incident-october-2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "blockchain.news",
+    "published": "2024-11-15T13:43:00Z",
+    "title": "GitHub Faces Performance Challenges Due to DNS Incident in October 2024",
+    "text": "In October 2024, GitHub experienced a notable incident that led to degraded performance across its services, according to GitHub. The issue was traced back to a DNS infrastructure failure following a database migration at one of the company's sites.\nIncident Overview\nThe incident began on October 11 at 05:59 UTC and lasted for over 19 hours. The initial problem occurred when the site's DNS infrastructure failed to resolve lookups after a database migration. Efforts to recover the database resulted in cascading failures, further impacting DNS systems. Customers began experiencing issues around 17:31 UTC, with 4% of Copilot users facing degraded IDE code completions and 25% of Actions workflow users encountering delays exceeding five minutes. Additionally, all code search requests failed for approximately four hours.\nResponse and Resolution\nAttempts to mitigate the issue by redirecting the affected DNS site to an alternative location were initially unsuccessful, as this strategy impaired connectivity from healthy sites back to the degraded one. At 20:52 UTC, GitHub's team implemented a remediation plan, deploying temporary DNS resolution capabilities to the affected site. DNS resolution began to recover at 21:46 UTC and was fully operational by 22:16 UTC. Remaining issues with code search were resolved by 01:11 UTC on October 12.\nFuture Preventative Measures\nFollowing the incident, GitHub committed to strengthening its resiliency and automation processes to expedite the diagnosis and resolution of similar issues in the future. The company aims to improve infrastructure reliability to prevent such incidents from recurring.\nFor real-time updates on GitHub's service status, users are encouraged to visit the GitHub Status Page. Additionally, insights into ongoing projects and improvements can be found on the GitHub Engineering Blog.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.githubstatus.com/",
+      "https://github.blog/category/engineering/",
+      "https://github.blog/news-insights/company-news/github-availability-report-october-2024/",
+      "https://www.github.blog/news-insights/company-news/github-availability-report-october-2024/",
+      "https://github.blog/category/engineering",
+      "https://github.blog/news-insights/company-news/github-availability-report-october-2024",
+      "https://www.github.blog/category/engineering/",
+      "https://githubstatus.com/",
+      "https://www.githubstatus.com"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T16:57:57.630+02:00",
+    "updated": "2024-11-15T16:57:57.630+02:00"
+  },
+  {
+    "uuid": "cd6c90d2500b264185fa4fe763e95374cbf632f1",
+    "url": "https://selfie.iol.pt/fotos/antestreia-de-smurfs-o-grande-filme/6880af6bd34ef72ee448a21d",
+    "ord_in_thread": 0,
+    "author": "Redação SELFIE",
+    "published": "2025-07-23T11:11:00Z",
+    "title": "Antestreia de \"Smurfs: O Grande Filme\"",
+    "text": "Realeza\nNacional\nInternacional\nFotos\nVídeos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->cinema",
+      "Arts, Culture and Entertainment->arts and entertainment",
+      "Arts, Culture and Entertainment->animation",
+      "Lifestyle and Leisure->lifestyle",
+      "Human Interest->royalty"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Realeza\nNacional\nInternacional\nFotos\nVídeos",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_pt",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-24T07:42:59.523+03:00",
+    "updated": "2025-07-25T08:08:45.000+03:00"
+  },
+  {
+    "uuid": "a049cc9edaa11650549af2302841051cd45971f3",
+    "url": "https://www.theacorn.com/articles/thank-your-volunteers-for-clean-streams-and-beaches",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Acorn Staff",
+    "published": "2024-09-19T19:17:00Z",
+    "title": "Thank your volunteers for clean streams and beaches",
+    "text": "California celebrates its 40th annual Coastal Cleanup Day on Sat., Sept. 21, and one local city got a head start by cleaning one of its own streams leading to the ocean. The City of Agoura Hills hosted its annual Lindero Creek cleanup on Sept. 14 and, judging by the photos you see on Page 9, the event was a success, if you consider finding trash a good thing.\nWhen volunteers gather at area beaches for the coastal cleanup the morning of the 21st, they could find less litter than they did in the previous 39 years of the event. The installation of new, debris-reducing technology has prevented gobs of trash from washing down the storm drains to begin with.\nIn recent years, the Ventura County Public Works Agency installed trash capture systems to treat runoff in 136 catch basins along sites including Medea Creek, Lindero Creek, Revolon Slough/ Beardsley Wash and the Ventura River Estuary, the agency’s Hayley Luna said.\nUpdated rules from the state Water Resources Control Board require cities and counties to prevent trash from entering the stormwater systems that drain into the streams and ultimately to the ocean.\n“All of the stormwater permittees within (Ventura County) are installing trash capture devices within catch basins,” with 2030 set as a deadline, said David Laak, a Ventura County Public Works manager who oversees the countywide stormwater program.\nRunoff rules aimed at protecting the Malibu Creek watershed in Los Angeles County, and ultimately the Santa Monica Bay, are equally as aggressive, but help is still needed.\nAcross both weekends, volunteers put on gloves, sunscreen and waterproof boots, and carry buckets, bags and grabber sticks as they pick up—in descending order of prevalence—cigarettes and filters; food wrappers and containers; caps and lids; paper and plastic bags; cups, plates, forks, knives and spoons; straws and stirrers; glass bottles; plastic bottles; beverage cans; and construction material. There’s not much litter on the beach at the water’s edge, where material gets moved by the tides, but lots of litter lodges in rocks along the shore, so shoes are better than sandals as cleanup footwear if you plan to assist.\nPeople can be slobs, yes, but thankfully there are volunteers to clean up after them. Their service to community couldn’t be more valuable. Clean waterways don’t happen by accident.\nWe appreciate David Goldstein of the Ventura County Public Works Agency, who assisted with this commentary.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-09-20T00:32:11.754+03:00",
+    "updated": "2024-09-20T00:32:11.754+03:00"
+  },
+  {
+    "uuid": "5a272f106d3dc60a60f55021553cbb6f77b98a27",
+    "url": "https://vnexplorer.net/no-es-manzanilla-esta-es-la-exquisita-infusion-que-te-va-a-salvar-cuando-tenes-una-digestion-pesada-s2230014.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-04-04T23:42:00Z",
+    "title": "No es manzanilla: esta es la exquisita infusión que te va a salvar cuando tenés una digestión pesada",
+    "text": "Incorporar ciertos hábitos en nuestra rutina diaria puede marcar la diferencia en nuestra salud estomacal. Uno de estos hábitos es sumar infusiones a nuestra alimentación diaria, lo cual puede ser muy beneficioso para nuestro sistema digestivo.\nAunque la manzanilla es muy popular para aliviar problemas estomacales, existe otra opción menos conocida, pero igualmente efectiva: el jengibre. ¡Conocé todos sus beneficios!\nBeneficios de tomar esta infusión de jengibre para tener una digestión saludable El jengibre es una raíz con una larga historia de uso tanto en la cocina como en la medicina tradicional. Más allá de su popularidad como especia, su valor para la salud digestiva es impresionante. Cuando se consume en forma de infusión, especialmente después de una comida abundante, el jengibre ayudar a reducir eficazmente la acumulación de gases, previniendo la acidez estomacal.\nDe esta manera, el jengibre proporciona un alivio inmediato y también contribuye a mantener un sistema digestivo equilibrado y saludable a largo plazo, según un estudio de la Biblioteca Nacional de Medicina de los Estados Unidos.\nEste efecto beneficioso se debe a su capacidad para estimular la función del páncreas, lo que mejora la descomposición de los alimentos y facilita la absorción de nutrientes esenciales.\nLa infusión de jengibre, gracias al gingerol, su componente bioactivo, ofrece propiedades antioxidantes y antiinflamatorias. Estas ayudan a reducir el estrés oxidativo en el cuerpo, ocasionado por un exceso de radicales libres. Asimismo, al disminuir las proteínas inflamatorias, esta infusión protege contra úlceras estomacales, ya que bloquea las enzimas que las promueven.\nAdemás de su efectividad contra las náuseas, incluso en el embarazo, algunos estudios sugieren que el consumo de jengibre podría ayudar a reducir las náuseas asociadas con la quimioterapia. De todos modos, aunque se requiere más investigación en este campo.\n¿Cómo preparar una infusión de jengibre? Siguiendo estos simples pasos vas a poder preparar una infusión de jengibre en tu casa y mejorar tu salud estomacal.\nPaso 1: comenzá lavando y pelando un trozo de jengibre fresco, aproximadamente del tamaño de tu pulgar. Paso 2: con un cuchillo afilado, cortá el jengibre en rodajas finas o en trozos pequeños para liberar más sabor y aroma. Paso 3: herví agua en una olla o una pava. La cantidad de agua dependerá de cuántas tazas de infusión desees preparar. Paso 4: agregá las rodajas de jengibre en el agua. Paso 5: reducí el fuego y dejá que el jengibre hierva a fuego lento durante unos 10-15 minutos para permitir que los sabores se mezclen. Paso 6: pasado el tiempo de cocción, retirá la olla del fuego y dejá reposar la infusión durante unos minutos para que se enfríe ligeramente. Paso 7: si lo deseás, podés agregar un poco de miel o limón para darle un toque de dulzura o acidez, respectivamente. Paso 8: colá la infusión para retirar los trozos de jengibre y serví en tazas individuales. Se recomienda consultar a un especialista antes de hacer cambios en tu dieta.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Health"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1hA3LT.img",
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1iUSlB.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1hA3LT.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1iUSlB.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T02:51:23.936+03:00",
+    "updated": "2024-04-05T02:51:23.936+03:00"
+  },
+  {
+    "uuid": "c96858b834f33f31f7e13418ed10374f281c1856",
+    "url": "https://www.primicias.ec/quito/accidentes-transito-bus-taxi-choque-multiple-avenida-eloy-alfaro-85464",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Santiago Sarango",
+    "published": "2024-12-13T22:46:00Z",
+    "title": "Dos accidentes de tránsito se registran en Quito durante las lluvias, este viernes 13 de diciembre",
+    "text": "Dos accidentes de tránsito se registran en Quito durante las lluvias, este viernes 13 de diciembre\nUn bus urbano se impactó contra un taxi en el centro de Quito. En el norte, en cambio, hubo un choque múltiple en la avenida Eloy Alfaro.\nImágenes de accidentes de tránsito registrados en Quito este 13 de diciembre de 2024.\n- Foto\nCaptura de redes sociales\nAutor:\nRedacción Primicias\nActualizada:\nCompartir:\n[Dos fuertes accidentes de tránsito se registraron en Quito ](https://www.primicias.ec/quito/accidentes-transito-quito-lluvia-avenida-simon-bolivar-amt-84700/)la tarde de este viernes, 13 de diciembre de 2024. Debido a las lluvias, la calzada se encuentran mojada en la mayoría de vías de la ciudad.\nEl primer siniestro ocurrió cerca de las 15:30 en las calles Robles y Juan León Mera, en el centro de la ciudad. En ese punto, un bus urbano se impactó contra un taxi.\nVideos en redes sociales muestran que el auto amarillo fue alcanzado por el bus en su lado derecho. Las puertas estaban completamente aplastadas. Al momento, se desconoce si hay personas heridas.\n[Quito: Choque entre dos buses, una ambulancia y una moto se reporta en la Autopista General Rumiñahui](https://www.primicias.ec/quito/choque-multiple-autopista-general-ruminahui-accidente-transito-buses-ambulancia-85300/)\nMinutos después, en la avenida Eloy Alfaro, en el norte de Quito, se registró un choque múltiple, con alrededor de cuatro carros implicados.\nImágenes muestra a un camión que impactó por detrás a un auto plomo y este, de igual forma, chocó a otro más.\nCompartir:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-14T02:04:05.272+02:00",
+    "updated": "2024-12-14T02:04:05.272+02:00"
+  }
+]

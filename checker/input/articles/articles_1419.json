@@ -1,0 +1,261 @@
+[
+  {
+    "uuid": "cb8eea430ff8ad1e65ac2bc31033c643f1497e85",
+    "url": "https://www.itechpost.com/articles/121882/20240411/instagram-rolls-out-blurring-nudity-messages-fight-sexual-extortion-protect.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arabella Asis",
+    "published": "2024-04-12T01:00:00Z",
+    "title": "Instagram Rolls Out Blurring of Nudity in Messages to Fight Sexual Extortion, Protect Teens",
+    "text": "Instagram\nannounced that it will soon start blurring images detected as nudity as part of the platform's way to protect people from unwanted nudity and sexual extortion.\nThe nudity protection will be turned on by default for teen users or those who are under 18 years old globally.\nRead Also:\nMeta Expands AI-Content Label, Manipulated Media Policies Ahead of 2024 Elections\nInstagram to Implement Stricter Teen Protection Protocols\nIn a blog post, the social media platform shared that the nudity protection feature is part of its existing campaign to fight sexual scams and other forms of teenage abuse that are often related to nudity. The new features aim to strengthen Instagram's teen protection against scammers and criminals who target teens online.\n\"The feature is designed not only to protect people from seeing unwanted nudity in their DMs, but also to protect them from scammers who may send nude images to trick people into sending their own images in return,\" the platform wrote.\nInstagram has also enabled by default stricter message settings so that teens cannot receive messages from anyone they are not already connected to. Safety notices are also implemented to help teens report DMs from potential scam accounts.\nHow Instagram Nudity Protection Works\nOnce the nudity protection is on, people will start seeing a reminder for sending sensitive photos and how they can unsend photos if they have changed their minds. Moreover, forwarding a nude image will also prompt a warning with a message to be responsible for what you share online.\nThe recipient of the nude image will be automatically blurred under a warning screen. Instagram will also show a message to not feel any pressure to respond, along with an option to block the sender and report the chat.\nMeta also assured its users that images are analyzed within the device and that the feature will work in end-to-end encrypted chats, hence, the company will not have access to the images unless it is reported.\nInstagram also partnered with the National Center for Missing and Exploited Children to develop a platform that will help young people take back control of their intimate images and prevent them from being shared online.\nRelated Article:\nContent Creators Sign Petition on Opt-in Button for Limited Political Content on Instagram, Thread",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://about.instagram.com/blog/announcements/new-tools-to-help-protect-against-sextortion-and-intimate-image-abuse",
+      "https://www.about.instagram.com/blog/announcements/new-tools-to-help-protect-against-sextortion-and-intimate-image-abuse"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "protect teens instagram",
+          "sentiment": "negative"
+        },
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T04:41:32.458+03:00",
+    "updated": "2024-04-12T04:41:32.458+03:00"
+  },
+  {
+    "uuid": "67bec1336d2285d722e44bbc169ff861dbdfd4f5",
+    "url": "https://www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jessica Lyons",
+    "published": "2024-11-14T22:22:00Z",
+    "title": "High-severity Fortinet VPN flaw allows privilege escalation • The Register",
+    "text": "A now-patched, high-severity bug in Fortinet's FortiClient VPN application potentially allows a low-privilege rogue user or malware on a vulnerable Windows system to gain higher privileges from another user, execute code and possibly take over the box, and delete log files.\nThe bug is tracked as CVE-2024-47574 , and it earned a 7.8 out of 10 CVSS severity rating. It affects FortiClientWindows version 7.4.0, 7.2.4 through 7.2.0, 7.0.12 through 7.0.0, and 6.4.10 through 6.4.0. Fortinet patched the hole on Tuesday, so if you haven't already, upgrade to a fixed release.\nPentera Labs' bug hunter Nir Chako found and reported the flaw to Fortinet, plus a second security oversight that allows someone or something nefarious on a system running the VPN client to alter SYSTEM-level registry keys that would otherwise be off limits.\nAccording to Chako, this latter flaw has been assigned CVE-2024-50564, though the vendor has not yet issued a security alert about it. However, it has also been fixed in the latest version, FortiClient 7.4.1.\n\"They said it will be published in the next advisory update,\" Chako told The Register , adding that advisory is slated for release on the December 10 Patch Tuesday. \"From a security perspective, after testing version 7.4.1, we were able to validate that the patch prevented us from executing the techniques.\"\nNeither flaw appears to have been exploited in the wild. Fortinet did not immediately respond to The Register 's inquiries. We will update this story if and when we hear back from the vendor.\nFive Eyes infosec agencies list 2024's most exploited software flaws FortiManager critical vulnerability under active attack HTTP your way into Citrix's Virtual Apps and Desktops with fresh exploit code Cisco scores a perfect CVSS 10 with critical flaw in its wireless system As Chako explains in this detailed technical write-up , exploiting CVE-2024-47574 involves using Windows named pipes with the FortiClient software to ultimately plant a script so that when a higher-privileged user next uses the VPN, that script is run with their privileges, and thus code execution is achieved with unauthorized powers. This privilege-escalation technique involves a step know as process hollowing.\nThis could also be abused to delete log files, and make a user connect to an attacker-controlled server. Plus, when combined with the second vulnerability, CVE-2024-50564, a miscreant would be \"able to edit SYSTEM level registry values within the HKLM registry hive,\" Chako said.\nExploiting CVE-2024-50564 involves using a hard-coded local API encryption key that components of Fortinet's software use to exchange commands and data between themselves; it's not a VPN secret. ®\nGet our Tech Resources",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://pentera.io/resources/research/two-zero-days-forticlient-vpn-2024/",
+      "https://www.fortiguard.com/psirt/FG-IR-24-199",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47574",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D4%26raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://pentera.io/resources/research/two-zero-days-forticlient-vpn-2024",
+      "https://pubads.g.doubleclick.net/gampad/ad",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=4&c=44ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D426raptor%3Dfalcon%26pos%3Dmid%26test%3D0",
+      "https://www.pubads.g.doubleclick.net/gampad/ad?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=3&c=33ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D3%26raptor%3Deagle%26pos%3Dmid%26test%3D0",
+      "https://fortiguard.com/psirt/FG-IR-24-199",
+      "https://www.pentera.io/resources/research/two-zero-days-forticlient-vpn-2024/",
+      "https://pubads.g.doubleclick.net/gampad/jump",
+      "https://www.pubads.g.doubleclick.net/gampad/jump?co=1&iu=/6978/reg_security/patches&sz=300x50%7C300x100%7C300x250%7C300x251%7C300x252%7C300x600%7C300x601&tile=2&c=2ZzaTD_9jyF4FcyWCI7UbnwAAAE0&t=ct%3Dns%26unitnum%3D2%26raptor%3Dcondor%26pos%3Dtop%26test%3D0",
+      "https://cve.mitre.org/cgi-bin/cvename.cgi",
+      "https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-47574"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Nir Chako",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T02:19:03.783+02:00",
+    "updated": "2024-11-18T19:45:27.381+02:00"
+  },
+  {
+    "uuid": "34828858013ded58df273e05c774f3eeed1cdddc",
+    "url": "https://vnexplorer.net/z/1651212.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-08-02T00:51:00Z",
+    "title": "Caldo estremo, afa senza fine e temperature record: le previsioni meteo",
+    "text": "Caldo estremo, afa senza fine e temperature record: le previsioni meteo (Adnkronos) - Il caldo estremo non molla la presa e soffoca a colpi di afa l&#039;Italia alle prese con l&#039;anticiclone Caronte. Come ricordano gli esperti, del resto, dopo il 2022 che è stato l’anno più caldo della storia nella Penisola, il 2023 si è piazzato al secondo posto, con Roma che frantuma un nuovo record assoluto. Antonio Sanò, fondatore del sito www.iLMeteo.it, conferma infatti il mese appena concluso come il più caldo nella storia della Capitale: luglio 2024 ha fatto registrare temperature minime e temperature massime da record, battendo anche i dati ‘epici’ della torrida estate 2003. Sulla Capitale, la furia calda di Caronte ha portato minime medie di 22°C circa, in pratica abbiamo avuto 27 notti tropicali su 31 con minima sopra i 20°C e, alcuni giorni, abbiamo toccato persino l’esorbitante valore di 25-26°C di notte (minima non massima). Per quanto riguarda la massima di luglio 2024, a Roma il valore medio è stato incredibile: 34,8°C. Nel dettaglio, le massime si sono assestate intorno a questo numero (africano), ad inizio luglio siamo scesi leggermente fino a circa 31-33°C ma durante il mese i picchi di 37-40°C sono stati prevalenti. Insomma, un clima impazzito anche a Roma, almeno 3°C più torrido del trentennio di riferimento 1991-2020, già molto caldo di per sé. E il caldo non darà tregua nemmeno nei prossimi giorni o settimane: si teme una lunga ondata di calore almeno fino a Ferragosto! Una prova ne è il fatto che, nonostante alcuni temporali in arrivo nel weekend al Centro-Nord (dopo quelli di Giovedì sera al Nordest), le massime tra sabato e domenica saranno ancora africane, anche su questo settore (al Sud avremo ancora picchi di 44°C): a Terni si prevedono 37°C, a Firenze 36°C, a Ferrara e Roma 35°C, a Bologna 34°C. Una conferma che, con questo clima stravolto, anche una violenta passata temporalesca non riesce ad abbassare le temperature in modo significativo. Le mappe meteorologiche sono dunque da incubo: almeno fino a Ferragosto non si vedono grandi cambiamenti. Il caldo proseguirà e il 2024 segnerà record su record, non solo sulla Capitale ma su tutto il pianeta; anche i mari sono ‘bollenti’ con l’acqua che sta assorbendo il 90% del Riscaldamento Globale causato dall’Effetto Serra. Quando gli oceani non saranno più in grado di accumulare questo calore in eccesso, allora le temperature delle nostre città non saranno più africane, ma tipiche del pianeta Mercurio. Intanto prestiamo attenzione al caldo ma anche ai temporali attesi nelle prossime ore al Nord-Est e nella giornata di sabato al Centro; in seguito, dagli ombrelli aperti - per poche ore - torneremo sotto gli ombrelloni, se saremo in grado di stare all’aria aperta nelle ore più calde della giornata. Venerdì 2. Al Nord: temporali sparsi, specie sul Triveneto e poi in Emilia. Al Centro: sole e punte di 37-39°C. Al Sud: tanto sole e tanto caldo. Sabato 3. Al Nord: rovesci sparsi sui monti del Triveneto e locali pure in Emilia. Al Centro: sole e rovesci sparsi, lieve calo termico. Al Sud: veloci piogge sui rilievi. Domenica 4. Al Nord: soleggiato e di nuovo caldo. Al Centro: in prevalenza soleggiato e di nuovo molto caldo, ma con temporali sui rilievi. Al Sud: soleggiato e sempre molto caldo. Tendenza: ennesima fiammata africana da lunedì 5 agosto in poi, caldo per almeno 10 giorni, ma con qualche temporale di calore sui rilievi.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Weather"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-02T12:15:03.033+03:00",
+    "updated": "2024-08-02T12:15:03.033+03:00"
+  },
+  {
+    "uuid": "ab4aa8f24e5661aec3efa52237159117b15b54a7",
+    "url": "https://flipboard.com/@comicbookcom/these-superhero-movies-need-to-be-unreleased-immediately-p91smpvslm4f8ssc",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ComicBook.com",
+    "published": "2025-01-30T14:12:00Z",
+    "title": "These superhero movies need to be unreleased immediately",
+    "text": "These superhero movies were absolute flops in the worldwide box office. Plus, more movie rankings you need to see.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Social Issue"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->mass media",
+      "Arts, Culture and Entertainment->culture",
+      "Arts, Culture and Entertainment->cinema",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle",
+      "Social Issue->social condition",
+      "Social Issue->social networking",
+      "Social Issue->values"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T01:44:27.474+02:00",
+    "updated": "2025-01-31T01:44:27.474+02:00"
+  },
+  {
+    "uuid": "4ef18e5856661d0fd601a6118741e6224bd217dc",
+    "url": "https://www.gosanangelo.com/story/news/nation/2023/12/28/minnesota-woman-sues-dentist/72050466007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mary Walrath-Holdridge",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "Kathleen Wilson's Minnesota dentist did 30 procedures at once: lawsuit",
+    "text": "20 fillings, 4 root canals, 8 crowns in one visit add up to lawsuit for Minnesota dentist [Mary Walrath-Holdridge](https://www.usatoday.com/staff/12093029002/mary-walrathholdridge/) A Minnesota dentist has become the subject of a malpractice lawsuit after his patient accused him of \"disfiguring\" her. The civil lawsuit was filed in Hennepin County, Minnesota last week by Kathleen Wilson, who alleged Dr. Kevin Molldrem and [Molldrem Family Dentistry](https://molldremdentistry.com/) caused her significant injury that is still being corrected. According to the suit, Molldrem performed more than 30 producers on Wilson in a single July 2020 visit, doing eight crowns, four root canals and 20 fillings in one go. The lawsuit alleges that the dentist \"perform[ed] this work improperly,\" resulting in pain and suffering, embarrassment, emotional distress, and disfigurement. Molldrem was likewise accused of using improper levels of anesthesia during the procedures and falsifying medical records to cover it up. Treatment called 'inconceivable' “It is inconceivable that Dr. Molldrem could have prepared and placed 8 crowns under these circumstances in the time allotted, not to mention the additional 20 restorations,” wrote [Dr. Avrum Goldstein,](https://www.seakexperts.com/members/4827-avrum-r-goldstein) a dentist and expert witness brought on by Wilson's attorney, in an affidavit. Goldstein, who is a faculty member at [NOVA Southeastern University](https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.), also wrote that Wilson had been correctly diagnosed as having a \"rare condition\" causing decay in almost all of her teeth, but Mollderm's course of action was not a proper form of treatment. \"[Wilson’s] required a slow, thoughtful, careful and measured response to her disease,” he said in his report. “Trying to fill every hole in every tooth in her mouth in one visit is not only the antithesis of what was indicated, it is not humanly possible to achieve in an effective or constructive manner.” Doctors remove wrong organ from man: [They opened him up to remove his appendix. They mistakenly took out much more, lawsuit says.](/story/news/health/2023/11/07/doctors-accidentally-remove-wrong-organ-surgery/71487292007/) The lawsuit also accused Mollderm of tampering with medical records to falsify the amount of anesthesia that was reportedly used, which in reality was nearly double the standard number of units, according to court paperwork. According to Goldstein, the maximum dose of anesthesia given in three hours should not exceed 490 mg, but Molldrem's records show he gave Wilson 960 mg. “Any negative cardiovascular or central nervous system outcomes could be tied to the local anesthetic overdose,\" he wrote. Wilson said in the suit that she has since had to have the dental work completely redone by other dentists to repair Molldrem’s “negligent work,\" an ongoing process that has caused her to lose income and rack up medical bills on top of enduring pain, suffering and embarrassment. She is seeking more than $50,000 in damages. Wilson's attorney and Molldrem did not immediately respond to request for comment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.seakexperts.com/members/4827-avrum-r-goldstein)",
+      "https://www.usatoday.com/staff/12093029002/mary-walrathholdridge/)",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.),",
+      "https://molldremdentistry.com/)",
+      "https://www.molldremdentistry.com/)",
+      "https://usatoday.com/staff/12093029002/mary-walrathholdridge/)",
+      "https://www.dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.),",
+      "https://seakexperts.com/members/4827-avrum-r-goldstein)",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mary walr",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kathleen wilson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "holdridge",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "wilson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        },
+        {
+          "name": "hennepin county",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:44:35.194+02:00",
+    "updated": "2023-12-29T00:44:35.194+02:00"
+  }
+]

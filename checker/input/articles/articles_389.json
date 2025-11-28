@@ -1,0 +1,366 @@
+[
+  {
+    "uuid": "b2abc179a071fc79bb5845d40b742b9d3173fa72",
+    "url": "https://jordantimes.com/news/region/israel-bombs-gaza-un-warns-civilians-face-grave-peril",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2023-12-28T12:59:00Z",
+    "title": "Israel bombs Gaza as UN warns civilians face 'grave peril' | Jordan Times",
+    "text": "GAZA STRIP, Palestinian Territories — Israeli forces on Thursday heavily bombed the besieged Gaza Strip as the centre of intensified bombardment moves steadily south, where hundreds of thousands of displaced Palestinians are sheltering.\nThe war, which started with Hamas's October 7 sudden attack on Israel, has devastated much of northern Gaza as air and artillery strikes and house-to-house fighting have become heaviest in the southern city of Khan Yunis.\nThe health ministry in Hamas-run Gaza reported at least 50 deaths and dozens more wounded in strikes across the territory on Thursday morning, after an AFP correspondent reported heavy artillery strikes overnight particularly on Khan Yunis.\nMore than 80 per cent's of Gaza's 2.4 million people have been driven from their homes, the UN says, and many now live in cramped shelters or makeshift tents in the far south, in and around the city of Rafah near Egypt.\nUN World Health Organisation chief Tedros Adhanom Ghebreyesus called for “urgent steps to alleviate the grave peril” facing Gaza’s people, including “terrible injuries, acute hunger and... severe risk of disease”.\nFrench President Emmanuel Macron in a call with Israeli Prime Minister Benjamin Netanyahu voiced his “deepest concern at the very heavy civilian toll” and stressed “the need to work towards a lasting ceasefire”, Macron’s office said.\nIsrael’s relentless aerial bombardment and ground invasion with troops and tanks have killed at least 21,110 people, mostly women and children, according to Gaza’s health ministry.\nAn Israeli siege imposed in the wake of the October 7 attack, following years of crippling blockade, has deprived Gazans of food, water, fuel and medicine.\nThe severe shortages have only been sporadically eased by humanitarian aid convoys entering primarly via Egypt.\n“We are tired of everything,” said Ekhlas Shnenou who fled her Gaza City home. “Enough with the war, enough with the pain, enough with the hunger.”\nOne of the many people displaced, 28-year-old Iman Al Masry, recently gave birth to quadruplets in a hospital in southern Gaza after fleeing her family’s home in the devastated north.\nThe arduous journey “affected my pregnancy”, she said, recounting that she gave birth by C-section on December 18 to two girls and two boys, one of whom was too fragile to leave hospital.\n“They are very slim,” she said of the three other infants, speaking in a cramped schoolroom turned shelter in Deir Al Balah. “It’s cold and windy and there’s no bathtub... I just use wipes.”\nThe Palestinian Red Crescent society reported fresh shelling Thursday near Al Amal hospital in Khan Yunis, killing at least 10 people.\nIt decried in a statement the “intensification” of Israeli strikes in the area of the facility, already hit earlier this week, where about 14,000 Palestinians are sheltering.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Disaster and Accident",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "tedros adhanom ghebreyesus",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "un",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jordan times gaza",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hamas",
+          "sentiment": "none"
+        },
+        {
+          "name": "un world health organisation",
+          "sentiment": "none"
+        },
+        {
+          "name": "afp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "gaza",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "egypt",
+          "sentiment": "none"
+        },
+        {
+          "name": "khan yunis",
+          "sentiment": "none"
+        },
+        {
+          "name": "rafah",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:13:17.299+02:00",
+    "updated": "2023-12-29T00:13:17.299+02:00"
+  },
+  {
+    "uuid": "5286d81170a72cd6ba92a3780a875e7494638960",
+    "url": "https://gonintendo.com/contents/47026-metroid-prime-4-beyond-switch-vs-switch-2-graphics-comparison",
+    "ord_in_thread": 0,
+    "author": "rawmeatcowboy",
+    "published": "2025-04-02T21:17:00Z",
+    "title": "Metroid Prime 4: Beyond \"Switch Vs. Switch 2\" graphics comparison",
+    "text": "As announced earlier today, Metroid Prime 4: Beyond is going to get a “Nintendo Switch 2 Edition” release, which will give it a bump in the visual department, among other things. Wondering just how much better the game will look on Switch 2 versus Switch? The above trailer gives a side-by-side comparison to make things extra clear.\nMetroid Prime 4: Beyond – Nintendo Switch 2 Edition includes the following enhancements over the Switch version:\n- Support for mouse controls using Joy-Con™ 2 controllers\n- Enhanced resolution, textures and load times\n- Choose from two display modes\n- Quality Mode runs at 60 frames per second in 4K resolution in TV mode/1080p while in handheld mode.\n- Performance Mode runs at 120 frames per second in 1080p resolution in TV mode/720p in handheld mode.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->arts and entertainment",
+      "Arts, Culture and Entertainment->culture",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Metroid",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Nintendo Switch 2 Edition",
+          "sentiment": "neutral",
+          "tickers": []
+        },
+        {
+          "name": "Joy-Con",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:33:11.058+03:00",
+    "updated": "2025-04-03T02:33:11.058+03:00"
+  },
+  {
+    "uuid": "8b99045edee1592fcdecad8b182409db3a9b0f64",
+    "url": "https://www.29news.com/2024/04/18/charlottesville-2nd-graders-learning-water-safety-ymca",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anahita Jafary",
+    "published": "2024-04-18T21:24:00Z",
+    "title": "Charlottesville 2nd graders learning water safety at the YMCA",
+    "text": "CHARLOTTESVILLE, Va. (WVIR) - Some Charlottesville students spent Thursday, April 18, splashing around with swim instructors. It was part of a one-day water safety program at the Brooks Family YMCA .\nThe program has one very straight forward goal: Keep kids safe. Scenarios included boat safety and lifebuoy training. These lessons teach kids how to keep themselves afloat and to help others in need.\n“Water safety is just an incredibly important thing,” Alice Dontanville with Piedmont Family YMCA said. “Sometimes people don’t even think about when they’re near a body of water with young children.”\nDontanville says the program also offers swim lesson vouchers.\n“How to stay at the surface of the water and how to blow bubbles so that you don’t get water in your mouth. So all of those things if you’ve never been in the water, which some of our second graders haven’t are really, really important for their safety,” she said.\nDo you have a story idea? Send us your news tip here .\nCopyright 2024 WVIR. ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://piedmontymca.org/about-brooks",
+      "https://piedmontymca.org/",
+      "https://www.piedmontymca.org/",
+      "https://piedmontymca.org",
+      "https://www.piedmontymca.org/about-brooks"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "alice dontanville",
+          "sentiment": "none"
+        },
+        {
+          "name": "dontanville",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "brooks family ymca",
+          "sentiment": "none"
+        },
+        {
+          "name": "piedmont family ymca",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "va.",
+          "sentiment": "none"
+        },
+        {
+          "name": "charlottesville",
+          "sentiment": "none"
+        },
+        {
+          "name": "ymca charlottesville",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:36:06.322+03:00",
+    "updated": "2024-04-23T00:54:24.391+03:00"
+  },
+  {
+    "uuid": "c25a6eabff7fabb046f24a18799fe12460faafa8",
+    "url": "https://www.laestrella.com.pa/mundo/denuncian-la-detencion-de-un-tercer-sacerdote-nicaraguense-en-las-ultimas-24-horas-LD5720368",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencia EFE",
+    "published": "2023-12-29T14:47:00Z",
+    "title": "Denuncian la detención de un tercer sacerdote nicaragüense en las últimas 24 horas",
+    "text": "El sacerdote nicaragüense Fernando Calero fue detenido por la Policía, con lo que suman tres los curas encarcelados en las últimas 24 horas, denunció este viernes la abogada e investigadora nicaragüense exiliada Martha Patricia Molina.'Policía sandinista secuestra al sacerdote Fernando Calero, párroco de Nuestra Señora de Fátima (en el municipio de) Rancho Grande, (departamento de Matagalpa). Se desconoce su paradero', señaló Molina, autora del estudio titulado ‘Nicaragua: ¿Una Iglesia perseguida?’, a través de su cuenta de la red social X (antes Twitter).Según la investigadora, Calero fue 'secuestrado por la Policía Nacional en su parroquia' tras haber mencionado al obispo encarcelado Rolando Álvarez, quien preside la Diócesis de Matagalpa, en una misa.'No existe una acusación formal en contra de él y no se tiene información de su paradero', explicó.Calero se suma a los sacerdotes Carlos Avilés y Héctor Treminio, vicario general y tesorero de la Arquidiócesis de Managua, respectivamente, que fueron detenidos el jueves por la Policía y civiles.La semana pasada, las autoridades detuvieron al obispo Isidoro Mora, a dos sacerdotes y a dos seminaristas.Ni el Gobierno ni la Policía Nacional han confirmado o negado la presunta detención de los religiosos.El cardenal nicaragüense y arzobispo de Managua, Leopoldo Brenes, aún no se pronuncia sobre esos arrestos.Quien sí lo hizo fue el exiliado obispo auxiliar de Managua, Silvio Báez, a quien el papa Francisco ordenó dejar Nicaragua en 2019 por motivos de seguridad, quien se declaró indignado por los encarcelamientos de tres sacerdotes de la Arquidiócesis de Managua.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T16:54:34.451+02:00",
+    "updated": "2023-12-29T16:54:34.451+02:00"
+  },
+  {
+    "uuid": "4f38ab02a1afdfab13b94a5ac08ce3d558a5b33e",
+    "url": "https://www.infobae.com/america/agencias/2023/12/29/el-reino-unido-insta-a-venezuela-a-cesar-sus-acciones-injustificadas-contra-guyana/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsroom Infobae",
+    "published": "2023-12-29T00:16:00Z",
+    "title": "El Reino Unido insta a Venezuela a cesar sus \"acciones injustificadas\" contra Guyana",
+    "text": "Londres, 28 dic. (EFE).- El Gobierno británico llamó este jueves a Venezuela a cesar sus \"acciones injustificadas\" contra Guyana y reiteró que su buque de guerra HMS Trent llegará este viernes a Guyana dentro de \"una serie de maniobras de rutina\" en el Caribe.\nEn respuesta a una pregunta de EFE, un portavoz del Ejecutivo del Reino Unido aseguró que Londres trabaja para \"evitar una escalada\", después de que el presidente venezolano, Nicolás Maduro, ordenase hoy el despliegue de un operativo militar en respuesta a la presencia del patrullero.\nCaracas, 28 dic (EFE).- La vuelta de las tensiones entre Venezuela y Guyana supone \"enormes peligros\" para la región, debido a la llegada de un buque de guerra británico a las costas guyanesas, a lo que el Gobierno de Nicolás Maduro respondió con una \"acción defensiva\" de la Fuerza Armada, advirtió este jueves la ONG Control Ciudadano.\nLa directora de la organización no gubernamental, Rocío San Miguel, se refirió a las declaraciones que diera hoy el presidente de Venezuela, Nicolás Maduro, en las que habló de una \"ruptura\" de lo pactado, por parte de su par guyanés, Irfaan Ali, el pasado 14 de diciembre, cuando acordaron no amenazarse mutuamente y evitar incidentes.\n\"Considera Venezuela que está rota la declaración de Argyle (...) eso encierra enormes peligros para la paz y la estabilidad de la región\", dijo a EFE San Miguel, quien cree que los ejercicios militares ordenados por Maduro, en respuesta a la \"amenaza\" de Reino Unido, empezaron hoy y durarán hasta que el HMS Trent de la Armada británica se vaya de las costas guyanesas.\nSin embargo, el Gobierno guyanés afirmó que está comprometido con lo acordado con Maduro, y que la llegada del buque es \"una rutina\" y algo \"planificado desde hace mucho tiempo, que forma parte de la construcción de la capacidad defensiva de Guyana\".\nSegún la analista, con el despliegue militar -que incluye 5.682 \"combatientes\", 28 aeronaves y 16 embarcaciones, entre otras maquinarias-, Venezuela \"está mostrando sus dientes\" y exhibiendo su capacidad operativa, así como su \"disposición de patrullaje y de vigilancia\".\nLos ejercicios, que se llevan a cabo en el estado Sucre (noreste), a cientos de kilómetros de Guyana, son la respuesta de Venezuela ante la negativa de Georgetown de impedir la llegada del buque británico.\nSan Miguel cree que, como no se conoce cuánto durarán las maniobras venezolanas, estas pudieran coincidir con ejercicios del lado guyanés a principios de enero, lo que configuraría \"un escenario de claras tensiones militares de carácter regional\".\nLa disputa territorial escaló luego de que Venezuela aprobara el 3 de diciembre, en un referendo unilateral, anexionarse la zona bajo pleito, un área de casi 160.000 kilómetros cuadrados que está bajo control de Guyana y cuya controversia está en manos de la Corte Internacional de Justicia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:19:02.357+02:00",
+    "updated": "2023-12-29T02:19:02.357+02:00"
+  },
+  {
+    "uuid": "7d42e14768a07108f018ddb39b4fb06790979a5d",
+    "url": "https://www.contemporarypediatrics.com/view/study-tms-treatment-improves-depressive-symptoms-anxiety-in-adolescents",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joshua Fitch, Senior Editor",
+    "published": "2024-10-17T20:15:00Z",
+    "title": "Study: TMS treatment improves depressive symptoms, anxiety in adolescents",
+    "text": "\"The magnitude of benefit, trajectory of symptomatic improvement, and dependency on the number of treatment sessions showed a treatment effect similar to that found in adults,\" stated study authors. In a study that featured the largest sample to date of adolescents and young adults treated with transcranial magnetic stimulation (TMS) for major depressive disorder (MDD), TMS treatment with NeuroStar (Neuronetics) led to improvements in depressive symptoms and anxiety among in this population. The study was presented at the American Academy of Child and Adolescent Psychiatry (AACAP) meeting in Seattle, Washington, taking place from October 14 - 19, 2024.1,2 Investigators sought to determine the outcomes of adolescents and young adults aged 12 to 21 years with depression and anxiety who were treated with TMS in community settings.1 Presenter Paul E. Croarkin, DO, MS, Professor of Psychiatry, Pediatrics, and Pharmacology, Ervin A. and Margaret C. Mueller Director, Mayo Clinic Children's Research Center, Mayo Clinic College of Medicine and Science, and authors noted data were extracted from a treatment registry of 1283 patients with MDD.1 Of these, 682 were aged 12 to 19 years and 601 were aged 20 to 21 years. The primary outcome measures were the Patient Health Questionnaire-9 (PHQ–9) and Generalized Anxiety Disorder-7 (GAD–7).1 \"Dose-response related to the number of sessions and effectiveness were compared, as well as the trajectory of symptomatic improvement over the course of treatment,\" wrote the authors in a study abstract. \"The analyses examined outcomes from patients who completed 20 or more sessions and an intent-to-treat sample.\"1 According to results, in completer sample (n = 1169) 59.4% and 36.4% me the PHQ-9 response and remission criteria, respectively. Marked dose-response effects were observed, with antidepressant effectiveness improving with longer treatment courses (F5,1277 = 19.10; [P < .0001]).1 \"The trajectory of improvement showed the greatest symptom reduction over the first 10 sessions, with no plateau before treatment termination,\" stated the study authors. In addition, there was a significant correlation between percentage change in PHQ-9 and GAD-7 scores (r [129] = 0.77; [P < .001]).1 “These data are robust and reinforce the positive trend adolescent psychiatrists have seen since the FDA-clearance of NeuroStar for adolescents aged 15 and up earlier this year, which is the overwhelmingly positive clinical outcomes for young patients with major depressive disorder,” said Melissa Fickey, MD, in a press release.2 Fickey, of Embracing Life Wellness Center, is an AACAP member, and board-certified child, adolescent, and adult psychiatrist.2 \"With an impressive 78% response rate and 48% remission rate for this population, NeuroStar is truly making a difference in the lives of adolescents across the country struggling with depression,\" added Fickey.2 Overall, results from the study demonstrated improvement in both depressive symptoms and anxiety in adolescents and young adults, the study authors concluded.1 \"The magnitude of benefit, trajectory of symptomatic improvement, and dependency on the number of treatment sessions showed a treatment effect similar to that found in adults,\" they wrote.1 References: 1. Croarkin PE, Aaronson ST, Carpenter LL, et al. A Naturalistic Study of Transcranial Magnetic Stimulation Treatment in Adolescents and Young Adults With Depression and Anxiety. Abstract. Presented at: American Academy of Child and Adolescent Psychiatry (AACAP). October 14-29, 2024, in Seattle, Washington. 2. NeuroStar® Oral Presentation at AACAP 2024 Highlights Largest Study Evaluating TMS Efficacy in Adolescents with Depression. Neuronetics. Press release. October 14, 2024. Accessed October 17, 2024. https://ir.neuronetics.com/news-releases/news-release-details/neurostarr-oral-presentation-aacap-2024-highlights-largest-study [Matthew Davis, MD, FAAP, on current, key pediatric health care themes](/view/matthew-davis-md-faap-current-key-pediatric-health-care-themes?utm_source=www.contemporarypediatrics.com&utm_medium=relatedContent) The ongoing challenges of mental health, artificial intelligence, and the addressing of social determinants of health are key themes of pediatric health care are topics of discussion with Matthew Davis, MD, FAAP in this video interview. [Addressing atypical anorexia: Part 2](/view/addressing-atypical-anorexia-part-2?utm_source=www.contemporarypediatrics.com&utm_medium=relatedContent) Dr. Erin Harrop discusses the necessity of understanding that eating disorders do not all look the same in every patient and how a multidisciplinary approach could be an effective way to diagnose and manage anorexia nervosa that is atypical. ['Chroming' trend among teens linked to TikTok videos](/view/-chroming-trend-among-teens-linked-to-tiktok-videos?utm_source=www.contemporarypediatrics.com&utm_medium=relatedContent) A resurgence of \"chroming\" among teens, driven by TikTok videos, poses serious health risks, urging social media regulation and pediatrician intervention.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Education"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://ir.neuronetics.com/news-releases/news-release-details/neurostarr-oral-presentation-aacap-2024-highlights-largest-study",
+      "https://www.ir.neuronetics.com/news-releases/news-release-details/neurostarr-oral-presentation-aacap-2024-highlights-largest-study"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-18T00:14:39.539+03:00",
+    "updated": "2024-11-01T11:50:34.042+02:00"
+  },
+  {
+    "uuid": "06bf8a53970b03fbcc6be01c7fcf237f8b80eb09",
+    "url": "https://pt.minghui.org/html/articles/2024/2/24/10686.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Escrito por um correspondente do Minghui na província de Heilongjiang; China",
+    "published": "2024-02-24T00:00:00Z",
+    "title": "Mulher de Heilongjiang é presa para cumprir 3,5 anos por praticar o Falun Gong | Falun Dafa - Minghui.org",
+    "text": "(Minghui.org) Uma moradora da cidade de Ning'an, província de Heilongjiang, foi presa na Prisão Feminina da Província de Heilongjiang em 2 de fevereiro de 2024 para cumprir uma pena de 3,5 anos por praticar o Falun Gong, uma disciplina espiritual que tem sido perseguida pelo regime comunista chinês desde 1999. Sra. Chen Xueyan A Sra. Chen Xueyan, com mais de 60 anos, foi presa em 10 de agosto de 2023 e levada para o Centro de Detenção da Cidade de Mudanjiang. A cidade de Mudanjiang supervisiona a cidade de Ning'an. Seu caso foi posteriormente atribuído à cidade de Hailin, que também está sob a administração da cidade de Mudanjiang. Nos últimos anos, a [Procuradoria] da cidade de Hailin e o Tribunal da cidade de Hailin foram designados para lidar com os casos do Falun Gong nas cinco cidades e em um condado na região da grande Mudanjiang, incluindo a cidade de Hailin, a cidade de Ning'an, a cidade de Muling, a cidade de Dongning, a cidade de Suifenhe e o condado de Linkou. O Tribunal da cidade de Hailin ouviu o caso da Sra. Chen em 14 de dezembro de 2023. O promotor Luo Jinpeng a acusou de \"usar uma organização de culto para minar a aplicação da lei\", um pretexto padrão usado para perseguir e prender os praticantes do Falun Gong. Seu advogado refutou as alegações e exigiu sua absolvição. A Sra. Chen pretendia testemunhar em sua própria defesa, mas foi impedida pelo juiz Yan Junlong. A irmã da Sra. Chen era o único membro da família presente em sua audiência. Não ficou claro se outros membros da família foram proibidos de comparecer à audiência ou se não puderam comparecer à audiência. O juiz Yan sentenciou a Sra. Chen a 3,5 anos de prisão com uma multa de 1.000 yuans em uma data desconhecida e ela foi transferida para a Prisão Feminina da Província de Heilongjiang em 2 de fevereiro de 2024. A sentença da Sra. Chen foi um duro golpe para seu irmão mais novo, que teve um derrame há seis anos e ficou inválido. Sua esposa precisava trabalhar e sua filha morava em um lugar distante. A Sra. Chen se ofereceu para cuidar de seu irmão enquanto sua cunhada trabalhava. A Sra. Chen cuidou meticulosamente de seu irmão nos últimos seis anos antes de ser presa em 2023. Seu irmão acamado agora pergunta por ela o tempo todo: \"Irmã, onde você está? Por que você não vem mais me ver?\" Artigo relacionado em inglês: [Grateful for Falun Gong Improving Her Health, Highly-Praised House Aide Faces Prison Sentence for Her Faith](https://en.minghui.org/html/articles/2023/12/27/213502.html) Copyright © 2023 Minghui.org. Todos os direitos reservados. Categoria: [ Casos de perseguição ](/cc/10/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-24T06:17:36.307+02:00",
+    "updated": "2024-02-24T06:17:36.307+02:00"
+  },
+  {
+    "uuid": "cce16e4c7bcdbd41d8f197696a622989e5aad6f3",
+    "url": "https://www.local10.com/espanol/2024/03/22/ultimo-fin-de-semana-de-las-vacaciones-de-primavera-se-enfrenta-a-un-pronostico-lleno-de-lluvia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew Perez",
+    "published": "2024-03-22T22:34:00Z",
+    "title": "Último fin de semana de las vacaciones de primavera se enfrenta a un pronóstico lleno de lluvia",
+    "text": "FORT LAUDERDALE, Fla. – Algunos propietarios de negocios del sur de Florida no están contentos al comenzar el último fin de semana de las vacaciones de primavera.\nEsto se debe a que esperaban un impulso en sus negocios, pero ahora están viendo nubes oscuras y clima lluvioso.\nKaylee Jacks, quien vino al estado desde Dallas para su despedida de soltera, dijo a Local 10 News que está aprovechando al máximo una playa de Fort Lauderdale vacía.\n“Originalmente íbamos a ir a South Beach, pero escuchamos que hay un toque de queda”, dijo.\nOtro grupo de amigos de San Diego canceló sus planes de pasar la semana en Miami Beach debido al aumento de la represión del crimen y al toque de queda de las vacaciones de primavera, todo ello en un esfuerzo por calmar el caos.\nMuchos que buscaban divertirse durante las vacaciones de primavera migraron a la playa de Fort Lauderdale, solo para encontrarse con un clima húmedo y lluvioso.\nLos agentes de policía permanecieron presentes para controlar a las multitudes, que se esperaba que se reunieran para un último fin de semana de fiesta.\nCopyright 2024 by WPLG Local10.com - All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-03-23T01:21:52.898+02:00",
+    "updated": "2024-03-23T01:21:52.898+02:00"
+  }
+]

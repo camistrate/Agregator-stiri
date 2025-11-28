@@ -1,0 +1,247 @@
+[
+  {
+    "uuid": "e339a88d477e0203a62d8c77d7da88e5d280fdd8",
+    "url": "https://elpais.com/mexico/2025-03-06/incendios-asolan-el-estado-de-nuevo-leon-en-el-norte-de-mexico.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "El País",
+    "published": "2025-03-06T02:21:00Z",
+    "title": "Incendios asolan el estado de Nuevo León, en el norte de México | EL PAÍS México",
+    "text": "El gobernador de Nuevo León dijo durante una conferencia de prensa el miércoles que el estado había registrado 239 incendios hasta el martes; Samuel García, dijo que los incendios ocurrieron principalmente en áreas baldías y causaron daños a torres de electricidad. García explicó que la causa de los incendios fue un frente frío que ingresó a la ciudad en un periodo seco, lo que provocó un ambiente favorable para que se desarrollaran los incendios. Medios nacionales han reportado incendios en toda la Zona Metropolitana de Monterrey, incluidos los municipios de Monterrey, García, General Escobedo, Apodaca, Santa Catarina y Guadalupe.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Crime, Law and Justice->arson"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "General Escobedo",
+          "sentiment": "none"
+        },
+        {
+          "name": "Samuel García",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Guadalupe",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T05:47:35.778+02:00",
+    "updated": "2025-03-06T05:47:35.778+02:00"
+  },
+  {
+    "uuid": "a339d5a2ad8ad10d2530921040445bd1ed7989ae",
+    "url": "https://news.knowledia.com/au/en/articles/biden-said-to-weigh-global-limits-on-ai-exports-in-11th-hour-trade-war-00827da97d10c45b980c06ba178070351e5be993",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tobias Mann",
+    "published": "2025-01-10T00:06:00Z",
+    "title": "Biden said to weigh global limits on AI exports in 11th-hour trade war blitz",
+    "text": "China faces outright ban while others vie for Uncle Sam's favor The Biden administration is reportedly weighing new limits in the ongoing US-China trade war, which would ban high-end AI accelerators to adversary nations and impose restrictions on AI models for others.\nCiting anonymous sources, Bloomberg reports the new rules, which could come as early as Friday — 10 days before president-elect Donald Trump returns to the white house — would categorize nations into three progressively more restrictive tiers.\nUnsurprisingly, the last and most restrictive of these tiers is aimed at China, Russia, and other nations subject to US export embargoes, and is said to seek an outright ban on exports of AI hardware.\nBy comparison, the first and least restrictive of these tiers would be allowed unfettered import of American designed AI chips by companies located in the US and 18 other close allies, including Germany, Japan, the Netherlands, South Korea, and Taiwan, according to the report.\nThe second tier, meanwhile, would establish import limits on the volume of compute power the rest of the world is able to maintain, effectively establishing the US as the global gatekeeper for AI development.\nThese limits include caps on computing power available to any one nation reportedly equivalent to 50,000 GPUs over a two year period between 2025 and 2027.\nHowever, the severity of these limits on \"tier-2\" nations depends on whether or not governments are willing to abide by US trade policy. Tier-2 nations that agree to Uncle Sam's national security and human rights policies would be granted…\nTobias Mann",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Politics->international relations",
+      "Politics->economic policy",
+      "Politics->government policy",
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->foreign exchange market",
+      "Science and Technology->social sciences",
+      "Science and Technology->political science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/",
+      "https://theregister.com/2025/01/09/us_weighing_global_limits_ai_exports/",
+      "https://www.theregister.com/2025/01/09/us_weighing_global_limits_ai_exports"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Biden",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Bloomberg",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T02:31:59.787+02:00",
+    "updated": "2025-01-10T02:31:59.787+02:00"
+  },
+  {
+    "uuid": "0688507bd158e2bc899364261cd5b8b89372860a",
+    "url": "https://www.lyonmag.com/article/134616/lyon-le-musee-des-confluences-accueille-une-nouvelle-exposition-sur-les-forets",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lyon Mag",
+    "published": "2024-02-16T03:00:00Z",
+    "title": "Lyon : le musée des Confluences accueille une nouvelle exposition sur les forêts",
+    "text": "L’exposition présente le travail réalisé par Vincent Munier, photographe et cinéaste animalier passionné. Elle propose des photographies et des vidéos réalisées par ce dernier, dans les forêts françaises et particulièrement dans celle des Vosges. Dans ce décor réalisé par le musée, une immersion totale en forêt se fait. Les clichés du photographe sont pris la nuit ou au petit matin, lorsque les animaux ont le champ libre. De ce fait, l’ambiance est sombre, comme au clair de lune.\nUne exposition pour sensibiliser\nLe but de la visite est de se sentir en immersion auprès de la faune. “ C’est la possibilité de prendre le temps d’observer de ressentir et de prendre conscience de la fragilité de nos forêts“, déclare Hélène Lafont-Couturier, directrice générale du musée des Confluences. L’évènement permet aussi de se positionner en tant qu’observateur et “invité“ dans ce milieu, à la rencontre de cette biodiversité de proximité. Pour la première fois, une visite en audio description est disponible afin d’accompagner les visiteurs en déficit visuel.\nLa directrice souligne également que le musée a retrouvé une bonne dynamique durant l’année 2023 et des chiffres semblables à ceux de 2019. Le musée a su séduire au niveau local puisque 62% de l’auditorat vient de la région. Aujourd’hui 55% des visiteurs ont moins de 30 ans et 4 visiteurs sur 5 viennent en famille ou entre amis. Des chiffres qui symbolisent l’aspect attrayant du lieu pour les jeunes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-16T07:15:47.129+02:00",
+    "updated": "2024-02-16T07:15:47.129+02:00"
+  },
+  {
+    "uuid": "d3eec4f10523037e2369fb0d03efba9fea69b0fb",
+    "url": "https://www.vaticannews.va/en/pope/news/2024-06/pope-francis-angelus-corpus-christi-eucharist.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vatican News",
+    "published": "2024-06-02T10:05:00Z",
+    "title": "Pope at Angelus: Eucharist makes us prophets of a new world - Vatican News",
+    "text": "Pope at Angelus: Eucharist makes us prophets of a new world By Devin Watkins Pope Francis prayed the Angelus on Sunday, as the Church in many countries celebrated the Solemnity of the Most Holy Body and Blood of Christ, known as Corpus Christi. Ahead of the traditional Marian prayer, the Pope reflected on Jesus’ act of giving Himself to us in the Eucharist on the night of the Last Supper. The Gospel emphasizes the dimension of “gift,” he said, noting that Jesus revealed His identity and mission in this simple act of giving bread to His disciples. “He did not hold back His life for Himself, but gave it to us,” said Pope Francis. “He did not consider His being like God a jealous treasure, but stripped Himself of His glory to share our humanity and bring us into eternal life.” Jesus, added the Pope, made his entire life a gift on our behalf. Connection to entire Church He went on to note that the Eucharist is a core part of the Christian life of faith. “Celebrating the Eucharist and feeding on this Bread,” he said, “as we do especially on Sundays, is not an act of worship detached from life or a simple moment of personal consolation.” Communion, said the Pope, makes each of us capable of offering our own lives for others, since it teaches us to share what we are and what we have. Prophets of new world Pope Francis pointed out that the Eucharist helps us turn away from the logic of possession and consumption for its own sake, as we become “prophets and builders of a new world.” “When we overcome selfishness and open ourselves to love, when we cultivate bonds of fraternity, when we participate in the sufferings of our brothers and sisters and share bread and resources with those in need, when we make our talents available to everyone,” he said, “then we are breaking the bread of our life like Jesus.” Seeking benefit of all In conclusion, the Pope invited us to ask ourselves if we share our lives with others or if we seek our own interests. “May the Virgin Mary, who welcomed Jesus, Bread come down from Heaven, and gave herself entirely with Him,” prayed Pope Francis, “help us to become a gift of love, united with Jesus in the Eucharist.” Thank you for reading our article. You can keep up-to-date by subscribing to our daily newsletter. [ Just click here](/en/newsletter-registration.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "devin watkins pope francis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "pope francis",
+          "sentiment": "none"
+        },
+        {
+          "name": "jesus",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-02T13:54:45.683+03:00",
+    "updated": "2024-06-02T13:54:45.683+03:00"
+  },
+  {
+    "uuid": "242570fcdc2c4f1320547cedf76e1ee9804a5a56",
+    "url": "https://cbs6albany.com/news/local/ticket-issued-in-maple-ave-bridge-strike-explosion-laws-tickets-railroad-train-glenville-schenectady-fire-flames-code-sylvester-basil-december-natural-gas-compressed-propane-obey-burns-",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jana DeCamilla",
+    "published": "2023-12-28T18:36:00Z",
+    "title": "chevron-right",
+    "text": "Glenville, NY (WRGB) — The driver of the truck carrying compressed natural gas that struck the Maple Avenue railroad bridge in Glenville, then exploded into flames on Dec. 21, is facing charges. [ORIGINAL REPORT: Maple Avenue remains closed after truck strikes bridge and explodes](https://cbs6albany.com/news/local/propane-truck-strikes-maple-avenue-railroad-bridge-explodes-town-supervisor) Chris Koetzle, Supervisor, Town of Glenville, confirmed Thursday that the town is filing charges against Sylvester Basil Jr. under new town code put in place in response to repeated bridge strikes. Though still recovering Basil Jr. is charged with failure to obey a bridge sign. [NEIGHBORS REACT: 'By far the worst': Bridge strike explosion along Glenville's Maple Ave shakes neighbors homes](https://cbs6albany.com/news/local/by-far-the-worst-bridge-strike-turned-explosion-along-glenvilles-maple-ave#) According to Police Chief Stephen Janik, it is a simple criminal summons for a town code violation. He may decide to appear or not, but if he does not appear, the court may issue a warrant.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chris koetzle",
+          "sentiment": "none"
+        },
+        {
+          "name": "sylvester basil jr.",
+          "sentiment": "none"
+        },
+        {
+          "name": "stephen janik",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "glenville",
+          "sentiment": "none"
+        },
+        {
+          "name": "maple avenue",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:16:09.655+02:00",
+    "updated": "2023-12-29T01:16:09.655+02:00"
+  }
+]

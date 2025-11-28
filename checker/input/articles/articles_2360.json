@@ -1,0 +1,404 @@
+[
+  {
+    "uuid": "4849c547c91790fe386b2becc81c7f40977d280b",
+    "url": "https://www.newsbreak.com/news/3739595921466-heavy-snow-and-whiteout-conditions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill Kardas",
+    "published": "2025-01-02T21:49:00Z",
+    "title": "Heavy Snow and Whiteout Conditions",
+    "text": "By Bill Kardas ,\n4 hours ago Tonight: Cloudy, windy, with lake effect snow. Low 23. Friday morning: Cloudy with lake effect snow. Mid 20s. Friday afternoon: Cloudy with lake effect snow showers. High 28. Friday evening: Snow showers ending. Low 20s. Heavy lake effect snow and wind will continue to bring whiteout conditions to parts of... Read full article\nRead in NewsBreak 20",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather"
+    ],
+    "topics": [
+      "Weather->weather phenomena"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Bill Kardas",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-03T04:01:11.490+02:00",
+    "updated": "2025-01-03T04:01:11.490+02:00"
+  },
+  {
+    "uuid": "80b46e24ca37448a2c899d17ca3025df5f5170e4",
+    "url": "https://www.ncregister.com/cna/pope-francis-in-the-eucharist-jesus-offers-himself-for-the-world",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@NCRegister",
+    "published": "2024-06-02T13:12:00Z",
+    "title": "Pope Francis: In the Eucharist, Jesus Offers Himself For the World",
+    "text": "Pope Francis: In the Eucharist, Jesus Offers Himself for the World After giving a blessing to the crowd, Pope Francis asked people to continue to pray for those who are suffering in Ukraine, Palestine, Israel, and Myanmar. In the Eucharist, Jesus offers himself for the life of the world, Pope Francis proclaimed from the window of the Apostolic Palace on the Solemnity of Corpus Christi. Speaking to a crowd huddled together under colorful umbrellas on a rainy Sunday afternoon in Rome, the Pope underlined that the body and blood of Christ offered at every Mass is a gift from God. “It is He who gives Himself for all humanity, and offers Himself for the life of the world,” Pope Francis said on June 2. “Let us remember this: Jesus made a gift of all His life,” he added. Pope Francis explained that just as Jesus “did not keep his life for himself, but gave it to us,” so too are Christians called to make their lives a gift for others. Quoting Saint Leo the Great, he said: “‘Our participation in the Body and Blood of Christ has no other end than to make us become that which we eat.’” Pope Francis added that “to become what we eat, to become ‘eucharistic,’” means to become “people who no longer live for themselves, in the logic of possession and consumption, but who know how to make their lives a gift for others.” “Let us understand, then, that celebrating the Eucharist and eating this Bread, as we do especially on Sundays, is not an act of worship detached from life or a mere moment of personal consolation; we must always remember that Jesus took the bread, broke it and gave it to them and, therefore, communion with Him makes us capable of also becoming bread broken for others, of sharing what we are and what we have,” he said. After giving a blessing to the crowd, Pope Francis asked people to continue to pray for those who are suffering in Ukraine, Palestine, Israel, and Myanmar, appealing to leaders to “stop the escalation and to make every effort for dialogue and negotiation.” The Pope also asked for prayers for the African country of Sudan, where a civil war has displaced millions of people since the conflict broke out last year. “May the weapons be silenced and, with the commitment of the local authorities and the international community, help be brought to the population and the many displaced people; may the Sudanese refugees find welcome and protection in neighboring countries,” he said. Following the Angelus address, Pope Francis is scheduled to preside over a Corpus Christi Mass in the Archbasilica of St. John Lateran at 5 p.m. local time followed by a Eucharistic procession through the streets of Rome to the Basilica of St. Mary Major. The Solemnity of Corpus Christi, meaning the “Body of Christ” in Latin, is traditionally celebrated on the Thursday following Trinity Sunday or, in some countries including the United States and Italy, on the Sunday following that feast. The feast provides an opportunity for the Church to focus on the real presence of Jesus in the Eucharist. “May the Virgin Mary, who welcomed Jesus, bread descended from Heaven, and gave herself entirely together with Him, help us too to become a gift of love, united with Jesus in the Eucharist,” Pope Francis said. - Keywords: [eucharistic adoration](https://www.ncregister.com/tag/eucharistic-adoration) [solemnity of the most holy body and blood of christ](https://www.ncregister.com/tag/solemnity-of-the-most-holy-body-and-blood-of-christ) [corpus christi sunday](https://www.ncregister.com/tag/corpus-christi-sunday)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jesus",
+          "sentiment": "negative"
+        },
+        {
+          "name": "francis",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jesus “",
+          "sentiment": "none"
+        },
+        {
+          "name": "pope francis",
+          "sentiment": "none"
+        },
+        {
+          "name": "fra",
+          "sentiment": "none"
+        },
+        {
+          "name": "leo the great",
+          "sentiment": "none"
+        },
+        {
+          "name": "christ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "jesus offers himself for the world",
+          "sentiment": "negative"
+        },
+        {
+          "name": "corpus christi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "eucharist",
+          "sentiment": "none"
+        },
+        {
+          "name": "myanmar",
+          "sentiment": "none"
+        },
+        {
+          "name": "rome",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "israel",
+          "sentiment": "none"
+        },
+        {
+          "name": "palestine",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T17:23:33.091+03:00",
+    "updated": "2024-06-02T20:38:35.913+03:00"
+  },
+  {
+    "uuid": "8ee2d02eb9793f39bce0b7e388700d7cd2f8293f",
+    "url": "https://yorknewstimes.com/article_4b27f4c1-a449-5272-810c-3b3b5f6c9a47.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "From Staff Reports",
+    "published": "2025-03-19T23:09:00Z",
+    "title": "Nebraska national champion Tyus Wilson named Big Ten men's field athlete of year",
+    "text": "Fresh off a national title, Nebraska track athlete Tyus Wilson has a new award with his name inscribed on it.\nThat's the Big Ten men's field athlete of the year honor, which the conference awarded to Wilson days after the Husker senior struck gold in the high jump at the NCAA Championships on Saturday in Virginia Beach, Virginia.\nWilson became NU's first male indoor champion since 2009 when he jumped 7 feet, 3/4 inches, setting a new personal record and the third-highest mark in school history.\nWilson becomes the fourth consecutive Husker to earn the honor.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Education",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->athletics",
+      "Education->college and university",
+      "Education->students",
+      "Human Interest->award and prize"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:48:13.164+02:00",
+    "updated": "2025-03-20T01:48:13.164+02:00"
+  },
+  {
+    "uuid": "4483777667ce4bc42ed859db6627a20c424a73cc",
+    "url": "https://www.palermotoday.it/economia/metalmeccanici-sciopero-28-marzo-2025.html",
+    "ord_in_thread": 0,
+    "author": "Redazione",
+    "published": "2025-03-27T10:29:00Z",
+    "title": "Metalmeccanici, domani aziende ferme a Palermo: proclamato sciopero di 8 ore",
+    "text": "Economia\nMetalmeccanici, domani aziende ferme a Palermo: proclamato sciopero di 8 ore\nLa protesta targata Fiom, Fim e Uilm per il mancato rinnovo del contratto. Incroceranno le braccia i lavoratori di Fincantieri, Leonardo, Sirti, Sispi e di tutte le altre aziende metalmeccaniche della provincia\nDomani 8 ore di sciopero nazionale dei metalmeccanici di Fiom, Fim e Uilm per il mancato rinnovo del contratto collettivo nazionale di lavoro. A Palermo si fermeranno i lavoratori di Fincantieri, Leonardo, Sirti, Sispi e di tutte le altre aziende metalmeccaniche della provincia. Tre i pullman che partiranno domani alle 6 del mattino da Palermo per raggiungere i metalmeccanici siciliani a Siracusa, dove è stata organizzata una manifestazione a livello regionale, con un corteo che partirà alle 10.30 dalla portineria ovest Eni e si concluderà in piazza dell’autonomia comunale a Priolo Gargallo.\n“Siamo al terzo sciopero dopo quelli del 13 dicembre e del 21 febbraio. E domani – dichiarano il segretario generale Fiom Palermo e Sicilia Francesco Foti, il segretario generale Fim Cisl Palermo Trapani Antonio Nobile e il segretario generale Uilm Uil Giovanni Gerbino – saremo di nuovo in piazza contro l’arroganza di Federmeccanica e Assistal che, anziché aprire una vera trattativa e discutere delle nostre rivendicazioni, hanno chiuso a ogni possibilità confronto presentando una contro piattaforma che di fatto annulla la piattaforma votata col 98 per cento dei consensi dei metalmeccanici italiani. Chiediamo la riapertura del tavolo sulla base delle richieste presentate da Fiom, Fim e Uilm”.\nCon gli scioperi, la mobilitazione e il blocco dello straordinario, Fiom, Fim e Uilm non mollano e chiedono aumenti certi ed esigibili sui minimi contrattuali che vadano oltre l’inflazione, la tutela del potere d’acquisto dei salari, il contrasto della precarietà con l’estensione dei diritti e la riduzione dell’orario di lavoro, l’aumento delle tutele in materia di salute e sicurezza nei luoghi di lavoro e negli appalti, l’avvio di una giusta transizione, che tuteli l’ambiente e l’occupazione nell’ottica di una nuova stagione di sviluppo industriale.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->economy",
+      "Economy, Business and Finance->human resources",
+      "Economy, Business and Finance->layoffs",
+      "Social Issue->discrimination",
+      "Social Issue->social problem",
+      "Social Issue->social condition",
+      "Labor->labour dispute",
+      "Labor->employment",
+      "Labor->unions"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T12:43:25.877+02:00",
+    "updated": "2025-03-27T12:43:25.877+02:00"
+  },
+  {
+    "uuid": "541855ddd2bbf8cc5880c47f18f20f1443a9b096",
+    "url": "https://www.archyde.com/how-to-regulate-your-menstrual-cycle-through-exercise",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2024-11-07T20:06:00Z",
+    "title": "How to regulate your menstrual cycle through exercise?",
+    "text": "2024-11-07 07:00:00\nRegular activity can help support the body’s hormonal functions and help the body regulate menstrual cycles. Movement helps ease symptoms linked to menstruation. However, during menstruation, the desire for rest and gentleness may be felt, which is why it will be necessary to listen to your body and adapt your physical activity. This is a good time to take care of yourself and adapt your sporting practice .\nThe importance of adapting physical exercise Weekly physical activity can support body functions, including the regulation of hormonal cycles. It can help to alleviate symptoms to regulate stress levels, to reduce tension, to control mood changes and sometimes to promote ovulation. However, during menstruation, physical activity can be disrupted, an increased need for gentleness and calm is often felt.\nIt’s also the time to take care of yourself, listen to your body and protect it from the pain associated with menstruation. For some women, it may help improve more serious gynecological conditions. A gentler practice will then be favored. Adapt physical exercise according to the phases of the cycles can help you better understand your changes and preserve your energy on a daily basis.\nRead also – Menstrual panties: Experience your periods differently\nSport for hormonal regulation Firstly, physical exercise promotes a healthy lifestyle and develops a state of psychological well-being. But that’s not all, physical exercise has a significant impact on the hormonal system which regulates different functions of the body. He plays a crucial role in hormonal functions linked to the menstrual cycle and supports women in the different phases of their cycle.\nThe regulation of cycles through regular physical activity which can improve hormonal balance. It contributes to the reduction of menstrual pain by reducing cramps and other symptoms linked to menstruation and releases endorphins which can relieve pain. It promotes blood regulation at the level of the reproductive system. Practiced in a moderate manner, sport promotes fertility, but overtraining can disrupt ovulation and make cycles irregular or even cause amenorrhea. Finally, appropriate physical exercise can alleviate PMS symptoms (premenstrual syndrome) and menopause such as mood swings, fatigue, stress and improve mood. Also read – Late period: what are the causes of amenorrhea?\nGentle practices for hormonal disorders Depending on the phase of your menstrual cycle, it is best to adapt your physical exercise program. During the luteal phase, at the time of ovulation and menstruation, it would be wise to favor gentler exercises such as yoga or walking. For women with gynecological diseases such as endometriosis or major hormonal disturbances, including menopause, gentle movement techniques can be practiced weekly.\nFor example, the Aviva method, also called hormonal dance or even endocrine gym, allows you to better understand the more or less intense symptoms linked to the cycle. It consists of physical movements performed to the rhythm of the music to stimulate the pelvic area, blood flow and oxygenation in this part of the body. THE hormonal yoga or the Aviva method can help relieve hormonal disorders, such as:\nreduced libido, difficulty concentrating and remembering, depression, loss of motivation, irritability and mood changes, anxiety and stress, insomnia and night sweats, reduce symptoms of menopause, and promote fertility.\nThis gentle method could also relieve symptoms related to PCOS (polycystic ovarian syndrome), endometriosis, hypothyroidism, hyperthyroidism, amenorrhea and irregular menstruation. More and more professionals in the holistic well-being sector are training in this movement technique.\nRead also – What’s new for endometriosis pain?\nAlthough exercise is beneficial for hormonal health, it is essential to watch out for potentially negative effects. Excessive training can cause overproduction of the stress hormone cortisol, which will disrupt hormonal balance. Exercise could be adapted based on each woman’s personal hormonal imbalances and cycle rhythm. This is why it is recommended to consult a healthcare professional before starting a training program, especially in cases of hormonal disorders.\nThis will be able to help you develop a suitable program, while taking the necessary precautions. To maintain proper hormonal balance, choosing the right type of exercise is crucial.\nSources\n– Endocrine rhythms and sport: it is time to take time into account. pubmed.ncbi.nlm.nih.gov . Accessed October 20, 2024.\n– How to train according to your menstrual cycle? mon.kinesiologue.com . Accessed October 20, 2024.\n– Exercise and the Regulation of Endocrine Hormones. pubmed.ncbi.nlm.nih.gov . Accessed October 20, 2024.\nWritten by Camille V.\n1730995567\n#regulate #menstrual #cycle #exercise\n**Interview with Dr. Emily⁢ Thompson, Fitness and Women’s⁢ Health Expert**\n**Interviewer:** Good morning, Dr. Thompson! Thank you for joining us today​ to discuss the relationship between the⁣ menstrual cycle and‌ physical exercise.\n**Dr. ‌Thompson:** Good morning! I’m happy to be here to shed ‌some light on this important topic.\n**Interviewer:** Research suggests ​that light and‍ core strengthening exercises can be⁣ particularly ‌beneficial ​during⁢ menstruation. Can you elaborate on why ⁤gentle exercises like yoga and​ swimming are recommended during this time?\n**Dr. Thompson:** Absolutely. ​During menstruation, many women experience various symptoms such as cramps, mood swings, and ​fatigue. Gentle exercises like yoga and swimming can ‍help‍ ease these symptoms by promoting ⁢relaxation and increasing blood ​flow, which can alleviate pain and discomfort. ⁢These activities also have a⁤ calming effect, which ​is essential since many women feel the need for ⁢gentleness and rest during their period.\n**Interviewer:** That makes sense. ​You mentioned the importance ⁤of adapting exercise according to the⁢ menstrual cycle. Can you‍ explain how physical‌ activity can ‍vary during ⁣different phases ⁣of ⁣the cycle?\n**Dr. Thompson:**​ Certainly! The menstrual ⁣cycle has different ⁢phases—menstrual,⁢ follicular, ‍ovulatory, and luteal—each⁣ influencing ‍energy‍ levels and hormonal‌ balance. During the menstrual phase, it’s best to focus on light activities. As you enter the follicular phase, energy levels ⁣may rise, allowing for more ⁤intense⁣ workouts. Around ovulation, many ‌women feel their best and can handle higher intensity training, while in the luteal phase, it may be wise to switch back⁢ to gentler exercises as PMS⁤ symptoms can kick ‌in.\n**Interviewer:** That’s really insightful! You also ‌mentioned the ‍Aviva‍ method⁤ and hormonal yoga. How ​do these approaches help with hormonal disorders or menstrual-related issues?\n**Dr. Thompson:** The Aviva method, along with hormonal yoga, involves specific movements ​that target the pelvic⁢ area, which can stimulate blood flow and energy. These practices ​help women⁢ understand and connect with their bodies ‌and symptoms, promoting relaxation while addressing issues such​ as⁣ menstrual pain,⁢ reduced libido, and even menopause symptoms. They also serve as a‌ gentle reminder to honor one’s body during different phases of ⁢the cycle.\n**Interviewer:** It sounds like being⁤ in tune ⁢with one’s body and adapting workouts is key ‍for ⁤overall well-being. What advice would ​you give to women looking to incorporate this knowledge into their fitness routines?\n**Dr. Thompson:**‌ I would say start⁤ by tracking your menstrual cycle and paying attention to how​ your body feels ⁤during⁢ different phases. Choose activities that resonate ‍with you—yoga, walking,‍ or gentle‌ stretching during your period,‍ and higher ⁣intensity ⁤workouts⁤ when​ you feel more energized. Listen ​to your body; ⁤it’s the best guide for how to move​ and adjust your fitness ‌routine.\n**Interviewer:** Thank you, Dr. Thompson! ⁢Your ​expertise is⁢ invaluable, and⁣ it’s⁣ encouraging ⁢to ‌see how thoughtful adjustments to exercise can lead to improved‍ health ‍and well-being.\n**Dr. Thompson:** Thank you for having me! I’m glad to share this information⁣ and hope it helps women feel empowered ‌in⁤ their fitness ‍journeys.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://pubmed.ncbi.nlm.nih.gov/26477919/",
+      "https://pubmed.ncbi.nlm.nih.gov/30924095/",
+      "https://mon.kinesiologue.com/comment-sentrainer-en-fonction-du-cycle-menstruel/",
+      "https://www.mon.kinesiologue.com/comment-sentrainer-en-fonction-du-cycle-menstruel/",
+      "https://pubmed.ncbi.nlm.nih.gov/30924095",
+      "https://pubmed.ncbi.nlm.nih.gov/26477919",
+      "https://mon.kinesiologue.com/comment-sentrainer-en-fonction-du-cycle-menstruel",
+      "https://www.pubmed.ncbi.nlm.nih.gov/30924095/",
+      "https://www.pubmed.ncbi.nlm.nih.gov/26477919/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-08T01:23:28.690+02:00",
+    "updated": "2024-11-08T01:23:28.690+02:00"
+  },
+  {
+    "uuid": "39cdebcabb1150231a2166b15fad7bf2eb54f379",
+    "url": "https://depor.com/mexico/tendencias-mx/test-de-personalidad-identifica-que-clase-de-persona-eres-segun-que-animal-viste-viral-noticia/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bryan's Campos",
+    "published": "2024-01-07T22:29:00Z",
+    "title": "Test de personalidad: identifica qué clase de persona eres según qué animal viste",
+    "text": "No dejes pasar esta oportunidad. La búsqueda de comprendernos a nosotros mismos es tan antigua como la historia humana. Desde la antigüedad hasta la era moderna, diferentes métodos han sido utilizados para descubrir las capas más profundas de nuestra identidad. Uno de estos métodos son los [tests de personalidad](https://depor.com/noticias/test-de-personalidad/), que han ganado popularidad por su capacidad para ofrecer una instantánea de nuestras características psicológicas más distintivas. Dicho esto, te cuento que esta [prueba](https://depor.com/noticias/test-visual/) puede ayudarte a identificar qué clase de persona eres con una simple respuesta de tu parte. Todo lo que tienes que hacer es observar la imagen principal de la nota y contestar qué fue lo primero que viste: un león o un tigre. ¿Te animas a participar? Observa la imagen del [test de personalidad](https://depor.com/noticias/test-de-personalidad/) Mira los resultados del test de personalidad Si viste un león... - Esto quiere decir que eres una persona independiente. Valoras el control en todas las situaciones. La pérdida de este podría llevarte a sentirte desesperado y desorientado. Te comparas con el rey de la selva, manteniendo un estatus que debes proteger con las responsabilidades asociadas. Aunque no te importa la opinión de los demás, es esencial que validen tu posición a través de la honestidad y la astucia. La libertad es crucial para ti, evitando situaciones sin opciones claras o donde no puedes escapar, especialmente cuando estás bajo órdenes en lugar de darlas. Si viste un tigre... - La franqueza del tigre es insuperable, y aquellos que reconocen su figura rechazan la hipocresía. Aunque aprecias la verdad, a veces tu expresión directa puede llevarte a problemas debido a la falta de tacto. Valoras la responsabilidad como un pilar importante, demostrando un compromiso sólido con tus actividades y buscando fortalecer tu crecimiento personal. Destacas en el trabajo en equipo, siendo elogiado por tu proactividad y disposición para explorar nuevas ideas innovadoras.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:34:59.922+02:00",
+    "updated": "2024-01-09T16:33:04.820+02:00"
+  },
+  {
+    "uuid": "b57dc71cfa04151d3f69a6fc3585bbe095ca97e9",
+    "url": "https://finance.sina.com.cn/jjxw/2025-07-17/doc-inffuers0185528.shtml",
+    "ord_in_thread": 0,
+    "author": "北京时间",
+    "published": "2025-07-17T04:50:00Z",
+    "title": "伊拉克一超市突发大火 近50人死亡|伊拉克_新浪财经_新浪网",
+    "text": "当地时间17日凌晨，伊拉克东部瓦西特省省会库特市一大型超市发生火灾。该省省长通过其社交账号表示，火灾已造成 近50人死亡 。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->fire",
+      "Human Interest->human mishap",
+      "Social Issue->social condition",
+      "Social Issue->communities",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-17T08:04:03.768+03:00",
+    "updated": "2025-07-17T05:10:43.000+00:00"
+  },
+  {
+    "uuid": "0398fab77cdb6a7e62751245534a57696a7fad76",
+    "url": "https://www.heraldo.es/noticias/sociedad/2024/05/25/robos-cepillo-iglesias-ermitas-provincia-leon-1736603.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Heraldo de Aragón",
+    "published": "2024-05-25T11:05:00Z",
+    "title": "Dos detenidos por robar el dinero del cepillo de 28 iglesias de la provincia de León",
+    "text": "Dos detenidos por robar el dinero del cepillo de 28 iglesias de la provincia de León En todos los casos, sustraían el dinero de cepillos y lampadarios, los cuales previamente habían forzado, sin llevarse otros objetos de valor que se encontraban en el interior de los templos. La [Guardia Civil](https://www.heraldo.es/tags/instituciones_empresas/guardia_civil.html) ha detenido a dos personas, un hombre y una mujer, como supuestos autores de los delitos de robo con fuerza ocurridos desde mayo de 2023 en el interior de 28 iglesias y ermitas ubicadas en localidades de la provincia de León en las que sustraían el dinero de cepillos y lampadarios. La operación se inició a finales de 2023, al detectar los investigadores la comisión de varios delitos de idéntica naturaleza, todos robos con fuerza en interior de templos religiosos, que compartían el mismo modus operandi, ha informado este sábado la Subdelegación del Gobierno de León en un comunicado. En todos los casos, sustraían el dinero de cepillos y lampadarios, los cuales previamente habían forzado, sin llevarse otros objetos de valor que se encontraban en el interior de los templos. A la vista de los hechos, que habían generado gran alarma social entre los vecinos de las localidades afectadas y, tras la práctica de numerosas diligencias de investigación y otras pesquisas, se determinó que los detenidos se valían del empleo de la fuerza para violentar tanto las puertas de acceso a los templos como los cepillos y lampadarios que se encontraban en los mismos para, posteriormente, sustraer el dinero en efectivo que hallaban en su interior. Además, todos los hechos fueron cometidos en el interior de iglesias ubicadas en pequeñas localidades y en horas –generalmente por las noches– en las que los supuestos autores se aseguraban una baja afluencia de personas para así evitar ser descubiertos. Si bien todos los robos se circunscriben al ámbito geográfico de la provincia de [León](https://www.heraldo.es/tags/lugares/leon.html), los detenidos llegaron a recorrer cientos de kilómetros en una sola noche para cometer los robos en distintas localidades. Los detenidos se habían especializado en la comisión de este tipo de robos y les figura un amplio historial delictivo en los registros policiales. Con las detenciones practicadas se dan por esclarecidos los robos en 28 templos religiosos acontecidos durante los últimos años en la provincia de León, concretamente en las localidades de Castrotierra de la Valduerna, Brimeda, Destriana, Pobladura de Yuso, Ransinde, Villibañe, Mozóndiga (2), Chozas de Arriba (2), Pozuelo del Páramo, Moral de Orbigo, Villarín del Páramo, Cazanuecos (2), La Antigua, Torneros del Bernesga, Val de San Román, Altobar de la Encomienda (2), Navianos de la Vega, La Nora del Río, Quintana del Marco, Genestacio de la Vega (2), Moscas del Páramo (3). Las actuaciones han sido llevadas a cabo por componentes del Área de Delincuencia Patrimonial-Económica de la Unidad Orgánica de Policía Judicial de León. Los detenidos fueron puestos a disposición de los Juzgados de Instrucción de La Bañeza (León). [Regístrate gratis](#) [Iniciar sesión](#)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-05-25T14:41:53.621+03:00",
+    "updated": "2024-05-25T14:41:53.621+03:00"
+  }
+]

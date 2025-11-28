@@ -1,0 +1,526 @@
+[
+  {
+    "uuid": "4cfc8981fba0d50169dcd7ceab3688025687f502",
+    "url": "https://www.zonebourse.com/cours/action/VERISILICON-MICROELECTRON-119082812/actualite/VeriSilicon-lance-l-ISP9000-l-ISP-integre-a-l-IA-de-nouvelle-generation-pour-les-applic-49514281",
+    "ord_in_thread": 0,
+    "author": "Zonebourse",
+    "published": "2025-04-02T22:17:00Z",
+    "title": "VeriSilicon lance l'ISP9000 : l'ISP intégré à l'IA de nouvelle génération pour les applications de vision intelligente | Zonebourse",
+    "text": "VeriSilicon (688521.SH) a dévoilé aujourd’hui sa PI de traitement de signal d’image (ISP) de série ISP9000, une solution ISP intégrée à l’IA de nouvelle génération conçue pour répondre à l’évolution des exigences des applications de vision intelligente. Construite sur une architecture flexible optimisée pour l’IA, l’ISP9000 offre une qualité d’image exceptionnelle, une gestion multi-capteurs à faible latence et une intégration transparente de l’IA, ce qui la rend idéale pour les cas d’utilisation avancés, tels que les machines intelligentes, les caméras de surveillance et les PC d’IA.\nGrâce à ses capacités ISP basées sur l’IA, la PI de série ISP9000 de VeriSilicon offre une qualité d’image supérieure. Elle intègre des algorithmes avancés de réduction du bruit par l’IA (AI NR), combinant la réduction du bruit 2D et 3D multi-échelle avec la réduction du bruit chromatique (CNR) dans le domaine YUV dans une architecture de réduction du bruit multi-domaine. Cela permet de minimiser efficacement le bruit tout en préservant les détails, en particulier dans des conditions de très faible luminosité. La prise en charge du traitement HDR (plage dynamique élevée) à triple exposition et de la compression de la plage dynamique, avec un pipeline de 20 bits, garantit que les scènes à plage dynamique élevée conservent les détails essentiels dans les zones lumineuses et sombres. En outre, les fonctions 3A de l’ISP9000, notamment l’exposition automatique (AE), la mise au point automatique (AF) et la balance des blancs automatique (AWB), prennent en charge jusqu’à 25 régions d’intérêt configurables (ROI), ce qui permet la détection et la reconnaissance d’objets assistées par l’IA. Les utilisateurs peuvent en outre intégrer des bibliothèques 3A tierces, ce qui permet d’adapter les algorithmes 3A aux besoins d’applications spécifiques.\nL’ISP9000 prend en charge les configurations multi-capteurs et exploite les mécanismes de gestion multi-contexte (MCM) et de découpage de trame accélérés par le matériel pour permettre une commutation efficace des flux de données. Cela garantit la stabilité des flux de données multi-capteurs tout en offrant une faible latence et un bon rapport coût-efficacité. Prenant en charge jusqu’à 16 capteurs, l’ISP9000 intègre la PI d’interface vidéo VI200 de VeriSilicon pour une connectivité transparente avec les interfaces MIPI Rx courantes. Son architecture multicœur évolutive prend en charge le traitement haute performance jusqu’à 8K à 30 fps et 4K à 120 fps. Grâce à l’interface FLEXA SBI de VeriSilicon, l’ISP9000 permet une transmission optimisée des données vers les encodeurs vidéo, les unités de traitement des réseaux neuronaux (NPU) ou les processeurs d’affichage, ce qui permet d’optimiser les solutions de sous-systèmes.\nDe plus, l’ISP9000 est équipé d’AcuityPercept de VeriSilicon, un système de réglage automatique de l’ISP basé sur l’IA, afin d’améliorer ses capacités de vision intelligente. Contrairement aux réglages traditionnels axés sur la qualité de l’image perçue par l’homme, AcuityPercept optimise les paramètres ISP pour une meilleure reconnaissance des objets dans le pipeline AI/NPU, en s’adaptant aux algorithmes spécifiques de l’IA et aux exigences de l’application.\n« Alors que l’IA est de plus en plus intégrée dans les appareils dans un large éventail d’applications, et avec les progrès rapides de la robotique, la demande d’ISP de nouvelle génération pour répondre aux exigences évolutives des produits ne cesse de croître », déclare Weijin Dai, directeur de la stratégie, vice-président exécutif et directeur général de la division PI chez VeriSilicon. « En plus d’offrir une qualité d’image élevée et une faible consommation d’énergie, les ISP de nouvelle génération doivent prendre en charge efficacement plusieurs capteurs avec une commutation de contexte rapide et une faible latence, et optimiser la sortie pour les NPU et la vision humaine. Ils doivent également permettre un réglage automatique en conjonction avec les NPU de perception des cibles. L’ISP9000 a été conçu en tenant compte de ces exigences et a été développé en étroite collaboration avec des clients de premier plan. En intégrant la technologie de l’IA, l’ISP9000 permet d’obtenir une qualité d’image exceptionnelle dans des conditions de très faible luminosité, dépassant ainsi les capacités des technologies traditionnelles de vision par ordinateur. »\nÀ propos de VeriSilicon\nVeriSilicon s’engage à fournir à ses clients des services de silicium personnalisés, complets et uniques, basés sur une plateforme, ainsi que des services de licences PI pour semi-conducteurs en tirant parti de sa PI interne de semi-conducteurs. Pour plus d’informations, rendez-vous sur : www.verisilicon.com\nLe texte du communiqué issu d’une traduction ne doit d’aucune manière être considéré comme officiel. La seule version du communiqué qui fasse foi est celle du communiqué dans sa langue d’origine. La traduction devra toujours être confrontée au texte source, qui fera jurisprudence.\nConsultez la version source sur businesswire.com : https://www.businesswire.com/news/home/20250401639375/fr/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->computing and information technology"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.businesswire.com/news/home/20250401639375/fr/",
+      "https://cts.businesswire.com/ct/CT?id=bwnews&sty=20250401639375r1&sid=frzb2&distro=ftp",
+      "https://cts.businesswire.com/ct/CT",
+      "https://businesswire.com/news/home/20250401639375/fr/",
+      "https://www.businesswire.com/news/home/20250401639375/fr",
+      "https://www.cts.businesswire.com/ct/CT?id=bwnews&sty=20250401639375r1&sid=frzb2&distro=ftp"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-04-03T02:35:44.522+03:00",
+    "updated": "2025-04-03T02:35:44.522+03:00"
+  },
+  {
+    "uuid": "f6ea2c1c6a96af66514e245df098f2bdf17f6a7d",
+    "url": "https://en.sggp.org.vn/world-bank-approves-us107-million-to-enhance-inland-waterway-safety-in-vietnam-post110723.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNA",
+    "published": "2024-06-23T02:24:00Z",
+    "title": "World Bank approves US$107 million to enhance inland waterway safety in Vietnam | SGGP English Edition",
+    "text": "The newly approved southern region waterways and logistics corridor development project seeks to increase freight traffic and reduce travel time on the critical east-west and north-south transport corridors. This project will connect key production hubs with Vietnam's major deep-water port, boosting export competitiveness. According to Mariam Sherman, World Bank Country Director for Vietnam, Cambodia, and Laos, waterways of Vietnam's southern region have great potential to be a cheaper, greener, and safer transport mode. This project directly support Vietnam's ambitious goals of enhancing inland waterway transport competitiveness, reducing carbon emissions in the transport sector, and boosting the country’s trade competitiveness. Upgrading the east-west transport corridor will cut the transport distance by approximately 30 per cent between the Mekong Delta's largest port in Can Tho and Vietnam's busiest port in Ho Chi Minh City. Improvements to the north-south transport corridor will directly connect the Mekong Delta and the hinterland with Vietnam's primary deep-water port, facilitating international trade, reducing emissions, and lowering logistics costs. Shifting to inland waterway freight transport is crucial for reducing carbon emissions in Vietnam's transport sector. Road freight, which accounts for about 80 per cent of greenhouse gas emissions in the transport sector, emits six times more carbon than waterway transport. The project will also support the installation of navigation aids and the improvement of sharp bends on the waterway, enhancing safety. The World Bank's 2022 country climate and development report for Vietnam identifies promoting inland waterway transport as one of the most impactful measures to reduce greenhouse gas emissions in the transport sector. The Mekong Delta is a key region for Vietnam, leading the country in agricultural production and aquaculture for both domestic consumption and export.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Economy, Business and Finance"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "mariam sherman",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "world bank",
+          "sentiment": "negative"
+        },
+        {
+          "name": "world bank country",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "vietnam",
+          "sentiment": "none"
+        },
+        {
+          "name": "cambodia",
+          "sentiment": "none"
+        },
+        {
+          "name": "laos",
+          "sentiment": "none"
+        },
+        {
+          "name": "ho chi minh city",
+          "sentiment": "none"
+        },
+        {
+          "name": "mekong delta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-23T17:21:35.174+03:00",
+    "updated": "2024-06-23T17:21:35.174+03:00"
+  },
+  {
+    "uuid": "d0a5c6ab8d42e4f45a20bcfd2b12818eb8e84844",
+    "url": "https://www.elindependiente.com/politica/2024/07/12/sanchez-celebra-la-salida-de-vox-de-las-ccaa-y-reta-al-pp-a-romper-con-las-politicas-aprobadas-con-los-ultras",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alba Asenjo Domínguez",
+    "published": "2024-07-12T00:23:00Z",
+    "title": "Sánchez celebra la salida de Vox de las CCAA y reta al PP a \"romper con las políticas\" aprobadas con los ultras",
+    "text": "\"Hoy es un gran día para España. Hoy España es un país mejor, no puedo ocultar mi alegría y mi felicidad\". Con estas palabras ha celebrado el presidente del Gobierno, Pedro Sánchez, la decisión de Vox de salir de los gobiernos de coalición autonómicos . \"No sé quién se beneficia en términos políticos, pero los beneficiarios netos son la mayoría social de nuestro país\", ha asegurado, insistiendo en que la entrada de Vox en gobiernos autonómicos y con \"carteras importantes\" es \"algo que jamás tuvo que suceder\".\n. @sanchezcastejon celebra la ruptura Vox-PP https://t.co/d48YfowoPZ pic.twitter.com/sdQpZd2WNU\n— Europa Press TV (@europapress_tv) July 11, 2024 El presidente ha comparecido desde Washington al término de la cumbre de la OTAN que esta semana se ha celebrado en la capital estadounidense. Y desde aquí ha mostrado su satisfacción por los avances hacia la inclusión de Ucrania en la organización y por haber mostrado un \"potente mensaje de unidad y cohesión\" a Rusia. Pero también ha entrado en asuntos de política nacional, animando al PP que rompa con Vox en los ayuntamientos donde gobiernan conjuntamente e incluso confirmando que el Ejecutivo ha propuesto al ministro José Luis Escrivá como próximo gobernador del Banco de España. El partido ultra ya ha dicho que limitará la ruptura a las regiones y seguirá con el PP en los 135 ayuntamientos que gobiernan.\nLa OTAN exige a China que deje de apoyar a Rusia: \"No puede contribuir a la mayor guerra en Europa sin que afecte a sus intereses\"\nSánchez ha recordado que la crisis entre ambos partidos procede del \"rechazo\" de estos a la solidaridad con el resto de territorios, y ha advertido de que hay 6.000 menores extranjeros en Canarias. \"Y tenemos que darles una solución\". \"Ser un partido de Gobierno y de Estado exige dar soluciones\", ha asegurado. Para él, lo importante ahora es que el PP apoye la reforma de la ley de Extranjería, esa sería \"la prueba del algodón\" para que el PP se desmarque de Vox.\nCon respecto a si apoyará al PP para que algunos de esos gobiernos autonómicos continúen, el presidente ha puesto una serie de condiciones. \"Ahora dependerá de las políticas que proponga el Gobierno autonómico de turno a la Asamblea, el que cuente con el apoyo o el no apoyo del Partido Socialista. Yo creo que estamos ante dos elementos que me parecen muy importantes y que no conviene olvidar. El primero, que esta estrategia de gobernar con la otra derecha, afortunadamente para los españoles, ha fracasado (...) Y esta es la decisión tan trascendental que debe tomar el Partido Popular. ¿Quiere hacer una oposición de Estado, constructiva, que responda a los problemas que tiene la ciudadanía? ¿O quiere continuar aprobando políticas ultraderechistas como ha aprobado hasta ahora?\", ha reflexionado.\n\"La reflexión que se tiene que hacer el Partido Popular, y a la que yo le animo desde aquí, es a derogar todas estas contrarreformas que ha aprobado con la ultraderecha durante este año en los parlamentos autonómicos y en los gobiernos autonómicos\", le ha retado.\nConfirma que Escrivá ha sido propuesto como gobernador del Banco de España Por otro lado, Sánchez ha confirmado que el PSOE ha propuesto al PP al ministro José Luis Escrivá como próximo gobernador del Banco de España. Preguntado por si supone politizar la institución, ha contestado que \"hay una tradición en muchos en muchos países donde ha habido ministros que han sido gobernadores de sus bancos centrales\". \"Creo que aquí lo importante es si la persona que se proponga para el puesto de gobernador cumple o no con los requisitos y la cualificación que amerita un puesto de esas características, sobre todo en un contexto de tanta incertidumbre económica y geopolítica para los próximos tres años, y yo de José Luis Escrivá tengo la mejor de las opiniones\", ha recalcado.\nEste jueves se ha conocido que el Ejecutivo habría puesto encima de la mesa el nombre de Escrivá , que contaría, por el momento, con la oposición de la cúpula del PP. Escrivá dejó de ser ministro de Seguridad Social para pasar a encabezar el recién creado Ministerio de Transformación Digital en noviembre, al que se le sumó la cartera de Función Pública unos meses más tarde. Pero desde el primer momento sonó como uno de los posibles nombres para reemplazar al ya exgobernador Pablo Hernández de Cos cuando este terminase su mandato en mayo. Ahora el Gobierno estaría buscando pactar con el PP un sustituto, aunque viene insistiendo en que no tiene prisa porque la subgobernadora, Margarita Delgado, puede ejercer de gobernadora en funciones hasta septiembre.\nVox limita la ruptura a las regiones y seguirá con el PP en sus 135 ayuntamientos\nHabemus ruptura de gobiernos regionales. Durante dos semanas se prolongaron los rifirrafes públicos entre Vox y PP a cuenta de […]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://twitter.com/sanchezcastejon?ref_src=twsrc%5Etfw",
+      "https://t.co/d48YfowoPZ",
+      "https://t.co/sdQpZd2WNU",
+      "https://twitter.com/europapress_tv/status/1811538146468782420?ref_src=twsrc%5Etfw",
+      "https://www.t.co/d48YfowoPZ",
+      "https://www.t.co/sdQpZd2WNU",
+      "https://www.twitter.com/europapress_tv/status/1811538146468782420?ref_src=twsrc%5Etfw",
+      "https://twitter.com/europapress_tv/status/1811538146468782420",
+      "https://twitter.com/sanchezcastejon",
+      "https://www.twitter.com/sanchezcastejon?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-12T04:21:44.490+03:00",
+    "updated": "2024-07-12T04:21:44.490+03:00"
+  },
+  {
+    "uuid": "6a2a21bbb06cbf833646fda7219bad71d2443c6e",
+    "url": "https://abc7.com/nikki-haley-civil-war-comments-slavery/14235022/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ABCNews",
+    "published": "2023-12-28T21:32:00Z",
+    "title": "Nikki Haley expands on Civil War comment after she did not cite slavery as a cause for the war",
+    "text": "The questioner told Haley it was \"astonishing\" she gave an answer that did not mention slavery.\nRepublican presidential candidate Nikki Haley on Thursday addressed the backlash to her\n[Wednesday night comments](/nikki-haley-doesnt-cite-slavery-as-civil-war-cause-after-question-/14233575/) about what she thought was the cause of the American Civil War, during which she notably did not cite slavery as a cause, sparking criticism.\n\"Of course, the Civil War was about slavery,\" said Haley at a Thursday town hall in New Hampshire. \"We know that. That's unquestioned. Always the case. We know the Civil War was about slavery.\"\nHaley continued to elaborate, telling the crowd that the war was about more than that.\n\"It was about the freedoms of every individual,\" she said. \"It was about the role of the government. For 80 years, America had the decision and the moral question of whether slavery was a good thing and whether government economically, culturally, any other reasons, had a role to play in. By the grace of God, we did the right thing and slavery is no more. But the lessons of what the bigger issue with the Civil War is that let's not forget what came out of that, which is government's role, individual liberties, freedom for every single person, freedom of speech, freedom of religion, freedom to do and be anything you want to be without anyone in government getting in our way.\"\nHaley said that she believes everyone deserves to be a free individual\nHer comments were prompted by an\n[audience question](nikki-haley-doesnt-cite-slavery-as-civil-war-cause-after-question-/14233575/) about what Haley thought the war was about.\nThe Republican candidate first turned the question around on the person who posed it.\n\"What do you think the cause of the Civil War was?\" she asked, to which the questioner responded by saying, \"I'm not running for president.\"\nHaley then stated: \"I think it always comes down to the role of government and what the rights of the people are. And we will always stand by the fact that I think the government was intended to secure the rights and freedoms of the people,\" Haley said. \"It was never meant to be all things to all people. Government doesn't need to tell you how to live your life. They don't need to tell you what you can and can't do. They don't need to be a part of your life. They need to make sure that you have freedom.\"\nThe questioner told Haley it was \"astonishing\" she gave an answer that did not mention slavery.\n\"What do you want me to say about slavery?\" she responded before pivoting and asking for the next question.\nIn a radio interview with The Pulse of NH on Thursday, she claimed the questioner was \"definitely a Democrat plant.\"\n\"That's why I said: 'What does it mean to you?' And if you notice, he didn't answer anything,\" she said.\nCritics accused Haley of refusing to mention slavery, saying her description of the Civil War is whitewashing U.S. history.\n\"Haley's refusal to admit that the Civil War was rooted in slavery last night in Berlin is just the latest of her shameful attempts to whitewash our country's history,\" said New Hampshire Democratic Party Chair Ray Buckley. \"From defending the Confederate flag and leaders to equating Black History Month with Confederate History Month, Haley's record bowing to the extreme fringes of the MAGA base speaks volumes and is yet another reason why New Hampshire voters will reject her next year.\"\nPresident Joe Biden responded to Haley's comments on X, formerly known as Twitter, stating simply: \"It was about slavery.\"\nA senior Biden adviser expanded on the comment to ABC News.\n\"It doesn't take a PhD to understand that slavery was the central cause of the civil war, but instead of telling it like it is, the entire MAGA field from Donald Trump on down are pandering to the most extreme fringe of their base. Minimize slavery, paraphrase HITLER, punish women and doctors - quite the record heading into the general election that will be the most diverse in history,\" the adviser said.\nAs a former South Carolina governor, Haley has long been under scrutiny for her views of the Confederacy's place in American history.\nOn the campaign trail, she has repeatedly invoked the memory of her 2015 calls for the removal of the Confederate flag from the South Carolina State House grounds. The call followed a racially motivated mass shooting at a Charleston church that left nine Black people dead.\n\"For many people in our state, the flag stands for traditions that are noble: traditions of history, of heritage, of ancestry,\" said Haley in a speech calling for its removal. She later continued, \"At the same time, for many others in South Carolina, the flag is a deeply offensive symbol of a brutally oppressive past.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "haley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nikki haley",
+          "sentiment": "negative"
+        },
+        {
+          "name": "repu",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "new hampshire",
+          "sentiment": "none"
+        },
+        {
+          "name": "america",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:02:38.131+02:00",
+    "updated": "2023-12-29T00:02:38.131+02:00"
+  },
+  {
+    "uuid": "73d75af51b78afd7a9f7264012e72fc4ce349ee0",
+    "url": "https://www.thestar.com.my/starpicks/2025/03/13/guardians-of-borneo-building-harmony-between-humans-and-wildlife",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online",
+    "published": "2025-03-13T01:50:36Z",
+    "title": "Guardians of Borneo building harmony between humans and wildlife | The Star",
+    "text": "MPOGCF, through the Sabah Wildlife Department Wildlife Rescue Unit, is ensuring the future of Borneo’s cherished wildlife\nBEAMS of sunlight streamed through thick tree canopies, casting flecks of gold on the forest floor as Jibius Dausip made his way deeper into the dense Borneo rainforest, accompanied by a team of wildlife rangers from the Sabah Wildlife Department Wildlife Rescue Unit (SWD WRU).\nThey were on a mission, carrying out their daily routine—checking the perimeter for poacher traps, assessing the condition of the wildlife, and reporting anything out of the ordinary, among others.\nThe air was thick with the familiar, humid warmth of Sabah, and the steady rhythm of the jungle was already in full swing—birds calling, leaves rustling, insects buzzing and the occasional chatter of primates.\nAs an expert on Borneo elephants, Jibius had learnt to read the jungle like a book—interpreting its sounds and signs, knowing that one wrong move could change everything. His keen sense felt a shift in the wind—something didn’t feel right.\nHe grew wary and came to a halt, his boots sinking slightly into the moist earth. Suddenly, the sharp crack of breaking branches and a loud trumpet shattered the calmness of the forest. A deep, rumbling growl, laced with aggression, followed, and a massive body with furiously flapping ears crashed through the trees.\nWithout missing a beat, Jibius and his team began to backtrack quickly and deliberately, all while assessing the agitated elephant—it looked like it was hurt. They took the necessary steps to temporarily sedate the powerful creature to check for signs of injury, treat, transport and rehabilitate it.\nThis is just one of the many dangerous situations these wildlife rangers, rehabilitators, conservationists, researchers, and educators face on a daily basis.\nA team of WRU rangers around a Pygmy Elephant at Sepilok, Sabah.\nOrdinary people, extraordinary deeds\nDespite the risks to their safety, Jibius and other dedicated wildlife rescuers continue to confront the dangers of the jungle. Driven by a deep passion to protect Borneo’s unique biodiversity, they face numerous challenges and work tirelessly to preserve the island’s fragile ecosystems.\nFrom navigating treacherous terrain and rescuing animals, to treating and doing everything in between for critically endangered species such as the Bornean orangutan, pygmy elephant, sun bear, proboscis monkey and many more they ensure these creatures have a fighting chance at survival and avoiding extinction.\nAs a Malaysian Palm Oil Green Conservation Foundation (MPOGCF) Borneo elephant expert, Jibius expressed his desire to see sustainable practices become the norm, where both humans and wildlife can coexist in harmony.\nHe believes that conservation is not just about saving species, but about fostering a relationship in which nature and human activity can thrive together, ensuring that future generations inherit a balanced and flourishing ecosystem.\n“Pollution and climate change, driven by human activities such as illegal logging, have severely degraded wildlife habitats, destroying and fragmenting ecosystems, and placing species unique to Borneo at great risk.\n“Rescuing and protecting wildlife is vital for preserving the delicate balance of our ecosystems. Every species plays a unique role, contributing to the health and stability of the environment.\n“When wildlife is endangered or displaced, it disrupts this balance, affecting everything from plant pollination to predator-prey relationships. Protecting wildlife helps safeguard biodiversity, which is essential for our survival, providing resources like food, medicine, and clean water,” said Jibius, who is proud to play a role in conservation efforts with the SWD WRU.\nA Borneo pygmy elephant calf named Joe being cared for by SWD WRU staff Augustine David at the Lok Kawi zoo in Kota Kinabalu after it was brought back from Gunung Rara Forest Reserve where his mother and nine other elephants were found dead for suspected poisoning.\nSince 2010 to 2020, SWD’s WRU has rescued and translocated:\n> 314 Bornean elephant adults and calves,\n> 61 Bornean orang-utans adults and a baby,\n> 39 proboscis monkeys,\n> 144 estuarine crocodiles,\n> 19 Malayan sun bears,\n> 2698 long tailed and pig tailed macaques,\n> 43 sambar deers,\n> 16 gibbons,\n> 4 clouded leopard,\n> 77 marine turtles,\n> 43 pangolins.\nSince 2021, the WRU has received financial support from the MPOGCF, highlighting the ongoing commitment of the Malaysian palm oil industry to preserving Sabah’s biodiversity.\nThe unsung heroes\nEstablished in 2010, SWD WRU is dedicated to rescuing and rehabilitating wildlife in distress. Their work focuses on animals that are injured, displaced, or caught in human-wildlife conflict.\nWhen wildlife is found in dangerous situations—such as elephants straying into villages or orangutans stranded in deforested areas—the WRU responds promptly, rescuing, treating, and relocating them to safer habitats, often within wildlife reserves.\nThe WRU provides medical treatment and rehabilitation to injured or sick animals, including endangered species like the Bornean pygmy elephant and orangutans. Once fully recovered, these animals are released back into their natural habitats.\nThe unit also contributes to wildlife conservation through research and education. By gathering data on local wildlife populations, the WRU helps inform effective conservation strategies. Public education initiatives are also a key part of their mission, raising awareness about the importance of protecting wildlife and the environment.\nSince 2021, the WRU has received financial support from the MPOGCF, highlighting the ongoing commitment of the Malaysian palm oil industry to preserving Sabah’s biodiversity.\nThe foundation’s efforts include a variety of initiatives such as the Guardians of the Wildlife Programme, the Borneo Elephant Sanctuary (BES), the Malayan Tiger Conservation Programme, and many more. Through these efforts, funded by MPOGCF, the WRU plays a vital role in safeguarding the region’s wildlife and promoting coexistence between humans and animals.\nMPOGCF conservation and sustainability manager Sahdan Kassim stated that the WRU's efforts in relocating wildlife will mitigate the impact of conflicts on plantations while simultaneously aiding in the conservation and protection of wildlife.\n\"While relocating wildlife is one solution, a deeper understanding of the movements of animals, such as elephants, is essential,\" he said.\nMPOGCF general manager Hairulazim Mahmud said Guardians of the Wildlife Programme is dedicated to protecting wildlife in Sabah. In light of the growing threats to both animals and their habitats, this initiative seeks to make a substantial impact through targeted conservation efforts and community involvement.\n\"The WRU rangers are vital to the programme's success. They play a key role in protecting wildlife and promoting conservation efforts. Their hands-on work helps build up the positive relationship between nature and local communities.\n\"They use their expertise to rescue and care for the injured and orphaned animals. We ensure that both the wildlife and the agricultural areas can thrive together. Their dedication truly makes a difference in our conservation efforts,\" said Hairulazim.\nJibius said: “My hope is that MPOGCF will continue to contribute funds to SWD WRU and for this unit to be able to give back by providing their energy to the wildlife department as well as the local community.”\nUltimately, we must recognise the value of all living beings—human, elephant, orangutan, or otherwise—because we live in a multi-biodiversity world where every species plays a vital role.\nThe efforts of individuals like Jibius and the SWD WRU serve as a wake-up call, urging us to realise that protecting non-human life is essential for the health of our ecosystems. Every life is worth saving, and it is our responsibility to act before it's too late.\nTo learn more about wildlife conservation and preservation efforts and programmes, visit www.mpogcf.org\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment"
+    ],
+    "topics": [
+      "Environment->ecosystem",
+      "Environment->conservation"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.youtube.com/embed/LeX8Y_lfnr0?si=1LMMHAEXS5mme-UD",
+      "http://www.mpogcf.org",
+      "https://www.youtube.com/embed/LeX8Y_lfnr0",
+      "https://youtube.com/embed/LeX8Y_lfnr0?si=1LMMHAEXS5mme-UD",
+      "http://mpogcf.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T03:50:36.014+02:00",
+    "updated": "2025-03-13T03:50:36.014+02:00"
+  },
+  {
+    "uuid": "0ae79698de48ac30113937567c116a7288d8a551",
+    "url": "https://www.reviewjournal.com/local/local-nevada/nevada-to-take-colorado-river-water-cuts-for-4th-straight-year-3129378",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alan Halaly",
+    "published": "2024-08-15T00:00:00Z",
+    "title": "Nevada taking water cuts triggered by Lake Mead projections | Local Nevada | Local",
+    "text": "Nevada will face cuts in how much water it can use from the Colorado River for the fourth year in a row, triggered by new Bureau of Reclamation projections for Lake Mead, the country’s biggest reservoir.\nWhile the Colorado River Basin has experienced above-normal snowfall for two consecutive years, it’s not been enough to best Western drought that’s persisted over two decades. And water managers are bracing for further potential cuts if dry years fueled by climate change and La Niña conditions are to follow.\nIn 2022, Lake Mead’s water level was the lowest it’s ever been . Today, it stands nearly 22 feet higher, but it’s expected to dip to only 13 feet above the all-time low in the next two years, according to projections released Thursday.\n“It’s not where we were two years ago,” Reclamation Commissioner Camille Calimlim Touton told reporters at an event in Las Vegas this week . “We’re in a slightly better place, and we’ll continue to work with our partners to find the right trajectory moving forward.”\nIs the Silver State prepared?\nUnder what’s known as a “Tier 1” shortage, Nevada will continue to take a 21,000-acre-foot, or 6-billion-gallon, reduction in what it’s allowed to draw from the river, or about 7 percent of its total year-to-year allotment. The state is afforded the smallest amount of water of all seven states that rely on the river.\nIt’s an improvement from 2022, when Lake Mead levels triggered a Tier 2 shortage, reducing available water for Nevada by an additional 4,000 acre-feet.\nColby Pellegrino, deputy general manager of the Southern Nevada Water Authority, said Nevada’s water managers have long been preparing for eventual cuts. Water use in Nevada was down in 2023 to 188,000 acre-feet , compared with the state’s total allotment of 300,000 acre-feet.\n“We’re absolutely prepared to take the deepest reduction under existing law today,” Pellegrino told the Las Vegas Review-Journal on Thursday. “And then some.”\nAn acre-foot of water is enough to sustain two single-family households for a year.\nLas Vegas has emerged as a bastion of water conservation for the West, implementing region-wide efforts to do what it can to curb the Colorado River’s woes in the future. Almost every drop of water used indoors is recycled and sent back to Lake Mead, and state law prompted the removal of “nonfunctional” grass by the end of 2026. Irrigation remains the biggest municipal use of river water.\nAcross the Lower Basin — Nevada, California and Arizona — states have committed to conserving 3 million acre-feet of water by the end of 2026, most recently propped up by a program finalized this week to pay California farmers to avoid using their senior water rights in the Imperial Valley.\nThe lake projection released Thursday takes into account that conservation in the Lower Basin, according to the Reclamation memo that accompanies it.\nDryer future ahead, potential for trigger change\nKyle Roerink, executive director of the Great Basin Water Network, said the projection doesn’t present a rosy picture for the future of the basin.\nThe conservation that has taken place is noteworthy but not near enough, Roerink said. In his view, there should be a moratorium across all the Colorado River states on any new water development, such as dams or reservoirs.\n“We have not yet come to grips with how we handle a diminishing river,” Roerink said. “We have a lot of difficult decision-making left.”\nWet years in the West are often followed by dry ones, especially during La Niña conditions. That could throw the Colorado River out of balance even further.\nThe way cuts are triggered in the future could hinge on an ongoing battle between the Lower Basin and Upper Basin states as to how to establish guidelines to operate the river going forward.\nThe Lower Basin has proposed that triggers for a shortage should be based on more than just Lake Mead, considering the entire system’s storage capacity.\nPellegrino said both proposals agree that sweeping reductions in water use, up to 4 million acre-feet, may become necessary.\n“There is a huge jump in our understanding of what these extended droughts could look like,” she said. “We need to be prepared to face a much different magnitude of shortage going forward.”\nContact Alan Halaly at ahalaly@reviewjournal.com. Follow @AlanHalaly on X.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Environment"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.usbr.gov/lc/region/g4000/24mo.pdf",
+      "https://x.com/@AlanHalaly",
+      "https://usbr.gov/lc/region/g4000/24mo.pdf",
+      "https://www.x.com/@AlanHalaly"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "lake powell",
+          "sentiment": "negative"
+        },
+        {
+          "name": "lake mead",
+          "sentiment": "none"
+        },
+        {
+          "name": "camille calimlim touton",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "la niña",
+          "sentiment": "none"
+        },
+        {
+          "name": "bureau of reclamation",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "lake mead",
+          "sentiment": "none"
+        },
+        {
+          "name": "las vegas",
+          "sentiment": "none"
+        },
+        {
+          "name": "colorado river basin",
+          "sentiment": "none"
+        },
+        {
+          "name": "nevada",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": null,
+    "rating": null,
+    "crawled": "2024-08-16T01:07:04.436+03:00",
+    "updated": "2024-08-16T03:07:43.786+03:00"
+  },
+  {
+    "uuid": "8a4ee4643dae3ff343ae84d6511a8397381ba7c8",
+    "url": "https://revistaforum.com.br/global/2024/10/24/cupula-do-brics-quem-autor-citado-por-xi-jinping-que-enfurece-putin-168011.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iara Vidal",
+    "published": "2024-10-24T19:53:00Z",
+    "title": "Cúpula do BRICS: Quem é o autor citado por Xi Jinping que enfurece Putin",
+    "text": "Em discurso durante a 16ª Cúpula do BRICS, realizada em Kazan, na Rússia, entre os dias 22 e 24 de outubro, o presidente da [China](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/china-384.html&ved=2ahUKEwiGueWj8qeJAxVEq5UCHSbFGaAQFnoECBUQAQ&usg=AOvVaw2KZeE3J-1uFTPp71z1HOjy), Xi Jinping, observou que o mundo vivencia um período de turbulência e transformação que nos confronta com escolhas cruciais que vão moldar o nosso futuro. LEIA TAMBÉM: [Cúpula do BRICS: Xi defende desenvolvimento de alta qualidade para maior cooperação](https://revistaforum.com.br/global/chinaemfoco/2024/10/24/cupula-do-brics-xi-defende-desenvolvimento-de-alta-qualidade-para-maior-cooperao-167980.html) Te podría interesar Na fala, proferida na quarta-feira (23), [Xi Jinping](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/xi-jinping-14713.html&ved=2ahUKEwjCy9Ot8qeJAxVoq5UCHbdlDvQQFnoECBsQAQ&usg=AOvVaw0uVPqq9XR_bdIxX6QPPAN7) questiona se podemos deixar o mundo descer ao abismo da desordem e caos, ou devemos nos esforçar para conduzi-lo de volta ao caminho da paz e desenvolvimento? \"Isso me lembra de um romance escrito por Nikolay Chernyshevsky intitulado 'O que fazer?'. A determinação inabalável e o impulso entusiasmado da protagonista são exatamente a força de vontade que precisamos hoje\", comentou. Quem não deve ter ficado muito feliz com essa referência foi o anfitrião do evento, o presidente russo [Vladimir Putin](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/vladimir-putin-434.html&ved=2ahUKEwjDs-228qeJAxWJupUCHVY7Cf0QFnoECB0QAQ&usg=AOvVaw3DcuKUcEnCioV7pVe8cfSx). As ideias do autor da obra citada por Xi influenciaram diretamente muitos dos futuros líderes revolucionários, incluindo Vladimir Lenin, que o considerava uma das principais influências em sua formação política. Lenin chegou a nomear um de seus ensaios mais importantes, \"O Que Fazer?\" (1902), em homenagem ao romance recomendado pelo presidente chinês. Lenin e a Guerra da Ucrânia Putin critica Lenin por ter permitido a criação da República Socialista Soviética da Ucrânia em 1917, com base na ideia de que o território ucraniano, que incluía regiões historicamente russas, foi artificialmente separado da [Rússia](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/russia-352.html&ved=2ahUKEwiUxdzX8qeJAxVgq5UCHeHqBKEQFnoECBkQAQ&usg=AOvVaw2UMznWUDAJDZA-Lc62ZHbY). Segundo Putin, Lenin cometeu um erro ao dar à [Ucrânia](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/ucrnia-11107.html&ved=2ahUKEwiwkqnj8qeJAxXjp5UCHWzmC9YQFnoECBIQAQ&usg=AOvVaw3tiSoj_9E7y2afwThEw-Ih) status de república dentro da União Soviética, com autonomia política, jurídica e cultural, algo que facilitou a separação da Ucrânia após o colapso da [URSS](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/urss-7561.html&ved=2ahUKEwiTq6nr8qeJAxWYqJUCHR7RAz4QFnoECBIQAQ&usg=AOvVaw2mGuSmoDpJNgV61L0AirdO). O presidente russo argumenta que partes significativas do que hoje é a Ucrânia, como as regiões de Donetsk, Luhansk e Crimeia, têm raízes russas profundas e foram injustamente transferidas para a Ucrânia sob as políticas de Lenin. Em diversos discursos, Putin afirmou que as fronteiras atuais da Ucrânia são uma criação artificial das políticas bolcheviques de Lenin e seus sucessores, como uma concessão para manter a coesão do novo Estado soviético. Ele argumenta que essas fronteiras ignoraram as realidades históricas e étnicas das populações dessas regiões, especialmente em áreas onde predominam russos étnicos ou falantes de russo. Romance 'O que fazer?' O romance de Chernyshevsky segue a história de Vera Pavlovna, uma jovem que foge de sua família repressiva em busca de liberdade e emancipação. Para escapar de um casamento arranjado, ela se casa com um estudante chamado Lopukhov, com quem compartilha valores progressistas. A partir dessa união, Vera começa a desenvolver sua independência e inicia uma oficina de costura cooperativa, um símbolo de autossuficiência e liberdade para as mulheres trabalhadoras. Ao longo da história, o marido de Vera, Lopukhov, permite que ela explore seus próprios desejos e se apaixone por seu amigo, Kirsanov. O relacionamento entre eles é retratado de forma não convencional, sem ciúmes ou possessividade, refletindo os ideais utópicos de igualdade e liberdade pessoal que Chernyshevsky promovia. O romance é conhecido por suas ideias políticas e sociais radicais, promovendo o socialismo utópico, a emancipação das mulheres e a reforma social. Uma das partes mais famosas do livro é o \"sonho de Vera\", no qual ela visualiza um futuro ideal, com uma sociedade livre da opressão de classe e de gênero. Quem foi Nikolay Chernyshevsky Nikolay Chernyshevsky (1828–1889) foi um filósofo, crítico literário, economista e escritor russo, amplamente conhecido por sua influência no movimento revolucionário russo e por seu papel como um dos principais teóricos do socialismo utópico na Rússia. Ele é mais famoso pela obra citada por Xi, escrita em 1863, que inspirou gerações de revolucionários, incluindo Lenin. Nascido em Saratov, na Rússia, Chernyshevsky estudou na Universidade de São Petersburgo, onde foi profundamente influenciado pelas ideias de filósofos socialistas europeus como Charles Fourier e Pierre-Joseph Proudhon, além dos ideais democráticos do Iluminismo. Ele tornou-se um dos principais críticos do regime czarista e um defensor das ideias de reforma social, inspirando-se no socialismo utópico para propor uma nova ordem social baseada na igualdade e na abolição das classes. Como crítico literário e editor da revista radical Sovremennik (O Contemporâneo), Chernyshevsky usou sua posição para disseminar ideias revolucionárias e criticar a opressão política e social na Rússia. Ele acreditava no poder transformador da literatura e da educação como meios de libertar o povo russo. Seu trabalho defendia a emancipação dos camponeses, o fim da servidão e a necessidade de mudanças estruturais radicais na sociedade russa. Escritos na prisão Em 1862, Chernyshevsky foi preso pelo regime czarista devido às suas atividades políticas e escritos que incitavam à revolução. Após ser condenado, ele passou 19 anos em uma prisão na Sibéria, seguido por mais seis anos de exílio forçado. O romance \"O Que Fazer?\" foi escrito enquanto Chernyshevsky estava preso na Fortaleza de Pedro e Paulo, em São Petersburgo, acusado de atividades subversivas contra o regime czarista. Na obra, ele descreve a visão de uma sociedade futura socialista e apresenta personagens idealizados, como Rakhmetov, que se tornariam modelos de comportamento para os revolucionários russos. O livro teve um impacto profundo na juventude revolucionária russa e foi considerado um manual de ativismo político, defendendo a criação de uma nova sociedade justa e igualitária. Siga os perfis da [Revista Fórum](https://bsky.app/profile/revistaforum.bsky.social) e da jornalista [Iara Vidal ](https://bsky.app/profile/iaravidal.bsky.social)no Bluesky",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/urss-7561.html&ved=2ahUKEwiTq6nr8qeJAxWYqJUCHR7RAz4QFnoECBIQAQ&usg=AOvVaw2mGuSmoDpJNgV61L0AirdO).",
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/china-384.html&ved=2ahUKEwiGueWj8qeJAxVEq5UCHSbFGaAQFnoECBUQAQ&usg=AOvVaw2KZeE3J-1uFTPp71z1HOjy),",
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/russia-352.html&ved=2ahUKEwiUxdzX8qeJAxVgq5UCHeHqBKEQFnoECBkQAQ&usg=AOvVaw2UMznWUDAJDZA-Lc62ZHbY).",
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/xi-jinping-14713.html&ved=2ahUKEwjCy9Ot8qeJAxVoq5UCHbdlDvQQFnoECBsQAQ&usg=AOvVaw0uVPqq9XR_bdIxX6QPPAN7)",
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/vladimir-putin-434.html&ved=2ahUKEwjDs-228qeJAxWJupUCHVY7Cf0QFnoECB0QAQ&usg=AOvVaw3DcuKUcEnCioV7pVe8cfSx).",
+      "https://bsky.app/profile/iaravidal.bsky.social)no",
+      "https://bsky.app/profile/revistaforum.bsky.social)",
+      "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/ucrnia-11107.html&ved=2ahUKEwiwkqnj8qeJAxXjp5UCHWzmC9YQFnoECBIQAQ&usg=AOvVaw3tiSoj_9E7y2afwThEw-Ih)",
+      "https://www.google.com/url",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/ucrnia-11107.html&ved=2ahUKEwiwkqnj8qeJAxXjp5UCHWzmC9YQFnoECBIQAQ&usg=AOvVaw3tiSoj_9E7y2afwThEw-Ih)",
+      "https://www.bsky.app/profile/iaravidal.bsky.social)no",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/xi-jinping-14713.html&ved=2ahUKEwjCy9Ot8qeJAxVoq5UCHbdlDvQQFnoECBsQAQ&usg=AOvVaw0uVPqq9XR_bdIxX6QPPAN7)",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/russia-352.html&ved=2ahUKEwiUxdzX8qeJAxVgq5UCHeHqBKEQFnoECBkQAQ&usg=AOvVaw2UMznWUDAJDZA-Lc62ZHbY).",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/vladimir-putin-434.html&ved=2ahUKEwjDs-228qeJAxWJupUCHVY7Cf0QFnoECB0QAQ&usg=AOvVaw3DcuKUcEnCioV7pVe8cfSx).",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/china-384.html&ved=2ahUKEwiGueWj8qeJAxVEq5UCHSbFGaAQFnoECBUQAQ&usg=AOvVaw2KZeE3J-1uFTPp71z1HOjy),",
+      "https://www.bsky.app/profile/revistaforum.bsky.social)",
+      "https://google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://revistaforum.com.br/temas/urss-7561.html&ved=2ahUKEwiTq6nr8qeJAxWYqJUCHR7RAz4QFnoECBIQAQ&usg=AOvVaw2mGuSmoDpJNgV61L0AirdO)."
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-25T00:38:17.978+03:00",
+    "updated": "2024-10-25T00:38:17.978+03:00"
+  },
+  {
+    "uuid": "bfeb5a2d1bfc677fd55649eb6836b157420c113e",
+    "url": "https://www.nsctotal.com.br/noticias/video-capela-mortuaria-de-igreja-tombada-em-sc-pega-fogo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kássia Salles",
+    "published": "2023-12-28T22:11:00Z",
+    "title": "VÍDEO: Capela mortuária de igreja tombada em SC pega fogo - NSC Total",
+    "text": "A capela mortuária ao lado da Igreja de São Miguel Arcanjo, em Biguaçu, Grande Florianópolis, pegou fogo na tarde desta quinta-feira (28). O Corpo de Bombeiros Militar de Santa Catarina atua no combate às chamas.\nContinua depois da publicidade\nReceba notícias de Santa Catarina pelo WhatsApp\nSegundo os bombeiros, um caminhão de combate a incêndio, um caminhão tanque e uma viatura de resgate foram deslocados para a ocorrência. Não há informações sobre os feridos ou sobre a causa do incêndio.\nVeja o vídeo do incêndio Igreja tem mais de 200 anos e é tombada A Igreja de São Miguel Arcanjo fica às margens da BR-101, em Biguaçu, e foi inaugurada em 1751. O sino dela foi doado em 1845 pelo imperador Dom Pedro II durante sua visita a Santa Catarina. O item foi furtado em junho deste ano , mas foi encontrado pela polícia.\nLeia mais Mortes por dengue batem recorde em SC e no Brasil em 2023\nContinua depois da publicidade\nAssalto a boate em SC tem mulher algemada, agressões e “limpa” de joias\nDuplicação da BR-470 chega a 80% e vídeo mostra antes e depois da obra; assista",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident",
+      "Religion and Belief"
+    ],
+    "external_links": [
+      "https://www.dailymotion.com/embed/video/x8qyvl2",
+      "https://dailymotion.com/embed/video/x8qyvl2"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:26:42.633+02:00",
+    "updated": "2023-12-29T00:26:42.633+02:00"
+  },
+  {
+    "uuid": "de28837a5e19c7d49b999db0b485e8f66dac11b6",
+    "url": "https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+    "ord_in_thread": 0,
+    "author": "MarketBeat",
+    "published": "2025-04-16T21:55:00Z",
+    "title": "Atlanta Braves Holdings, Inc. (NASDAQ:BATRA) Major Shareholder Purchases $1,849,984.40 in Stock",
+    "text": "Atlanta Braves Holdings, Inc. (NASDAQ:BATRA) Major Shareholder Purchases $1,849,984.40 in Stock Written by MarketBeat April 16, 2025 Share Link copied to clipboard. Remove Ads Atlanta Braves Holdings, Inc. ( NASDAQ:BATRA - Get Free Report ) major shareholder John C. Malone acquired 44,258 shares of the firm's stock in a transaction on Thursday, April 10th. The shares were acquired at an average price of $41.80 per share, with a total value of $1,849,984.40. Following the completion of the transaction, the insider now directly owns 330,870 shares in the company, valued at approximately $13,830,366. This trade represents a 15.44 % increase in their position. The purchase was disclosed in a legal filing with the Securities & Exchange Commission, which is available at the SEC website . Major shareholders that own 10% or more of a company's shares are required to disclose their sales and purchases with the SEC. Get Atlanta Braves alerts: Sign Up Atlanta Braves Stock Down 0.1 %\nShares of NASDAQ:BATRA traded down $0.06 during midday trading on Monday, hitting $42.07. 57,987 shares of the stock were exchanged, compared to its average volume of 41,463. The company has a market capitalization of $2.60 billion, a PE ratio of -57.63 and a beta of 0.61. Atlanta Braves Holdings, Inc. has a 52-week low of $38.67 and a 52-week high of $46.65. The company has a debt-to-equity ratio of 1.12, a quick ratio of 0.70 and a current ratio of 0.70. The business's fifty day simple moving average is $43.13 and its two-hundred day simple moving average is $42.23.\nAtlanta Braves ( NASDAQ:BATRA - Get Free Report ) last posted its quarterly earnings results on Wednesday, February 26th. The financial services provider reported ($0.31) earnings per share for the quarter, topping analysts' consensus estimates of ($0.78) by $0.47. The company had revenue of $52.12 million during the quarter, compared to the consensus estimate of $48.20 million. Atlanta Braves had a negative return on equity of 8.48% and a negative net margin of 6.56%. As a group, research analysts predict that Atlanta Braves Holdings, Inc. will post -0.98 earnings per share for the current fiscal year. Analyst Ratings Changes\nSeparately, Benchmark restated a \"buy\" rating and set a $60.00 price target on shares of Atlanta Braves in a report on Thursday, February 27th.\nRemove Ads Read Our Latest Research Report on BATRA Institutional Trading of Atlanta Braves\nInstitutional investors have recently added to or reduced their stakes in the business. Cutter & CO Brokerage Inc. acquired a new stake in shares of Atlanta Braves in the 4th quarter valued at $390,000. Barclays PLC increased its position in Atlanta Braves by 376.1% during the third quarter. Barclays PLC now owns 16,172 shares of the financial services provider's stock worth $681,000 after buying an additional 12,775 shares during the last quarter. Raymond James Financial Inc. bought a new position in Atlanta Braves during the fourth quarter valued at about $394,000. Proficio Capital Partners LLC acquired a new stake in shares of Atlanta Braves in the fourth quarter worth about $901,000. Finally, Geode Capital Management LLC boosted its stake in shares of Atlanta Braves by 1.4% during the 3rd quarter. Geode Capital Management LLC now owns 280,331 shares of the financial services provider's stock worth $11,817,000 after acquiring an additional 3,798 shares in the last quarter. 12.31% of the stock is currently owned by institutional investors and hedge funds. About Atlanta Braves ( Get Free Report )\nAtlanta Braves Holdings, Inc owns and operates the Atlanta Braves Major league baseball club. It also operates mixed-use development project, including retail, office, hotel, and entertainment projects. The company was incorporated in 2022 and is based in Englewood, Colorado. Further Reading\nThis instant news alert was generated by narrative science technology and financial data from MarketBeat in order to provide readers with the fastest and most accurate reporting. This story was reviewed by MarketBeat's editorial team prior to publication. Please send any questions or comments about this story to contact@marketbeat.com.\nShould You Invest $1,000 in Atlanta Braves Right Now? Before you consider Atlanta Braves, you'll want to hear this.\nMarketBeat keeps track of Wall Street's top-rated and best performing research analysts and the stocks they recommend to their clients on a daily basis. MarketBeat has identified the five stocks that top analysts are quietly whispering to their clients to buy now before the broader market catches on... and Atlanta Braves wasn't on the list.\nWhile Atlanta Braves currently has a Buy rating among analysts, top-rated analysts believe these five stocks are better buys.\nView The Five Stocks Here\nInvesting Strategies To Help Grow Your Retirement Income Need to stretch out your 401K or Roth IRA plan? Use these time-tested investing strategies to grow the monthly retirement income that your stock portfolio generates.\nGet This Free Report Like this article? Share it with a colleague. Link copied to clipboard.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Politics",
+      "Human Interest"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->business financing",
+      "Politics->regulation of industry",
+      "Politics->economic policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://api.stocktwits.com/widgets/share?via=MarketBeat&body=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://www.linkedin.com/cws/share?mini=true&url=https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20%24BATRA%20%23BATRA%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "http://www.sec.gov/Archives/edgar/data/937797/000110465925034726/xslF345X05/tm2512315-1_4seq1.xml",
+      "https://www.insidertrades.com/the-liberty-braves-group-stock/john-c-malone/",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://www.americanconsumernews.net/scripts/standalone/viewcount.ashx?type=i&id=662124&domain=marketbeat.com&referrer=",
+      "https://www.american",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20%24BATRA%20%23BATRA%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+      "https://api.stocktwits.com/widgets/share?via=MarketBeat&body=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://american",
+      "http://sec.gov/Archives/edgar/data/937797/000110465925034726/xslF345X05/tm2512315-1_4seq1.xml",
+      "https://facebook.com/sharer/sharer.php?u=https://marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20%24BATRA%20%23BATRA%20https://marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://api.stocktwits.com/widgets/share?via=MarketBeat&body=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+      "https://www.facebook.com/sharer/sharer.php",
+      "https://insidertrades.com/the-liberty-braves-group-stock/john-c-malone/",
+      "https://www.linkedin.com/cws/share",
+      "https://www.insidertrades.com/the-liberty-braves-group-stock/john-c-malone",
+      "https://www.americanconsumernews.net/scripts/standalone/viewcount.ashx",
+      "https://api.stocktwits.com/widgets/share",
+      "https://twitter.com/intent/tweet?text=Atlanta+Braves+Holdings%2c+Inc.+(NASDAQ%3aBATRA)+Major+Shareholder+Purchases+%241%2c849%2c984.40+in+Stock%20https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+      "https://linkedin.com/cws/share?mini=true&url=https://marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14/",
+      "https://americanconsumernews.net/scripts/standalone/viewcount.ashx?type=i&id=662124&domain=marketbeat.com&referrer=",
+      "https://www.linkedin.com/cws/share?mini=true&url=https://www.marketbeat.com/instant-alerts/atlanta-braves-holdings-inc-nasdaqbatra-major-shareholder-purchases-184998440-in-stock-2025-04-14",
+      "https://twitter.com/intent/tweet"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "John C. Malone",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Securities & Exchange Commission",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Atlanta Braves",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T01:10:04.623+03:00",
+    "updated": "2025-04-17T01:10:04.623+03:00"
+  }
+]

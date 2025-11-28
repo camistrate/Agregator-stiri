@@ -1,0 +1,280 @@
+[
+  {
+    "uuid": "03193c5109d92831005fbcafa704c633a02249bc",
+    "url": "https://g1.globo.com/tecnologia/noticia/2024/11/15/pane-geral-em-tv-boxes-piratas-como-e-a-solucao-que-promete-combater-caixinhas-irregulares.ghtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "globo.com",
+    "published": "2024-11-15T05:00:00Z",
+    "title": "'Pane geral' em TV boxes piratas: como é a solução que promete combater caixinhas irregulares | Tecnologia | G1",
+    "text": "1 de 1 TV boxes apreendidas em outubro de 2020, em operação conjunta de Polícia Civil, Polícia Federal e Receita Federal — Foto: Divulgação TV boxes apreendidas em outubro de 2020, em operação conjunta de Polícia Civil, Polícia Federal e Receita Federal — Foto: Divulgação\nAs TV boxes irregulares, que prometem acesso indevido a canais e serviços de streaming, podem ter uma \"pane geral\". É o que propõe um dos vencedores do concurso criado para receber soluções para combater essas caixinhas, também conhecidas como IPTVs piratas.\nNo fim de setembro, o desenvolvedor de sistemas Daniel Lima e outros cinco colegas que trabalham na área da tecnologia da informação ganharam o concurso Hackathon TV Box , organizado pela Agência Nacional de Telecomunicações ( Anatel ).\nO grupo apresentou uma proposta que inutiliza as caixinhas por meio de uma atualização forçada . A Anatel disse que está conversando com os participantes do concurso, mas não confirmou se vai implementar as ideias.\nHoje, a agência costuma pedir para as operadoras bloquearem servidores usados pelas caixinhas irregulares. Mas é como enxugar gelo: os endereços dos servidores na internet são atualizados, o que faz as caixinhas voltarem a funcionar.\nPor isso, a ideia do grupo de Daniel foi ir além do que a Anatel já faz para limitar o uso de aparelhos sem autorização .\n👉 FUNCIONA ASSIM: a pedido da Anatel, a operadora que receber a tentativa de uma TV box de abrir um servidor pirata pode direcionar o acesso para outro endereço, em que há um arquivo de atualização que é baixado automaticamente e pode impedir o funcionamento da caixinha.\n\"Conseguimos adicionar um código que a inutiliza totalmente\", disse Daniel. \"Nossa solução utiliza recursos avançados de rede para possibilitar que o software da caixinha seja alterado, e o usuário seja impossibilitado de acessar conteúdo protegido\".\nO método é possível porque são as operadoras (ou ISPs, sigla em inglês para \"provedor de serviços de internet\") que administram a comunicação de rede.\n\"Como a Anatel controla os ISPs, ela consegue obrigá-los a implementar os recursos avançados de rede que tornam possível à caixinha receber um pacote alterado\", explicou Daniel.\n\"No momento em que a Anatel implementar a solução, vai ser uma pane geral na maioria das caixinhas irregulares que estão em uso\", disse Daniel.\nPara evitar a inutilização de TV boxes regulares, é necessário definir padrões que afetem somente as caixinhas piratas , como as informações que o próprio aparelho envia sobre si na comunicação com a internet e os endereços que ele busca acessar.\nO que falta para o plano sair do papel?\nO concurso teve a participação de profissionais e estudantes de áreas como cibersegurança, rede e desenvolvimento. Além do grupo de Daniel, outras duas equipes foram premiadas pela Anatel.\nAgora, com as propostas apresentadas, fica a cargo da própria Anatel implementar as soluções (ou parte delas). Isso porque trata-se de uma solução de larga escala, que exige a participação de órgãos públicos, disse Daniel.\n\"Para o combate à pirataria, é necessária uma parceria entre todos. É um assunto extremamente complexo, que gera bastante prejuízo financeiro para provedores de internet e provedores de conteúdo\".\nA Anatel informou ao g1 que \"tem considerado todos os conceitos e ideais que foram apresentados como melhoria nos processos internos e externos\" e que tem feito reuniões com os participantes do hackathon para adaptar as propostas às metodologias já usadas pela agência (veja a nota abaixo) .\nO g1 questionou se as soluções vencedoras serão implementadas e quando isso aconteceria, mas não houve resposta da agência.\nSomente em 2023, a Anatel ordenou a derrubada de cerca de 3.900 servidores usados por TV boxes irregulares. Mas a mudança constante dos endereços desses servidores faz o trabalho se tornar permanente para a agência.\nUm dos alvos da Anatel são os aplicativos usados em transmissões piratas de futebol . Em uma das operações, o órgão bloqueou serviços ilegais durante a última rodada de Brasileirão de 2023.\nQuais são os riscos das caixinhas irregulares?\nAlém de distribuírem conteúdo pirata, as caixinhas irregulares podem trazer prejuízo para usuários. De acordo com a Anatel, os aparelhos não têm assistência técnica e não garantem segurança de dados, o que pode torná-los alvo de ciberataques.\nA agência analisou as caixinhas e identificou que algumas podem incluir arquivos maliciosos que assumem o controle do aparelho e capturam dados de usuários, como informações financeiras e arquivos armazenados em outros dispositivos na mesma rede.\nLeia a íntegra do comunicado da Anatel:\n\"A Anatel está realizando reuniões com os participantes do Hackathon além dos premiados, pois todas as equipes apresentaram soluções que foram vistas como oportunidade de melhoria no processo realizado pela Agência. O objetivo das discussões tem sido adaptar as soluções apresentadas as metodologias já utilizadas pela Agência.\nBoa parte das propostas estão alinhadas com o que a Anatel já realiza. Desta forma, a Agência tem considerado todos os conceitos e ideias que foram apresentados como melhoria nos processos internos e externos da Agência, que permitirão otimizar a segurança da infraestrutura de telecomunicações e dos usuários.\nO processo já está em andamento, pois é contínuo, com a Anatel trabalhando junto com os participantes.\"\nRelembre abaixo quando a Anatel começou a notificar prestadoras de telefonia para liberarem o acesso ao X:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://s2-g1.glbimg.com/u_ujBg8IkRxdQeq-8vzvZa4BnNQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://s2-g1.glbimg.com/fN_Nl3rY8yzp4vRLskNe5SRfAFQ=/0x0:1280x720/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://s2-g1.glbimg.com/B-cCn8pPCxx2lFVN5icjSQLVRQ8=/0x0:1280x720/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://s2-g1.glbimg.com/ih1KzlitETcOeZVe0Gv78pxhAME=/0x0:1280x720/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://www.s2-g1.glbimg.com/fN_Nl3rY8yzp4vRLskNe5SRfAFQ=/0x0:1280x720/640x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://www.s2-g1.glbimg.com/u_ujBg8IkRxdQeq-8vzvZa4BnNQ=/0x0:1280x720/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://www.s2-g1.glbimg.com/B-cCn8pPCxx2lFVN5icjSQLVRQ8=/0x0:1280x720/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg",
+      "https://www.s2-g1.glbimg.com/ih1KzlitETcOeZVe0Gv78pxhAME=/0x0:1280x720/600x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/F/J/yOBABWTBqFQA03gZIWIQ/whatsapp-image-2020-10-09-at-15.15.53.jpeg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T07:15:29.935+02:00",
+    "updated": "2024-11-22T16:24:37.905+02:00"
+  },
+  {
+    "uuid": "f1bb7c2f33a58e1e8c67e93026bdc179b88fadcd",
+    "url": "https://newsrnd.com/news/2023-12-23-plans-to-attack-cologne-cathedral---measures-for-christmas-eve.H15uzxBP6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anonym",
+    "published": "2023-12-23T23:51:00Z",
+    "title": "Plans to attack Cologne Cathedral - Measures for Christmas Eve - The Limited Times",
+    "text": "Last updated: 24.12.2023, 00:39\nCommentsPrint Share\nPolice officers and police vehicles are parked in front of the main train station, not far from the cathedral. © Vincent Kempf/dpa\nWith sniffer dogs and a large contingent, the police investigate Cologne Cathedral on the day before Christmas Eve. The reason: the cathedral may be a target for Islamists.\nCologne - Shortly before the Christmas services, the police have increased security measures at Cologne Cathedral because of indications of a possible attack plan by an Islamist group. Police officers searched the cathedral with sniffer dogs and announced that they would check all visitors on Christmas Eve.\nIn Vienna, too, the police increased their protective measures. According to dpa information, security authorities had indications that a church in Vienna was also a possible target of the group. Previously, the \"Bild\" had reported.\nThe police in Cologne wanted to comment on the investigations in general in the morning. At the same time, it was said that the authority would not comment on details because of the ongoing investigation. According to dpa information, the group could possibly have a connection to an offshoot of the terrorist network Islamic State (IS), which calls itself the Islamic State Khorasan Province (ISPK) and has been fighting an armed conflict with the militant Islamist Taliban in Afghanistan for several years.\nCologne police increase protective measures According to \"Bild\", the first arrests by special forces in Vienna and also one in Germany were made on Saturday. The Directorate of State Security and Intelligence in the Austrian Ministry of the Interior did not want to comment on possible arrests. \"We ask for your understanding that we do not comment on current investigations,\" a spokesman in Vienna said late Saturday evening on request.\nThe Cologne police had justified the increase in their protective measures with a danger warning, without giving details. The State Security Service, which is active in politically motivated crimes, has begun investigations. Worshippers at Cologne Cathedral and tourists will have to adjust to increased security standards in the coming days.\n\"Even if the reference refers to New Year's Eve, we will already do everything this evening for the safety of the cathedral visitors on Christmas Eve. In coordination with the security officer of the cathedral chapter, the cathedral will be searched with sniffer dogs after the evening mass and then locked,\" said the head of the Cologne criminal police, Michael Esser, according to the statement. In the evening, police vehicles drove up in front of Cologne Cathedral, as dpa reporters observed. Police sniffer dogs were also deployed.\nPrecautions in Vienna A statement from the Vienna police said earlier that security authorities in Austria had increased their protective measures in the face of calls for terrorist attacks against Christian events across Europe, especially on Christmas Eve. Also due to a current risk assessment by the Office for the Protection of the Constitution, there is generally an increased risk situation during the Christmas holidays, the police said. As a precautionary measure, there will be increased surveillance of endangered places in Vienna and in the provinces, including churches and Christmas markets.\nMy news After shooting down Russian bombers: Putin's soldiers must be tremblingRead\nIndications of planned attack on Cologne Cathedral – Police announce special protective measures Read more\nLarge map of Germany at Christmas: Here people suffer from povertyRead\nTanks unusable in offensive: Russia's army relies on drone strategy in Avdiivka\nCracks in Putin's 'illusion of normality': German ambassador gives insight into life in RussiaRead\n\"Kleptomaniacs\" – Lavrov insults German authorities\nAccordingly, civilian and uniformed forces with special equipment and also rifles will be deployed. \"Police attention is mainly focused on churches and religious events, especially church services, and Christmas markets,\" the police said. The terror alert level in Austria is still elevated, the police said. The additional precautionary measures were intended to maintain general safety in Austria, it said.\nSince the terrorist attack on Israel by the Islamist Hamas on 7 October, fears have been growing that there could also be attacks in Germany. Dpa",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vincent kempf",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cologne cathedral",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "cologne cathedral",
+          "sentiment": "none"
+        },
+        {
+          "name": "vienna",
+          "sentiment": "none"
+        },
+        {
+          "name": "cologne",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T02:16:11.097+02:00",
+    "updated": "2023-12-24T02:16:11.097+02:00"
+  },
+  {
+    "uuid": "af27bb12ec14814957a2f133f7f23e34fd19d2ca",
+    "url": "https://www.newsbreak.com/e-news-510067/3975881976197-too-hot-in-bed-shop-10-cooling-bedding-must-haves",
+    "ord_in_thread": 0,
+    "author": "E! News",
+    "published": "2025-04-23T22:00:00Z",
+    "title": "Too Hot in Bed? Shop 10 Cooling Bedding Must-Haves - NewsBreak",
+    "text": "Too Hot in Bed? Shop 10 Cooling Bedding Must-Haves\nComments\nYOU MAY ALSO LIKE\n · publisher · 297.3K followers\nE! News\nToo Hot in Bed? Shop 10 Cooling Bedding Must-Haves & Stop Kicking off the Covers\nThe products featured in this article are from brands available in NBCUniversal Checkout. E! makes a commission on purchases. Temperature regulation could be one of the reasons you're having trouble falling asleep, staying asleep, and getting the rest you need. No, it's not just your mattress. If you always seem...\n · user · 48.0K followers\nMonsters and Critics\nKelly Clarkson under fire for ‘pretending’ she’s never heard of Meghan Markle’s Netflix series\nKelly Clarkson claims she’d never heard of Meghan Markle’s Netflix series, but her critics aren’t buying it. With Love, Meghan is the Duchess of Sussex’s lifestyle series, highlighting her love of cooking, hosting, and gardening.\n · publisher · 297.3K followers\nE! News\nTina Knowles Reveals Affair With Ex Mathew After Filing for Divorce\nTina Knowles took one step to the right after telling Mathew Knowles to the left, to the left. In her new memoir Matriarch, out now, Beyoncé and Solange’s mom admitted that she briefly reconciled...\n · publisher · 297.3K followers\nE! News\nMariah Carey Poses With Twins Monroe and Moroccan, 13, in Rare Easter Family Photos\nWatch: Mariah Carey Poses With Teenage Twins Monroe and Moroccan in Rare Easter Family Photos. All Mariah Carey wants for Easter is a photo with her babies. And she got it as she celebrated the holiday with her and Nick Cannon’s 13-year-old twins Monroe Cannon and Moroccan Cannon. The “We Belong Together” singer posted a series of pictures from the celebration that featured her wearing a chic dress as she holds a pink easter basket and poses with the Easter Bunny, watches her twins open their baskets and flashes two golden eggs.\n · publisher · 297.3K followers\nE! News\nJessica Alba and Cash Warren Reunite for Easter Celebration After Breakup\nWatch: Jessica Alba & Cash Warren Reunite for Easter Celebration After Breakup. Jessica Alba is focusing on her fantastic weekend with the family. Two months after the Fantastic Four actress filed for divorce from her ex Cash Warren, they shared a sweet Easter celebration with their kids Honor, 16, Haven, 13, and Hayes, 7.\n · publisher · 297.3K followers\nE! News\nSimone Biles Says Her “Body Literally Collapsed” After Paris Olympics\nWatch: Why Simone Biles’ Body \"Literally Collapsed” After Paris Olympics. Simone Biles is reflecting on the aftermath of the 2024 Paris Olympics. The 28-year-old gymnast, who secured three gold medals and one silver during last year’s event, recently revealed the impact the competition had on her body—and how she felt by the end of the games.\n · user · 104.4K followers\nHerbie J Pilato\nJimmy Osmond, The Youngest Of The Famed Family Musical Group, Is Now 62 Years Old\nJimmy Osmond, the youngest sibling in the famed Osmond family musical group, is now 62 years old. Like his talented siblings, Marie and Donny Osmond, and other famous siblings, Jimmy Osmond has always utilized his creative abilities to the delight of millions of fans around the world.\n · publisher · 297.3K followers\nE! News\nJustin Bieber and Hailey Bieber's Baby Jack Will Melt Your Heart With New Milestone Photo\nWatch: Justin Bieber, Hailey Bieber's Baby Jack Hits Big Milestone in New Photo. It's Jack Blues Bieber's world, we're just living in it. Justin Bieber—who shares his 8-month-old son with wife Hailey Bieber—posted a new photo of Jack to seemingly mark his latest milestone: crawling. In the cute...\n · user · 7.5K followers\nRebecca Blackwell\nThe Cake Everyone Will Be Talking About For Days\nThis pistachio cream cake is like an actual mic drop for your next dinner party or birthday party or anything party. It's what we like to call a show stopper and so good it's guaranteed to impress everyone you choose to share it with.\n · publisher · 297.3K followers\nE! News\nSydney Sweeney Reunites With Ex-Fiancée Jonathan Davino After Breakup\nSydney Sweeney still has a sweet spot for Jonathan Davino. The pair—who got engaged in 2022 before breaking up earlier this year—was spotted out for a casual breakfast with friends in Florida on April 19. The actress, 27, and producer, 41, nearly coordinated, as they both wore white...\n · publisher · 297.3K followers\nE! News\nSophie Nyweide, Former Child Star, Found Dead on Riverbank: Police Share Details\nWatch: Sophie Nyweide, Former Child Star, Found Dead on Riverbank: Police Share Details. Police have launched an investigation into the death of former child star Sophie Nyweide. Nyweide was declared dead April 19 after her body was found on a riverbank in Vermont near a lean-to, a simple structure made...\n · publisher · 297.3K followers\nE! News\nChristina Haack Shares Blended Family Photos With Tarek El Moussa\nTime heals all wounds for Christina Haack and Tarek El Moussa. The Flip or Flop alums, who were married from 2009 to 2018, reunited to take their blended family on a sunny getaway alongside their...\n · user · 104.4K followers\nHerbie J Pilato\nFormer Child Star Ricky Schroder ('The Champ'/'Silver Spoons') is Officially a Senior Citizen at 55\nFormer child star Ricky Schroder, best known for his big-screen debut in the critically acclaimed box office hit, The Champ(1979), and the classic TV sitcom, Silver Spoons (NBC, 1982-1987), is now officially a senior citizen. He turned 55 years old on April 13, 2025.\n · publisher · 297.3K followers\nE! News\nWhy These Australian Identical Twins Are Going Viral After Carjacking Incident\nWatch: Mariah Carey Poses With Teenage Twins Monroe and Moroccan in Rare Easter Family Photos. You’re not just seeing double—you’re hearing it, too. After identical twin sisters Bridgette Powers and Paula Powers witnessed a carjack on Steve Irwin Way in Queensland, Australia, they were interviewed by 7News Queensland, a local station in the area. Just as unexpected as the incident was, they did not expect the interview to go viral.\n · publisher · 297.3K followers\nE! News\nIs OUAI Detox Shampoo Worth It? I’ve Used It for Years — Here’s the Truth\nOur writers and editors independently determine what we cover and recommend. When you buy through our links, E! may earn a commission. Some brands featured in this article are partners of Amazon's Creator Connections program, which means E! may make an increased commission on your purchase if you buy something through our links. Learn more.\n · publisher · 297.3K followers\nE! News\nGypsy Rose Blanchard Shares If Baby Aurora Inherited Rare Condition\nGypsy Rose Blanchard is celebrating good news for her baby girl. After welcoming daughter Aurora Raina Urker with fiancé Ken Urker in December, the Gypsy Rose: Life After Lockup star admitted...\n · publisher · 297.3K followers\nE! News\nWednesday Season 2 Will Be Released in 2 Parts: See Jenna Ortega in the Bone-Chilling Trailer\nJenna Ortega is ready for another semester at Nevermore Academy. After all, Wednesday Addams is finally back at the mystical boarding school with a new supernatural mystery in the latest teaser trailer for Wednesday season two, with the first part premiering Aug. 6 and the second Sept. 3. However, it...\n · publisher · 297.3K followers\nE! News\nRuPaul's Drag Race All Stars 10 Cast\nInstagram: @mistressisabellebrooks; X: @MistresslBrooks; TikTok: @the_mib The heavyweight champ of season 15 is back in the ring, ready to knock out the competition! This larger-than-life Houston diva pulls no punches when it comes to drag pageantry, and she lives to stir the pot. With Mistress, there are no safe words, no mercy and zero tolerance for drag delusion. Get ready to submit.\n[ · publisher · 297.3K followers](/m/e-news-510067)\nE! News\nBobbie Mitchell Stabbed: Details of Grandson’s Alleged Attack Revealed\nMore information is emerging about the attack on Bobbie Mitchell. After an alleged stabbing attack by her grandson Mitchell Reinacher left the Texas politician hospitalized and her husband Fred...\n[ · publisher · 297.3K followers](/m/e-news-510067)\nE! News\nJohn Cena Shares He Got a Hair Transplant After Facing \"Bullying\" Over Bald Spot\nWatch: How John Cena Made History at WrestleMania 41. You can't see John Cena's hair right now. That's because the WWE icon is waiting for it to grow out after undergoing hair transplant, a procedure he sought out after facing criticism from wrestling fans over what he called a \"bald spot\" on his head.\n[ · user · 104.4K followers](/m/herbie-j-pilato-1590342)\nHerbie J Pilato\n'Father Knows Best' Former Child Star Lauren Chapin Has Faced Many Struggles But Will Be 80 in May\nOn May 23, 2025, Father Knows Best former child star Lauren Chapin will be 80 years old. A triumphant survivor, Chapin has faced several personal and professional challenges. This is her story.\n[ · publisher · 297.3K followers](/m/e-news-510067)\nE! News\nThe Last of Us’ Kaitlyn Dever Details Mourning Her Mom Before Filming\nWarning: This article contains major spoilers for The Last of Us' April 20 episode “Through the Valley.” Kaitlyn Dever's role on The Last of Us hit a little too close to home. The actress recently...\n[ · publisher · 297.3K followers](/m/e-news-510067)\nE! News\nFrankie Muniz Reunites With Malcolm in The Middle Costars Bryan Cranston and Jane Kaczmarek\nBryan Cranston and Jane Kacmarek aren’t the boss of Frankie Muniz, now. And yet, the Malcolm in the Middle stars reunited in a sweet photo, with Frankie, who played titular Malcolm, posing with his on-screen parents, Bryan and Jane—who played Hal and Lois, respectively—ahead of the show’s upcoming reboot.\n[ · user · 104.4K followers](/m/herbie-j-pilato-1590342)\nHerbie J Pilato\nIn Memory of Former Child Star Tara Correa-McMullen: 20 Years After Her Tragic Death\nFormer child star Tara Correa-McMullen was best known for her role as Maritaz Crus on TV's classic legal drama Judging Amy (CBS, 1999-2005). As tragic fate would have it, in 2005, Correa-McMullen died similarly to that of her television role: She was fatally shot in Inglewood, CA, at only 16.\n[ · user · 104.4K followers](/m/herbie-j-pilato-1590342)\nHerbie J Pilato\nFormer 'Black Eyed Peas' Hip-Hop Pop-Music Front-Runner Fergie (a.k.a. 'Stacy Ann Ferguson') Is 50\nFormer Black Eyed Peas hip-hop pop-music front-runner Stacy Ann Ferguson, a.k.a. “Fergie,” is now a half-century old, a.k.a. “50.”. Fergie was born March 27, 1975, in Hacienda Heights, CA to parents Theresa Ann Gore and Jon Patrick Ferguson. After finding early “Big ‘80s” fame as a child star on TV shows like Kids Incorporated, and various Peanuts specials, Stacy Ann Ferguson’s star began to go international when co-founded the girl group Wild Orchid, and performed on two albums in the 1990s.\n[ · publisher · 297.3K followers](/m/e-news-510067)\nE! News\nTiger King’s Joe Exotic Announces Marriage to Fellow Prison Inmate\nThis news is the cat’s pajamas. Tiger King’s Joe Exotic announced he has once again married, tying the knot with a fellow prison inmate. “Never been more proud of someone,” Joe wrote on X, formerly Twitter, April 21. “Meet my husband Jorge Flores Maldonado.”. The announcement...\n[ · user · 104.4K followers](/m/herbie-j-pilato-1590342)\nHerbie J Pilato\nA Personal Memory of 'Bewitched' Star Elizabeth Montgomery: 30 Years After Her Tragic Demise\n[Note: Unless otherwise indicated, this article features commentary and quotes from interviews that were conducted by the author with those mentioned.]. As the author of the official Bewitched books, and celebrated twin biographies of the acclaimed show's Emmy-winning star, Elizabeth Montgomery, I was honored to meet, interview, and befriend the beloved actress (who sadly died of cancer on May 18, 1995).\nTRENDING SEARCH\n[Migrant Arrested for Gruesome Murder](/trending/top/migrant-arrested-for-gruesome-murder)[Trump's On-Air Humiliation Revealed](/trending/top/trump's-on-air-humiliation-revealed)[Cubs Add Veteran Infielder](/trending/top/cubs-add-veteran-infielder)[New Lead in Jimmy Hoffa Case](/trending/top/new-lead-in-jimmy-hoffa-case)[Tragedy Strikes After Mom Leaves Casino](/trending/top/tragedy-strikes-after-mom-leaves-casino)[Sanders Urges Trump on Arkansas Aid](/trending/top/sanders-urges-trump-on-arkansas-aid)[Scott Clifton on Liam's Future](/trending/top/scott-clifton-on-liam's-future)[Elon Musk: Project 2025's Fall Guy?](/trending/top/elon-musk%3A-project-2025's-fall-guy%3F)[Kylie Kelce Discusses Marriage Dynamics](/trending/top/kylie-kelce-discusses-marriage-dynamics)[Harper's Bold View on Soto](/trending/top/harper's-bold-view-on-soto)\n[See all trends](/trending)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->house and home",
+      "Health->diet",
+      "Health->health care approach"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Mathew Knowles",
+          "sentiment": "none"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "sentiment": "none"
+        },
+        {
+          "name": "Meghan Markle",
+          "sentiment": "none"
+        },
+        {
+          "name": "Tina Knowles",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "--You",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "YOU",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "E",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "E",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "& TV",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TV",
+              "exchange": "NYSE"
+            }
+          ]
+        },
+        {
+          "name": "NBC",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "NBC",
+              "exchange": "FRA"
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T02:01:23.385+03:00",
+    "updated": "2025-04-24T02:01:23.385+03:00"
+  },
+  {
+    "uuid": "b2fe640eea0e8be3fa12ff29c855e48149893097",
+    "url": "https://vnexplorer.net/heartbroken-family-and-friends-pay-tribute-to-young-south-australian-firefighter-daniel-page-after-he-suddenly-died-in-his-sleep-a-proper-hero-s698183.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T23:57:00Z",
+    "title": "Heartbroken family and friends pay tribute to young South Australian firefighter Daniel Page after he suddenly died in his sleep: 'A proper hero'",
+    "text": "Daniel 'Pagey' Page died in sleep on TuesdayLieutenant at Salisbury Country Fire Service READ MORE: Firefighter dies while battling Grose Vale house fire\nTributes have flooded in for a much-loved young firefighter who tragically passed away in his sleep.\nDaniel ‘Pagey’ Page, a Lieutenant 2 at Salisbury Country Fire Service branch in South Australia, died on Tuesday – just days before Christmas.\nThe sad news was shared to Facebook by his workplace two days later, remembering him as ‘one of Salisbury’s greats’.\n‘Daniel, or as we call him ‘Pagey’, joined Salisbury CFS in 2017 and we knew from day one he would go on to achieve great things,’ the post read.\nDaniel ‘Pagey’ Page (pictured) died during his sleep on Tuesday evening, just days before Christmas\n‘From the stories told, his amazing, kind and empathetic nature has touched many in the service and the patients he cared for as well as saved.’\n‘Pagey always had time for everyone around him and was the first to put his hand up when someone needed help,’ it continued.\n‘His favourite things in life were triple double macchiatos, exploring the countryside with friends and family, working on vehicles or his next project, working incredibly hard to achieve more and being part of SAAS (South Australian Ambulance Service) to help others.’\nThe South Australian man was a Lieutenant 2 at Salisbury Country Fire Service branch and also worked as an Ambulance Officer with the South Australian Ambulance Service\nMessages of love and support flowed in the comments section of the tragic Facebook post with many of his co-workers sharing stories about the ‘special’ man\nThe young firefighter was the caretaker for truck 58 and was in the middle of fixing up a leaky master cylinder – which was completed in his honour by a friend.\n‘You will be forever missed Pagey and the world was a much better place with you in it. Rest easy mate, we will take it from here,’ it read.\nWorking his way up the ranks from Firefighter, to Senior Firefighter and then Lieutenant 2, the much-loved local was also an Ambulance Officer with the South Australian Ambulance Service.\nMr Page was awarded a commendation for his work in evacuating residents of a nursing home on the River Murray during last year’s floods.\nHe was also set to receive his National Emergency Medal for his part in fighting the 2019-2020 bushfires.\nMr Page was in the middle of fixing up truck 58’s leaky master cylinder which was completed in his honour by a friend\nMuch-loved and excellent at his job, Mr Page was awarded a commendation for his work in evacuations during last year’s floods and was set to receive his National Emergency Medal for his part in fighting the 2019-2020 bushfires\nMr Page was an aspiring paramedic and had just been accepted to study at Flinders University.\nThe post garnered hundreds of reactions and comments with friends, family and locals sending messages of love and support for the South Australian man’s family.\n‘Only the good die young….RIP, to a proper hero,’ one wrote.\nAnother added: ‘A truly amazing guy, always had a smile no matter the situation, always providing his crew support and a gentle nudge if needed. He will still be at the front guiding us through danger and looking down as a leader that he was.\n‘Pagey was special, he always had time for a chat and a laugh, his quick wit, intelligence and people skills set him apart from the rest and his rise through the ranks was not unexpected.’\nThe young firefighter was described as a ‘truly amazing guy’ and a ‘proper hero’ for his contributions to the community\nA third shared the story of the day he first met Mr Page, writing: ‘Met him when he came on board as an apprentice – crashed his car the night before his first day at work – still made it in to set a huge impression.\n‘Grew into a young man, hugely generous with his time, set his goals on some worthy endeavours which speak volumes of him and his family.’\n‘Such a loss to all lucky enough to have spent time with him,’ the co-worker added.\nSeveral neighbouring fire stations also offered their condolences, changing the official account profile pictures to the ‘firefighter down’ emblem.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "daniel",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "daniel page",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "grose vale",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "salisbury cfs",
+          "sentiment": "none"
+        },
+        {
+          "name": "facebook",
+          "sentiment": "none"
+        },
+        {
+          "name": "salisbury country fire service",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "salisbury",
+          "sentiment": "none"
+        },
+        {
+          "name": "south australia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:00:50.981+02:00",
+    "updated": "2023-12-29T02:00:50.981+02:00"
+  }
+]

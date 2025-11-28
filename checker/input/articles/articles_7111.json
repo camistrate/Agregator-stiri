@@ -1,0 +1,463 @@
+[
+  {
+    "uuid": "5009c0f34a983244f77dafe9520fe67bdbb94f34",
+    "url": "https://vnexplorer.net/trump-loses-bid-to-put-e-jean-carroll-defamation-trial-on-hold-s696901.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2023-12-28T22:02:00Z",
+    "title": "Trump Loses Bid to Put E. Jean Carroll Defamation Trial on Hold",
+    "text": "Brendan McDermid/Reuters\nA United States appeals court denied on Thursday Donald Trump’s request to pause his upcoming defamation trial in a lawsuit brought by writer E. Jean Carroll.\nLast week, the former president’s attorneys asked the court to delay the case for up to 90 days, asserting that they needed more time to consider whether to approach the U.S. Supreme Court after their presidential immunity claim was shot down.\nTrump argued that he couldn’t be sued for remarks he made in 2019 about Carroll and her sexual assault allegations against him because, as president, it was his job to tell the public that the accusations were false.\nBut, in a unanimous decision, the three-judge appeals court panel found that Trump waited too long–three years–to come up with the defense.\nThe Jan. 16 trial, which will determine how much Trump owes Carroll in damages for his defamatory comments, will be Carroll’s second against the former president.\nIn the previous case, she said Trump raped her at a New York department store in the 1990s and later defamed her after he called her accounts a “con job.”\nIn May, the jury found that Trump sexually abused and defamed Carroll and awarded the writer $5 million in damages.\nTrump has also used the presidential immunity claim in Special Counsel Jack Smith’s criminal election interference case. U.S. District Judge Tanya Chutkan denied that immunity claim, an order that Trump has since appealed.\nRead more at The Daily Beast.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Politics",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mallX.img",
+      "https://www.img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1mallX.img"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "donald trump",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "carroll",
+          "sentiment": "none"
+        },
+        {
+          "name": "e. jean carroll",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "trump loses bid to put e. jean carroll defamation trial on hold brendan mcdermid/reuters",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "u.s. supreme court",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "new york",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:08:37.642+02:00",
+    "updated": "2023-12-29T00:08:37.642+02:00"
+  },
+  {
+    "uuid": "789f66ee6d1e6bb66117e34d310694788350f43f",
+    "url": "https://srnnews.com/deepseeks-launch-of-new-ai-model-delayed-by-huawei-chip-issues-ft-reports/",
+    "ord_in_thread": 0,
+    "author": "jgiesler",
+    "published": "2025-08-14T03:10:00Z",
+    "title": "DeepSeek's launch of new AI model delayed by Huawei chip issues, FT reports - SRN News",
+    "text": "(Reuters) -Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei’s chips, highlighting the limits of Beijing’s push to replace U.S. technology, the Financial Times reported on Thursday. (Reporting by Disha Mishra in Bengaluru)\nScience\nDeepSeek’s launch of new AI model delayed by Huawei chip issues, FT reports\nAudio By Carbonatix\n(Reuters) -Chinese artificial intelligence company DeepSeek has delayed the release of its new model after failing to train it using Huawei’s chips, highlighting the limits of Beijing’s push to replace U.S. technology, the Financial Times reported on Thursday.\n(Reporting by Disha Mishra in Bengaluru)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->scientific research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Disha Mishra",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": "TRI",
+              "exchange": "NASDAQ"
+            }
+          ]
+        },
+        {
+          "name": "Huawei",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        },
+        {
+          "name": "Financial Times",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": null,
+      "top_news": [],
+      "bias": "center",
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:41:11.711+03:00",
+    "updated": "2025-08-14T10:52:27.000+03:00"
+  },
+  {
+    "uuid": "d94232b91b02e618826ffc162ef16a75b0dbc529",
+    "url": "https://shafaq.com/en/Economy/Oil-on-track-for-weekly-climb-on-potential-Mideast-supply-disruption",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shafaaq News",
+    "published": "2024-10-11T13:59:00Z",
+    "title": "Oil on track for weekly climb on potential Mideast supply disruption - Shafaq News",
+    "text": "Oil on track for weekly climb on potential Mideast supply disruption Economy Oil prices 2024-10-11T16:59:44+00:00 Share font Enable Reading Mode A- A A+\nShafaq News/ Oil prices edged down marginally on Friday but remained on track for a second weekly gain as investors weighed the potential for supply disruption if Israel attacks Iranian oil sites, against the fallout from Hurricane Milton.\nBrent crude oil futures were down 20 cents, or 0.25%, at $79.20 a barrel by 11:13 a.m. EDT. U.S. West Texas Intermediate crude futures slipped 13 cents, 0.17%, to $75.72 per barrel.\nFor the week, both benchmarks were headed for gains.\n\"Markets can feel the tension, as Israel contemplates the size and form for their response to Iran's massive missile attack. If Israel destroys Iran's oil & gas infrastructure, prices will rise,\" said chief economist at Matador Economics, Tim Snyder, in a note on Friday.\nIn the U.S., Hurricane Milton plowed into the Atlantic Ocean on Thursday after cutting a destructive path across Florida, killing at least 10 people and leaving millions without power. The destruction could dampen fuel consumption.\nFlorida is the third-largest gasoline consumer in the U.S., but there are no refineries in the state, making it dependent on waterborne imports.\nAnd reservations over high crude inventories and a possibly more gradual monetary easing by the U.S. Federal Reserve have also helped put the recent rally in oil prices on hold, said Yeap Jun Rong, market strategist at IG.\nCrude benchmarks spiked this month after Iran launched more than 180 missiles against Israel on Oct. 1, raising the prospect of retaliation against Iranian oil facilities. Israel has yet to respond, and crude benchmarks have eased and remained relatively flat through the week.\nIsraeli Defence Minister Yoav Gallant has said that any strike against Iran would be \"lethal, precise and surprising.\"\n\"We need to wait and see how Israel responds, but I think until that point the oil market will keep a risk premium,\" said UBS analyst, Giovanni Staunovo.\nIran is backing several groups fighting Israel, including Hezbollah in Lebanon, Hamas in Gaza and the Houthis in Yemen.\nLebanon's army said two people were killed and three others injured after Israeli forces targeted one of its military posts in southern Lebanon's Kafra on Friday.\nGulf states, meanwhile, are lobbying Washington to stop Israel from attacking Iran's oil sites out of concern their own oil facilities could come under fire from Tehran's allies if the conflict escalates, three Gulf sources told Reuters.\nOn the supply side, Libya's national oil corporation (NOC) said on Friday it had restored oil production to levels before the country's central bank crisis as it reached 1.25 million barrels.\n(REUTERS)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Weather",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Tim Snyder",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Matador Economics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Mideast",
+          "sentiment": "none"
+        },
+        {
+          "name": "Atlantic Ocean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-11T23:16:25.494+03:00",
+    "updated": "2024-10-12T00:28:53.182+03:00"
+  },
+  {
+    "uuid": "11dee8a4c4eace1374b02e4b32523991b0a77801",
+    "url": "https://newsinfo.inquirer.net/2051491/dswd-beware-of-unlicensed-groups-soliciting-donations",
+    "ord_in_thread": 0,
+    "author": "Philippine Daily Inquirer",
+    "published": "2025-04-09T21:12:00Z",
+    "title": "DSWD: Beware of unlicensed groups soliciting donations | Inquirer News",
+    "text": "Inquirer files\nMANILA, Philippines — The Department of Social Welfare and Development (DSWD) has urged the public to watch out for unlicensed organizations soliciting donations or organizing charity events after it filed criminal charges against a Cebu-based foundation operating without a permit.\nThe DSWD regional office in Central Visayas filed a complaint on Tuesday against officers of SimplyShare Foundation Inc. after the foundation was found to have been conducting public solicitations for several years without a valid permit, a violation of the 46-year-old Solicitation Permit Law.\nArticle continues after this advertisement READ: DSWD will strictly monitor public solicitation permits\nA list of organizations accredited by the DSWD can be found on the recently launched DSWD Kaagapay donations portal.\nAt the same time, the public was asked to report groups holding solicitation or charity activities without the necessary permits to [email protected] . —Kathleen de Villa\nYour subscription could not be saved. Please try again.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Social Issue->charity",
+      "Social Issue->social services"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "DSWD",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Department of Social Welfare and Development",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "SimplyShare Foundation Inc.",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:32:32.977+03:00",
+    "updated": "2025-04-10T02:54:17.252+03:00"
+  },
+  {
+    "uuid": "46d2daf1ce34a0caf59ff158110e6fb2db4c40e7",
+    "url": "https://www.persecution.org/2024/05/25/pakistani-ad-criticized-as-discriminatory-to-christians",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "commsmanager",
+    "published": "2024-05-25T01:18:00Z",
+    "title": "Pakistani Ad Criticized as Discriminatory to Christians",
+    "text": "An ad calling for a sweeper in northwest Pakistan is being denounced as discriminatory to Christians in the region. Pakistani sweepers work notoriously difficult, hazardous jobs with little pay and perform tasks such as manual sewage cleaning and sweeping garbage from the street. A medical company called Trans-Continental Pharma posted an announcement on Saturday seeking to hire sweepers, noting that the “Christian community [would] be preferred.” Christians have faced discrimination in Pakistan for decades, and many are considered second-class citizens. This is due, in part, to the nation’s decades-old caste system, which confines an individual’s opportunities to those that are in line with their ancestors. For example, if an individual’s parents were farmers, that individual would be restricted to farming, and so on. Pakistani Christians have long been relegated to the lower end of the caste, though officially abolished, and struggle to be seen as anything else. Discriminatory remnants of the caste system are alive and well in the Indian sub-continent. Christians are often referred to as “Chuhra,” a derogatory term for a low-lying caste member in society who faces a difficult climb out of maltreatment. Christians represent a small minority of Pakistan’s population, around 2%, and are largely confined to sweeper work and other hazardous jobs. According to The New York Times , when Pakistan’s largest city, Karachi, “tried to recruit Muslims to unclog gutters, they refused to get down into the sewers, instead sweeping the streets. The job was left to Christians … known derogatorily as ‘choora,’ or dirty.” Many of these Christians develop health issues as a result of toxic fume inhalation, and some even reach the point of death. In an interview with Christian Daily International, a Punjab Assembly Christian legislator, Ejaz Augustine, explained the discrimination that Pakistan’s Christians face. “The attitude within Pakistan is as though the Christians were in the country to clean up after Muslims,” Augustine stated. “How can one expect greatness from a nation that does not even know how to clean its streets and treats its sanitary workers as sub-humans?” For interviews, please email [[email protected]. ](/cdn-cgi/l/email-protection#0d7d7f687e7e4d7d687f7e686e787964626323627f6a)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.christiandaily.com/asia/ad-targeting-christians-in-pakistan-criticized.html",
+      "https://www.nytimes.com/2020/05/04/world/asia/pakistan-christians-sweepers.html",
+      "https://christiandaily.com/asia/ad-targeting-christians-in-pakistan-criticized.html",
+      "https://nytimes.com/2020/05/04/world/asia/pakistan-christians-sweepers.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "trans-continental pharma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "pakistan",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-05-25T07:43:22.247+03:00",
+    "updated": "2024-05-25T16:11:33.989+03:00"
+  },
+  {
+    "uuid": "11b5aa125624b6d0d91d88b648be0d9c81e04d2d",
+    "url": "https://www.commentcamarche.net/image-son/streaming/29139-netflix-essentiel-avec-pub",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maurine Briantais",
+    "published": "2024-08-08T13:06:00Z",
+    "title": "Ça y est, Netflix impose sa formule avec pub à ses anciens abonnés",
+    "text": "Après avoir supprimé sa formule classique Essentiel à 10,99 € par mois, Netflix l'ôte finalement aux anciens abonnés récalcitrants. Si vous êtes encore abonné à cette offre, vous devrez changer de formule d'ici septembre ! Sommaire Netflix Essentiel : clap de fin pour l'abonnement sans pub le moins cher Tarifs Netflix : 67 % d'augmentation depuis les débuts Augmentation Netflix : le SVOD se porte bien, merci Il fallait s'y attendre. Après avoir retiré de son catalogue sa formule classique Essentiel sans publicité à 10,99 € par mois pour les nouveaux clients, Netflix la supprime pour les anciens abonnés qui en profitaient encore. Ces \"fidèles\" vont changer d'offre en septembre. En effet, les abonnés concernés ont reçu un mail de l'entreprise les informant qu'ils basculeront automatiquement vers l'offre Standard avec pub – étrangement, certains abonnés passeront automatiquement à l'abonnement Standard sans pub, mais cela ne semble concerner qu'une minorité. Ce changement concernera également les abonnés à la Freebox Delta, qui bénéficiaient jusqu'ici d'un abonnement Essentiel inclus dans l'offre de l'opérateur.\nPour faire passer la pilule, le SVOD souligne qu'ils profiteront de prestations améliorées – 1080p, deux écrans – et, dans le cas où la formule avec publicité est appliquée, qu'ils feront 45 % d'économies par rapport à leur ancien abonnement. Reste qu'ils devront se farcir la réclame, sous peine de devoir dégainer leur carte bleue – et l'abonnement Standard sans pub est bien plus onéreux.\nNetflix Essentiel : clap de fin pour l'abonnement sans pub le moins cher Le streaming vidéo sans publicité semble de plus en plus être réservé aux portefeuilles les plus garnis ! Ce qui était à l'origine le principal argument des services de SVOD (vidéo à la demande sur abonnement) pour attirer les téléspectateurs lassés des pubs à répétition entre leurs programmes télés, est en train de un privilège plus qu'onéreux. La faute à une concurrence accrue entre les plateformes et à l'appel de la rentabilité. Mais Netflix avait décidé d'aller un cran plus loin en supprimant l'abonnement Essentiel, qui permet de profiter de tout le catalogue de la firme et d'une qualité HD (720p) sur un seul écran pour 10,99 € par mois, de sa grille tarifaire. C'était l'offre la moins coûteuse si l'on désirait faire l'impasse sur la publicité.\nC'est par le biais d'un bandeau que Netflix avait partagé la nouvelle le 12 décembre 2023. À la rubrique \"Changer d'offre\" de la page \"Votre compte\", on pouvait lire : \"L'offre Essentiel n'est plus proposée. Si vous modifiez votre offre, vous ne pourrez pas revenir à Essentiel\". À ce moment, cette disparition ne concernait que les nouveaux abonnés : les anciens qui avait souscrit cette offre pouvaient continuer à en profiter au même tarif. Cette fois, c'est terminé : après leur avoir laissé un délai et réalisé plusieurs appels, Netflix les force à basculer sur une autre formule.\nCette décision est une façon d'augmenter, mine de rien, les prix pour ses futurs abonnés, puisqu'il faudra maintenant payer 13,49 € par mois pour profiter du SVOD sans publicité – contre 5,99 € avec –, et une bien mauvaise nouvelle en cette période d'inflation généralisée, d'autant plus que l'entreprise a déjà sensiblement augmenté ses prix depuis son arrivée sur le marché. Ce n'est néanmoins pas une grande surprise, car l'abonnement Essentiel avait déjà été supprimé en octobre dernier en Allemagne, en Espagne, au Japon, au Mexique, au Brésil et en Australie, alors qu'il n'était déjà plus proposé aux États-Unis, au Canada, au Royaume-Uni et en Italie depuis un moment (voir notre article ). Ensuite, la plateforme l'avait caché dans son catalogue : il fallait cliquer sur un lien très discret pour y accéder sur sa page d'abonnement. À mesure que la formule Standard avec pub se dotait de caractéristiques plus avantageuses, comme la possibilité de profiter de deux écrans en simultané et une qualité Full HD, l'avenir de la formule Essentiel semblait plus que compromis...\nTarifs Netflix : 67 % d'augmentation depuis les débuts Cette décision intervient après une importante augmentation des prix en octobre dernier. En effet, l'offre Standard avec pub s'était maintenue au prix de 5,99 € par mois, tandis que l'abonnement Essentiel était passé de 8,99 € à 10,99 € par mois – soit une hausse de 22 %. De son côté, l'abonnement Standard était resté à 13,49 €. En revanche, la formule Premium avait subi une hausse de 11 %, passant de 17,99 € à 19,99 € – ce qui, à environ 240 € par an, représente un budget non négligeable pour une famille.\nEn France, Netflix a augmenté ses tarifs à deux reprises depuis janvier 2019 pour ses offres sans publicité. L'abonnement Standard est ainsi passé de 8,99 € par mois en 2014 à 11,99 € par mois en juin 2019, avant de monter 13,49 € en août 2021, soit une augmentation totale de 50 % ! Dans le même temps, la formule Premium, proposée à 11,99 € par mois en 2014, a ensuite grimpé de 13,99 € par mois, puis à 15,99 euros, puis à 17,99 €, avant d'atteindre les 19,99 €, soit 67 % de hausse au total. Quant à l'offre Essentiel, elle n'avait augmenté \"que\" de 38 % depuis son lancement, passant de 7,99 € à 8,99 € par mois, avant de finalement atteindre les 10,99 €. Dans l'intervalle, Netflix a mis en place une formule d'entrée de gamme sensiblement moins chère, à 5,99 € par mois, mais avec des coupures publicitaires baptisée tout simplement Standard avec pub (voir notre article ).\nLa dernière augmentation des tarifs avant la suppression de la formule Essentiel. © CCM Augmentation Netflix : le SVOD se porte bien, merci Les motivations de Netflix sont multiples. D'abord, comme toutes les entreprises et tous les particuliers, la plateforme doit faire face à l'inflation généralisée, avec une hausse sensible des coûts de l'énergie indispensable à ses serveurs. Ensuite, après longtemps régné en maître sur la vidéo à la demande, Netflix doit désormais faire face à une concurrence redoutable, notamment de Disney+ – qui a également augmenté ses tarifs et ajouté un abonnement avec pub (voir notre article ) –, Amazon Prime Video – qui vient également d'introduire de la publicité dans son offre de base –, Paramount+ et Max – qui propose lui aussi une formule Basic avec publicités.\nReste que Netflix avait signé un très bon troisième trimestre 2023 avec un chiffre d'affaires de 8,5 milliards de dollars (soit +8 % par rapport à l'an dernier ), des bénéfices de 1,7 milliard (+20 %) et 8,8 millions de nouveaux abonnés. Des résultats qui découlent de la décision du SVOD de facturer le partage de compte, qui s'est révélée très lucrative pour l'entreprise. \"Le niveau de résiliation reste bas, au-delà de nos attentes, et la conversion de ceux qui utilisent le compte d'un tiers en abonnés payants démontre une bonne rétention\", se réjouissait-elle. Le SVOD a continué sur sa lancé et a gagné 2 millions d'abonnés au premier trimestre 2024, pour un total de 269,6 millions de souscripteurs dans le monde. Le chiffre d'affaires trimestriel s'est élevé à 9,4 milliards de dollars – soit +14,8 % comparé à 2023 – et les bénéfices à 2,6 milliards – soit +54 %. Tout va donc pour le mieux dans le meilleur des mondes... sauf pour le portefeuille des utilisateurs !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Social Issue",
+      "Business and Market Analysis"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-08-09T00:41:56.983+03:00",
+    "updated": "2024-08-09T00:41:56.983+03:00"
+  },
+  {
+    "uuid": "85011fd7a2339cd002818e1bf2cfc95a01964725",
+    "url": "https://www.dispatch.com/story/news/nation/2023/12/28/minnesota-woman-sues-dentist/72050466007/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Columbus Dispatch",
+    "published": "2023-12-28T21:40:00Z",
+    "title": "Kathleen Wilson's Minnesota dentist did 30 procedures at once: lawsuit",
+    "text": "A Minnesota dentist has become the subject of a malpractice lawsuit after his patient accused him of \"disfiguring\" her.\nThe civil lawsuit was filed in Hennepin County, Minnesota last week by Kathleen Wilson, who alleged Dr. Kevin Molldrem and Molldrem Family Dentistry caused her significant injury that is still being corrected.\nAccording to the suit, Molldrem performed more than 30 producers on Wilson in a single July 2020 visit, doing eight crowns, four root canals and 20 fillings in one go. The lawsuit alleges that the dentist \"perform[ed] this work improperly,\" resulting in pain and suffering, embarrassment, emotional distress, and disfigurement.\nMolldrem was likewise accused of using improper levels of anesthesia during the procedures and falsifying medical records to cover it up.\nTreatment called 'inconceivable' Gypsy Rose Blanchard released from Missouri prison early Thursday morning, DOC confirms Cher files for conservatorship of her son, claims Elijah Blue Allman's life is 'at risk' Ex-boyfriend of missing St. Louis woman admits to her murder after Wisconsin arrest: Police 6 dead, 3 injured in Johnson County, Texas, crash; victims include 2 young kids ages 9, 10 California Pizza Huts lay off all delivery drivers ahead of minimum wage increase “It is inconceivable that Dr. Molldrem could have prepared and placed 8 crowns under these circumstances in the time allotted, not to mention the additional 20 restorations,” wrote Dr. Avrum Goldstein, a dentist and expert witness brought on by Wilson's attorney, in an affidavit.\nGoldstein, who is a faculty member at NOVA Southeastern University , also wrote that Wilson had been correctly diagnosed as having a \"rare condition\" causing decay in almost all of her teeth, but Mollderm's course of action was not a proper form of treatment.\n\"[Wilson’s] required a slow, thoughtful, careful and measured response to her disease,” he said in his report. “Trying to fill every hole in every tooth in her mouth in one visit is not only the antithesis of what was indicated, it is not humanly possible to achieve in an effective or constructive manner.”\nDoctors remove wrong organ from man: They opened him up to remove his appendix. They mistakenly took out much more, lawsuit says.\nThe lawsuit also accused Mollderm of tampering with medical records to falsify the amount of anesthesia that was reportedly used, which in reality was nearly double the standard number of units, according to court paperwork. According to Goldstein, the maximum dose of anesthesia given in three hours should not exceed 490 mg, but Molldrem's records show he gave Wilson 960 mg.\n“Any negative cardiovascular or central nervous system outcomes could be tied to the local anesthetic overdose,\" he wrote.\nWilson said in the suit that she has since had to have the dental work completely redone by other dentists to repair Molldrem’s “negligent work,\" an ongoing process that has caused her to lose income and rack up medical bills on top of enduring pain, suffering and embarrassment. She is seeking more than $50,000 in damages.\nWilson's attorney and Molldrem did not immediately respond to request for comment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.seakexperts.com/members/4827-avrum-r-goldstein",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.",
+      "https://molldremdentistry.com/",
+      "https://seakexperts.com/members/4827-avrum-r-goldstein",
+      "https://molldremdentistry.com",
+      "https://www.dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html?_gl=1*1kqtqxq*_gcl_au*ODA4NzUxNTA1LjE3MDM3OTc5MjI.",
+      "https://www.molldremdentistry.com/",
+      "https://dental.nova.edu/aboutus/faculty/goldstein-avrum%20.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kathleen wilson",
+          "sentiment": "negative"
+        },
+        {
+          "name": "molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "cher",
+          "sentiment": "none"
+        },
+        {
+          "name": "kevin molldrem",
+          "sentiment": "none"
+        },
+        {
+          "name": "gypsy rose blanchard",
+          "sentiment": "none"
+        },
+        {
+          "name": "elijah blue allman",
+          "sentiment": "none"
+        },
+        {
+          "name": "wilson",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "doc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "minnesota",
+          "sentiment": "none"
+        },
+        {
+          "name": "missouri",
+          "sentiment": "none"
+        },
+        {
+          "name": "hennepin county",
+          "sentiment": "none"
+        },
+        {
+          "name": "st. louis",
+          "sentiment": "none"
+        },
+        {
+          "name": "wisconsin",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:06:05.263+02:00",
+    "updated": "2023-12-29T00:06:05.263+02:00"
+  }
+]

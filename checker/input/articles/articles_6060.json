@@ -1,0 +1,238 @@
+[
+  {
+    "uuid": "6cffd5e261825329f5f9a3a48819386984375f7c",
+    "url": "https://manilastandard.net/news/world-news/314403375/two-south-koreans-abducted-in-nigeria-released-seoul.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2023-12-29T21:00:00Z",
+    "title": "Two South Koreans abducted in Nigeria released : Seoul",
+    "text": "Two South Koreans have been released after being abducted nearly three weeks ago by an unidentified armed group in Nigeria, the foreign ministry in Seoul said Saturday.\nKidnapping for ransom is common in Nigeria and foreign workers have been targeted in the past by criminal gangs, especially those working in remote mining or construction projects.\nThe two Koreans, who were abducted in southern Nigeria on December 12, are employees of Daewoo Engineering & Construction Co., a major South Korean builder, according to Seoul’s Yonhap news agency.\nSouth Korean authorities secured their custody on Friday, Seoul’s foreign ministry said, further stating that they are in good health.\nThe men “have been moved to a safe area after a medical examination, and have spoken to their families” via phone, the ministry said in a statement sent to AFP.\nThe foreign ministry said their release was secured thanks to “close cooperation” between the government in Seoul and the company, and through “collaboration” with Nigerian military, police and intelligence authorities.\nIt did not state if any ransom was paid.\nDuring the abduction incident, members of the armed group killed four bodyguards, who are Nigerian soldiers, as well as two local drivers, Seoul said in the statement.\nThe South Korean government vowed to “continue to review the measures for the protection” of its nationals in Nigeria.\nSeoul will “actively engage with relevant government agencies, businesses, and overseas Koreans to prevent kidnapping incidents,” it added.\nSeveral Asian companies including from China and South Korea operate in Nigeria and are often involved with the country’s road and railway construction projects.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "yonhap",
+          "sentiment": "none"
+        },
+        {
+          "name": "daewoo engineering & construction co.",
+          "sentiment": "none"
+        },
+        {
+          "name": "afp",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "seoul",
+          "sentiment": "none"
+        },
+        {
+          "name": "nigeria",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-30T07:55:06.186+02:00",
+    "updated": "2023-12-30T07:55:06.186+02:00"
+  },
+  {
+    "uuid": "efcb48bbd46add888fe76b9a51c31cb19aafa354",
+    "url": "https://diariocorreo.pe/peru/lluvias-en-piura-exponen-fallas-en-el-drenaje-y-dejan-calles-anegadas-noticia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Redacción Correo",
+    "published": "2025-03-06T02:05:00Z",
+    "title": "Lluvias en Piura exponen fallas en el drenaje y dejan calles anegadas",
+    "text": "Las intensas lluvias volvieron a generar estragos en Piura. La tarde de este miércoles, un fuerte aguacero sorprendió a los ciudadanos y dejó varias calles inundadas, especialmente en el distrito 26 de Octubre. El agua cubrió avenidas y dificultó el tránsito vehicular y peatonal, reavivando la preocupación por la falta de un sistema de drenaje eficiente.\nEl Ministerio de Vivienda activó el sistema SARE Ignacio Merino para evacuar el agua acumulada, pero los aniegos persistieron en diversas zonas. En paralelo, vecinos denunciaron que este problema se repite cada vez que llueve con intensidad, afectando viviendas y comercios.\nEn otras localidades de Piura, la situación también es crítica. En Tambogrande, el techo del Centro de Salud San Isidro 10-4 colapsó por la acumulación de agua, mientras que en Ayabaca, personal médico tuvo que rescatar a una gestante atrapada por deslizamientos y quebradas activadas por las lluvias.\nLas autoridades han advertido que las precipitaciones continuarán en los próximos días, por lo que instan a la población a tomar precauciones.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->emergency response",
+      "Disaster and Accident->natural disaster",
+      "Environment->environmental clean-up",
+      "Environment->water pollution",
+      "Social Issue->communities",
+      "Social Issue->public housing",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Ignacio Merino",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Tambogrande",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Centro de Salud San Isidro",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Ministerio de Vivienda",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T04:15:23.311+02:00",
+    "updated": "2025-03-06T04:15:23.311+02:00"
+  },
+  {
+    "uuid": "37399cc5b922efa3aa5ecf22747e57d37ac95dc4",
+    "url": "https://www.hotukdeals.com/deals/oskar-schindler-a-life-from-beginning-to-end-world-war-2-biographies-kindle-edition-4271703",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "hotukdeals.com",
+    "published": "2023-12-30T13:45:00Z",
+    "title": "Oskar Schindler: A Life from Beginning to End (World War 2 Biographies) Kindle Edition | hotukdeals",
+    "text": "Oskar Schindler was an unexpected hero. He drank heavily, and some even said he was a womanizer who flaunted his affairs. Yet, in one of history\\u2019s darkest hours, he demonstrated an extraordinary capacity for courage and humanity. Amid the horrors of the Holocaust, Schindler found himself in a position where he could make a difference. Rather than bowing down in silent submission like so many others did, he chose to stand tall against the wave of tyranny unleashed by Adolf Hitler. He used his position and resources to save the lives of more than a thousand Jews, employing them in his factories and shielding them from the deadly clutches of the Nazi regime. This book delves into the complex and compelling story of Oskar Schindler. It\\u2019s a tale of how one individual, flawed and unheroic in conventional terms, can rise above the fray to make a profound impact. This is the story of Schindler and his list that became a symbol of hope and human decency amid one of the greatest atrocities in modern history. Discover a plethora of topics such as Schindler Joins the Nazis An Unlikely Hero Joining the Resistance Schindler Builds His Own Camp The Real Schindler\\u2019s List Poor as a Pauper: After the War And much more! Product details ASIN \\u200f : \\u200e B0CQX7BZT2 Publisher \\u200f : \\u200e Hourly History (24 Dec. 2023) Language \\u200f : \\u200e English File size \\u200f : \\u200e 1205 KB Simultaneous device usage \\u200f : \\u200e Unlimited Text-to-Speech \\u200f : \\u200e Enabled Screen Reader \\u200f : \\u200e Supported Enhanced typesetting \\u200f : \\u200e Enabled X-Ray \\u200f : \\u200e Not Enabled Word Wise \\u200f : \\u200e Enabled Sticky notes \\u200f : \\u200e On Kindle Scribe Print length \\u200f : \\u200e 59 pages Page numbers source ISBN \\u200f : \\u200e B0CQXQP9KL Best Sellers Rank: #82 Free in Kindle Store ( See Top 100 in Kindle Store ) 1 in World History (Kindle Store) 1 in Biographies of the Holocaust Customer reviews: 4.6 4.6 out of 5 stars 5 ratings",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "oskar schindler",
+          "sentiment": "positive"
+        },
+        {
+          "name": "adolf hitler",
+          "sentiment": "none"
+        },
+        {
+          "name": "schindler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "schindler",
+          "sentiment": "none"
+        },
+        {
+          "name": "nazi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-30T16:18:53.493+02:00",
+    "updated": "2023-12-30T16:18:53.493+02:00"
+  },
+  {
+    "uuid": "4dca83c4efcf68fb1de768342ca4a9f0f9828e12",
+    "url": "https://www.eleconomista.com.mx/sectorfinanciero/oxxo-lanza-herramienta-devoluciones-efectivo-20250730-770573.html",
+    "ord_in_thread": 0,
+    "author": "Sebastian Estrada",
+    "published": "2025-07-31T03:25:00Z",
+    "title": "Oxxo lanza herramienta para devoluciones en efectivo",
+    "text": "Sector Financiero\nLectura 2:00 min\nOxxo lanza herramienta para devoluciones en efectivo\nUna división de negocios de Oxxo anunció el lanzamiento de una nueva herramienta diseñada para que negocios en México que necesiten realizar devoluciones, pagos a clientes u ofrecer retiros, puedan enviar dinero de forma rápida a través de la red nacional de más de 23,000 tiendas de Oxxo.\nUna división de negocios de Oxxo anunció el lanzamiento de una nueva herramienta diseñada para que negocios en México que necesiten realizar devoluciones, pagos a clientes u ofrecer retiros, puedan enviar dinero de forma rápida a través de la red nacional de más de 23,000 tiendas de Oxxo.\nLa división especializada en soluciones de pago, Oxxo Pay, presentó “Retiro al Instante”, una funcionalidad habilitada por Spin Negocios. A través de una referencia enviada por mensaje o correo electrónico, cualquier persona puede acudir a una tienda Oxxo, presentar un código QR y retirar dinero en efectivo al momento, sin necesidad de tener cuenta bancaria, tarjeta o aplicación móvil.\nPara muchas de estas personas, el efectivo sigue siendo la única vía accesible para participar en la economía, debido a que cerca de 80% de las transacciones en el país se realizan en efectivo.\n“Con Retiro al Instante seguimos desarrollando soluciones pensadas para el México real. Esta herramienta facilita pagos, devoluciones o entrega de beneficios en efectivo, incluso donde los servicios financieros no son accesibles”, destacó Juan Carlos Guillermety, director ejecutivo de Spin.\nLa solución está dirigida a negocios que requieren hacer pagos, devoluciones o transferencias a clientes, colaboradores o beneficiarios. Empresas de sectores como comercio electrónico, microfinancieras, seguros, casinos, transporte o programas sociales ya pueden utilizar esta herramienta, disponible para los comercios integrados a Oxxo Pay a través de Spin Negocios.\nSegún el comunicado de la empresa, la funcionalidad tiene cobertura nacional en más de 23,000 tiendas Oxxo, abiertas los siete días de la semana, las 24 horas del día. Además, permite acceso sin cuenta bancaria, con el objetivo de atender a personas no bancarizadas o en zonas rurales, retiros inmediatos en caja y fondeo mediante el Sistema de Pagos Electrónicos Interbancarios (SPEI) con una referencia única.\nComo parte de su estrategia financiera, Oxxo ha comenzado a ofrecer préstamos personales, realizó su conexión directa al SPEI, a través de Spin. Además, Fomento Económico Mexicano (Femsa), empresa matriz de Oxxo, anunció su intención de solicitar una licencia bancaria ante la Comisión Nacional Bancaria y de Valores (CNBV).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_pe",
+        "top_news_mx",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:57:25.914+03:00",
+    "updated": "2025-08-01T08:08:45.000+03:00"
+  }
+]

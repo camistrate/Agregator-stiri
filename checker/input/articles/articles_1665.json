@@ -1,0 +1,551 @@
+[
+  {
+    "uuid": "d0a6f5b34fb0fbab28048ea70f6a3c44ccd4f59b",
+    "url": "https://techhq.com/2024/11/ddta-leak-2-million-job-seeker-records-exposed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Muhammad Zulhusni",
+    "published": "2024-11-15T09:39:00Z",
+    "title": "Two million job-seeker records exposed",
+    "text": "Database exposed sensitive data of 200,000 job seekers. Data leak risks high-value phishing and job-offer scams. Jeremiah Fowler, a cybersecurity researcher, recently discovered something all too common : open, public-facing files containing personal information. In this instance, the data was details of over 200,000 job-seekers in the tech industry.\nFowler tipped off Website Planet about his discovery, saying that the data seemed to be tied to Alltech Consulting Services, a company recognised for connecting global tech talent with employers in the United States and Canada.\nThe unprotected database held over 2.3 million records, with a specific folder labelled “Documents” containing details on around 216,000 job seekers. The files listed names, phone numbers, emails, partial-redacted Social Security numbers, passport numbers, visa statuses, and notes on individuals’ previous work experience, skills, and the roles they were seeking.\nFowler managed to trace the database to Alltech Consulting Services, a New Jersey-based company. After his discover, Fowler quickly sent notice to the company and the database was removed in 24 hours. However, he personally didn’t get any message from Alltech, leaving questions about whether the company or a third-party provider were behind the mismanagement of the data. It’s also unclear how long the information was exposed or if anyone else accessed it – answers that would require a forensic investigation.\nREAD NEXT 200,000+ customers’ data compromised at retailer It wasn’t just job seekers whose details were open; some records also listed employer info, including company names, emails, and phone numbers. Plus, many files mentioned H-1B visas, a type that allows US companies to employ foreign talent in fields like IT and engineering. If cybercriminals had got hold of this detailed data, it could easily be used in targeted attacks.\nIt’s no secret that tech professionals are valuable targets. Demand for tech talent as soaring – around 377,500 job openings are expected annually through to 2032 – and salaries often top $100,000, so scammers have plenty of incentive. Exposing passport numbers or partial SSNs could be the first puzzle pieces a dedicated criminal would need for full identity theft. With more information on hand, they could launch phishing scams to trick individuals into sharing more sensitive details. Fowler stressed he’s not saying Alltech’s clients are at risk, just that employment scams are a very real issue these days.\nScams involving fake job offers have become a big deal in recent years. According to the FTC , job scams are up 110% in 2023, costing an estimated $737 million in the United States between 2019 and 2023. The schemes cost victims an average of $12,000 each, and regrettably, there is no easy fix.\nFowler advises job seekers to be aware of any recruiter or organisation that asks for upfront fees, credit card details, or sensitive data like Social Security numbers or passport information. The message is to do your homework on the agency and any company offering a position. If something sounds way too good to be true, it probably is.\nInterestingly, a large number of people in this database were H-1B visa holders, who might be at additional risk. Since H-1B visas require sponsorship, scammers offering fake jobs with promises of visa help could more easily trick people into giving up personal info or paying fees. Criminals might even impersonate officials or immigration attorneys, making it seem like they’re helping with visa issues, for instance.\nThis whole incident highlights why data security is so crucial, especially with sensitive personal info left in the open by agencies and emplogers. In the wrong hands, such data could be a goldmine for scammers attempting to abuse high-value targets.\nREAD NEXT Move over, HaveIBeenPwned: DataBreach.com may be the new go-to Though the database in question has since been blocked from public access, it is unclear how long it was in the open or whether others accessed it. Fowler suggests companies storing large amounts of data should lock down access controls and run regular security tests to stay ahead of breaches. Updating systems, plugins, and software is another key step to avoid these exposures.\nFowler wasn’t pointing a finger at Alltech or its partners specifically. He shared his discoveries for educational purposes and to urge similar parties to monitor their own security methods.\nAs an ethical researcher, Fowler does not download any data he finds and instead only takes a few screenshots for verification. Only a forensic investigation could reveal the full details of this exposure, and his role ended at identifying issues and notifying those involved. His goal, and that of others in the security community is simple: to raise awareness about data security and privacy risks that could affect anyone.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://consumer.ftc.gov/consumer-alerts/2023/04/you-got-job",
+      "https://www.websiteplanet.com/news/alltechconsultinginc-breach-report/",
+      "https://www.websiteplanet.com/news/alltechconsultinginc-breach-report",
+      "https://www.consumer.ftc.gov/consumer-alerts/2023/04/you-got-job",
+      "https://websiteplanet.com/news/alltechconsultinginc-breach-report/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Jeremiah Fowler",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Alltech Consulting Services",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T15:01:33.354+02:00",
+    "updated": "2024-11-15T15:01:33.354+02:00"
+  },
+  {
+    "uuid": "c49e09bc8a45d2d4e0f9860f08e5d250636fa1f4",
+    "url": "https://theprint.in/tech/duolingo-forecasts-annual-revenue-above-estimates-on-strong-adoption-of-ai-features/2514822",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2025-02-27T21:15:00Z",
+    "title": "Duolingo forecasts annual revenue above estimates on strong adoption of AI features - ThePrint - ReutersFeed",
+    "text": "Home Tech Duolingo forecasts annual revenue above estimates on strong adoption of AI features Tech Duolingo forecasts annual revenue above estimates on strong adoption of AI features Reuters 28 February, 2025 02:45 am IST (c) Copyright Thomson Reuters 2025 Follow Us : Text Size: A- A+\nBy Akash Sriram\n(Reuters) -Language learning app Duolingo forecast annual revenue above Wall Street expectations on Thursday, anticipating a stronger adoption of its subscription tier featuring artificial intelligence capabilities.\nThe Pittsburgh, Pennsylvania-based company’s shares were up about 4% in extended trading.\nThe company operates a “freemium” model, providing a basic set of features for all users at no cost with additional capabilities available through monthly or annual paid subscriptions.\nShow Full Article\nDuolingo runs two subscription tiers — Super for avid users, and Max, which includes a generative AI-driven feature that simulates natural conversations through video calls.\nOver the past few months, Duolingo has expanded the feature to a slew of languages to rake in more subscribers and grow revenue, but the video call feature on its Max subscription added to costs.\nIt expects revenue for 2025 to be in the range of $962.5 million to $978.5 million, compared to analysts’ estimate of $965.9 million, according to data compiled by LSEG.\nDuolingo forecast revenue for the first quarter ranging from $220.5 million to $223.5 million. Analysts, on average, were expecting $221.1 million.\n“There’s a marginal cost to Max, and that marginal cost is we call generative AI models to power what is the most important part of Max, which is the video call, and that did have about a 100-basis-point impact to gross margin,” Chief Financial Officer Matt Skaruppa told Reuters.\n“The first priority is innovating as quickly as possible, experimenting as quickly as possible to drive more engagement, and then the costs will come down over time.”\nThe firm also forecast adjusted core profit between $259.9 million and $274 million this year, below estimates of $272.1 million, largely due to costs related to its AI video call features.\nThe company said chatter around the TikTok ban in January and a marketing campaign in which the app’s mascot, Duo, faked his death and returned led to a jump in users in February.\n(Reporting by Akash Sriram in Bengaluru; Editing by Alan Barona)\nDisclaimer: This report is auto generated from the Reuters news service. ThePrint holds no responsibility for its content.\nSubscribe to our channels on YouTube , Telegram & WhatsApp\nSupport Our Journalism\nIndia needs fair, non-hyphenated and questioning journalism, packed with on-ground reporting. ThePrint – with exceptional reporters, columnists and editors – is doing just that.\nSustaining this needs support from wonderful readers like you.\nWhether you live in India or overseas, you can take a paid subscription by clicking here .\nSupport Our Journalism\nTags LEAVE A REPLY Cancel Comment: Please enter your comment! Name:* Please enter your name here Email:* You have entered an incorrect email address! Please enter your email address here Save my name, email, and website in this browser for the next time I comment.\nΔ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->computing and information technology",
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking",
+      "Social Issue->adoption"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://news.google.com/publications/CAAiEJ4BfMo3d_iCDXCxGfnD968qFAgKIhCeAXzKN3f4gg1wsRn5w_ev?hl=en-IN&gl=IN&ceid=IN:en",
+      "https://www.youtube.com/ThePrintIndia/?sub_confirmation=1",
+      "https://t.me/ThePrintIndia",
+      "https://www.whatsapp.com/channel/0029VaNK5yfJkK7I6MT34t1l",
+      "https://news.google.com/publications/CAAiEJ4BfMo3d_iCDXCxGfnD968qFAgKIhCeAXzKN3f4gg1wsRn5w_ev",
+      "https://www.youtube.com/ThePrintIndia/",
+      "https://www.news.google.com/publications/CAAiEJ4BfMo3d_iCDXCxGfnD968qFAgKIhCeAXzKN3f4gg1wsRn5w_ev?hl=en-IN&gl=IN&ceid=IN:en",
+      "https://youtube.com/ThePrintIndia/?sub_confirmation=1",
+      "https://www.t.me/ThePrintIndia",
+      "https://whatsapp.com/channel/0029VaNK5yfJkK7I6MT34t1l"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Akash Sriram",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Reuters",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:49:32.887+02:00",
+    "updated": "2025-02-28T00:49:32.887+02:00"
+  },
+  {
+    "uuid": "5ad2112633273fcd51fd885cd5d372a859343afc",
+    "url": "https://www.furman.edu/news/kerry-sease-joins-access-carolina-previews-community-wellness-conversations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tina Underwood",
+    "published": "2024-12-05T22:07:00Z",
+    "title": "Kerry Sease joins 'Access Carolina,' previews community wellness conversations - News",
+    "text": "News from campus and beyond\nKerry Sease joins ‘Access Carolina,’ previews community wellness conversations\nFurman University institutes and centers exist to build strong relationships between campus and the community it serves. The Institute for the Advancement of Community Health will be hosting sessions in the early part of 2025 that address social and emotional wellness. IACH Executive Director Dr. Kerry Sease explained the series and its first installment about childhood wellness, maternal health care and quality childcare when she appeared as a guest on FOX Carolina’s “[Access Carolina](https://mms.tveyes.com/Transcript.asp?StationID=2730&DateTime=11%2F12%2F2024+2%3A34%3A10+PM&u=814822&e=true&t=False&aln=65905890)” with host Margaret Burnquist.\n[Learn more](https://www.furman.edu/institute-advancement-community-health/2024/10/08/iach-to-host-community-health-conversations/) about the remaining IACH sessions, which take place at the Crescent Startup Community Jan. 14, and March 11, 2025, at 5 p.m.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://mms.tveyes.com/Transcript.asp?StationID=2730&DateTime=11%2F12%2F2024+2%3A34%3A10+PM&u=814822&e=true&t=False&aln=65905890",
+      "https://mms.tveyes.com/Transcript.asp",
+      "https://www.mms.tveyes.com/Transcript.asp?StationID=2730&DateTime=11%2F12%2F2024+2%3A34%3A10+PM&u=814822&e=true&t=False&aln=65905890"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T01:54:35.483+02:00",
+    "updated": "2024-12-06T01:54:35.483+02:00"
+  },
+  {
+    "uuid": "781314c235235ba2cb8b3fe4c034d44f0c21fe0e",
+    "url": "https://www.infobae.com/mexico/2024/01/07/casi-la-estrena-mujer-entro-en-labor-de-parto-dentro-de-la-linea-1-del-metro/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Luz Coello",
+    "published": "2024-01-07T23:18:00Z",
+    "title": "¡Casi la estrena!; mujer entró en labor de parto dentro de la Línea 1 del Metro",
+    "text": "En 2023, varios veces nacieron en las instalaciones del Sistema de Transporte Colectivo Metro (STC), ahora en el inicio de este 2024, en la renovada Línea 1 del Metro un bebé estuvo a punto de nacer y ser el primer pudo haber estrenado la nueva línea rosa.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:28:21.728+02:00",
+    "updated": "2024-01-08T01:33:27.005+02:00"
+  },
+  {
+    "uuid": "c6902130b253a776c44567148c40da8d50a37769",
+    "url": "https://www.umbria24.it/attualita/a-perugia-sciopera-anche-sda-cobas-basta-contratti-usa-e-getta",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elle",
+    "published": "2024-11-29T12:20:00Z",
+    "title": "A Perugia sciopera anche Sda, Cobas: «Basta contratti “usa e getta”»",
+    "text": "«Il recente accordo integrativo siglato dalla Filt aumenta la percentuale di assunti a tempo determinato, per il periodo che va da ottobre a dicembre, fino al 45 percento rispetto ai tempi indeterminati. In deroga a quanto invece previsto dal contratto collettivo nazionale di lavoro». Non solo Cgil e Uil contro la manovra di bilancio . Nella giornata di venerdì 29 novembre incrociano le braccia anche i lavoratori della logistica di Sda iscritti al sindacato dei Cobas. Lo sciopero rivendica la necessità di porre un freno ai contratti a tempo determinato.\nI lavoratori in questione, dicono dal sindacato, si ritroverebbero in condizioni di assoluta precarietà: «Utilizzati per pochissimo tempo e poi lasciati a casa con scarsissime possibilità di riassunzione. Noi crediamo invece che proprio a livello nazionale vadano inserite norme finalizzate alla riduzione della precarietà e dei contratti “usa e getta”. Solo così è possibile davvero garantire la dignità di chi lavora e la sua sicurezza».\nCobas mette le mani avanti e propone soluzioni che «possano garantire un percorso di stabilizzazione dei lavoratori assunti a tempo determinato». Si parla di verifiche mensili (e non più annuali), del calcolo della percentuale di impiego di lavoratori somministrati e di tempi determinati «che non potranno superare il 20 percento dell’organico complessivo». Il sindacato propone anche l’internalizzazione (presso l’azienda utilizzatrice) dei lavoratori somministrati. E come ultimo punto, Cobas chiede a Sda la stabilizzazione per i lavoratori somministrati e per i lavoratori subordinati diretti a tempo determinato, «al raggiungimento del 12esimo mese di impiego, anche non continuativo».",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Labor",
+      "Social Issue",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1200%2C900&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1568%2C1176&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=400%2C300&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=600%2C450&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=1600%2C1200&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=300%2C225&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1024%2C768&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=1024%2C768&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas-1024x768.jpeg?w=370&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?w=1600&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1536%2C1152&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1024%2C768&#038;ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=800%2C600&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=300%2C225&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=200%2C150&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=768%2C576&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=768%2C576&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1024%2C768&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas-1024x768.jpeg?w=370&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=1600%2C1200&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=1024%2C768&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?fit=300%2C225&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=400%2C300&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=300%2C225&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=600%2C450&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1200%2C900&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?w=1600&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=200%2C150&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=800%2C600&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1024%2C768&#038;ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1568%2C1176&ssl=1",
+      "https://www.i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas.jpeg?resize=1536%2C1152&ssl=1",
+      "https://i0.wp.com/www.umbria24.it/wp-content/uploads/2024/11/sda-si-cobas-1024x768.jpeg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Filt",
+          "sentiment": "none"
+        },
+        {
+          "name": "Cobas",
+          "sentiment": "none"
+        },
+        {
+          "name": "Cgil",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sda",
+          "sentiment": "none"
+        },
+        {
+          "name": "Uil",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-29T17:40:11.114+02:00",
+    "updated": "2024-11-29T17:40:11.114+02:00"
+  },
+  {
+    "uuid": "ffc8d0ff040fd3779b00248ab646abdb70277e04",
+    "url": "https://www.world-today-news.com/freshly-taking-part-in-go-forward-eagles-fail-to-beat-brann-in-european-duel-0-0",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "world today news",
+    "published": "2024-07-25T20:11:00Z",
+    "title": "Freshly taking part in Go Forward Eagles fail to beat Brann in European duel: 0-0",
+    "text": "Professional ShotsSøren Tengstedt is disillusioned after a missed alternative\nNOS Voetbal•gisteren, 20:28\nGo Forward Eagles didn’t get previous Norwegian SK Brann within the second qualifying spherical of the Convention League. The workforce from Deventer performed effectively at instances and had just a few clear-cut probabilities, however failed to attain (0-0).\nIt was the primary European match within the Adelaarshorst in virtually sixty years. The stadium was offered out and the viewers made a optimistic assertion by producing plenty of noise.\n“It is all the time nice right here, whether or not you are taking part in within the Eredivisie, First Division or Convention League,” stated captain Mats Deijl afterwards. “They all the time give power and at the moment it helped us once more.”\nThe return leg is in Bergen on Thursday 1 August. If Go Forward makes it by way of, Valur or St. Mirren await within the subsequent spherical. The primary duel between the Icelanders and the Scots additionally led to 0-0.\nExcellent Adekanye\nGo Forward Eagles began the match in opposition to Brann with out a few of final season’s key gamers, Willum Willumson (Birmingham Metropolis), Philippe Rommens (Ferencvaros) and Bas Kuipers (FC Twente) all made good transfers in current weeks.\nANPBobby Adekanye crosses\nCoach René Hake additionally left to change into Erik ten Hag’s assistant at Manchester United. His successor, Paul Simonis, made his official debut as coach of Go Forward Eagles in opposition to Brann.\nWinger Bobby Adekanye stayed and made his presence felt within the first half. He ready Go Forward’s first probability after fifteen minutes by placing Søren Tengstedt in a promising place, however the Dane’s shot was straight on the keeper.\nAdekanye himself was then harmful twice, however each of his photographs went simply vast.\nWatch the reactions of coach Paul Simonis and captain Mats Deijl after the match:\nGo Forward sees alternatives after 0-0 in opposition to Brann: ‘Nicely-defended, nonetheless every little thing to play for’\nThe second half passed off at a slower tempo. Go Forward Eagles has simply began getting ready for the brand new season, whereas Brann has already performed half a season. In Norway, the soccer competitors is performed per calendar yr.\nEach groups appeared unable to create good probabilities, though it was Adekanye who got here shut once more. After virtually eighty minutes he dribbled dangerously into the penalty space, however didn’t push the ball previous the keeper.\n“We had the very best probabilities and will have gained with a bit extra luck,” stated coach Simonis afterwards. “However it was shut.”\nSimply earlier than the top, Go Forward suffered a setback. Eric Llansana was proven the crimson card after he had introduced down an opponent who had damaged by way of and must miss the return match in Norway in seven days.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Sport"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "shotssøren tengstedt",
+          "sentiment": "negative"
+        },
+        {
+          "name": "deventer",
+          "sentiment": "none"
+        },
+        {
+          "name": "mirren",
+          "sentiment": "none"
+        },
+        {
+          "name": "mats deijl",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "brann",
+          "sentiment": "negative"
+        },
+        {
+          "name": "convention league",
+          "sentiment": "none"
+        },
+        {
+          "name": "sk brann",
+          "sentiment": "none"
+        },
+        {
+          "name": "scots",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "adelaarshorst",
+          "sentiment": "none"
+        },
+        {
+          "name": "bergen",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-26T02:39:10.459+03:00",
+    "updated": "2024-07-26T02:39:10.459+03:00"
+  },
+  {
+    "uuid": "eb8d549baec09fe3532d0a0fbbe6acacd47f5db0",
+    "url": "https://www.alexcityoutlook.com/news/reyes-lynn-give-insights-into-upgrades-at-schools/article_65cfb800-b354-11ef-a33a-17013b38c240.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LIZI ARBOGAST GWIN Managing Editor",
+    "published": "2024-12-05T22:07:00Z",
+    "title": "Reyes, Lynn give insights into upgrades at schools | News | alexcityoutlook.com",
+    "text": "Progress is everywhere you look in Alexander City and Tallapoosa County.\n× This page requires Javascript. Javascript is required for you to be able to read premium content. Please enable it in your browser settings.\nkA 5:ClQ=ECQmuC@> E96 ?6H !F3=:I :? p=6I r:EJ E@ E96 ?6H 28C:4F=EFC2= 46?E6C >2<:?8 :ED H2J E@H2C5 4@>A=6E:@? :? y24<D@?’D v2A[ E96C6’D AC@8C6DD 2== 2C@F?5 FD — 2?5 E96 D49@@= DJDE6>D 2C6 ?@ 5:776C6?E]k^Am kA 5:ClQ=ECQmq@E9 p=6I2?56C r:EJ $49@@=D DFA6C:?E6?56?E sC] y@D6 #6J6D 2?5 r6?EC2= p=232>2 r@>>F?:EJ r@==686 AC6D:56?E y677 {J?? H6C6 @? 92?5 E@ 5:D4FDD FA8C256D 2E E96:C C6DA64E:G6 D49@@=D 5FC:?8 %F6D52J’D $E2E6 @7 t5F42E:@?]k^Am kA 5:ClQ=ECQm~7 4@FCD6 @?6 @7 E96 3:886DE E@A:4D @? 6G6CJ@?6’D >:?5D H96? :E 4@>6D E@ E96 D49@@=D :? E96 ?6H q6?;2>:? #FDD6== w:89 $49@@=]k^Am kA 5:ClQ=ECQm“x <?@H >@DE @7 J@F AC@323=J <?@H H6 92G6 2 D>2== AC@;64E E92E’D 8@:?8 @? @FE 2E E96 $A@CEA=6I[” #6J6D D2:5 H:E9 2 =2F89]k^Am kA 5:ClQ=ECQmp=6I r:EJ $49@@=D :? E96 AC@46DD @7 3F:=5:?8 2 DE2E6\\@7\\E96\\2CE 9:89 D49@@= E92E 4@>6D :? 2E 2AAC@I:>2E6=J S`__ >:==:@?[ #6J6D D2:5] pD @7 %F6D52J[ #6J6D D2:5 E96 AC@;64E H2D 2E eaT 4@>A=6E:@? 2?5 H2D @? D4965F=6 E@ 36 :? FD6 3J y2?F2CJ a_ae]k^Am kA 5:ClQ=ECQm%96 a`d[___\\DBF2C6 7@@E 3F:=5:?8 2?5 @E96C 3F:=5:?8D E92E 8@ 2=@?8 H:E9 :E 2C6 DFAA@D65 E@ 36 4@>A=6E65 ?62C E96 6?5 @7 a_ad] k^Am kA 5:ClQ=ECQmx? 255:E:@? E@ E96 3F:=5:?8 :ED6=7[ E96C6 H:== 2=D@ 36 2 AC24E:46 7@@E32== 2?5 D@446C 7:6=5 2D H6== 2D E96 7:CDE 4@>A6E:E:G6 EC24< q#w$ 92D 6G6C D66?] k^Am kA 5:ClQ=ECQm“(6’C6 DFA6C 6I4:E65 23@FE E92E[” #6J6D D2:5]k^Am kA 5:ClQ=ECQm%96 8J>?2D:F> H:== D62E `[a__ 2?5 #6J6D D2:5 :E’== 36 D:>:=2C E@ E92E @7 2 D>2== 4@==686 8J>] k^Am kA 5:ClQ=ECQm“(6’== 92G6 2 H6:89E C@@> F?56C?62E9 E96 2FI:=:2CJ 8J> E92E H:== 9@=5 23@FE Sc__[___ H@CE9 @7 H6:89E 6BF:A>6?E[” #6J6D D2:5] “xE H:== =@@< =:<6 p=232>2[ ~C68@? 2?5 E9@D6 s:G:D:@? x D49@@=D]” k^Am kA 5:ClQ=ECQm%96 32?5 C@@> H:== 2=D@ 36 23@FE a ½ E:>6D E96 D:K6 @7 q#w$’ 4FCC6?E 32?5 724:=:EJj :E’== 92G6 2 7F==\\D6CG:46 4F=:?2CJ <:E496? 2?5 24256>:4 H:?8] k^Am Get Exclusive Members Only Newsletters Success! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nSide Notes Manage your lists Sign up for our Free Newsletters Success! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nWeekly Top Stories Top trending stories from the past week.\nLatest Headlines News, Sports, and more throughout the week.\nLocal Obituaries The week's obituaries, delivered to your inbox.\nYou must select at least one email list. Please enter a valid email address. Sign up Manage your lists kA 5:ClQ=ECQm“xE’D 8@:?8 E@ 36[ BF:E6 7C2?<=J[ :? >J @A:?:@?[ @?6 @7 E96 E@A `_ 42>AFD6D :? E96 DE2E6 @7 p=232>2[” #6J6D D2:5]k^Am kA 5:ClQ=ECQmqFE H:E9 2 ?6H D49@@= 4@>6D 492?86[ 2?5 #6J6D 92D >256 9:D C64@>>6?52E:@? E@ 4@?D@=:52E6 E96 C6>2:?:?8 D49@@=D[ F=E:>2E6=J 4=@D:?8 E96 4FCC6?E $E6A96?D 2?5 #25?6J 6=6>6?E2CJ D49@@=D] x? 9:D C64@>>6?52E:@?[ #6J6D :D C64@>>6?5:?8 <66A:?8 E96 4FCC6?E y:> !62CD@? t=6>6?E2CJ $49@@= 2D :E :D[ 9@FD:?8 AC6\\z E9C@F89 D64@?5 8C256] w6 E96? C64@>>6?5D >@G:?8 E9:C5 E9C@F89 7:7E9 8C256 E@ E96 4FCC6?E >:55=6 D49@@= 2?5 C6?2>:?8 :E }2E92?:6= w] $E6A96?D x?E6C>65:2E6 $49@@= 2?5 >@G:?8 D:IE9 E9C@F89 6:89E9 8C256 E@ E96 4FCC6?E 9:89 D49@@= 2?5 ?2>:?8 :E (:==:2> {] #25?6J yF?:@C w:89 @C |:55=6 $49@@=] k^Am kA 5:ClQ=ECQm“x E9:?< :E’D G6CJ :>A@CE2?E 7@C FD E@ >2<6 DFC6 E92E H6 9@?@C 3@E9 |C] $E6A96?D 2?5 |C] #25?6J[” #6J6D D2:5] “%96J 2C6 3@E9 G6CJ H6== <?@H? :? @FC 4@>>F?:EJ 2?5 92G6 5@?6 2 =@E @7 E9:?8D 7@C 65F42E:@?]” k^Am kA 5:ClQ=ECQm(9:=6 E96 ?6H q6?;2>:? #FDD6== :D D4965F=65 E@ @A6? y2?F2CJ a_ae[ >@G:?8 E96 C6DE @7 E96 D49@@=D H@F=5 ?@E 7@==@H F?E:= pF8FDE E@ 368:? E96 a_ae\\af D49@@= J62C[ #6J6D 6DE:>2E65]k^Am kA 5:ClQ=ECQmp=6I2?56C r:EJ $49@@=D 2C6?’E E96 @?=J @?6D F?56C8@:?8 >2;@C C6?@G2E:@?D 2D r6?EC2= p=232>2 r@>>F?:EJ r@==686 92D 2=D@ 5@?6 D@>6 H@C< 2?5 FA8C256D @? :ED G2C:@FD 42>AFD6D] k^Am kA 5:ClQ=ECQm“$@ @? E96 42>AFD 96C6[ H6’G6 8@E 23@FE S`c >:==:@? 4FCC6?E=J F?56C C6?@G2E:@?D[” {J?? D2:5] “(6 4@>A=6E65 2 Sa >:==:@? AC@;64E FA E96 9:== H:E9 E96 >2C:?6 E649 AC@8C2>]”k^Am kA 5:ClQ=ECQmqFE >F49 @7 E96 C6?@G2E:@?D 2C6 4@>:?8 2E E96 =:3C2CJ[ H9:49 :D F?56C8@:?8 2=>@DE 2 4@>A=6E6 @G6C92F=] k^Am kA 5:ClQ=ECQmp44@C5:?8 E@ {J??[ E96 =:3C2CJ H:== 36 C63F:=E 2?5 4@?G6CE65 :?E@ 2 36EE6C DA246 E@ 36 FD65 7@C 4=2DDC@@>D[ :?4=F5:?8 E96 ?FCD:?8 H:?8 2D H6== 2D 496>:DECJ[ 3:@=@8J 2?5 A9JD:42= D4:6?46 =23D]k^Am kA 5:ClQ=ECQmp?@E96C 3F:=5:?8 @? 42>AFD H:== 36 4@?G6CE65 :?E@ 2 8C66? DA246]k^Am kA 5:ClQ=ECQm“(6 92G6 2 =@E @7 42A24:EJ 2E E96 D49@@=[” {J?? D2:5] “(6 ;FDE ?665 E@ FD6 :E 2AAC@AC:2E6=J 2?5 H6 ?665 E@ 86E C:5 @7 E96 @=5 3F:=5:?8D E92E H6 92G6]” k^Am kA 5:ClQ=ECQm~?6 AC@;64E {J?? :D 6DA64:2==J 6I4:E65 23@FE :D E96 C6?@G2E:@?D E@ E96 @=5 E962E6C @? 42>AFD[ H9:49 96 6DE:>2E65 92D 366? @FE @7 FD6 7@C 2E =62DE `_ J62CD]k^Am kA 5:ClQ=ECQm“(6 2C6 C62==J 6I4:E65 23@FE E92Ej H6 2C6 8@:?8 E@ 36 DE2CE:?8 4@?DECF4E:@? @? E92E G6CJ[ G6CJ D@@?[” {J?? D2:5] “%96 56>@ :D G6CJ 4=@D6 E@ 36:?8 5@?6]”k^Am Lizi Arbogast Gwin is the managing editor of Tallapoosa Publishers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "topics": null,
+    "ai_allow": false,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Reyes",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Lynn",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "Tallapoosa County",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T03:07:21.734+02:00",
+    "updated": "2024-12-06T03:07:21.734+02:00"
+  },
+  {
+    "uuid": "22fe3956deb35f13b1be88b8827eb0289021d688",
+    "url": "https://flipboard.com/article/trump-pitches-grim-platform-to-christian-voters-in-nashville/f-69cef6dd73%2Fnashvillescene.co",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "nashvillescene.com - Hamilton Matthew Masters",
+    "published": "2024-02-23T00:00:00Z",
+    "title": "Trump Pitches Grim Platform to Christian Voters in Nashville | Flipboard",
+    "text": "Trump Pitches Grim Platform to Christian Voters in Nashville Indicted former president rails against ‘the communists and the freaks’ at Christian media convention More stories from [U.S. Politics](/topic/u.s.politics) - Storyboard Side Hustle Scam: How To Avoid This MLM Scam That Can Happen In Target StoresCurated byDaily Dot [A user on TikTok has gone viral after recounting an interaction she allegedly had in a Target. According to the TikToker, what originally appeared to be a casual conversation ended with her almost being recruited for something she calls a “scam.” That story and more news you need to read today, inside.](/@dailydot/side-hustle-scam-how-to-avoid-this-mlm-scam-that-can-happen-in-target-stores-2afiotgco87gs8pt) [Jim Jordan Offers Startling Confession on Indicted Biden Informant](/topic/u.s.politics/jim-jordan-offers-startling-confession-on-indicted-biden-informant/a-UDEAj3SmTIemZNBoXF1lnA%3Aa%3A436232176-93c91a694d%2Fnewrepublic.com) House Judiciary Chair Jim Jordan finally revealed the truth about ex–FBI informant Alexander Smirnov. After trying and failing to salvage Republicans’ … [Just As Everyone Suspected, Joe Biden Says That The Key To His Great Marriage Is Lots And Lots Of Hot, Geriatric Boning](/topic/u.s.politics/just-as-everyone-suspected-joe-biden-says-that-the-key-to-his-great-marriage-is/a-3wVSIVSYRTme2MvJ6wE9KQ%3Aa%3A58169740-13b2501f96%2Fuproxx.com) President Joe Biden and First Lady Jill Biden have been married since 1977. Other notable things that happened that year: Jimmy Carter was sworn in as POTUS, Fleetwood Mac released Rumours, Star Wars came out. The Bidens have been married for as long as freaking Star Wars has existed. So, what’s the … Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Trump news update](/topic/donaldtrump) - Storyboard Side Hustle Scam: How To Avoid This MLM Scam That Can Happen In Target StoresCurated byDaily Dot [A user on TikTok has gone viral after recounting an interaction she allegedly had in a Target. According to the TikToker, what originally appeared to be a casual conversation ended with her almost being recruited for something she calls a “scam.” That story and more news you need to read today, inside.](/@dailydot/side-hustle-scam-how-to-avoid-this-mlm-scam-that-can-happen-in-target-stores-2afiotgco87gs8pt) [Mar-a-Lago Sale Notice From 1981 Outrages Trump Supporters](/topic/donaldtrump/mar-a-lago-sale-notice-from-1981-outrages-trump-supporters/a-OFvxunn7TaiiTM4n71ZQnA%3Aa%3A1778189168-c243175efc%2Fnewsweek.com) Supporters of former President Donald Trump voiced outrage at a 1981 sale notice for Mar-a-Lago after Judge Arthur Engoron valued the Florida estate … [Cassidy Hutchinson Smokes GOP Witness With Photographic Evidence of Lie](/topic/donaldtrump/cassidy-hutchinson-smokes-gop-witness-with-photographic-evidence-of-lie/f-dc8f2ac924%2Fnewrepublic.com) The former Trump White House aide has revealed photo proof against Republicans’ newest Biden corruption witness, Tony Bobulinski. Former White House …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Politics"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "biden informant",
+          "sentiment": "none"
+        },
+        {
+          "name": "alexander smirnov",
+          "sentiment": "none"
+        },
+        {
+          "name": "jim jordan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "trump pitches grim platform to christian voters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "flipboard trump pitches grim platform to christian voters",
+          "sentiment": "negative"
+        },
+        {
+          "name": "house judiciary chair jim jordan",
+          "sentiment": "none"
+        },
+        {
+          "name": "tiktok",
+          "sentiment": "none"
+        },
+        {
+          "name": "fbi",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "nashville indicted",
+          "sentiment": "none"
+        },
+        {
+          "name": "nashville",
+          "sentiment": "none"
+        },
+        {
+          "name": "u.s.",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-24T03:53:24.189+02:00",
+    "updated": "2024-02-24T03:53:24.189+02:00"
+  },
+  {
+    "uuid": "1b96a03e2110a8c026f3975fad37b3d8eb76ece1",
+    "url": "https://ibusinessday.com/10-reasons-your-betwinner-casino-senegal-is-not-what-it-should-be",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LucasAndrew",
+    "published": "2025-01-09T13:53:00Z",
+    "title": "10 Reasons Your Betwinner Casino Senegal Is Not What It Should Be",
+    "text": "Betwinner Bonus offers For more bonus codes for Bitcoin casinos check our article about this topic. It’s always a good idea to check the processing times for each payment method to ensure that your deposit is reflected in your Betwinner account in a timely manner. Betwinner’s support when making a withdrawal is horrible. Many of those are crypto options like Bitcoin and Ethereum. Here, the speed of the payment can stretch up to 7 working days. You’ll enjoy a tailored mobile gaming experience that is big on rewards, high on quality and offers superb handling. You place your bet just like you usually would – pick your favorite event, dive into the market, and choose your odds. Hassan Al Haidous, winner of Qatar Footballer of the Year 2014, was born on December 11, 1990, in Doha – Qatar. The unique sports and odds information we produce on the site is for entertainment purposes only. Wait for Approval Once you submit your application, Betwinner’s team will review it. You can sign up for an account with our BetWinner mobile promo code, bet on sports or play games, transact within your account, and contact BetWinner support. The live betting feature is great because you can compare athletes in sports like cycling, golf, and skiing. Till you loose all your money they will not verify your id. They include Skrill, Jeton, Sticpay, ecoPayz, and all types of cryptocurrencies. This can be achieved by giving proof of identification through copies of a driving license, passport, or recent bank statement. You will find answers to some general questions that other new customers at BetWinner ask. You can find out more information on our full review on BetWinner casino. When i want to withdraw its not giving me a visa option at the same time its not allowing me to use other methods like binance cause i didnt deposit using them. This is a 100% matched deposit bonus meaning the amount that you deposit will be the amount of the bonus that you will receive, up to €130. When it comes to withdrawals, BetWinner strives to process them as efficiently as possible. The live preview option is a bit like pre match betting, but specifically tailored to live events taking place over the next few days. Bonus will be credited automatically. For fans of combined sports betting, the platform offers the “Express of the Day” promotion. Published on 02/01/2025, 14:31 by Yunchu Li Modified on 02/01/2025 at 14:45. Our experts carefully reviewed the withdrawal method of 30+ Bookmarkers https://betwinner-francais.net/senegal/ in Nigeria, and the BetWinner withdrawal is one of the most comprehensive and swift. From any page on the Betwinner site, use the dropdown menu in the header to go to the ‘Withdraw funds’ section.\nBetwinner Bonus offers Those who want to go a notch higher can leverage the live streaming option to watch some of the action as it unfolds in real time. Once your account is set up, make a minimum deposit of 400 NGN. In addition to the excellent selection of betting markets and above average offering of odds, Betwinner also provides new users with an appetizing welcome offer. Users can go to the withdrawal page by clicking their account button on the top right of the screen. All deposits are free to make, and funds are credited to your account instantly. To receive a welcome bonus from a bookmaker, you must enter a special code during registration that activates the right to receive royalties. It’s a highly appreciated feature among my punter friends as well. It is also handy if the phone, for some reason, cannot display the BetWinner platform in web or app variants. They understand that time is of the essence and strive to process withdrawal requests as quickly as possible. Its Been a month now and they still reply Security department is waiting. Get your bet365 bonus. Download the BetWinner APK for Android and bet with this bookmaker that not only presents dozens of different betting options, but also an exciting online casino. They are football events that take place internationally as well as national championships. Whatever your preference, Betwinner provides a comprehensive list of deposit methods to suit your needs. After registering, I received a 100% bonus for adding funds to my account. Popular bookmakers with a license always take care of the comfort of bettors and regularly improve their registration bonus program with new profitable Betwinner bonus offers. Here is a rundown of how to register at BetWinner. Here’s the table with the key facts you must know about the Betwinner platform,. According to our data, you have been provided with several replies by our Security department specialists. Yes, you can access the BetWinner site in Canada and use our BetWinner bonus code to get an exclusive offer. The bonus will be automatically credited to your account after the deposit. Bookmaker does not set hard limits, so anyone can earn money from successful bets. When registering for the bookmaker, it’s a big advantage to be able to rapidly increase your deposit. Betwinner’s also licensed by reputable gambling authorities like the CGC license code 8048/JAZ and NLRC currently valid until 15 December 2024, expected to renew, who are some of the most stringent gambling authorities, so you can trust your account and play experience are as secure as they can get when using Betwinner.\nBetWinner Promo Code It doesn’t matter which device you own, and the installation process is quick and easy in both options. As stated in the above table, 500 Rs. Join the Loyalty Program. The coefficient for three or more sports events in the express must be equal to or higher than 1. Be sure to use the bonus code BWLIVE during the registration process. To qualify, you must deposit at least 10 EUR and meet the wagering requirements. Additionally, the “Accumulator of the Day” feature boosts odds on selected events, increasing potential winnings. Use VIP football predictions today and take your sports betting to the next level. Partial Cash Out : Yes. Simply navigate to the ‘Live’ section from the top menu to find and select the current games available for in play betting. Check the details before trying to combine them. At Betwinner, we understand that everyone faces rough patches, and we’re here to offer support to our players during those challenging times. This ensures a seamless and superior user experience while engaging with the Betwinner app. The mobile app is super convenient and the website is a breeze to navigate. You must deposit at least €/$1 in your Betwinner sportsbook and input the exclusive Betwinner promo code ‘ODDSPEDIA’ account to activate the promotion. Neteller isn’t one of the BetWinner deposit methods at the time of this review. To update the BetWinner mobile app, follow these steps. Here’s how you can withdraw using an e wallet. ​ Lastly, unforeseen circumstances or external factors beyond BetWinner’s control, such as technical glitches, system outages, or network issues, can also affect the speed of withdrawal processing. Player id: 711680071last 6 month i lost near 3000 usd with bet winner now last i made some profit. Betwinner understands the importance of timely withdrawals, and they strive to process them as quickly as possible. Australian Football Tips. The first thing you need to do is to visit Betwinner and sign up via our page. To qualify Thursday Bonus, you need to make a deposit. This is available on all bets that you make over the course of a week which have a price of 1. Location⁚ Withdrawal limits can vary across different regions due to local regulations and payment processing infrastructure. For full details on current offers, head to their ‘promotions’ page.\nFinal Thoughts on BetWinner Deposits Payment method/player/country restrictions apply. The minimum deposit varies depending on the payment method you choose. Betwinner may request your KYC details to verify your residency when withdrawing funds. The internet connection might be a problem when you want to register at Betwinner. Fast payment methods and great odds are guaranteed and vital elements to turn your hobby to many making and profitable betting. The BetWinner withdrawal is a fragment of the reputable and trusted bookmaker’s service. Not doing so will see the standard offer of up to 100 euros being received. Specify the amount you wish to deposit. These themes are not just visually appealing, but they also come with unique bonus features and special symbols that enhance the gameplay. Then, create a password and accept the bookmaker’s terms and conditions. For those looking for more platforms to bet on, we recommend visiting Paripesa. After that, he has to verify his identity and pass the account verification. At the Betwinner bookmaker, the bonus program includes many attractive offers, both for new bettors and active Cappers. The deposit is 130% matched up to a maximum bonus of €130 with promo code SPORTYVIP. Let’s delve into the assortment of sports you can engage. Here’s each step from the list above in more detail. Betwinner Bonus Details. Make sure you have a current and valid code. Consider how urgently you need the funds in your account. You will find top leagues, events, challenges, and competitions with top markets offered in competitive odds for impressive profits. Setting financial goals is another essential step in maximizing your winnings.\nApp Interface Read the TandCs and use the bonus to its full potential. By following the simple steps outlined above, you can enjoy your winnings in no time. Also, enter the promo code which activates the welcome bonus. BetWinner will be forced to decline such a withdrawal request if a bettor inputs an amount outside the withdrawal limits. Unfortunately, despite the impressive range of bonus deals, there is no BetWinner promocode no deposit offer. An Advancebet is offered to those customers who have unsettled bets in their account. You will be asked to provide the email address associated with your account. For some strange reason they do not give me Thursday bonus from the very beginning. A verification code will be sent to the phone number you provided after submitting your information. Com is an independent review and sports news website that compares the best betting sites to help punters find great bookmakers and offers. To do this, you need to go to the “Top up your account” page and select the appropriate option, then follow the instructions to complete the payment process.\nWhat is the minimum deposit amount on BetWinner? Just scroll your way down the main page and you will see a long list of the events that are on their way. Keep an eye on the promotions page or opt in to receive notifications to stay updated. Below are the top offers and features accessible at BetWinner. This feature enables users to create personalized bets by combining different options within a single bet. You can read complete information about the service in the detailed BetWinner review. This includes the minimum and maximum deposits that can be made and also how long it will take for withdrawals to return to your account. One stake unit is on the selection to win outright and the other is on a place finish. This ensures that the platform adheres to strict regulations and provides a safe and fair betting environment for its users. It would be great to us if Betwinner could offer certain cryptocurrency based banking methods but the existing choices should be adequate for the majority of customers. It’s important to read the terms and conditions surrounding live cash out at Betwinner as there are some promotions that will not allow the use of the feature.\nAbout us The payout will vary depending on the withdrawal method used. The first step is to click on our links to access BetWinner’s main website and copy our code JBVIP. ​ These regulations can influence the withdrawal limits imposed by the platform. Press on this and you can chat with a staff member. For claiming your Betwinner bonus follow these simple steps. Although it is stated on the BC portal that Betwinner made money in 2007, the Bookmakers probably learned about it only ten years later. So many of the bigger online operators out there really fall down when it comes to the quality of their mobile application experience, but Betwinner is different. It is usually the bigger markets with the popular sports that have the best odds, so if you came here for their niche sports then these are what we would consider average. Users can go to the withdrawal page by clicking their account button on the top right of the screen. By consistently providing competitive odds across various sports markets, we ensure that our users have a favorable betting experience and can make the most out of their wagers. Enter Your Phone Number: Input your mobile phone number. Registering for a Betwinner account is quick and easy. Date of experience: 22 January 2024. Let’s take a closer look. Enter Your Phone Number: Input your mobile phone number. With a focus on providing tailored services, this sportsbook site is fully mobile optimized. With handicap betting the concept is pretty straight forward. All information you’ve sent to BetWinner, such as during registration or deposit, is protected by encryption. Many users in the appreciate the seamless design of the BetWinner mobile app and website. As well as in play betting, the operator provides live statistics for matches taking place in real time. When it comes to withdrawing your winnings from Betwinner, you can have peace of mind knowing that the process is designed to be both quick and secure. To download the Betwinner app on your Android device, visit the Betwinner website and locate the download link for Android. The sportsbook hosts close to 50 different sports, including popular ones like football, tennis, golf, basketball, and cricket, as well as specials like boat racing, skiing, TV games, politics, and lacrosse. Any bets that are cashed out are not valid for this offer and each customer will only receive cashback once per week. Important: Installing the Betwinner app from the official website is secure. It’s a good idea to check with them if you’re planning a large withdrawal.\nPoshtiban Promo Code Optional: Enter a promo code if you have one. BetWinner takes security seriously, using strong encryption to protect your personal and financial information. To receive this welcome offer, you are required to agree to receive the sports betting welcome offer. We break down the important ones. Choose from Premier League football, Bundesliga, La Liga, ATP Tennis, MLB Baseball, NHL Ice Hockey, Euro Cup, Fed Cup, UFC and more. Betwinner Bookmaker offers various withdrawal methods, including. To start registering on the Betwinner mobile app, follow these steps. The app offers full access to all games, betting options, and account management features available on the Betwinner platform. There is no minimum amount that can be staked for this bet but the user can only stake using funds from their main account excluding bonus funds. Do not forget to specify the Betwinner promo code: JOX777 when registering both on the website and in the mobile application. Betwinner also offers several types of bets and it is best used the Betwinner mobile app. Hassan Al Haidous, winner of Qatar Footballer of the Year 2014, was born on December 11, 1990, in Doha – Qatar. BetWinner provides a convenient way for users to track the status of their withdrawal requests. And in most cases, the withdrawal of bonuses to Betwinner takes from several hours to several days. Just look for the one you want to bet on and click on it for the full list of odds for a large number of markets to appear. Another crucial aspect of maximizing your withdrawals is reviewing your betting strategy. Also, you will have better control of your bets with quick access to your playing history. BetWinner also offers to bet on eSports. The program is designed to give extra value to long term users, making their experience even better.\nAbout Us On the other hand, there is a BetWinner casino bonus for players in the VIP program. Go to MPESASelect LIPA NA MPESASelect PAY BILLEnter PAY BILL: 4019119 TECH VANNAH LIMITEDEnter Account No: Your Phone NumberPredictions will be sent via SMS. The app is fast, and I can place bets anytime. BetWinner’s sportsbook covers almost every sport you can think of. The equivalent amount is available in countries where Betwinner is available so click to check the site where you are to find the amount that you are able to gain. With a team of experienced Sports Betting Software Developers and comprehensive Betting App Development Services, we ensure that your app is optimized for performance, security, and user experience. Now you can be betting throughout the game, putting more bets on in an attempt to get a good return from your stake. The bookmaker will provide different rooms where you can play for a certain period of time to try to win big. Sports Bet Battle Bonus : Each month all the players who have placed a bet on sport events with total odds higher than 30 enter a competition automatically. Choosing your sport is a key part of enjoying betting and giving yourself the best chance to win. While Betwinner strives to provide a transparent and user friendly platform, it’s worth considering potential fees associated with withdrawals. This includes the minimum and maximum deposits that can be made and also how long it will take for withdrawals to return to your account. Cricket Betting: Focuses on ICC Cricket World Cup, T20 World Cup, and The Ashes. You might also be having trouble loading pages or navigating the site, which could be contributing factors. Customers can also self exclude from the platform for a period of time. The withdrawal time depends on the method you have chosen. Sports betting is one of the fast growing sector globally.\nدسته بندی نشده Betlion Daily Jackpot Predictions. The exact processing time can vary depending on the specific cryptocurrency network and its current transaction volume. With several emails focusing on a specific problem, users can quickly reach the best person to help them resolve their issues. Here are the available methods. It is worth noting that the code is available until the end of 2025, so do not miss the opportunity and register on the site right now. If you do not give this permission at the start, you will be required to do it during the installation process. There is so much on offer at this site, including their great welcome offer. It operates under Prevailer B. Enter the BetWinner Bonus Code for 2025 into the registration form, make a minimum deposit and qualify for the welcome bonus. However, sometimes it doesn’t really work that way. Following these simple guidelines will make your experience in the betting world successful and you will get more enjoyment from the game. These methods range from traditional bank transfers to modern digital wallets. Sure tips 360 ensures you make profits in the long run. This typically involves specifying the deposit amount and confirming transaction details. The BetWinner Security Department has the authority to. Sportybet Jackpot Predictions Win KES 5 Million. You can contact support in the following ways. Remember to enter our BetWinner bonus code BCVIP into the registration form to be eligible. The casino’s portfolio of Dealer games is impressive and they offer g a number of top Live gaming studios including Evolution Gaming, PG Gaming, BetConstruct, Lucky Streak, Super Spade, Dream Gaming and more. Wide range of e sports is also highlighted on BetWinner site. This can be achieved by giving proof of identification through copies of a driving license, passport, or recent bank statement. Overall, every option is convenient and fast since you should register and insert a username and password to interact with the site. By selecting different predictions you can get good odds that allow you to win large sums of money as you invest the balance you have available within the app. You’ll also be prompted to fill in the amount you wish to withdraw and your card number, cardholder name as shown on your card, expiration date, and date of birth. For cricket in India, this is the optimal betting solution.\nCEO, Artyfact Go to the Bank Cards section, click on the Mastercard image, enter the amount you wish to deposit, and press the ‘Confirm’ button. Are they competitive and what other features do they offer. The BetWinner casino also allows you to win money in card games, roulette, and online slot machines. The scoring of a goal, a try, a wicket being taken, all of these will cause the odds to change dramatically. Bet types include race winner, podium finish, and constructor’s championship. BetWinner goes a step further to tailor options depending on the country of residence. It’s a smart move if you plan on using your account regularly or depositing a good amount of cash. Sportsbook offers a wide range of tools and functionality for successful betting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Social Issue",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->business service",
+      "Social Issue->social problem",
+      "Social Issue->addiction"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://betwinnercm.com/wp-content/uploads/2024/09/betwinner-app-download-android.webp",
+      "https://betwinner-francais.net/senegal/",
+      "https://gempodcast.com/wp-content/uploads/2024/06/2-jpg.webp",
+      "https://www.betwinnercm.com/wp-content/uploads/2024/09/betwinner-app-download-android.webp",
+      "https://betwinner-francais.net/senegal",
+      "https://www.gempodcast.com/wp-content/uploads/2024/06/2-jpg.webp",
+      "https://www.betwinner-francais.net/senegal/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Hassan Al Haidous",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2025-01-10T04:38:38.996+02:00",
+    "updated": "2025-01-10T04:38:38.996+02:00"
+  }
+]

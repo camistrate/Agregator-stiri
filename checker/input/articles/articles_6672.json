@@ -1,0 +1,257 @@
+[
+  {
+    "uuid": "ce998394c1f1140aed36208b16f34b5f37608464",
+    "url": "https://rmcsport.bfmtv.com/football/coupe-d-afrique-des-nations/can-2024-la-guinee-a-fait-greve-a-cause-de-primes-non-versees_AV-202401251052.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RR",
+    "published": "2024-01-25T21:01:00Z",
+    "title": "CAN 2024: la Guinée a fait grève à cause de primes non versées",
+    "text": "Comme indiqué par le média guinéen 100% Foot et confirmé par RMC Sport, l’entraînement de la sélection guinéenne prévu ce jeudi, à trois jours de son 8e de finale de la Coupe d'Afrique des nations, n’a pas eu lieu. En cause: le non-paiement d’une prime de qualification. Ce n’est pas vraiment la meilleure façon de préparer un huitième de finale de Coupe d’Afrique des nations . Après avoir terminé à la troisième place de son groupe derrière le Sénégal et le Cameroun, avec quatre points, la Guinée affrontera dimanche la Guinée Equatoriale (18h) pour une place en quarts de finale.\n>> CAN 2024: infos et résultats EN DIRECT\nUne solution proche d'être trouvée A trois jours de ce rendez-vous, les joueurs de Kaba Diawara étaient censés s’entraîner ce jeudi après-midi. Mais la séance a été annulée comme indiqué par le média guinéen 100% Foot et confirmé par RMC Sport. En cause: le non-paiement d’une prime de qualification estimée à 10.000 dollars (environ 9.200 euros) par joueur.\nUn représentant du ministère guinéen s’est rendu sur place, en promettant de revenir samedi avec l’argent promis. Insuffisant pour les coéquipiers de Serhou Guirassy, qui ont décidé de ne pas s’entraîner en signe de protestation. Selon nos informations, une solution est toutefois sur le point d’être trouvée entre toutes les parties.\nLors de la phase de poules, la Guinée a démarré par un nul face au Cameroun (1-1), avant de dominer la Gambie (1-0) et de finir par une défaite au Sénégal (2-0), le champion d’Afrique en titre. Son futur adversaire, la Guinée Equatoriale, a de son côté pris sept points sur neuf possibles avec un nul (1-1 face au Nigeria) et deux succès très convaincants (4-2 contre la Guinée-Bissau et 4-0 face à la Côte d’Ivoire).\ndossier : CAN 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [
+      "https://www.twitter.com/CentPCentFoot/status/1750584708411384038",
+      "https://twitter.com/CentPCentFoot/status/1750584708411384038"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:11:35.478+02:00",
+    "updated": "2024-01-26T00:11:35.478+02:00"
+  },
+  {
+    "uuid": "6909ff1027004701bb70c3e0411c36b41b398098",
+    "url": "https://www.stheadline.com/realtime-finance/3490312/DeepSeek據報用華為晶片訓練失敗-推遲發佈新模型",
+    "ord_in_thread": 0,
+    "author": "DeepSeek據報用華為晶片訓練失敗 推遲發佈新模型",
+    "published": "2025-08-14T07:38:00Z",
+    "title": "DeepSeek據報用華為晶片訓練失敗 推遲發佈新模型",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { const isMobileAds = isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined); const isWebAds = !isMobile() && (typeof adUnits === 'object' && adUnits.length ===undefined); const debugLog = message => debug_mode && console.log(\"resizeFunction: \",message); const resizeAds = (selector, adType, isMobile) => { $(selector).each(function () { if ($(this).children().length === 0) { var divid = $(this).attr('id'); const i = $(this).data(`${adType}-index`); if (i in (isMobile ? adUnits_m[adType] : adUnits[adType])) { const a = (isMobile ? adUnits_m[adType] : adUnits[adType])[i]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} ${adType}: Code:${a.code} DIV: ${a.divid} or ${divid}`); const slot = googletag.defineSlot(a.code, JSON.parse(a.sizes), divid); Object.entries(page_level_kv).forEach(( [key, value]) => { slot.setTargeting(key, value); }); slot.addService(googletag.pubads()); googletag.display(divid); } } }); }; const loadButtomAnchor = (isMobile) => { const ad = (isMobile ? adUnits_m['fadeinout'] : adUnits['fadeinout'])[0]; debugLog(`Resize ${isMobile ? 'MWEB' : 'WEB'} fadeinout : Code:${ad.code} DIV: ${ad.divid}`); anchorSlot = googletag.defineOutOfPageSlot(ad.code, googletag.enums.OutOfPageFormat.BOTTOM_ANCHOR); Object.entries(page_level_kv).forEach(( [key, value]) => { anchorSlot.setTargeting(key, value); }); anchorSlot.addService(googletag.pubads()); googletag.display(anchorSlot); }; debugLog(`isMobileAds ${isMobileAds} || isWebAds ${isWebAds}`); if (isMobileAds || isWebAds) { debugLog(`Resized? IsMobile=${isMobileAds}`); const adTypes = ['billborad', 'lrec', 'footer', 'popup', '1x1', 'gallery_leaderboard', 'gallery_flipad', 'inarticlebanner']; adTypes.forEach(adType => { debugLog(`For ${adType}: div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`); resizeAds(`div[id^=\"${adType}\"]${isMobileAds ? '[id$=\"_m\"]' : ':not([id$=\"_m\"])'}`, adType, isMobileAds); }); loadButtomAnchor(isMobileAds); } else { debugLog(\"Do Nothing during resize\"); } const keyimgSelector = isMobile() ? \"#keyimg_m\" : \"#keyimg\"; // if (!isMobile() || ($(keyimgSelector).length && !$(keyimgSelector).attr(\"data-fancybox\"))) { // $(keyimgSelector).attr(\"data-fancybox\", isMobile() ? \"gallery\" : \"\"); // } if(isMobile() && $(keyimgSelector).length ){ $('#keyimg').attr(\"data-fancybox\", \"exclude\"); $('#keyimg_m').attr(\"data-fancybox\", \"gallery\"); }else{ $('#keyimg').attr(\"data-fancybox\", \"gallery\"); $('#keyimg_m').attr(\"data-fancybox\", \"exclude\"); } [\"1\", \"2\", \"3\"].forEach(number => { const id = `#img_gallery_flipad${number}${isMobile() ? '-m' : ''}`; const $element = $(id); if ($element.length && isMobile() !== $element.attr(\"id\").endsWith(\"-m\")) { $element.attr(\"id\", isMobile() ? `${id}-m` : id); } }); if (!isMobile() && $(\".share-box\").is(\":hidden\")) { $(\".share-box\").show(); } } function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 星島學生報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 贏跑網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 Copyright © 2025 SingTao Ltd.All rights reserved. DeepSeek據報用華為晶片訓練失敗 推遲發佈新模型 商業創科 更新時間：15:38 2025-08-14 HKT\n發佈時間：15:38 2025-08-14 HKT 字體大小 內地人工智能初創DeepSeek據報因使用華為晶片訓練失敗，因而推遲發佈新模型，反映中國晶片在關鍵任務上仍落後於美國競爭對手，凸顯中國在技術自給自足面臨的挑戰。\n被鼓勵採用華為昇騰處理器 據英國《金融時報》引述消息報道，DeepSeek今年1月發佈R1模型後，被鼓勵採用華為的昇騰（Ascend）處理器，而非使用Nvidia的晶片來訓練AI模型。然而，DeepSeek使用昇騰晶片訓練R2模型過程中遇到技術問題，促使其改用Nvidia晶片作訓練，用華為晶片作推理。\n事實上，DeepSeek-R2大模型原定5月推出，其後再傳計劃於8月15日至30日期間發布，但最終未有落實日子。\n↓即睇減息部署↓\n↓即睇減息部署↓",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://e.infogram.com/1551d988-433a-417f-9961-c739238b74db?src=embed",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://www.e.infogram.com/1551d988-433a-417f-9961-c739238b74db?src=embed",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://e.infogram.com/1551d988-433a-417f-9961-c739238b74db",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T11:22:24.700+03:00",
+    "updated": "2025-08-15T12:12:21.000+03:00"
+  },
+  {
+    "uuid": "56d657f6776a2e41389ce39c294c4bdb7c198fc2",
+    "url": "https://www.hwupgrade.it/news/telefonia/oppo-collabora-con-plastic-free-per-pulire-le-spiagge-italiane-l-iniziativa-sara-il-7-luglio-a-bari_128646.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lorenzo Tirotta",
+    "published": "2024-07-05T10:10:00Z",
+    "title": "OPPO collabora con Plastic Free per pulire le spiagge italiane. L'iniziativa sarà il 7 luglio a Bari | Hardware Upgrade",
+    "text": "Link alla notizia: https://www.hwupgrade.it/news/telefo...ri_128646.html\nL'azienda tecnologica e l'associazione ambientalista rinnovano la partnership per sensibilizzare sul problema dei rifiuti marini. Il 7 luglio, volontari e dipendenti OPPO puliranno la spiaggia di Pane e Pomodoro a Bari.\nClick sul link per visualizzare la notizia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-07-05T13:29:20.348+03:00",
+    "updated": "2024-07-05T14:39:14.028+03:00"
+  },
+  {
+    "uuid": "8ac135acd59c85e6b744883e2d5b6cfbeacfe86e",
+    "url": "https://www.idropnews.com/giveaways/apple-watch-series-9-giveaway/204812/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "iDrop News Staff",
+    "published": "2023-12-29T00:09:00Z",
+    "title": "Apple Watch Series 9 Giveaway",
+    "text": "Apple Watch Series 9 Giveaway Toggle Dark Mode The Apple Watch Series 9 has a faster processor and brighter display than its predecessors. It stands out for its performance, enhanced display, comfort, and health tracking features. Measure your heart rate, blood oxygen, and track your REM sleep all from your watch. The watch includes a number of new innovations, including the double-tap gesture to answer calls, reply to messages, and see your Smart Stack. The display is double the brightness of the Series 8, making it easier to read in full sun. Siri processing is faster and dictation is 25% more accurate. The Series 9 also features new HomePod integration with the Now Playing screen. The Apple Watch Series 9 is also Apple’s first carbon neutral product with certain case and band combinations. In 2024, we’re excited to give another Apple Watch away free to a lucky iDrop News fan. Entering to win is easy. Use the giveaway tool below to sign up for our weekly newsletter and you’ll automatically earn one entry to win. Increase your odds of winning the Apple Watch Series 9 by completing the additional actions within the tool. Entering is free and no purchase is necessary! More entries equal more chances to win. Good luck! [Apple Watch Series 9 Giveaway](https://gleam.io/mQLSP/apple-watch-series-9-giveaway) Apple Watch Series 9 Specs - 41 or 45mm case - Carbon neutral combos available - Always-On Retina display up to 2000 nits - S9 SiP, double tap gesture, precision finding for iPhone - Blood Oxygen app, ECG app - Low cardio fitness notifications - Fall and Crash Detection - 50m water resistance (swimproof) - Up to 18 hours of battery life, 36 hours in low power mode - Fast charging Make sure to [check all our active giveways on iDrop News. You can do so by visiting here](https://www.idropnews.com/giveaways/). [ ](https://www.idropnews.com/apps/not-subscription-microsoft-office-2021-as-a-one-time-purchase/192904/) No Subscriptions - Get Microsoft Office Lifetime Access for Just $49.97 Even Microsoft tries to nudge you toward paying monthly for their Suite 365. The good news is that you don't have to. iDrop News readers can get lifetime access to MS Office at 85% off the normal price...Get It Here Please note that this giveaway is not affiliated with or sponsored by Apple Inc. *It is a requirement that you sign up for our newsletter. [Buy](https://amzn.to/3H0sB35) Previous Winners Giveaways [](https://www.idropnews.com/giveaways/microsoft-xbox-series-x-giveaway-2/205730/) Microsoft XBox Series X Giveaway April 19, 2024 12:00 pm $499.99 Value [](https://www.idropnews.com/giveaways/sony-playstation-5-ps5-giveaway/205217/) Sony PlayStation 5 (PS5) Giveaway June 21, 2024 12:00 pm $499.99 Value [](https://www.idropnews.com/giveaways/500-amazon-gift-card-giveaway/204499/) $500 Amazon Gift Card Giveaway October 18, 2024 11:59 pm $500.00 Value [](https://www.idropnews.com/giveaways/apple-ipad-air-giveaway-2/204325/) Apple iPad Air Giveaway September 20, 2024 12:00 pm $599.00 Value",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://www.gleam.io/mQLSP/apple-watch-series-9-giveaway",
+      "https://www.apple.com/shop/buy-watch/apple-watch",
+      "https://apple.com/shop/buy-watch/apple-watch",
+      "https://gleam.io/mQLSP/apple-watch-series-9-giveaway"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "siri",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "apple",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T03:24:35.181+02:00",
+    "updated": "2024-01-14T10:49:41.378+02:00"
+  }
+]

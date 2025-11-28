@@ -1,0 +1,173 @@
+[
+  {
+    "uuid": "87ccd94ca217544594ac09d5e947b1241ba69b19",
+    "url": "https://vancouver.citynews.ca/2025/04/09/police-warn-of-scammers-spoofing-police-department-phone-numbers",
+    "ord_in_thread": 0,
+    "author": "Rachel Morgan",
+    "published": "2025-04-09T21:06:00Z",
+    "title": "Police warn of scammers spoofing police department phone numbers",
+    "text": "Police warn of scammers spoofing police department phone numbers\nPosted April 9, 2025 2:06 pm.\nLast Updated April 9, 2025 2:07 pm.\nMultiple police departments across the Lower Mainland are warning the public of scammers mirroring non-emergency police department numbers in an attempt to gain personal information and money.\nFraudsters are using technology to make it appear the call is coming from the police. The New Westminster Police Department said in a release that once the call is answered, scammers may be able to fabricate an officer’s name and badge number to attempt to gain trust and information.\n“As of this morning we’ve had callers as far away as Toronto asking to confirm if the call made to them was real,” Sergeant Andrew Leaver said in a news release. “Approximately thirty people this morning have called us about suspicious calls from someone claiming to be one of our officers.”\nThe Port Moody Police Department and Abbotsford Police Department have also confirmed that their numbers have been spoofed.\nThe public is cautioned when receiving calls from the following numbers:\n- 604-525-5411\n- 604-859-5225\n- 604-461-3456\n“Please remember, Abby PD will never randomly call you to request personal information over the phone,” Abbotsford Police said on X.\nPolice are reminding residents that they should never provide personal information over the phone to an unknown caller. If you are unsure if a call from one of these numbers is legit, you can call the corresponding police departments’ non-emergency lines.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "topics": [
+      "Crime, Law and Justice->investigation (criminal)",
+      "Crime, Law and Justice->fraud",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Andrew Leaver",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "New Westminster Police Department",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Abbotsford Police Department",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:16:52.605+03:00",
+    "updated": "2025-04-10T00:16:52.605+03:00"
+  },
+  {
+    "uuid": "c4e6add1d6a179576984b79c88a8174d5f2cdfb4",
+    "url": "https://english.nv.ua/nation/starved-for-ammunition-ukraine-could-lose-more-territory-to-russia-military-expert-50389225.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ivan Borysenko",
+    "published": "2024-02-01T20:20:00Z",
+    "title": "Starved for ammunition, Ukraine could lose more territory to Russia – military expert / The New Voice of Ukraine",
+    "text": "\\\"The critical issue, known to those closely connected to the front line, is the ammunition shortage, covering all types, primarily for Western weapons,\\\" Kramarov said.\\\"It's not just about the 155 mm artillery shell. There's also a concern about 5.56 × 45 mm — basic ammo for an assault rifle, like the M4. We're grappling with these problems, including shells for IFV [infantry fighting vehicles] guns, tanks, machine guns, and, of course, artillery, along with rocket artillery systems. Unfortunately, this shortage is now reaching a critical point.\\\"He added that while the United States remains in a political deadlock and unable to provide military aid to Ukraine, Germany has become a major supplier of ammunition to Kyiv.“Recently, Germany has become more active and is ramping up its production. However, we understand that this is definitely not enough in the scale of this war,” Kramarov continues.\\\"As a result, we find ourselves in a challenging situation, especially in terms of time frames. Frankly, we may have enough ammunition in an extreme conservation mode for a month or two.\\\"Finally, the expert said that the dire situation with ammo supplies could see Ukraine losing more territory to ongoing Russian assaults.\\\"To lose positions that we have fought for so long and effectively..., for example, Kupyansk and Lyman, liberated after our Kharkiv [2022] counteroffensive, could be simply lost due to a lack of ammunition.\\\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "kramarov",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:00:13.160+02:00",
+    "updated": "2024-02-02T00:00:13.160+02:00"
+  },
+  {
+    "uuid": "e90ad8b29300799a54fe0b9ddd614928b230e55b",
+    "url": "https://heraldodemexico.com.mx/nacional/2025/3/5/hoy-no-circula-que-vehiculos-descansan-este-jueves-de-marzo-en-cdmx-edomex-681078.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Luz Aguirre",
+    "published": "2025-03-06T00:50:00Z",
+    "title": "Hoy No Circula: ¿qué vehículos descansan este JUEVES 6 de marzo en CDMX y Edomex?",
+    "text": "La Ciudad de México enfrenta un desafío continuo con la contaminación atmosférica, caracterizada por niveles elevados de dióxido de nitrógeno (NO2) y partículas PM10, estos contaminantes representan una amenaza particular para la salud de niños, ancianos y personas con enfermedades crónicas, lo que subraya la necesidad urgente de abordar este problema.\nPara mitigar esta problemática, se implementó en 1989 el programa Hoy No Circula. Este programa establece restricciones a la circulación de vehículos específicos en días y horarios determinados, con el objetivo de disminuir la emisión de contaminantes y, en consecuencia, mejorar la calidad del aire en la Ciudad de México y el Estado de México.\nEl programa Hoy No Circula opera mediante un sistema de engomados y terminaciones de placa, que determina qué vehículos no pueden circular en días específicos, adicionalmente, se consideran factores como el tipo de combustible y las características del vehículo para aplicar las restricciones de manera equitativa y efectiva.\nEste jueves 6 de marzo de 2025, los vehículos con engomado verde y placas terminadas en 1 y 2 no podrán circular entre las 5:00 y las 22:00 horas, en Ciudad de México y 18 municipios del Estado de México (Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Chalco, Chicoloapan, Chimalhuacán, Ecatepec de Morelos, Huixquilucan, Ixtapaluca, La Paz, Naucalpan de Juárez, Nezahualcóyotl, Nicolás Romero, Tecámac, Tlalnepantla de Baz, Tultitlán y Valle de Chalco.)\nAutos exentos de las restricciones\nEs importante destacar que existen excepciones a estas restricciones, vehículos eléctricos e híbridos, vehículos de emergencia, carros fúnebres y transporte para personas con discapacidad están exentos del programa Hoy No Circula, reconociendo su importancia en la sociedad y su menor impacto ambiental.\nEl incumplimiento de la restricción Hoy No Circula conlleva consecuencias económicas. Los conductores que no respeten las restricciones pueden enfrentar multas considerables, que se calculan con base en la Unidad de Medida y Actualización (UMA) y pueden variar según la gravedad de la infracción, entre los 2,263.8 hasta 3,394.2 pesos mexicanos\nLA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Environment",
+      "Social Issue",
+      "Politics"
+    ],
+    "topics": [
+      "Environment->environmental pollution",
+      "Environment->air pollution",
+      "Social Issue->social problem",
+      "Social Issue->demographics",
+      "Social Issue->social condition",
+      "Politics->civil rights",
+      "Politics->environmental policy",
+      "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-06T03:00:22.185+02:00",
+    "updated": "2025-03-06T03:00:22.185+02:00"
+  }
+]

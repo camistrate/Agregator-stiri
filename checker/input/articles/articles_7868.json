@@ -1,0 +1,445 @@
+[
+  {
+    "uuid": "dc36abd7c99f184fd4f8e1bcaa6201141c760463",
+    "url": "https://news.knowledia.com/GB/en/articles/ai-pcs-flood-the-market-their-makers-hope-someone-wants-them-587d1e43ec105f894076d532653d0cc1ba32d6c6?source=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan Robinson",
+    "published": "2024-11-15T09:19:00Z",
+    "title": "AI PCs flood the market. Their makers hope someone wants them",
+    "text": "Despite 49% surge in shipments, buyers seem unconvinced Warehouses in the IT channel are stocking up with AI-capable PCs - industry watcher Canalys claims these made up 20 percent of all shipments during Q3 2024, amounting to some 13.3 million units worldwide.\n\"Shipments,\" of course, simply means that these devices have left the makers' factory and been delivered to distributors, rather than 13.3 million AI-capable PCs being snapped up by buyers.\nIncoming wave of AI is making buying PCs riskier for businesses READ MORE\nNevertheless, Canalys says this figure represents a sequential growth of 49 percent over the previous quarter, meaning that vendors are ramping up output of AI-enabled systems in the hope these will prove popular.\nWhether this will be the case at present is debatable. None of the industry experts we approached were able to give us any real insight on how well these AI boxes are selling compared with plain old PCs, or whether they are getting any traction with buyers.\nIn one sense, this doesn't really matter, since it is likely you won't be able to buy any computer that isn't AI-enabled before long. Recent forecasts estimate that such systems may account for 43 percent of PCs by 2025, and go on to make up the bulk of the market by 2026.\nHowever, a look at the figures shows that Canalys is counting Macs in its AI-capable data, and these account for about half (47 percent) of all shipments, meaning that about 7 million Windows AI boxes were let loose into the channel during Q3.\nWhat is an AI-capable PC anyway? Canalys defines it as a desktop or laptop that includes some…\nDan Robinson",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.theregister.com/2024/11/14/ai_pc_shipments/",
+      "https://www.theregister.com/2024/11/14/ai_pc_shipments",
+      "https://theregister.com/2024/11/14/ai_pc_shipments/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T12:49:05.668+02:00",
+    "updated": "2024-11-15T12:49:05.668+02:00"
+  },
+  {
+    "uuid": "fd95aca267d7c125569835fad55b7f77f4cda684",
+    "url": "https://communities.springernature.com/posts/driving-the-future-how-electric-vehicles-are-powering-the-road-to-carbon-neutrality",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cindy P. Guzman",
+    "published": "2024-10-04T01:04:00Z",
+    "title": "Driving the Future: How Electric Vehicles are Powering the Road to Carbon Neutrality",
+    "text": "Electric Vehicles (EVs) are here to stay, and no one can argue that! My current connection to the e-mobility field is so strong that sometimes I cannot believe it. I was born in Barranquilla, Colombia, where I earned my bachelor’s degree in electrical engineering and took my first steps into the world of science. Later, I moved to Brazil to pursue both my master’s and Ph.D. degrees in electrical engineering, followed by a postdoc where I worked on two R&D projects focused on microgrids and e-mobility. At that point, I couldn’t have fully imagined the rapid pace at which EVs would be adopted, especially in Europe. The reality in South America is quite different, so when I moved to Portugal to collaborate as a postdoctoral researcher on the EV4EU (Electric Vehicles Management for Carbon Neutrality) project, it was a truly eye-opening experience. I am continuously amazed by the current advancements in e-mobility and incredibly excited about the future, as society embraces this transformative revolution in transportation. In Europe, the pressing need to confront climate change has driven the rise of policies supporting the decarbonisation target. As a result, we are seeing a massive surge in electric vehicles, for instance, last year the EV stock achieved approximately 330 million vehicles. The European Union has also set ambitious goals to phase out internal combustion engine vehicles (ICEVs), with many countries planning to ban ICEV sales by 2035. As a researcher in this field, the rapid growth of EVs, to the point where we may no longer see a single gas-powered car on the roads by 2035, raises many questions. How will we prepare communities, as well as our electrical and transportation systems, for such a significant shift? How will we ensure that so many users can be accommodated comfortably? Will people feel as comfortable accessing charging points as they do with refuelling gas-powered cars practically, efficiently, and affordably? Will all European countries experience the same impact, or will the distinct energy mix of each nation determine how sustainably they can support this increase in EVs? In fact, there are far too many questions to address. The exciting part is that, as a member of the research team for the EV4EU project, I have the chance to actively contribute to finding solutions to these challenges. Our research focuses on developing management strategies for EVs to achieve carbon neutrality involved four European countries: Denmark, Greece, Portugal, and Slovenia. Quite impressive, wouldn’t you agree? Our project began with an initial important goal: to define future scenarios for e-mobility, considering fully electric vehicles, hybrids, and fuel-cell electric vehicles across the four countries involved, while considering the time horizons of 2030, 2040, and 2050. This required significant teamwork and research, as we had to analyse each country's targets, technical reports, current landscape, and policies supporting the adoption of EVs, among other factors. This research provided us with valuable insights into the massive growth of EVs in each of the participating countries. For my research, which focuses on the impact of EVs on the power system, and particularly as a collaborator on the EV4EU project, having access to and analysing this data was incredibly interesting. The results, which can be consulted in our paper: Dataset on Electric Road Mobility: Historical and Evolution Scenarios until 2050, showed that countries such as Portugal and Denmark are making significant progress in deploying fast chargers, other regions are lagging, making it difficult to support the anticipated growth in EVs. Additionally, the high cost of EVs remains a barrier to its widespread adoption, particularly in developing nations where government incentives and infrastructure are still limited. As a researcher, access to data is extremely important, because of our research the data can be consulted in the repository in https://zenodo.org/records/10443418 . Hence, my work, which focuses on how to manage EVs within the energy system to prevent them from becoming a burden, especially with so many on the roads, relies heavily on this. Having information on the number of EVs we can expect in the coming years has allowed me to analyse in greater detail how we can handle the EV mass adoption, ensuring they become an integral part of our everyday lives without compromising our comfort. Even better, it has helped explore ways to leverage their potential advantages. Mainly because, as EV adoption accelerates, managing the increased demand for electricity while ensuring that it comes from renewable sources, will be crucial. Without a parallel transition to green energy, the carbon benefits of e-mobility could be undermined, especially if coal and natural gas remain dominant in power generation. Outlook for the Future I am truly excited about the future of e-mobility, which presents both great promise and significant challenges. EV growth projections and the strides made in technological innovation, indicate that the goal of carbon neutrality by 2050 is achievable. However, this transition will require sustained global efforts, particularly in the development of charging infrastructure, battery technology, and renewable energy integration. Countries like Denmark and Portugal, which have embraced aggressive EV policies, can serve as models for other nations working to accelerate their transition to e-mobility. Ultimately, the road to carbon neutrality will not be possible without collective action between governments, industries, and consumers. While the path ahead is complex, continued investment in research and development and international cooperation will be critical in overcoming the challenges that remain. As e-mobility becomes a reality, our community will need to remain committed to addressing the environmental, economic, and technological hurdles on the path to a sustainable and carbon-neutral future. As we move toward a greener future, investing in infrastructure and smart energy solutions is essential to power the future of mobility. Let's stay ahead of the curve! 🌍💡 #EV4EU, #EMobility #PowerGrid #SustainableEnergy #EVCharging",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://zenodo.org/records/10443418",
+      "https://www.zenodo.org/records/10443418"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-10-04T07:12:09.571+03:00",
+    "updated": "2024-10-04T14:23:06.865+03:00"
+  },
+  {
+    "uuid": "19b46400c423eabad529b6e27f5357e114542302",
+    "url": "https://vnexplorer.net/z/1055581.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-27T14:34:00Z",
+    "title": "Rusia carece de capacidad para lograr “avance significativo” en Ucrania: OTAN",
+    "text": "Jens Stoltenberg, secretario general de la OTAN. Foto Afp Bruselas. Las fuerzas militares rusas no están en condiciones de realizar ningún &quot;avance significativo&quot; en Ucrania, afirmó el jueves el secretario general de la Organización del Tratado del Atlántico Norte (OTAN), Jens Stoltenberg, en una entrevista con AFP. &quot;No tenemos ningún otro indicio ni razón para creer que Rusia disponga de capacidades, de fuerza para realizar grandes avances&quot; en el territorio de la ex república soviética, que resiste desde hace más de dos años una invasión rusa, declaró Stoltenberg en la entrevista. El jefe de la alianza militar afirmó que era probable que Rusia siguiera ejerciendo presión &quot;en las líneas de frente&quot; y bombardeando la zona. &quot;Pero lo que vimos es que los ucranios han logrado mantener la línea&quot;, recalcó. &quot;Han podido seguir infligiendo grandes pérdidas a los invasores rusos, tanto en la línea del frente como con bombardeos profundos&quot;, continuó. Rusia, que invadió Ucrania en febrero de 2022, logró en mayo su mayor avance territorial en 18 meses con una gran ofensiva terrestre en la región de Járkov, en el noreste. A inicios de junio, el presidente ucranio, Volodymir Zelensky, aseguró que las tropas rusas focalizaban desde entonces sus ataques en la región de Donetsk, en el este del país. Los 32 países miembros de la alianza liderada por Estados Unidos lograron aumentar nuevamente las entregas de armas a Kiev, después de que Washington aprobara en abril un paquete de ayuda de 60 mil millones de dólares. Durante la entrevista, Stoltenberg también afirmó que esperaba que Estados Unidos siguiera siendo un &quot;firme aliado&quot; de la OTAN &quot;independientemente del resultado&quot; de las elecciones presidenciales. La cadena CNN transmitirá este jueves el primer debate presidencial entre el mandatario demócrata Joe Biden y su predecesor republicano Donald Trump, casi empatados en las encuestas para las presidenciales de noviembre. Trump, que ya ejerció como presidente estadounidense entre 2017 y 2021, llegó a considerar retirar a EU de la alianza transatlántica. En su campaña a la relección, volvió a la carga y dijo que alentaría a Rusia a hacer &quot;lo que le dé la gana&quot; con los países de la OTAN que no gasten lo suficiente en defensa. &quot;Una OTAN fuerte es buena para Europa, pero también para Estados Unidos&quot;, subrayó el secretario general, que termina su mandato el 1 de octubre y será reemplazado por el primer ministro saliente de Países Bajos, Mark Rutte. &quot;Las críticas del expresidente Trump no han sido principalmente contra la OTAN. Han sido en contra de que los aliados de la OTAN no gasten lo suficiente, y eso ahora ha cambiado&quot;, dijo Stoltenberg. &quot;Nunca hay garantías en política, pero espero que Estados Unidos se mantenga fuerte&quot;, añadió.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:51:46.530+03:00",
+    "updated": "2024-06-28T01:51:46.530+03:00"
+  },
+  {
+    "uuid": "cd077a26582876ed358ad0a20131fb869d302f5f",
+    "url": "https://gizmodo.com/as-2024-begins-silicon-valley-wants-you-to-be-optimist-1851145432",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucas Ropek",
+    "published": "2024-01-06T00:40:00Z",
+    "title": "As 2024 Begins, Silicon Valley Wants You To Be Optimistic About AI",
+    "text": "Well, it’s a new year, but the game in Silicon Valley remains very much the same. That game, in essence, involves doing anything and everything to convince you—the global consumer—that whatever hair-brained product Bay Area billionaires have cooked up is a must-have. Unfortunately, the tech industry has bet its money on a lot of stupid shit over the last several years—whether it’s fake internet money that requires ungodly amounts of electricity to generate or NFTs or pizza made by a robot or, more recently, a host of automated tools that you never asked for. As you already know, AI is the hottest industry in tech right now, and, in 2024, that industry promises to continue churning out a host of new, sometimes useful, sometimes baffling, often deeply wasteful and stupid products. Whether its an ever escalating war over who can create the coolest chatbot or attempts to popularize music wholly generated by software, or a race to make human physical labor obsolete and thus kill off yet another upwardly mobile middle class strata of work, the tech industry is sure to be blasting on all cylinders this year. Here’s a little look at what’s been happening so far.\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment"
+    ],
+    "external_links": [
+      "https://www.theinformation.com/briefings/openai-to-launch-chatbot-store-next-week",
+      "https://news.samsung.com/global/samsung-electronics-introduces-isocell-zoom-anyplace-e2e-ai-remosaic-solutions-for-the-200-megapixel-image-sensor",
+      "http://www.bestbuy.com/site/-/6529723.p",
+      "http://bestbuy.com/site/-/6529723.p",
+      "https://www.kqzyfj.com/click-7043061-12839518?sid=GO--xid-fr1704497870023jie&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fscc%2Fsr%2Flaptops%2Fxps-laptops%3Fgacd%3D9684992-1111-5761040-266906002-0%26dgc%3DST%26SA360CID%3D71700000115908351%26gad_source%3D1%26gclid%3DCjwKCAiAqNSsBhAvEiwAn_tmxduw9e8S8HBhapE8QaaWNninbeytpOy3tQed5nocKThIK79scHAO5BoCYhUQAvD_BwE%26gclsrc%3Daw.ds",
+      "https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf",
+      "https://wired.com/story/fast-forward-the-chatbot-search-wars-have-begun/",
+      "https://theinformation.com/briefings/openai-to-launch-chatbot-store-next-week?rc=5xvgzc",
+      "https://www.wired.com/story/fast-forward-the-chatbot-search-wars-have-begun",
+      "https://www.wired.com/story/fast-forward-the-chatbot-search-wars-have-begun/",
+      "https://www.news.samsung.com/global/samsung-electronics-introduces-isocell-zoom-anyplace-e2e-ai-remosaic-solutions-for-the-200-megapixel-image-sensor",
+      "https://www.spectrum.ieee.org/humanoid-robots",
+      "https://www.kqzyfj.com/click-7043061-12839518",
+      "https://www.newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/#:~:text=Technology-,NFTs%20died%20a%20slow%2C%20painful%20death%20in,as%20most%20are%20now%20worthless&text=The%20world%20went%20ape%20for,more%20broadly%2C%20the%20global%20economy.",
+      "https://www.aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf",
+      "https://kqzyfj.com/click-7043061-12839518?sid=GO--xid-fr1704497870023jie&url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fscc%2Fsr%2Flaptops%2Fxps-laptops%3Fgacd%3D9684992-1111-5761040-266906002-0%26dgc%3DST%26SA360CID%3D71700000115908351%26gad_source%3D1%26gclid%3DCjwKCAiAqNSsBhAvEiwAn_tmxduw9e8S8HBhapE8QaaWNninbeytpOy3tQed5nocKThIK79scHAO5BoCYhUQAvD_BwE%26gclsrc%3Daw.ds",
+      "https://spectrum.ieee.org/humanoid-robots",
+      "https://www.roku.com/products/roku-tv/roku-made-tvs/pro-series",
+      "https://roku.com/products/roku-tv/roku-made-tvs/pro-series",
+      "https://newscientist.com/article/2406198-nfts-died-a-slow-painful-death-in-2023-as-most-are-now-worthless/#:~:text=Technology-,NFTs%20died%20a%20slow%2C%20painful%20death%20in,as%20most%20are%20now%20worthless&text=The%20world%20went%20ape%20for,more%20broadly%2C%20the%20global%20economy.",
+      "https://www.theinformation.com/briefings/openai-to-launch-chatbot-store-next-week?rc=5xvgzc"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "silicon valley",
+          "sentiment": "none"
+        },
+        {
+          "name": "bay area",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T02:43:14.662+02:00",
+    "updated": "2024-01-06T02:45:38.922+02:00"
+  },
+  {
+    "uuid": "a806bb5e016cde483fbecd03bddd24cdc7d58499",
+    "url": "https://www.theepochtimes.com/world/four-israelis-arrested-in-connection-with-west-bank-riot-5711171",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan M. Berger",
+    "published": "2024-08-23T01:53:00Z",
+    "title": "Four Israelis Arrested in Connection With West Bank Riot | The Epoch Times",
+    "text": "Open sidebar Home Top Stories Opinion Health ShowCasts Audio Books Audio For You 8/22/2024 | Middle East Four Israelis Arrested in Connection With West Bank Riot Listen More French Navy Rescues 29 From Stricken Ship After Suspected Houthi Attack Listen More Parents of Hostage Taken by Hamas Plead for His Release at DNC Listen More Fighting Rages in Lebanon and Gaza as Cease-Fire Talks Falter Listen More Show More ;",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jit",
+          "sentiment": "none"
+        },
+        {
+          "name": "benjamin netanyahu",
+          "sentiment": "none"
+        },
+        {
+          "name": "ronen bar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "west bank riot",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T05:45:17.112+03:00",
+    "updated": "2024-08-23T08:38:17.662+03:00"
+  },
+  {
+    "uuid": "82f077469be952a1c2059093c9d5e0150d425afd",
+    "url": "https://gulfnews.com/world/gulf/saudi/saudi-arabia-fines-up-to-50000-riyals-and-jail-for-hajj-offenders-1.1708699721067",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Khitam Al Amir",
+    "published": "2024-02-23T00:00:00Z",
+    "title": "Saudi Arabia: Fines up to 50,000 riyals and jail for Hajj offenders | Saudi – Gulf News",
+    "text": "Dubai: Saudi Arabia has warned visitors and residents against participating in the upcoming Hajj season 2024 without obtaining necessary permits. To ensure the smooth operation of this system and to mitigate potential violations, stringent penalties have been introduced. Collaborating with the General Directorate of Passports, Saudi authorities have established severe consequences for individuals found to be violating Hajj regulations. The Ministry of Hajj and Umrah stressed that performing Hajj without obtaining necessary permits is illegal and attracts a fine of 50,000 Saudi riyals. Additionally, individuals caught transporting pilgrims without proper permits will also be slapped with a fine of up to SR 50,000. Expatriates found guilty of such violations will be jailed for six months, followed by deportation from Saudi Arabia. They will be prohibited from reentering the country for 10 years. Additionally, those violating regulations will face public discreditation through media channels.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "umrah",
+          "sentiment": "none"
+        },
+        {
+          "name": "hajj",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "general directorate",
+          "sentiment": "none"
+        },
+        {
+          "name": "ministry of hajj",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "saudi arabia",
+          "sentiment": "none"
+        },
+        {
+          "name": "hajj sea",
+          "sentiment": "none"
+        },
+        {
+          "name": "dubai",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-23T17:27:14.342+02:00",
+    "updated": "2024-02-23T17:27:14.342+02:00"
+  },
+  {
+    "uuid": "ce9bc778a946ee9fed3969ec9f0107fd2028d531",
+    "url": "https://dailytimes.com.pk/?p=1219904",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dailytimespak",
+    "published": "2024-08-22T21:55:00Z",
+    "title": "11 policemen perish in rocket attack by bandits - Daily Times",
+    "text": "At least 11 policemen were martyred and three others injured in a severe attack by bandits in the Kacha area of Rahim Yar Khan on Thursday. According to media reports, the assailants targeted police vehicles with rocket launchers at the Machhka Camp 2, where officers were rotating shifts. The camp had been set up to curb the movement of bandits in the region. Around 25 heavily armed bandits carried out the attack, destroying the police vehicles and killing 11 policemen on the spot. Punjab Inspector General (IG) Dr Usman Anwar has taken notice of the incident and requested a report from the Regional Police Officer (RPO) of Dera Ghazi Khan. A Punjab Police spokesperson confirmed that two vehicles returning from their weekly duty in the Kacha area were attacked by rocket launchers. Punjab Chief Minister Maryam Nawaz Sharif expressed deep sorrow over the martyrdom of the policemen. She offered condolences to the bereaved families and ordered an operation to recover the missing officers. She also directed that the injured officers receive the best possible medical treatment and demanded an immediate report from the IG Police. The sacrifice of the martyred officers will always be remembered, she added. Prime Minister Shehbaz Sharif also strongly condemned the attack on a police convoy in Rahim Yar Khan. The prime minister expressed profound grief and sorrow over the martyrdom of police officers in the incident, according to a statement issued by the PM Office. He offered prayers for the elevation of the martyrs’ ranks and for patience and strength for their families. He also prayed for the swift recovery of the injured officers, directing that they be provided with the best possible medical care. The prime minister ordered immediate and effective action against the attackers in the Kacha area, instructing authorities to identify those responsible and ensure they are brought to justice. “Police officers and personnel confront criminals and terrorists without regard for their own safety,” the prime minister stated, adding, “The entire nation, including myself, pays tribute to the brave and dedicated officers and personnel of the police force.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "dera ghazi khan",
+          "sentiment": "none"
+        },
+        {
+          "name": "maryam nawaz sharif",
+          "sentiment": "none"
+        },
+        {
+          "name": "usman anwar",
+          "sentiment": "none"
+        },
+        {
+          "name": "rahim yar khan",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "punjab police",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "punjab",
+          "sentiment": "none"
+        },
+        {
+          "name": "kacha",
+          "sentiment": "none"
+        },
+        {
+          "name": "machhka camp 2",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T06:22:38.412+03:00",
+    "updated": "2024-08-23T06:22:38.412+03:00"
+  },
+  {
+    "uuid": "78e171c63c2aea15fc1791017a589455de914ec1",
+    "url": "https://www.mpamag.com/uk/news/general/santander-tsb-announce-mortgage-rate-changes/530101",
+    "ord_in_thread": 0,
+    "author": "Rommel Lontayao",
+    "published": "2025-03-27T15:47:00Z",
+    "title": "Santander, TSB announce mortgage rate changes",
+    "text": "Pricing adjustments to impact first-time buyers, home movers, and BTL customers\nHigh street lenders Santander and TSB have announced a range of mortgage rate adjustments set to take effect tomorrow, March 28, impacting both residential and buy-to-let customers.\nSantander will implement reductions across most fixed rates in the home mover and first-time buyer ranges. However, some five-year fixed rates will see increases.\nFor first-time buyers, all 75% to 95% loan-to-value (LTV) two-year fixed rates will be reduced by up to 0.08%, while the 75% LTV three-year fixed rate with a £999 fee will drop by 0.05%. Selected five-year fixed rates for 60% to 90% LTV will increase by up to 0.09%. Home movers will see most 75% to 95% LTV two-year fixed rates decrease by up to 0.15%, while selected 90% to 95% LTV five-year fixed rates will fall by up to 0.07%.\nAs part of Santander’s latest rate changes, selected 60% LTV five-year fixed rates will increase by 0.06%. For remortgage rates, selected two-year fixed rates at 60% LTV and all five-year fixed rates at 60% to 90% LTV will increase by up to 0.08%.\nFor BTL customers, Santander is lowering selected two-year fixed rates for both purchases and remortgages, with reductions of up to 0.10% for 60% to 75% LTV purchase products and 0.05% for 60% LTV remortgage products.\nHowever, some BTL fixed rates for product transfers will rise, while tracker rates will remain unchanged. In addition, the 95% LTV two-year fee-free tracker for home movers will be reduced by 0.08%.\nSantander has reminded brokers that separate product ranges for first-time buyers and home movers have been in place since March 4, with brokers required to enter the home mover as applicant one when there is a mixed applicant profile.\nThe lender has also reminded brokers that all new business and product transfer applications must be submitted by 10pm today, March 27, to secure current rates. For customers who have not yet accepted their product transfer offer, a new product can be selected through the online mortgage transfer service, with a fresh offer issued. Those who have already accepted a new deal can still switch to another option or cancel their arrangement, but this must be done at least 14 days before the new deal starts.\nFrom tomorrow, brokers can access Santander’s online mortgage transfer service via Introducer Internet to view clients’ available product transfer rates, which will not be listed on sourcing systems.\nMeanwhile, TSB is also making changes to its product range, introducing new BTL two- and five-year fixed house purchase products at 75% to 80% LTV, with rates starting at 4.84%. The lender is also reducing rates on selected BTL, product transfer, and additional borrowing products.\nTSB will lower two-year fixed house purchase rates for 0% to 75% LTV by up to 0.15%, while two-year fixed remortgage rates (0% to 75% LTV, £0 fee) will drop by 0.10%. Reductions of up to 0.20% will apply to two- and five-year fixed remortgage rates for 75% to 80% LTV.\nFor product transfer and additional borrowing, BTL two-year fixed 0% to 75% LTV (£0 fee) will be reduced by 0.10%, while two- and five-year fixed 75% to 80% LTV product transfer rates will fall by up to 0.20%. Additional borrowing on BTL two-year fixed 0% to 75% LTV will be lowered by 0.10%.\nWant to be regularly updated with mortgage news and features? Get exclusive interviews, breaking news, and industry events in your inbox – subscribe to our FREE daily newsletter. You can also follow us on Facebook, X (formerly Twitter), and LinkedIn.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->loan market",
+      "Labor->labour market",
+      "Labor->wages and benefits",
+      "Labor->employment"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.facebook.com/MortgageIntroducer",
+      "https://www.santanderforintermediaries.co.uk/products-and-criteria/mortgage-news/2025-03-26-new-business-and-product-transfer-fixed-rate-increases-and-decreases",
+      "https://intermediary.tsb.co.uk/news/changes-to-our-products-range/",
+      "https://twitter.com/MortgageChat",
+      "https://www.linkedin.com/company/mortgage-introducer",
+      "https://www.intermediary.tsb.co.uk/news/changes-to-our-products-range/",
+      "https://intermediary.tsb.co.uk/news/changes-to-our-products-range",
+      "https://santanderforintermediaries.co.uk/products-and-criteria/mortgage-news/2025-03-26-new-business-and-product-transfer-fixed-rate-increases-and-decreases",
+      "https://facebook.com/MortgageIntroducer",
+      "https://linkedin.com/company/mortgage-introducer",
+      "https://www.twitter.com/MortgageChat"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-27T18:24:14.988+02:00",
+    "updated": "2025-03-27T18:24:14.988+02:00"
+  },
+  {
+    "uuid": "629cf34a25f5f2bc999f86728c5a0c9a2477905a",
+    "url": "https://www.pagina12.com.ar/698946-la-luz-que-entra-cada-semana-en-la-carcel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sonia Tessa",
+    "published": "2023-12-29T03:08:00Z",
+    "title": "La luz que entra cada semana en la cárcel | Se presentó un libro escrito por detenidas de la ciudad de Rosario | Página|12",
+    "text": "Gracias fue la palabra que más se escuchó durante la húmeda mañana de martes de principios de diciembre en la Unidad Penitenciaria número 5 de Rosario. Se notaba que las internas se habían puesto sus mejores ropas, que habían elegido ir de fiesta a la presentación de su propio libro, Luz en la Caja , Escritos de la Unidad 5. Algunas protagonistas se animaron a leer sus propios textos, la mayoría eligió tomar la palabra para leer el de una compañera. “Quiero agradecer, fue además la posibilidad de encontrarme con compañeras de otros pabellones, como Taty, con la que tenemos mucha afinidad porque las dos tenemos nuestros hijos presos”, dijo Vanesa. María, la aludida, había empezado a llorar al principio del acto, y volvió a emocionarse. “Yo quiero cantar y sonreír/ pero estoy en este lugar/ donde no puedo hacer nada. // Sólo me queda/ silenciar y el cielo mirar// Necesito alguien/ que me pueda abrazar”. El verso de Cecilia, la benjamina, fue leído por su compañera Giovana.\nEl libro, realizado de forma artesanal, es pequeño como esa luz que ingresa por el agujero al que alude el texto de la misma Vanesa que se lee en la página 14. Se llama El desabrigo. “En esta caja de zapatos con agujeros cargamos con mucha culpa y pesar por haber dejado personas a las que amamos desamparadas, en casa, sin nuestro apoyo y amor”, empieza.\nLa presentación contó con la presencia externa de la escritora Lila Gianelloni, esta cronista y Paula Busnadiego, del diario La Capital y fue el cierre del año del taller literario que coordinan Rosana Guardalá, Claudia Almirón y Lilian Alba, en el marco del proyecto de Mujeres tras las Rejas, una organización que trabaja en esa cárcel desde 2006 para el cumplimiento de los derechos de las detenidas . Allí estaba también Graciela Rojas, la fundadora de esa ONG, quien habló con su voz ronca de la importancia de tomar la voz en forma colectiva.\n“Compartimos meriendas, hermosas vivencias, charlas y escritos. Hubo risas, llantos, momentos serios como profundos pero también, charlas sin importancia. Un entramado de palabras y emociones que nos movilizaron en cada uno de los encuentros ”, escribieron las coordinadoras del taller en el inicio del libro. Esa atmósfera amorosa se sintió durante todo el acto de cierre, que terminó con un brindis con gaseosas, sándwiches y tortas hechas por las talleristas.\nGianelloni, escritora rosarina autora de libros como Mapamundi y Camino a casa, les dijo: “Ustedes son escritoras, y las escritoras crean mundos”. Ella fue la responsable del prólogo. “La luz y el tiempo no se pueden retener, viajan demasiado rápido, pero una escritura luminosa puede detener el instante y llenar de estrellas un espacio. Es lo que hace Luz en la caja . Cuando abrí el libro, un destello me reveló un universo ”, se lee en ese texto que está plegado a la manera de un origami, dentro de la bella edición artesanal con papeles reciclados.\nEn estos tiempos sociales, el diálogo parece obturado, cualquiera se siente en condiciones de juzgar el castigo deseable para otrxs, está permitido desear la cárcel, decir: “La/ lo quiero preso”, tomar para sí el monopolio del “bien” para señalar a quienes cometieron algún error. Porque nadie se imagina a sí mismo/a sufriendo el sistema penal, siempre se le desea al otro. Como castigo. Y eso está puesto por claridad en uno de los textos, por Celina: “Culpable o no, nada se paga acá/ adentro”.\nAunque en este suplemento no haga falta, hay que recordar que quienes allí se encuentran son personas. “Solo me da fuerzas pensar/ que esto algún día va a terminar./ Hay días en que las fuerzas me abandonan/ veo sus fotos y vuelve la paz./ Daría lo que fuera para verlos crecer/ poder malcriarlos y aguantar sus berrinches”, es un fragmento de la poesía de Susana.\nHacer lugar a la palabra, para que se convierta en texto. El taller es un espacio de producción, claro, pero sobre todo, habilita esas palabras para que puedan salir del encierro en el que viven las escritoras.\n“La culpa tiene nombre/ se llama soledad”, son dos versos de Giovanna. Solas, convertidas en individuos, sin proyectos colectivos, así las quieren. Y aunque parezca un granito de arena, todo lo que implique sentarse en una mesa, en ronda, y pensar entre todas, imaginar lo común, las saca de ese doble encierro. Así lo dijeron una y otra vez las que se animaron a tomar la palabra en el acto de cierre del año, a la espera de volver a encontrarse.\nEl día de la celebración, la cárcel alojaba casi 260 detenidas, alrededor de una decena junto a sus hijos menores de cinco años. La Unidad 5 tiene capacidad para 171 personas . Se llama hacinamiento.\nPor todo eso, el libro Luz en la Caja, escritos en la Unidad 5 tiene que salir de esos muros, del Salón de Usos Múltiples al que se accede después de atravesar pasillos, rejas, candados enormes y varios retenes. El gobernador Maximiliano Pullaro, apenas asumió, decidió prohibir que las visitas ingresen alimentos destinados a las personas detenidas. La resolución –posterior a este encuentro con sándwiches y tortas- tiene su origen en la “necesidad” de controlar a quienes “manejan el delito” desde adentro, los capos de diferentes bandas que dan órdenes desde sus celdas, siempre con alguna ayudita de los que deben controlar. Pagarán todas las personas privadas de la libertad. Incluso las mujeres que, en su gran mayoría, son el eslabón más débil de una cadena de comercialización de estupefacientes que la usa de carne de cañón .\nEn este contexto, la casa Cristina Vázquez, que la ONG Mujeres tras las Rejas y la Asociación de Pensamiento Penal mantenían afuera de la prisión para brindar un espacio de talleres para la inserción laboral a quienes están en condiciones de tener salidas transitorias, y quienes cumplieron su condena, se quedó sin local, por el inusitado aumento del alquiler y la pérdida de subsidios estatales nacionales. La rehabilitación de las personas detenidas sigue siendo una letra muerta de la Constitución.\nEn estos días, en la provincia de Santa Fe, se creó la Red Abrir la Prisión, que coordinan las Universidades Nacionales del Litoral y de Rosario, formada para “reunir a los actores sociales y estatales (más allá del Servicio Penitenciario de la Provincia de Santa Fe) que desarrollan cotidianamente intervenciones en las prisiones provinciales”. En sólo quince años, la tasa de encarcelamiento en la provincia trepó a 263 personas privadas de la libertad cada cien mil habitantes. Eso significa un 125% de aumento desde 2008 . \"Este crecimiento desmesurado ha magnificado una serie de problemas de larga duración de las prisiones santafesinas: superpoblación y hacinamiento, vulneración de derechos y condiciones de vida indignas de las personas privadas de su libertad , precariedad de las condiciones y sobrecarga del trabajo penitenciario, diversas formas de violencia al interior de los contextos de encierro\", plantearon desde la Red. Mujeres tras las Rejas es una de las organizaciones que la integran.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T06:37:05.011+02:00",
+    "updated": "2023-12-29T06:37:05.011+02:00"
+  }
+]

@@ -1,0 +1,622 @@
+[
+  {
+    "uuid": "a82bbe417cc729db94235451aba001278b53e356",
+    "url": "https://community.macmillan.org.uk/cancer_experiences/new-to-the-community-forum/f/new_to_the_site-13/282505/the-loss-before-loss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "latchbrook",
+    "published": "2024-08-30T12:32:00Z",
+    "title": "Forum Post: RE: The loss before loss",
+    "text": "Hi Forest1607 and welcome to the Macmillan Community but so sorry to hear about your mum's diagnosis and prognosis.\nA cancer diagnosis like this in the family can be such a challenging and stressful time but getting support from others who are dealing with the ‘exact same' support challenges can help you a lot.\nThis New to Community area is like our reception desk where we try to direct you to the best part of the Community for you to get support. The Community is actually divided into dedicated Support Groups (Discussion Rooms) and when it comes to the practical and emotional challenges of supporting your mum and indeed yourself you may benefit from joining and posting in our\nCarers only\nand our\nSupporting someone with incurable cancer\n……. support groups where you will connect with a wide range of members navigating the exact same support challenges.\nTo connect with a group click on the “ Bold Italic Links ” I have created above …… then once the group page opens click in the [Black - Click to Join - Banner] that appears at the bottom of the page and this will then confirm that you have joined the group.\nWhen you are ready……. you can introduce yourself by putting up your very own post by clicking [+ Create new post] or [+] in the top right of the group page.\nYou can copy and paste the text from this post into your new post.\nIt is an emotional time supporting family so you might find this Macmillan information your feelings when someone has cancer helpful as well as this link getting help with your emotions .\nYou may find it helpful to call the Macmillan Support Line open 8am-8pm (timings may differ across services) 7 days a week on 0808 808 00 00. This service provides cancer information, practical information, emotional support, benefits/financial guidance or just a listening ear.\nTalking to people face to face can be very helpful so do check to see if you have any Local Macmillan Support i n your area, do also check for a local Maggie's Centre as these folks are amazing and support all the family.\nPlease do get back to me if you need further help navigating the community ((hugs))",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.maggies.org/",
+      "https://maggies.org/",
+      "https://www.maggies.org"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-30T16:43:12.963+03:00",
+    "updated": "2024-08-30T16:49:53.899+03:00"
+  },
+  {
+    "uuid": "36385add91d459ca7fa73f8ba5d01424936515e5",
+    "url": "https://vulners.com/osv/OSV:GHSA-RMXG-6QQF-X8MR",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Google",
+    "published": "2024-11-21T22:22:00Z",
+    "title": "GeoNode Server Side Request forgery",
+    "text": "CVSS3\nAttack Vector\nNETWORK\nAttack Complexity\nLOW\nPrivileges Required\nNONE\nUser Interaction\nNONE\nScope\nUNCHANGED\nConfidentiality Impact\nHIGH\nIntegrity Impact\nNONE\nAvailability Impact\nNONE\nCVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N\nAI Score\nConfidence\nHigh\nA server side request forgery vuln was found within geonode when testing on a bug bounty program. Server side request forgery allows a user to request information on the internal service/services.\nThe endpoint /proxy/?url= does not properly protect against SSRF. when using the following format you can request internal hosts and display data. /proxy/?url=http://169.254.169.254\\@whitelistedIPhere. This will state wether the AWS internal IP is alive. If you get a 404, the host is alive. A non alive host will not display a response. To display metadata, use a hashfrag on the url /proxy/?url=http://169.254.169.254@#whitelisteddomain.com or try /proxy/?url=http://169.254.169.254@%23whitelisteddomain.com\nPort scan internal hosts, and request information from internal hosts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T02:49:24.784+02:00",
+    "updated": "2024-11-22T02:49:24.784+02:00"
+  },
+  {
+    "uuid": "18f97353b1eece2b308f81d0a397a7266c50a5ae",
+    "url": "https://notizie.virgilio.it/beatrice-venezi-sull-episodio-dell-orchestra-sinfonica-di-palermo-la-sua-versione-e-l-attacco-alla-sinistra-1603538",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maria Francesca Moro",
+    "published": "2024-01-25T18:30:00Z",
+    "title": "Beatrice Venezi risponde all'Orchestra di Palermo e si scaglia contro la sinistra",
+    "text": "Beatrice Venezi sull'episodio dell'Orchestra Sinfonica di Palermo: la sua versione e l'attacco alla sinistra “La mia colpa? Non dirigo a sinistra”: così Beatrice Venezi risponde alle critiche dei membri dell’Orchestra di Palermo Pubblicato il: È consuetudine che, a concerto finito, gli orchestrali rivolgano un affettuoso saluto al direttore che li ha guidati. Un applauso dato con i piedi, mentre le mani sono occupate a reggere gli strumenti. Tale saluto è stato tolto a Beatrice Venezi, criticata dai musicisti dell’Orchestra Sinfonica di Palermo. Così risponde la direttrice contestata. [Beatrice Venezi, l’attacco alla sinistra](#iol-toc-c2492d296ae9685c4fa822bb78514458) [Le critiche dei musicisti dell’Orchestra di Palermo](#iol-toc-06e115c7b4ff8b5ba59e1e68c1c87ac9) [Il commento su Fedez ed Elodie](#iol-toc-6979ab8cbd52d66c945060e34b64391a) Beatrice Venezi, l’attacco alla sinistra “Il mondo della musica è stato dominato, così come quello della cultura in generale, dalla sinistra”: è questo il motivo per cui lei viene così aspramente criticata, afferma intervistata da Il Giornale la direttrice d’orchestra Beatrice Venezi. Il maestro, che [non ha mai nascosto le proprie idee](https://notizie.virgilio.it/torna-atreju-di-meloni-e-fdi-da-abascal-musk-a-spalletti-paltrinieri-programma-ospiti-e-la-mossa-di-schlein-1597979) ascrivibili alle ideologie di destra, è anche consigliere della musica del ministero della Cultura del governo Meloni, ma non si considera una politica: “Sono altri a dover scegliere, io offro suggerimenti”. La direttrice contestata dargli orchestrali di Palermo Venezi accusa il mondo della cultura italiana di pregiudizi e discriminazioni che, stando alle sue parole, sono attuate per lo più da intellettuali di sinistra in posizioni di rilievo: “Alla testa delle istituzioni musicali tricolori vedono sempre le stesse facce di prima. Non mi pare siano di destra”. Parla molto di destra e sinistra, ma, infine, la direttrice d’orchestra auspica che “questa distinzione tra destra e sinistra sia superata, non ha alcun senso. Come quella fra uomini e donne”. Le critiche dei musicisti dell’Orchestra di Palermo Sulle pagine del quotidiano, Beatrice Venezi ridimensiona gli screzi che, stando a quanto riportato da Repubblica, ci sono stati con i musicisti dell’Orchestra Sinfonica di Palermo, da lei diretti pochi giorni prima. “Se un direttore non funziona, gli orchestrali lo sfiduciano direttamente, senza tanti giri di parole. Non mi pare sia successo a Palermo” afferma. Il maestro parla di una “piccola minoranza di tre professori su oltre settanta elementi in organico” e assicura che della questione si stanno occupando i suoi avvocati. Il commento su Fedez ed Elodie A dimostrare come l’esposizione di idee politiche da parte di personalità del mondo dello spettacolo sia accettata solo se ascrivibili a determinate posizioni, Beatrice Venezi prende in esempio Fedez, Elodie e Damiano David. “Fedez attacca la Premier un giorno sì e l’altro pure, Elodie idem, Damiano dei Måneskin quando ha vinto la destra ha spiegato che era un giorno triste […]. Io non posso pronunciare una sillaba senza essere esaminata”. Ancora una volta, per Beatrice Venezi la questione è prettamente politica: “C’è una tendenza a sminuirmi, a offendermi, a personalizzare le critiche. Gli artisti di sinistra, invece, fanno quello che gli pare”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "italian",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-26T00:06:08.513+02:00",
+    "updated": "2024-01-26T00:06:08.513+02:00"
+  },
+  {
+    "uuid": "4c8e5f36934fc14ce21e2511fe2da463eadd828e",
+    "url": "https://kdhnews.com/news/texas/mellow-mushroom-closing-after-more-than-13-years-in-downtown-denton/article_3adfeab6-9b49-5830-9ba2-d325f088e79b.html",
+    "ord_in_thread": 0,
+    "author": "Camila Gonzalez Staff Writer",
+    "published": "2025-04-30T22:40:00Z",
+    "title": "Mellow Mushroom closing after more than 13 years in downtown Denton | Texas | kdhnews.com",
+    "text": "Pizza restaurant Mellow Mushroom announced Wednesday via social media that it will close \"indefinitely\" this Sunday.\nMellow Mushroom began in 1974 in Atlanta, Georgia, and has franchises throughout the country. The locally owned Denton location, at 217 E. Hickory St., opened in 2011 and became a staple restaurant for some folks. The restaurant is part of the Denton Main Street Association.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->consumer goods",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->leisure venue"
+    ],
+    "ai_allow": false,
+    "has_canonical": true,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.instagram.com/p/DJE_lr0uEdI/",
+      "https://instagram.com/p/DJE_lr0uEdI/",
+      "https://www.instagram.com/p/DJE_lr0uEdI"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Denton Main Street Association",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "4c8e5f36934fc14ce21e2511fe2da463eadd828e",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T03:04:21.863+03:00",
+    "updated": "2025-05-01T00:11:28.000+00:00"
+  },
+  {
+    "uuid": "4528694120932810c9a3afe97260894f183ccdda",
+    "url": "https://www.chinapress.com.my/20250710/%e7%be%8e%e5%9b%bd%e6%b4%9b%e6%9d%89%e7%9f%b6%e4%b8%80%e9%9a%a7%e9%81%93%e5%9d%8d%e5%a1%8c-31%e5%90%8d%e5%b7%a5%e4%ba%ba%e5%85%a8%e8%8e%b7%e6%95%91/",
+    "ord_in_thread": 0,
+    "author": "中國報",
+    "published": "2025-07-10T06:53:00Z",
+    "title": "美国洛杉矶一隧道坍塌 31名工人全获救 | 中國報 China Press",
+    "text": "（华盛顿10日综合电）美国加利福尼亚州洛杉矶市发生一起隧道坍塌事故，31名工人全部获救，他们未见明显伤势。\n洛杉矶市消防局周三（9日）晚间发布的消息说，工人受困在位于威尔明顿地区（Wilmington）的一处工业隧道。\n消防局声明说，坍塌事故发生在隧道唯一入口以南约6英里（10公里）处，隧道直径为18英尺（5.5公尺），是为市政的污水处理系统而建。\n市政府派出100多名救援人员赶往现场。市长凯伦·巴斯（Karen Bass) 在社交媒体X发布的一篇帖子中说：“洛杉矶市已调动所有资源应对威尔明顿隧道坍塌事故。”\n巴斯后来说：“所有受困在威尔明顿隧道中的工人现已获救，并已确认下落。我刚刚与许多受困工人交谈。感谢所有立即采取行动的英勇救急人员。”\n文：新加坡联合早报\n图：法新社、@TrendwireAlerts社媒X\n视频：社媒X\n中国报官方WhatsApp平台！\nhttps://t.me/chinapressonline",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Disaster and Accident",
+      "Human Interest",
+      "Politics"
+    ],
+    "topics": [
+      "Disaster and Accident->structural failure",
+      "Disaster and Accident->industrial accident and incident",
+      "Human Interest->human mishap",
+      "Politics->government",
+      "Politics->local government and authority",
+      "Politics->safety of citizens"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://whatsapp.com/channel/0029VaUkmXjJpe8oygUw7b2E",
+      "https://t.me/chinapressonline",
+      "https://www.whatsapp.com/channel/0029VaUkmXjJpe8oygUw7b2E",
+      "https://www.t.me/chinapressonline"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_sg",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-10T11:10:18.978+03:00",
+    "updated": "2025-07-11T09:07:42.000+00:00"
+  },
+  {
+    "uuid": "98612d225c28e2abc6cd8e417cb16ac31a76ef4e",
+    "url": "https://finance.sina.com.cn/money/fund/aiassistant/etfwp/2025-06-19/doc-infaqrfn7366745.shtml",
+    "ord_in_thread": 0,
+    "author": "小浪财讯",
+    "published": "2025-06-19T03:31:00Z",
+    "title": "上证中盘ETF易方达（510130）跌0.72%，半日成交额1.16万元|福耀玻璃_新浪财经_新浪网",
+    "text": "6月19日，截止午间收盘，上证中盘ETF易方达（510130）跌0.72%，报6.064元，成交额1.16万元。上证中盘ETF易方达（510130）重仓股方面， 国泰海通 截止午盘跌0.65%， 江苏银行 涨0.68%， 浦发银行 跌0.23%， 上海银行 涨0.19%， 民生银行 跌1.48%， 中科曙光 涨0.00%， 福耀玻璃 跌0.92%， 北京银行 跌0.59%， 澜起科技 涨1.02%， 华泰证券 跌1.93%。\n上证中盘ETF易方达（510130）业绩比较基准为 上证中盘指数 ，管理人为易方达基金管理有限公司，基金经理为刘树荣，成立（2010-03-29）以来回报为109.31%，近一个月回报为2.38%。\n风险提示：市场有风险，投资需谨慎。本文为AI大模型自动发布，任何在本文出现的信息（包括但不限于个股、评论、预测、图表、指标、理论、任何形式的表述等）均只作为参考，不构成个人投资建议。\nMACD金叉信号形成，这些股涨势不错！",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Economy, Business and Finance->financial service",
+      "Economy, Business and Finance->market and exchange",
+      "Economy, Business and Finance->business reporting and performance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://www.finance.sina.cn/app/sfa_macd.shtml?source=pccj",
+      "https://finance.sina.cn/app/sfa_macd.shtml"
+    ],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-19T07:39:08.199+03:00",
+    "updated": "2025-06-20T05:04:50.000+00:00"
+  },
+  {
+    "uuid": "b42feac4852fbdf930c31b405148b0bf171116ae",
+    "url": "https://www.9news.com.au/national/the-aussies-feeling-left-behind-by-the-3g-shutoff/9d770814-55b5-4579-a6c4-d6bfbb1552d0",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josh Hohne",
+    "published": "2024-11-21T11:12:00Z",
+    "title": "3G Shutdown Australia: The Aussies feeling 'left behind' by the 3G shutoff",
+    "text": "The national shutdown of the 3G network last month has left some older and regional Australians frustrated after their device stopped working.Barbara Baird, 83, lives in the bush near Meredith in Victoria and doesn't like doing things over the phone at the best of times. \"I lived with no electricity for 35 years or so, I was persuaded to buy a mobile phone just a few years ago when one of my nieces was going to have a grandchild, she wanted to be able to send me photos of her grandchild.\" Before the 3G shutdown, she was warned by Telstra that her phone would stop working, despite it technically having access to the 4G network. \"It was really a pain in the A, hearing that on the 28th, this phone will not be able to be used,\" she told 9News.com.au. She was assured she needed to buy a new phone, even though she could see the 4G logo on her old phone. Baird turned to her local Neighbourhood House, a community centre where manager Leah Phillips was able to help her figure out why her old phone was going to be no good, and eventually helped set up her new phone. Phillips said she's seen a half-dozen local residents who have been left frustrated and bewildered after their devices, including phones, iPads, and even TV set-top boxes stopped working. In August this year, the Australian Communications and Media Authority (ACMA) made the decision to block phones from their mobile network if they used 4G for data, but not for making calls. Phones that used 4G for normal calls, but have to switch to the old 3G network for calling triple zero, have also been blocked from the network. That means some phones that are technically 4G compatible have been shut down because of the risk of being isolated in an emergency. In the increasingly digital world, Phillips said the 3G shutoff was absolutely leaving older Australians in rural towns behind. \"It's disgusting, I have to say,\" Phillips said. \"I wasn't sitting in this chair, a lot of my people would be disconnected and wouldn't have any access to anything.\" The peak body for Neighbourhood Houses in Victoria said their local hubs have seen a steady uptake in visits since the shutoff, with more people turning to community help for their digital literacy. \"The local neighbourhood centre or neighbourhood house, is often the only place where you can find a human in this day and age,\" Keir Patterson, chief executive of Neighbourhood Houses Victoria. \"Even if you ring up a contact centre, you know, you'll have some complex options to click through, and then you'll have to often ID yourself before you even get to speak to a human. \"In Neighborhood houses, our doors are always open.\" Before the shutoff came into effect, along with the decision to block some 4G-compatible phones, the telecommunications Ombudsman warned the communications authority that people who are unfamiliar with high tech, the elderly, or people with a disability could be impacted. ACMA estimated more than 250,000 devices in use at the start of November would be cut off. Neighbourhood Houses Victoria said three million Australians had been impacted by the shutdown, and are leading a push for federal government funding for the community services sector. \"I think it is time to formally recognise the role of neighbourhood centres and neighbourhood houses in digital connection,\" Patterson said. \"With 1000 centres around Australia and a lot of them in regional and remote communities, we are ideally placed to provide this kind of essential support. We just need the federal government funding and support to be able to do it.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://imageresizer.static9.net.au/aqmYTMOtQTC37dPS8eUW0snIYuo=/0x22:365x227/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://imageresizer.static9.net.au/Oa4pn3H42m915RWFJz4YAmgtHOU=/0x0:1046x785/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://imageresizer.static9.net.au/bxKoMqpuXRBNVJ8r1i79JSqMIyc=/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/BFN-GlHUdhgs19MJdvG7A9s3gU0=/0x73:626x699/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://imageresizer.static9.net.au/zEsL97mXanmr_5LN_4WCr9zzem8=/0x73:626x699/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://imageresizer.static9.net.au/1GcSbdnslH2SJhOo3AM3gWHIVYk=/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/Vw_9M9GAAz5suDo0mabFKajj6hQ=/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/0qTK_UyRxsPOcAVNy6Q7ouiSc9g=/0x73:626x699/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "http://twitter.com/intent/tweet?text=The+Aussies+feeling+&#x27;left+behind&#x27;+by+the+3G+shutoff&url=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0",
+      "https://imageresizer.static9.net.au/FlamOAmkU2Lk9zmu6lJZcruT4NU=/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/uu9EUuuDz49u5qLzJFTt75jqr-0=/0x0:1046x785/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://www.domain.com.au/news/neighbours-who-fell-in-love-are-selling-their-very-different-homes-to-embark-on-the-next-step-1336304/?utm_source=nine.com.au&utm_medium=referral&utm_campaign=editorial-nav-bar",
+      "https://imageresizer.static9.net.au/LjWGQR2QXKXKd-WW48hMyLfdLrQ=/0x0:1395x785/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://imageresizer.static9.net.au/xh7YPebMQls_vEOXp50adOxqg0Y=/0x0:5504x4128/105x105/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd159f95b-971a-4951-8247-29dc1237a2d6",
+      "https://imageresizer.static9.net.au/SST1y_b7WJ1Y-xQLwLFVFY-LTpk=/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/V-FQX7QLcPEZnmPXKh1i2Qq-svg=/71x0:1511x1080/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://imageresizer.static9.net.au/9TAoKcdizm7TtsuxNAAgFuEN2Zc=/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/v2rOTc5C6hppZqSjKe5XYlhWOIE=/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/-bZ4IM9F1cZJxknuNrZitZxGrx8=/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/kbN225Kz9oWwpBX6F2S4bwNJTWE=/0x73:626x699/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://imageresizer.static9.net.au/cP4XDKaagnPB_D_0hYVsIYYAL7s=/71x0:1511x1080/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://imageresizer.static9.net.au/aFLdUIWx-XbEY9Ra1kZZmRVUGV8=/0x22:365x227/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://imageresizer.static9.net.au/SfzFC74_pmhN-ZvEIwuTS3dqUxA=/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/VPgOI15bggwp8ggK-c8jJ7dPq18=/0x22:365x227/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://imageresizer.static9.net.au/pDt4sAHOs97o0O8BlbvuiEkzNMY=/0x0:1395x785/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://imageresizer.static9.net.au/hRku6GYrHM7v4sUgNNPBsiBE_D0=/0x0:1046x785/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://imageresizer.static9.net.au/qS3zDX1cJsH1ShuPG4tszPDz-vA=/0x0:1046x785/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://imageresizer.static9.net.au/n_9N6mr-iuRayxcDtzgOrNcYCzE=/0x22:365x227/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://imageresizer.static9.net.au/4oNyv-4Q5QNZM1NchwS8HBS0wdY=/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://imageresizer.static9.net.au/_vvzmYWFKjfH1DP5e-DFoPytg_U=/0x73:626x699/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://imageresizer.static9.net.au/yJL66qCTYmRr4PwAzK3c65H6tMI=/71x0:1511x1080/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://imageresizer.static9.net.au/BpzA3Lt0q3VQCZC4BhBCI_E5v6U=/71x0:1511x1080/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://imageresizer.static9.net.au/8eLu3kDG5F3eIfmFsn6IaUG7BO4=/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/k-cV8YKD7uUosoYVCcBfvR_fjns=/0x0:1395x785/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://imageresizer.static9.net.au/yUBJ9qPq9k_p7GXEIeY19pBWT-8=/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://imageresizer.static9.net.au/i8J5xuuPpq5exsXKZbx31XrJJB0=/0x0:1395x785/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://facebook.com/dialog/share?app_id=1327649940684033&display=popup&href=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0&redirect_uri=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0",
+      "https://imageresizer.static9.net.au/YeCGhZR019NyauVH__sZzwbpono=/0x0:5504x4128/210x210/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd159f95b-971a-4951-8247-29dc1237a2d6",
+      "https://imageresizer.static9.net.au/zxXGECM4PvSEbfarudBVHpnqLqs=/0x73:626x699/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.domain.com.au/news/where-even-a-modest-home-costs-99-per-cent-of-incomes-1336970/?utm_source=nine.com.au&utm_medium=referral&utm_campaign=editorial-homepage-driver",
+      "https://www.imageresizer.static9.net.au/aFLdUIWx-XbEY9Ra1kZZmRVUGV8=/0x22:365x227/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://www.imageresizer.static9.net.au/bxKoMqpuXRBNVJ8r1i79JSqMIyc=/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/i8J5xuuPpq5exsXKZbx31XrJJB0=/0x0:1395x785/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://www.imageresizer.static9.net.au/uu9EUuuDz49u5qLzJFTt75jqr-0=/0x0:1046x785/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://domain.com.au/news/neighbours-who-fell-in-love-are-selling-their-very-different-homes-to-embark-on-the-next-step-1336304/?utm_source=nine.com.au&utm_medium=referral&utm_campaign=editorial-nav-bar",
+      "https://www.facebook.com/dialog/share?app_id=1327649940684033&display=popup&href=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0&redirect_uri=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0",
+      "https://facebook.com/dialog/share",
+      "http://twitter.com/intent/tweet",
+      "https://www.imageresizer.static9.net.au/BFN-GlHUdhgs19MJdvG7A9s3gU0=/0x73:626x699/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.imageresizer.static9.net.au/k-cV8YKD7uUosoYVCcBfvR_fjns=/0x0:1395x785/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://www.imageresizer.static9.net.au/yJL66qCTYmRr4PwAzK3c65H6tMI=/71x0:1511x1080/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://www.imageresizer.static9.net.au/n_9N6mr-iuRayxcDtzgOrNcYCzE=/0x22:365x227/120x90/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://www.imageresizer.static9.net.au/V-FQX7QLcPEZnmPXKh1i2Qq-svg=/71x0:1511x1080/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://www.imageresizer.static9.net.au/-bZ4IM9F1cZJxknuNrZitZxGrx8=/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/BpzA3Lt0q3VQCZC4BhBCI_E5v6U=/71x0:1511x1080/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://www.imageresizer.static9.net.au/zxXGECM4PvSEbfarudBVHpnqLqs=/0x73:626x699/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.imageresizer.static9.net.au/4oNyv-4Q5QNZM1NchwS8HBS0wdY=/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.imageresizer.static9.net.au/LjWGQR2QXKXKd-WW48hMyLfdLrQ=/0x0:1395x785/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://domain.com.au/news/where-even-a-modest-home-costs-99-per-cent-of-incomes-1336970/?utm_source=nine.com.au&utm_medium=referral&utm_campaign=editorial-homepage-driver",
+      "https://www.imageresizer.static9.net.au/YeCGhZR019NyauVH__sZzwbpono=/0x0:5504x4128/210x210/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd159f95b-971a-4951-8247-29dc1237a2d6",
+      "https://www.imageresizer.static9.net.au/cP4XDKaagnPB_D_0hYVsIYYAL7s=/71x0:1511x1080/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbb3b5666-4f02-43cc-8729-e8056fb267f2",
+      "https://www.imageresizer.static9.net.au/kbN225Kz9oWwpBX6F2S4bwNJTWE=/0x73:626x699/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "http://www.twitter.com/intent/tweet?text=The+Aussies+feeling+&#x27;left+behind&#x27;+by+the+3G+shutoff&url=https%3A%2F%2Fwww.9news.com.au%2Fnational%2Fthe-aussies-feeling-left-behind-by-the-3g-shutoff%2F9d770814-55b5-4579-a6c4-d6bfbb1552d0",
+      "https://www.imageresizer.static9.net.au/hRku6GYrHM7v4sUgNNPBsiBE_D0=/0x0:1046x785/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://www.imageresizer.static9.net.au/9TAoKcdizm7TtsuxNAAgFuEN2Zc=/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.imageresizer.static9.net.au/Oa4pn3H42m915RWFJz4YAmgtHOU=/0x0:1046x785/105x79/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://www.imageresizer.static9.net.au/_vvzmYWFKjfH1DP5e-DFoPytg_U=/0x73:626x699/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.imageresizer.static9.net.au/SfzFC74_pmhN-ZvEIwuTS3dqUxA=/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.imageresizer.static9.net.au/FlamOAmkU2Lk9zmu6lJZcruT4NU=/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.imageresizer.static9.net.au/1GcSbdnslH2SJhOo3AM3gWHIVYk=/1000x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/yUBJ9qPq9k_p7GXEIeY19pBWT-8=/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/SST1y_b7WJ1Y-xQLwLFVFY-LTpk=/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.domain.com.au/news/where-even-a-modest-home-costs-99-per-cent-of-incomes-1336970/",
+      "https://www.imageresizer.static9.net.au/Vw_9M9GAAz5suDo0mabFKajj6hQ=/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/8eLu3kDG5F3eIfmFsn6IaUG7BO4=/600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F95d55774-8297-4ab4-b28d-63fa8dee3dea",
+      "https://www.imageresizer.static9.net.au/v2rOTc5C6hppZqSjKe5XYlhWOIE=/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fe261117a-bdc6-4a07-aa5c-ebb2b8a28013",
+      "https://www.imageresizer.static9.net.au/qS3zDX1cJsH1ShuPG4tszPDz-vA=/0x0:1046x785/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd06a5796-5c0f-4159-85c1-4f1049db443a",
+      "https://www.imageresizer.static9.net.au/zEsL97mXanmr_5LN_4WCr9zzem8=/0x73:626x699/800x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.imageresizer.static9.net.au/pDt4sAHOs97o0O8BlbvuiEkzNMY=/0x0:1395x785/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2F087dee3b-5bc2-4858-8a11-b87634fcffbb",
+      "https://www.imageresizer.static9.net.au/VPgOI15bggwp8ggK-c8jJ7dPq18=/0x22:365x227/240x180/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://www.imageresizer.static9.net.au/xh7YPebMQls_vEOXp50adOxqg0Y=/0x0:5504x4128/105x105/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd159f95b-971a-4951-8247-29dc1237a2d6",
+      "https://www.imageresizer.static9.net.au/aqmYTMOtQTC37dPS8eUW0snIYuo=/0x22:365x227/210x158/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fd895dd06-023d-414f-b451-d023282a273c",
+      "https://www.imageresizer.static9.net.au/0qTK_UyRxsPOcAVNy6Q7ouiSc9g=/0x73:626x699/1600x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fbd0ff548-30b8-42bb-8719-6ca13052cd9f",
+      "https://www.domain.com.au/news/neighbours-who-fell-in-love-are-selling-their-very-different-homes-to-embark-on-the-next-step-1336304/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Josh Hohne",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Barbara Baird",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T00:38:39.958+02:00",
+    "updated": "2024-11-22T02:43:48.727+02:00"
+  },
+  {
+    "uuid": "d7fde92ac194832fbb1d9e99a2d499a571ecbf0d",
+    "url": "https://www.restartmed.com/endocrinologist-for-thyroid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kathy Balcar",
+    "published": "2024-12-19T21:05:00Z",
+    "title": "Comment on You Don’t Want an Endocrinologist To Treat Your Thyroid (5 Reasons) by Kathy Balcar",
+    "text": "I’m not saying endocrinologists are all bad. There are some that are great.\nBut I am going to suggest that you will probably get better care by seeing another type of doctor if you have a thyroid problem.\nI know this may sound controversial, but my experience suggests that most thyroid patients who see one will not get the special care that they think they will.\nAnd that other doctors are often more informed about newer thyroid therapies.\nHere’s why:\nDOWNLOAD FREE RESOURCES\nFoods to Avoid if you Have Thyroid Problems:\nI’ve found that these 10 foods cause the most problems for thyroid patients. Learn which foods you should avoid if you have thyroid disease of any type.\nThe Complete List of Thyroid Lab tests:\nThe list includes optimal ranges, normal ranges, and the complete list of tests you need to diagnose and manage thyroid disease correctly!\nReason #1. They Won’t Order The Right Tests\nAt most, your endocrinologist is likely to order what is called a TSH with reflex to free T4.\nThis particular lab test looks at your TSH and will only evaluate your free T4 if the TSH is abnormal.\nBut here’s the problem:\nThis assumes that the TSH is the best way to measure thyroid function and that other thyroid lab tests are not needed.\nWhile it is true that TSH is the most sensitive marker of pituitary thyroid action, other thyroid lab tests can provide loads of useful information.\nSome of these include free T3, total T3, reverse T3, and thyroid antibodies.\nBut if you were to ask your endocrinologist to order these tests they would probably scoff at you and tell you that they aren’t necessary.\nThe reason? They don’t really care about the results.\nHaving abnormal thyroid antibodies doesn’t change the fact that they want to give you levothyroxine.\nHaving a low T3 doesn’t matter to them either because, guess what, they still want to give you levothyroxine.\nAnd what about having a low total T3? It won’t change their recommendation of levothyroxine with a side of more levothyroxine.\nThis is very unfortunate because meta-analyses show that over 50% of thyroid patients prefer taking T4 + T3 thyroid medication01614-3/abstract)!\nBut guess what? You can’t differentiate which patients should take T3 on top of their levothyroxine without looking at free T3 and total T3 levels.\nUnfortunately, you can’t expect your endocrinologist to check these lab tests.\nReason #2. They All Treat The Same Way\nI shouldn’t say all because there are a handful of endocrinologists that don’t do this but the vast majority fall into this category.\nWithout having ever met your endo, I can say with a high degree of certainty that he or she will only check your TSH and recommend levothyroxine based on that value.\nIt doesn’t matter what lab tests you requested, what the results of those lab tests show, or how bad you are feeling, this is going to be their recommendation.\nFrom their perspective, if your TSH is fine then you are fine. Period. End of story.\nAnd this sort of mentality exists among virtually all endocrinologists.\nWhy?\nBecause this is how they are taught.\nIn fact, this is how all doctors are taught including family practice doctors and general practitioners.\nI know because this is exactly how I was taught.\nAnd this method of treating hypothyroidism is referred to as the standard of care.\nHaving a standard of care is great for patients because it means that no matter where you go in the United States, you can expect to get the same treatment.\nBut it only works if the treatment works.\nAnd when it comes to thyroid management, there’s a lot of research and data to support the idea that doctors are failing thyroid patients.\nIf you don’t believe me, take a look at this survey of over 12,000 thyroid patients which shows, on average, they give their doctors a failing grade of 5 out of 10 and that they rate the need for new thyroid treatments as a 10 out of 10.\nDoes that sound like a group of people that is happy about how they are being managed?\nI can tell you from personal experience that thyroid patients who take combination thyroid medications like Armour Thyroid and liothyronine have much, much higher satisfaction levels.\nReason #3. Endocrinologists Don’t Have Special Knowledge\nIt makes logical sense that a doctor who specializes in a specific disease would know more than a general practitioner about that condition.\nAnd it is true in many situations, especially uncommon or rare diseases.\nBut hypothyroidism is not rare or uncommon.\nIt’s estimated that almost 12% of the population in the United States has hypothyroidism which translates to 39 million people.\nBut beyond this, the bigger problem has to do with how endocrinologists look at the disease:\nTo them, it’s a solved issue.\nAs far as they are concerned, if you are taking levothyroxine and your TSH is normal then whatever symptoms you are experiencing must be due to something else.\nThis is why you hear so many stories from thyroid patients who go in complaining about weight gain, hair loss, and fatigue, only to be told that they are getting older, that they are depressed, or that they should eat less.\nWhich is probably why surveys show that hypothyroid patients complain about the same symptoms for 10+ years without seeing any improvement:\nAnd why many thyroid patients end up getting placed on anti-depressants instead of receiving changes to their thyroid medication.\nThe reality is that many of these problems could be solved with the right knowledge, you just aren’t likely to get it from an endocrinologist.\nReason #4. They Are More Set In Their Ways\nYou might think that seeing a specialist is a good thing because, perhaps, they are more willing to listen to new ideas and treatments, right?\nUnfortunately, this assumption is incorrect.\nBy virtue of the fact that endocrinologists treat thyroid patients day in and day out, tend to be less likely to listen to alternative treatments.\nI can’t tell you how many times thyroid patients reach out telling me that their doctor told them that they shouldn’t do X, Y, or Z.\nBut why on earth would you listen to someone who hasn’t helped you feel better for years and years?\nIt doesn’t make any sense, but so many people have been conditioned to believe doctors that they don’t even recognize what they are doing.\nThis idea of being set in their ways is further reinforced due to echo chambers.\nContinuing education conferences, where new research and treatments are presented, are often supported and partially funded by pharmaceutical companies that have a financial incentive to support their own medications.\nAs a result, your endocrinologist just isn’t likely to hear about natural treatment options, even though simple things like changing your diet, exercising regularly, and getting more sleep have a profound effect on your thyroid.\nWhen was the last time your doctor asked you about these things? Or did they just check your lab tests and make adjustments to your medication?\nMost thyroid patients get the latter.\nReason #5. You Won’t Be Able To Convince Them To Change\nThe last one is kind of an extension of #4.\nMany thyroid patients read information like this and they think that they can take this information to their doctor and they will be both happy to learn something new and eager to implement the new changes.\nAgain, unfortunately, you couldn’t be farther from the truth.\nListen to this story:\nWhen I was in my first year of practice out of residency I had some amazing success with a husband and a wife who were among my first-ever patients.\nCollectively they lost some 50+ pounds, had more energy than they could remember, got off several medications for blood pressure and cholesterol, and were overall doing fantastic.\nThey were obviously excited by these changes and they went to their doctor to tell him about me and what they were doing.\nInstead of the doctor being happy about their success, he was upset that they went to see me and questioned my credentials and methods.\nThis is despite the fact that so much good had been done in their lives.\nI learned pretty quickly that most doctors are really not interested in learning more or trying new things and they even feel threatened when they find someone who has more success than they do.\nThis isn’t a universal thing but it does exist and it’s more prominent than you would think.\nThe moral of the story is that doctors are not likely to change what they are doing even in the face of amazing success and positive results from others.\nIt’s optimistic to think that they will change their mind and try something new and I do think it’s worth a shot, but don’t be surprised when they are not interested at all.\nFor most thyroid patients, it’s far better and more effective to seek out a second opinion instead of trying to get your existing doctor to work with you.\nWho To See Instead\nWith all this said, who should you see if not an endocrinologist?\nHere’s what I would do:\nFirst, start with someone who takes insurance and is local to you. Preferably your primary care doctor.\nTest the waters to see if they are open to new therapies, trying new medications, and ordering the more advanced thyroid lab panel.\nFor most people, they won’t be completely willing to do everything you ask, but they may be somewhat receptive.\nIf they are, stick with them for 3-6 months to see if you can get the help you need.\nIf they aren’t, just move on and try to find a new doctor.\nAs far as which type of doctor to see, here’s where you will find the best results:\n- Doctors who specialize in anti-aging medicine, bio-identical hormone management, functional medicine, integrative medicine, or natural medicine.\nThe biggest downside to these doctors is that they are typically expensive and don’t take insurance.\nIn addition, they may not even be local to you, depending on where you live.\nBut, in my opinion, the extra price is worth the right treatment because it’s often the difference between having symptoms like weight gain, hair loss, and fatigue versus not.\nLet me leave you with this thought:\nNo one cares more about your life and your symptoms than you do.\nAnd when you put how you feel in the hands of someone else, you won’t get anywhere near the same level of care that you would give yourself.\nWhile some of this may seem discouraging, there are things that you can do to help yourself starting right now.\nAs I mentioned previously, simple things like changing your diet, exercising more, and taking the right supplements can have a big impact.\nIf you want to see which supplements I think are best for your thyroid then I’d recommend checking out this article next.\nScientific References\n#1. ncbi.nlm.nih.gov/pmc/articles/PMC6471951/\n#2. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01614-3/abstract\n#3. https://www.liebertpub.com/doi/abs/10.1089/thy.2017.0681?rfr_dat=cr_pub%3Dpubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&journalCode=thy",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->medical specialisation",
+      "Health->medical profession",
+      "Health->health treatment and procedure",
+      "Social Issue->discrimination",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Kathy Balcar",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T00:08:30.864+02:00",
+    "updated": "2024-12-20T00:08:30.864+02:00"
+  },
+  {
+    "uuid": "2ed447e978b42bb541291252572382ec73693a52",
+    "url": "https://www.washingtonexaminer.com/news/house/3382569/hakeem-jeffries-supports-ban-stock-trading-congress-members",
+    "ord_in_thread": 0,
+    "author": "Lauren Green",
+    "published": "2025-04-16T21:48:00Z",
+    "title": "Jeffries backs stock trading ban previously shunned by Pelosi - Washington Examiner",
+    "text": "House Minority Leader Hakeem Jeffries (D-NY) extended his support for banning Congress members from inside stock trading, a matter former House Speaker Nancy Pelosi (D-CA) used to oppose.\nThe bipartisan matter has lingered for a long time, with broad public support . The most recent action came from Democrats after many of them accused Republicans of “market manipulation” following President Donald Trump’s push to buy ahead of the pause on his “reciprocal” tariffs.\n“So many of these people are crooks, liars, and frauds. And Marjorie Taylor Greene is, of course, exhibit A,” Jeffries said Monday on MSNBC after Rep. Marjorie Taylor Greene (R-GA) allegedly bought tens of thousands of dollars in stock the day before and the day of Trump’s pause on his sweeping tariffs.\n“One, we do need to change the law so that sitting members of Congress cannot trade stock, period. Full stop,” Jeffries continued. “And until we get to that point, we obviously have to continue to highlight why this is problematic. And if Republicans are unwilling to hold a hearing on this matter, I can assure you Democrats will, on Capitol Hill, in partnership with the Senate. And we also will take this matter on the road.”\nJeffries has mostly aligned with Pelosi on major issues since she stepped down from leading House Democrats. Pelosi, who wrote off the matter for a long period of time, seemed to back down on her staunch opinions ahead of the 2022 midterm elections.\nPelosi, whose husband is a multimillionaire investor who regularly makes large trades, opposed previous legislation, saying we live in a “free market economy.” However, in 2022, she softened her opposition against the measure, saying she would be “ okay with it ” if that’s what Democratic lawmakers wanted.\n“No one should come to Congress to make a profit. Americans want to see a stock ban, and as a co-sponsor of the bipartisan TRUST in Congress Act, I’m glad to see Leader Jeffries voice support for a ban,” Rep. Ro Khanna (D-CA) told the Washington Examiner .\nMany Republicans, including Greene, who were accused of acting on inside information, pushed back by saying their stock exchanges were in a blind trust.\nJeffries is not the only Democratic leader who has weighed in on this matter since Trump’s “Liberation Day.” His appearance on MSNBC came after Senate Minority Leader Chuck Schumer (D-NY), along with other Senate Democratic colleagues, called on the Securities and Exchange Commission to investigate Trump’s possible “tariff market manipulation” regarding insider trading.\n“We urge the SEC to investigate whether the tariff announcements, which caused the market crash and subsequent partial recovery, enriched administration insiders and friends at the expense of the American public and whether any insiders, including the President’s family, had prior knowledge of the tariff pause that they abused to make stock trades ahead of the President’s announcement,” the senators said.\n“Before pausing the tariffs that threw markets into disarray, President Trump appears to have previewed his plans to do so on Truth Social: at 9:37 am, he announced, “THIS IS A GREAT TIME TO BUY!!! DJT.” His official announcement of the tariff pause came roughly 4 hours later at 1:18 pm,” they said .\nAs they work to win the House in the 2026 midterm elections, banning congressional stock trading could be a major play for Democrats as they search for messaging that resonates with voters, especially after the market turmoil following Trump’s tariffs.\nAlthough Democrats are messaging on the matter now, many Republicans are also on board with the stock trading ban. The right flank of the GOP party, the House Freedom Caucus, included a stock trading ban on its list of necessary legislation in a letter earlier this year following the speaker race. House Speaker Mike Johnson (R-LA) has remained quiet on the matter and does not own any individual stocks, according to his ethics disclosures.\nThis longtime issue has had many pushes but has never been fully successful. The STOCK Act, signed into law in 2012, prohibits members from acting on insider information and requires them to report their trades within 45 days, but the law acts more as a slap on the wrist. The penalty is a mere $200 fine, and members have not been punished for said violations.\nEarlier this year, Reps. Chip Roy (R-TX) and Seth Magaziner (D-RI) reintroduced the TRUST Act , which would ban Congress members, their spouses, and dependent children from trading individual stocks. The piece of legislation has 63 cosponsors as of Wednesday .\nAOC RAISES NEARLY $10 MILLION IN FIRST QUARTER, SMASHING RECORD\nLast year, a group of bipartisan senators, including Jon Ossoff (D-GA), Gary Peters (D-MI), Josh Hawley (R-MO), Jeff Merkley (D-OR), and Jacky Rosen (D-NV), introduced legislation that passed out of the Senate Homeland Security and Governmental Affairs Committee to ban stock trading for sitting Congress members, marking the first time a bill with this language passed out of committee. Ossoff has introduced similar legislation multiple times, but none have crossed the finish line.\n“Members of Congress should not be here to turn a profit on the people’s time. They should certainly not be trading or owning individual stocks, especially not in companies they oversee through their government work,” Hawley said in a press release following committee passage.\nThe Washington Examiner reached out to Jeffries’s office for comment but did not hear back.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics"
+    ],
+    "topics": [
+      "Politics->political candidates",
+      "Politics->government policy"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://campaignlegal.org/update/congressional-stock-trading-and-stock-act",
+      "https://www.hawley.senate.gov/hawley-peters-bipartisan-legislation-banning-congressional-stock-trading-passes-through-committee/",
+      "https://www.nytimes.com/2025/04/14/us/politics/marjorie-taylor-greene-bought-stock-trump-tariffs-pause.html",
+      "https://www.banking.senate.gov/imo/media/doc/20250411%20Letter%20to%20SEC%20re%20DJT%20Tariff%20Insider%20Trading.pdf",
+      "https://www.politico.com/minutes/congress/01-20-2022/politics-of-stock-trades/",
+      "https://www.congress.gov/bill/119th-congress/house-bill/396/cosponsors",
+      "https://x.com/freedomcaucus/status/1875270593333039601/photo/1",
+      "https://magaziner.house.gov/media/press-releases/magaziner-roy-introduce-bipartisan-legislation-ban-members-congress-trading",
+      "https://www.x.com/freedomcaucus/status/1875270593333039601/photo/1",
+      "https://www.politico.com/minutes/congress/01-20-2022/politics-of-stock-trades",
+      "https://www.hawley.senate.gov/hawley-peters-bipartisan-legislation-banning-congressional-stock-trading-passes-through-committee",
+      "https://www.campaignlegal.org/update/congressional-stock-trading-and-stock-act",
+      "https://banking.senate.gov/imo/media/doc/20250411%20Letter%20to%20SEC%20re%20DJT%20Tariff%20Insider%20Trading.pdf",
+      "https://congress.gov/bill/119th-congress/house-bill/396/cosponsors",
+      "https://hawley.senate.gov/hawley-peters-bipartisan-legislation-banning-congressional-stock-trading-passes-through-committee/",
+      "https://politico.com/minutes/congress/01-20-2022/politics-of-stock-trades/",
+      "https://nytimes.com/2025/04/14/us/politics/marjorie-taylor-greene-bought-stock-trump-tariffs-pause.html",
+      "https://www.magaziner.house.gov/media/press-releases/magaziner-roy-introduce-bipartisan-legislation-ban-members-congress-trading"
+    ],
+    "entities": {
+      "persons": [
+        {
+          "name": "Hakeem Jeffries",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Marjorie Taylor Greene",
+          "sentiment": "none"
+        },
+        {
+          "name": "Nancy Pelosi",
+          "sentiment": "none"
+        },
+        {
+          "name": "Donald Trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Congress",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Washington Examiner House",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "MSNBC",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "2ed447e978b42bb541291252572382ec73693a52",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-17T00:56:49.865+03:00",
+    "updated": "2025-04-17T12:34:41.184+03:00"
+  },
+  {
+    "uuid": "95f2a7f993b5d7ddbe2772ace4315373ad3796d6",
+    "url": "https://vietnamnet.vn/en/vietnamese-economy-expands-5-05-in-2023-2232787.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VietNamNet News",
+    "published": "2023-12-29T04:36:00Z",
+    "title": "Vietnamese economy expands 5.05% in 2023",
+    "text": "Labour productivity of the entire economy at current prices is estimated at 199.3 million VND (8,380 USD) per worker in 2023, up 274 USD than the 2022 figure (Photo: VNA)\nSpecifically, the economy is estimated to expand 6.72% year-on-year in the fourth quarter, higher than the 3.41% of the first quarter, the 4.25% of the second quarter, and the 5.47% of the third quarter.\nIn the year, the agriculture, forestry and fishery sector is estimated to grow by 3.83%, contributing 8.84% to the economy’s total added value, while the industrial and construction sector is estimated to increase by 3.74%, contributing 28.87%, and the service sector by 6.82%, and 62.29%.\nIn Q4, final consumption expenditure rose by an estimated 4.86% over the same period last year, contributing 53.18% to the overall growth rate of the economy. The figures are 6.21% and 44.18% for asset accumulation. Meanwhile, the export and import of goods and services are estimated to rise by 8.68% and 8.76%, respectively. The trade surplus is estimated to contribute 2.64% to the overall growth rate of the economy.\nThe scale of GDP at current prices in 2023 is estimated at 10.2 quadrillion VND (430 billion USD). GDP per capita is estimated to reach 101.9 million VND (4,284 USD), 160 USD higher than that in the previous year. Labour productivity of the entire economy at current prices is estimated at 199.3 million VND (8,380 USD) per worker, up 274 USD than the 2022 figure. Labour productivity based on comparative prices rose 3.65% thanks to improved qualifications of workers. The rate of trained workers with degrees or certificates this year is estimated to reach 27% of the workforce, 0.6 percentage point higher than in 2022.\nThe GSO forecast that Vietnam continues to face many difficulties and challenges in 2024.\nIn order to achieve socio-economic development targets next year, GSO General Director Nguyen Thi Huong stressed the need for the engagement of the Government, the business community and people nationwide.\nMinistries and agencies should improve forecasts, and take flexible and appropriate measures in the new situation to effectively and concertedly implement socio-economic recovery and development support policies, she added./.VNA",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Labor",
+      "Economy, Business and Finance",
+      "Politics"
+    ],
+    "external_links": [
+      "https://vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0",
+      "https://www.vads.net.vn/Ad?z=93&w=1&domain={p}&isvast=0",
+      "https://vads.net.vn/Ad",
+      "https://www.vads.net.vn/Ad?z=92&w=1&domain={p}&isvast=0"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "vna",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T07:12:42.250+02:00",
+    "updated": "2023-12-29T07:12:42.250+02:00"
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "uuid": "9571b33787f015843e06317e990abb0dd47d73b6",
+    "url": "https://finance.sina.com.cn/roll/2025-03-13/doc-inepnchw5137128.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sina.com.cn",
+    "published": "2025-03-12T23:21:00Z",
+    "title": "农田大模型为春耕注入数智新动能_新浪财经_新浪网",
+    "text": "春潮涌动，万象“耕”新。今年春耕期间，中移物联网有限公司依托自主研发的“万象耕耘农田大模型”，在全国多地掀起科技助农新浪潮。该模型基于DeepSeek-R1（70B）框架，融合遥感数据、气象信息、土壤墒情等多源数据，打造覆盖农事咨询、灾害预判、智慧灌溉、产量预测等全链条的智能农业解决方案，为春耕生产注入“数智新动能”。\n　　农技智库“会聊天”，AI服务更接地气。在河南兰考高标准农田示范区，农户通过手机语音提问，即可实时获取播种密度、施肥方案等个性化建议。万象耕耘农田大模型以多模态交互为核心，整合超四千万条农业知识库信息，支持语音、图像、文本多种输入方式，将复杂的农技知识转化为“听得懂、用得上”的指导建议。“过去凭经验，现在靠‘AI专家’，施肥量可减少10％。”当地农户说。\n　　大小模型协同，灾害预警精准度提升40％。面对春季频发的倒春寒、病虫害等风险，该模型创新采用“大模型+垂直小模型”架构，通过气象、病虫害、苗情长势等专项模型协同分析，实现灾情提前7～15天预判。在河北高阳县，系统通过卫星遥感发现3万亩麦田存在条锈病早期征兆，立即触发预警并推送防治方案，较传统人工监测效率提升3倍。\n　　智能灌溉系统节水30％，资源利用更高效。广东从化智慧农场内，搭载大模型的指挥调度系统能根据土壤湿度、作物生长阶段动态调节用水，较人工管理节水超30％。通过多种技术融合运用，系统自动规划需水区域，动态优化灌溉管网压力分配，确保作物精准获水。\n　　遥感监测赋能，产量预测准确率达92％。在黑龙江汤原县，模型基于作物生长周期数据和卫星遥感影像，对4万亩水稻进行长势分析，产量预测准确率较传统方式提升12个百分点。结合历史产量数据与气候趋势，可为粮食收储、保险定价提供科学依据，帮助农户规避市场风险。　（李琪　石若雪）",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->agriculture",
+      "Environment->sustainability",
+      "Environment->natural resources",
+      "Social Issue->diversity, equity and inclusion",
+      "Social Issue->communities",
+      "Social Issue->social networking"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:33:10.175+02:00",
+    "updated": "2025-03-13T01:33:10.175+02:00"
+  },
+  {
+    "uuid": "635b365be504df2343671ccc42b52c5cd11077a7",
+    "url": "https://en.reseauinternational.net/dr-michel-de-lorgeril-la-medecine-des-vaccins-nest-pas-scientifique/",
+    "ord_in_thread": 0,
+    "author": "Réseau International",
+    "published": "2025-08-14T05:55:00Z",
+    "title": "Dr. Michel de Lorgeril: \"Vaccine medicine is not scientific!\"",
+    "text": "by ResilientsTV\nDr. Michel de Lorgeril is a French cardiologist. He is also a researcher at the CNRS. He is internationally recognized for his work on the Mediterranean diet as a dietary model for the prevention of cardiovascular disease. He has also studied the scientific data supporting vaccination programs, to which he has dedicated a series of books.\nsource: ResilientsTV",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Health->health treatment and procedure",
+      "Health->medical profession",
+      "Health->vaccine",
+      "Science and Technology->scientific exploration",
+      "Science and Technology->medical research",
+      "Science and Technology->biomedical science",
+      "Social Issue->racism",
+      "Social Issue->social problem",
+      "Social Issue->discrimination"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.youtube.com/watch?v=ehvfKknhu2M",
+      "http://www.youtube.com/watch",
+      "http://youtube.com/watch?v=ehvfKknhu2M"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Michel de Lorgeril",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "CNRS",
+          "sentiment": "positive",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:00:36.918+03:00",
+    "updated": "2025-08-14T10:14:06.000+03:00"
+  },
+  {
+    "uuid": "2d9b08d90024c55435e70b48d45ef483de4469dd",
+    "url": "https://elliotbsjbs.pages10.com/top-latest-five-buy-bolivian-cocaine-online-in-canada-urban-news-59778052",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Elliotbsjbs Pages",
+    "published": "2023-12-28T18:23:00Z",
+    "title": "Top latest Five buy bolivian cocaine online in canada Urban news",
+    "text": "The proof As a result implies that the assorted indicators associated with cocaine use are typically because of irregularities within the medication’s standard distribution instead of any synthetic discrepancies in between cocaine from Bolivia and cocaine from Colombia.\nIf you are a admirer of cocaine you must have known that privacy is An important situation to look at during shipping that's why Topshelf is below to supply you with the very best product at an incredibly low-priced rate and our supply uses the most beneficial transport companies like FedEx and DHL that makes it quite protected so that you can receive your package with no problems.\nWe also deliver cocaine while in the clubs of Toronto, streets, and to somebody who provides cocaine on large scale. So, you'll be able to buy coke in bulk at additional affordable prices.\nGet Cocaine Online, Cocaine is actually a highly addictive drug that ups your amounts of alertness, notice, and Vitality. However, it's possible you'll listen to it known as a stimulant because It’s comprised of the coca plant, which is indigenous to South The usa. It’s unlawful while in the U.S. However other names for it involve:\nCocaine was to start with isolated from the leaves in 1860. Considering the fact that 1961, the international One Conference on Narcotic Prescription drugs has needed international locations to help make the leisure use of cocaine a criminal offense. Go to us now and location your purchase or to understand more about cocaine powder. Buy coca paste online from among the best and many trustworthy suppliers within the online sector and steer clear of having ripped off or obtaining caught. We even have plugs in a number of international locations which enable discrete and immediate meetings with our team.\nBolivian Cocaine available for sale online, where by to obtain cocaine online, and purchase bolivian cocaine online are prevalent key phrases the majority of people used when hunting/hunting by way of search engines like google to buy this products online. Bolivian Cocaine is actually a helpful medication, but a result of the large charge of abuse, it's a very terrible graphic in many countries.\nThese are the number of prevalent factors we can offer you presently, on the other hand, you can do your analysis prior to purchasing. We are a qualified vendor providing this product for a few years now. When you are in this article as you need to buy cocaine online, You then are in the proper position, we shall be your best plug for all times. Our rates are certainly competitive and reasonably priced this sort of that each one can be able to pay for a handful of grams to test. You will pay with bitcoins, cash application, Apple Spend, and or Venmo.\nI had a little problem by having an buy. Massive Thanks to Smith E. for looking after it and telling me about how to proceed if I have Thoughts for something which Chewy might come across appealing.Smith was pretty polite and handy! Excellent job, recognize his assistance!\nWe do discreet packaging and delivery to all addresses with tracking numbers furnished,\nclick here feel free to get cocaine Powder with bitcoin and have it ship to you personally from the mail. Invest in Colombian Cocaine\nYou’ve possibly been Listening to about the drug Bolivian Cocaine for really a while now, and you also’re probably curious regarding just what it is actually.\nBolivian Cocaine for sale online, the place to buy cocaine online, and buy bolivian cocaine online in bulk are widespread keywords a lot of people applied when looking/exploring through search engines like google and yahoo to buy this product or service online. Bolivian Cocaine is often a valuable medication, but due to the significant amount of abuse, it's a really undesirable impression in lots of international locations.\nYou don’t need to strain your self once you obtain fishscale cocaine online due to the fact We're going to supply on to your doorway with none difficulties and you don’t must sign before you get your bundle. Alprazolam is on the market cheap cost We've been the most discreet and right away shop that you should pay a visit to and buy cocaine online from the USA, Canada, Australia, and any European place.\nCocaine requested online is probably the greatest leisure medication that may Ensure that you ignore pressure or stress concerns, should you wanna get superior The full working day, you could visit our shop and get some pure flakes from us now and revel in our low cost selling prices.\nIt's lawful for individuals to utilize Coca leaves in some Andean countries, including Peru in addition to Bolivia, in which They are really eaten, eaten in the kind of tea, or are occasionally bundled suitable into foodstuff.\nTop latest Five buy bolivian cocaine online in canada Urban news\nThe proof As a result implies that the assorted indicators associated with cocaine use are typically because of irregularities within the medication’s standard distribution instead of any synthetic discrepancies in between cocaine from Bolivia and cocaine from Colombia.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Crime, Law and Justice",
+      "Health"
+    ],
+    "external_links": [
+      "https://buycheapcartitlesonlineus60083.dbblog.net/56091062/about-buy-bolivian-cocaine-online-in-canada",
+      "https://www.buycheapcartitlesonlineus60083.dbblog.net/56091062/about-buy-bolivian-cocaine-online-in-canada"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "topshelf",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "fedex",
+          "sentiment": "none"
+        },
+        {
+          "name": "dhl",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "colombia",
+          "sentiment": "none"
+        },
+        {
+          "name": "bolivia",
+          "sentiment": "none"
+        },
+        {
+          "name": "toronto",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:24:08.418+02:00",
+    "updated": "2023-12-29T01:24:08.418+02:00"
+  },
+  {
+    "uuid": "6b9d7f149da565c7bbd41369959a8c356038b830",
+    "url": "https://www.radiookapi.net/2023/12/24/actualite/societe/leglise-catholique-de-la-rdc-ne-benira-pas-les-couples-homosexuels",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Radio Okapi (Radio Okapi)",
+    "published": "2023-12-24T09:36:00Z",
+    "title": "L’église catholique de la RDC ne bénira pas les couples homosexuels (CENCO)",
+    "text": "La Conférence épiscopale nationale du Congo (CENCO) a décidé, samedi 23 décembre, que l’église Catholique de la RDC ne bénira pas les couples de personnes de même sexe. Les évêques congolais ont exprimé leur position à la suite de la lettre du pape autorisant les prêtes à procéder à une simple bénédiction, en dehors de la liturgie, des couples homosexuels. Dans une interview accordée à Radio Okapi, ce dimanche 24 décembre, le secrétaire général de la CENCO, Monseigneur Donatien Nshole a précisé que la CENCO ne s’oppose pas au pape. En effet, la lettre du souverain pontife accorde la latitude aux évêques d’évaluer, au regard des réalités socio-culturelles des églises locales, si cette simple bénédiction peut ou non être faite au sein de leurs communautés ecclésiastiques, explique le prélat catholique. Ainsi pour la CENCO, dans le contexte congolais, procéder à la bénédiction des couples de personnes de même sexe risque « d’entamer la foi » des certains chrétiens, ajoute Mgr Nshole. D’après la Conférence épiscopale nationale du Congo, le mariage existe exclusivement entre un homme et une femme et est naturellement ouvert à la procréation. Les cas d’union des personnes de mêmes sexes, sont des unions déviationnistes qui n’entre pas dans l’ordre de la création. Par ailleurs, la CENCO exhorte les fidèles de la RDC à demeurer ferme dans l’attachement au Christ en réaffirmant les valeurs chrétiennes et africaines. Et le secrétaire général de la CENCO, Mgr Donatien Nshole d’ajouter : « l’église reste ouverte à l’accueil de tous, même des pêcheurs ». Il s’entretient avec Alain Irung : [/sites/default/files/2023-12/invite_mgr_donatien_nshole_web.mp3](/sites/default/files/2023-12/invite_mgr_donatien_nshole_web.mp3) Radio Okapi n'a pas encore réussi à avoir une réaction de la communauté LGBT.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-24T14:25:26.574+02:00",
+    "updated": "2023-12-24T15:07:31.632+02:00"
+  },
+  {
+    "uuid": "67f38a21c6f9647ab13a773ae2a247fdd318f898",
+    "url": "https://goodmorningamerica.com/family/story/vanessa-bryant-posts-photos-kobe-bryant-mark-wedding-109399239",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shafiq Najib",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "Vanessa Bryant posts old photos with Kobe Bryant to mark wedding anniversary - Good Morning America",
+    "text": "Vanessa Bryant is remembering her late husband Kobe Bryant on what would have been their 23rd wedding anniversary. In an Instagram post Thursday, the businesswoman, philanthropist and model shared a collage of throwback photos of her and her husband together. The photos show the late basketball legend sporting a suit and tie while Vanessa Bryant wears a sparkling long-sleeved dress. One snap features the couple sharing a kiss and another shows the pair having fun posing for the camera. \"Happy Anniversary @kobebryant ❤️ #23,\" Vanessa Bryant wrote in the caption. Friends, family and followers -- including Jessica Alba, Ciara, and Vanessa Bryant's daughter Natalia -- showed their support in the comment section, many of them leaving several heart emoji. In addition to Natalia Bryant, Vanessa Bryant and Kobe Bryant, who tied the knot on April 18, 2001, also shared three other daughters: Bianka, Capri and Gianna. Gianna died alongside her father in a helicopter crash in 2020 when she was 13 years old. Earlier this year, Vanessa Bryant was joined by her three surviving daughters at a Los Angeles Lakers game celebrating a 19-foot bronze statue of Kobe Bryant that was unveiled by the Lakers on Feb. 8, 2024. Kobe Bryant and his daughter Gianna, also known as Gigi, are also immortalized in murals around the city of Los Angeles. While speaking to People in 2021, Vanessa Bryant said Natalia Bryant, Bianka and Capri gave her the strength to move forward after Kobe Bryant's and Gianna's deaths. \"My girls help me smile through the pain,\" she shared at the time. \"They give me strength.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.instagram.com/p/C56O1HGRRsq/?utm_source=ig_web_copy_link",
+      "https://instagram.com/p/C56O1HGRRsq/?utm_source=ig_web_copy_link",
+      "https://www.instagram.com/p/C56O1HGRRsq/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "vanessa bryant",
+          "sentiment": "negative"
+        },
+        {
+          "name": "kobe bryant",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jessica alba",
+          "sentiment": "none"
+        },
+        {
+          "name": "natalia",
+          "sentiment": "none"
+        },
+        {
+          "name": "ciara",
+          "sentiment": "none"
+        },
+        {
+          "name": "natalia bryant",
+          "sentiment": "none"
+        },
+        {
+          "name": "bianka",
+          "sentiment": "none"
+        },
+        {
+          "name": "gianna",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "instagram",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:57:40.704+03:00",
+    "updated": "2024-04-19T00:57:40.704+03:00"
+  },
+  {
+    "uuid": "f5f68b04add5ebd8e5fdc24d20417a78a4ba0d64",
+    "url": "https://catholicexchange.com/the-burden-of-the-yoke-of-the-cross",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lawton Brinkman",
+    "published": "2025-01-31T07:20:00Z",
+    "title": "The Burden of the Yoke of the Cross",
+    "text": "In recent years, the cross has been manipulated into a mere extension of clothing and accessories. There’s no denying its abundant representation found in jewelry, on shirts, along roadsides, and more. This pervasive status is something that the early Church would have never imagined. Yet our affected perspective deprives this sacred and brutal symbol of its true meaning.\nThe writing of Leon Bloy comes to mind “…the reality of His Cross, will horrify them. They want it all out of gold, bathed in light, costly, and of little weight; pleasant to see hanging from a woman’s beautiful throat” (Leon Bloy, The Pilgrim of the Absolute , 176). While there is beauty in the prevalence of the cross, we risk dismissing its profound weight or pretending to profess something that we fail to understand and believe.\nWearing the cross necessarily proclaims two messages: one celestial and the other terrestrial.\nIn wearing the cross, a heavy creed is professed, the greatest horror of human history: the murder of God Himself by mankind. However, in the same profession we sing, “O death, where is thy sting? O grave, where is thy victory?” (1 Cor. 15:55). Wearing the pectoral cross, the prelate petitions through the great Munire me digneris , “…may I ever keep in mind the memory of the Passion.” It is in the weight and coldness of the cross as it lies upon their chest that they remember how much was given on and earned by it.\nThe Early Church knew the horrific reality that took place on the cross. The earliest known image of the crucified Christ comes from the 3rd century AD, not as devotion but as mockery, in the Alexamenos graffito. The Christians who had seen this method of execution practiced felt the visceral pain and humiliation of crucifixion, especially depicting the death of the Lord. As Paul writes, “we preach Christ crucified: a stumbling block to Jews and foolishness to Gentiles.” The saving power of the Gospel is professed in the wretched horror of crucifixion and deicide. It is of course this great paradox that the thin strips of metal proclaim for the world, such beauty showing through such a hateful method of execution.\nThe second point is one of the terrestrial. Take Sikhism for example—a religion of upwards of 30 million devotees, with a quarter million adherents in the United States, and spanning over five hundred years of history. It is deeply ingrained in the Sikh faith to bear witness in the Pañj Kakār , with the turban being the most famous. However, the most tangential to this article is a simple iron bracelet called a Kara. This bangle serves a twofold purpose, a sign towards oneself and the outside world. It is through the weight of the bracelet that in their action they are reminded of their faith and the moral creed that follows. From there they are reminded that their actions represent not just them but the millions of Sikh men and women across the world who share their creed and kara. In many ways the cross can serve the same purpose.\nIt is in its ubiquitous nature that the cross has reached unsavory places: the burning cross of the KKK, gold crosses hanging from violent gangsters’ necks, and the Iron Cross embedded in Adolf Hitler’s breast pocket. While these groups are far from espousing the ideas of Christ, therein lies the risk of confusion or strawmanning the faith and her teachings. One might think of the horrors of the 20th century committed by figures such as Krunoslav Draganović, Jozef Tiso, Theodore McCarrick, Frederico Cunha, and Athanase Seromba. Examination of these figures makes one painfully aware that these men were priests . . . Catholic priests. While the acts perpetrated by these men were nothing short of heinous and beyond condemnable on their own, the additional sin of scandal was also brought about through these men’s actions and inactions.\nThe inverse could be said for the great figures in activism and peace of the 20th century: Saint Oscar Romero, Saint John Paul II, Saint Therese of Calcutta, and Father Theodore Hesburgh. There is something about the presence of their collar or habit—and regarding the first two their pectoral cross—that strongly associated the Church with social justice and righteousness. In wearing a cross, a proclamation is made that one is Christian, and from that, they wish their actions to reflect that of their faith. With this understanding, we see the cross as a public evangelical statement for the Church and her spouse, Christ.\nWhen we wear a cross, we testify in two manners: the salvific message through a bloody and painful but profound sacrifice and the character of Christ and His Church. It is in the wearing of the cross that we are reminded not only of our moral beliefs and of 1.4 billion Catholics across the world, but also of the sacrificial love that our Lord gave for the billions of men and women who have lived throughout history.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->religious discrimination",
+      "Social Issue->social problem",
+      "Social Issue->values",
+      "Lifestyle and Leisure->trend",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Leon Bloy",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-31T12:09:41.632+02:00",
+    "updated": "2025-01-31T12:09:41.632+02:00"
+  }
+]

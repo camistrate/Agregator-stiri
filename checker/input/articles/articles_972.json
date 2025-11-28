@@ -1,0 +1,264 @@
+[
+  {
+    "uuid": "243e6f21fafb0d817cb28f81933bf8f1efb5bd28",
+    "url": "https://ktvz.com/cnn-regional/2023/12/28/virginia-mom-asks-taylor-swift-fans-for-help-with-her-daughter-and-boy-did-they-respond/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2023-12-28T21:48:00Z",
+    "title": "Virginia mom asks Taylor Swift fans for help with her daughter and boy did they respond",
+    "text": "Virginia mom asks Taylor Swift fans for help with her daughter and boy did they respond\nClick here for updates on this story\nCHESTERFIELD COUNTY, Virginia (\nWTVR) — Like many mother-daughter relationships, Sarah Blanks and her daughter Abby have a special one. Along with a deep love for each other, the pair also share a love for Taylor Swift.\nMother Sarah claims she was a Swifty first.\n“She was going through the same thing I was — heartbreak, friendships, friend struggles, you know, it’s all portrayed in her music,” Blanks, who is around Swift’s age, said.\nIt did not take much to convert daughter Abby.\n“I shared, ‘Shake it Off,’ I think was the first one with my daughter when it first came out in 2014. She was four. And she would just dance and shake it off in her car seat and it’s just been a love story ever since then,” Blanks said.\nLike her mom, Abby has been drawn to what Swift sings about.\n“I just feel like as I’m getting older, I can go back and listen to her music that she made when she was struggling with the same things that I am now,” Abby said.\nThe pair have made several trips to Swift concerts — including the opening of her current Eras Tour.\nAs Abby approached her 13th birthday this year, her mom reached out to fellow Swift fans, known as Swifties, with a special request.\nBlanks wrote a social media post asking fellow Swifties to send in cards to help Abby celebrate.\n“Being a teenager is hard. Being a teenage girl is even harder. She’s had a lot of struggles this past year,” Blanks said. “All I wanted was to give her the best 13th birthday.”\nBlanks said she expected about 20 cards to arrive.\nBut more than 250 were delivered from around the world.\nMom decorated the walls with the cards to surprise her Swiftie daughter.\n“I didn’t think the cards were actually, like, actual cards. And then I started opening some, and they were actual cards from people all over the world. I was just completely shocked,” Abby said.\nAmong the cards, were things like friendship bracelets and jars of her quotes.\nFor Abby, the experience was a lesson in community.\n“I just think it shows that you don’t really have to know someone for them to care about you,” Abby said.\n“I have cried multiple times just thinking about it,” her mom shared. “I know I personally have struggled finding a community that supports me and I know that being a teenager is difficult to find a community. So I think it’s important to be able to show her what it looks like.”\nBlanks and Abby said they’ll continue to watch Swift shows on tour and hope to be able to meet some of their fellow Swifties who helped make this a reality.\nPlease note: This content carries a strict local market embargo. If you share the same market as the contributor of this article, you may not use it on any platform.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.wtvr.com/news/local-news/mom-asks-taylor-swift-fans-for-help-dec-25-2023",
+      "https://wtvr.com/news/local-news/mom-asks-taylor-swift-fans-for-help-dec-25-2023"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "taylor swift",
+          "sentiment": "negative"
+        },
+        {
+          "name": "sarah",
+          "sentiment": "none"
+        },
+        {
+          "name": "sarah blanks",
+          "sentiment": "none"
+        },
+        {
+          "name": "abby",
+          "sentiment": "none"
+        },
+        {
+          "name": "swift",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "virginia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:29:43.257+02:00",
+    "updated": "2023-12-29T00:29:43.257+02:00"
+  },
+  {
+    "uuid": "3c8ff33cdf2e9edcbc7dca4cd0aeff2dff763c5e",
+    "url": "https://www.stheadline.com/realtime-world/3305607/哈佛點名8大超級食物-有助降膽固醇還能穩定血壓",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "哈佛點名8大超級食物 有助降膽固醇還能穩定血壓",
+    "published": "2024-01-06T00:00:00Z",
+    "title": "哈佛點名8大超級食物 有助降膽固醇還能穩定血壓",
+    "text": "0) { var resizeTimer; $(window).resize(function() { clearTimeout(resizeTimer); resizeTimer = setTimeout(resizeFunction, 1000); }); } function resizeFunction() { if(isMobile() && (typeof adUnits_m === 'object' && adUnits_m.length ===undefined)){ if(debug_mode) console.log(\"Resized? IsMobile=TRUE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits_m['billborad']){ var a = adUnits_m['billborad'][i]; if(debug_mode) console.log(\"Resize MWEB billborad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"][id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"][data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits_m['LREC']){ var a = adUnits_m['LREC'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"][id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"][data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footerm-index'); if(i in adUnits_m['footer']){ var a = adUnits_m['footer'][i]; if(debug_mode) console.log(\"Resize MWEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits_m['popup']){ var a = adUnits_m['popup'][i]; if(debug_mode) console.log(\"Resize MWEB Popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits_m['1x1']){ var a = adUnits_m['1x1'][i]; if(debug_mode) console.log(\"Resize MWEB 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_leaderboard']){ var a = adUnits_m['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits_m['gallery_flipad']){ var a = adUnits_m['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize MWEB gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"][id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits_m['inarticlebanner']){ var a = adUnits_m['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize MWEB inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else if (!isMobile() && typeof adUnits === 'object' && adUnits.length ===undefined){ if(debug_mode) console.log(\"Resized? IsMobile=FALSE\"); googletag.cmd.push(function() { $('div[id^=\"billborad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('billborad-index'); if(i in adUnits['billborad']){ var a = adUnits['billborad'][i]; if(debug_mode) console.log(\"Resize WEB: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"lrec\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-lrec-page^=\"0\"]').not('[data-lrec-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('lrec-index'); if(i in adUnits['LREC']){ var a = adUnits['LREC'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) //$('div[id^=\"footer\"]').not('[id$=\"_m\"]').each(function(){ $('div[data-footer-page^=\"0\"]').not('[data-footer-page$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('footer-index'); if(i in adUnits['footer']){ var a = adUnits['footer'][i]; if(debug_mode) console.log(\"Resize WEB @294: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"popup\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('popup-index'); if(i in adUnits['popup']){ var a = adUnits['popup'][i]; if(debug_mode) console.log(\"Resize popup: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"1x1\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('1x1-index'); if(i in adUnits['1x1']){ var a = adUnits['1x1'][i]; if(debug_mode) console.log(\"Resize 1x1: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_leaderboard\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_leaderboard']){ var a = adUnits['gallery_leaderboard'][i]; if(debug_mode) console.log(\"Resize gallery_leaderboard: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"gallery_flipad\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('ad-index'); if(i in adUnits['gallery_flipad']){ var a = adUnits['gallery_flipad'][i]; if(debug_mode) console.log(\"Resize gallery_flipad: Code:\"+ a.code + \" DIV: \"+a.divid) googletag.defineSlot(a.code, JSON.parse(a.sizes), a.divid).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( a.divid ); } } }) $('div[id^=\"inarticlebanner\"]').not('[id$=\"_m\"]').each(function(){ if($(this).children().length==0){ var i = $(this).data('inarticlebanner-index'); if(i in adUnits['inarticlebanner']){ var a = adUnits['inarticlebanner'][i]; if(debug_mode) console.log(\"Resize inarticlebanner: Code:\"+ a.code + \" DIV: \"+ $(this).attr('id')) googletag.defineSlot(a.code, JSON.parse(a.sizes), $(this).attr('id')).addService(googletag.pubads()).addService(googletag.pubads()); googletag.display( $(this).attr('id') ); } } }) }); }else{ if(debug_mode) console.log(\"Do Nothing during resize\"); } if(isMobile()){ $(\"#keyimg\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg_m\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1\").length >0 ){ $(\"#img_gallery_flipad1\").attr(\"id\", \"img_gallery_flipad1-m\"); } if( $(\"#img_gallery_flipad2\").length >0 ){ $(\"#img_gallery_flipad2\").attr(\"id\", \"img_gallery_flipad2-m\"); } if( $(\"#img_gallery_flipad3\").length >0 ){ $(\"#img_gallery_flipad3\").attr(\"id\", \"img_gallery_flipad3-m\"); } }else{ if( $(\".share-box\").hide() ){ $(\".share-box\").show(); } $(\"#keyimg_m\").removeAttr(\"data-fancybox\"); if((typeof $(\"#keyimg\").attr(\"data-fancybox\"))==\"undefined\"){ $(\"#keyimg\").attr(\"data-fancybox\", \"gallery\"); } if( $(\"#img_gallery_flipad1-m\").length >0 ){ $(\"#img_gallery_flipad1-m\").attr(\"id\", \"img_gallery_flipad1\"); } if( $(\"#img_gallery_flipad2-m\").length >0 ){ $(\"#img_gallery_flipad2-m\").attr(\"id\", \"img_gallery_flipad2\"); } if( $(\"#img_gallery_flipad3-m\").length >0 ){ $(\"#img_gallery_flipad3-m\").attr(\"id\", \"img_gallery_flipad3\"); } } gallerynumber_ad(); }; function PreviousPos(sitename,index) { if(checkCookie()){ setCookie(\"PreviousPos\", sitename+\".\"+index, 10); } } function RelatedPos(sitename,index) { if(checkCookie()){ setCookie(\"RelatedPos\", sitename+\".\"+index, 10); } } function cckevent(hamhame,btn,lnk) { window.digitalData = {...ClickAA}; window.digitalData.click.outbound = lnk; //evar 16 window.digitalData.click.clickbutton = btn; //evar 6 window.digitalData.page.hamham = hamhame; //evar 44 if( typeof _satellite !== \"undefined\"){ _satellite.track(\"click\", window.digitalData); } ga_cd_dataE = {...ClickGA}; ga_cd_dataE[\"outbound_links\"] = lnk; //evar 16 ga_cd_dataE[\"clickbutton\"] = btn; //evar 6 ga_cd_dataE[\"hamham\"] = hamhame; //evar 44 dataLayer.push(ga_cd_dataE); } 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 更多 港聞 社會 政情 突發 時事熱話 娛樂 即時娛樂 影視圈 星級品味 中國 即時中國 大國外交 兩岸熱話 奇聞趣事 國際 即時國際 環球拆局 趣聞熱話 生活 飲食 好去處 旅遊 時尚購物 生活百科 ArtCan 汽車 財經 投資理財 商業創科 股市 ESG 區塊鏈 地產 樓市資訊 新盤速遞 筍盤推介 海外置業 家居裝修 教育 教育新聞 升學攻略 高等教育 學習教室 知識轉移 親子 健康 食用安全 保健養生 減肥運動 醫生教室 體育 即時體育 足球世界 波盤王 專家點睇 申訴王 放蛇直擊 區區申訴 提防騙子 申訴熱話 人人申訴 大灣區 跨境理財 置業灣區 灣區教育 吃喝玩樂 PLUS 專欄 企業 ST+ 馬經 馬圈快訊 名家專欄 晨操動態 TV 時事台 娛樂台 財經台 生活台 直播Live 港聞 娛樂 最Hit 即時 中國 國際 星島申訴王 財經 地產 生活 健康 教育 體育 大灣區 專欄 馬經 TV PLUS 旗下品牌\n星島網 星島電子報 頭條日報 The Standard 東周刊 親子王 caz buyer 東Touch PCM 電腦廣場 Oh!爸媽 JobMarket 頭條揾工 EDUPLUS 星島環球 頭條金融報 頭條馬網 星島頭條 資訊生活服務平台\n一APP生活「Sync」到 《星島頭條》流動應用程式(APP)是一個結合生活、新聞資訊、視頻、個人化功能及生活實用小工具的綜合平台。 了解更多 關於我們 聯絡我們 隱私政策聲明 使用條款 版權及免責聲明 幫助及反饋 我要爆料 Copyright © 2024 SingTao Ltd.All rights reserved. 主頁 國際 即時國際 哈佛點名8大超級食物 有助降膽固醇還能穩定血壓 即時國際 更新時間：08:00 2024-01-06\n發佈時間：08:00 2024-01-06 字體大小 許多民眾都有膽固醇過高的困擾，除了養成良好生活習慣外，調整飲食也很重要，哈佛醫學院一項統合分析研究指出，平時多吃燕麥、全穀類、豆類、秋葵及茄子、堅果類、植物油、魚油以及柑水果，有助降膽固醇、穩定血壓。\n膽固醇是人體一種必需的物質，能夠製造膽汁、賀爾蒙與維持細胞的機能，人體血液中約有75％的膽固醇是來自肝臟製造，另外25％來自日常飲食，如果累積過多膽固醇，就會提高心血管疾病風險。\n美國心臟協會（AHA）建議 ，平時多吃水果、蔬菜、低脂乳製品、瘦肉、含有Omega3脂肪酸的魚類、堅果類、豆類、植物油等，有助預防膽固醇過高。\n看看哪些食物有益健康? 8大助降膽固醇食物 哈佛醫學院一項統合分析研究點名8大食物可以降低膽固醇、穩定血壓，第1是燕麥，燕麥含有可溶性纖維，可以搭配香蕉或其他水果當早餐；再來是全穀類，包括大麥或其他全穀類有豐富的纖維質，可以降低心臟疾病風險。\n第3是豆類，富含可溶性纖維，可以增加飽足感，有助減重；第4為茄子及秋葵，這2種蔬菜熱量極低，是攝取纖維的好來源；第5是堅果，包括杏仁、核桃、花生、腰果等堅果含有健康油脂，適量攝取對心臟有益，還能將低約5％的膽固醇。\n第6是植物油，使用橄欖油、芥花油、苦茶油取代動物性油脂，有助降低低密度脂蛋白；第7是水果，蘋果、葡萄、士多啤梨及柑橘類水果富含果膠，可以降低膽固醇；最後是魚油，每周吃2到3次富含Omega3脂肪酸的魚，有助降低低密度脂蛋白，還能保護心臟。\n---\n《星島頭條》APP經已推出最新版本，請立即更新，瀏覽更精彩內容： https://bit.ly/3yLrgYZ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Human Interest",
+      "Health"
+    ],
+    "external_links": [
+      "https://www.eduplus.hk/",
+      "https://cazbuyer.my-magazine.me/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://www.facebook.com/stheadlinehk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://www.jobmarket.com.hk/",
+      "https://www.youtube.com/c/SingTaoHeadline/",
+      "https://easttouch.my-magazine.me/main/",
+      "https://www.stnn.cc/",
+      "https://www.headlinejobs.hk/",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://www.sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://www.googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://bit.ly/3Ol1S5H",
+      "https://paper.headlinefinance.hk/",
+      "https://www.ohpama.com/",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://www.thestandard.com.hk/",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://bit.ly/3yLrgYZ",
+      "https://sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://www.sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.sthlstatic.com/sthl/assets/icons/plus-icon.svg",
+      "https://www.instagram.com/singtaoheadline/",
+      "https://linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98/",
+      "https://sthlstatic.com/sthl/assets/images/logo-dark.svg",
+      "https://sthlstatic.com/sthl/assets/images/logo-stepaper.jpeg",
+      "https://instagram.com/singtaoheadline/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-linkedin.svg",
+      "https://jobmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/images/logo.svg",
+      "https://easttouch.my-magazine.me/main",
+      "https://youtube.com/c/SingTaoHeadline/",
+      "https://www.apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216?utm_source=ios",
+      "https://sthlstatic.com/sthl/assets/icons/share_fb.svg",
+      "https://sb.scorecardresearch.com/p",
+      "https://www.ohpama.com",
+      "https://www.youtube.com/c/SingTaoHeadline",
+      "https://www.sb.scorecardresearch.com/p?c1=2&c2=9053246&cv=3.6&cj=1",
+      "https://play.google.com/store/apps/details",
+      "https://facebook.com/stheadlinehk/",
+      "https://paper.headlinefinance.hk",
+      "https://www.cazbuyer.my-magazine.me/",
+      "https://www.headlinejobs.hk",
+      "https://www.eduplus.hk",
+      "https://www.bit.ly/3yLrgYZ",
+      "https://thestandard.com.hk/",
+      "https://apps.apple.com/hk/app/%E9%A0%AD%E6%A2%9D%E6%97%A5%E5%A0%B1/id348023216",
+      "https://ohpama.com/",
+      "https://sthlstatic.com/sthl/assets/icons/share-whatsapp.svg",
+      "https://www.jobmarket.com.hk",
+      "https://www.thestandard.com.hk",
+      "https://stnn.cc/",
+      "https://www.paper.headlinefinance.hk/",
+      "https://www.stnn.cc",
+      "https://headlinejobs.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-instagram.svg",
+      "https://cazbuyer.my-magazine.me",
+      "https://www.googletagmanager.com/ns.html",
+      "https://googletagmanager.com/ns.html?id=GTM-PHTVG2B",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-youtube.svg",
+      "https://www.pcmarket.com.hk",
+      "https://www.bit.ly/3Ol1S5H",
+      "https://sthlstatic.com/sthl/assets/icons/share-e-mail.svg",
+      "https://www.easttouch.my-magazine.me/main/",
+      "https://sthlstatic.com/sthl/assets/icons/share-copy-link.svg",
+      "https://www.instagram.com/singtaoheadline",
+      "https://www.facebook.com/stheadlinehk",
+      "https://www.linkedin.com/company/sing-tao-news-corporation-limited-%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98",
+      "https://sthlstatic.com/sthl/assets/images/logo-singtao.svg",
+      "https://eduplus.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/ico-social-facebook.svg",
+      "https://www.play.google.com/store/apps/details?id=singtao.android.hkheadline&hl=zh_HK&gl=US&utm_source=google+play+store",
+      "https://pcmarket.com.hk/",
+      "https://sthlstatic.com/sthl/assets/icons/plus-icon.svg"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T02:01:20.252+02:00",
+    "updated": "2024-01-06T02:01:20.252+02:00"
+  },
+  {
+    "uuid": "9a5af819a7078fb437ed36cce126e29f5c62aed9",
+    "url": "https://ec2-52-208-87-173.eu-west-1.compute.amazonaws.com/article/fc46dc0469164473a357c45a14a679cd",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashraf",
+    "published": "2024-06-01T05:00:00Z",
+    "title": "The Makkah Route Initiative Crucial to Pilgrims’ Peace and Tranquility",
+    "text": "The Makkah Route Initiative Crucial to Pilgrims’ Peace and Tranquility\nThe Makkah Route Initiative, a flagship project of the Ministry of Interior, covers seven countries and was designed to offer pilgrims not just best technical and logistical support, but also a sense of security.\nThe initiative is testament to the leadership's unwavering commitment to serving the Two Holy Mosques and their valued visitors.\nAs per the initiative, pilgrims are offered high-quality services, their entry procedures are streamlined, starting already in their home countries, and they are transported directly to their accommodations in Makkah and Madinah.\nDue to the Makkah Route Initiative, the time pilgrims spend at points of entry into the Kingdom has been successfully reduced. This is an accomplishment that clearly demonstrates the Saudi government's commitment to providing a seamless pilgrimage experience, including by expediting entry procedures and by securing luggage-handling services that enable easy access to accommodations.\nThis year, the initiative has benefited pilgrims from seven countries: Morocco, Indonesia, Malaysia, Pakistan, Bangladesh, Türkiye, and Côte d'Ivoire; through it, special lounges have been dedicated for pilgrims at the airports in these countries.\nThe Makkah Route Initiative garnered international acclaim, with the Turkish ambassador to the Kingdom, Dr. Emrullah Isler, commending the initiative personnel’s hard work at Turkish airports in Ankara and Istanbul.\nThe Saudi Press Agency (SPA), present at Istanbul International Airport, captured pilgrims’ feelings vis-à-vis the initiative.\nSpeaking to SPA, Amina Turk, who is accompanied by her husband on the trip, said: “I wished to perform Hajj at the Grand Mosque, and I ask Allah to give us the ability to complete it. We are very excited because it is our first visit, and I ask Allah accepts our deed.\"\nWith a shared vision, various government agencies collaborate to ensures a secure and seamless experience for pilgrims. These are: ministries of interior, foreign affairs, health, Hajj and Umrah, and media, the General Authority of Civil Aviation, Saudi Data and Artificial Intelligence, the pilgrim experience program, which is one of the Kingdom's Vision 2030 programs, and the Zakat, Tax, and Customs Authority.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "ministry of interior",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "makkah",
+          "sentiment": "none"
+        },
+        {
+          "name": "kingdom",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-02T02:23:56.576+03:00",
+    "updated": "2024-06-02T02:23:56.576+03:00"
+  },
+  {
+    "uuid": "a651272735283d00fb800a0dae29ef25a4584a24",
+    "url": "https://timesofindia.indiatimes.com/sports/mma/news/jan-blachowicz-returns-to-face-carlos-ulberg-the-man-who-stopped-israel-adesanyas-perfect-mma-run/articleshow/119229366.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TOI Sports Desk",
+    "published": "2025-03-19T22:35:00Z",
+    "title": "Jan Blachowicz Returns to Face Carlos Ulberg - The Man Who Stopped Israel Adesanya's Perfect MMA Run | MMA News - The Times of India",
+    "text": "Photo by Chris Unger/Getty Image UFC London on March 22 is flying under the radar, but it shouldn’t be. The main event sees welterweight champ Leon Edwards taking on Sean Brady, but the co-main? That’s where things get interesting. Jan Blachowicz, the former light heavyweight champion, is stepping back into the cage against Carlos Ulberg.\nBlachowicz isn’t just any former champ—he’s the guy who stopped Israel Adesanya’s perfect MMA run. Back in 2021, he shut down ‘The Last Stylebender’ when Adesanya tried to become a two-division champion. Now, after more than a year away from the octagon, he’s back. And this fight? It could decide whether he still has one more title run left in him.\nThe Fight That Ended Israel Adesanya’s Unbeaten MMA Record Let’s rewind to 2021, Israel Adesanya was unstoppable. He had just wrecked Paulo Costa at UFC 253, making the undefeated Brazilian look completely out of his depth. With the middleweight division cleared out, Adesanya set his sights on making history—moving up to 205 pounds to take on Jan Blachowicz for the light heavyweight title at UFC 259.\nBlachowicz had won that belt the same night Adesanya beat Costa, knocking out Dominick Reyes in brutal fashion. Reyes was the guy who had arguably beaten Jon Jones, but Blachowicz ran through him. Still, when the fight with Adesanya was booked, most people counted him out. The oddsmakers had Adesanya as the favorite. The narrative was set: Adesanya was too fast, too skilled, too slick.\nBut Blachowicz didn’t care about the hype. Over five rounds, he used his size, power, and smart grappling to completely shut Adesanya down. The UFC commentary team—Joe Rogan, Daniel Cormier, and Jon Anik—got blasted by fans for their clear Adesanya bias, but the scorecards told the real story. Blachowicz won a unanimous decision and handed Adesanya his first-ever MMA loss. The double-champ dream was over.\nJan Blachowicz vs. Carlos Ulberg: A Must-Win Fight\nSince that massive win, Blachowicz has had a mixed run. He lost the title to Glover Teixeira, beat Aleksandar Rakic (due to injury), and then fought to a draw in a vacant title fight against Magomed Ankalaev. His last fight? A competitive loss to Alex Pereira in 2023.\nAlso Read: Leon Edwards’ 8-Second UFC Knockout: One of the Fastest Finishes in History\nNow, he’s up against Carlos Ulberg, a rising contender who trains with none other than Israel Adesanya. Ulberg is on a seven-fight win streak with five finishes. A win here could catapult him into title contention. But for Blachowicz, this fight isn’t just about rankings—it’s about proving he’s still one of the best. If he pulls off another big win, the light heavyweight division will have to take notice.\nCome fight night, we’ll find out if Blachowicz still has that legendary ‘Polish Power’ or if the new wave of contenders is ready to take over.\nGet the latest IPL 2025 updates on Times of India , including match schedules , team squads , and live scores for CSK , MI , RCB , KKR , SRH , LSG , DC , GT , PBKS , and RR . Find out how to watch IPL 2025 in Canada and the USA .\nAbout the Author TOI Sports Desk The TOI Sports Desk excels in a myriad of roles that capture the essence of live sporting events and deliver compelling content to readers worldwide. From running live blogs for India and non-India cricket matches to global spectacles featuring Indian talents, like the Chess World Cup final featuring Praggnanandhaa and the Badminton World Championships semifinal featuring HS Prannoy, our live coverage extends to all mega sporting events. We extensively cover events like the Olympics, Asian Games, Cricket World Cups, FIFA World Cups, and more. The desk is also adept at writing comprehensive match reports and insightful post-match commentary, complemented by stats-based articles that provide an in-depth analysis of player performances and team dynamics. We track news wires for key stories, conduct exclusive player interviews in both text and video formats, and file content from print editions and reporters. We keep track of all viral stories, trending topics and produce our own copies on the subjects. We deliver accurate, engaging, and up-to-the-minute sports content, round the clock. Read More\nEnd of Article FOLLOW US ON SOCIAL MEDIA Tired of too many ads? go ad free now Trending Stories In Sports Entire Website Tired of too many ads? go ad free now",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "topics": [
+      "Sport->sport event",
+      "Sport->martial arts",
+      "Sport->sport achievement",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-20T01:04:48.507+02:00",
+    "updated": "2025-03-20T01:37:06.104+02:00"
+  }
+]

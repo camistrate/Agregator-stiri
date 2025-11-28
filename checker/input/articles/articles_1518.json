@@ -1,0 +1,134 @@
+[
+  {
+    "uuid": "3dfff71a3a9d00fc19183454d09440128c0eca67",
+    "url": "https://venturebeat.com/ai/perplexity-lets-you-search-your-internal-enterprise-files-and-the-web",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emilia David",
+    "published": "2024-10-17T00:00:00Z",
+    "title": "Perplexity lets you search your internal enterprise files and the web | VentureBeat",
+    "text": "Enterprises can use their Perplexity dashboards to search for internal information and combine it with knowledge from the internet, but this will only be limited to specific files they deem important.\nPeplexity’s new Internal Knowledge Search lets Perplexity Pro and Enterprise Pro users search for information across the web or their internal databases. Customers can access both knowledge bases in one consolidated platform.\nHowever, internal knowledge bases will be limited to the files Perplexity users upload to the platform.\nFrank te Pas, head of Enterprise product at Perplexity, told VentureBeat in an interview that Internal Knowledge Search will only look for information on files users have uploaded, not entire internal databases.\n“We believe this lets people bring only their most important and valuable data to the table and not the 90% of low-value files they normally sift through,” he said. “Customers told us they want to use information that’s important to them, which makes their own data even more valuable.”\nUsers have a file upload limit (500 for Enterprise Pro users), but te Pas said this may be expanded. Customers can also upload files directly from folders in all the popular document formats like Excel sheets, word documents or PDFs.\nStill, the company believes Internal Knowledge Search will improve many enterprise functions.\nPerplexity CEO Aravind Srinivas said research using both internal and external information used to be two separate products. One platform searches the internet and another accesses internal documents and data.\n“Being able to carry out all your research — across both internal and external sources of data — in one consolidated knowledge platform will unlock tremendous productivity gains for every enterprise,” Srinivas said in a blog post .\nToday, we're launching Perplexity for Internal Search: one tool to search over both the web and your team's files with multi-step reasoning and code execution. pic.twitter.com/ftZGNgziBW\n— Aravind Srinivas (@AravSrinivas) October 17, 2024 Perplexity gave customers like Nividia, Databricks, Dell, Bridgewater, Latham & Watkins, Fortune and Lambda early access to the feature. During the early access testing, the company said customers used the Internal Search feature to do due diligence by combining internal research notes and news from the web, combine older sales materials with more current insights for proposal requests, help employees find benefit information and get product roadmap feedback based on best practices from the internet.\nPerplexity will also label data sources if the information was from a website or uploaded files so that the user can dive deeper later.\nIn April, Perplexity launched Enterprise Pro , a paid tier of the Perplexity AI chat and search platform. The subscription offers SOC2 certification, single sign-on, user management, file upload alerts and query deletion after a week.\nMake space for Spaces Perplexity also announced Spaces, a way for teams to share and organize research.\nSpaces will allow users to share files across a team and customize Perplexity’s AI assistant with specific instructions and responses based on their data. The company said customers will also get full control over who gets to access their information. Specific to Perplexity Enterprise Pro, all files and searches on Spaces “are excluded from AI quality training by default.” Pro customers have to voluntarily opt out of AI training. Perplexity also promises to provide the “highest levels of safety and privacy.”\nPerplexity plans to add third-party data integration with Crunchbase and FactSet so Enterprise Pro users with subscriptions to those services can add data to their Spaces.\n“This will allow you to expand your knowledge base even further with the ability to search across the public web, internal files, and proprietary data sets,” the company said.\nTe Pas said that bringing in third-party databases like Crunchbase and FactSet means customers with subscriptions can also bring their personalized search queries on those platforms to Perplexity. For example, if a customer created a list of sectors to watch on either database, they can access that through a Perplexity search.\nEnterprise RAG is not going away soon Te Pas said Internal Knowledge Search and Spaces is a form of retrieval augmented generation or RAG, where users can leverage their internal ground truth to a search.\nRAG systems normally sift through databases to find the most relevant answers to queries contained within those files. Most RAG systems use large knowledge repositories, as most enterprises who want to query their own data have an extensive library of information. Occasionally, a company may deploy different RAG use cases, like a real-time information retrieval system or search-only information for a specific unit. Perplexity’s version of RAG still searches a database, except that database is one built on Perplexity’s platform by users who uploaded their documents to it.\nPerplexity has to compete with companies like Glean and Elastic , who have been offering RAG platforms for enterprises for a while. Glean launched its AI search chat platform , Glean Chat, which lets enterprises query their own data, last year.\nPerplexity has increasingly taken traffic share from more traditional search engines like Google. Perplexity also has a revenue-sharing program with some partners, mostly media companies, whose links appear on Perplexity searches.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Business and Market Analysis"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.glean.com/",
+      "https://www.perplexity.ai/hub/blog/introducing-internal-knowledge-search-and-spaces",
+      "https://twitter.com/AravSrinivas/status/1846954158156583224?ref_src=twsrc%5Etfw",
+      "https://www.perplexity.ai/",
+      "https://www.elastic.co/",
+      "https://www.glean.com",
+      "https://twitter.com/AravSrinivas/status/1846954158156583224",
+      "https://www.twitter.com/AravSrinivas/status/1846954158156583224?ref_src=twsrc%5Etfw",
+      "https://www.elastic.co",
+      "https://perplexity.ai/",
+      "https://www.perplexity.ai",
+      "https://perplexity.ai/hub/blog/introducing-internal-knowledge-search-and-spaces",
+      "https://glean.com/",
+      "https://elastic.co/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Frank te Pas",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "3dfff71a3a9d00fc19183454d09440128c0eca67",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-10-18T01:45:06.384+03:00",
+    "updated": "2024-10-25T04:44:19.556+03:00"
+  },
+  {
+    "uuid": "6de98d6540588c3880f8bab441776b05ac051d74",
+    "url": "https://www.caradisiac.com/la-bmw-r-1300-gs-au-sommet-du-volcan-actif-le-plus-haut-du-monde-206382.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Adrien Raseta",
+    "published": "2024-01-05T18:24:00Z",
+    "title": "La BMW R 1300 GS au sommet du volcan actif le plus haut du monde",
+    "text": "BMW se délecte pour ce début 2024 d'un petit road trip mettant à l'épreuve le trail fraîchement lancé R 1300 GS . L'idée : s'attaquer au sommet du volcan actif le plus haut du monde. Rien que ça. Un coup de communication réalisé en collaboration avec l'équipementier Metzeler . Le célèbre volcan Nevago Ohos del Salado situé dans les Andes à la frontière entre l'Argentine et le Chili culmine à 6 893 mètres d'altitude. De quoi garantir des conditions particulièrement difficiles à proximité du sommet avec des températures négatives sous les moins 20 degrés Celsius. L'équipe retenue pour cette expédition est composée du responsable développement chez BMW Motorrad Christof Lischka, le directeur technique Metzeler Salvatore Pennisi, le pilote Michele Pradelli ainsi que Karsten Schwers. Tout ce beau monde. Le groupe a emprunté plusieurs routes à couper le souffle. Une montée qui durait au total 19 heures et 22 minutes.\nChristof Lischka profite sans surprise de cette expérience pour évoquer les performances de la BMW R 1 300 GS. D'après le manager, la moto montrait sa polyvalence avec un rythme musclé sur les routes goudronnées sans pour autant faire de compromis en tout-terrain lorsqu'il fallait emprunter des chemins très accidentés. Pour rappel, le trail débute en France à 20 690 euros. Un tarif décortiqué par notre journaliste Olivier Cottrel dans cet article .\nAbonnez-vous à la newsletter de Caradisiac\nRecevez toute l’actualité automobile\nJ’accepte de recevoir les offres partenaires S'inscrire L’adresse email, renseignée dans ce formulaire, est traitée par GROUPE LA CENTRALE en qualité de responsable de traitement.\nCette donnée est utilisée pour vous adresser des informations sur nos offres, actualités et évènements (newsletters, alertes, invitations et autres publications).\nSi vous l’avez accepté, cette donnée sera transmise à nos partenaires, en tant que responsables de traitement, pour vous permettre de recevoir leur communication par voie électronique.\nVous disposez d’un droit d’accès, de rectification, d’effacement de ces données, d’un droit de limitation du traitement, d’un droit d’opposition, du droit à la portabilité de vos données et du droit d’introduire une réclamation auprès d’une autorité de contrôle (en France, la CNIL). Vous pouvez également retirer à tout moment votre consentement au traitement de vos données. Pour en savoir plus sur le traitement de vos données : www.caradisiac.com/general/confidentialite/\n× Abonnement à la Newsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:02:44.015+02:00",
+    "updated": "2024-01-06T00:02:44.015+02:00"
+  },
+  {
+    "uuid": "8686bf3dd7b0415640a2459c0653ceabfac66315",
+    "url": "https://www.cronica.com.mx:443/deportes/2025/01/23/llegara-a-mexico-la-vuelta-ciclista-a-espana-a-finales-de-2025",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Por EFE",
+    "published": "2025-01-23T00:00:00Z",
+    "title": "Llegará a México la Vuelta ciclista a España a finales de 2025 - La Crónica de Hoy México",
+    "text": "La Vuelta a España llegará a México a finales de 2025 en un evento de cicloturismo, ‘Desafío México by La Vuelta’, informaron este jueves los organizadores en una nota de prensa.\nINMERSIÓN EN LA PASIÓN\n“Desafío Mexico es una inmersión en la pasión y el espíritu de la ronda española, en combinación con los espectaculares escenarios naturales mexicanos y con la enorme e histórica cultura azteca. Los participantes podrán disfrutar de un recorrido cuidadosamente diseñado para vivir las mismas experiencias que los grandes campeones de la carrera”, según el comunicado de la organización.\nFECHA Y SEDE POR CONFIRMAR\nCon la fecha y sede por confirmar más adelante, La Vuelta, una de las tres grandes competencias de ciclismo por etapas en el mundo, tendrá en México su primer evento oficial en América, ya que el primer Desafío fue en China, que en junio próximo recibirá su tercera edición.\nLos organizadores del evento aseguraron que los participantes rodarán con alguna leyenda del ciclismo mundial, como el español Alberto Contador o el italiano Fabio Aru, quienes han participado anteriormente en los desafíos.\nLARGA TRADICIÓN CICLISTA\nMéxico tiene una larga tradición en La Vuelta, que empezó con Felipe ‘Tato’ Rodríguez, el primer competidor mexicano, en la edición de 1988. El mejor ciclista mexicano en la ronda española ha sido Raúl Alcalá, quien finalizó séptimo en la general como corredor del PDM en 1991, año en que ganó el español Melchor Mauri.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Sport->cycling",
+      "Lifestyle and Leisure->travel and tourism",
+      "Lifestyle and Leisure->outdoor recreational activities",
+      "Lifestyle and Leisure->hobby"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-01-24T00:09:38.036+02:00",
+    "updated": "2025-01-24T00:09:38.036+02:00"
+  }
+]

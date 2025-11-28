@@ -1,0 +1,436 @@
+[
+  {
+    "uuid": "4fee46dd8a8c2e1ebdd688529cf27d74134da995",
+    "url": "https://www.rawstory.com/alito-doesnt-have-a-clue-emergency-docs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Chapman",
+    "published": "2024-06-27T20:16:00Z",
+    "title": "'Doesn't have a clue': Sam Alito shredded for thinking he knows better than emergency docs",
+    "text": "After being mistakenly leaked earlier in the week, the\nSupreme Court published its decision in the hotly anticipated Moyle v. United States, which concerns whether federal law governing emergency medicine, known as EMTALA, overrides state bans on abortion in emergency situations. The Supreme Court essentially punted the question, allowing emergency abortions to move forward in Idaho, but setting up the courts to revisit the issue later. Even this was too much interference with anti-abortion zealotry for Justice Samuel Alito, though.\nIn fact, in his dissent, Alito presumed to understand emergency medicine better than doctors who do it for a living, wrote physician Dara Kass in a\nscathing takedown for Slate.\n\"You know who doesn’t have a clue about what we do? Justice Samuel Alito, the proud author of the majority opinion in Dobbs and now the scribe of the dissent here in Moyle. It’s worth reflecting on the medically inaccurate and completely infuriating cases Alito references in his quest to force emergency physicians to stand idly by and watch women suffer if the care they need includes the termination of a nonviable pregnancy,\" she wrote.\nALSO READ:\nRep. Byron Donalds, his gigantic Jim Crow myth and a forgotten fact about Black voters\nIn his dissent, Alito accuses the government and emergency doctors of \"covertly colluding to expand access to abortion services,\" wrote Kass — something that is not happening.\n\"Among the most egregious assertions that Alito makes during his dissent are the medically fantastical situations he describes that somehow pit the survivability of the unborn with the EMTALA protected care of the mother,\" she wrote. \"For example, Alito continues to perseverate over the mental health protections of EMTALA — which never have, and never will, apply to the provision of abortion services in emergency departments.\"\n\"Alito repeatedly declares that the obligation on hospitals is to protect both the mother and the unborn as if a physician is often looking for an emergency situation to serve as an excuse to sacrifice a healthy pregnancy as a cavalier treatment for the betterment of the mother’s life,\" she added. \"He tacitly acknowledges that the care of first trimester dangerous pregnancies are different (he briefly discusses ectopic pregnancy treatment in this dissent) but fails to ever address the reality that nonviable pregnancies (molar pregnancies, ectopic pregnancies, PPROM at 16 weeks) are not pregnancies we can save, and no matter how many times we tell him, it does not seem that he has the will or capacity to listen.\"\nThis dissent, she concluded, \"is filled with medical misrepresentations and conjecture, but it’s clear that doesn’t matter. It was just meant to give marching orders to the lower courts so that the success of Dobbs, overturning decades of precedent protecting abortion access for American women, can be repeated, this time to narrow federal protections we provide to the sickest patients presenting to emergency departments all over the United States.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Health",
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://slate.com/news-and-politics/2024/06/sam-alito-dissent-abortion-doctor-supreme-court-fail.html",
+      "https://www.slate.com/news-and-politics/2024/06/sam-alito-dissent-abortion-doctor-supreme-court-fail.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "sam alito",
+          "sentiment": "negative"
+        },
+        {
+          "name": "moyle",
+          "sentiment": "none"
+        },
+        {
+          "name": "samuel alito",
+          "sentiment": "none"
+        },
+        {
+          "name": "dara kass",
+          "sentiment": "none"
+        },
+        {
+          "name": "alito",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "supreme court",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "dobbs",
+          "sentiment": "none"
+        },
+        {
+          "name": "idaho",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T00:08:12.888+03:00",
+    "updated": "2024-06-28T00:08:12.888+03:00"
+  },
+  {
+    "uuid": "843f3ad4d5eb479b18df7f70284eb1df7a74e123",
+    "url": "https://bioengineer.org/single-nuclei-multiomics-reveals-abnormal-mouse-heart-cells/",
+    "ord_in_thread": 0,
+    "author": "Bioengineer",
+    "published": "2025-07-31T03:41:00Z",
+    "title": "Single-Nuclei Multiomics Reveals Abnormal Mouse Heart Cells",
+    "text": "In a groundbreaking study published in Nature Communications, researchers have pushed the boundaries of cardiac biology by employing cutting-edge single-nuclei multiomics technology to unravel the complexities of heart development in mice. This pioneering effort illuminates previously unrecognized populations of abnormal cardiomyocytes, offering fresh insights into the cellular and molecular underpinnings that govern cardiac formation and potential pathways to congenital cardiac disorders.\nThe heart is a remarkably intricate organ whose development orchestrates a synchronized ballet of cellular differentiation, proliferation, and maturation. Despite decades of research, the molecular heterogeneity and developmental dynamics of cardiac cells remain only partially understood, particularly at the single-cell level. Traditional bulk tissue analyses fail to capture the nuanced genetic and epigenetic landscapes that shape cardiomyocyte identity and function. In this study, Leonard and colleagues leverage single-nuclei multiomics — an integrative approach combining transcriptomic and epigenomic profiling within the same nucleus — to dissect this complexity with unprecedented resolution.\nBy isolating and analyzing individual nuclei from the developing murine heart, the team bypasses challenges associated with whole-cell dissociation, which can introduce bias and loss of fragile cell types. Single-nuclei RNA sequencing (snRNA-seq) paired with chromatin accessibility assays such as ATAC-seq allows the researchers to simultaneously profile gene expression and regulatory element activity. This multi-layered data illuminates the molecular states of cardiomyocytes as they evolve during embryonic development, revealing not only canonical cell populations but also aberrant subtypes that have escaped notice in prior studies.\n.adsslot_BI40z3W6JA{ width:728px !important; height:90px !important; }\n@media (max-width:1199px) { .adsslot_BI40z3W6JA{ width:468px !important; height:60px !important; } }\n@media (max-width:767px) { .adsslot_BI40z3W6JA{ width:320px !important; height:50px !important; } }\nADVERTISEMENT\nIntriguingly, the investigators identified a discrete population of aberrant cardiomyocytes exhibiting altered chromatin landscapes and dysregulated gene expression programs. These abnormal cells deviate from the classic developmental trajectory, displaying signatures indicative of impaired maturation and potential maladaptation. Such findings provide a compelling cellular basis for congenital heart defects, suggesting that disruptions in epigenetic regulation during critical windows of heart formation may contribute to pathological outcomes.\nA key strength of this study lies in its integration of multiomic datasets, which paints an integrated portrait of gene regulatory networks operating within individual nuclei. The authors meticulously chart the dynamic interplay between transcription factors, enhancer elements, and downstream effectors that collectively orchestrate cardiomyocyte identity. By charting these regulatory circuits over developmental time, the research delineates the continuum from early progenitors to fully differentiated cardiomyocytes and highlights the point at which aberrant cells diverge from normal developmental paths.\nThe utility of the murine model enables experimental precision and genetic manipulation possibilities that are challenging in human studies, yet the researchers note the translational relevance of their findings. The abnormal cardiomyocyte populations they describe may serve as early biomarkers or therapeutic targets for congenital heart anomalies in humans. Furthermore, the multiomic atlas produced lays a critical foundation for comparative analyses with human cardiac development and disease.\nBeyond developmental biology, this study has profound implications for regenerative medicine and cardiac repair strategies. Understanding the epigenetic roadblocks that prevent cardiomyocytes from reaching full maturity or adopting normal function could inform protocols to generate more physiologically accurate cardiac cells from stem cells. This knowledge is essential as the field pursues cellular therapies aimed at repairing damaged heart tissue post-infarction or in degenerative conditions.\nTechnical challenges in single-nuclei multiomics remain nontrivial, encompassing sample preparation, data integration, and interpretation of complex datasets. Leonard and colleagues navigate these hurdles by employing sophisticated computational pipelines capable of resolving subtle cellular heterogeneity and correlating transcriptomic signals with chromatin accessibility profiles. Such rigorous methods are critical for ensuring the robustness and reproducibility of findings in a rapidly evolving technological landscape.\nThe study further underscores the importance of chromatin architecture in cardiac biology. Alterations in chromatin accessibility patterns highlight regulatory regions potentially implicated in faulty gene expression within abnormal cardiomyocytes. These “epigenetic scars” could explain persistent dysfunctions that are not apparent from RNA profiles alone, emphasizing the value of capturing multiple omic layers simultaneously.\nAnother notable aspect is the temporal resolution achieved. By profiling cardiac nuclei across distinct developmental stages, the researchers capture the dynamic progression of cardiomyocyte differentiation and uncover transient cellular states previously invisible to snapshot analyses. These fleeting cell populations and regulatory shifts provide clues about the molecular checkpoints critical for normal heart development.\nThe prospect that abnormal cardiomyocyte phenotypes emerge from disrupted gene regulatory networks rather than simple genetic mutations aligns with an emerging paradigm that epigenetic and transcriptional misregulation underlie many congenital diseases. This points toward potential interventions aimed at modulating chromatin states or transcription factor activity as therapeutic avenues, a concept that warrants further experimental exploration.\nThe implications of this work extend into systems biology, highlighting how multiomic single-cell approaches can redefine our understanding of organogenesis. By integrating diverse molecular modalities, researchers can not only catalog cell types but also infer causal relationships and regulatory hierarchies that coordinate development at the single-cell level. This integrative perspective is poised to revolutionize biomedical research across multiple organs and disease contexts.\nIn summary, Leonard et al.’s study represents a landmark advancement in cardiac developmental biology, powered by innovative single-nuclei multiomics technology. The identification of abnormal cardiomyocytes and their unique molecular signatures provides a valuable framework for understanding congenital heart defects and opens new pathways for therapeutic intervention. As single-cell and multiomic methodologies continue to evolve, their application to complex developmental systems promises to unlock the secrets of human biology with transformative impact.\nThis research not only enhances our grasp of heart development but also exemplifies the synergistic power of combining genomics and epigenomics at single-cell resolution. The field eagerly anticipates follow-up studies that will expand these findings into human tissues and explore the mechanistic underpinnings of abnormal cardiomyocyte emergence. The marriage of technology and biology witnessed here charts a bold course for future discoveries in regenerative medicine and developmental pathology.\nBy illuminating the molecular choreography underlying normal and abnormal cardiomyocyte differentiation, this study provides a treasure trove of information for scientists and clinicians alike. It sets a high bar for multiomic investigations and underscores the necessity of integrated, high-dimensional data to fully delineate cellular states during organogenesis. The heart, with its unmatched complexity and vital function, remains a captivating frontier in biomedical exploration — one now seen with sharper clarity thanks to this exemplary work.\nSubject of Research: Cardiac development and identification of abnormal cardiomyocyte populations in a murine model using single-nuclei multiomics analysis.\nArticle Title: Single-nuclei multiomics analysis identifies abnormal cardiomyocytes in a murine model of cardiac development.\nArticle References:\nLeonard, R., Zhao, Y., Eliason, S. et al. Single-nuclei multiomics analysis identifies abnormal cardiomyocytes in a murine model of cardiac development. Nat Commun 16, 6947 (2025). https://doi.org/10.1038/s41467-025-62208-9\nImage Credits: AI Generated\nTags: abnormal cardiomyocytes in micecardiac cell differentiation and maturationcardiac development researchcongenital cardiac disorders insightsgene expression and regulatory pathwaysinnovative approaches in cardiac researchmolecular heterogeneity in cardiomyocytesmurine heart cell analysisNature Communications studysingle-cell level cardiac biologysingle-nuclei multiomics technologytranscriptomic and epigenomic profiling",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Health",
+      "Human Interest"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->medical research",
+      "Science and Technology->scientific publication",
+      "Health->health care approach",
+      "Health->heart disease",
+      "Health->medical specialisation",
+      "Human Interest->record and achievement"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Leonard",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Nature Communications",
+          "sentiment": "none",
+          "tickers": [
+            {
+              "ticker": null,
+              "exchange": null
+            }
+          ]
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "843f3ad4d5eb479b18df7f70284eb1df7a74e123",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:19:14.715+03:00",
+    "updated": "2025-07-31T08:26:14.000+03:00"
+  },
+  {
+    "uuid": "0614bc58575a2f2ae50124338ab9b77e1e785ef6",
+    "url": "https://english.nv.ua/nation/johnson-60-billion-in-aid-is-best-investment-in-security-of-world-that-can-be-made-50399765.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NV",
+    "published": "2024-03-09T14:58:00Z",
+    "title": "Johnson: $60 billion in aid is ‘best investment in security of world that can be made’ / The New Voice of Ukraine",
+    "text": "He believes that the strongest arguments for Kyiv's accession to NATO and for the provision of American aid to the Armed Forces should be made in the United States.\\\"There will certainly be difficulties with some NATO members\\\" in Ukraine's negotiations to join the alliance, Johnson said.\\\"We know who they are, we know the problems, we know what they are. But at the end of the day, the country that matters is the United States. Because NATO is an expression of the military power of the United States in Europe. It's a vehicle for that. And so this argument [about the need for Ukraine to join NATO] has to be won in the United States.\\\" In terms of combat power and army efficiency, \\\"there is hardly a NATO force in the entire alliance that can really match Ukraine.If the West wants to help Kyiv win properly, \\\"we need to give Ukraine everything it needs to win faster.”\\\"We need the State Department and the Congressmen to think about all the things they are accomplishing from a NATO perspective,” he added.“You [Ukraine] are pushing Russia back, you are stopping Russian aggression, you are protecting all the other former Soviet countries and satellites. You're defending the Baltic states, you're defending Georgia - you're defending all these areas from invasion. You heard what Putin said about Poland, and I didn't like it. You are shutting all that down. You are sending a message to China about Russian power,\\\" Johnson listed his arguments. \\\"Yes, you are sending a message to China about Russian power, which is not very much power, but you are also sending a message to everybody in the world that it is not wise to attack your neighbor. Because in the end, if you attack your neighbor, you lose. And that is a great message.”This is the message that should be discussed in the debate over the $60 billion in U.S. aid.\\\"This is a huge savings and the best investment in the security of the world that can be made,\\\" Johnson said. \\\"And it will save trillions. It could potentially save trillions of dollars in the future if, God forbid, we have an even bigger war. If Putin or somebody else does even more of this madness.\\\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Politics",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "johnson",
+          "sentiment": "positive"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "new voice of ukraine he",
+          "sentiment": "positive"
+        },
+        {
+          "name": "nato",
+          "sentiment": "positive"
+        },
+        {
+          "name": "state department",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "ameri",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "europe",
+          "sentiment": "none"
+        },
+        {
+          "name": "west",
+          "sentiment": "none"
+        },
+        {
+          "name": "ukraine",
+          "sentiment": "none"
+        },
+        {
+          "name": "russia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-03-09T18:14:47.757+02:00",
+    "updated": "2024-03-09T18:14:47.757+02:00"
+  },
+  {
+    "uuid": "d3376c5a5a7d1a7cc1b3c7c74ad84732628c09c0",
+    "url": "https://news.stv.tv/north/search-continues-for-missing-man-last-seen-nine-days-ago",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Calum Loudon",
+    "published": "2023-12-28T21:07:00Z",
+    "title": "Search continues for missing man last seen nine days ago | STV News",
+    "text": "A search is underway for a man from Dundee who has been missing for nine days. Anthony Elder was last seen in the Union Street area at around 4.30pm on Tuesday, December 19. The 35-year-old is described as being white, 5ft 8in tall, with short, receding brown hair. When last seen he was wearing a grey jacket with black bands around the elbows, black tracksuit bottoms and black trainers. Sergeant Tony Weed said: “Our enquiries are ongoing to trace Anthony, and we are appealing to anyone who may have seen him or who has any information on where he may be to get in touch. “We have released a new photograph of Anthony in the hope that someone may remember seeing him. “Anyone with information is asked to call 101, quoting reference 2088 of 22 December.” STV News is now on WhatsApp Get all the latest news from around the country [Follow STV News](https://www.whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r) Follow STV News on WhatsApp Scan the QR code on your mobile device for all the latest news from around the country",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Disaster and Accident"
+    ],
+    "external_links": [
+      "https://www.whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r)",
+      "https://whatsapp.com/channel/0029VaCESJzKgsNvKKNOYO2r)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anthony elder",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "anthony",
+          "sentiment": "none"
+        },
+        {
+          "name": "tony weed",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "stv news",
+          "sentiment": "negative"
+        },
+        {
+          "name": "dundee",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "union street",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:01:39.878+02:00",
+    "updated": "2023-12-29T00:01:39.878+02:00"
+  },
+  {
+    "uuid": "ca6b206c639a3512fe899ada64c4c02217077ceb",
+    "url": "https://skazka-bochki.livejournal.com/1124428.html",
+    "ord_in_thread": 0,
+    "author": "skazka_bochki",
+    "published": "2025-06-10T14:04:00Z",
+    "title": "Ступенька",
+    "text": "Сегодня я торжественно закончила изучать немецкий уровня А2.\nПо такому случаю - картинки, сгенерированные в Klingai в стиле pixsel-art из фото моих розочек:)\nОригинал:\nЗаниматься А-2 начала 19.03.2019; в октябре 2022 сдала все четыре модуля В1, но продолжила потом заниматься с репетитором по учебнику Лагуна А-2, который сегодня закончила - итого шесть лет;)\nПо такому случаю - картинки, сгенерированные в Klingai в стиле pixsel-art из фото моих розочек:)\nОригинал:\nЗаниматься А-2 начала 19.03.2019; в октябре 2022 сдала все четыре модуля В1, но продолжила потом заниматься с репетитором по учебнику Лагуна А-2, который сегодня закончила - итого шесть лет;)\nPosts from This Journal by “Немецкий язык” Tag\n-\nВот время летитв дуолингвах) Не помню, когда приложение обновилось до текущего состояния, теперь у меня только ограниченный набор заданий дня и неограниченное…\n-\nЦитатыМарк Твен. Об ужасающей трудности немецкого языка. Каждый раз, как мне покажется, что из четырех загадочных падежей я выбрал единственно правильный,…\n-\nОтдых закончилсяВчера вернулись в Москву, завтра начинается выставка. Столько впечатлений, мыслей, хотелось бы зафиксировать - когда ведешь дневник 10 лет, ясно…",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "russian",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Education"
+    ],
+    "topics": [
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->hobby",
+      "Education->adult and continuing education"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T11:32:57.615+03:00",
+    "updated": "2025-06-12T08:42:48.000+00:00"
+  },
+  {
+    "uuid": "a1d7c389d0dd5893c2fb04b9ab2170e8544a0ce3",
+    "url": "https://enviroliteracy.org/are-insects-ok-for-vegans",
+    "ord_in_thread": 0,
+    "author": "Enviroliteracy Team",
+    "published": "2025-05-01T03:17:00Z",
+    "title": "Are insects OK for vegans?",
+    "text": "Are Insects OK for Vegans? Unpacking the Entomophagy Debate Unequivocally, the answer is no, insects are not generally considered okay for vegans . Veganism, at its core, is a philosophy and lifestyle that seeks to exclude—as far as is possible and practicable—all forms of exploitation of, and cruelty to, animals for food, clothing, or any other purpose. Since insects are undeniably animals, their consumption directly contradicts this central tenet. While the debate around insect sentience and the environmental benefits of entomophagy (eating insects) adds complexity, the prevailing vegan stance remains firmly against it.\nThe Vegan Ethos and Animal Exploitation The foundation of veganism rests on the principle of minimizing harm to all sentient beings. This includes avoiding the use and consumption of animals and animal products. This extends beyond the typical understanding of animal products like meat, dairy, and eggs, encompassing anything derived from or involving animal exploitation.\nDefining “Animal” in the Vegan Context While scientifically, insects are classified as animals, some argue that their level of consciousness and ability to feel pain is significantly different from mammals or birds. However, the growing body of research on insect intelligence and nociception (the ability to detect and respond to injury) complicates this view. Even if the perceived level of suffering is deemed “lesser,” the act of intentionally breeding, raising, and killing insects for consumption directly opposes the vegan principle of avoiding animal exploitation.\nThe Moral Line: Sentience and Suffering A key element in this discussion is the concept of sentience . Can insects feel pain and experience suffering in a way that warrants ethical consideration? While definitive answers remain elusive, mounting scientific evidence suggests that insects possess complex nervous systems and exhibit behaviors indicative of pain response and learning. The precautionary principle, often invoked in ethical debates, suggests that in the face of uncertainty, it’s prudent to err on the side of caution and avoid potentially causing harm.\nEntomophagy: A Clash of Ideologies The push for entomophagy stems primarily from concerns about environmental sustainability and food security . Advocates argue that insect farming requires significantly fewer resources (land, water, feed) than traditional livestock farming and produces lower greenhouse gas emissions.\nThe Environmental Argument for Eating Insects Insects convert feed to protein more efficiently than larger animals and can be raised on organic waste streams, potentially reducing waste and pollution. Moreover, some cultures have a long history of insect consumption, suggesting that entomophagy can be a culturally acceptable and sustainable food source. The Environmental Literacy Council provides valuable insights into the environmental aspects of food production. You can explore their resources at enviroliteracy.org.\nWhy Vegans Remain Skeptical Despite these apparent benefits, vegans maintain their opposition due to several factors:\nAnimal Exploitation: Even if insect farming is more sustainable, it still inherently involves the exploitation and killing of animals. This violates the core principles of veganism. Scalability Concerns: Mass-produced insect farms raise ethical concerns about animal welfare and potential environmental impacts, mirroring the issues associated with factory farming of livestock. Vegan Alternatives: Vegans emphasize the abundance of plant-based protein sources available, arguing that there’s no need to resort to insect consumption to address nutritional needs. Lack of Regulation: The insect farming industry is relatively new, and regulations regarding animal welfare and environmental impact are often lacking or insufficient. Frequently Asked Questions (FAQs) About Vegans and Insects 1. Are all insects off-limits for vegans? Yes, generally speaking, all insects are considered off-limits for vegans due to the principle of avoiding animal exploitation.\n2. What about insects that die naturally? Can vegans eat those? Even if an insect dies naturally, consuming it would still contradict the spirit of veganism. Vegans generally avoid eating any animal remains, regardless of how the animal died.\n3. Is honey vegan? Honey is a complex issue. Strictly speaking, it is not vegan as it’s produced by bees, and its harvesting can be seen as exploitative. However, some vegans consider ethical honey production, where bee welfare is prioritized, to be acceptable.\n4. Are pesticides vegan? No. Pesticides harm and kill insects and other animals. Their use in agriculture can render produce non-vegan, especially if the harm caused is excessive or avoidable.\n5. What about fruits and vegetables with wax coatings? Are they vegan? Some wax coatings on fruits and vegetables are derived from shellac, a resin secreted by lac beetles. These are not vegan. Always check the ingredients or inquire with the vendor about the coating’s origin.\n6. If I accidentally eat an insect, am I no longer vegan? Accidents happen. The occasional unintentional consumption of an insect doesn’t automatically disqualify someone as vegan. Veganism is about intention and minimizing harm as far as practicable.\n7. Do vegans avoid all contact with insects? Vegans aim to minimize harm to insects as much as possible. They might avoid swatting flies or stepping on ants intentionally, but they understand that accidental contact is sometimes unavoidable.\n8. How do vegans deal with pests in their homes? Vegans typically use humane and non-lethal methods to manage pests, such as catch-and-release traps, natural repellents (e.g., citronella, essential oils), and eliminating food sources and hiding places.\n9. Are there any exceptions to the “no insects” rule in veganism? There are no widely accepted exceptions. Some individuals might adopt a modified vegan diet (sometimes referred to as “entoveganism”) where they consume insects for environmental or nutritional reasons, but this is not considered standard veganism.\n10. Do vegans worry about insects killed during farming? Yes. Vegans are generally aware of the unintended harm to insects and other animals caused by conventional farming practices. This is why many choose to support organic and sustainable agriculture, which aims to minimize harm to the ecosystem.\n11. Is sugar vegan? The refining process for white sugar sometimes involves bone char, which is derived from animal bones. Many vegans avoid sugar processed in this way, opting for unrefined sugar or alternatives like beet sugar.\n12. Can vegans eat figs? Most figs are considered vegan. While some fig species rely on fig wasps for pollination, the wasps typically die inside the fig. However, the fig itself is still considered vegan because this is a natural symbiotic process.\n13. Are there any surprising vegan foods? Yes! Many common foods are surprisingly vegan, including Oreos, Ritz crackers, some dark chocolate, and certain types of sriracha mayo. Always check the ingredients to be sure.\n14. Do mosquitoes prefer to bite vegans? There is no scientific evidence to suggest that mosquitoes are more or less attracted to vegans. Mosquito attraction is based on factors like body heat, carbon dioxide emissions, and body odor, which are not necessarily influenced by diet.\n15. Are grasshoppers vegan? Grasshoppers are not vegan because they are insects, which are animals. Additionally, some grasshopper species are not even vegetarian and eat meat.\nConclusion: Veganism and the Value of Life The question of whether insects are okay for vegans highlights the complexities of ethical decision-making in the context of food choices. While the environmental arguments for entomophagy are compelling, the core principle of veganism – avoiding animal exploitation – typically outweighs these considerations. Vegans strive to live in a way that minimizes harm to all living beings, and this commitment generally extends to the insect world, however small.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Social Issue->ethics",
+      "Lifestyle and Leisure->organic food",
+      "Lifestyle and Leisure->lifestyle"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:18:18.035+03:00",
+    "updated": "2025-05-01T04:25:43.000+00:00"
+  },
+  {
+    "uuid": "a29d0027307fc5999d3d52bca50f6feae58aa7ca",
+    "url": "https://www.golfwrx.com/730265/chris-kirk-witb-2024-january/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GolfWRX Staff",
+    "published": "2024-01-07T23:05:00Z",
+    "title": "Chris Kirk WITB 2024 (January)",
+    "text": "<a href=\"https://www.golfwrx.com/category/equipment/whats-in-the-bag-equipment/\">\nWhats in the Bag\n</a>\nChris Kirk WITB 2024 (January)\n- Chris Kirk what’s in the bag accurate as of The Sentry.\nDriver: Callaway Paradym Triple Diamond (9 degrees @10.7)\nShaft: Fujikura Ventus Blue 6 TX\n3-wood: TaylorMade Stealth 2 Plus (15 degrees)\nShaft: Fujikura Ventus Blue 8 TX\n5-wood: TaylorMade Stealth 2 (18 degrees)\nShaft: Fujikura Ventus Blue 8 TX\nIrons: Callaway Apex Pro (4), Callaway Apex CB (5-9)\nShafts: Project X LZ 125 6.5\nWedges: Callaway Jaws MD5 (46-10S @47, 50-10S), Vokey Design SM9 (56-08M), Callaway Jaws Raw (60)\nShafts: True Temper Dynamic Gold S200\nPutter: Odyssey Ai One Milled Six T CH\nBall: Titleist Pro V1x\nGrips: Golf Pride Tour Velvet\nMore photos of Chris Kirk’s WITB in the forums.\nMore Chris Kirk WITBs\nChris Kirk WITB 2023 (April) Chris Kirk WITB 2022 (October) Chris Kirk WITB 2021 (February) Chris Kirk WITB 2017 Chris Kirk WITB 2016\n- LIKE0\n- LEGIT0\n- WOW0\n- LOL0\n- IDHT0\n- FLOP0\n- OB0\n- SHANK0\nLeave a Reply\n[Cancel reply](/730265/chris-kirk-witb-2024-january/#respond)\nWhats in the Bag\nHarris English WITB 2024 (January)\n- Harris English what’s in the bag accurate as of The Sentry.\nMore photos from the event here.\nDriver: Ping G430 LST (10.5 degrees)\nShaft: Fujikura Ventus TR Blue 6 X\n3-wood: Ping G400 (14.5 degrees)\nShaft: Fujikura Atmos Tour Spec Blue 8 X\nIrons: Ping G410 Crossover (3), Ping Blueprint T (4-9)\nShafts: Fujikura Atmos HB Tour Spec Black 9 X (3), True Temper Dynamic Gold Tour Issue X100 (4-9)\nWedges: Ping Si59 (46 S-12, 52 S-12, 56 S-12, 60 T-6)\nShafts: True Temper Dynamic Gold Tour Issue X100 (46), True Temper Dynamic Gold Tour Issue S400 (52-60)\nPutter: Ping Scottsdale Hohum\nBall: Titleist Pro V1\nGrips: Golf Pride MCC Align\nMore Harris English WITBs\nHarris English WITB 2022 (December) Harris English WITB 2022 (October) Harris English WITB 2021 (September) Harris English WITB 2021 (August) Harris English WITB 2021 (June) Harris English WITB (2020 Tour Championship) Harris English WITB 2020 Harris English WITB 2017 Harris English WITB 2016 Harris English WITB 2015 Harris English WITB 2014 Harris English’s winning WITB: 2021 Sentry Tournament of Champions Harris English, Matt Kuchar winning WITBs: 2020 QBE Shootout\n- LIKE4\n- LEGIT1\n- WOW0\n- LOL0\n- IDHT0\n- FLOP0\n- OB0\n- SHANK1\nWhats in the Bag\nTom Hoge WITB 2024 (January)\nDriver: Titleist TSR3 (9 degrees)\nShaft: Fujikura Ventus Black 6 X\n3-wood: TaylorMade Stealth 2 (16.5 degrees)\nShaft: Fujikura Ventus TR Blue 8 X\n7-wood: TaylorMade Stealth 2 (25 degrees)\nShaft: Fujikura Ventus TR Blue 8 X\nIrons: Srixon ZX U Mk II (2), Titleist T100 (4), Titleist 620 (5-9)\nShafts: Fujikura Ventus HB Blue 10 X (2), Project X 6.5\nWedges: Titleist Vokey Design SM9 (46-10F, 52-08F @51, 56-08M @55), WedgeWorks Proto (60-T)\nShafts: Project X 6.5 (46), True Temper Dynamic Gold Tour Issue S400 (52-60)\nPutter: TaylorMade Spider X Hydro Blast\nGrip: SuperStroke Pistol GTR 1.0\nGrips: Golf Pride Tour Velvet\nBall: Titleist Pro V1\nSee the rest of Tom Hoge’s WITB in the forums.\nMore Tom Hoge WITBs\nTom Hoge WITB 2023 (June) Tom Hoge winning WITB: 2022 AT&T Pebble Beach Pro-Am Tom Hoge WITB (December 2020) Tom Hoge WITB 2020 (June) Tom Hoge WITB 2020 (April)\n- LIKE4\n- LEGIT2\n- WOW0\n- LOL1\n- IDHT0\n- FLOP0\n- OB0\n- SHANK0\nWhats in the Bag\nPatton Kizzire WITB 2024 (January)\nDriver: Titleist TSR3 (9 degrees, A2 SureFit setting)\nShaft: Fujikura Motore X F1 6 X\n3-wood: Titleist TSi2 (15 degrees, B2 SureFit setting)\nShaft: Aldila ATX Tour Blue 95 TX\nHybrid: Titleist TS3 (19 degrees)\nShaft: Fujikura Ventus HB Blue 9 X\nIrons: Titleist U500 (4), Titleist T100 (5), Titleist 620 CB (6), Titleist 620 (7, 8, 9)\nShafts: True Temper Dynamic Gold Tour Issue X100\nWedges: Titleist Vokey Design SM9 (48-10F, 56-08M), WedgeWorks (52-M, 60-T)\nShafts: True Temper Dynamic Gold Tour Issue X100\nPutter: Scotty Cameron GoLo Tour\nGrips: Golf Pride MCC Align\nBall: Titleist Pro V1\nMore photos of Patton Kizzire’s WITB in the forums.\n- LIKE8\n- LEGIT1\n- WOW2\n- LOL0\n- IDHT0\n- FLOP0\n- OB0\n- SHANK1\n<a href=\"https://www.golfwrx.com/727810/address-that-first-adam-scott-says-this-is-the-equipment-issue-that-should-be-focused-on/\">\n19th Hole1 month ago\n</a>\n‘Address that first’ – Adam Scott says this is the equipment issue that should be focused on\n<a href=\"https://www.golfwrx.com/729824/brooks-koepka-and-jena-sims-lead-golfers-new-year-celebrations-with-raunchy-display/\">\n19th Hole5 days ago\n</a>\nBrooks Koepka and Jena Sims lead golfers’ New Year celebrations with raunchy display\nhttps://www.golfwrx.com/728717/tiger-rory-brooks-and-bryson-react-to-jon-rahms-move-to-liv-golf/\nTiger, Rory, Brooks and Bryson react to Jon Rahm’s move to LIV Golf\n<a href=\"https://www.golfwrx.com/729035/i-was-shocked-and-disappointed-ludvig-abergs-ex-caddie-reveals-reason-why-young-star-dropped-him/\">\n19th Hole4 weeks ago\n</a>\n‘I was shocked and disappointed’ – Ludvig Aberg’s ex-caddie reveals reason why young star dropped him\nhttps://www.golfwrx.com/728922/i-want-them-to-go-for-free-fred-couples-rips-liv-golf-stars-following-jon-rahms-move/\n‘I want them to go for free’ – Fred Couples rips LIV Golf stars following Jon Rahm’s move\n<a href=\"https://www.golfwrx.com/729479/report-fellow-spaniard-set-to-be-first-addition-to-jon-rahms-new-liv-team/\">\n19th Hole3 weeks ago\n</a>\nReport: Fellow Spaniard set to be first addition to Jon Rahm’s new LIV team\nhttps://www.golfwrx.com/728340/collin-morikawa-hits-out-at-referee-over-penalty-after-playing-partner-reported-incident-to-rules-official/\nCollin Morikawa hits out at referee over penalty after playing partner reported incident to rules official\nhttps://www.golfwrx.com/728266/caddie-opens-up-on-surprise-firing-following-multiple-win-season/\nCaddie opens up on surprise firing following multiple-win season\n<a href=\"https://www.golfwrx.com/730170/justin-rose-is-the-first-player-to-be-penalized-on-pga-tour-in-2024/\">\n19th Hole2 days ago\n</a>\nJustin Rose is the first player to be penalized on PGA Tour in 2024\n<a href=\"https://www.golfwrx.com/729958/5-iron-vs-5-hybrid-showdown-it-wasnt-close-golfwrxers-discuss/\">\nEquipment4 days ago\n</a>\n‘5-iron vs 5-hybrid showdown…it wasn’t close’ – GolfWRXers discuss\nWITB\n<a href=\"https://www.golfwrx.com/730265/chris-kirk-witb-2024-january/\">\nWhats in the Bag1 min ago\n</a>\nChris Kirk WITB 2024 (January)\nChris Kirk what’s in the bag accurate as of The Sentry. Driver: Callaway Paradym Triple Diamond (9 degrees @10.7) Shaft:...\n<a href=\"https://www.golfwrx.com/730151/harris-english-witb-2024-january/\">\nWhats in the Bag2 days ago\n</a>\nHarris English WITB 2024 (January)\nHarris English what’s in the bag accurate as of The Sentry. More photos from the event here. Driver: Ping G430 LST...\n<a href=\"https://www.golfwrx.com/730121/tom-hoge-witb-2024-january/\">\nWhats in the Bag3 days ago\n</a>\nTom Hoge WITB 2024 (January)\nDriver: Titleist TSR3 (9 degrees) Shaft: Fujikura Ventus Black 6 X 3-wood: TaylorMade Stealth 2 (16.5 degrees) Shaft: Fujikura Ventus...\n<a href=\"https://www.golfwrx.com/730014/patton-kizzire-witb-2024-january/\">\nWhats in the Bag4 days ago\n</a>\nPatton Kizzire WITB 2024 (January)\nDriver: Titleist TSR3 (9 degrees, A2 SureFit setting) Shaft: Fujikura Motore X F1 6 X 3-wood: Titleist TSi2 (15 degrees,...\nTrending\n-\n19th Hole5 days ago\nBrooks Koepka and Jena Sims lead golfers’ New Year celebrations with raunchy display\n-\n19th Hole3 weeks ago\nReport: Fellow Spaniard set to be first addition to Jon Rahm’s new LIV team\n-\n19th Hole2 days ago\nJustin Rose is the first player to be penalized on PGA Tour in 2024\n-\nEquipment4 days ago\n‘5-iron vs 5-hybrid showdown…it wasn’t close’ – GolfWRXers discuss\n-\nEquipment2 days ago\n‘Why these Titleist irons are going to be all-timers’ – GolfWRXers discuss\n-\nWhats in the Bag3 weeks ago\nSir Nick Faldo WITB 2023 (December)\n-\n19th Hole3 weeks ago\nApparel company appears to confirm that Charlie Woods is now a brand ambassador\n-\n19th Hole3 days ago\nRickie Fowler spotted without two longtime sponsor logos at Sentry fuelling speculation of split\n[]https://www.golfwrx.com/729824/brooks-koepka-and-jena-sims-lead-golfers-new-year-celebrations-with-raunchy-display/ []https://www.golfwrx.com/729479/report-fellow-spaniard-set-to-be-first-addition-to-jon-rahms-new-liv-team/ []https://www.golfwrx.com/730170/justin-rose-is-the-first-player-to-be-penalized-on-pga-tour-in-2024/ []https://www.golfwrx.com/729958/5-iron-vs-5-hybrid-showdown-it-wasnt-close-golfwrxers-discuss/ []https://www.golfwrx.com/730160/why-these-titleist-irons-are-going-to-be-all-timers-golfwrxers-discuss/ []https://www.golfwrx.com/729319/sir-nick-faldo-witb-2023/ []https://www.golfwrx.com/729389/apparel-company-appears-to-confirm-that-charlie-woods-is-now-a-brand-ambassador/ []https://www.golfwrx.com/730096/rickie-fowler-spotted-without-two-longtime-sponsor-logos-at-sentry-fuelling-speculation-of-split/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "chris kirk",
+          "sentiment": "negative"
+        },
+        {
+          "name": "chris kirk witbs chris kirk",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "taylormade",
+          "sentiment": "none"
+        },
+        {
+          "name": "fujikura ventus blue",
+          "sentiment": "none"
+        },
+        {
+          "name": "callaway apex cb",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-08T01:16:42.104+02:00",
+    "updated": "2024-01-08T01:16:42.104+02:00"
+  }
+]

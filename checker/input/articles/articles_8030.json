@@ -1,0 +1,257 @@
+[
+  {
+    "uuid": "de1c7270bdb2718b6a71d1320460f852298cbd26",
+    "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sergiu Gatlan",
+    "published": "2024-11-14T22:01:00Z",
+    "title": "CISA warns of more Palo Alto Networks bugs exploited in attacks",
+    "text": "CISA warned today that two more critical security vulnerabilities in Palo Alto Networks' Expedition migration tool are now actively exploited in the wild.\nAttackers can use the two unauthenticated command injection ( CVE-2024-9463 ) and SQL injection ( CVE-2024-9465 ) vulnerabilities to hack into unpatched systems running the company's Expedition migration tool, which helps migrate configurations from Checkpoint, Cisco, and other supported vendors.\nWhile CVE-2024-9463 allows attackers to run arbitrary OS commands as root, exposing usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls, the second flaw can be exploited to access Expedition database contents (including password hashes, usernames, device configurations, and device API keys) and create or read arbitrary files on vulnerable systems.\nPalo Alto Networks is shipping security updates addressing these issues in Expedition 1.2.96 and later. The company advises admins who can't immediately update the software to restrict Expedition network access to authorized users, hosts, or networks.\n\"Multiple vulnerabilities in Palo Alto Networks Expedition allow an attacker to read Expedition database contents and arbitrary files, as well as write arbitrary files to temporary storage locations on the Expedition system,\" Palo Alto Networks added in a security advisory published in early October that still needs to be updated to warn customers that attackers are exploiting these vulnerabilities in the wild.\n\"Combined, these include information such as usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.\"\n\"All Expedition usernames, passwords, and API keys should be rotated after upgrading to the fixed version of Expedition. All firewall usernames, passwords, and API keys processed by Expedition should be rotated after updating,\" it added, saying that these security flaws do not affect its firewall, Panorama, Prisma Access, and Cloud NGFW products.\nFederal agencies ordered to patch within three weeks On Thursday, CISA added the two vulnerabilities to its Known Exploited Vulnerabilities Catalog , ordering federal agencies to patch Palo Alto Networks Expedition servers on their networks within three weeks, by December 5, as required by the binding operational directive ( BOD 22-01 ).\nOne week ago, the cybersecurity agency warned of another Expedition security flaw —a critical missing authentication vulnerability ( CVE-2024-5910 ) patched in July that can let threat actors reset application admin credentials—actively abused in attacks.\nEven though CISA has yet to provide more information on these ongoing attacks, proof-of-concept exploit code released by Horizon3.ai vulnerability researcher Zach Hanley last month can help chain CVE-2024-5910 with another command injection vulnerability ( CVE-2024-9464 ) patched in October to gain \"unauthenticated\" arbitrary command execution on vulnerable and Internet-exposed Expedition servers.\nCVE-2024-9464 can be chained with other Expedition flaws (also addressed last month) to take over firewall admin accounts and hijack unpatched PAN-OS firewalls.\nRelated Articles: CISA warns of critical Palo Alto Networks bug exploited in attacks\nOver 2,000 Palo Alto firewalls hacked using recently patched bugs\nPalo Alto Networks patches two firewall zero-days used in attacks\nPalo Alto Networks warns of potential PAN-OS RCE vulnerability\nPalo Alto Networks warns of firewall hijack bugs with public exploit",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology",
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-9465",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-9464",
+      "https://www.cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-9463",
+      "https://security.paloaltonetworks.com/CVE-2024-5910",
+      "https://security.paloaltonetworks.com/PAN-SA-2024-0010",
+      "https://cyber.dhs.gov/bod/22-01/",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=Palo+Alto+Networks+Expedition&field_date_added_wrapper=all&field_cve=&sort_by=field_date_added&items_per_page=20&url=",
+      "https://github.com/horizon3ai/CVE-2024-9464",
+      "https://cisa.gov/news-events/alerts/2024/11/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "https://www.github.com/horizon3ai/CVE-2024-9464",
+      "https://cyber.dhs.gov/bod/22-01",
+      "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "https://cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=Palo+Alto+Networks+Expedition&field_date_added_wrapper=all&field_cve=&sort_by=field_date_added&items_per_page=20&url=",
+      "https://www.security.paloaltonetworks.com/CVE-2024-5910",
+      "https://www.security.paloaltonetworks.com/PAN-SA-2024-0010",
+      "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9464",
+      "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9465",
+      "https://www.nvd.nist.gov/vuln/detail/CVE-2024-9463",
+      "https://www.cyber.dhs.gov/bod/22-01/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "CISA",
+          "sentiment": "negative"
+        },
+        {
+          "name": "Cisco",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Networks",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-15T01:28:39.837+02:00",
+    "updated": "2024-11-22T04:32:03.939+02:00"
+  },
+  {
+    "uuid": "8e2b87ed144f3d893a3ec5b5e699d3fb27ebd458",
+    "url": "https://www.clarin.com/deportes/messi-jugo-apenas-13-minutos-durisima-paliza-nassr-inter-miami-arabia-saudita_0_8C02AUq6nV.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clarin.com - Home",
+    "published": "2024-02-01T22:32:00Z",
+    "title": "Por qué Messi jugó apenas 13 minutos en la durísima paliza de Al Nassr sobre Inter Miami en Arabia Saudita",
+    "text": "El destino no quiso que hubiera The Last Dance entre Lionel Messi y Cristiano Ronaldo. Y ese “último baile”, tal como se promocionó el amistoso en el Kingdom Arena de Riad entre Inter Miami y Al Nassr, terminó siendo un baile descomunal del conjunto árabe que goleó por 6-0 a los estadounidenses con el portugués sonriendo desde un palco ya que se recupera de una lesión y con Leo ingresando desde el banco para disputar los minutos finales. ¿Qué le pasó al rosarino que no estuvo como titular? A instantes del arranque del partido se confirmó que el campeón del mundo argentino tampoco estaba en condiciones de afrontar de entrada el encuentro de la Riad Season, en Arabia Saudita. ¿Lesión, descanso o administración de cargas? Al parecer, un poco de todas las opciones: el capitán de la Selección Argentina entró a la cancha a falta de siete minutos por el ecuatoriano Leonardo Campana y con el marcador ya ¡0-6 abajo! Nada pudo hacer para cambiar la chapa. Fue paliza de los árabes. Fue raro lo que ocurrió en la previa del amistoso en el estadio Kingdom Arena. Hubo una primera publicación de la cuenta oficial de Inter Miami en la que Messi ni siquiera estaba en el banco de suplentes. Y eso sorprendió a todos. Minutos después se modificó ese flyer y el apellido el rosarino -reemplazado en la titularidad por el ecuatoriano Campana- fue ubicado en el último lugar. Lo concreto es que Messi no apareció en el once titular. Hasta este jueves venían en aumento sus minutos en los primeros tres encuentros de la preparación para el inicio de la MLS, el 21 de febrero, contra Real Salt Lake, en el DRV PNK Stadium de Fort Lauderdale. Frente a la Selección de El Salvador (empate 0-0) jugó el primer tiempo completo, contra Dallas FC (derrota 1-0) lo hizo por espacio de 65 minutos y contra Al Hilal, el lunes pasado donde convirtió su primer gol de la temporada en la caída 3-4, había estado dentro del campo de juego durante 84 minutos. Justamente salió en ese último cotejo por expreso pedido suyo y al pasar por al lado de Martino le susurró algo al oído. Algo sintió el 10 argentino. Sin un parte médico oficial del Inter ya que no existe una lesión en sí, todo se trataría de una dolencia muscular. Leo fue sometido a evaluaciones médicas y por eso prefirieron preservarlo. Lo raro resultó verlo entrar a un partido totalmente liquidado para hacer presencia durante 13 minutos (siete de tiempo reglamentario y seis adicionados), algo que se hace muy complicado no vincularlo a un mero cumplimiento del acuerdo comercial para dicho encuentro. El público, claro, estalló al verlo entrar. Ya lo había hecho cada vez que su cara aparecía en la pantalla gigante y cuando salió a entrar en calor en el segundo tiempo. Y el “¡Meeeessi, Meeeessi!”, tronó al pisar el campo. A esa altura, todo estaba sentenciado. Un triplete del brasileño Talisca (uno de penal), Otavio, Laporte y Maran fueron los autores de los goles del Al Nassr, que nunca sacó el pie del acelerador en un duelo que por momentos se tornó con muchas fricciones. La gira para Inter Miami, que sigue sin ganar en la pretemporada, todavía tiene dos paradas más en Asia: el próximo domingo contra la Selección de Hong Kong y el miércoles 7 en Japón contra Vissel Kobe. ¿Volverá Leo a la titularidad? Newsletter Clarín Tags relacionados",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Human Interest",
+      "Sport",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T00:45:39.697+02:00",
+    "updated": "2024-02-02T00:49:50.783+02:00"
+  },
+  {
+    "uuid": "7ced925e0c578dd51dc0b8f746c8166106e4ae7f",
+    "url": "https://news.abplive.com/astro/cancer-horoscope-horoscope-6-january-2024-kark-daily-astrological-predictions-zodiac-signs-1654612",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Astrologer Ruchi Sharma",
+    "published": "2024-01-05T19:45:00Z",
+    "title": "Cancer Horoscope Horoscope 6 January 2024 Kark Daily Astrological Predictions Zodiac Signs",
+    "text": "Cancer Horoscope Horoscope : Welcome, nurturing Cancer! You are celebrated for your deep empathy, intuitive nature, and fierce protectiveness of your loved ones. Cancer signs may seem prickly at first meeting, but once they make the decision to become friends with someone, that person has a friend for life. Your horoscope offers insights into understanding and managing your emotions, helping you ride the waves of life's challenges while creating a safe haven for yourself and your loved ones.\nHere is what is in store for you today:\nFor individuals born under the Cancer zodiac sign, today will be a decent day. Speaking of those employed, for individuals engaged in target-oriented work, today will be favorable. They can easily achieve their targets, leading to financial gains and satisfaction with their work. As for businesspersons, today may bring financial challenges, which is a phase that occurs occasionally in business. However, if you remain patient, everything will gradually fall into place.\nFor those in business, maintaining patience is essential for completing tasks successfully. Only then can your work be completed. Maintain a balance between physical and mental conditions. Today, you may receive information about a auspicious event in your in-laws' family, bringing you great joy. Keep contacts with specific individuals as they may play a significant role in your future work. Your health will be relatively better today, with fewer health issues.\n[Disclaimer: The content of this article is based solely on astrological predictions, and should be taken as general guidance. Individual experiences may vary. ABPLive.com does not assert the accuracy or validity of any claims or information presented. It is strongly recommended to consult a qualified expert before considering or implementing any information or belief discussed herein.]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Religion and Belief",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:32:33.186+02:00",
+    "updated": "2024-01-06T00:32:33.186+02:00"
+  },
+  {
+    "uuid": "cc8863c6b0a6099f2e51ac9a97a2eadae7d8838e",
+    "url": "https://www.nzherald.co.nz/waikato-news/news/huntly-water-meters-ripped-out-police-investigating-vandalism/5AEKEGXMFFGSJKBTHRNUTJFRCQ",
+    "ord_in_thread": 0,
+    "author": "@nzherald",
+    "published": "2025-04-09T21:36:00Z",
+    "title": "Huntly water meters ripped out, police investigating vandalism",
+    "text": "Police are investigating a string of vandalised water meters in Huntly that almost left the Waikato town without water.\nAccording to a Waikato District Council press release, vandals used a vehicle and chain to rip about 10 water meters out of place in one night.\n“The result of the ripped-out water meters was a large-scale loss of treated drinking water across Huntly.”\nHuntly General ward councillor David Whyte told the Waikato Herald the community came “really close” to running out of water.\n“[If that happens] schools can’t open. People can’t shower before work. You can’t function.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "topics": [
+      "Crime, Law and Justice->vandalism",
+      "Social Issue->juvenile delinquency",
+      "Social Issue->communities",
+      "Social Issue->social problem",
+      "Human Interest->human mishap"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "David Whyte",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Waikato District Council",
+          "sentiment": "none",
+          "tickers": []
+        },
+        {
+          "name": "Waikato Herald",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:46:36.785+03:00",
+    "updated": "2025-04-10T00:46:36.785+03:00"
+  },
+  {
+    "uuid": "97c233237e72f00e2258096c7c63a03e76218e34",
+    "url": "https://www.montevideo.com.uy/Noticias/Vendavales-asi-avanzan-las-tormentas-y-el-ciclon-que-afectaran-a-Uruguay-este-viernes-uc909365",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@portalmvd",
+    "published": "2024-12-13T09:44:00Z",
+    "title": "Vendavales: así avanzan las tormentas y el ciclón que afectarán a Uruguay este viernes",
+    "text": "Montevideo Portal\nA partir de la tarde de este viernes se espera que el tiempo se desestabilice, luego de varios días de temperaturas que rondaron en los 30 °C. Precisamente, se espera un sistema de alta presión atmosférica que provocará tormentas y lluvias fuertes en todo el país.\nLuego de que se desarrollen las precipitaciones, sobre el próximo domingo, es de esperar que aumenten los vientos en la costa producto de un ciclón subtropical que fue anunciado por el Instituto Uruguayo de Meteorología (Inumet) y se lo llamó “Biguá”.\nEn tanto, el sábado se esperan menos precipitaciones pero habrá vientos y ráfagas en zonas costeras. Esto no será así en el este, donde sí se espera que sigan las lluvias, según el meteorólogo de Inumet Mario Bidegain.\nSegún muestra el modelo Windy, las tormentas ya avanzan y se encuentran sobre el norte de Uruguay, precisamente en el departamento de Artigas. Conforme al paso de las horas se espera que lleguen a todo el territorio nacional.\nAdemás, con respecto al ciclón se espera que se origine en el Océano Atlántico y por eso la costa uruguaya se verá afectada.\nMontevideo Portal",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Environment",
+      "Social Issue"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "Instituto Uruguayo de Meteorología",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Océano Atlántico",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-13T12:44:04.762+02:00",
+    "updated": "2024-12-13T12:44:04.762+02:00"
+  }
+]

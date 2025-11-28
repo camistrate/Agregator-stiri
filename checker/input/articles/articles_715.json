@@ -1,0 +1,403 @@
+[
+  {
+    "uuid": "abea4f71e6fbfb59676104901874fa7ed976e216",
+    "url": "https://lifehacker.com/tech/the-weakest-passwords-people-often-use",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jake Peterson",
+    "published": "2024-11-14T22:30:00Z",
+    "title": "Please Don't Use Any of These Passwords",
+    "text": "Look, I get it. No one likes managing their passwords. It's so much easier to use the same, simple password for every account, so when you go to sign in, you punch in a familiar phrase from muscle memory, and you're in.\nNow, the lecture: This is horrific from a security perspective. Your password is too easy to guess, which means it's too easy for hackers to break into your accounts. And if you use the same easy-to-guess password for everything, well, you're in for a bad time.\nThe most common passwords are almost all terrible You don't have to take my word for it: For the sixth year in a row, NordPass (in collaboration with NordStellar) has released a list of the most common passwords people use on the internet . This list spans the top 200 most common passwords used across 44 countries from around the globe, based on 2.5TB of data, including information sourced from the dark web . NordPass found some of this data from passwords leaked by hackers or stolen via malware. Because most of these were tied to email addresses, NordPass could separate passwords between corporate and personal accounts, although they found this year, there were few differences between the passwords people use for work and the ones they use at home.\nLooking at the most common passwords from all 44 countries studied here, many aren't going to be surprising. The most used password, for example, used over three million times, is \"123456.\" The second most used, used over 1.6 million times, is \"123456789.\") Number four is \"password,\" while three variations of \"qwerty\" make it into the top 20.\nSome personal favorites scrolling through this list are: \"dragon\" (#20), \"monkey\" (#21), \" \" (#54), \"fuckyou\" (#60), \"computer\" #63, \"trustno1\" (#135), \"letmein\" (#144), and \"cheese\" (#200). If you use any of these, kudos on the amusing password. Now change it immediately.\nBad passwords can be broken in minutes (or less) Many of these are obviously bad passwords. Using something like \"password,\" \"123456,\" or \"qwerty\" is simple for both humans and computers to guess. However, most of these passwords are bad, and not just because they're commonly used. Many are simply weak passwords, structured in a way that a computer would crack quickly. In fact, most are crackable in under one second. Scrolling through the list, that becomes evident. It might take a human a long time to figure out someone's password is 123456c, but a computer can break it almost instantaneously.\nTo be fair, some of these take minutes or hours more, while a few do take quite some time to break: \"111222tianya,\" number 75, would take one full day to crack, while \"g_czechout,\" number 157, would take 12 days. But the vast majority of these passwords are almost as bad as not having a password at all.\nWhat makes a strong and unique password? When it comes to making good passwords , don’t choose something that means anything to you. In fact, you don’t want something that means anything to anyone: The more obscure and/or random the password, the harder it will be for a computer to crack, and it’ll probably be impossible for a human to guess.\nBut that doesn’t mean you need to start mashing away at the keyboard every time you make a new password. One effective method to creating strong and unique passwords is to string together a few totally random words together. Use this aging but still accurate xkcd comic’s take on the subject as a model: Cartoonist Randall Munroe demonstrates how a password like “Tr0ub4dor&3\" seems strong on the surface (a human would never guess it), but a computer could crack it fairly easily. Plus, it’s hard to remember. Connecting four random words is way harder for computers and humans alike to figure out, and you might have an easier time remembering it (the now infamous \"correcthorsebatterystaple.\" Change some of the letters to characters, include an underscore or two, and you’ve got a strong password cooking.\nJust get a password manager already You can read more about creating memorable passwords that are strong and unique in our guide here . Honestly though, you really only need to remember one strong and unique password, because the rest of them should be locked away in a password manager . That removes the temptations to make any of these passwords memorable: The manager remembers them, so you don’t have to. They’ll even make the passwords for you!\nIf you need help finding one, our sister site PCMag has a list of the best password managers they've tried in 2024 . Of course, you can always use the free password manager that comes with your platform of choice. Apple's new Passwords app isn't too bad for managing your passwords across iPhone, iPad, and Mac, although it will be more limited than a dedicated third-party password manager.\nEven good passwords don’t make your account secure Passwords get too much attention anyway. You should also be coupling them with two-factor authentication on any account that supports it, preferably via an authentication app rather than a simple text message . If you have 2FA set up, a compromised password won’t be enough for hackers to break into your account: They’ll also need access to the code on your trusted device.\nIf companies like Apple and Google get their way, passkeys might replace the whole system altogether . Passkeys combine passwords and 2FA together into one secure system. You don’t come up a password; rather, your secondary device is the password, storing the secure passkey for you and only you to access. As long as you can authenticate yourself, you’re in. It’s a great concept, and could both simplify authentication and enhance its security. But seeing as so many of us are still using “password” for everything, we’re going to be a long time getting there.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Science and Technology",
+      "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.pcmag.com/picks/the-best-password-managers).",
+      "https://nordpass.com/most-common-passwords-list/).",
+      "https://xkcd.com/936/)",
+      "https://pcmag.com/picks/the-best-password-managers).",
+      "https://www.nordpass.com/most-common-passwords-list/).",
+      "https://www.xkcd.com/936/)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "abea4f71e6fbfb59676104901874fa7ed976e216",
+      "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-15T02:19:12.444+02:00",
+    "updated": "2024-11-15T06:14:29.941+02:00"
+  },
+  {
+    "uuid": "2bc4ebb44e634e9b79e4a2b8e28cba17e78af4fc",
+    "url": "https://rotativo.com.mx/locales/san-juan-del-rio/reconocen-docentes-centro-idiomas-ut-san-juan-rio_1523159_102.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Diario Rotativo",
+    "published": "2024-12-05T20:58:00Z",
+    "title": "Reconocen a docentes del Centro de Idiomas de la UT San Juan del...",
+    "text": "San Juan del Río, 5 de diciembre de 2024.- En un acto de reconocimiento a la labor educativa, la Universidad Tecnológica de San Juan del Río (UTSJR), encabezada por su rector Fernando Ferrusca Ortiz, homenajeó a los docentes del Centro de Idiomas (CIUT) por su excelente desempeño en la enseñanza del idioma inglés.\nEste reconocimiento se basó en las evaluaciones realizadas por los participantes de los cursos sabatinos de la institución.\nLa UTSJR organiza evaluaciones diagnósticas en las que se califican diversos aspectos relacionados con la calidad educativa, como metodología de enseñanza, dinámicas de grupo, asistencia, puntualidad y motivación.\nEl propósito de estas evaluaciones es asegurar la mejora continua y mantener el alto nivel de calidad en los servicios educativos que ofrece el CIUT a la comunidad.\nDurante la ceremonia, el rector Fernando Ferrusca Ortiz destacó la importancia del aprendizaje de una segunda lengua, señalando que este no solo enriquece la vida, sino que también abre nuevas oportunidades al permitir experimentar nuevas ideas, ejercitar la mente, disfrutar de la diversidad cultural mundial y, lo más importante, mejorar las perspectivas profesionales desde una visión global.\nFerrusca Ortiz felicitó a los profesores por su valiosa contribución a la educación de los estudiantes.\nEl Centro de Idiomas también informó que está abierto el periodo de inscripciones para el cuatrimestre enero-abril, con inicio de clases el 18 de enero. Los interesados en aprender una lengua extranjera pueden registrarse a través de la página oficial de la universidad, www.utsjr.edu.mx , o solicitar más información vía WhatsApp al número 427 1 20 77 51.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": null,
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "http://www.utsjr.edu.mx/",
+      "http://utsjr.edu.mx/",
+      "http://www.utsjr.edu.mx"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Fernando Ferrusca Ortiz",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "UTSJR",
+          "sentiment": "none"
+        },
+        {
+          "name": "CIUT",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-06T00:37:39.273+02:00",
+    "updated": "2024-12-06T00:37:39.273+02:00"
+  },
+  {
+    "uuid": "a40ba86c981db1be391c3e65686f393956e7a424",
+    "url": "https://www.today.com/life/astrology/taurus-season-horoscopes-2024-rcna132517",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lisa Stardust",
+    "published": "2024-04-18T00:00:00Z",
+    "title": "Taurus Season 2024 Horoscopes: How Your Sign Will Be Affected",
+    "text": "Get ready to relax. The season of the luxurious, generous earth sign Taurus has begun.\nThe sun enters Taurus around 10 a.m. ET on Friday, April 19, 2024, where it will stay until May 20.\nBefore heading into individual horoscopes, let's go over what the The following day, April 20, Jupiter and Uranus align in Taurus, a rare transit encouraging us to embrace radical change in our lives.\nThe full moon in Scorpio on April 23 calls for personal transformation and growth. Mercury turns direct on April 25 in Aries, ending the retrograde journey that began on April 1 , providing an opportunity for reflection.\nVenus enters Taurus on April 29, bringing indulgence, romance and practicality to our hearts ... and wallets.\nMars enters Aries on April 30, intensifying our passion and energy.\nOn May 2, Pluto begins its retrograde journey in Aquarius, encouraging us to keep track of our progress.\nThe new moon in Taurus on May 7 intensifies our desire for pleasure, decadence and creativity. Mercury enters Taurus on May 15, making us feel inflexible in our opinions.\nHere's more on how the Taurus season may affect your sun sign.\nAries The of triumph will be satisfying after a period of setbacks. A win is a win, just be careful not to become too arrogant about it. Apply the knowledge you have gained during your hard times and strive to be a kinder, more compassionate person.\nTaurus Feeling out of your comfort zone can actually be a good thing. It's only by reaching for things that we can grow. Yes, you may be faced with challenges — but during your solar return, you will be happy to know that you aren't just growing old, you're growing up.\nGemini Let the memories that lie deep within your heart rise to the surface. Embracing a bit of sentimentality will help you connect with your true self and orient yourself toward the path that aligns most with your spirit.\nCancer Consider taking a class this month. Remember you’re a student and not the teacher. You have accrued wisdom and life experience, yes, but there is always more to know — so allow yourself to be taught for a change.\nLeo If you love your job but want to be considered for a promotion or raise, it’s important to up your game before approaching your boss. Make sure you are fully committed to staying in your current position. You might find that other opportunities speak to you more.\nVirgo Do you ever dream of a brand-new life? It might seem like a distant dream — but changes can have a domino effect. Take small steps guided by enthusiasm. If it brings you joy and doesn't harm others, then move in that direction. It won't even feel like work.\nLibra It’s time to face the issues that you’ve been pretending don't exist. If you don't, they will continue to cause frustration. This is the time to just do it , instead of avoiding doing it. You got this, Libra!\nScorpio You're in search for a collaborator: Someone who can help your ideas soar, and be as loyal and committed as you are. When searching for a project partner, consider leveraging your personal connections. Often, the ideal partner may be someone you already know and trust. Building a business or endeavor with a reliable individual can lead to gains.\nSagittarius You may discover that you’re developing stronger connections with your co-workers. Consider organizing an evening out to socialize and get to know each other better. Not only will this help break up the monotony of the office environment, but it’ll also create a more positive and friendly atmosphere among colleagues.\nCapricorn Take a leap of faith and express what's in your heart. You’ll be a little nervous, but speaking honestly is the best way to deepen your existing bond or spark a new one. Let people know how you feel.\nAquarius Believe in yourself, even when — especially when — it feels like no one else does. Owning your power is going to be key in the days ahead. You will be able to unlock the parts of yourself you keep hidden from the world. You’ll feel stronger and able to take on anything that comes your way without worrying about the consequences.\nPisces Your to-do list is never-ending. While it may seem important to accomplish everything, the truth is: You can't. The list will always grow — which is why you can't put your obligations before your sense of health. Constantly rushing can drain your energy and leave you feeling overwhelmed. Taking some time for yourself is essential.\nDisclaimer: Astrology is not based in science. These posts are not intended to act as a directive",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "venus",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "jupiter",
+          "sentiment": "none"
+        },
+        {
+          "name": "scorpio",
+          "sentiment": "none"
+        },
+        {
+          "name": "pluto",
+          "sentiment": "none"
+        },
+        {
+          "name": "aquarius",
+          "sentiment": "none"
+        },
+        {
+          "name": "aries",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-04-19T00:36:17.565+03:00",
+    "updated": "2024-05-08T09:52:35.256+03:00"
+  },
+  {
+    "uuid": "8b8360cb4d394d6de34adb9c07871e4115387cfb",
+    "url": "https://local.newsbreak.com/kare-11-524527/3874956226748-layoffs-announced-in-western-wisconsin-as-oxbo-plans-to-close-manufacturing-facility",
+    "ord_in_thread": 0,
+    "author": "KARE 11",
+    "published": "2025-03-27T22:47:00Z",
+    "title": "Layoffs announced in western Wisconsin as Oxbo plans to close manufacturing facility - NewsBreak",
+    "text": "Clear Lake\nLayoffs announced in western Wisconsin as Oxbo plans to close manufacturing facility\n3 hours ago\nCLEAR LAKE, Wis — Oxbo International is closing its facility in western Wisconsin this summer, leaving dozens of people out of work. The company is headquartered in the Netherlands but has manufacturing facilities all over the world, including Clear Lake, Wisconsin. They manufacture farm equipment for specialty markets. In...\n9",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Labor"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business restructuring",
+      "Economy, Business and Finance->layoffs",
+      "Labor->unemployment",
+      "Labor->labour market",
+      "Labor->employer"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [
+        {
+          "name": "Clear Lake",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Wisconsin",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Netherlands",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Oxbo",
+          "sentiment": "neutral",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": []
+    },
+    "rating": null,
+    "crawled": "2025-03-28T05:23:00.931+03:00",
+    "updated": "2025-03-28T05:23:00.931+03:00"
+  },
+  {
+    "uuid": "9311b5b1df91435a09ccb8fd3b6da8289093df81",
+    "url": "https://vnexplorer.net/z/1054962.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VNExplorer",
+    "published": "2024-06-27T14:07:00Z",
+    "title": "Celtics’ Porzingis expected to miss 5-6 months after foot surgery",
+    "text": "After what was surely a couple days of rowdy celebrations, it’s now time for the Latvian champion to rest. The Boston Celtics announced on Thursday that centre Kristaps Porzingis underwent successful surgery to repair a torn retinaculum and dislocated posterior tibialis tendon and is expected to miss five to six months of action. Porzingis, 28, suffered the injury in Game 2 of the NBA Finals but delayed a repair procedure in order to remain active throughout the series. And although he did miss Games 3 and 4, he did return for the title-clinching Game 5 as the Celtics earned banner 18. The one-time All-Star joined Boston via trade last off-season and immediately became a game-changer for the 64-18 Celtics. Aside from his floor spacing ability on offence, Porzingis quickly became Beantown’s top rim protector as well. Through 57 regular-season games, he averaged 20.1 points, 7.2 rebounds and 1.9 blocks on 64.7 per cent true shooting. Porzingis did face his fair share of injuries, however, as par for the course throughout his career. After missing 25 regular-season games, the injury bug caught up with the former fourth-overall pick in the post-season too. He suffered a calf strain in round one against the Miami Heat and then didn’t return until the Finals against the Dallas Mavericks. After helping Boston secure the title, he became the first Latvian-born player in NBA history to win a championship. Missing five to six months after surgery also means Porzingis will miss next month’s FIBA Olympic qualifying tournament, and should Latvia qualify for Paris, that as well. More from Sportsnet Celtics’ Brad Stevens expects only small roster tweaks after championship win Boston salutes Celtics’ record 18th NBA championship with parade",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "porzingis",
+          "sentiment": "none"
+        },
+        {
+          "name": "kristaps porzingis",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "boston celtics",
+          "sentiment": "none"
+        },
+        {
+          "name": "nba",
+          "sentiment": "none"
+        },
+        {
+          "name": "celtics",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "boston",
+          "sentiment": "none"
+        },
+        {
+          "name": "beantown",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:11:59.861+03:00",
+    "updated": "2024-06-28T01:11:59.861+03:00"
+  },
+  {
+    "uuid": "befe14acf74c0a695de7526837862f9a89ffcf84",
+    "url": "https://www.reussir.fr/agriculture-massif-central/les-rats-un-risque-sanitaire-majeur",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aurélien Legrand Farago Creuse – www.faragocreuse.fr Dr Boris Boubet GDS Creuse – www.gdscreuse.fr",
+    "published": "2024-12-19T19:57:00Z",
+    "title": "Les rats, un risque sanitaire majeur | Agriculture Massif central | PAMAC",
+    "text": "Les rats, un risque sanitaire majeur Leur impact sur les réserves alimentaires et les dégradations occasionnées sur les équipements sont bien connus. On sous-estime encore trop souvent leur potentiel de dissémination de pathologies. Du fait de ces éléments, il est fortement recommandé de mettre en place un plan de lutte préventive ou curative.\nPublié le 19 décembre 2024 - Par Aurélien Legrand Farago Creuse – www.faragocreuse.fr Dr Boris Boubet GDS Creuse – www.gdscreuse.fr L'identification des espèces est une étape promordiale. © SOFAR France Les bâtiments attirent les rongeurs car ils représentent une source de chaleur et de nourriture lorsque les conditions extérieures deviennent difficiles (fin d’automne). Au-delà des dégradations qu’ils occasionnent, les rats présentent un risque sanitaire important par la transmission de maladies.\nRat noir et rat brun, deux espèces distinctes… On retrouve sur le terrain deux espèces :\n- Le rat noir est plus spécifique des milieux agricoles (rat des champs). Rattus rattus se distingue de son congénère par une couleur foncée, un profil élancé, de grandes oreilles et une queue longue. C’est un animal nocturne, très méfiant et qui affectionne tout particulièrement les céréales et les fruits. Il niche en hauteur, dans les greniers ou les bâtiments agricoles. Originaire d’Asie, il est présent de longue date en Europe et a colonisé le monde avec les transports maritimes.\n- Le rat brun (ou ras gris ou surmulot) est devenu le plus commun en France. Plus robuste, Rattus norvegicus a envahi l’Europe au XVIII e siècle, supplantant progressivement le rat noir. Il s’est adapté à tous les milieux et vit aussi bien en campagne qu’à la ville (rat d’égout). Omnivore, avec une préférence pour les graines et la viande, il s’installe à proximité immédiate d’une ressource alimentaire et vit dans des terriers, avec une organisation hiérarchique très élaborée.\n… avec une même capacité de reproduction La gestation dure environ 21 jours et en théorie, une rate peut mettre bas tous les mois, même si on observe plutôt 3 à 5 portées par an. Avec de 5 à 10 petits à chaque fois et une maturité sexuelle dès 2 mois, si la nourriture disponible est suffisante, la population peut très rapidement exploser. Dans les grandes métropoles, le ratio est de 1,5 à 1,75 rat brun par habitant ! Cela explique la nécessité de maintenir un plan de surveillance et de lutte contre ces rongeurs dès que le risque est identifié.\nUn rôle majeur dans la diffusion de pathologies, notamment de zoonoses… La maladie la plus célèbre transmise par le rat noir est la peste bubonique, qui a décimé les populations européennes au milieu du XIV e siècle. Plus globalement, 20 agents zoonotiques ont été identifiés comme transmissibles par Rattus rattus et 48 par Rattus norvegicus et on observe de plus en plus de signalements cliniques depuis 2003. Le développement du rat blanc comme animal de compagnie est un facteur de risque aggravant. En France, on retrouve des pathologies virales comme le cowpox, la variole du singe, l’hépatite E ou l’hantavirus de Séoul, ou des parasites comme la toxoplasmose.\n… et tout particulièrement la leptospirose De nombreuses bactéries peuvent être transmises par les rats : bartonelles, pasteurelles, salmonelles, fièvre Q, rickettsies… mais les plus importantes sont les leptospires. Suivant les études, de 12 à 25 % des rats bruns en seraient porteurs. La maladie se transmet principalement via l’urine et les personnes ou animaux exposés le sont surtout au contact d’une eau souillée. Les symptômes sont peu évocateurs : fièvre, céphalées, nausées, douleurs articulaires. Si la maladie n’est pas traitée rapidement, les complications possibles sont neurologiques, hépatiques ou rénales. Pour les personnes régulièrement exposées (égoutiers notamment), une vaccination est fortement recommandée.\nUne problématique méconnue, la diffusion de bactéries antibiorésistantes Les rats bruns vivent souvent dans des milieux très contaminés (fumiers, égouts, proximité des poubelles, …) et interagissent avec des matières fécales ou des urines. Ils se retrouvent exposés à des bactéries humaines et animales qui peuvent être résistantes aux antibiotiques, les hébergent et les diffusent. Une étude a été menée en Autriche pour évaluer ce portage et le quantifier. 60 % des rats analysés étaient porteurs de staphylocoques résistants à la méthicilline et 14,5 % d’entérobactéries résistantes aux beta-lactamines. Ces rongeurs jouent donc un rôle de réservoir de bactéries antibiorésistantes et de contamination de l’environnement.\nUne gestion préventive complexe… Cette gestion s’appuie principalement sur un postulat de base : rendre les lieux inhospitaliers aux rats. Cela passe par le stockage sécurisé des réserves alimentaires (mise en silo) ou des déchets (poubelles non accessibles) et l’étanchéité des locaux. Si l’objectif est le « zéro rongeur » (métiers de bouche, industrie agroalimentaire,…), il est indispensable de respecter deux aspects primordiaux :\n• s’en préoccuper même si on ne relève aucune trace de nuisance,\n• mettre en place un nombre de postes d’appâtage minimum qui seront témoins de leur présence.\n… et curative à plusieurs facettes Si la mise en œuvre des mesures préventives s’avère impossible (proximité des égouts, bâtiments ouverts, …), un programme de contrôle de l’infestation doit être mis en place. L’approche curative est «  facilitée  » par les indicateurs de présence des rats tels que câbles électriques rongés, aliments souillés et/ou consommés ou encore traces de pas dans la terre, la poussière… Trois types de lutte sont recensés : chimique, physique et biologique.\nLa lutte chimique, la plus répandue et la plus efficace… La lutte par ingestion répétée d’appâts anticoagulants est recommandée, la mort intervenant dans un délai de deux à quatre jours après consommation d’appâts. Ceci évite au rat, animal méfiant et avisé, de faire la relation entre les appâts et les éventuels cadavres. Les anticoagulants bloquent le phénomène de coagulation sanguine en inhibant la vitamine K. Ils peuvent être toxiques pour tous les animaux, en cas d’ingestion accidentelle, contactez rapidement votre vétérinaire, le seul antidote étant alors une administration rapide de vitamine K1. Les professionnels savent placer les appâts aux endroits adaptés et avec des dispositifs sécurisés afin de limiter les risques.\n… la lutte physique, complément de la lutte chimique… Le piégeage des rongeurs s’effectue à l’aide de tapettes, pièges divers, colle glue… Quant aux appareils à ultrasons, ils ont une action perturbatrice les premiers jours mais sont peu efficaces dans la durée. En s’accoutumant au bruit, les rats finissent par se préserver de cette nuisance sonore en se cachant mieux.\n… et la lutte biologique, anecdotique Cette action obtenue grâce à la présence d’autres espèces (chats, chiens, buses, …) ne constitue pas un moyen efficace que l’on peut conseiller en tant que lutte.\nFarago Creuse : une structure agréée, des techniciens qualifiés, une large gamme de produits certifiés et reconnus La lutte contre les rongeurs (rats et souris) est un des aspects de la gestion sanitaire d’un élevage. GDS Creuse et sa filiale Farago Creuse vous accompagnent dans la mise en place de votre plan de dératisation (contrat annuel adapté à chaque situation, large gamme de rodonticides certifiés à votre disposition au magasin de Farago Creuse). N’hésitez donc pas à nous solliciter pour la réalisation d’un devis adapté à votre structure, votre approvisionnement en rodonticides ou pour plus d’informations.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "french",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "topics": [
+      "Health->public health",
+      "Health->communicable disease",
+      "Social Issue->social problem",
+      "Crime, Law and Justice->law",
+      "Crime, Law and Justice->vandalism"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-12-20T04:05:30.593+02:00",
+    "updated": "2024-12-20T04:05:30.593+02:00"
+  },
+  {
+    "uuid": "50a865a181e7962e1cd4cf3869cf49876f8df0da",
+    "url": "https://caracol.com.co/2025/04/09/aumenta-la-violencia-contra-personas-lgbtiq-en-colombia-que-dicen-las-organizaciones",
+    "ord_in_thread": 0,
+    "author": "Mariana Quintero López",
+    "published": "2025-04-09T21:39:00Z",
+    "title": "Aumenta la violencia contra personas LGBTIQ+ en Colombia, ¿Qué dicen las organizaciones?",
+    "text": "Luego del asesinato de la mujer trans de 32 años en el municipio de Bello, Antioquia, identificada como Sara Millerey, ha generado bastante revuelo en la sociedad colombiana y en diferentes organizaciones que hacen parte de LGBTIQ+.\nEl reporte que presenta las autoridades policiales, indica que la mujer fue hallada con graves lesiones por golpes en la quebrada La García . Luego, los bomberos la llevaron de inmediato al Hospital de La Maria , donde la mujer falleció. Por el momento, no se tiene claridad sobre los posibles responsables del asesinato de Sara.\n“A Sara la violentaron, le quebraron los brazos y las piernas y la arrojaron al río, y duele profundamente pensar que ocurrió ante la indiferencia de muchos ”, afirmó Lorena González Ospina, alcaldesa del municipio de Bello, Antioquia.\nAsí como le ocurrió a Sara, muchas personas de la comunidad LGBTIQ+ siguen siendo víctimas de graves violaciones a sus derechos. Según cifras del Observatorio de Derechos Humanos de Caribe Afirmativo, en 2024 se registraron 47 homicidios contra personas de esta población.\nEn lo que va de este año, ya se han reportado 24 casos , esto evidencia que en solo cuatro meses, se ha alcanzado más de la mitad de los crímenes registrados el año anterior.\n“En Colombia, las personas trans (especialmente las mujeres) enfrentan tres muertes: la primera, en vida, por la exclusión social y el rechazo sistemático ; la segunda, por la violencia física y brutal que les arrebata la vida; y la tercera, por la indiferencia institucional de un Estado que no protege , no investiga, ni garantiza justicia” agregó en su cuenta de X la Organización Caribe Afirmativo.\nEn lo que va de este año, Antioquia se registra como el departamento con más casos de violencia en contra de las personas LGBTIQ+. Según la organización, de los 25 homicidios registrados en el país, 13 se registran en Antioquia.\nFinalmente, estas organizaciones siguen en la lucha de estos casos de violación de género. Además, antes del asesinato de Millerey, ya se habían reportado otros casos de violencia contra personas trans en Colombia, l o que evidencia un patrón preocupante y sostenido de agresiones hacia esta población.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Crime, Law and Justice",
+      "Human Interest"
+    ],
+    "topics": [
+      "Social Issue->lgbtq",
+      "Crime, Law and Justice->homicide"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Lorena González Ospina",
+          "sentiment": "none"
+        },
+        {
+          "name": "Sara Millerey",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hospital de La Maria",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Observatorio de Derechos Humanos de Caribe Afirmativo",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-10T00:59:09.309+03:00",
+    "updated": "2025-04-10T02:29:04.088+03:00"
+  }
+]

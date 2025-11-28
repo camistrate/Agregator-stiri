@@ -1,0 +1,620 @@
+[
+  {
+    "uuid": "ac28648ef1f7c59badf9d9ee61bb9a3ea11c699b",
+    "url": "https://eju.tv/2025/02/lluvias-e-inundaciones-se-cobran-la-vida-de-30-personas-y-afectan-a-126-236-familias",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hortencia Rivera",
+    "published": "2025-02-20T20:14:00Z",
+    "title": "Lluvias e inundaciones se cobran la vida de 30 personas y afectan a 126.236 familias",
+    "text": "El viceministro de Defensa Civil informó que 350 viviendas quedaron completamente destruidas en todo el país. Hay alerta hidrológica en 314 municipios.\nPOR ERIKA IBÁÑEZ\nLa población de Tipuani, en La Paz, es una de las afectadas por las lluvias. Foto: ABI Fuente: La Razón\nDe noviembre de 2024 al 18 de febrero de este año, la época de lluvias se cobró la vida de 30 personas y afectó a 126.236 familias, informó este miércoles el viceministro de Defensa Civil, Juan Carlos Calvimontes. Además, cinco personas se encuentran desaparecidas.\nEl reporte del viceministro indica, además, que a la fecha las lluvias e inundaciones destruyeron completamente 350 viviendas.\n“Las familias afectadas han ascendido a 91.422, las damnificadas a 34.814, en total suman 126.236 familias. Ahora se reportan 1.004 viviendas afectadas, 350 viviendas completamente destruidas. El número de personas fallecidas ahora es de 30, ayer (martes) se ha reportado dos personas fallecidas en el departamento de Potosí”, dijo la autoridad en conferencia de prensa.\nAsimismo, detalló que son seis los departamentos que reportaron fallecidos: Cochabamba (11), La Paz (8), Chuquisaca (5), Potosí (3), Tarija (2) y Santa Cruz (1).\nCinco personas desaparecidas son buscadas en el sector del río Porco, en Potosí, informó Calvimontes.\nLluvias Las precipitaciones afectaron a 87 municipios, 39 de estos son de La Paz. Hasta el momento se registran 29 municipios que se declararon en alerta, otros seis están en emergencia. El municipio de Guanay, en el departamento de La Paz, registra la mayor cantidad de viviendas destruidas, con un total de 192.\n“De las viviendas destruidas, la mayor cantidad se encuentra en el departamento de La Paz”, detalló Calvimontes.\nAdemás, detalló que, desde noviembre a la fecha, Defensa Civil atendió a 17 municipios en seis departamentos con 113.18 toneladas de ayuda humanitaria para 4.796 familias damnificadas por inundaciones.\nLas Fuerzas Armadas, a través del Comando Conjunto de Respuesta ante Eventos Adversos (CCREA), desplegó a 2.929 efectivos militares para atender 30 eventos de emergencia. Movilizó 52 unidades militares y ejecutó 39 operaciones en distintas regiones, utilizando medios terrestres, aéreos y fluviales.\nLa autoridad advirtió que rige una alerta hidrológica emitida por el Servicio Nacional de Meteorología y Hidrología (Senamhi) para 314 municipios en el país, por ascensos de nivel y posibles desbordes de cuencas.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Social Issue"
+    ],
+    "topics": [
+      "Disaster and Accident->disaster",
+      "Disaster and Accident->natural disaster",
+      "Health->public health",
+      "Health->emergency care",
+      "Social Issue->social problem",
+      "Social Issue->death and dying",
+      "Social Issue->communities"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.la-razon.com/sociedad/2025/02/19/lluvias-e-inundaciones-se-cobran-la-vida-de-30-personas-y-afectan-a-126-236-familias/",
+      "https://la-razon.com/sociedad/2025/02/19/lluvias-e-inundaciones-se-cobran-la-vida-de-30-personas-y-afectan-a-126-236-familias/",
+      "https://www.la-razon.com/sociedad/2025/02/19/lluvias-e-inundaciones-se-cobran-la-vida-de-30-personas-y-afectan-a-126-236-familias"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Juan Carlos Calvimontes",
+          "sentiment": "none"
+        },
+        {
+          "name": "ERIKA IBÁÑEZ",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Defensa Civil",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T01:04:29.033+02:00",
+    "updated": "2025-02-21T01:04:29.033+02:00"
+  },
+  {
+    "uuid": "5c994cadad8bd763883d8e86e8158104c27d93c3",
+    "url": "https://www.howtogeek.com/microsoft-copilot-macos-app",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arol Wright",
+    "published": "2025-02-27T19:52:00Z",
+    "title": "Microsoft Copilot Now Has a Mac App",
+    "text": "Microsoft's Copilot integration has mostly been reserved for Windows computers until now. If you have a Mac and you want a way to interact with Copilot that's not just the web version, this official app might just be what you need.\nMicrosoft has just released an official macOS app for its generative AI chatbot, Copilot, which you can now download from the App Store. The macOS application offers the full suite of Copilot's features in a dedicated window, so instead of having to fire up your browser and search for Copilot, you can now just fire up the app and get prompting. Just like the web version, you can interact with Copilot through text-based prompts, requesting assistance with various writing and creative tasks.\nFor the most part, this just seems to be your average, run-of-the-mill Microsoft web app. This is not too surprising as it's done with countless apps, and there's nothing inherently wrong or incorrect about that, but it does mean that you have some limitations. We went hands-on with it to try it out, and it doesn't seem like you can use your screen context as chat input like the ChatGPT app. This is not really any different from installing the web app as an app and making a shortcut to open it with your keyboard or firing it up from your desktop. You can put a prompt bar on your desktop for quick actions/queries, and it also has a menu bar icon, which shows up only while the app is running.\nIt should be noted that you will need to be running macOS 14.0 (Mojave) or later, and your Mac must be equipped with an Apple M1 chip or a later generation of Apple silicon. It's a bit silly of a requirement considering that it is just a web app and there's therefore no technical restrictions towards running this on an Intel Mac, but we have had Apple silicon for roughly five years now, so it is going to become increasingly harder to find devs willing to support these older computers. They are not dead yet, but we are probably closer than we think to the time Apple will drop support for Intel Macs on newer versions of macOS anyway.\nThe release also follows closely on the heels of other significant Copilot announcements. Earlier this week, Microsoft revealed that all Copilot users would receive free, unlimited access to two key features: \"Voice\" and \"Think Deeper.\" The \"Voice\" capability is basically the same voice features we have seen from other chatbots such as ChatGPT and Gemini, and it allows you to talk it out with your chatbot naturally.\n\"Think Deeper,\" on the other hand, is Microsoft's take on OpenAI's o1 model, providing an enhanced level of \"cognitive processing\" for Copilot, allowing it to tackle more challenging requests and deliver more accurate, thought-over responses. The upgrade enables Copilot to delve deeper into the context of your queries, leading to more accurate and relevant results. Both of these features are available in this new Mac version, in case you're wondering, so while it might lack some useful additions on virtue of it being basically a web app, you shouldn't have any issues accessing the full scope of the chatbot.\nIf you want to check out this chatbot on your Mac right now, you can grab it now from the App Store. As we said, you might find it to be a little limited compared to other dedicated chatbot apps, but at this point we would not blame you for finding yourself using anything but Apple Intelligence.\nSource: Microsoft via TechCrunch",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://apps.apple.com/ca/app/microsoft-copilot/id6738511300?mt=12",
+      "https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/",
+      "https://x.com/MSFTCopilot/status/1895156948409917799",
+      "https://www.techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app/",
+      "https://www.apps.apple.com/ca/app/microsoft-copilot/id6738511300?mt=12",
+      "https://www.x.com/MSFTCopilot/status/1895156948409917799",
+      "https://techcrunch.com/2025/02/27/microsoft-copilot-gets-a-macos-app",
+      "https://apps.apple.com/ca/app/microsoft-copilot/id6738511300"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-28T00:27:49.435+02:00",
+    "updated": "2025-02-28T00:27:49.435+02:00"
+  },
+  {
+    "uuid": "05849ede6236ba48d7d13e49444ef57beb983dcd",
+    "url": "https://ultimasnoticias.com.ve/noticias/politica/maduro-los-demonios-de-la-derecha-estan-alborotados",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kleybergel González",
+    "published": "2024-06-27T20:38:00Z",
+    "title": "Maduro: Los demonios de la derecha están alborotados",
+    "text": "El presidente de la República, Nicolás Maduro, alertó que los representantes del extremismo opositor están alborotados, tras denunciar que tumbaron otra torre de energía eléctrica afectando la distribución del servicio en el país.\nDesde un acto masivo realizado este jueves en la ciudad de Cabimas, costa oriental del estado Zulia, el jefe de Estado expresó que “los demonios y demonias de la derecha están alborotados. Hoy tumbaron otra torre eléctrica, ya la recuperamos, pero lo tumbaron. Yo les digo a esa derecha que aquí habrá paz antes, durante y después del 28 de julio”.\n“Pero a esa derecha les digo desde Cabimas, dejen de hacerlo daño al pueblo. Derecha trimaldita, ¡basta ya de hacerle daño al pueblo!”, enfatizó.\nEl primer mandatario nacional también denunció que los extremistas opositores “quieren un Milei (…) Ellos quieren convertir a Venezuela en una argentina y destruir el Estado y la economía”.\nEl 28J se define el destino de la patria Maduro dedicó unas sentidas palabras a todo el estado Zulia y comentó que recibió “una inspiración divina pensando en el pueblo, en la necesidad de apoyar más y más a este pueblo heroico y valiente”.\nReconoció las necesidades causadas por la guerra económica, el desabastecimiento y la guerra eléctrica, y seguidamente destacó la resistencia heroica del pueblo zuliano. “Vamos saliendo adelante en una recuperación económica que ha permitido el abastecimiento del país”, resaltó.\nVaticinó que la victoria en las elecciones del próximo 28 de julio será el gran impulso que Venezuela recibirá para acelerar y profundizar la recuperación, así como los cambios que necesita el país para mejorar la economía y la vida del pueblo con paz y estabilidad.\nPresidente Nicolás Maduro lidera acto con el pueblo desde Cabimas, estado Zulia. // Prensa Presidencial Presidente Nicolás Maduro lidera acto con el pueblo desde Cabimas, estado Zulia. // Prensa Presidencial Asfaltado y aguas servidas para Cabimas El presidente denunció, además, el estado de las carreteras de Cabimas que evidenció en su recorrido por la ciudad. En tal sentido, ordenó al ministro de Petróleo, Pedro Rafael Tellechea, un plan de asfaltado completo en la entidad para que “tenga sus calles de oro como dijo barrio obrero”.\nAdemás, anunció que en 15 días entregará completamente reparado el hospital de Cabimas para el disfrute de todo su pueblo. “Ustedes saben de quién depende el hospital?: el gobernador, ¿y ustedes saben qué hizo para recuperarlo? Así que en 15 días estoy aquí para entregar ese hospital al pueblo”, se comprometió.\nPor otro lado, el jefe de Estado también dijo que 15 días estarán operativas al 100% las tres estaciones de bombeo de aguas servidas de la región oriental zuliana con tecnología nueva.\n“La gente se pregunta por qué ahora y no antes, y yo les respondo con la palabra de nuestro señor Jesucristo: Porque el señor nos tenía reservados el 2024 como un año bendito, en donde empieza el primer año de la profecía que hay sobre Venezuela”, expresó.\nMaduro auguró que 2024 es el primer año de siete años de prosperidad, crecimiento y felicidad, “está escrito y la profecía ha sido dicha. El 28 de julio tenemos una cita sagrada con la historia, y en Cabimas y en el Zulia tenemos que ganar por paliza, por nocaut”.\nBricomiles rehabilitan institución educativa Finalmente, el líder bolivariano entregó en la parroquia Carmen Herrera la rehabilitación del Taller de Educación Laboral Bolivariano “Costa Oriental del Lago”, una institución educativa para jóvenes con capacidades especiales.\nLas Brigadas Comunitarias Militares para la Educación y la Salud (Bricomiles) realizaron los trabajos de recuperación en la escuela, la cual fue tomada como modelo por el jefe de Estado e instó a multiplicarlas por todo el país.\n“Nadie privatizará la educación en Venezuela. Fuerza Armada Nacional Bolivariana, ¡alerta, alerta que camina la espada de Bolívar por América Latina!”, aseveró.\n#EnVivo 📹 | Recuperación Integral del Taller de Educación Laboral Bolivariano \"Costa Oriental del Lago\" https://t.co/GMzvGPkbs2\n— Prensa Presidencial (@PresidencialVen) June 27, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://youtu.be/aXWYIa23zBY",
+      "https://twitter.com/PresidencialVen/status/1806430472056004810?ref_src=twsrc%5Etfw",
+      "https://t.co/GMzvGPkbs2",
+      "https://twitter.com/hashtag/EnVivo?src=hash&ref_src=twsrc%5Etfw",
+      "https://twitter.com/PresidencialVen/status/1806430472056004810",
+      "https://www.twitter.com/PresidencialVen/status/1806430472056004810?ref_src=twsrc%5Etfw",
+      "https://www.youtu.be/aXWYIa23zBY",
+      "https://www.t.co/GMzvGPkbs2",
+      "https://twitter.com/hashtag/EnVivo",
+      "https://www.twitter.com/hashtag/EnVivo?src=hash&ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:08:46.729+03:00",
+    "updated": "2024-06-28T01:08:46.729+03:00"
+  },
+  {
+    "uuid": "b68407bcc9ec905868710ed01ab357a51dff44df",
+    "url": "https://www.newarab.com/news/air-strikes-khartoum-sudan-army-attacks-rsf-positions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The New Arab Staff & Agencies",
+    "published": "2024-09-26T22:26:00Z",
+    "title": "Air strikes in Khartoum as Sudan army attacks RSF positions",
+    "text": "Air strikes in Khartoum as Sudan army attacks paramilitary RSF positions Air strikes and shelling rocked [Khartoum](https://www.newarab.com/news/sexual-violence-rife-sudans-war-torn-capital-khartoum-hrw) on Thursday as the army attacked [paramilitary positions](https://www.newarab.com/news/sudan-hemedti-threatens-set-government-khartoum) across the Sudanese capital, witnesses and a military source told AFP. The clashes began at dawn, several residents reported, in what appeared to be the army's first major offensive in months to regain parts of the capital controlled by the rival paramilitary [Rapid Support Forces](https://www.newarab.com/analysis/are-rsf-recruiting-children-fight-sudans-war). It comes the same day Sudan's de facto leader, army chief [Abdel Fattah al-Burhan](https://www.newarab.com/news/sudan-army-chief-will-support-peace-if-it-rsf-ends-occupation), addressed the UN General Assembly in New York. On the eve of his address, UN chief Antonio Guterres voiced concern to Burhan \"about the escalation of the conflict in the Sudan\", the United Nations said. Burhan called in his address for the \"rebel militia to be designated as a terrorist group\" and accused the RSF of obstructing peace efforts. On the ground, Sudanese army forces were \"waging fierce fighting against the rebel militia inside Khartoum\", a source in the military told AFP, referring to the RSF. The source, requesting anonymity because they were not authorised to speak to the media, said army forces had crossed three key bridges over the Nile -- which had separated parts of the capital held by the army from those under RSF control. In [Omdurman](https://www.newarab.com/news/seven-civilians-killed-sudans-omdurman-rsf-bombing), a witness said the sound of bombs, which had \"jolted them from sleep\" at dawn, continued through the day. Several residents of Omdurman reported \"intense artillery shelling\" falling on residential buildings while military warplanes flew overhead. \"In our neighbourhood alone, three people have been killed today,\" one Omdurman resident told AFP, requesting anonymity for fear of reprisal. Amid an effective communications blackout and a crippled healthcare system, it was not possible to verify any casualty toll. Since the war began, much of its worst fighting has been in densely populated areas and both sides have been accused of war crimes, including indiscriminately bombing residential areas. The war has already killed tens of thousands of people, with the World Health Organization saying at least 20,000 people have been killed, but some estimates of up to 150,000. It has also created the world's largest displacement crisis, the UN says. More than 10 million people -- around a fifth of Sudan's population -- have been forced from their homes, according to UN figures. Famine has been declared in Zamzam refugee camp in Darfur near the city of El-Fasher, where the RSF last weekend launched a large-scale offensive after months of siege. El-Fasher is the only one of five state capitals in Darfur not yet in RSF hands. In his meeting with Burhan, Guterres said the war \"risks a regional spillover,\" the UN said. \"People in Sudan have endured 17 months of hell, and the suffering continues to grow,\" top UN relief official Joyce Msuya said separately.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "Abdel Fattah al-Burhan",
+          "sentiment": "none"
+        },
+        {
+          "name": "Antonio Guterres",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Rapid Support Forces",
+          "sentiment": "none"
+        },
+        {
+          "name": "UN General Assembly",
+          "sentiment": "none"
+        },
+        {
+          "name": "United Nations",
+          "sentiment": "none"
+        },
+        {
+          "name": "AFP",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-09-27T02:43:22.437+03:00",
+    "updated": "2024-10-11T04:08:56.199+03:00"
+  },
+  {
+    "uuid": "65247e4a615f0a0689eea26648fa713fec15bb2c",
+    "url": "https://finance.sina.com.cn/jjxw/2025-03-13/doc-inepnchw5134484.shtml",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "检察日报",
+    "published": "2025-03-12T23:07:00Z",
+    "title": "\"树患\"消除，百年古桥风华再现|行政机关_新浪财经_新浪网",
+    "text": "【基本案情】 福建省福州市上下杭历史文化街区为闽商发祥地，是海上丝绸之路的重要节点。横卧于该街区三捷河上的星安桥，始建于清乾隆五十一年（公元1786年），为花岗石两墩三孔拱桥，于1992年11月被纳入市级文物保护单位。福州市素有“榕城”之称，叶茂如盖、垂阴满地的榕树与星安桥古朴气息浑然一体，展现着千年闽都的风华。但星安桥两侧的榕树根系蔓延，深入拱桥侧壁，形成了“树抱桥、树压桥”危机，对石桥本体造成了实质性影响。\n2023年2月，福州市台江区检察院检察官经勘查现场发现，星安桥双侧壁附生的榕树树根大面积侵入桥体，桥西侧栏板已发生断裂，北段拱券存在坍塌危险，因“连拱效应”还可能引发全桥坍塌。经多次实地勘查、咨询文物专家、调取文物资料等全方位调查取证，台江区检察院确定了星安桥的管理使用单位、管理责任人，查明榕树树根已侵入古桥桥基，修缮工作迫在眉睫。2023年8月29日，该院向相关行政机关发出检察建议，督促其依法全面履行星安桥文物保护监管职责。\n跟进监督过程中，台江区检察院运用无人机拍摄星安桥全景影像，查明附生榕树尚未清除，根系环抱并覆盖桥体外观三分之一面积，出现分水尖塌陷、桥面条石错位、拱券变形等安全隐患，危害点总计约97处，全桥倒塌风险进一步加大。相关行政机关在收到检察建议后的两个多月里，未采取有效措施开展星安桥的修缮整改工作，桥体安全隐患仍在扩大。2023年11月，台江区检察院以该行政机关未依法履行星安桥文物保护和安全监管职责为由，向台江区法院提起行政公益诉讼。\n针对绿化植被与古建筑可否共生问题，台江区检察院一方面联合台江区法院“福州古厝与文化遗产保护巡回法庭”办案团队，积极协调行政机关先行对桥体采取临时性保护措施，防止古桥稳定性继续受损，并继续推进文物修缮方案报批、工程招投标等流程；另一方面多次组织相关行政机关以及古建筑专家、市民代表、“益心为公”志愿者等召开联席会议，倾听多方意见建议。绝大多数观点认为，尽管榕树在“榕城”市民心中有着不同的意义，但星安桥作为福州历史文化遗产的重要组成部分，具有不可替代的历史和人文价值，应尽快予以修缮、保护。最终，考虑到星安桥修缮价值显著大于榕树，且文物损毁不可逆，榕树清理移植后依然能够正常生长，各方达成了“以桥为主”的修缮共识。\n2024年1月，星安桥修缮工程设计方案经专家评审通过。该方案遵循“最小干预”原则，先围堰、清淤，再在桥下的河床底部搭设脚手架，在保护桥体稳定的基础上，人工砍除植入桥体的树枝，清理盘根错节的树干和树根，并修葺桥体疏松、开裂的位置，拆除桥身石板错位、松动的部分，重新砌筑桥身，夯实河床底部。同年4月，星安桥修缮工程正式启动。\n鉴于行政机关已实际履行了行政监管职责，社会公共利益已不再处于受损状态，2024年4月29日，台江区检察院向法院提交撤回起诉决定书，法院裁定准予撤诉。2024年6月21日，星安桥修缮工程通过竣工验收。2024年12月，该案入选最高人民法院、最高人民检察院联合发布的行政公益诉讼典型案例（第二批）。\n（整理：本报通讯员朱偲媛）\n【评析】 文物是宝贵的历史文化遗产，一旦损毁便不可再生。星安桥位于上下杭历史文化街区，是福州历史文化遗产的瑰宝，承载着千年闽都繁华商贸往来的记忆。面对文物保护修复的紧迫性，检察机关通过“诉”的确认体现司法价值引导，督促行政机关依法全面履职，让百年古桥重焕生机。提起行政公益诉讼后，检察机关凝聚各方合力破解难题，形成古桥保护共识，以司法匠心守护闽都文化源远流长，促进文物保护工作高质量发展。此案系福州市首例文物保护行政公益诉讼案件，主要有四方面办案经验值得总结。\n一是找准症结，压实文物保护主体责任。检察机关通过现场实地勘查、调取文物资料、无人机航拍等方式开展调查取证，全面、精准收集第一手线索和证据材料，充分证明石桥受损事实。针对行政机关整改无实质性进展问题，敢于通过“诉”的方式增强法律监督刚性，同时严格把握撤诉标准，督促相关行政机关依法履职，确保受损公益得到全面修复，有效激活行政机关文物保护主体意识。\n二是广纳建议，联席商议凝聚保护共识。办案过程中，检察机关充分运用检察智慧和监督智慧，与相关行政机关沟通协调，对古桥先行采取临时性保护措施，避免公益损害持续扩大，确保古桥结构的稳固性、来往行人的安全。针对绿化植被与古建筑可否共生的问题，通过组织召开联席会议、专家咨询等方式广纳意见建议，引导行政机关及当地群众根据专家意见从理性、客观、专业的角度思考，促成社会各界形成“以桥为主”的修缮共识。\n三是多方联动，寻求公益保护最优解。检察机关邀请“外脑”力量全程辅助办案，古文物专家、有专业背景的市民代表等参与线索评估、调查取证、联席会议等环节，提升办案的精准性、规范性，寻求古桥保护最优解。同时，检察机关开展全过程、跟进式监督，联合法院邀请省、市人大代表和政协委员现场视察，持续推进星安桥修缮工作，确保修缮工程遵循“最小干预”原则，延续古桥样貌的历史真实性和完整性。\n四是完善机制，健全文物管护长效举措。为进一步协调文物保护与园林绿化矛盾问题，法检两部门协同推动福州市政府制定出台了《福州市市级及以上文物保护单位本体范围及周边环境绿化管理工作导则》，明确细化不可移动文物本体保护范围周边环境绿化工作要求，建立健全文物保护修复规范体系，形成更加科学完备的文物保护工作规范，让这起行政公益诉讼案件有了更加圆满的结局。\n（点评人：福建省福州市台江区人民检察院检察官吴端升）\nVIP课程推荐\nAPP专享直播\n热门推荐\n收起24小时滚动播报最新的财经资讯和视频，更多粉丝福利扫描二维码关注（sinafinance）",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Environment",
+      "Arts, Culture and Entertainment"
+    ],
+    "topics": [
+      "Environment->conservation",
+      "Environment->nature",
+      "Arts, Culture and Entertainment->monument and heritage site",
+      "Arts, Culture and Entertainment->cultural development"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-03-13T01:18:02.198+02:00",
+    "updated": "2025-03-13T01:18:02.198+02:00"
+  },
+  {
+    "uuid": "3baab0796210b3d7a9e8ada0cb589cc44691f8ab",
+    "url": "https://www.ufes.br/conteudo/retrospectiva-ufes-conquista-nota-5-e-e-destaque-em-rankings-e-avaliacoes-de-ensino",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "thereza.marinho",
+    "published": "2023-12-28T22:31:00Z",
+    "title": "Retrospectiva: Ufes conquista nota 5 e é destaque em rankings e avaliações de ensino",
+    "text": "Retrospectiva: Ufes conquista nota 5 e é destaque em rankings e avaliações de ensino\n2023 está chegando ao fim e a Administração Central da Ufes celebra o encerramento de mais um ano de crescimento e conquistas, com a Universidade alcançando realizações importantes para o seu fortalecimento nas áreas de ensino, pesquisa e extensão.\n“Neste ano, a Ufes atingiu o conceito 5, que é a nota máxima de avaliação atribuída pelo Ministério da Educação (MEC), consolidando sua posição como uma das melhores universidades brasileiras”, lembra o reitor Paulo Vargas. A avaliação, cujo resultado foi divulgado em junho, foi realizada para o recredenciamento institucional da Universidade, e leva em conta 50 indicadores divididos em cinco eixos temáticos: planejamento e avaliação institucional; desenvolvimento institucional; políticas acadêmicas; políticas de gestão; e infraestrutura.\nAlcançar o conceito 5 foi, sem dúvida, um marco. Mas outras importantes conquistas se concretizaram na área de ensino ao longo de 2023. Conheça algumas delas:\nEnsino\nOnze cursos de graduação do campus de Goiabeiras avaliados pelo MEC em 2022\nreceberam os maiores conceitos (4 e 5) no Exame Nacional de Desempenho dos Estudantes (Enade). No resultado, divulgado em outubro, os cursos de Comunicação Social – Publicidade e Propaganda, Psicologia, Administração (matutino), Direito e Serviço Social receberam nota máxima, enquanto outras cinco graduações foram avaliadas com nota 4: Comunicação Social – Jornalismo, Administração (noturno), Ciências Contábeis (vespertino e noturno) e Ciências Econômicas.\nNa pós-graduação, a Ufes\ncelebrou a evolução de 27 programas de pós-graduação que tiveram sua nota elevada na avaliação da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (Capes) referente ao quadriênio 2017-2020. Os programas de Biotecnologia-Renorbio, Educação, e Política Social alcançaram a nota 6; Arquitetura e Urbanismo, Ciências Biológicas, Ciências Florestais, Educação Física, Genética e Melhoramentos, Linguística, e Matemática em Rede Nacional foram promovidos à nota 5; e os programas de Agroquímica; Artes; Bioquímica; Ciência e Tecnologia de Alimentos; Ciências Farmacêuticas; Ciências Veterinárias; Comunicação e Territorialidades; Direito Processual; Energia; Enfermagem; Engenharia Civil; Ensino, Educação Básica e Formação de Professores; Gestão Pública; Gestão e Regulação de Recursos Hídricos em Rede Nacional; Nutrição e Saúde; Mestrado Profissional em Educação; e Mestrado Profissional em Filosofia em Rede conquistaram a nota 4. Neste mês de dezembro, o Programa de Pós-Graduação em Física também teve seu conceito elevado de 4 para 5 pela Capes.\nEste ano, a Ufes também obteve autorização da Capes para oferecer mais quatro novos cursos de doutorado acadêmico em Artes, Farmácia, Bioquímica e Energia, além de um doutorado profissional em Educação. Em nível de mestrado, a Universidade teve aprovada sua inserção na rede nacional que oferece o Mestrado Profissional em Saúde da Família (ProfSaúde) e obteve aprovação da Capes para ofertar o curso de mestrado em Saúde Coletiva.\nOs resultados da excelência da Ufes se mostraram também nos rankings internacionais. No Times Higher Education (THE) divulgado este ano,\na Ufes alcançou o 12º lugar, sua melhor posição até agora entre as universidades brasileiras. Já no Ranking Universitário Folha (RUF) 2023, conquistou o 10º lugar geral entre as universidades federais.\n- 27 leituras",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "portuguese",
+    "sentiment": "positive",
+    "categories": [
+      "Education",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:23.430+02:00",
+    "updated": "2023-12-29T00:43:23.430+02:00"
+  },
+  {
+    "uuid": "d8d47c4a1a4ca2e48c17d19d157fe8b81e676af7",
+    "url": "https://en.minghui.org/html/articles/2023/12/24/213459.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dec ; A Minghui Correspondent; China",
+    "published": "2023-12-24T00:00:00Z",
+    "title": "Shandong Woman Sentenced to Seven Years for Practicing Falun Gong | Falun Dafa - Minghui.org",
+    "text": "(Minghui.org) A 59-year-old woman in Linshu County, Shandong Province, was sentenced to seven years on October 19, 2023, for practicing Falun Gong, a mind-body practice based on the principles of Truthfulness-Compassion-Forbearance. Ms. Li Xia, who was retired from the Linshu County Power Plant, was arrested at home on July 3, 2023, by Li Fangchun of the Linshu County [610 Office] and Qiu Feng, director of the Linshu County Domestic Security Office. The police later submitted her case to the Linshu County [Procuratorate]. The Linshu County Court heard Ms. Li’s case on October 19, 2023, and sentenced her to seven years. She was held at the Linyi City Detention Center following her arrest. It’s not clear if she has been transferred to a prison. Ever since the Chinese Communist Party began to persecute Falun Gong in 1999, Ms. Li has been repeatedly arrested for upholding her faith. She was arrested on November 30, 2007, while she was on her way home after work. Her electric motorcycle was impounded and her home was ransacked. The police raided Ms. Li’s home again in late October 2015 and arrested her at home on November 5, 2015. She was held at the Linyi City Detention Center until December 2, 2015. Copyright © 2023 Minghui.org. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Human Interest",
+      "Crime, Law and Justice"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "li’s",
+          "sentiment": "none"
+        },
+        {
+          "name": "qiu feng",
+          "sentiment": "none"
+        },
+        {
+          "name": "li fangchun",
+          "sentiment": "none"
+        },
+        {
+          "name": "li xia",
+          "sentiment": "none"
+        },
+        {
+          "name": "li",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "practicing falun gong | falun dafa - minghui.org",
+          "sentiment": "negative"
+        },
+        {
+          "name": "falun gong",
+          "sentiment": "none"
+        },
+        {
+          "name": "chinese communist party",
+          "sentiment": "none"
+        },
+        {
+          "name": "linshu county domestic security office",
+          "sentiment": "none"
+        },
+        {
+          "name": "linshu county court",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "linshu county",
+          "sentiment": "none"
+        },
+        {
+          "name": "shandong province",
+          "sentiment": "none"
+        },
+        {
+          "name": "shandong",
+          "sentiment": "none"
+        },
+        {
+          "name": "linshu county power plant",
+          "sentiment": "none"
+        },
+        {
+          "name": "linyi city detention center",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-24T07:37:18.899+02:00",
+    "updated": "2023-12-24T07:37:18.899+02:00"
+  },
+  {
+    "uuid": "539dc9f7fc869badb80c766c7435e9178a23c0d2",
+    "url": "https://www.baytoday.ca/national-sports/abby-stonehouse-leads-canada-past-czechia-at-world-womens-under-18-hockey-event-8068123",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Canadian Press",
+    "published": "2024-01-07T22:05:00Z",
+    "title": "Abby Stonehouse leads Canada past Czechia at world women's under-18 hockey event",
+    "text": "ZUG, Switzerland — Abby Stonehouse scored two short-handed goals and added three assists to lead Canada past Czechia 8-1 on Sunday at the world under-18 women's hockey championship. Stonehouse score twice in the second period for Canada (2-0), which opened the tournament Saturday with an 11-0 victory over Germany. Morgan Jackson and Caitlin Kraemer (two apiece), Emma Venusio and Mackenzie Alexander had the other goals. Aneta Paroubkova replied for Czechia (0-2). Kraemer had two goals Saturday to become Canada's national women's under-18 all-time leading goal scorer with 17. Kraemer opened the scoring with a short-handed goal at 12:28 of the first. But Canada broke the game open in the second, outscoring Czechia 4-1 in the period. Stonehouse put Canada ahead 2-0 at 1:43 before scoring her second of the period at 8:20. Venusio made it 4-0 with the man advantage at 16:15 before Paroubkova scored at 17:38. But Jackson countered at 19:27 to give the Canadians a four-goal advantage. Jackson added her second of the game at 7:47 of the third. Kraemer and Alexander scored at 10:39 and 15:55, respectively, to round out the scoring. This report by The Canadian Press was first published Jan. 7, 2024. The Canadian Press",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "abby stonehouse",
+          "sentiment": "negative"
+        },
+        {
+          "name": "mackenzie alexander",
+          "sentiment": "none"
+        },
+        {
+          "name": "stonehouse",
+          "sentiment": "none"
+        },
+        {
+          "name": "alexander",
+          "sentiment": "none"
+        },
+        {
+          "name": "paroubkova",
+          "sentiment": "none"
+        },
+        {
+          "name": "venusio",
+          "sentiment": "none"
+        },
+        {
+          "name": "morgan jackson",
+          "sentiment": "none"
+        },
+        {
+          "name": "caitlin kraemer",
+          "sentiment": "none"
+        },
+        {
+          "name": "aneta paroubkova",
+          "sentiment": "none"
+        },
+        {
+          "name": "jackson",
+          "sentiment": "none"
+        },
+        {
+          "name": "kraemer",
+          "sentiment": "none"
+        },
+        {
+          "name": "emma venusio",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "czechia",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "canada",
+          "sentiment": "none"
+        },
+        {
+          "name": "czechia",
+          "sentiment": "none"
+        },
+        {
+          "name": "zug",
+          "sentiment": "none"
+        },
+        {
+          "name": "switzerland",
+          "sentiment": "none"
+        },
+        {
+          "name": "germany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-08T00:13:44.313+02:00",
+    "updated": "2024-01-08T01:10:30.410+02:00"
+  },
+  {
+    "uuid": "dce2c136e30a6767e36386ba358934a17e0010dd",
+    "url": "https://www.hotnewhiphop.com/750725-yung-bleu-moon-boy-university-influencers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Caroline Fisher",
+    "published": "2024-01-05T21:53:00Z",
+    "title": "Yung Bleu’s Moon Boy University To Offer Services To Influencers",
+    "text": "Last year, Yung Bleu announced plans to open Moon Boy University in Atlanta, a 24,000-square-foot facility offering services to every type of creative. Reportedly, he's invested $3 million in the project, which will assist artists and influencers alike with marketing, distribution, management, and more. Now, the Alabama-born performer has finally announced that he's ready to open its doors next month, with\n[admission packages ranging from $1.5K to $10K.](/750048-boosie-badazz-yung-bleu-moon-boy)\n“Many influencers have a great following, but sometimes we lack the resources to create a professional production,” he explains in a press release. “Professional production costs. They have amazing ideas, [and] we come in on the content development side to where okay, you got the following. You got ideas, you just need to have the backing. We’ll shoot whatever you want to do. Let’s come up with cool ideas with our creative and marketing team, and actually produce.”\nRead More:\n[Boosie Badazz Tells Story Of Confronting Yung Bleu For $30k](/732956-boosie-badazz-yung-bleu-tq-new-interview-hip-hop-news)\nMoon Boy University Opens Next Month\n“You’re not giving in to what the major label would want,\" he adds. \"On the other side, another agency will connect you to stuff, but they’re not really touchable. Not only do we have branding, but we have a hub to where you can come down and meet with our team in person. All other creators.\n[Our team is tangible and touchable, that’s what sets us apart.](/435274-yung-bleu-builds-moon-boy-university-with-a-studio-conference-rooms-classes-news)” In addition to the money he's already invested in Moon Boy University, Yung Bleu has pledged another $1 million over the next two years on content production.\nHe gives fans a mini-tour in a short clip, unveiling the huge facility. It boasts a basketball court, a pool, a sauna, a theater, a gym, and more. \"Watch how we take this Moon Boy Brand global I also wanna make this space available for artist creators to book and get a cr*zy vibe while y’all being creative ! Something I wish they had at most studios,\" he says.\n[\"STAY TUNED.”](/705554-yung-bleu-net-worth) What do you think of Yung Bleu's Moon Boy University? What about him offering services to influencers? Share your thoughts in the comments section down below, and keep an eye on HNHH for more updates.\nRead More: Y\n[ung Bleu Battery Arrest: Singer Maintains His Innocence, Says He \"Cherishes Women\"](/726264-yung-bleu-battery-arrest-statement-innocent)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "yung bleu",
+          "sentiment": "negative"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "yung bleu",
+          "sentiment": "negative"
+        },
+        {
+          "name": "moon boy university",
+          "sentiment": "negative"
+        }
+      ],
+      "locations": [
+        {
+          "name": "atlanta",
+          "sentiment": "none"
+        },
+        {
+          "name": "alabama",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:33:12.892+02:00",
+    "updated": "2024-01-06T00:33:12.892+02:00"
+  },
+  {
+    "uuid": "7b42414b5719605cc7c103ac75067a716bfb72d5",
+    "url": "https://www.gulf-times.com/article/675810/sports/iraq-stun-japan-to-bolster-title-contender-status",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sahan Bidappa",
+    "published": "2024-01-19T18:17:00Z",
+    "title": "Iraq stun Japan to bolster title contender status",
+    "text": "Iraq coach Jesus Casas wasn’t just making empty statements when he declared, on the eve of the Asian Cup, that his team was a genuine contender for the title. And the Lions of Mesopotamia made a roaring statement to back their coach’s claim as they stunned tournament favourites Japan 2-1 and qualified for the knockout stage at the Education City Stadium on Friday.\nAymen Hussein with two first-half headers was the hero for Iraq, who condemned four-time champions Japan to a first Asian Cup group-stage defeat in 26 matches. It was also Iraq’s first victory over Japan in 42 years, with the Blue Samurai unbeaten against the West Asian side in their last nine games.\nWhile a victory or draw over Vietnam would ensure Iraq top Group D, Hajime Moriyasu’s Japan have three points and need at least a draw against Indonesia in the final match to progress into the last 16. Indonesia too have three points after posting a 1-0 win over Vietnam in the other game on Friday.\nWhile Casas called his team’s performance ‘close to perfect’ the 38,000 partisan Iraqi crowd rose to their feet in approval as the West Asian side showed remarkable physicality and composure on the ball to frustrate the Japanese.\nIraq – ranked 63 in the world to Japan’s 17 – were rarely intimidated by their rivals, who went into the game on the back of a 10-game winning streak in which they had scored 43 goals. Moriyasu also had overseen his side beat European heavyweights Spain and Germany to reach the last 16 of the 2022 Qatar World Cup.\nJapan failed to break Iraq’s resolve until the third of eight minutes of stoppage time when Liverpool’s Wataru Endo headed in to reduce the deficit. But they ran out of time as Iraq held on resolutely for a famous win.\n“Today is a great day for Iraqi people but for us it’s just a win. We have six points, but the players must now think of Vietnam (in the last group game) and they need to rest,” Casas said.\n“I’m very proud of my players. All Iraqi players should be proud...The perfect match is impossible, but we were close to the perfect match I wanted.”\nIraq had overcome tremendous odds to emerge Asian champions in 2007, but since then their best performance has been a semi-final finish in 2015. But Casas – who took charge in November 2022 on a four-year contract – has carefully reshaped the squad with the Spaniard’s ultimate aim is to guide Iraq to 2026 World Cup qualification.\nCasas, a 49-year-old former assistant coach of Spain under Luis Enrique, guided Iraq to its first Gulf Cup title in 35 years after having been in charge for just two months. Iraq Football Federation’s decision to include expatriate players into the team has also paid dividends with Casas having handed debuts to players based in Sweden, Denmark and Germany. While Japan were too slow to start, Iraq hit the ground running straight away and had their first chance in the fourth minute with Ali Jasim’s long range effort palmed away by goalkeeper Zion Suzuki.\nBut they did not had to wait for long as Suzuki failed to handle a cross, inadvertently parrying the ball to Hussein, who skillfully headed it into the top corner.\nWhile Japan players, who primarily ply their trade in big European leagues, settled into the game and used their speed on the wings, they could not breach Iraq’s defence. And a second goal from Iraq just before half-time deflated them further. Ahmed al-Hajjaj delivered a cross that Hussein converted perfectly from point-blank range.\nWhile Hussein did not take the field in the second half after sustaining an injury before the break, his teammates kept the Japanese at bay. They also breathed a sigh of relief when the referee overturned his initial decision to award a penalty to Japan after a VAR check. In the second half, Moriyasu made five substitutions yet the Samurai Blue struggled to test the Iraqi goalkeeper until the 94th minute when Endo finally scored with a header from a corner. The match’s final moments were tense as Japan desperately sought an equaliser, but Iraq managed to hold on.\n“The atmosphere was like an away game and conceding early hurt us,” said Moriyasu. “Conceding at the end of the first half hit us hard and made it a very difficult game. We need to learn from our mistakes. We analysed before the game and knew how Iraq would play at the start, they did play very aggressively. Unfortunately we couldn’t handle it, I know we need to do more.”\nWhile the result in its entirety is not disastrous for Japan. But a second-place finish in the group could set them on a potential collision course with South Korea in the last 16.\n[Sports](/sports)\nIraq stun Japan to bolster title contender status\nHussein’s double strike in first half seals 2-1 win, ends Iraq’s 42-year wait for a victory over Japan\nIraq coach Jesus Casas Garcia reacts during the match on Friday.\nIraq’s Ayman Hussein (also below) scores their second goal against Japan during their Asian Cup match at Education City Stadium on Friday. (Reuters)\nIraq players celebrate in front of their fans after the match. (Reuters)\nIraq's forward Aymen Hussein celebrates after scoring during the Asian Cup Group D match against Japan at the Education City Stadium on Friday. (AFP)\nDejected Japan’s players at the end of the match on Friday. (AFP)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Sport",
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jesus casas",
+          "sentiment": "negative"
+        },
+        {
+          "name": "hajime moriyasu",
+          "sentiment": "none"
+        },
+        {
+          "name": "casas",
+          "sentiment": "none"
+        },
+        {
+          "name": "aymen hussein",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "blue samurai",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "japan",
+          "sentiment": "none"
+        },
+        {
+          "name": "iraq",
+          "sentiment": "none"
+        },
+        {
+          "name": "mesopotamia",
+          "sentiment": "none"
+        },
+        {
+          "name": "vietnam",
+          "sentiment": "none"
+        },
+        {
+          "name": "education city stadium",
+          "sentiment": "none"
+        },
+        {
+          "name": "indonesia",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-20T00:01:33.889+02:00",
+    "updated": "2024-01-20T00:01:33.889+02:00"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "uuid": "6d5aab23b42d61fe92f6048bd1339f3893a7b60a",
+    "url": "https://36kr.com/p/3402339665234312",
+    "ord_in_thread": 0,
+    "author": "未来一氪",
+    "published": "2025-07-31T05:00:00Z",
+    "title": "对话阿里巴巴智能终端业务负责人宋刚：AI眼镜进化论，一场生态、续航的攻坚战-36氪",
+    "text": "WAIC 2025阿里推夸克AI眼镜，强调用户粘性及生态技术整合。\n当大模型从技术奇点跃迁为产业基座，当智能体从实验室走进产线诊室，人工智能的第三次浪潮正以前所未有的锐度重构全球经济肌理。\n中国在这场变革中展现出双重禀赋：既是拥有超大规模应用场景的试炼场，又在芯片突围、算法开源等深水区发起攻坚。从单点技术破壁到生态级创新，从效率工具到新质生产力引擎，一条具有东方特色的AI发展路径正加速浮现。\n7月26日，世界人工智能大会（WAIC 2025）以“智能时代 同球共济”为主题，汇聚了来自AI领域的科技巨头、学术先锋与政策制定者，而这场覆盖技术、伦理、艺术的超级盛宴，昭示着AI已从“产业变量”进化为“文明常量”。\n在这场关于人工智能产业的盛会上，36氪不仅作为产业观察者，更以产业连接者的角色深度参与，在展馆中搭建了“氪星直播间”，以对话的形式，揭秘人工智能产业进阶的底层逻辑。\n在对谈中，阿里巴巴智能终端业务负责人宋刚表示：未来，决定 AI眼镜市场格局的关键指标体是用户粘性，即用户活跃度与用户时长。阿里眼镜的目标打造一副好戴好用的超级眼镜，并最终成为用户在AI时代的个人移动入口。\n以下为对谈实录，经36氪编辑：\n36kr：先请您简单介绍一下自己和贵公司的基本情况，来此次waic的感受如何，有什么样的收获？\nA：我是来自阿里巴巴智能信息事业群智能终端业务的宋刚，我们的团队一直专注于智能终端硬件的设计、研发和生产销售，比如哇哦闺蜜机、智能音箱，以及此次在 WAIC 上亮相的夸克 AI 眼镜。非常高兴能够参加本次大会，和来自海内外的国际专家、行业伙伴共同探讨如何用 AI 赋能生活，为消费者带去更多具有科技感的人工智能产品。\n36kr：当前AI眼镜产品存在场景鸡肋、续航短板、佩戴不适三大痛点，阿里眼镜如何实现性能、功耗、舒适性的三角平衡？有哪些独家的工程学创新？\nA：在场景方面，我们将夸克 AI 眼镜打造成一个“真正意义上的AI 随身入口”，通过“阿里巴巴自有生态构建+行业拓展合作”满足用户的更多场景需求。\n我们还联合集团内部的生态，构建起了覆盖搜索、导航、支付、个人出行和商旅出行等垂直场景的AI能力矩阵，让 AI 更好地服务用户的生活。\n在解决现阶段 AI 眼镜续航能力不足的方面，夸克 AI 眼镜采用双芯双系统设计，通过高性能芯片与低功耗蓝牙芯片双芯片智能调度来优化电池使用；在工程方面我们也进行了创新，采用双电池+换电设计，通过热插拔镜腿让用户快速更换主电池；搭配一个可随身携带的-耳机盒大小的换电仓，可以实现24小时续航，全天候使用。\n为了提升用户的佩戴舒适感，我们眼镜鼻托和耳弯接触面采用了仿生曲面设计，实现压力均匀分布；同时将设备重心精准控制在眼镜几何中心位置，实现了佩戴时的最佳平衡感；而且我们还采用钛合金一体注塑成型镜腿，结合弹性棘轮转轴设计，在保证轻量化的同时，实现运动场景下的结构包裹稳定。\n综上，夸克 AI 眼镜通过系统深度定制裁剪优化，通过深度自研与产业器件定制能力，达成了三角平衡。\n在整机架构方面，通过定制研发双音圈大振膜小型化的扬声器、设计超窄一体化FPC，运用高折射率镜片加镀膜工艺，进一步缩小波导区域光栅面积，使得我们的哇哦眼镜镜腿更细、镜框更窄更薄、镜片看起来更通透；\n在穿戴方面，通过鼻托和耳弯接触面采用了仿生曲面设计，实现压力均匀分布；同时将设备重心精准控制在眼镜几何中心位置，实现了佩戴时的最佳平衡感；而且我们还采用钛合金一体注塑成型镜腿，结合弹性棘轮转轴设计，在保证轻量化的同时，实现运动场景下的结构包裹稳定；\n在电子架构方面：采用了双电池与换电设计，通过热插拔镜腿让用户快速更换主电池；搭配一个可随身携带的 耳机盒大小的换电仓，可以实现24小时续航，全天候使用。\n在系统OS方面，搭配安卓加RTOS双系统实现动态资源调度，既大幅提升了重载场景下的能效，又有效降低了待机场景下的功耗。\n在影像系统方面，我们自主研发了Super Raw暗光处理算法，通过RAW域多帧融合与自适应降噪，有效地抑制了暗光下的噪声，显著提升了图像信噪比。\n36kr：眼镜整合了阿里的服务生态，在您看来，哪一类场景能成为用户每日刚需？这类场景需要突破哪些技术壁垒？\nA：我们认为通过AI技术能力与服务，渗透到用户的衣食住行相关生活需求场景都可能成为用户刚需。阿里生态场景可以很好地赋能这些消费者刚需场景，比如各种信息提醒（日程、信息提醒）是高频生活场景，我们通过和飞猪的合作，可以实现航班信息提醒。\n通过AI眼镜实现免掏手机就能安全又快捷地支付，特别是在各种解放双手的场景，AI 眼镜能给用户带来便利，如行进当中的扫码支付、户外徒步拍摄等，在跨语言沟通的场景，翻译、同声传译等功能也很重要。\n针对工作学习需要提效的场景，AI 眼镜的如会议记录、百科问答等功能也能帮助用户提升效率。\n需要突破的技术壁垒一是AI的感知与理解能力，包括语音、图像识别，语义理解、意图判断等多个方面，这中间需要强大的 AI 中控能力加持，合理拆解任务并调用不同生态服务，之后才能真正实现“听得清、看得懂、理解准、答得好”，才会形成更好的用户粘性。\n二是端云协同能力，眼镜端需在低功耗下完成响应，云端需对接不同生态伙伴的云端 AI 服务完成信息处理，两端要在不同网络条件下协作响应，实现既快又准的体验闭环。\n阿里的优势就在于，我们既有多模态AI能力，又掌握服务生态与系统能力，可以把这些技术打穿到真实场景中，让AI眼镜真正“用得上、用得顺、离不开”。\n36kr：在面对行业竞争时，阿里眼镜的核心壁垒是什么？您认为AI眼镜行业未来3年将因哪项技术突破将会彻底爆发？\nA：基于阿里自研大模型创新的 AI 应用，联合内外部生态整合能力，以及基于自研的软硬件能力构建的技术创新，构成了阿里做夸克 AI 眼镜的核心壁垒。\n技术突破点包含三个，分别是硬件、AI 能力以及生态。硬件方面，在近眼显示、拍照、感知能力等多个方面提升，同时，实现外观小型化也是关键因素。\n人因穿戴：高集成柔性电路板，高容量高密度电池，下一代创新复合材料构建小型化极致穿戴。\n近眼显示：技术突破小型化双光机双目显示，推进显示功耗、轻薄化等行业痛点的改善落地\n声学音频：开放式声学系统结合用户环境的自适应与个性化服务提升。\n拍摄感知：摄像头传感器、计算能力与影像｜感知算法融合提升，革新影像与视觉感知能力\nAI 能力：AI眼镜要实现真正的“智能化”，除了强大的语音识别能力，更在于理解和决策能力的全面进化。\n先进语音识别与理解： 在嘈杂环境下的高精度语音识别（降噪、分离）、支持口语化和轻声交互、支持多语种实时翻译、低延迟响应。\n多模态对话理解能力：基于语音、文本、视觉的多模态对话理解能力，能更准确地理解用户的交互意图，让用户从“操作指令”转向“一句话直接表达需求”；第一视角的视觉多模态理解，能听也能看，体验更自然；\n超级智能体： AI眼镜可能成为用户最贴身的数字助理，不仅能回答问题、执行命令，还能处理复杂事务（超级智能体），理解用户的长期目标和价值观。\n端云协同推理能力：AI模型要在轻量化、低功耗的端侧快速运行，同时结合云端大模型能力实现高精度复杂任务推理。二者需在不同网络和算力条件下自适应切换，确保体验稳定、反应即时。\n连续学习与个性化：模型需具备持续学习用户习惯和语境的能力，从而构建更加贴合个人的服务体系，实现从“通用AI”到“专属AI”的演进，真正成为个人的随身智能助理。\nAI内容生态：AI眼镜的使用频次和黏性，最终依赖于围绕它建立起的内容与服务生态。我们综合了全行业的主要内容生态，从各种维度提供融合内容服务。\n从被动获取到主动推荐：在内容和信息服务的供给方式上，基于用户当前所处场景和历史行为偏好，主动推送有价值的信息、服务与行动路径，真正实现“想用户所想”。\n与生态深度打通：在生态内容的广度上，从现在的搜索、导航、支付、个人出行和商旅出行等核心场景服务不断拓展到日常出行、购物、学习、工作等更多场景，让用户戴上眼镜就能打通从“感知”到“行动”的完整闭环。\n垂类知识与服务的深度融合：在生态内容的深度上，通过与垂直行业内容体系结合（如旅游、教育、商业等），构建高质量、结构化、可理解的AI内容源，让AI眼镜具备长期留存和复购的内容价值。\n第三方内容服务生态：支持第三方内容与能力接入，推动内容与服务开发者共建 AI 眼镜的新生态，使AI眼镜成为一个可生长的智能平台。\n36kr：在AI眼镜彻底爆发后。您认为决定市场格局的终极指标是什么？阿里眼镜的目标是什么？\nA：我们认为， 决定 AI眼镜市场格局的关键指标体是用户粘性，即用户活跃度与用户时长。而决定用户粘性主要有：\n1、 持续为用户解决问题提供价值：有优秀的整机软硬基础体验，快速、准确地响应用户的需求，甚至预测需求；设备能够全天候多场景使用；有丰富实用的应用和内容生态：多样化的 AI 原生服务，能覆盖用户日常衣食住行等各个方面；强大的多模态理解与调度能力，能更好理解用户意图，快速准确地提供各类 AI 服务。\n2、 持续产品市场渗透与增长力：丰富多元产品矩阵，通过“高端显示+主流拍摄”产品组合入局AI眼镜赛道，以高端树立品牌心智，以主流覆盖大众市场，形成“高端标杆+规模增长”的协同效应；完善销售服务体验：为用户提供眼镜行业专业，全面的验光配镜、加工制造与视力数据服务。\n阿里眼镜的目标打造一副好戴好用的超级眼镜，并最终成为用户在AI时代的个人移动入口。\n36kr：展望未来3-5年，在AI驱动下，您认为您所在的行业将发生哪些最具变革性的重构？这种重构对产业竞争的关键影响会体现在哪里？贵司如何提前布局？\nA：AI眼镜拥有眼镜消费品、AI创新科技品和数码电子品的三重属性，所以核心变革预期主要有：\n1、在眼镜方面：与眼镜品牌在技术、渠道、服务以及C2M定制能力的整合，推动眼镜产业价值链变革；\n2、在消费电子方面：构建深度自研软硬件开发能力，联合上游核心供应链（如光学、芯片、传感器等），打造一套融合AI多模态感知能力的全新自然交互方式，推动人机交互方式的变革。\n3、 在AI 生态方面：从有限的 AI 服务场景，到多元化服务场景；从用户选择 AI 服务，到 AI 主动感知理解用户意图、主动推荐 AI 服务。推动 AI 应用内容生态的变革。\n我们将联合全球领先的眼镜品牌，融合通义千问大模型与夸克 AI 应用能力，构建能听会看的智能交互体验。通过“阿里巴巴自有生态构建+行业拓展合作”双轮驱动，构建覆盖搜索、导航、支付、商旅等高频场景的 AI 服务矩阵，并不断拓展更多可落地的生态服务，重构人与信息的连接方式，加速整个生态的发展。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific innovation",
+      "Economy, Business and Finance->computing and information technology",
+      "Economy, Business and Finance->financial and economic news",
+      "Economy, Business and Finance->business strategy and marketing"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://img.36krcdn.com/hsossms/20250731/v2_f524167af2e9440cb2b8b910f8e002ad@5868219_oswg5051553oswg6000oswg4000_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "https://img.36krcdn.com/hsossms/20250731/v2_c58b0ba20d984c80870b58e7cbc02aa4@5868219_oswg220484oswg1920oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "https://www.img.36krcdn.com/hsossms/20250731/v2_f524167af2e9440cb2b8b910f8e002ad@5868219_oswg5051553oswg6000oswg4000_img_jpg?x-oss-process=image/quality,q_80/format,jpg/interlace,1",
+      "https://img.36krcdn.com/hsossms/20250731/v2_c58b0ba20d984c80870b58e7cbc02aa4@5868219_oswg220484oswg1920oswg1280_img_jpg",
+      "https://img.36krcdn.com/hsossms/20250731/v2_f524167af2e9440cb2b8b910f8e002ad@5868219_oswg5051553oswg6000oswg4000_img_jpg",
+      "https://www.img.36krcdn.com/hsossms/20250731/v2_c58b0ba20d984c80870b58e7cbc02aa4@5868219_oswg220484oswg1920oswg1280_img_jpg?x-oss-process=image/quality,q_100/format,jpg/interlace,1"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:00:27.168+03:00",
+    "updated": "2025-07-31T08:04:56.000+03:00"
+  },
+  {
+    "uuid": "da7fb75a624ee23e43dbb56669831c5db8705a4e",
+    "url": "https://www.odt.co.nz/star-news/star-christchurch/planter-box-workshops-about-turning-trash-treasure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@odtnews",
+    "published": "2024-07-04T12:19:00Z",
+    "title": "Planter box workshops about turning trash into treasure",
+    "text": "You are not permitted to download, save or email this image. Visit [image gallery](/image_purchases) to purchase the image. Sustainable community organisation, The Green Lab, has been running free workshops, converting old aluminium signs into planter boxes. Lab director Bridget Allen was inspired to tackle the recycling initiative after she noticed perfectly good signs being thrown away. The Green Lab is involved with a range of greening and growing projects around the city. It was first formed after the earthquakes, with the aim of bringing outdoor spaces back to life. Workshops to construct the recycled planter boxes are held at the Philipstown Community Hub, an accessible shared space for residents. Allen hopes the workshops will teach people new skills, and inspire them to set up growing projects in their own backyard. \"If you've got, say, a small apartment and you might only have a balcony, you can still grow some plants. Also a lot of planter boxes are used around when you're unsure of the soil as well and maybe there's contaminants in the soil.\" She's keen to engage with the community and is also working with the likes of Climate Action Campus and the Avon Hub. Volunteers can either take the planter boxes for a small donation, or leave them to be used in future community growing projects. Allen aims to broaden the scope of the workshops in the future and is looking for more items they can recycle. - By Emily O'Hagan, made with the support of NZ On Air",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Environment"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "bridget allen",
+          "sentiment": "none"
+        },
+        {
+          "name": "allen",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "green lab",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "philipstown community hub",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-05T04:22:48.781+03:00",
+    "updated": "2024-07-05T04:39:52.195+03:00"
+  },
+  {
+    "uuid": "29c04afd686a4a4d2bad3dbc84758202aa18aa85",
+    "url": "https://abc17news.com/cnn-opinion/2024/06/06/opinion-a-huge-boon-for-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNN Newsource",
+    "published": "2024-06-06T21:53:00Z",
+    "title": "Opinion: A huge boon for Trump",
+    "text": "Opinion by Julian Zelizer, CNN\n(CNN) — While former President Donald Trump was convicted by a Manhattan jury on 34 charges of falsifying business records last week, the remaining three criminal cases against him are unlikely to be resolved before Election Day — a huge boon for Trump’s political future.\nJudge Aileen Cannon, a Trump appointee who is presiding over the classified documents case in Florida, has made it much less likely that a decision in that case will be reached before November 5.\nIn a series of unusual moves , Cannon has allowed third-party groups unaffiliated with the case to argue in court, delayed some hearings without setting a new date, and scheduled additional ones, including one regarding a gag order request to limit Trump’s rhetoric about law enforcement. She also allotted more time to hear arguments about Trump’s request to declare special counsel Jack Smith’s appointment invalid.\nTrump also scored a huge victory this week with the election subversion case in Georgia put on hold until a panel of judges rules on whether to disqualify Fulton County District Attorney Fani Willis because of her relationship with Special Prosecutor Nathan Wade.\nThere have also been serious delays in the federal election interference case, as the Supreme Court still has to make a decision about Trump’s claims of presidential immunity. The trial date can’t be set by Judge Tanya Chutkan until after SCOTUS reaches a decision, and the court’s decision might leave room for further delays .\nThis would be hugely beneficial for Trump. While a delay takes away the chance that Trump might vindicated with a finding of innocence, it also means he won’t have to contend with the blowback from another potential conviction. Instead, delays allow Trump to continue railing against the justice system while maintaining the status quo, which keeps him ahead in most swing states.\nOf course, without verdicts in the remaining three cases, voters will have less definitive information on which to base their decisions come November. And if Trump is elected again, he could use his presidential powers to pardon himself — at least in the federal cases.\nAlthough many observers believe the New York hush money case was the least serious of all the criminal cases against Trump, the jury’s decision struck a nerve. Republicans were quick to rally around the president, but early polls show that his conviction for falsifying business records might have made a dent in his political standing. According to a New York Times/Siena College poll , Trump’s three-point lead over Biden before the verdict fell to just one point after the conviction.\nWhile these numbers are not hugely significant, small shifts in the electorate could be pivotal in the handful of swing states where the election will be decided. Should courts reach guilty verdicts in the federal election interference or classified documents cases, the political reverberations, particularly among moderate and independent voters, could be even more consequential .\nBut accountability has proven extremely difficult to achieve in the era of Trump. Congress was unable to fulfill this goal through impeachment, as Republicans created a firewall around him. News outlets have struggled to push back against the deluge of Trump’s lies and misleading claims. While the House select committee made a convincing case, compiling testimony and evidence accusing Trump of trying to overturn the election on January 6, 2021, it was not immune to partisan mudslinging. After Trump’s presidency, the courts have offered the best and last hope.\nFor now, it seems that accountability will have to wait, as the remaining three criminal cases against Trump will likely remain in limbo until long after November 5.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Politics"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.cnn.com/2024/06/04/politics/cannon-trump-special-counsel-hearing/index.html",
+      "https://www.cnn.com/2024/06/05/politics/georgia-trump-fani-willis-trial-delay/index.html",
+      "https://www.justsecurity.org/95568/what-happens-after-supreme-court-rejects-trumps-absolute-immunity-mapping-3-scenarios/",
+      "https://www.nytimes.com/2024/06/05/upshot/polling-trump-conviction-voters.html",
+      "https://www.justsecurity.org/95568/what-happens-after-supreme-court-rejects-trumps-absolute-immunity-mapping-3-scenarios",
+      "https://justsecurity.org/95568/what-happens-after-supreme-court-rejects-trumps-absolute-immunity-mapping-3-scenarios/",
+      "https://nytimes.com/2024/06/05/upshot/polling-trump-conviction-voters.html",
+      "https://cnn.com/2024/06/05/politics/georgia-trump-fani-willis-trial-delay/index.html",
+      "https://cnn.com/2024/06/04/politics/cannon-trump-special-counsel-hearing/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "julian zelizer",
+          "sentiment": "negative"
+        },
+        {
+          "name": "donald trump",
+          "sentiment": "negative"
+        },
+        {
+          "name": "jack smith",
+          "sentiment": "none"
+        },
+        {
+          "name": "aileen cannon",
+          "sentiment": "none"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "cnn",
+          "sentiment": "negative"
+        },
+        {
+          "name": "trump opinion",
+          "sentiment": "negative"
+        },
+        {
+          "name": "trump",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "fulton county",
+          "sentiment": "none"
+        },
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "florida",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-06-07T02:03:49.856+03:00",
+    "updated": "2024-06-07T02:03:49.856+03:00"
+  },
+  {
+    "uuid": "7b00699a87a70db34c03d065046e2857c10edbba",
+    "url": "https://www.vozdeamerica.com/a/surge-pol%C3%A9mica-en-nueva-york-por-misa-a-activista-transg%C3%A9nero/7500386.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ángela González",
+    "published": "2024-02-23T21:50:00Z",
+    "title": "Surge polémica en Nueva York por misa a activista transgénero",
+    "text": "Era un evento que debió marcar un hito, cuando la Catedral de San Patricio la dio la bienvenida a la comunidad transgénero en un recinto sagrado e icónico. Sin embargo, durante el funeral de la activista transgénero Cecilia Gentili, quien se había declarado atea y era conocida por su trabajo por las personas con VIH y trabajadoras sexuales, se pronunciaron blasfemias en el púlpito… lo que obligó a cancelar la misa, según la iglesia.\n“El Cardenal se está escudando en que es atea pero está rechazando, porque alguien comentó que había mucha mujer trans, que había prostitutas en la iglesia y si nos vamos y nos remontamos si Cristo perdonó a María Magdalena por ser una prostituta, ¿por qué la iglesia, que son descendencia de Cristo, no va a aceptar? además era una misa únicamente”, dijo Laura Martínez, Activista LGBTQ.\nLa polémica ha crecido y algunas organizaciones de la comunidad transgénero han convocado a protestas y junto con la familia de Gentili exigen una disculpa pública por parte de la Iglesia. Argumentan rechazo a las personas transgénero. La arquidiócesis de Nueva York celebró una misa de reparación y emitió el siguiente comunicado:\n“La Catedral sólo sabía que familiares y amigos estaban solicitando una misa fúnebre para un católico, y no tenía idea de que nuestra bienvenida y oración serían degradadas de una manera tan sacrílega y engañosa”.\nLaura Martínez, mujer transgénero y activista LGBTQ, dice llevar 20 años en la lucha por aceptación de la Iglesia católica y celebró cuando a finales del mes de enero, el Papa Francisco se pronunció sobre la bendición a miembros de esta comunidad.\n''La intención de las bendiciones pastorales y espontáneas es mostrar concretamente la cercanía del Señor y de la Iglesia a todos aquellos que, encontrándose en situaciones diferentes, piden ayuda para continuar, a veces para iniciar, un camino de fe.\", declaró el sumo pontífice de la Iglesia católica.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-24T00:13:03.809+02:00",
+    "updated": "2024-02-24T00:13:03.809+02:00"
+  }
+]

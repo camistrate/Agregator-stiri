@@ -1,0 +1,558 @@
+[
+  {
+    "uuid": "57314a9b80218b341d08d1662a600e1e8db6cc8f",
+    "url": "https://gigazine.net/news/20241122-openai-erases-evidence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GIGAZINE",
+    "published": "2024-11-22T03:46:00Z",
+    "title": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす",
+    "text": "OpenAIが著作権訴訟の証拠データを誤って消去していたことを明かす\nOpenAIは、「生成AIモデルのトレーニングにコンテンツを利用した」と主張するアメリカの大手日刊紙「[ニューヨーク・タイムズ](https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA)」による著作権侵害に関する訴訟に直面しています。しかし2024年11月20日にOpenAIが裁判所に提出した書類の中でOpenAIは、この裁判に関する証拠のデータを誤ってすべて消去してしまったことを明かしています。\ngov.uscourts.nysd.612697.328.1.pdf\n(PDFファイル)[https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf](https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf)\ngov.uscourts.nysd.612697.210.2.pdf\n(PDFファイル)[https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf](https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf)\nOpenAI accidentally deleted potential evidence in NY Times copyright lawsuit | TechCrunch\n[https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/](https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/)\nOpenAI accidentally erases potential evidence in training data lawsuit - The Verge\n[https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit](https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit)\nニューヨーク・タイムズは2023年12月に「ChatGPTやCopilotといった生成AIのベースとなる大規模言語モデルはニューヨーク・タイムズのコンテンツをトレーニングに利用しており、ニューヨーク・タイムズの表現スタイルを模倣した出力が可能になり、ニューヨーク・タイムズと直接競合するコンテンツを生み出すようになっている」「この結果ニューヨーク・タイムズのと読者の関係が損なわれ、購読料・ライセンス料・広告収益・アフィリエイト収入といった収入源が奪われただけでなく、質の高いジャーナリズムの提供を脅かしている」として、OpenAIとMicrosoftを著作権侵害で訴えました。\n[大手日刊紙のニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で提訴 - GIGAZINE](https://gigazine.net/news/20231228-new-york-times-sues-openai-microsoft/)\nニューヨーク・タイムズとの裁判が続く中でOpenAIは、AIトレーニングセットに含まれる著作権で保護されたコンテンツを検索できる2台の仮想マシンをニューヨーク・タイムズ側に提供しています。OpenAIによると、2024年11月1日以降、ニューヨーク・タイムズの弁護士は専門家と共に150時間以上を費やしてトレーニングデータの検索を実施しているとのこと。\nしかし、OpenAIは2024年11月20日にニューヨーク南部地区地方裁判所に提出した書類の中で「自社のエンジニアが2024年11月14日に、仮想マシンの1つに保存されているニューヨーク・タイムズによる検索データをすべて消去してしまった」と報告しました。\nOpenAIはただちにデータの復旧を行いましたが、回収できたデータにはフォルダ構造とファイル名に深刻な問題が発生していました。OpenAIは「復旧したデータでは、ニューヨーク・タイムズの記事がOpenAIのAIモデルの構築にどのように使用されたかを適切に把握することは困難です」と述べています。なお、OpenAIはアクシデントの発生原因や消去されたデータの詳細について明らかにしていません。\nOpenAIはこのデータ消去について「不具合によるもの」と説明しており、ニューヨーク・タイムズも「削除を意図的なものと断定する証拠はありません」と語っています。それでもニューヨーク・タイムズは「回復できたデータはほとんど使用不能で、専門家と弁護士による1週間分の作業をやり直す必要があります。今回のデータ消去は、仕事をゼロから作り直すことに膨大な時間を使うことを余儀なくされるものです」と批判しています。\nなお、記事作成時点でOpenAIの広報担当者はコメントを残していません。\n・関連記事\n[大手日刊紙のニューヨーク・タイムズがOpenAIとMicrosoftを著作権侵害で提訴 - GIGAZINE](https://gigazine.net/news/20231228-new-york-times-sues-openai-microsoft)\n[報道機関によるOpenAIへの著作権訴訟が棄却される - GIGAZINE](https://gigazine.net/news/20241108-openai-raw-story-alternet)\n[ウォール・ストリート・ジャーナルの親会社がAI検索サービス「Perplexity」を著作権違反で訴える、Perplexityはライセンス契約の提案を無視 - GIGAZINE](https://gigazine.net/news/20241022-news-corp-sue-perplexity)\n[OpenAIの著作権訴訟でChatGPTのトレーニングデータが一部の人間に開示されることが決定、オフライン・記録機器持ち込み禁止の厳重警備体制 - GIGAZINE](https://gigazine.net/news/20240925-openai-train-data-inspected)\n[俳優労働組合SAG-AFTRAや世界最大の出版社が「AIをトレーニングするためにクリエイティブ作品を無許可で使用してはならない」とする公開書簡に署名 - GIGAZINE](https://gigazine.net/news/20241023-statement-on-ai-training)\n[ニューヨーク・タイムズがAIスタートアップのPerplexityにコンテンツへのアクセスと利用を停止することを要求 - GIGAZINE](https://gigazine.net/news/20241016-nyt-perplexity-cease-desist-notice-ai)\n・関連コンテンツ",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+      "https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+      "https://docs.google.com/viewerng/viewer?url=https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+      "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA",
+      "https://www.theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+      "https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.210.2.pdf",
+      "https://www.docs.google.com/viewerng/viewer?url=https://www.storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.328.1.pdf",
+      "https://docs.google.com/viewerng/viewer",
+      "https://techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit",
+      "https://www.techcrunch.com/2024/11/20/openai-accidentally-deleted-potential-evidence-in-ny-times-copyright-lawsuit/",
+      "https://theverge.com/2024/11/21/24302606/openai-erases-evidence-in-training-data-lawsuit",
+      "https://www.ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%BA"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T05:47:58.762+02:00",
+    "updated": "2024-11-22T05:47:58.762+02:00"
+  },
+  {
+    "uuid": "228f2c2648788a9c92ab5d21cdb733b149ce6bc1",
+    "url": "https://charismanews.com/news/breaking-us-supreme-court-unanimously-rejects-challenge-to-abortion-drug",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBN News",
+    "published": "2024-06-13T00:00:00Z",
+    "title": "US Supreme Court Rejects Challenge to Abortion Drug",
+    "text": "The U.S. Supreme Court ruled Thursday to preserve access to a drug that has been used in nearly two-thirds of all abortions in the country in the last year. This marks the court’s first abortion decision since it overturned Roe v. Wade two years ago. The high court considered whether the Food and Drug Administration violated federal guidelines when it rushed approval of the drug two decades ago. Breaking News . Spirit-Filled Stories . Subscribe to Charisma on YouTube now! The justices ruled that abortion opponents lacked the legal standing to sue over the FDA’s expedited approval of the drug, mifepristone, and the FDA’s subsequent controversial decision to ease access to it. As CBN News reported in August, the Fifth Circuit Court of Appeals ruled that the FDA was wrong to remove safety measures for mifepristone. “In loosening mifepristone’s safety restrictions, FDA failed to address several important concerns about whether the drug would be safe for the women who use it,” Judge Jennifer Walker Elrod wrote. She was joined by Judge Cory Wilson. Get your FREE CHARISMA NEWSLETTERS today! Stay up-to-date with current issues, Holy Spirit news, Christian teachings, Charisma videos & more! In that ruling, the court restored other safety measures to protect women, saying mifepristone should only be allowed through the seventh week of pregnancy rather than the 10th, and it must be administered in the presence of a physician. To read the full story, visit our content partners at CBN News. Reprinted with permission from cbn.com. Copyright © 2024 The Christian Broadcasting Network Inc. All rights reserved. Join Charisma Magazine Online to follow everything the Holy Spirit is doing around the world!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Crime, Law and Justice",
+      "Social Issue"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://mycharisma.com/subscribe/",
+      "https://mycharisma.com/spiritled-living/our-nation-is-dying-because-of-idle-shepherds-who-refuse-to-get-involved-in-political-issues/",
+      "https://www.youtube.com/@charismamagazine",
+      "https://www.youtube.com/@Charisma_News",
+      "https://www2.cbn.com/news/us/breaking-us-supreme-court-unanimously-rejects-challenge-abortion-drug",
+      "https://strangmail.com/newsletters/signup/",
+      "https://youtube.com/@Charisma_News",
+      "https://youtube.com/@charismamagazine",
+      "https://www.strangmail.com/newsletters/signup/",
+      "https://.cbn.com/news/us/breaking-us-supreme-court-unanimously-rejects-challenge-abortion-drug",
+      "https://mycharisma.com/subscribe",
+      "https://strangmail.com/newsletters/signup",
+      "https://www.mycharisma.com/subscribe/",
+      "https://mycharisma.com/spiritled-living/our-nation-is-dying-because-of-idle-shepherds-who-refuse-to-get-involved-in-political-issues",
+      "https://www.mycharisma.com/spiritled-living/our-nation-is-dying-because-of-idle-shepherds-who-refuse-to-get-involved-in-political-issues/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "wade",
+          "sentiment": "none"
+        },
+        {
+          "name": "cory wilson",
+          "sentiment": "none"
+        },
+        {
+          "name": "roe",
+          "sentiment": "none"
+        },
+        {
+          "name": "jennifer walker elrod",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "us supreme court rejects challenge to abortion drug the u.s. supreme court",
+          "sentiment": "negative"
+        },
+        {
+          "name": "fifth circuit court of appeals",
+          "sentiment": "none"
+        },
+        {
+          "name": "fda",
+          "sentiment": "none"
+        },
+        {
+          "name": "food and drug administration",
+          "sentiment": "none"
+        },
+        {
+          "name": "youtube",
+          "sentiment": "none"
+        },
+        {
+          "name": "cbn news",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-14T01:12:34.825+03:00",
+    "updated": "2024-06-14T01:12:34.825+03:00"
+  },
+  {
+    "uuid": "cfee9d627e47338ceafb002e6a83f7d957aad558",
+    "url": "https://www.163.com/dy/article/K1S46L830550B6IS.html",
+    "ord_in_thread": 0,
+    "author": "网易",
+    "published": "2025-06-12T07:14:00Z",
+    "title": "\"考后经济\"升温，电子产品销量爆发|天猫|淘宝|手机_网易订阅",
+    "text": "大象新闻记者 李莉 杨文丽\n2025年高考刚刚落下帷幕，消费市场也随之迎来了一波考后消费热潮，手机、电脑、平板等电子三件套销量爆发。数据显示，高考结束以来，平板电脑、手机、相机等产品在天猫618迎来销量大涨，其中，笔记本电脑销量同比增长200%，数码相机销量同比增长190%。\n6月12日，大象新闻记者了解到，天猫618期间，淘宝天猫联合苹果、华为、小米、vivo、OPPO、荣耀、联想、华硕、索尼等70多家头部3C数码品牌，针对准大学生和在校大学生们推出专属福利。6月9日至20日，消费者打开淘宝搜“数码教育优惠”即可直达专区。\n据页面显示，该专区包含2025届高考生、在校大学生等两种教育优惠认证，覆盖MacBook、AirPods、iPad等Apple教育优惠商品和非Apple商品。叠加立减85折、国补、大额券以及学生专享价等多重优惠后迎来特价，至高立减4000元。\n据悉，今年天猫618主打“最便宜、最简单”，玩法简化为“官方立减15%”，无需凑单，一件就能打85折。在品牌立减85折的基础上，天猫再发品类券、以及9折无门槛88VIP消费券，叠加至高20%的国家补贴，多重折扣后3C数码品牌的优惠力度也刷新全网新低。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Education"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business reporting and performance",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->economy",
+      "Education->students",
+      "Education->educational testing and examinations"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_vn",
+        "top_news_th",
+        "top_news_nz",
+        "top_news_rs",
+        "top_news_sg",
+        "top_news_tw",
+        "top_news_hk",
+        "top_news_my",
+        "top_news"
+      ],
+      "bias": null
+    },
+    "rating": null,
+    "crawled": "2025-06-12T10:27:05.186+03:00",
+    "updated": "2025-06-13T08:07:19.000+00:00"
+  },
+  {
+    "uuid": "b2bacf2abae36f9208247886bbb82ad839213ebe",
+    "url": "http://yuanchuang.10jqka.com.cn/20250731/c670037929.shtml",
+    "ord_in_thread": 0,
+    "author": "同花顺金融研究中心",
+    "published": "2025-07-31T03:41:00Z",
+    "title": "涨停雷达：创新药+药品注册+化学制剂 昂利康触及涨停",
+    "text": "今日走势： 昂利康 （ 002940 ）今日触及涨停板，该股近一年涨停14次。\n　　异动原因揭秘：1、据2025年7月30日公告，昂利康获得美索巴莫注射液药品注册证书，该药品用于急性骨骼肌疼痛治疗，视同通过一致性评价，将进一步丰富公司产品管线。\n2、据2025年7月18日互动易，公司逐步实现由传统仿制药向特色仿制药、改良型新药和创新药相结合的“仿创协同”战略转型，创新药项目ALK-N001于2025年4月获药物临床试验批准通知书，目前处于I期临床阶段。\n3、据2024年年报，昂利康主要从事化学原料药、化学制剂、药用辅料及特色中间体系列产品的研发、生产和销售，覆盖抗感染、心血管、肾病、麻醉疼痛等多个领域。\n（免责声明：本内容由AI技术搜集公开信息总结生成，仅供参考，不构成投资建议，以上市公司公告为准）\n　　后市分析：该股今日触及涨停，后市或有继续冲高动能。",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "positive",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Economy, Business and Finance->products and services",
+      "Economy, Business and Finance->chemicals",
+      "Economy, Business and Finance->healthcare industry",
+      "Science and Technology->technology and engineering",
+      "Science and Technology->biomedical science",
+      "Science and Technology->scientific publication"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T07:50:03.644+03:00",
+    "updated": "2025-07-31T07:56:27.000+03:00"
+  },
+  {
+    "uuid": "1434b281a1056dc0ca8b11e5f1300c4947740a01",
+    "url": "https://www.suffolkcountyny.gov/da/Newsroom/Press-Releases/suffolk-county-attorney-arrested-for-harassment-of-islamic-center-of-melville-employee",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jennifer Sanchez",
+    "published": "2024-02-23T20:31:00Z",
+    "title": "SUFFOLK COUNTY ATTORNEY ARRESTED FOR HARASSMENT OF ISLAMIC CENTER OF MELVILLE EMPLOYEE",
+    "text": "(SUFFOLK COUNTY, N.Y.) – Suffolk County District Attorney Raymond A. Tierney today announced that Jordan Endler, 46, of East Northport, an attorney based in Suffolk County, was arrested for Criminal Trespass in the Third Degree and Harassment in the Second Degree, for allegedly remaining in a mosque after being asked by an employee to leave and harassing the employee. “I want to remind everyone that no matter what else is going on in the world, here in Suffolk County, we will not tolerate bias or hate. I want to thank the Muslim community for alerting us to this incident, so that detectives from our office and the Suffolk County Police Department’s Hate Crimes Unit can continue to investigate it,” said District Attorney Tierney. “My office will continue to work with our law enforcement partners to ensure that all Suffolk County residents feel safe in their houses of worship, regardless of their faith.” According to the investigation, on February 21, 2024, at approximately 2:30 p.m., Endler knocked on the door of the Islamic Center of Melville and allegedly began questioning the employee who opened the door. Endler then asked the employee to come inside the mosque, and the employee let him in. Once inside, Endler allegedly began harassing the employee. The employee asked Endler to leave the Center, but Endler allegedly refused, began yelling at the employee, and stayed inside the building until police arrived. Endler was arrested by the Suffolk County Police Department at his home on February 22, 2024. On February 23, 2024, Endler was arraigned on one count of Criminal Trespass in the Third Degree, a Class B misdemeanor, and Harassment in the Second Degree, a violation, before District Court Judge, the Honorable Alonzo G. Jacobs. Judge Jacobs ordered Endler released on his own recognizance during the pendency of the case but issued an order of protection for the employee at the request of the District Attorney’s office. Under current New York State law, the offenses Endler is charged with are considered non-bail eligible. Endler is due back in court on April 3, 2024, and he is being represented by Bob Curran, Esq. This case is being prosecuted by Emma Behrens of the Intake & Discovery Compliance Bureau. ### Criminal complaints and indictments are merely accusatory instruments. Defendants are presumed innocent until proven guilty. No one is above the law. 725 Veterans Memorial Highway ● Building 77 ● Hauppauge, NY 11788 ● 631.852.3185 SuffolkCountyNY.gov/DA ● twitter.com/RayTierneyDA ● instagram.com/RayTierneyDA Suffolk County District Attorney's Office William J. Lindsay County Complex - Bldg. 77 Veterans Memorial Highway Hauppauge, NY 11788 Contact Us (631) 852-3185 Home Leadership Community Resources Newsroom DA Discovery Contact Us FOIL Request Court Calendar Careers YouTube Videos Covid-19 Information & Resources Social Media Use Policy Login",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Crime, Law and Justice",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "jo",
+          "sentiment": "negative"
+        },
+        {
+          "name": "raymond a. tierney",
+          "sentiment": "negative"
+        },
+        {
+          "name": "endler",
+          "sentiment": "none"
+        },
+        {
+          "name": "tierney",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "suffolk county police department’s hate crimes unit",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "n.y.",
+          "sentiment": "none"
+        },
+        {
+          "name": "suffolk county",
+          "sentiment": "none"
+        },
+        {
+          "name": "melville",
+          "sentiment": "none"
+        },
+        {
+          "name": "east northport",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-02-24T05:25:34.124+02:00",
+    "updated": "2024-02-24T05:25:34.124+02:00"
+  },
+  {
+    "uuid": "f814c31f945d52d6e21a168db0a05e52d63ee944",
+    "url": "https://epn.org/top-10-best-solar-owl-reviews/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aaron Williams",
+    "published": "2023-12-28T22:58:00Z",
+    "title": "Top 10 Best solar owl Reviews",
+    "text": "Contents\nTop 10 Best solar owl in 2023 Comparison Table\nNETGEAR Wi-Fi Range Extender EX3700 - Coverage Up to 1000 Sq Ft and 15 Devices with AC750 Dual Band Wireless Signal Booster & Repeater (Up to 750Mbps Speed), and Compact Wall Plug Design\n- EXTENDED WIRELESS COVERAGE: Adds Wi-Fi range coverage up to 1000 sq ft, and connects up to 15 devices such as laptops, smartphones, speakers, IP cameras, tablets, IoT devices, and more..Connectivity protocol:Ethernet,Wi-Fi\n- AC750 WI-FI SPEED: Provides up to 750Mbps performance using dual-band and patented FastLane(TM) technology.\n- UNIVERSAL COMPATIBILITY: Works with any wireless router, gateway, or cable modem with Wi-Fi.\n- WIRED ETHERNET PORT: Simply plug in game consoles, streaming players, or other nearby wired devices using the one 10/100M port for maximum speed.\n- SAFE & SECURE: Supports WEP and WPA/WPA2 wireless security protocols.\nEcoSmart ECO 8 Tankless Water Heater, Electric, 8-kW - Quantity 1, 12 x 8 x 4\n- The product is highly durable\n- The product is easy to use\n- Manufactured in China\n- Heating elements are durable and are threaded for easy replacement\n- Activation Flow - 0.3 GPM\ngypsy color The Original 4 Light Crystal White Hardwire Flush Mount Chandelier H17.5”xW15”, White Metal Frame with Clear Glass Stem and Clear Acrylic Crystals & Beads That Sparkle Just Like Glass\n- ATTENTION** FLUSH MOUNT TO CEILING JUNCTION BOX (installation required) - transform your favorite spaces! Our customers amaze us with where they use our chandeliers including entry way, dining room, nursery, bedroom, bathroom, closet, hallway, stairwell, game room, porch, girls room and even the garage! Our acrylic crystal chandeliers are elegant, suave & sophisticated, and at an affordable price. A delightful mixture of crystals, beading and swag. The possibilities are limitless!\n- STRONG & LIGHT WEIGHT-highest quality THICK & FACETED acrylic crystals, Better Than Glass! We use poly-carbonate crystals which is the same material used in bullet proof windows and eye lenses, very light and strong. Glass scratches & breaks easily, needs to be assembled one piece at a time, is heavy and costly. Poly-carbonate acrylic will reflect and refract light similar to glass, comes in many different colors and is way easier to assemble and install than glass. Give it try, we think you’ll like it!\n- INNOVATIVE DESIGN – designed in Austin, our chandelier folds flat for shipping, less damage & waste! Our chandelier was designed specifically for shipping right to your door. We figured out how to ship a chandelier folded flat, almost fully assembled, which cuts way down on packaging, weight, damages and waste. So, don’t be surprised when a flat box shows up at your door. It may seem odd at first but it’s actually a very innovative, smart, environmentally friendly design, which is awesome!\n- EASY TO INSTALL -unfold arms, position cups, connect strands and it’s ready! All components and installation instructions are included for easy assembly and installation. Uses E12 chandelier bulbs (BULBS NOT INCLUDED). The chain hangs up to 23 inches from the ceiling but can be shortened by removing chain links for perfect height. This seller is located in Austin, TX and can provide a full range of support.\n- UL CERTIFIED - ALWAYS AUTHENTICATE UL SAFETY & QUALITY - highest quality standard & safety rating available in lighting! Your chandelier is designed and supported in the USA by a local business out of Austin, Texas. The supplier offers a 1 Year Warranty against all defects including missing parts or replacement components. Must contact the supplier directly.\nBlink Video Doorbell | Two-way audio, HD video, motion and chime app alerts and Alexa enabled — wired or wire-free (Black)\n- Answer your door no matter where you are from your smartphone with 1080p HD day and infrared night video and two-way audio.\n- Experience long-lasting battery life, custom alerts, privacy settings, and more.\n- Get alerts when motion is detected or someone presses Video Doorbell. Connect to existing doorbell wiring or pair with a Sync Module (sold separately) to engage live view and two-way audio on demand.\n- Choose to save and share clips in the cloud with a free 30-day trial of the Blink Subscription Plan or locally with the Sync Module 2 and USB drive (each sold separately).\n- Designed for every home, go wire-free or connect to doorbell wiring to also sound your existing in-home chime. Without wiring, you can use your Blink Mini camera (sold separately) as an indoor plug-in chime.\nSmartyPants Kids Formula Daily Gummy Multivitamin: Vitamin C, D3, and Zinc for Immunity, Gluten Free, Omega 3 Fish Oil (DHA/EPA), Vitamin B6, Methyl B12, 120 Count (30 Day Supply)\n- Kids Formula with new premium ingredients, all in one delicious serving: Beta Carotene, Vitamin B6, Vitamin K2 and Choline (Packaging May Vary)\n- Multivitamin gummies for kids with omega-3 EPA & DHA (essential fatty acids) sustainably sourced from wild-caught small fish.\n- 15 essential nutrients: vitamin D3 for bone & immune health, vitamin B12 (methylcobalamin) for energy, omega-3 EPA & DHA (from fish oil), vitamin E (from sunflower oil) for antioxidant support and iodine for thyroid support.*\n- For children 4 years of age and older, take four (4) gummies daily. May be taken with or without food.\n- Only the good stuff: Non-GMO. Free of milk, eggs, peanuts, tree nut allergens, fish allergens, shellfish, soy, gluten and wheat. No synthetic colors. No artificial sweeteners/flavors. 3RD PARTY LAB TESTED. No refrigeration required.\nSpartan Mosquito Pro Tech - 1 Acre Pack 4 Tubes (2 Boxes) 100% American Made\n- 100% American Made\n- Do-It-Yourself Mosquito Killer\n- Four tubes [included in this 1 Acre Pack] will kill mosquitoes in areas 1 acre or smaller\n- Kills mosquitoes that may carry West Nile Virus, Zika Virus, Dengue Fever, St. Louis encephalitis, Western equine encephalitis, and Eastern equine encephalitis for up to 30 days\n- SPARTAN MOSQUITO PRO TECH IS NOT AVAILABLE TO RESIDENTS OF California, and outside the United States\nRing Video Doorbell - 1080p HD video, improved motion detection, easy installation – Satin Nickel\n- 1080p HD video doorbell with enhanced features that let you see, hear, and speak to anyone from your phone, tablet, or PC.\n- An update from the original Ring Video Doorbell, enjoy improved motion detection, privacy zones and audio privacy, and crisper night vision.\n- Receive mobile notifications when anyone presses your doorbell or triggers your built-in motion sensors.\n- Powered by the built-in rechargeable battery or connects to existing doorbell wires for constant power.\n- Easily setup by connecting your Ring Video Doorbell to wifi through the Ring app and mounting with the included tools.\nSmartyPants Prenatal Vitamins for Women with DHA and Folate - Daily Gummy Multivitamin: Vitamin C, B12, D3, Zinc for Immunity & Omega 3 Fish Oil, 120 Count (30 Day Supply)\n- Prenatal Formula with new premium ingredients, all in one delicious serving: Beta Carotene, Vitamin B6, Vitamin K2 & Choline (Packaging May Vary).\n- 18 essential nutrients: folate (methylfolate) for fetal development, vitamin D3 for immunity, vitamin B12 to support energy metabolism, omega-3 EPA/DHA (from fish oil), vitamin K for bones.*\n- Gummy multivitamin for prenatal women also with iodine to support the fetal nervous system and normal brain development during pregnancy.*\n- New serving size! For adult women, take four (4) gummies daily with or without food.\n- Non-GMO. Free of milk, eggs, peanuts, tree nut allergens, fish allergens, shellfish, soy, gluten and wheat. No synthetic colors or artificial sweeteners/flavors. 3RD PARTY LAB TESTED. No refrigeration required\nRing Video Doorbell Wired – Convenient, essential features in a compact design, pair with Ring Chime to hear audio alerts in your home (existing doorbell wiring required) - 2021 release\n- 1080p HD wired video doorbell with two-way talk, advanced motion detection, standard 2.4 GHz connectivity and customizable privacy settings\n- Get real-time notifications sent straight to your phone. To hear audio notifications in your home, pair with a Ring Chime, compatible Alexa device, or select the Video Doorbell Wired + Chime bundle. Note: the doorbell will not sound your existing chime.\n- Advanced motion detection helps you know when someone’s at your front door before they ring your doorbell\n- Night vision with sharp contrast ensures you’ll never miss a detail – even in the dark\n- Hardwire Video Doorbell Wired using your existing doorbell wiring and the included tool kit for around-the-clock power and peace of mind\nNacome Solar Garden Outdoor Statues Turtle with Succulent and 7 LED Lights - Lawn Decor Tortoise Statue for Patio, Balcony, Yard Ornament - Unique Housewarming Gifts\n- ECO-FRIENDLY SOLAR LIGHTS TO BRIGHTEN UP ANY OUTDOOR SPACE -A renewable and clean energy - powered by electricity, converted from solar power during the day - stored in a rechargeable 1. 2V AAA 300mAH Ni-MH Battery - Runs up to 8 hours with a full charge of sun light\n- Perfect Size: - This backyard decoration for gardens at a full 21.5cm Wide and 12.5cm high makes an impression wherever you put him - on the balcony, patio, in the yard, on the lawn or even on a wide window sill.\n- 【Professional After-Sales Service】：- We take your shopping experience very seriously，If you have any questions about solar turtle, please contact seller directly to provide you with a satisfactory after-sales guarantee. Order without worries.\n- Easy to Use - Simply turn the Turtle figurine on and leave it in the “on” position during the daytime. The solar panel will charge during the daylight hours and light up automatically at night. The LED lights will fully charge within 6-8 hours and will light up for 8-10 hours.\n- A Great Garden Gift -The solar garden statue comes in his own beautifully designed box. A perfect choice as a gift for Mom/Grandma/Wife/Daughter/Sister/Aunt/Grandma,girlfriend/boyfriend, wife's wedding anniversary, child's birthday,mother's birthday, or Mother's Day, Father's Day,Thanksgiving Day,Valentine's Day and Christmas.\n[]https://amazon.com/dp/B092LW1J4N?tag=epncall-20\nOur Best Choice: Redeo Motion Activated Owl Status Scarecrow with Solar Power Flashing Eyes & Scary Sound & Rotating Head Rabbit Birds Repellent Repeller 10-16 ft (Light Black)\n<a href=\"https://amazon.com/dp/B092LW1J4N?tag=epncall-20\">\n</a>\n[ad_1]\n【Great Features】 Redeo Owl Scarecrow has a motion detector on its feet, when birds or other pests flying pass in front of the unit, the Owl Scarecrow will be activated, eyes flash and emit a frightening owlish sound. We updated Led light to Laser light which can make the light more powerful. We also updated Light-sensitive to PIR sensor to increase sensing range from 3-5 feet to 10-16 feet.\n[ad_1]\nProduct Description\nOur product is the newest version on the market. Because we have updated this product from several aspects:\nThe owl will move the head while flash eyes and emit owlish sound, so it can intimidate the pests more effectively;Updated led light to Laser light which can make the light more powerful to pests;Updated Light-sensitive to PIR sensor to increase sensing range from 3-5 feet to 10-16 feet.\nBird Repellent Garden Protectors\nThe vivid appearance looks like an active predator-owl, which would intimidate the pests to leave the protected area. Horned Owl statue set could scares away the animals like birds, pests, squirrel, raccoons, and more.\nPIR Motion Detector\nRedeo Owl Scarecrow has a motion detector on its feet, when birds or other pests flying pass in front of the unit, the Owl Scarecrow will be activated, eyes flash and emit a frightening owlish sound.\nNon-fading & Waterproof\nThe owl scarecrow is painted with delicate non-fading and water-proof paint in surface by hand. It’s durable and weatherproof\nInstallation and operation instruction\n1.Turn the unit on. On/off switch is at the bottom of the unit with three modes:\nOn, Center and Off.Mode-Center will only activate flashing eyes and moving head. If you are worried that the sound of owls driving away animals will disturb your neighbors，you can switch to this.Mode-On will activate flashing eyes and moving head and owlish sounds.\n2. Place the unit within 10-16 feet to animal activity area, preferably on the sunniest\nside and facing the infestation area.\n3.Hammer screw spikes through rotating anchors at the bottom of the unit to fix\nthe unit to a solid surface such as fence, post, dock, stump etc.\nProduct Specification\nModel: BX003\nSize: 7.09*7.09*16.9 inch\nWeight: 2.2OLB\nMaterial: PE Plastic\nPower: Solar\nColor:Light Black\nStylish Decoration\nRedeo Bird Repellent like a garden protectors, which can be placed in the garden, patio, balcony, or porch. Also could be placed in indoor to decorate your living room, hall, restaurant, hotel, etc.\nWhen install the battery, please be careful in case of dropping the head down.\nBefore installation, please charge the product under the sunshine for 24 hours, or install new rechargeable batteries.Batteries can be replaceable with standard Ni-MH AA rechargeable battery.To prevent from becoming accustomed to the owl Scarecrow please change the position of the owl at all times.Place the unit at a conspicuous and sunny location so the pests can see it.\nUse the unit only when gets pest infestation and remove it other time.For optimum use at night, place the unit facing an illuminant.\n【Great Features】 Redeo Owl Scarecrow has a motion detector on its feet, when birds or other pests flying pass in front of the unit, the Owl Scarecrow will be activated, eyes flash and emit a frightening owlish sound. We updated Led light to Laser light which can make the light more powerful. We also updated Light-sensitive to PIR sensor to increase sensing range from 3-5 feet to 10-16 feet.\n【Solar-Powered】Redeo Fake Owl is charged by solar-powered. The owl scarecrow solar panels can recharge the product and keep it on standby for a long time all day.\n【Premium Quality】Measures approch 15.35” Height x6.29” Width. Made of sturdy molded plastic and seems very realistic, scare away birds effectively.\n【A Must Stylish Decoration】Life-size owl decoy with realistic-looking is perfectly for bird deterrent, bird control, scarecrow, and garden decorations. It can be placed in indoor to decorate your living room, hall, restaurant, hotel.\n【Easy to install】The owl’s bottom has an anchor that is easy to fix where you want to place it. Great for the garden, patio, or porch. Buy Our Bird Repellent Garden Protectors Now!!!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "http://www.amazon.com/exec/obidos/ASIN/B08SG2MS3V",
+      "http://www.amazon.com/exec/obidos/ASIN/B092LW1J4N",
+      "http://www.amazon.com/exec/obidos/ASIN/B08N5NQ869",
+      "http://www.amazon.com/exec/obidos/ASIN/B004QQ9LVS",
+      "http://www.amazon.com/exec/obidos/ASIN/B08CKHPP52",
+      "http://www.amazon.com/exec/obidos/ASIN/B091ZFL4X5",
+      "http://www.amazon.com/exec/obidos/ASIN/B09B1BP1JH",
+      "http://www.amazon.com/exec/obidos/ASIN/B00R92CL5E",
+      "http://www.amazon.com/exec/obidos/ASIN/B00VFYYAC4",
+      "http://www.amazon.com/exec/obidos/ASIN/B00TSN8Q38",
+      "http://www.amazon.com/exec/obidos/ASIN/B00529DDUI",
+      "http://amazon.com/exec/obidos/ASIN/B00VFYYAC4",
+      "http://amazon.com/exec/obidos/ASIN/B09B1BP1JH",
+      "http://amazon.com/exec/obidos/ASIN/B08N5NQ869",
+      "http://amazon.com/exec/obidos/ASIN/B00R92CL5E",
+      "http://amazon.com/exec/obidos/ASIN/B091ZFL4X5",
+      "http://amazon.com/exec/obidos/ASIN/B08CKHPP52",
+      "http://amazon.com/exec/obidos/ASIN/B00529DDUI",
+      "http://amazon.com/exec/obidos/ASIN/B00TSN8Q38",
+      "http://amazon.com/exec/obidos/ASIN/B004QQ9LVS",
+      "http://amazon.com/exec/obidos/ASIN/B092LW1J4N",
+      "http://amazon.com/exec/obidos/ASIN/B08SG2MS3V"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "netgear",
+          "sentiment": "negative"
+        },
+        {
+          "name": "tankless water heater",
+          "sentiment": "none"
+        },
+        {
+          "name": "wi-fi",
+          "sentiment": "none"
+        },
+        {
+          "name": "electric",
+          "sentiment": "none"
+        },
+        {
+          "name": "ecosmart eco",
+          "sentiment": "none"
+        },
+        {
+          "name": "dual band wireless signal booster & repeater",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "china",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T01:01:05.284+02:00",
+    "updated": "2023-12-29T01:01:05.284+02:00"
+  },
+  {
+    "uuid": "db974be3fecc42da615968e7b7694bac5ab62b45",
+    "url": "http://www.godlikeproductions.com/forum1/message5609006/pg1",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anonymous Coward User ID",
+    "published": "2023-12-29T07:13:00Z",
+    "title": "I Have to Make a Curse on Israelites",
+    "text": "Users Online Now:\n1,146\n(\nWho's On?\n)\nVisitors Today:\n201,981\nPageviews Today:\n366,666\nThreads Today:\n84\nPosts Today:\n1,694\n05:01 AM\nDirectory\nAdv. Search\nTopics\nForum\nBack to Forum\nPost New Thread\nReply\nView Favorites\nJoin Now, Free! (& No Ads!)\nForgot Your Password?\nEmail\nPassword\nRemember\nRate this Thread\nAbsolute BS\nCrap\nReasonable\nNice\nAmazing\nPage\n1\nBottom\nSearch Replies\nPrevious Page\nNext Page\nSearch Terms:\nHighlight Matches\nI HAVE TO MAKE A CURSE ON ISRAELITES\nAnonymous Coward\nUser ID: 86688003\nItaly\n12/29/2023 03:12 AM\nReport Abusive Post\nReport Copyright Violation\nI HAVE TO MAKE A CURSE ON ISRAELITES\nSOME OF THEM MADE A CURSE ON M;E\nand mmy family\nnow i have to make a curse of them\nbecause they were not capable to keep under control their cretin dangerous dements\nand didnt even send me a cent of compensations\ncurse on israelites all their race and their sons and daughters\nAnonymous Coward (\nOP\n)\nUser ID: 86688003\nItaly\n12/29/2023 03:13 AM\nReport Abusive Post\nReport Copyright Violation\nRe: I HAVE TO MAKE A CURSE ON ISRAELITES\nunfortunately that is how the whole golem war was intented\nthink how much israelites cretin are\ni didnt even had to be payed by their enemy\nPage\n1\nTop\nPrevious Page\nNext Page\nBack to Forum\nPost New Thread\nReply\nView Favorites\nRelated Threads\n1\nWe are the True Israelites! Deuteronomy 28 Blessings and Curses\n03/18/12\nDisclaimer / Copyright Info\n-\nPrivacy Policy\n-\nTerms Of Use\n-\nCancellation Policy / Billing Help\nMail\nWebmaster\nwith questions or comments about this site.\nCopyright © 1999 - 2023 Godlikeproductions.com\nPage generated in 0.03s (10 queries)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Social Issue",
+      "Religion and Belief"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "anonymous coward",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "italy",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:01:17.084+02:00",
+    "updated": "2023-12-29T12:01:17.084+02:00"
+  },
+  {
+    "uuid": "94489cf7ff2cacecc82335f8d149631a1d4707c0",
+    "url": "https://www.chicagotribune.com/2024/07/11/suenos-fest-extends-contract-in-grant-park-for-more-5-years",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Doug George",
+    "published": "2024-07-11T17:32:00Z",
+    "title": "Sueños Music Festival extends contract in Grant Park for more 5 years",
+    "text": "Had there been any doubt, Sueños Music Festival is here to stay. The Latino music festival on Thursday announced it has reached an agreement with the Chicago Parks District to extend its contract with the city to play in Grant Park for five more years. The contract also reportedly includes the option for the festival to expand from two days to three. Sueños recently presented its third annual festival in Grant Park for two days over Memorial Day weekend, with 2024 headliners including Peso Pluma, Xavi, Maluma and Ivan Cornejo. Although weather dampened the festival’s second day, it reported almost 70,00 festival-goers this year, drawing both locally and from out-of-state. Mayor Brandon Johnson and chief of staff Cristina Pacione-Zayas made an appearance on the festival’s first day. “We wanted to make sure that we welcome all the patrons and make sure that folks know that we have a deep interest in this and make sure that this festival continues on and on,” Pacione-Zayas said in part. Sueños is presented by the producers behind Baja Beach Fest, Chicago’s Reventon Promotion and C3 Presents, the Live Nation subsidiary that also presents Lollapalooza. In the announcement, it claimed an economic impact on the city amounting to $243.7 million in 2024. Lollapalooza extended its own Grant Park contract in 2022, reaching a 10-year agreement with the city in a deal championed by then-Mayor Lori Lightfoot. dgeorge@chicagotribune.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Human Interest",
+      "Politics",
+      "Arts, Culture and Entertainment"
+    ],
+    "ai_allow": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "brandon johnson",
+          "sentiment": "none"
+        },
+        {
+          "name": "xavi",
+          "sentiment": "none"
+        },
+        {
+          "name": "ivan cornejo",
+          "sentiment": "none"
+        },
+        {
+          "name": "pacione-zayas",
+          "sentiment": "none"
+        },
+        {
+          "name": "cristina pacione-zayas",
+          "sentiment": "none"
+        },
+        {
+          "name": "maluma",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "baja beach fest",
+          "sentiment": "none"
+        },
+        {
+          "name": "pluma",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "grant park",
+          "sentiment": "none"
+        },
+        {
+          "name": "chicago parks district",
+          "sentiment": "none"
+        },
+        {
+          "name": "chicago",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-07-12T02:35:07.146+03:00",
+    "updated": "2024-07-12T14:15:47.344+03:00"
+  },
+  {
+    "uuid": "c56b669fdcffc148eff9d9f8ec6ce406ab74d796",
+    "url": "https://andaluciainformacion.es/almeria/1497591/miles-de-sevillanos-arropan-la-cabalgata-de-reyes/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@andaluciainf",
+    "published": "2024-01-05T18:26:00Z",
+    "title": "Miles de sevillanos arropan la Cabalgata de Reyes | Andalucía Información. Todas las noticias de Almería",
+    "text": "Miles de sevillanos han arropado a los Reyes Magos desde su salida a las 16,30 horas de este viernes desde la Fábrica de Tabacos, sede de la Universidad de Sevilla (US), tras ser coronados Melchor, Gaspar y Baltasar por el rector de la US, Miguel Ángel Castro; el arzobispo de Sevilla, José Ángel Saiz Meneses; y el alcalde de la ciudad, José Luis Sanz. Tras las fuertes precipitaciones que acompañaron al Heraldo en la tarde de este pasado jueves, lo que no impidió que el alcalde le entregara las llaves de la ciudad, un cielo despejado ha contribuido a dar más brillo aún a una cabalgata llena de colorido, alegría y música. El cortejo, formado por 33 carrozas, ha arrancado desde la calle Palos de la Frontera con un primer puñado de caramelos tirado al cielo en señal de recuerdo a los que ya no están y a los sones de la Agrupación Musical Virgen de los Reyes, a la que se unen otras seis bandas más. En total y hasta las 22,00 horas, se reparten 100.000 kilos de caramelos y, este año como novedad, 1.500 kilos de mojama en envases de quince gramos cada uno para no ocasionar incidentes. El cortejo está compuesto por 3.000 integrantes, tiene 45 minutos de paso y el mismo recorrido que en 2023. Durante el recorrido, tanto el arzobispo de Sevilla como el regidor sevillano han entregado caramelos a pie de calle. Este año, los Reyes Magos están encarnados por Jesús Vera Carrillo (Melchor), presidente y fundador de la promotora inmobiliaria ABU; Federico Alonso Aliste (Gaspar), director médico y CEO de Tecnoláser Clinic Vision, y José Luis Cabeza Hernández (Baltasar), fundador de Mesón Serranito. La cantante Laura Gallego es la diosa Palas Atenea -que micro en mano se ha arrancado con canciones para animar a los sevillanos- y el Mago de la Fantasía lo representa Andrés Morilla, director de HiperHostelería RV. El Gran Visir lo encarna Carlos Navarro Antolín, subdirector de Diario de Sevilla y la Estrella de la Ilusión, Margarita Cabanás Jiménez, jefa del Servicio de Oftalmología del Hospital Virgen del Rocío de Sevilla. La Estrella, finalmente, no lanza entradas de Icónica -el festival de música que se celebra en verano en la Plaza de España- \"por motivos de seguridad\" pero sí repartirá la mañlana del 6 de enero cien \"tarjetas de la ilusión\" premiadas con una entrada doble para asistir a uno de los conciertos de Icónica Sevilla Fest, de entre un total de 50.000, por \"lugares emblemáticos de la ciudad que han sido fuente de inspiración de diez temas de artistas icónicos de los más diversos estilos y géneros\". La comitiva de Sus Majestades de Oriente cuenta con cuatro carrozas dedicadas a la celebración de efemérides del Cuerpo Nacional de Policía, con 200 años de extistencia; la Universidad Pablo de Olavide (UPO), que conmemora sus 25ª aniversario, y los colegios oficiales de Ingenieros Industriales y de Economistas de Sevilla. A estas carrozas se suma una dedicada al Consejo Regulador de la Mojama de Barbate (Cádiz) y Mojama de Isla Cristina (Huelva), que es la que reparte los blister de mojama. El Ayuntamiento, como cada año, ha preparado un dispositivo especial de Policía compuesto en esta ocasión por 188 agentes. Toda la flota de vehículos está disponible para este día, distribuida por los barrios y por las dos cabalgatas que se celebran esta misma tarde, participando un total de 90 vehículos, entre patrulleros y todoterrenos, y 63 motos. La Policía Local ha verificado los permisos de conducir de los conductores de las carrozas y se efectuarán controles de alcoholemia a los mismos. Además del operativo de tráfico, cinco equipos de intervención de la Policía controlarán también los espacios cercanos al recorrido de la cabalgata a fin de garantizar la seguridad exterior del evento y poder intervenir en cualquier momento. Envía tu noticia a: [participa@andaluciainformacion.es](mailto:participa@andaluciainformacion.es)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Arts, Culture and Entertainment",
+      "Human Interest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:02:12.412+02:00",
+    "updated": "2024-01-06T00:02:12.412+02:00"
+  }
+]

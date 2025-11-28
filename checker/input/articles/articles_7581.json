@@ -1,0 +1,392 @@
+[
+  {
+    "uuid": "238de19df5c1e2048fc2f3c3889ff5d4858f0cc5",
+    "url": "https://www.gadgetreview.com/fusion-energy-tech-promises-unlimited-power-and-14-other-innovations-set-to-change-world",
+    "ord_in_thread": 0,
+    "author": "Suanne Hastings",
+    "published": "2025-07-30T22:00:00Z",
+    "title": "15 World-Changing Tech Breakthroughs",
+    "text": "Technology isn’t just advancing—it’s solving problems that seemed impossible just years ago. From concrete that fixes itself to quantum computers that make today’s supercomputers look like pocket calculators, these fifteen breakthroughs are already changing how we live. Some will cut your commute to Mars from months to weeks. Others might end your electricity bill forever. A few could save your life with organs grown from your own cells. Here’s what’s actually working right now.\n15. IBM Starling Quantum Computer\nStarling, IBM’s next leap, will harness 200 logical qubits to process over 100 million quantum operations, dwarfing today’s quantum machines by 20,000 times in speed. For full details, review the official IBM Starling Quantum Computer roadmap — the system is planned for deployment at IBM’s Poughkeepsie, New York, center by 2029. This major advance could make drug discovery and cryptography solvable in hours rather than months or years.\n14. Proxima Fusion Stellarator Reactor\nStellarator reactors from Proxima Fusion use advanced magnets and AI for stable, clean fusion. The company’s Stellaris concept is designed to operate in continuous mode without the plasma disruptions of older fusion types, aiming to end energy bills and carbon emissions when commercialized. For more on the latest design and challenges, see this stellarator power plant analysis.\n13. Google’s Willow Quantum Chip\nWillow’s 105 superconducting qubits deliver groundbreaking error-correction and algorithmic efficiency, advancing quantum computing practicality. The Willow processor’s official Wikipedia entry summarizes its role in the field, while expert coverage reveals that Willow can complete benchmark tasks in mere minutes that would take classic supercomputers billions of years.\n12. Lab-Grown Meat Production\nCultivated in bioreactors from real animal cells, lab-grown meat uses innovative co-culture systems and emerging tissue engineering to reduce ethical, land, and water concerns. For readers interested in the science behind scalable cultured meat, see this recent breakthrough in serum-free production. The basic process is also covered by this explainer on tissue engineering for lab-grown meat.\n11. Micron Semiconductor Fab Expansion\nMicron is investing up to $200 billion to build a new US semiconductor manufacturing complex, targeting 40% domestic DRAM production by 2027. This will create tens of thousands of new jobs and reinforce US chip supply. See the official Micron U.S. expansion page for project information and workforce details.\n10. Apple Vision OS 2.4\nApple Intelligence is transforming Vision OS with AI-powered writing tools and creative AI features. The update brings Genmoji, Smart Replies, and more, as officially outlined in Apple’s own feature release update.\n9. Electric Aircraft Revolution\nCombining batteries with hydrogen fuel cells, electric aircraft are slashing emissions and noise. The International Council on Clean Transportation’s performance analysis shows emissions reductions between 49% and 88% for regional flights and points to the transformative role of zero-emission flying.\n8. Industrial 3D Printing Evolution\n3D printers now produce manufacturing components, medical devices, and more. For a current summary of applications—from prototypes to end-use aerospace and medical parts—review this industry guide to 3D printing in manufacturing. Real-world industry use cases are expanding rapidly, driving on-demand, highly customized production.\n7. 3D Printed Heart Technology\nEngineers now build hearts from a patient’s own cells, layer by layer, and develop custom organs to reduce rejection risks. Not only does this protect health, but it may soon shrink waitlists. Readers can find research background in tissue engineering approaches to organ printing.\n6. Quantum Computing Applications\nQubits exist in superposition, enabling quantum computers to tackle problems that classic computers cannot. For more, see IBM’s comprehensive quantum computing technology explainer, which details applications in science, cryptography, and industry.\n5. Pulsar Sunbird Fusion Rocket\nThe Sunbird spacecraft’s direct fusion drive may reach speeds of 500,000 mph, compressing Mars missions to weeks. The fusion propulsion concept, although in early stages, is widely cited in space technology news and research briefings for its potential to unlock practical interstellar travel.\n4. Blockchain Security Infrastructure\nBlockchain creates tamper-proof records and enables transparent, decentralized transactions. To understand blockchain’s impact on trust, fraud prevention, and supply chain transparency, review this blockchain security overview.\n3. Hydrogen Fuel Cell Vehicles\nHydrogen vehicles support emission-free long-haul transit where batteries fall short. For a summary of green hydrogen production and fuel cell vehicle advantages, the US Department of Energy’s hydrogen fuel cell vehicle basics is a good resource.\n2. Edge Computing Networks\nBy processing data closer to users, edge computing reduces latency and enhances privacy. The Wikipedia introduction to edge computing offers essential technical background and sector applications.\n1. Self-Healing Concrete Infrastructure\nSpecial bacteria embedded in concrete “wake up” to fill cracks with limestone as soon as water seeps in, increasing lifespan and saving on maintenance. For developments in self-healing concrete, see this article on self-healing construction materials.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Science and Technology->technology and engineering",
+      "Social Issue->social networking",
+      "Social Issue->social problem"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.micron.com/us-expansion",
+      "https://www.ibm.com/think/topics/quantum-computing",
+      "https://sinterit.com/3d-printing-guide/applications-of-3d-printing/application-of-3d-printing-in-industry/",
+      "https://www.sciencedirect.com/science/article/pii/S1361920924003729",
+      "https://en.wikipedia.org/wiki/Edge_computing",
+      "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+      "https://www.apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/",
+      "https://phys.org/news/2019-03-tissue-lab-grown-meat.html",
+      "https://thenextweb.com/news/max-planck-spinout-proxima-fusion-unveils-fusion-reactor",
+      "https://en.wikipedia.org/wiki/Willow_processor",
+      "https://www.ibm.com/topics/blockchain-security",
+      "https://fusionenergyinsights.com/blog/post/fusion-energy-insights-examined-an-analysis-of-proxima-fusion-s-bold-plan-for-a-stellarator-power-plant",
+      "https://scienceblog.com/scientists-develop-breakthrough-system-for-growing-lab-grown-meat-without-animal-products/",
+      "https://theicct.org/publication/global-aviation-performance-analysis-regional-electric-aircraft-jul22/",
+      "https://www.energy.gov/eere/fuelcells/fuel-cell-vehicle-basics",
+      "https://quantumzeitgeist.com/googles-willow-chip-the-future-of-computing/",
+      "https://sciencedirect.com/science/article/pii/S1361920924003729",
+      "https://www.phys.org/news/2019-03-tissue-lab-grown-meat.html",
+      "https://apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4/",
+      "https://sinterit.com/3d-printing-guide/applications-of-3d-printing/application-of-3d-printing-in-industry",
+      "https://ibm.com/think/topics/quantum-computing",
+      "https://theicct.org/publication/global-aviation-performance-analysis-regional-electric-aircraft-jul22",
+      "https://www.apple.com/newsroom/2025/03/apple-intelligence-comes-to-apple-vision-pro-today-with-visionos-2-4",
+      "https://ibm.com/topics/blockchain-security",
+      "https://micron.com/us-expansion",
+      "https://energy.gov/eere/fuelcells/fuel-cell-vehicle-basics",
+      "https://www.sinterit.com/3d-printing-guide/applications-of-3d-printing/application-of-3d-printing-in-industry/",
+      "https://www.theicct.org/publication/global-aviation-performance-analysis-regional-electric-aircraft-jul22/",
+      "https://ibm.com/quantum/blog/large-scale-ftqc",
+      "https://www.scienceblog.com/scientists-develop-breakthrough-system-for-growing-lab-grown-meat-without-animal-products/",
+      "https://www.en.wikipedia.org/wiki/Willow_processor",
+      "https://www.thenextweb.com/news/max-planck-spinout-proxima-fusion-unveils-fusion-reactor",
+      "https://www.fusionenergyinsights.com/blog/post/fusion-energy-insights-examined-an-analysis-of-proxima-fusion-s-bold-plan-for-a-stellarator-power-plant",
+      "https://scienceblog.com/scientists-develop-breakthrough-system-for-growing-lab-grown-meat-without-animal-products",
+      "https://www.en.wikipedia.org/wiki/Edge_computing",
+      "https://quantumzeitgeist.com/googles-willow-chip-the-future-of-computing",
+      "https://www.quantumzeitgeist.com/googles-willow-chip-the-future-of-computing/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "IBM Starling Quantum Computer\nStarling",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": "238de19df5c1e2048fc2f3c3889ff5d4858f0cc5",
+      "first_syndicated": true
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-07-31T08:21:58.348+03:00",
+    "updated": "2025-07-31T08:26:08.000+03:00"
+  },
+  {
+    "uuid": "5fd86fd0fef858dcea0eaf8c5a5e4fd30811015f",
+    "url": "https://www.jacksonville.com/story/news/nation/2024/01/19/wwii-era-bible-returned-to-new-york-veterans-family/72269065007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saleen Martin",
+    "published": "2024-01-19T13:37:00Z",
+    "title": "'May this keep you safe from harm': WWII era Bible returned to New York veteran's family",
+    "text": "During World War II, a woman bought three brothers Bibles to protect their hearts and guide them as they set out for battle. The Bible had a metal cover on the front with the inscription “May this keep you safe from harm.\" Two of the brothers made it home, while the other, Lt. Edsel J. McKnight of the United States Army Air Forces, was shot down off the coast of France. His Bible was mailed to the family but was lost sometime after. This month, his family finally got it back. Ava Coogan's family is from Albany, New York and they found the Bible in late December while going through their late matriarch’s belongings. On Jan. 11, Coogan met Lt. McKnight’s sister-in-law and returned the Bible to her, allowing her to put it back in its rightful place, next to the ones his brothers brought back home from war. Coogan’s uncle and mother found the Bible in a stack of books. Their mother, Rosanne Vartanian, died nearly 20 years ago but was a collector and loved garage sales. “It’s just so random that my grandmother had the urge to pick that up,” she said. “She bought random things. There was no rhyme or reason to it. It was with a stack of other books.” Coogan decided to research the Bible and found out soldiers often took them to war. Some can be found in museums. “The whole premise of it was that the metal cover on the front is like a hard shield,” Coogan told USA TODAY. “They would put it in their coat pockets … like the front breast pocket … that cover would protect their heart from bullets.” Lt. McKnight’s name was also written in the Bible, said Coogan, who was drawn to the Bible for some reason. She couldn’t put it down, she recalled. “I kept playing with it and flipping through the pages,” she said. She noticed that the Bible’s front cover had a slice in it, almost like something was underneath it. She examined it more closely and found a piece of paper folded up inside. She asked her uncle for help, who carefully used a butter knife to get the slip of paper out. Once they retrieved the piece of paper from under the Bible’s cover, they saw that it was a plea for the Bible’s safe return to an address not too far away. Although there was no area code, there was a phone number listed, so the family added their own area code and called. “I was just hoping for the best,” Coogan said. “We found out that number worked.” When Coogan called the number written in the note, she spoke to a woman named Fay, Lt. McKnight’s sister-in-law. They organized a meetup on Jan. 11 to return the Bible to the family, who is from Porter Corners, part of Saratoga County in eastern New York. Lt. McKnight served in the U.S. Air Force’s 365th Fighter Group and 388th Fighter Squadron. He was flying in a Thunderbolt fighter aircraft in 1944 when he was shot down off the coast of France, online records show. Fay told Coogan and her family that Lt. McKnight has two brothers. All three of the brothers served in WWII. Fay’s husband, Ray, said his Bible saved his life. “He got shot during the war and it hit where the Bible was, covering his heart, and the bullet went into his arm instead,” Coogan said. Once Lt. McKnight was killed, his belongings were shipped back home to the family. His sister-in-law had all three Bibles on a bookshelf on display. One day, the family was preparing to go to church. Her nephew borrowed the Bible, but knew it was so precious, the family decided to write a note with contact information in case it were ever lost. “He didn't lose it,” Coogan said. “He brought it back after church and I guess what happened is after someone passed in their family, they had an estate sale … and it just accidentally went out with a stack of books.” It ended up in Coogan’s grandmother’s hands, she said. Returning the Bible to the McKnight family was quite the enlightening experience, Coogan said. “That was really cool because that's when we kind of got to hear their story,” she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/",
+      "https://rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu",
+      "https://www.rafbeaulieu.co.uk/honouring-the-airmen-of-raf-beaulieu/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "edsel j. mcknight",
+          "sentiment": "none"
+        },
+        {
+          "name": "coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "rosanne vartanian",
+          "sentiment": "none"
+        },
+        {
+          "name": "ava coogan",
+          "sentiment": "none"
+        },
+        {
+          "name": "mcknight",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "united states army air forces",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "france",
+          "sentiment": "none"
+        },
+        {
+          "name": "albany",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-19T17:00:43.525+02:00",
+    "updated": "2024-01-19T17:00:43.525+02:00"
+  },
+  {
+    "uuid": "4be9a836645f3501d2be2934b2f68090ca017acc",
+    "url": "https://www.archyde.com/disability-coverage-for-some-patients-will-see-automatic-insurance-change",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyde",
+    "published": "2025-02-20T23:29:00Z",
+    "title": "Disability coverage for some patients will see automatic insurance change",
+    "text": "Changes in Idaho ‘s Dual Medicare-Medicaid insurance Coverage Thousands of Idahoans who rely on both Medicare and Medicaid for healthcare will see changes to their coverage starting in June. The Idaho department of Health and Welfare (IDHW) recently announced the transition from Blue Cross of Idaho to UnitedHealthcare as the contracted provider for dual-enrollment recipients.\nWhat are Dual-Enrollment Plans? Dual-enrollment plans provide coverage for individuals who are eligible for both Medicare and Medicaid. This is a crucial safety net for manny, particularly those with low incomes and complex health needs. Medicaid often covers services not included in Medicare, such as long-term care, in-home support, and certain prescription drugs.\nTimeline of Changes Here’s a breakdown of the key dates and actions for enrollees:\nJune 1, 2025: United Healthcare will begin offering its IMPlus dual-enrollment plan in 34 Idaho counties. June 1, 2025 – December 31, 2025: Molina healthcare will be the onyl health plan offering a Medicare-Medicaid Coordinated Plan (MMCP) in these counties. January 1, 2026: Coverage for United’s MMCP will be available statewide. Impact on Enrollees Dual-enrollees currently enrolled with Blue Cross of Idaho in the designated counties will be automatically transitioned to UnitedHealthcare’s IMPlus plan unless they actively choose Molina healthcare’s MMCP.Enrollees in the remaining 10 counties, were fee-for-service Medicaid is used, will not be directly affected.\nResources and Information The IDHW has issued a comprehensive letter to stakeholders, providers, and enrollees outlining these changes in detail. Additionally, they have established a dedicated website with frequently asked questions. More detailed information will be mailed to enrollees in March.\nPreparing for the Change IDHW recommends that dual-enrollees review their current coverage, consider their healthcare needs, and compare the offerings of both UnitedHealthcare and Molina Healthcare.\nExperts emphasize the importance of understanding the new plan benefits, networks, and any changes to prescription coverage. Don’t hesitate to contact the IDHW or the insurance providers directly with any questions or concerns.\nThis transition represents a significant change in Idaho’s healthcare landscape.By staying informed, understanding their options, and taking proactive steps, dual-enrollees can ensure a smooth transition and continued access to the vital healthcare services they need.\nHow will dual-eligible individuals in idaho be impacted by the transition to unitedhealthcare’s IMPlus plan starting in June 2025? Sure, here’s a professional interview in WordPress-compatible HTML format based on the provided details:\nTransitions in Idaho’s Dual Medicare-Medicaid Insurance Coverage: An Interview with Jill Martin, IDHW Spokesperson What are Dual-Eligible Individuals and Why are These Changes Important, Jill? Jill: Dual-eligible individuals are those who qualify for both Medicare and Medicaid. These changes are important as they affect a vulnerable population with complex healthcare needs, ensuring they have access to the right services and support.\nCould You Walk Us Through the Timeline of These Changes? Jill: Certainly.UnitedHealthcare’s IMPlus plan will become available in 34 counties starting June 1, 2025.Until the end of the year, Molina Healthcare will be the only plan offering a Medicare-Medicaid Coordinated Plan (MMCP) in these counties. By January 1, 2026, UnitedHealthcare’s MMCP will be available statewide.\nHow Will These Changes Impact Current Enrollees in Idaho? Jill: Enrollees in the affected counties with Blue Cross of Idaho will be automatically transitioned to UnitedHealthcare’s IMPlus plan unless they actively choose Molina Healthcare’s MMCP. Those in the remaining counties using fee-for-service Medicaid won’t be directly affected.\nWhat Resources Are Available for Enrollees to Understand These Changes? Jill: IDHW has sent detailed letters to enrollees and providers, created a dedicated FAQ website, and will mail more information to enrollees in March. We encourage everyone to review their current coverage and contact IDHW or the insurance providers directly with any questions.\nWhat Advice Do You Have for Dual-Eligible Idahoans About to Make this Transition? Jill: It’s crucial for dual-enrollees to review their current coverage, understand the new plan benefits, networks, and prescription coverage changes. we want to ensure a smooth transition and continued access to vital healthcare services.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Social Issue",
+      "Economy, Business and Finance"
+    ],
+    "topics": [
+      "Health->health insurance",
+      "Health->government health care",
+      "Social Issue->disabilities",
+      "Social Issue->social services",
+      "Economy, Business and Finance->healthcare industry",
+      "Economy, Business and Finance->business governance"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [
+      "https://en.wikipedia.org/wiki/Idaho",
+      "https://www.en.wikipedia.org/wiki/Idaho"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": null,
+    "rating": null,
+    "crawled": "2025-02-21T02:35:21.042+02:00",
+    "updated": "2025-02-21T02:35:21.042+02:00"
+  },
+  {
+    "uuid": "28ff51cac18345ea6c22276376b6507f2c98adaf",
+    "url": "https://larepublica.pe/politica/2024/06/27/rafael-vela-sobre-avances-del-caso-lava-jato-esperamos-una-condena-de-la-senora-fujimori-1251693",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Narda Saavedra",
+    "published": "2024-06-27T21:41:00Z",
+    "title": "Rafael Vela sobre avances del caso Lava Jato: “Esperamos una condena de la señora Fujimori” | Política | La República",
+    "text": "Rafael Vela sobre avances del caso Lava Jato: “Esperamos una condena de la señora Fujimori” El coordinador del Equipo Especial Lava Jato anunció que este año se podrían tener cinco sentencias definitivas en el caso Odebrecht. El Poder Judicial impuso la primera condena en el caso Lava Jato. Después de varios años, [el máximo órgano judicial sentenció a Samuel Campusan](https://larepublica.pe/politica/2024/06/27/pj-condena-a-8-anos-de-carcel-a-samuel-campusano-exfuncionario-del-mef-por-caso-odebrecht-1059912)o, Pedro Cobeñas y Gustavo Montecinos por su rol como intermediarios de las coimas ofrecidas por [Odebrecht](https://larepublica.pe/tag/odebrecht) al Gobierno regional de Cusco. Los tres estuvieron involucrados en el trámite de emisión de bonos soberanos por un valor de S/177 millones. Tras esta primera sentencia condenatoria en juicio oral, el coordinador del Equipo Especial Lava Jato, Rafael Vela, adelantó los próximos procesos en curso. \"Estamos a puertas de un juicio oral trascendente como es el caso de la señora Keiko Fujimori el día lunes (1 de julio) y otras personas acusadas en las instalaciones del Poder Judicial\", dijo durante una entrevista a Canal N. PUEDES VER: [Junta Nacional de Justicia y el Poder Judicial enfrentados por donación de terreno en Chancay] Asimismo, precisó que se vienen los juicios orales de varios personajes mediáticos, tal como el caso de Ollanta Humala, Alejandro Toledo, Jorge Peñaranda. A ello se le suma, el caso del Metro de Lima. \"Estamos llegando a la fase estelar de todos estos procesos. A partir de una estimación de la propia Corte, este año deberíamos tener cinco sentencias definitivas que determinan la culpabilidad o inocencia de los involucrados\", manifestó. De esta forma, Vela confirmó que este 2024, el Tercer Juzgado Penal Colegiado Nacional del Poder Judicial desarrollará la fase estelar del proceso contra la excandidata presidencial. [Tanto Fujimori Higuchi como otras 45 personas continuarán el juicio por el caso ‘Cócteles’.](https://larepublica.pe/politica/judiciales/2024/03/15/rafael-vela-poder-judicial-dispone-reponerlo-como-coordinador-en-el-equipo-especial-lava-jato-351765) En el caso de la lideresa de Fuerza Popular, la fiscalía solicita 30 años de cárcel por presuntamente ser la cabecilla de la red criminal. Para lograr su pedido, el Ministerio Público acreditará 1031 testigos en el caso. Equipo Lava Jato logra su primera sentencia en el caso Odebrecht El 27 de junio el PJ condenó a involucrados en el caso Bonos soberanos. Campusano fue quien obtuvo la mayor condena: 8 años de prisión por acelerar la liberación de dinero que ya había sido aprobado a favor del gobierno regional del Cusco. De acuerdo con la sentencia, es culpable de los delitos de tráfico de influencias y cohecho activo genérico. En consecuencia, deberá pagar una reparación civil de S/1 millón y S/300 mil en forma solidaria con Cobeñas. En el caso de Pedro Cobeñas, exfuncionario del Ministerio de Economía y Finanzas, le dictaron 6 años de prisión suspendida por el delito de cohecho, impedimento de salida del país y el cumplimiento de reglas de conducta. Por su parte, Gustavo Montecinos deberá cumplir 2 años y 8 meses de prisión suspendida por el delito de encubrimiento real.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Social Issue",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-06-28T01:32:36.038+03:00",
+    "updated": "2024-06-28T01:32:36.038+03:00"
+  },
+  {
+    "uuid": "49feb763ae510a10f07cb89903556f3942d7a418",
+    "url": "https://flipboard.com/video/purchspacecom/1cfdd8ac74",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Purch - Space.com",
+    "published": "2024-04-04T00:00:00Z",
+    "title": "Incredible Views Of SpaceX Starship Re-Entering Earth's Atmosphere | Flipboard",
+    "text": "Watch plasma build up around SpaceX Starship during its atmospheric re-entry recently. Credit: SpaceX More stories from [Space.com](/@Spacecom) Join the flipboard community Discover, collect, and share stories for all your interests [Sign up](/signup) More stories from [Space Travel](/topic/spacetravel) [If You Bought $1K of Elon Musk’s Favorite Crypto 5 Years Ago, Here’s How Much You Would Have Now](/topic/spacetravel/if-you-bought-1k-of-elon-musk-s-favorite-crypto-5-years-ago-here-s-how-much-yo/a-NprLgUlTSVSxGjncTOt5AQ%3Aa%3A343157017-3a6dfc95e7%2Fgobankingrates.com) Among cryptocurrency's many proponents, none stands out more than Elon Musk, the maverick CEO of SpaceX and Tesla. Musk's fascination with the world … [The X-43 Nearly Hit Mach 10 and Broke Records. Why Did the U.S. Government Cancel It?](/topic/spacetravel/the-x-43-nearly-hit-mach-10-and-broke-records-why-did-the-u-s-government-cance/a-ngdBYPY-RYCm-ZrI-tN3jQ%3Aa%3A3216939395-6894f19b2a%2Fnationalinterest.org) Summary: The X-43A Hyper-X, an experimental vehicle developed by NASA, marked a significant milestone in aviation by demonstrating the viability of … [Fifth Circuit Risks Losing Big Cases Amid Judge Shopping Worries](/topic/spacetravel/fifth-circuit-risks-losing-big-cases-amid-judge-shopping-worries/a-oZvNJ7HrRlSM58GFYo53EA%3Aa%3A3201884186-f4ff42b61f%2Fbloomberglaw.com) The US Court of Appeals for the Fifth Circuit is facing the prospect of not being able to weigh in a pair of cases with national significance, as …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Human Interest",
+      "War, Conflict and Unrest"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "spacex starship",
+          "sentiment": "negative"
+        },
+        {
+          "name": "nasa",
+          "sentiment": "none"
+        }
+      ],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-05T01:28:09.198+03:00",
+    "updated": "2024-04-06T19:43:13.308+03:00"
+  },
+  {
+    "uuid": "dd090eb55e17f02b662e9e4bf4dd509a71efc625",
+    "url": "https://www.diariodemallorca.es/nacional/2024/02/02/zapatero-rajoy-pidio-hablara-maduro-97641691.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EFE",
+    "published": "2024-02-01T23:52:00Z",
+    "title": "Zapatero: Rajoy me pidió que hablara con Maduro para que no reconociera la DUI de Cataluña",
+    "text": "El expresidente del Gobierno José Luis Rodríguez Zapatero ha asegurado este jueves que, en octubre de 2017, [Mariano Rajoy](/tags/mariano-rajoy/), entonces jefe del Ejecutivo, le pidió que hablara con el presidente de Venezuela, Nicolás Maduro, para que no reconociera la declaración unilateral de independencia (DUI) de Cataluña. En el foro \"España-Cataluña: el encuentro\", organizado por el Grupo Godó, Zapatero ha explicado que \"ayudó\" al Gobierno de Rajoy cuando este le pidió que hiciera gestiones con [Venezuela](/tags/venezuela/) para que no reconocieran la declaración de independencia de Cataluña. \"Cuando gobernó el PP, yo procuré nunca criticar el gobierno de Rajoy; menos fuera. Recuerdo que hasta en algún momento, si me pedían algo, ayudé, por ejemplo, en el procés\", ha señalado. \"Cuando se había declarado la independencia o estaba a punto, me pidieron una gestión para que hablara con Venezuela, con Maduro, por si [Maduro](/tags/nicolas-maduro/) iba a reconocerla o no\", ha explicado el expresidente, que ha señalado que fue el mismo Rajoy quien se lo pidió. [Zapatero](/tags/jose-luis-rodriguez-zapatero/) ha señalado que como expresidente ha procurado siempre \"ayudar en todo\" lo que podía y \"no dar la nota\": \"Los expresidentes al final acumulamos un volumen de defectos muy notables, de egos, de tener tanto poder, de creer que tú lo sabes todo, tenemos un problema que hay que saber gestionarlo\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics",
+      "Social Issue"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-02-02T02:45:47.801+02:00",
+    "updated": "2024-02-02T02:45:47.801+02:00"
+  },
+  {
+    "uuid": "5ec5069534b1015f7e0b2a05cb8422948cf066ab",
+    "url": "https://tech.tom.com/202508/1894681999.html",
+    "ord_in_thread": 0,
+    "author": "责任编辑： Fjq",
+    "published": "2025-08-06T11:13:00Z",
+    "title": "任天堂硬件全线涨价，Switch一代售价直逼二代_TOM科技",
+    "text": "美国单方面发起的关税大战，对世界经济造成的影响还在继续。本周末，任天堂悄悄提高了美国地区在售的几乎所有主机和配件的价格。好消息是，Switch2成了例外，并没有出现在此次涨价名单之中。\n仔细研究可以发现，任天堂本次的涨价幅度不小，尤其是Switch一代的OLED版本，现在售价已经直逼Switch2，看来老任又给了玩家一个更换主机的理由。\n谈到具体的涨价名单，首先是主机部分，Switch一代全系列都进行了一定幅度的涨价。其中，Switch Lite售价为230美元（原价200美元）、Switch一代标准版售价340美元（原价300美元）、Switch OLED售价400美元（原价350美元）。\n配件方面，从Switch一代的Joy-Con、Pro手柄，以及Switch2的Pro手柄等配件，都有至少5美元的涨幅。\n值得一提的是，任天堂不仅对手柄进行了涨价，连Amiibo、Joy-Con充电底座，以及Switch2扩展坞这样的外围配件也有一定幅度的涨价。虽然涨幅控制在5至10美元，但这样大范围的全线涨价，还是让很多玩家难以接受。\n需要注意的是，本次涨价并不是无迹可寻。美国在7月22日曾宣布对日本进口商品征收15%的关税，而就在上周，任天堂已经表示，该公司的各种Nintendo Switch主机和相关配件的定价将“根据市场情况”在美国地区发生变化。很显然，任天堂此次涨价是为了保留其利润率，将额外的关税成本转嫁给消费者。\n同时，考虑到Switch一代的OLED版本售价接近Switch2，本轮涨价也许还能促使很多老玩家升级，毕竟只剩下50美元的差价了。\n自“特朗普关税”实施以来，任天堂已经在美国地区涨价好几轮，不仅对于一代用户有影响，Switch二代用户同样受到冲击。具体来看，Switch2的Joy-Con和Pro手柄已经有过一轮涨价，现在经过二轮涨价后，售价分别为100美元和90美元，已经超过了最贵的游戏售价。\n很显然，任天堂没有打算将额外关税内部消化，为了不影响利润率，涨价成了最直接的手段。可以预见，如果“特朗普关税”不停下来，任天堂在美国地区会继续涨价。\n【以上内容转自“热点科技网”，不代表本网站观点。 如需转载请取得热点科技网许可，如有侵权请联系删除。】\n延伸阅读：\n盖世汽车2025-08-06 10:5208-06 10:52\n盖世汽车2025-08-06 10:5208-06 10:52",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Economy, Business and Finance",
+      "Science and Technology",
+      "Social Issue"
+    ],
+    "topics": [
+      "Economy, Business and Finance->business strategy and marketing",
+      "Economy, Business and Finance->consumer goods",
+      "Economy, Business and Finance->financial service",
+      "Science and Technology->economics",
+      "Science and Technology->technology and engineering",
+      "Social Issue->adults",
+      "Social Issue->social condition"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": null,
+    "webz_reporter": false,
+    "external_links": [
+      "https://auto.gasgoo.com/",
+      "https://auto.gasgoo.com",
+      "https://www.auto.gasgoo.com/"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T09:51:22.952+03:00",
+    "updated": "2025-08-14T09:56:53.000+03:00"
+  }
+]

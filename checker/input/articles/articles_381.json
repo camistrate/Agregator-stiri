@@ -1,0 +1,185 @@
+[
+  {
+    "uuid": "d1f48d6f0162d602e994200c80f2ab3e4495d00d",
+    "url": "https://www.eldesconcierto.cl/tipos-moviles/escena/2024/04/11/tiernos-titeres-destacados-por-new-york-times-llegan-con-retrospectiva-de-4-obras-al-gam.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Horacio Gutiérrez Areyte",
+    "published": "2024-04-11T21:30:00Z",
+    "title": "Tiernos títeres destacados por New York Times llegan con retrospectiva de 4 obras al GAM",
+    "text": "[Escena](/escena)\nEstas obras, que exploran la gestualidad y prescinden del texto, transmiten la esencia del movimiento humano a través de las marionetas, cautivando al espectador y sumergiéndolo en las historias de los personajes. Revisa todos los detalles aquí.\nLa compañía teatral Silencio Blanco, reconocida por su habilidad para plasmar la humanidad en sus expresivas marionetas, continúa su ciclo retrospectivo en el Centro Cultural Gabriela Mistral (GAM) hasta el 28 de abril.\nTras el éxito de su montaje «Antuco«, la compañía presenta ahora una serie de sus obras más emblemáticas, incluyendo «Pescador«, «Chiflón, el silencio del carbón» y «De papel«.\nEstas obras, que exploran la gestualidad y prescinden del texto, transmiten la esencia del movimiento humano a través de las marionetas, cautivando al espectador y sumergiéndolo en las historias de los personajes.\nDesde su fundación en 2010, Silencio Blanco se ha destacado por su delicado trabajo con marionetas y por la profundidad de sus temáticas.\nThe New York Times elogió su habilidad para manipular «sublimes títeres de aspecto crudo con tierna precisión». En este ciclo retrospectivo, la compañía celebra catorce años de trayectoria, revisando sus montajes anteriores y profundizando en los temas que dieron origen a la compañía.\nSegún Santiago Tobar, director y cofundador de Silencio Blanco, este ciclo representa una oportunidad para reflexionar sobre los temas que inspiraron la creación de la compañía y revisar su proceso artístico desde sus inicios.\n«No solo es la revisión de nuestras cuatro obras escénicas, sino también una celebración de nuestra trayectoria en el mundo del teatro chileno», comenta Tobar.\nLas obras presentadas en el ciclo incluyen «Pescador», una exploración de las sensaciones más íntimas de los personajes que trabajan en el mar; «Chiflón, el silencio del carbón», una relectura del libro «Subterra» de Baldomero Lillo que retrata la vida en una mina de carbón; y «De papel», un montaje que invita al público a explorar la simpleza e ingenuidad en situaciones cotidianas.\nDominga Gutiérrez, cofundadora de Silencio Blanco, destaca la importancia de esta retrospectiva en el contexto de la escena teatral chilena y su lucha por mantenerse relevante a lo largo de los años. El trabajo de la compañía ha sido aclamado tanto a nivel nacional como internacional, presentándose en destacados escenarios en Europa y Estados Unidos, entre otros lugares.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "positive",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Science and Technology"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-12T00:49:30.631+03:00",
+    "updated": "2024-04-12T00:49:30.631+03:00"
+  },
+  {
+    "uuid": "6c011107dfb7213262ccf0282c4b5fa1a84a6596",
+    "url": "https://meta.discourse.org/t/openai-organization-not-being-recognized/337606",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MachineScholar",
+    "published": "2024-11-22T01:22:00Z",
+    "title": "OpenAI organization not being recognized",
+    "text": "Getting a consistent OpenAI error 401 “No such organization” even though it is correctly configured in the LLM settings. What’s interesting is that this error is only occurring on two jobs:\nJobs::HotTopicsGistBatch\nMessage (31 copies reported) DiscourseAi::Completions::Endpoints::OpenAi: status: 401 - body: { \"error\": { \"message\": \"No such organization: org-kLyg2ChOSTm3xtQeTBeXxy5C.\", \"type\": \"invalid_request_error\", \"param\": null, \"code\": \"invalid_organization\" } } Backtrace /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `block in error' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `error' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:94:in `block (2 levels) in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2433:in `block in transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http/response.rb:320:in `reading_body' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2430:in `transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2384:in `request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/mini_profiler/profiling_methods.rb:50:in `step' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:18:in `request_with_mini_profiler' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:92:in `block in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1632:in `start' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1070:in `start' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:75:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/open_ai.rb:40:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/llm.rb:256:in `generate' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:133:in `fold' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:31:in `summarize' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:73:in `force_summarize' /var/www/discourse/plugins/discourse-ai/app/jobs/regular/hot_topics_gist_batch.rb:18:in `block in execute' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/plugins/discourse-ai/app/jobs/regular/hot_topics_gist_batch.rb:14:in `execute' /var/www/discourse/app/jobs/base.rb:322:in `block (2 levels) in perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management/null_instance.rb:49:in `with_connection' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management.rb:21:in `with_connection' /var/www/discourse/app/jobs/base.rb:309:in `block in perform' /var/www/discourse/app/jobs/base.rb:305:in `each' /var/www/discourse/app/jobs/base.rb:305:in `perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:202:in `execute_job' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:170:in `block (2 levels) in process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:177:in `block in invoke' /var/www/discourse/lib/sidekiq/pausable.rb:132:in `call' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:179:in `block in invoke' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/middleware/chain.rb:182:in `invoke' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:169:in `block in process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:136:in `block (6 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_retry.rb:113:in `local' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:135:in `block (5 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq.rb:44:in `block in <module:Sidekiq>' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:131:in `block (4 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:263:in `stats' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:126:in `block (3 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_logger.rb:13:in `call' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:125:in `block (2 levels) in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_retry.rb:80:in `global' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:124:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/job_logger.rb:39:in `prepare' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:123:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:168:in `process' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:78:in `process_one' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/processor.rb:68:in `run' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/component.rb:8:in `watchdog' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/sidekiq-6.5.12/lib/sidekiq/component.rb:17:in `block in safe_thread'\nJobs::SummariesBackfill\nMessage (5 copies reported) DiscourseAi::Completions::Endpoints::OpenAi: status: 401 - body: { \"error\": { \"message\": \"No such organization: org-kLyg2ChOSTm3xtQeTBeXxy5C.\", \"type\": \"invalid_request_error\", \"param\": null, \"code\": \"invalid_organization\" } } Backtrace /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `block in error' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `block in dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:231:in `dispatch' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activesupport-7.1.5/lib/active_support/broadcast_logger.rb:134:in `error' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:94:in `block (2 levels) in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2433:in `block in transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http/response.rb:320:in `reading_body' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2430:in `transport_request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:2384:in `request' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:19:in `block in request_with_mini_profiler' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/mini_profiler/profiling_methods.rb:50:in `step' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rack-mini-profiler-3.3.1/lib/patches/net_patches.rb:18:in `request_with_mini_profiler' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:92:in `block in perform_completion!' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1632:in `start' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/net-http-0.5.0/lib/net/http.rb:1070:in `start' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/base.rb:75:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/endpoints/open_ai.rb:40:in `perform_completion!' /var/www/discourse/plugins/discourse-ai/lib/completions/llm.rb:256:in `generate' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:133:in `fold' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:31:in `summarize' /var/www/discourse/plugins/discourse-ai/lib/summarization/fold_content.rb:73:in `force_summarize' /var/www/discourse/plugins/discourse-ai/app/jobs/scheduled/summaries_backfill.rb:19:in `block in execute' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/activerecord-7.1.5/lib/active_record/relation/delegation.rb:100:in `each' /var/www/discourse/plugins/discourse-ai/app/jobs/scheduled/summaries_backfill.rb:18:in `execute' /var/www/discourse/app/jobs/base.rb:322:in `block (2 levels) in perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management/null_instance.rb:49:in `with_connection' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/rails_multisite-6.1.0/lib/rails_multisite/connection_management.rb:21:in `with_connection' /var/www/discourse/app/jobs/base.rb:309:in `block in perform' /var/www/discourse/app/jobs/base.rb:305:in `each' /var/www/discourse/app/jobs/base.rb:305:in `perform' /var/www/discourse/app/jobs/base.rb:376:in `perform' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:137:in `process_queue' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:77:in `worker_loop' /var/www/discourse/vendor/bundle/ruby/3.3.0/gems/mini_scheduler-0.17.0/lib/mini_scheduler/manager.rb:63:in `block (2 levels) in ensure_worker_threads'\nHowever it doesn’t occur during normal AI bot interaction via chat. I’ve double checked and redid copy-paste of the organization so it is correctly entered.\nAre you 100% sure its the same key and same org.\nMy guess is that you are using a different LLM with a different key for the other features? We are passing it on as seen in the error message.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-22T04:40:13.784+02:00",
+    "updated": "2024-11-22T04:40:13.784+02:00"
+  },
+  {
+    "uuid": "a0fb01a6f76b7ddb9d970be9ca499f4a9b036443",
+    "url": "https://www.ajc.com/news/business/the-biggest-georgia-climate-and-environment-stories-of-2023/6LICB7HAUBF3NBXF5AG2ZFH5G4/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drew Kann",
+    "published": "2023-12-29T10:00:00Z",
+    "title": "The biggest Georgia climate and environment stories of 2023",
+    "text": "Dangerous heatwaves. More frequent severe weather. A promising year for a landmark Georgia crop undone by a warm winter and an untimely cold snap.\nA controversial mine. “Forever chemicals” in water. Questions about what to do with the toxic waste left behind from burning coal for electricity.\nExplore Explore: Georgia climate news from the AJC The biggest climate and environmental stories of 2023 showed how a warming planet and pollution are affecting the lives and livelihoods of average Georgians. But there also were stories of ingenuity and hope.\nA clean energy boom. Green jobs. Saving “sky puppies.”\nHere are the Georgia climate and environment stories to remember from 2023:\nExtreme heat\nCredit: Michael Blackshire\nCredit: Michael Blackshire\nAs the planet endured what was likely the hottest year in its recorded history, Georgia also faced dangerous heatwaves, putting vulnerable populations at risk . At the same time, new research revealed which Atlanta neighborhoods are the hottest , providing the city valuable insight to help it plan for and adapt to a warmer future .\nPeaches blitzed\nCredit: Miguel Martinez/AJC\nCredit: Miguel Martinez/AJC\nGeorgia has long been known as the Peach State, but its namesake fruit had a rough 2023 , owing to an exceptionally warm winter and a March freeze . Peaches aren’t the only crop that has struggled to adapt to rising temperatures. The state’s most valuable fruit — blueberries — has also sustained heavy losses .\nPecans lashed by a hurricane\nCredit: Special to the AJC\nCredit: Special to the AJC\nAfter Florida took a direct hit from Hurricane Idalia in late August, the storm churned north into Georgia, causing severe damage on many farms in the southern part of the state. Pecans were hit hardest , with thousands of trees uprooted by the winds on some farms, but federal help should help growers replant and recover.\nWildfires\nCredit: Georgia Forestry Commission\nCredit: Georgia Forestry Commission\nFirefighters battled several fires in northwest Georgia this fall, including at least one that was the result of arson . Bone-dry conditions, falling leaves and gusty winds combined to fuel several significant blazes. The fires were a reminder of the risk of wildfires in heavily wooded Georgia, particularly in times of drought, a condition that is likely to be more common amid a changing climate.\nGeorgia a green jobs winner\nCredit: Natrice Miller / Natrice.Miller@\nCredit: Natrice Miller / Natrice.Miller@\nAfter Hyundai announced plans to build its “Metaplant” in Georgia in 2022, the state continued its hot streak in recruiting electric vehicle (EV) and clean energy projects . Hyundai not only helped bring a wave of suppliers, the main Hyundai plant under construction in Bryan County grew to a $7.6 billion investment and 8,500 promised jobs.\nSolar panel manufacturer Qcells announced a major expansion of its production capacity at two sites in Georgia , while a host of battery makers and other EV parts suppliers announced plans to come to the state, bringing thousands of jobs with them.\nPlant Vogtle\nCredit: arvin.temkar@ajc.com\nCredit: arvin.temkar@ajc.com\nThe long-delayed and over-budget expansion of the nuclear power plant near Augusta finally switched on its first new reactor , making history in the process and bringing a major new source of clean energy to the state .\nVogtle’s second new unit, meanwhile, sustained a setback, while Georgia Power’s customers found out how much more they’ll be paying for the project .\n‘Forever chemicals’\nCredit: TNS\nCredit: TNS\nAs a federal crackdown looms on per- and polyfluoroalkyl substances — also known by their acronym, PFAS — for water supplies, new testing revealed which Georgia water systems contain concentrations of the chemicals .\nA major lawsuit over PFAS contamination in northwest Georgia reached a settlement, bringing the city of Rome tens of millions of dollars . But in its wake, a legal fight over DuPont and its successor companies’ deal with the city erupted. At the same time, water utilities across the state are weighing their options to remove the chemicals from their water supplies .\nWater war victory\nCredit: Riley Bunch/riley.bunch@ajc.com\nCredit: Riley Bunch/riley.bunch@ajc.com\nIn one of the long-running disputes with its neighbors in Alabama over the states’ shared water supplies, Georgia notched a major legal victory . And in another of the so-called “water wars,” Georgia and Alabama reached a tentative deal that could resolve a separate conflict .\nBats\nCredit: Jason.Getz@ajc.com\nCredit: Jason.Getz@ajc.com\nMany of Georgia’s bats — dubbed “sky puppies” by lovers of the flying mammals — are in serious decline due to a number of threats, from human development to a deadly fungal disease.\nAs more of the animals make their homes in bridges and culverts around the state , a multi-agency effort to protect them is paying off.\nInvasive species\nCredit: Yellow-legged hornet (Vespa velutina, formerly called Asian hornet) by Gilles San Martin is licensed under CC BY-SA 2.0 (cropped)\nCredit: Yellow-legged hornet (Vespa velutina, formerly called Asian hornet) by Gilles San Martin is licensed under CC BY-SA 2.0 (cropped)\nGeorgia is home to an impressive array of native wildlife, but a few invasive species showed up in the state this year uninvited. A bee-eating hornet and a blue land crab were among the most concerning new arrivals.\nFishing access\nCredit: TNS\nCredit: TNS\nGeorgia is home to thousands of miles of rivers and streams, but a new state law has raised questions over what is and is not a public waterway . A lawsuit is testing where the state will draw the line on the issues of private property and public access, with big implications for people who fish and other lovers of the great outdoors.\nOkefenokee mine\nCredit: Photos contributed by Georgia state parks and historic sites\nCredit: Photos contributed by Georgia state parks and historic sites\nThe fight over a proposed titanium mine near the Okefenokee National Wildlife Refuge heated up in 2023. Georgia environmental regulators released the project’s draft mining plan in January , but no permits have been issued yet.\nThen, this fall, the Okefenokee was tabbed for nomination to a prestigious list reserved for the planet’s most significant natural, historical and cultural gems . At the same time, opponents of the project have stayed on the attack, this time targeting corporate boardrooms .\nCoal ash\nCredit: TNS\nCredit: TNS\nGeorgia’s electricity providers are turning away from their dirty and expensive coal-fired power plants. But as they do, big questions remain about how to handle the pits of dangerous waste left behind by years of burning coal .\nGeorgia Power is giving some of its coal ash a second life in concrete mixes , but there are serious legal and environmental questions about its handling of the material left behind at other sites .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Weather",
+      "Disaster and Accident",
+      "Environment"
+    ],
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "michael blackshire",
+          "sentiment": "none"
+        },
+        {
+          "name": "michael blackshire credit",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ajc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "georgia",
+          "sentiment": "none"
+        },
+        {
+          "name": "atlanta",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T12:13:52.849+02:00",
+    "updated": "2023-12-29T12:13:52.849+02:00"
+  },
+  {
+    "uuid": "398710f5f22065eed239d599c2729cc761d1cc4f",
+    "url": "https://ground.news/article/liberal-catholic-priest-daniel-horan-rage-quits-twitter-after-people-pushed-back-on-his-pro-transgender-post",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Daily Caller",
+    "published": "2023-12-29T02:38:00Z",
+    "title": "Ground News - Liberal Catholic Priest Daniel Horan Rage-Quits Twitter After People Pushed Back On His Pro-Transgender Post",
+    "text": "Summary by The Daily Caller Franciscan Fr. Daniel Horan quit Twitter after receiving pushback on a pro-transgender tweet, he wrote for the National Catholic Reporter (NCR). Share menu More\nFilters 1 Articles 1 Articles All Left Center Right\nThe Daily Caller Right Mixed Factuality Individual: Tucker Carlson Individual: Neil Patel Liberal Catholic Priest Daniel Horan Rage-Quits Twitter After People Pushed Back On His Pro-Transgender Post Franciscan Fr. Daniel Horan quit Twitter after receiving pushback on a pro-transgender tweet, he wrote for the National Catholic Reporter (NCR).\n5 hours ago · Washington, United States Read Full Article\nThe Daily Caller Right Mixed Factuality Individual: Tucker Carlson Individual: Neil Patel\nLiberal Catholic Priest Daniel Horan Rage-Quits Twitter After People Pushed Back On His Pro-Transgender Post Franciscan Fr. Daniel Horan quit Twitter after receiving pushback on a pro-transgender tweet, he wrote for the National Catholic Reporter (NCR).\n5 hours ago · Washington, United States Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Religion and Belief",
+      "Social Issue",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://dailycaller.com/2023/12/28/liberal-catholic-priest-dan-horan-quit-twitter-transgender-notre-dame-college/?utm_source=ground.news&utm_medium=referral",
+      "https://www.dailycaller.com/2023/12/28/liberal-catholic-priest-dan-horan-quit-twitter-transgender-notre-dame-college/?utm_source=ground.news&utm_medium=referral",
+      "https://dailycaller.com/2023/12/28/liberal-catholic-priest-dan-horan-quit-twitter-transgender-notre-dame-college/"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "daniel horan",
+          "sentiment": "neutral"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "ground news - liberal catholic priest daniel horan rage",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "neil patel liberal catholic priest daniel horan rage",
+          "sentiment": "none"
+        },
+        {
+          "name": "national catholic",
+          "sentiment": "none"
+        },
+        {
+          "name": "tucker carlson individual",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "united states",
+          "sentiment": "none"
+        },
+        {
+          "name": "washington",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T06:40:38.245+02:00",
+    "updated": "2023-12-29T06:40:38.245+02:00"
+  }
+]

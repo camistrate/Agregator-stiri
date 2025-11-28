@@ -1,0 +1,542 @@
+[
+  {
+    "uuid": "779b07c68411ec6ffe2e72ec7606f21861b42611",
+    "url": "https://www.gurufocus.com/news/2798673/xilio-therapeutics-to-present-updated-phase-2-data-for-vilastobart-a-tumoractivated-fcenhanced-antictla4-in-combination-with-atezolizumab-in-patients-with-microsatellite-stable-colorectal-cance",
+    "ord_in_thread": 0,
+    "author": "@gurufocus",
+    "published": "2025-04-23T21:07:11Z",
+    "title": "Xilio Therapeutics to Present Updated Phase 2 Data for Vilastobart, a Tumor-Activated, ...",
+    "text": "- Xilio Therapeutics (\nXLO,Financial) to present updated Phase 2 data for vilastobart at ASCO 2025. - The trial investigates a combination therapy for metastatic microsatellite stable colorectal cancer (MSS CRC).\n- Data presentation scheduled for May 31, 2025, in Chicago, Illinois.\nXilio Therapeutics, Inc. (XLO) has announced its plan to present updated data from its ongoing Phase 2 clinical trial for vilastobart, an investigational tumor-activated, Fc-enhanced anti-CTLA-4 monoclonal antibody. This presentation is part of the upcoming 2025 American Society of Clinical Oncology (ASCO) Annual Meeting in Chicago, Illinois.\nThe focus of this trial is the efficacy of vilastobart when used in combination with atezolizumab (Tecentriq®) in patients suffering from metastatic microsatellite stable colorectal cancer (MSS CRC). The presentation detailing these findings is scheduled for Saturday, May 31, 2025, from 9:00 a.m. to 12:00 p.m. CDT, during the Gastrointestinal Cancer - Colorectal and Anal poster session.\nThe Abstract ID for this presentation is 3553, and it will be displayed on Poster Board 222 at the conference. This event is expected to offer significant insights into the potential benefits and advancements of the vilastobart-atezolizumab combination therapy, as Xilio continues to explore novel approaches to cancer treatment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "topics": [
+      "Health->cancer",
+      "Health->medical profession",
+      "Health->health treatment and procedure",
+      "Science and Technology->biotechnology",
+      "Science and Technology->scientific publication",
+      "Science and Technology->medical research"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "ASCO",
+          "sentiment": "negative",
+          "tickers": []
+        },
+        {
+          "name": "Xilio Therapeutics, Inc.",
+          "sentiment": "none",
+          "tickers": []
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-04-24T00:07:11.248+03:00",
+    "updated": "2025-04-24T00:07:11.248+03:00"
+  },
+  {
+    "uuid": "bdff47d9a8bc78517d90b777620d983dd406e7fb",
+    "url": "https://www.storm.mg/article/11060273",
+    "ord_in_thread": 0,
+    "author": "風傳媒",
+    "published": "2025-08-14T07:11:00Z",
+    "title": "愛國晶片好難用，華為派人救火也沒效！金融時報：「深度求索」被迫採用昇騰晶片，訓練新模型卡關",
+    "text": "在美中科技戰的背景下，中國傾全國之力發展半導體自主化，但英國《金融時報》14日指出，被譽為ChatGPT挑戰者的中國AI新創公司「深度求索」（DeepSeek），其備受期待的第二代大型語言模型（R2）驚傳開發延遲。核心原因可能是採用華為自產的昇騰（Ascend）AI晶片，才會再訓練時遭遇難以克服的技術瓶頸，打亂DeepSeek的產品發布節奏。英國《金融時報》稱，這凸顯了中國想用國產晶片取代輝達（Nvidia）的產品，仍有漫漫長路要走。\n《金融時報》（Financial Times）引述三位知情人士說法，指出DeepSeek在今年1月發表其初代模型後，便受到中國官方的「鼓勵」，希望他們能採用華為的昇騰處理器來開發下一代模型，而非依賴受美國出口管制的輝達晶片。然而DeepSeek在利用昇騰晶片進行R2模型的「訓練」的過程中，卻持續遭遇技術性問題。\n消息人士透露，這些技術障礙是導致R2模型嚴重推遲的主因，也讓DeepSeek在與阿里巴巴的「通義千問」、百度的「文心一言」等對手的競爭中，暫時處於下風。為了挽救頹勢，DeepSeek最終被迫做出妥協：回到使用輝達晶片完成最關鍵的訓練階段，而將華為的昇騰晶片用於相對要求較低的「推理」環節（利用已經訓練好的模型來執行任務）。\n華為工程師親赴救火 仍難力挽狂瀾\n這起開發困境的背後，並非DeepSeek單打獨鬥。兩名知情人士表示，為了協助DeepSeek順利使用其AI晶片，華為甚至派遣了一支工程師團隊進駐DeepSeek的辦公室，提供現場技術支援。儘管有「原廠」專家親自坐鎮，DeepSeek依然無法藉助昇騰晶片完成一次完整的模型訓練。這項挫敗清楚地表明，華為的產品在穩定性、晶片間的互聯速度以及軟體配套上，與輝達相比仍有明顯的差距。\n《金融時報》稍早才報導，北京當局已開始要求中國科技公司必須為採購輝達降規版晶片H20提出「正當理由」，意在鼓勵企業轉向華為或寒武紀（Cambricon）等國產替代方案。然而，業界普遍的反應是，國產晶片仍有待磨練。\n除了晶片問題，另一位知情人士補充說，R2模型的更新所需進行的「數據標註」（Data Labeling）工作，耗時也比預期更長，這也是導致延遲的原因之一。中國媒體則指出，R2模型的發表雖然延遲，但最快仍將在未來幾週內發布。\nDeepSeek被迎頭趕上\n消息人士指出，DeepSeek的創辦人梁文峰已經表達對R2模型開發進度的不滿。這場延遲風波，也讓外界開始重新審視AI領域的競爭格局。加州大學柏克萊分校的AI研究員李維克・古普塔（Ritwik Gupta）表示：「模型本身就像是商品，可以輕易被替換。」許多開發者正轉向使用阿里巴巴強大且靈活的「通義千問3」（Qwen3）模型，長期追蹤華為AI生態系的古普塔表示，華為在使用昇騰晶片進行模型訓練方面，正經歷「成長的痛苦」，但他預期華為最終仍能突破難關。\n面對美中之間的科技角力，輝達的角色也顯得微妙。該公司近期同意向美國政府支付其在中國銷售降規版晶片H20的部分收入，以換取繼續向中國市場供貨的許可。輝達對此表示：「開發者將在建立成功的AI生態系中扮演關鍵角色。放棄整個市場和開發者，只會損害美國的經濟與國家安全。」",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "chinese",
+    "sentiment": "negative",
+    "categories": [
+      "Science and Technology"
+    ],
+    "topics": [
+      "Science and Technology->biomedical science",
+      "Science and Technology->technology and engineering"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": true,
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092",
+      "https://ft.com/content/eb984646-6320-4bfe-a78d-a1da2274b092"
+    ],
+    "external_images": [],
+    "internal_images": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "top_news": [
+        "top_news_hk",
+        "top_news_tw",
+        "top_news"
+      ],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-08-14T10:17:19.788+03:00",
+    "updated": "2025-08-15T11:04:23.000+03:00"
+  },
+  {
+    "uuid": "b504bf65758205d7ebf32b131e3c9093e9fc6c9e",
+    "url": "https://www.meneame.net/story/perfil-juez-investiga-begona-gomez-aspiraciones-cargos-truncadas/c0122",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ganpalo",
+    "published": "2024-04-25T20:34:00Z",
+    "title": "#122 El perfil del juez que investiga a Begoña Gómez: aspiraciones a cargos truncadas y una hija de concejal en el PP",
+    "text": "Portada\nmis comunidades\notras secciones\nA la familia del presidente ni tocarla que se viene abajo la democracia. A la familia del juez que simplemente ha admitido a trámite una denuncia... ahí vale todo.\nMe parto con la coherencia de esta gente.\n[#109](c109#c-109) Admitir una denuncia es muy fácil, eso es casi siempre, para saber que una denuncia es falsa lo primero es admitirla y estudiarla. Que te admitan una denuncia no supone nada. Si yo me invento que una persona me ha pegado una paliza, lo primero que tiene que hacer el juez es estudiar mi caso para saber si ha ocurrido algo. El juez sin estudiar las cosas no puede saber la verdad.\nAqui resaltan algunos otros casos que ha llevado.\nQuién es el juez Juan Carlos Peinado, que ha abierto diligencias contra Begoña Gómez\nhttps://www.heraldo.es/noticias/nacional/2024/04/24/quien-juez-juan-carlos-peinado-diligencias-begona-gomez-trafico-influencias-1728821.html\n[#103](c103#c-103) Me leí la espectacular denuncia de Manos Limpias contra Begoña Gómez, he investigado y he ido buscando artículo por artículo todos los que este \"sindicato\" aporta como \"pruebas\" [#2](c2#c-2) en el momento en que el periodismo se definió como el \"cuarto poder\" comprendieron que era un poder que podían comprar y manipular vía subvenciones, publicidad institucional y presentar cualquier aberración como noticia amparándose en la \"línea editorial\" y la libertad de prensa. Poco periodismo queda hoy día... no son más que mensajes controlados (de uno y otro signo) dirigidos a sus respectivos rebaños... a quien haga hoy día periodismo de verdad le auguro una muy corta carrera.\n[#10](c10#c-10) Si se lee la noticia sin el titular, que la hija sea del PP queda en algo anetdótico, cuando lo dicen en el titular ya empieza a dar bastante asquete por el señalamiento.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "spanish",
+    "sentiment": "negative",
+    "categories": [
+      "Politics",
+      "Crime, Law and Justice"
+    ],
+    "webz_reporter": false,
+    "external_links": [
+      "https://www.heraldo.es/noticias/nacional/2024/04/24/quien-juez-juan-carlos-peinado-diligencias-begona-gomez-trafico-influencias-1728821.html",
+      "https://heraldo.es/noticias/nacional/2024/04/24/quien-juez-juan-carlos-peinado-diligencias-begona-gomez-trafico-influencias-1728821.html"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [],
+      "locations": []
+    },
+    "rating": null,
+    "crawled": "2024-04-26T00:45:50.171+03:00",
+    "updated": "2024-04-26T00:45:50.171+03:00"
+  },
+  {
+    "uuid": "ba89b159fe938ece95b03874b0e39a5ee4c16728",
+    "url": "https://www.newsbreak.com/new-york-city-ny/3287098345254-ny-new-york-s-most-loveable-puppies-eagerly-awaits-forever-homes-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-01-05T06:01:00Z",
+    "title": "NY new york's Most Loveable Puppies Eagerly Awaits Forever Homes Today!",
+    "text": "Interested in adding a furry friend to your family? Even if you're just keen on viewing some of the cute critters available for adoption nearby, there are ample pets waiting for their forever homes in animal shelters throughout and around new york. Animal shelters and pet rescue groups work hard to care for unhoused pets and connect them to loving homes. Name: Leela *foster needed* Species: Coonhound Hound mixed Info: Dog, Female, Baby, Large Location: New York, NY, 10010 Description: Meet Leela, a 12 week old, 14 pound (as of 1/3), adorable Hound mix. She is great with other dogs... Click to see more Name: Ladybird *foster needed* Species: Coonhound Hound mixed Info: Dog, Female, Baby, Large Location: New York, NY, 10010 Description: Meet Ladybird, a 12 week old, 15 pound (as of 1/3), adorable Hound mix. She is great with other dogs... Click to see more Each young being craves the comfort of a nurturing home. If you're ready to give them that by opening your doors and heart, just follow the process detailed in the enclosed link. Your generosity towards these innocent animals is profoundly appreciated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure"
+    ],
+    "external_links": [
+      "https://petfinder.com/dog/leela-star-foster-needed-star-70238351/ny/new-york/pupstarz-rescue-ny1270/?referrer_id=7c1c89d1-2d01-4be1-a862-b300ca38733c&utm_source=api&utm_medium=partnership&utm_content=7c1c89d1-2d01-4be1-a862-b300ca38733c",
+      "https://www.petfinder.com/dog/leela-star-foster-needed-star-70238351/ny/new-york/pupstarz-rescue-ny1270/",
+      "https://www.petfinder.com/dog/ladybird-star-foster-needed-star-70238339/ny/new-york/pupstarz-rescue-ny1270/?referrer_id=7c1c89d1-2d01-4be1-a862-b300ca38733c&utm_source=api&utm_medium=partnership&utm_content=7c1c89d1-2d01-4be1-a862-b300ca38733c",
+      "https://www.petfinder.com/dog/ladybird-star-foster-needed-star-70238339/ny/new-york/pupstarz-rescue-ny1270/",
+      "https://www.petfinder.com/dog/leela-star-foster-needed-star-70238351/ny/new-york/pupstarz-rescue-ny1270/?referrer_id=7c1c89d1-2d01-4be1-a862-b300ca38733c&utm_source=api&utm_medium=partnership&utm_content=7c1c89d1-2d01-4be1-a862-b300ca38733c",
+      "https://petfinder.com/dog/ladybird-star-foster-needed-star-70238339/ny/new-york/pupstarz-rescue-ny1270/?referrer_id=7c1c89d1-2d01-4be1-a862-b300ca38733c&utm_source=api&utm_medium=partnership&utm_content=7c1c89d1-2d01-4be1-a862-b300ca38733c"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "meet leela",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "new york",
+          "sentiment": "none"
+        },
+        {
+          "name": "ny",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:44:14.987+02:00",
+    "updated": "2024-01-06T00:44:14.987+02:00"
+  },
+  {
+    "uuid": "57c770943963d85c4ebaab6416f66c7be8d8750c",
+    "url": "https://www.wdbj7.com/2023/12/28/7-year-olds-family-getting-ready-say-goodbye-he-battles-disease/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wdbj7",
+    "published": "2023-12-28T23:41:00Z",
+    "title": "7-year-old’s family getting ready to say goodbye as he battles disease",
+    "text": "7-year-old’s family getting ready to say goodbye as he battles disease ROANOKE, Va. (WDBJ) - In life’s most challenging moments, the boundless love of a family shines through as they care for Mikah Furrow, a courageous young boy battling a disease. Mikah is in the final moments of his life, bravely fighting against this illness. His grandmother, Donna Furrow, and great aunt, Carlene Robinson, have been his caretakers since birth. “We asked him just to stay with us until today until you got here and did his story,” explained Furrow and Robinson. “And he did.” His caretakers don’t know how much time they have left with him. “Mikah today is what we would call actively dying,” said Carilion Hospice RN Case Manager Krysta Smoot. “He has made a sudden decline in the last week, where he’s not really waking up.” But they do know they want his story to be heard. “When he was born, we knew that he had CMV,” added Furrow and Robinson. “But we had no idea the magnitude of what that meant.” Mikah’s journey began with Congenital CMV, a common cause of birth defects in the US. The [CDC reports](https://www.cdc.gov/cmv/congenital-infection.html) that 1 out of 200 babies is born with the disease, and 1 out of 5 babies with CMV will have long-term health problems. Due to his illness, Mikah’s life in Vinton has been marked by cerebral palsy, epilepsy, and developmental delays. Yet, his family’s unwavering dedication and his unbreakable spirit have defied all odds. “So, we made a decision together, that every day that he lived was going to be the best day of his life,” said Furrow and Robinson. “And that’s what it’s been.” A year ago, the family made the difficult decision to enroll Mikah in [Carilion Clinic’s Pediatric Hospice Care](https://www.carilionclinic.org/specialties/hospice). “No one should have to do that for their child,” said Furrow and Robinson. “But when you are able to make decisions for his quality of care, when you’re not in the midst of your crisis, that’s when you need to make those decisions. Even though it was the hardest day, it’s been the best thing that we could have ever done.” Contrary to misconceptions about hospice, the family has received support, comfort, and medical guidance. “These families get the extra layer of support in the home that they deserve while taking care of a medically complex child,” said Smoot. “But can also see their specialist inside the hospital.” Amidst their journey, music therapy has been a cherished gift—especially for Mikah. “She started playing this little boy nursery rhymes. And he would clap along. He would shake his little jingle bells,” explained Smoot. “And I have never seen Mikah light up the way he does.” The staff has gone above and beyond, showering Mikah and his family with love. “We’ve been able to do pictures for him. We’ve been able to do crafts with him,” added Smoot. “And no, that’s not my job title. But my job is to love on this. This little boy and their family and that’s what I’m doing.” As they prepare to say goodbye, Mikah’s family wants to show him how much he’s loved. “I think he does know that,” added Furrow and Robinson. “And we know at the end of the day that we’ve done everything that we could to care for him. And that’s all you can do. And he’s given us so many gifts, and they will never they will continue forever.” Though Mikah’s song will end too soon, his family says it’s one they’ll remember forever. Mikah’s family encourages every pregnant woman to ask her doctor for a CMV screening or seek information about it if considering having a baby. They believe this can reduce the severity and potentially save a child’s life. WDBJ7 thanks Mikah and his family for sharing their story. Our hearts go out to them. “ Copyright 2023 WDBJ. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Disaster and Accident",
+      "Health",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.carilionclinic.org/specialties/hospice).",
+      "https://www.cdc.gov/cmv/congenital-infection.html)",
+      "https://carilionclinic.org/specialties/hospice).",
+      "https://cdc.gov/cmv/congenital-infection.html)"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "robinson",
+          "sentiment": "none"
+        },
+        {
+          "name": "donna furrow",
+          "sentiment": "none"
+        },
+        {
+          "name": "carlene robinson",
+          "sentiment": "none"
+        },
+        {
+          "name": "krysta smoot",
+          "sentiment": "none"
+        },
+        {
+          "name": "mikah furrow",
+          "sentiment": "none"
+        },
+        {
+          "name": "furrow",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "carilion hospice",
+          "sentiment": "none"
+        },
+        {
+          "name": "cdc",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "va.",
+          "sentiment": "none"
+        },
+        {
+          "name": "roanoke",
+          "sentiment": "none"
+        },
+        {
+          "name": "us",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T02:02:36.075+02:00",
+    "updated": "2023-12-29T02:02:36.075+02:00"
+  },
+  {
+    "uuid": "aacbb953b6785ca49232474fcd142515c8583c69",
+    "url": "https://www.segre.com/ca/lleida/250501/l-screenbox-reforcar-bar-i-les-llibreries-tancar_810921.html",
+    "ord_in_thread": 0,
+    "author": "REDACCIÓ",
+    "published": "2025-05-01T03:30:00Z",
+    "title": "L'Screenbox va reforçar el bar i les llibreries van tancar",
+    "text": "L’Screenbox va reforçar el bar i les llibreries van tancar\nEls establiments del sector cultural de Lleida van viure l’apagada de formes diverses. El complex Screenbox, que va haver de suspendre la majoria de projeccions previstes fins a les 19.00, quan a la fi van recuperar la llum. L’equip de treballadors del cine va col·laborar amb els del servei de bar per atendre el centenar de persones que van passar pel local a la recerca de refugi i menjar, asseguren els seus responsables. D’altra banda, els treballadors de la llibreria la irreductible no van poder abandonar l’establiment fins a la 1.00 de la matinada, ja que “no hi havia manera de tancar la porta ni d’abaixar la reixa”, van explicar. En el cas de la Caselles, van poder activar la reixa manualment al migdia i ja no van obrir les portes a la tarda. Per la seua part, La Fatal va decidir tancar a les 18.00.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "catalan",
+    "sentiment": "negative",
+    "categories": [
+      "Arts, Culture and Entertainment",
+      "Lifestyle and Leisure"
+    ],
+    "topics": [
+      "Arts, Culture and Entertainment->library and museum",
+      "Arts, Culture and Entertainment->cultural development",
+      "Lifestyle and Leisure->lifestyle",
+      "Lifestyle and Leisure->leisure venue",
+      "Lifestyle and Leisure->club and association"
+    ],
+    "ai_allow": true,
+    "has_canonical": false,
+    "breaking": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "entities": {
+      "persons": [],
+      "locations": [],
+      "organizations": []
+    },
+    "syndication": {
+      "syndicated": null,
+      "syndicate_id": null,
+      "first_syndicated": false
+    },
+    "trust": {
+      "categories": [],
+      "bias": null,
+      "source": {
+        "type": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "domain_type": null,
+        "agency": null,
+        "organization_name": null
+      }
+    },
+    "rating": null,
+    "crawled": "2025-05-01T07:05:05.042+03:00",
+    "updated": "2025-05-01T04:20:12.000+00:00"
+  },
+  {
+    "uuid": "4d48ea51037b4740b9a0a00c580ff48e7c79f4f1",
+    "url": "https://sputnikglobe.com/20240822/act-of-madness-us-soft-launches-new-nuclear-plans-refocusing-on-russia-and-china---report-1119877155.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mary Manley",
+    "published": "2024-08-22T23:04:00Z",
+    "title": "‘Act of Madness’: US Soft Launches New Nuclear Plans Refocusing on Russia and China - Report",
+    "text": "In March, US President Joe Biden approved a highly classified nuclear strategic plan for the US that will refocus its “deterrent strategy to focus on China”, a report from a US-based newspaper claimed. The US believes China is expanding its nuclear arsenal “rapidly”, and that their stockpiles will rival the size and diversity of the US and China over the next decade.The White House did not announce that Biden had revised the “Nuclear Employment Guidance”, which will prepare the US for possible nuclear warfare with China, Russia and North Korea. On Wednesday, KJ Noh, a journalist, political analyst and educator, sat down with Sputnik’s The Backstory and addressed the US government’s recent signal of global provocation. “And I think it's just to kind of normalize the idea that we are moving towards nuclear war,” he continued. “And this comes out of several different pieces. The US went from the doctrine of mad neutral assured destruction to what is called NUTS. It's nuclear utilization, target selection.”Vipin Narang, an MIT nuclear strategist who served in the Pentagon reportedly said earlier this month that Biden has “recently issued updated nuclear-weapons employment guidance to account for multiple nuclear-armed adversaries.” A separate insider told the news outlet that the US is prepared to respond to nuclear crises that “break out simultaneously or sequentially” with a combination of nuclear and nonnuclear weapons.“But, of course, we can look at the Chinese response,” the analyst explained. “The Chinese say - this is from their foreign ministry - they say that the US is hyping the China threat and this is a pretext for the US to shirk its obligations of nuclear disarmament, and to expand its own nuclear arsenal and to seek absolute strategic dominance.”The recent report explained that the US has changed its thoughts regarding nuclear weapons because of the partnerships made between Russia, China, North Korea and Iran.“...Thousands and thousands of suppliers supply components for US military weapons that they …could very easily use against China. So this is the interconnected nature of the modern supply chain. And, at the same time, I think there is an ideological core,” he added. “These are the neocon crazies who think that they can have their cake and eat it, too. That they can destroy China and somehow still come out the other end and have a functioning society.”Sputnik’s Rachel Blevins asked the show’s guest if there is a possible US presidential candidate who may be able to de-escalate tensions with China. US Republicans have criticized Minnesota Governor Tim Walz for having “connections to China” because he has “gone to China” and “taught in China”.“And they're talking about going after [US general election VP candidate] Tim Walz for not being anti-China enough, as if he didn't pass significant legislation attacking and trying to undermine China. So, I think it is a complete and total groupthink, it's a deadly groupthink.”This month, Nagasaki marked the 79th anniversary of the devastating atomic bomb attack in World War II by the US on its city. Hiroshima marked the anniversary as well, with Mayor Kazumi Matsui encouraging the world to not be resigned to pessimism as continued global conflicts have given rise to fears of nuclear war.Within the first four days of the blast, roughly 120,000 people died as a result of American bombing. While some were vaporized in an instant, others suffered from their wounds or radiation. Just three days later, a second atomic bomb was used to devastate the city of Nagasaki where an estimated 73,000 people were killed by an American bomb. https://sputnikglobe.com/20231105/north-korea-us-japan-south-korea-military-alliance-could-trigger-world-war-iii-1114742729.html https://sputnikglobe.com/20240529/how-us-is-flirting-with-idea-of-limited-nuclear-conflict-with-russia-and-china-1118682784.html https://sputnikglobe.com/20240807/whats-kamala-harris-running-mate-tim-walz-infamous-for-1119671310.html china russia north korea iran",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "War, Conflict and Unrest",
+      "Politics"
+    ],
+    "ai_allow": true,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "joe biden",
+          "sentiment": "neutral"
+        },
+        {
+          "name": "vipin narang",
+          "sentiment": "none"
+        },
+        {
+          "name": "kj noh",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "white house",
+          "sentiment": "none"
+        },
+        {
+          "name": "mit",
+          "sentiment": "none"
+        },
+        {
+          "name": "pentagon",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "russia",
+          "sentiment": "none"
+        },
+        {
+          "name": "china",
+          "sentiment": "none"
+        },
+        {
+          "name": "north korea",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "syndication": {
+      "syndicated": false,
+      "syndicate_id": null
+    },
+    "rating": null,
+    "crawled": "2024-08-23T02:09:04.514+03:00",
+    "updated": "2024-08-23T03:18:29.172+03:00"
+  },
+  {
+    "uuid": "84c6fe3ed3f5cd50cc48f37ae6b9f16a8d97faf5",
+    "url": "https://www.kbtx.com/2024/01/05/why-january-is-best-time-start-planning-your-2024-travel/",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@kbtxnews",
+    "published": "2024-01-05T20:58:00Z",
+    "title": "Why January is the best time to start planning your 2024 travel",
+    "text": "Why January is the best time to start planning your 2024 travel BRYAN, Texas (KBTX) - Whether you’re preparing to pack your bags now, in the summertime, or for the holidays, Certified Travel Advisor [Brooke Harrington](https://www.harringtontravelco.com/) recommends starting the planning process in January. Harrington says it’s cheaper the earlier in the year you start the process. “I actually just got off the phone with a client that’s looking at December,” Harrington said. “I was like ‘you’re absolutely going to get the best price point planning in January looking forward to December.” Harrington said if you’re not sure of where you’d like to travel yet in 2024, a travel advisor can help you choose. On the other hand, if you know exactly where you’re headed, they can help you choose the best accommodations. “What travel advisors really bring to the table is first-hand destination knowledge,” Harrington said. “I specialize in the Caribbean and Mexico.” Harrington said booking with a travel advisor can eliminate a lot of the stress that can come with planning a trip. She said not all hotels and properties are created equal, so an agent can make sure you’re getting a quality place for the best price. Harrington also said it’s best to plan early because you have a lot more options on what you can do, and there is more availability on activities and tours for your itinerary. Copyright 2024 KBTX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+      "Lifestyle and Leisure",
+      "Human Interest"
+    ],
+    "external_links": [
+      "https://www.harringtontravelco.com/),",
+      "https://harringtontravelco.com/),"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [
+        {
+          "name": "harrington",
+          "sentiment": "none"
+        },
+        {
+          "name": "brooke harrington",
+          "sentiment": "none"
+        }
+      ],
+      "organizations": [],
+      "locations": [
+        {
+          "name": "texas",
+          "sentiment": "none"
+        },
+        {
+          "name": "mexico",
+          "sentiment": "none"
+        },
+        {
+          "name": "caribbean",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2024-01-06T00:36:48.014+02:00",
+    "updated": "2024-01-06T02:18:44.789+02:00"
+  },
+  {
+    "uuid": "07e6184af56871700c3530bbd5173f5cdcb513c6",
+    "url": "https://ground.news/article/mysterious-morel-mushrooms-at-center-of-food-poisoning-outbreak_a47966",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Billings Gazette",
+    "published": "2023-12-28T22:15:00Z",
+    "title": "Ground News - Mysterious morel mushrooms at center of food poisoning outbreak",
+    "text": "Summary by The Billings Gazette A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy. Share menu More\nFilters 6 Articles 6 Articles All Left Center Right\nThe Billings Gazette Center High Factuality Media Conglomerate: Lee Enterprises Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Billings, United States Read Full Article\nThe Billings Gazette Center High Factuality Media Conglomerate: Lee Enterprises\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Billings, United States Read Full Article Lincoln Journal Star Center High Factuality Media Conglomerate: Lee Enterprises Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Cherokee County, United States Read Full Article\nLincoln Journal Star Center High Factuality Media Conglomerate: Lee Enterprises\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Cherokee County, United States Read Full Article Helena Independent Record Center High Factuality Media Conglomerate: Lee Enterprises Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Helena, United States Read Full Article\nHelena Independent Record Center High Factuality Media Conglomerate: Lee Enterprises\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Helena, United States Read Full Article News & Record Lean Left High Factuality Media Conglomerate: Lee Enterprises Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Cherokee County, United States Read Full Article\nNews & Record Lean Left High Factuality Media Conglomerate: Lee Enterprises\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Cherokee County, United States Read Full Article Omaha World-Herald Center High Factuality Media Conglomerate: Lee Enterprises Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Omaha, United States Read Full Article\nOmaha World-Herald Center High Factuality Media Conglomerate: Lee Enterprises\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago · Omaha, United States Read Full Article Denison Bulletin & Review - DBRNews.com Center High Factuality Mysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago Read Full Article\nDenison Bulletin & Review - DBRNews.com Center High Factuality\nMysterious morel mushrooms at center of food poisoning outbreak A food poisoning outbreak that killed two people and sickened 51, stemming from a Montana restaurant, has highlighted just how little is known about morel mushrooms and the risks in preparing the popular and expensive delicacy.\n3 hours ago Read Full Article Think freely. Subscribe and get full access to Ground News Subscriptions start at $9.99/year Subscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+      "Health",
+      "Science and Technology"
+    ],
+    "external_links": [
+      "https://billingsgazette.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_ebb59599-237c-548e-b83e-708d0f775d14.html?utm_source=ground.news&utm_medium=referral",
+      "https://journalstar.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_cbd6375b-02a9-5c62-8551-2fa8eb765238.html?utm_source=ground.news&utm_medium=referral",
+      "https://helenair.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_39a673b3-284e-5a74-a117-7a389c4f839c.html?utm_source=ground.news&utm_medium=referral",
+      "https://omaha.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_4506e23f-b50f-5abf-9fcc-19731ddb9f22.html?utm_source=ground.news&utm_medium=referral",
+      "https://dbrnews.com/news/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_f6a20466-fd47-5e29-b667-65c55b01529c.html?utm_source=ground.news&utm_medium=referral",
+      "https://greensboro.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_1033abfb-81df-5ce9-b4c2-882ff73ed7fb.html?utm_source=ground.news&utm_medium=referral",
+      "https://journalstar.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_cbd6375b-02a9-5c62-8551-2fa8eb765238.html",
+      "https://www.journalstar.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_cbd6375b-02a9-5c62-8551-2fa8eb765238.html?utm_source=ground.news&utm_medium=referral",
+      "https://helenair.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_39a673b3-284e-5a74-a117-7a389c4f839c.html",
+      "https://www.dbrnews.com/news/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_f6a20466-fd47-5e29-b667-65c55b01529c.html?utm_source=ground.news&utm_medium=referral",
+      "https://billingsgazette.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_ebb59599-237c-548e-b83e-708d0f775d14.html",
+      "https://www.omaha.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_4506e23f-b50f-5abf-9fcc-19731ddb9f22.html?utm_source=ground.news&utm_medium=referral",
+      "https://www.billingsgazette.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_ebb59599-237c-548e-b83e-708d0f775d14.html?utm_source=ground.news&utm_medium=referral",
+      "https://greensboro.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_1033abfb-81df-5ce9-b4c2-882ff73ed7fb.html",
+      "https://www.greensboro.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_1033abfb-81df-5ce9-b4c2-882ff73ed7fb.html?utm_source=ground.news&utm_medium=referral",
+      "https://dbrnews.com/news/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_f6a20466-fd47-5e29-b667-65c55b01529c.html",
+      "https://omaha.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_4506e23f-b50f-5abf-9fcc-19731ddb9f22.html",
+      "https://www.helenair.com/news/nation-world/morel-mushrooms-food-poisoning-outbreak-daves-sushi-bozeman-montana-restaurant/article_39a673b3-284e-5a74-a117-7a389c4f839c.html?utm_source=ground.news&utm_medium=referral"
+    ],
+    "external_images": [],
+    "entities": {
+      "persons": [],
+      "organizations": [
+        {
+          "name": "billings gazette center high factuality media conglomerate",
+          "sentiment": "none"
+        }
+      ],
+      "locations": [
+        {
+          "name": "montana",
+          "sentiment": "none"
+        },
+        {
+          "name": "united states",
+          "sentiment": "none"
+        }
+      ]
+    },
+    "rating": null,
+    "crawled": "2023-12-29T00:43:31.925+02:00",
+    "updated": "2023-12-29T00:43:31.925+02:00"
+  }
+]

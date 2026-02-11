@@ -48,7 +48,6 @@ public class Tema1 {
     static List<String> languagesOrder =  new ArrayList<>();
     static List<String> categoriesOrder =  new ArrayList<>();
 
-    // pentru membership rapid
     static Set<String> languagesSet = new HashSet<>();
     static Set<String> categoriesSet = new HashSet<>();
 
@@ -152,7 +151,6 @@ public class Tema1 {
                     String uuid = (String) article.get("uuid");
                     String title = (String) article.get("title");
 
-
                     // verificare duplicate
                     if (uuidCount.get(uuid) != 1 || titleCount.get(title) != 1) {
                         continue;
@@ -185,11 +183,11 @@ public class Tema1 {
                     }
 
                     // procesare categorii
-                    // extragem lista brută
+                    // extragem lista bruta
                     Object rawCats = article.get("categories");
                     List<?> catsRaw = (rawCats instanceof List<?>) ? (List<?>) rawCats : Collections.emptyList();
 
-                    // eliminăm duplicatele interne + filtrăm categoriile invalide
+                    // eliminam duplicatele interne si filtram categoriile invalide
                     Set<String> uniqueCats = new HashSet<>();
 
                     for (Object oc : catsRaw) {
@@ -201,13 +199,13 @@ public class Tema1 {
                         }
                     }
 
-                    // update categoryCount + mapare uuid -> categorie
+                    // update categoryCount si mapare uuid -> categorie
                     for (String cat : uniqueCats) {
                         categoryCount.merge(cat, 1, Integer::sum);
 
                         categoryToUUIDs
-                                .computeIfAbsent(cat, k -> ConcurrentHashMap.newKeySet())  // SET, nu List
-                                .add(uuid);   // set elimina duplicate complet
+                                .computeIfAbsent(cat, k -> ConcurrentHashMap.newKeySet())
+                                .add(uuid);
                     }
 
                     // lista allArticles
@@ -224,13 +222,6 @@ public class Tema1 {
                 System.err.println("Eroare la citirea fisierului " + filePath);
                 e.printStackTrace();
             }
-
-            // decrementam
-//            if (tasksRemaining.decrementAndGet() == 0) {
-//                synchronized (monitor) {
-//                    monitor.notifyAll();
-//                }
-//            }
         }
     }
 
@@ -303,14 +294,18 @@ public class Tema1 {
     static void loadLanguages(File file) {
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line = br.readLine();
-            if (line == null) return;
+            if (line == null)
+                return;
 
             int n = Integer.parseInt(line.trim());
             for (int i = 0; i < n; i++) {
                 String lang = br.readLine();
-                if (lang == null) break;
+                if (lang == null)
+                    break;
+
                 lang = lang.trim();
-                if (lang.isEmpty()) continue;
+                if (lang.isEmpty())
+                    continue;
                 languagesOrder.add(lang);
                 languagesSet.add(lang);
             }
@@ -323,14 +318,18 @@ public class Tema1 {
     static void loadCategories(File file) {
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line = br.readLine();
-            if (line == null) return;
+            if (line == null)
+                return;
 
             int n = Integer.parseInt(line.trim());
             for (int i = 0; i < n; i++) {
                 String cat = br.readLine();
-                if (cat == null) break;
+                if (cat == null)
+                    break;
                 cat = cat.trim();
-                if (cat.isEmpty()) continue;
+
+                if (cat.isEmpty())
+                    continue;
                 categoriesOrder.add(cat);
                 categoriesSet.add(cat);
             }
@@ -343,14 +342,20 @@ public class Tema1 {
     static void loadLinkingWords(File file) {
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             String line = br.readLine();
-            if (line == null) return;
 
+            if (line == null)
+                return;
             int n = Integer.parseInt(line.trim());
+
             for (int i = 0; i < n; i++) {
                 String w = br.readLine();
-                if (w == null) break;
+
+                if (w == null)
+                    break;
                 w = w.trim().toLowerCase();
-                if (w.isEmpty()) continue;
+
+                if (w.isEmpty())
+                    continue;
                 linkingWords.add(w);
             }
         } catch (Exception e) {
@@ -360,7 +365,9 @@ public class Tema1 {
     }
 
     static String normalizeCategoryName(String categoryName) {
-        if (categoryName == null) return "";
+        if (categoryName == null)
+            return "";
+
         String noCommas = categoryName.replace(",", "");
         String trimmed = noCommas.trim();
         return trimmed.replaceAll("\\s+", "_");
@@ -405,7 +412,7 @@ public class Tema1 {
         for (String lang : languagesOrder) {
             Set<String> uuids = languageToUUIDs.get(lang);
             if (uuids == null || uuids.isEmpty()) {
-                // PDF: daca nu exista articole pentru limba respectiva, nu generam fisier
+                // daca nu exista articole pentru limba respectiva, nu generam fisier
                 continue;
             }
 
@@ -434,20 +441,22 @@ public class Tema1 {
     }
 
     static void generateKeywordsFile() {
+        // extragem cuvintele si le sortam alfabetic
         List<String> words = new ArrayList<>(keywordCount.keySet());
         Collections.sort(words);
+
         List<Map.Entry<String,Integer>> entries = new ArrayList<>();
         for (String w : words) {
             entries.add(Map.entry(w, keywordCount.get(w)));
         }
 
         Collections.sort(entries, (a, b) -> {
-            int cmp = Integer.compare(b.getValue(), a.getValue());  // count descrescător
+            int cmp = Integer.compare(b.getValue(), a.getValue());  // count descrescator
             if (cmp != 0) return cmp;
-            return a.getKey().compareTo(b.getKey()); // lexicografic crescător
+            return a.getKey().compareTo(b.getKey()); // lexicografic crescator
         });
 
-
+        // scierea rezultatelor in keywords_count.txt
         try (BufferedWriter bw = new BufferedWriter(new FileWriter("keywords_count.txt"))) {
             for (Map.Entry<String, Integer> e : entries) {
                 bw.write(e.getKey());
@@ -504,7 +513,7 @@ public class Tema1 {
             bw.write("top_language - " + bestLang + " " + bestLangCount);
             bw.newLine();
 
-            // top_category (folosim numele normalizat in output)
+            // top_category
             String bestCat = "-";
             int bestCatCount = 0;
             for (String cat : categoriesOrder) {
@@ -585,7 +594,6 @@ public class Tema1 {
             return;
         }
 
-        // args[1] = path către articles.txt
         String articlesListPath = args[1];
         File articlesListFile = new File(articlesListPath);
 
@@ -598,13 +606,12 @@ public class Tema1 {
 
         try (BufferedReader br = new BufferedReader(new FileReader(articlesListFile))) {
 
-            // Prima linie: număr de fișiere JSON
             int n = Integer.parseInt(br.readLine().trim());
 
             for (int i = 0; i < n; i++) {
                 String relPath = br.readLine().trim();
 
-                // Construim absolut calea pornind de la directorul lui articles.txt
+                // Construim calea pornind de la directorul lui articles.txt
                 File resolved = new File(articlesListFile.getParentFile(), relPath).getCanonicalFile();
 
                 if (!resolved.exists()) {
@@ -619,9 +626,6 @@ public class Tema1 {
             e.printStackTrace();
             return;
         }
-
-        System.out.println("Fisiere JSON pentru test: " + jsonInputFiles.size());
-        for (String f : jsonInputFiles) System.out.println(" - " + f);
 
         String inputsPath = args[2];
         loadAuxFiles(inputsPath);
@@ -657,8 +661,6 @@ public class Tema1 {
                 } catch (InterruptedException e) {}
             }
         }
-
-        System.out.println("Workeri creati si porniti: " + numThreads);
 
         // FAZA 2 - procesarea articolelor unice
         tasksRemaining.set(jsonInputFiles.size());
